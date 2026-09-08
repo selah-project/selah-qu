@@ -118,8 +118,8 @@
             {:git
              {:repo "selah-project/selah-qu",
               :ref "v1-final",
-              :commit nil,
-              :tags [],
-              :branches []},
+              :commit "fb8a3ba7",
+              :tags ["v1-final"],
+              :branches ["main"]},
              :parents []},
             :lang :qu}

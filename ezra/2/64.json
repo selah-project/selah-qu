@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Llapa huñusqaqa huk hinam ⟨kan⟩: tawa chunka waranqa iskay waranqa kimsa pachak suqta chunkam.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "huñusqa"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "huk hina"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "chunka waranqa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iskay waranqa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "suqta chunka"
+    }
+  ],
+  "timestamp": "2026-09-08T12:10:12.107275256Z",
+  "model": "glm-5.3"
+}

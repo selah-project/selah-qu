@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Ezer ñawpaq kaqmi, Ovadya iskay ñiqinmi, Eliab kimsa ñiqinmi.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ñawpaq kaqmi"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Ovadya"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay ñiqinmi"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "kimsa ñiqinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:40:13.756074068Z",
+  "model": "glm-5.3"
+}

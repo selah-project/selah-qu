@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "¿Kay hallp'akunap llapan diosninkunamanta pis, paykunap hallp'anta ⟨את⟩ makiymanta qispichiq karqanchu? ¿Chayqa Yahwem ⟨את⟩ Yerushalayimta (Jerusalén) makiymanta qispichinqachu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pis"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan ... manta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "diosninkuna"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "hallp'akunap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "qispichiq karqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paykunap hallp'anta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "paykunap hallp'anta"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "makiymanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "qispichinqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimta"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "makiymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:19:19.889952525Z",
+  "model": "glm-5.3"
+}

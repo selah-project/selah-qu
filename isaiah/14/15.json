@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Ichataq Sheolman urmachikunki, hurq'upa ukhu manyakunaman.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ichataq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "urmachikunki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ukhu manyakunaman"
+    },
+    {
+      "surface": "בור",
+      "gloss": "hurq'u"
+    }
+  ],
+  "timestamp": "2026-09-08T06:00:34.814076187Z",
+  "model": "glm-5.3"
+}

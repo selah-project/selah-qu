@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 93,
+  "translation": "Tiyanayki sayachisqa kachkanmi qallariymantapacha; qammi wiñaymanta kanki ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "sayachisqa kachkanmi"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "tiyanayki"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "qallariymantapacha"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "wiñaymanta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:00.366880497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Qammi, Yahwe, qampa llakikuyykiqa ñuqamanta mana hark'ankichu; jesedniykiwan cheqayniykiwanqa wiñaypaq ñuqata waqaychankumi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "hark'ankichu"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "qampa llakikuyyki"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniykiwan"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "cheqayniykiwan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ñuqata waqaychankumi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:29.445956163Z",
+  "model": "glm-5.3"
+}

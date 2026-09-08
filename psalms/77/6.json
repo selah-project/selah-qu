@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Ñawpa p'unchawkunata yuyarqanim, wiñay hint'i watakunatawan.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "yuyarqanim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkunata"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ñawpa"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "watakunatawan"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "wiñay hint'i"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:27.028965474Z",
+  "model": "glm-5.3"
+}

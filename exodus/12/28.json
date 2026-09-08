@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Riykurqankum Israel wawankuna, ruwarqankum Yahwe kamachisqan hina ⟨את⟩ Moshe (Moisés) hinaspa Aharon (Aarón) reqsisqata; chaynintam ruwarqanku.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Riykurqankum"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqankum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamachisqan hina"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachisqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "hinaspa Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayninta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ruwarqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:15.330331851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaysi ayllup kurakakunaqa Yahwepa ñawpaqninpi ⟨את⟩ makiykinta turopa uman churankumi; chaysi Yahwepa ñawpaqninpi ⟨את⟩ turuta wañuchinmi.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "churankumi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kurakakuna"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ayllup"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makiykinta"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "makiykinta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ipi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uman"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "turopa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "wañuchinmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turuta"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "turuta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T00:52:18.780988863Z",
+  "model": "glm-5.3"
+}

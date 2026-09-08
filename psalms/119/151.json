@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Qammi qaylla kanki, Yahwe; hinallataq llapan kamachiykunaqi cheqa⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "qaylla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinallataq llapan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kamachiykunaqi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:44.918076469Z",
+  "model": "glm-5.3"
+}

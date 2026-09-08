@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa Bilammi ⟨את⟩ ñawinkunata hurqarqan, hinaspa ⟨את⟩ Israelta qhawarqan ayllunkunampa chawpinpi tiyaqta; hinaspa Elohimpam samaynin paypi tukurqan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "hurqarqan"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawinkunata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ñawinkunata"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "tiyaqta"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "ayllunkunampa chawpinpi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "samaynin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:10:58.838158827Z",
+  "model": "glm-5.3"
+}

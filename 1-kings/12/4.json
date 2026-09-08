@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Taytayki ⟨את⟩ ñuqaykupa yugunta sinchichirqan; qamtaq kunan pisiyachiy taytaykipa serviciyun sinchita, hinaspa chay llasaq yugunmanta ñuqaykupa ñawpaqchurasqata, chayqa qamta servinqaku.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "taytayki"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sinchichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yugunta (ñuqaykupa)"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "yugun"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "pisiyachiy"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "serviciyumanta"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytaykipa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sinchita"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "hinaspa yugunmanta"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "llasaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqaykupa ñawpaqpi"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "chayqa qamta servinqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T05:10:36.098167653Z",
+  "model": "glm-5.3"
+}

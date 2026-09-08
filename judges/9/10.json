@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa sach'akunaqa tikasaman nirqankum: Hamuy, qammi ñuqanchikpa patanpi apu kay.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "hinaspa nirqankum"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "sach'akunaqa"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "tikasaman"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hamuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "qam"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apu kay"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqanchikpa patanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:44:33.970093840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Kaymi paypa mana-allin kaynin paypa yawarninpi: sichus paypa aychan paypa ⟨את⟩ yawarninta lluqsiyta saqin, utaq paypa aychan paypa yawarninwan wichq'akun, chaymi paypa mana-allin kaynin.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "…lla"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "paypa mana-allin kaynin"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "paypa yawarninpi"
+    },
+    {
+      "surface": "רר",
+      "gloss": "lluqsiyta saqin"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "paypa aychan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yawarninta"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "paypa yawarninta"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "wichq'akun"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "paypa aychan"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "paypa yawarninwan"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "paypa mana-allin kaynin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chaymi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:59:46.476305369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaynata Yahwem ninmi: «Kay wayq'opi jawk'akunata, jawk'akunata ruway».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruway"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "kay-wayq'opi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "jawk'akunata"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "jawk'akunata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:25:30.048488684Z",
+  "model": "glm-5.3"
+}

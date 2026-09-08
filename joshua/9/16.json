@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 9:16",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Kimsa p'unchaw puchukayninpi paykunawan berit kamachisqanku qhipamantam, uyarianminku paykuna qayllapi kashqankuta, paykunap chawpinpi tiyakushqankutawan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "puchukayninpi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipamanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamachisqanku"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "berit kamachisqanku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunawan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "uyarianminku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ta"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "qayllapi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kashqankuta"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "paykunap chawpinpi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "tiyakushqankuta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:16:41.162713979Z",
+  "model": "glm-5.3"
+}

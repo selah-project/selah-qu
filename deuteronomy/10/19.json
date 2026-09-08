@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chayrayku ⟨את⟩ wak llaqtamanta hamuqta kuyay, imarayku qamkuna wak llaqtamanta hamuq karqankichik Mitsrayim (Egipto) hallp'api.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "kuyay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wak llaqtamanta hamuqta"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wak llaqtamanta hamuqta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "wak llaqtamanta hamuq"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "karqankichik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    }
+  ],
+  "timestamp": "2026-09-08T02:36:41.922753286Z",
+  "model": "glm-5.3"
+}

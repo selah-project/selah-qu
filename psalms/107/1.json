@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Yahweman yupaychaychiq: allinmi, wiñaypaqmi jesednin.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "yupaychaychiq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:01.279103925Z",
+  "model": "glm-5.3"
+}

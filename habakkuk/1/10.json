@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 1:10",
+  "book": "habakkuk",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymi payqa apukunata asirqakunmi; hatun kamachikuqkunaqtaq asikuyninmi; sapa pukarataq asinmi; hinaspa tuqtuta huñispami chaptin.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "chaymi payqa"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "apukunata"
+    },
+    {
+      "surface": "יתקלס",
+      "gloss": "asirqakunmi"
+    },
+    {
+      "surface": "ורזנים",
+      "gloss": "hatun kamachikuqkunataq"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "asikuynin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "pukarataq"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "asinmi"
+    },
+    {
+      "surface": "ויצבר",
+      "gloss": "hinaspa huñispa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tuqtuta"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "chaptin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:08:45.028566748Z",
+  "model": "glm-5.3"
+}

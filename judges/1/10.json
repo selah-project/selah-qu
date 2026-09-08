@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspataq Yahuda Khevronpi tiyaq Kanaan runaman rirqan — Khevronpa suti ñawpaqta Kiryat-Arba ⟨karqan⟩ — hinaspataq Sheshita, Ajimantawan, Talmintawan maqarqanku.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "runaman"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Khevronpi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevronpa"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "maqarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshita"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Ajimanta"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ajiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Talminta"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:32:14.989248400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 45:16",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Llapanmi p'inqakunqaku, llapanpas ch'akikapunqaku; kuskalla p'inqayman purirqanku rurasqa dioskunata ruraqkuna.",
+  "tokens": [
+    {
+      "surface": "בושו",
+      "gloss": "p'inqakunqaku"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "llapanpas"
+    },
+    {
+      "surface": "נכלמו",
+      "gloss": "ch'akikapunqaku"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "llapanmi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kuskalla"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "בכלמה",
+      "gloss": "p'inqayman"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "ruraqkuna"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "rurasqa dioskunata"
+    }
+  ],
+  "timestamp": "2026-09-08T06:28:45.929878269Z",
+  "model": "glm-5.3"
+}

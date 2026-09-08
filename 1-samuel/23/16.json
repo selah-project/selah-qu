@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Yehonatan, Shaulpa churin, sayarirqanmi, Davidman sach'a-sach'aman chaqpurqan; payta ⟨את⟩ makinanta Elohimwan sinch'ichirqan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqanmi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulpa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "chaqpurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Davidman"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "sach'a-sach'aman"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "sinch'ichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makinanta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makinanta"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimwan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:22:59.919073880Z",
+  "model": "glm-5.3"
+}

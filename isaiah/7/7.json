@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chayhinam Adonay Yahwe nirqan: manam sayariqchu, manam kanqachu.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Chayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sayariqchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:52:16.409567062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 111,
+  "translation": "Qispichiyta kacharqanmi runanman; beritninta (pactonta) wiñaypaq kamachirqanmi; santom, mancharichiqmi ⟨kan⟩ sutin.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "qispichiyta"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kacharqanmi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "runanman"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqanmi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "beritninta"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santom"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "mancharichiqmi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sutin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:38.993740487Z",
+  "model": "glm-5.3"
+}

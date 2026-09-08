@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Qhaway: hanaq pachamanta ninam urmamurqan, ⟨את⟩ iskay ñawpaq kanchaq chunka umalliqkunata hinaspa ⟨את⟩ kanchaqninkunatawan mikhurqan; kunanqa ñuqap kawsayy qamp ñawiykipi chaniyuq kachun.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "urmamurqan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mikhurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iskay ñawpaq kanchaq chunka umalliqkunata"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqkuna"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "kanchaq chunka"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ñawpaqkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kanchaqninkunata"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "kanchaqninku"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kunanqa"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "chaniyuq"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap kawsayy"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "qamp ñawiykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:25:06.354147017Z",
+  "model": "glm-5.3"
+}

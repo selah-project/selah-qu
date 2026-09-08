@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 144,
+  "translation": "Ñuqap jesedniy, ñuqap fortalezay, ñuqap wask'ay, ñuqap qispichikuwy; ñuqap escudo Y ⟨paypi⟩ pakillakuni; paymi ñuqap runakunata ñuqap urapi ñit'in.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Ñuqap jesedniy"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ñuqap fortalezay"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ñuqap wask'ay"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ñuqap qispichikuwy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "escudo"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "⟨paypi⟩"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "pakillakuni"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "paymi ñit'in"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqap runakunata"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ñuqap urapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:35.941769445Z",
+  "model": "glm-5.3"
+}

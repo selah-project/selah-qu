@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Sapallam paymi ñuqap rumiy, ñuqap qespichiywan, ñuqap hark'anaypas; manam sinchita sarunchakusaqchu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sapalla"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ñuqap rumiy"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ñuqap qespichiywan"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ñuqap hark'anay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarunchakusaqchu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "sinchita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:56.137753692Z",
+  "model": "glm-5.3"
+}

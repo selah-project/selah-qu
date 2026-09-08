@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Mishkanniytawan churasaqmi ñuqap k'itikichikpa chawpinpi, manañachus Nefeshniy ⟨את⟩ qamkunata tikrachikunchu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "churasaqmi"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mishkanniytawan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "k'itikichikpa chawpinpi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mañachus"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "tikrachikunchu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniy"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:08.949716933Z",
+  "model": "glm-5.3"
+}

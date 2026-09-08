@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 47:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Parom paypa wawqenkunaman nin: «Imataq llamk'aykichik?» Paymanta Paroman ninku: «Qamkip uywakuna michiqmi kanchik — ñuqaykupas, taytaykunaykupas».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqenkunaman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "llamk'aykichik"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ninku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "michiq"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "uywakuna"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qamkip"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-pas"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñuqayku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-pas"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "taytaykunayku"
+    }
+  ],
+  "timestamp": "2026-09-08T00:18:19.557802701Z",
+  "model": "glm-5.3"
+}

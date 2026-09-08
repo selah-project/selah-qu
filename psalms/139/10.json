@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Chaypipas makiyki ñuqata pusawashawanmi, paña makiykiwan ñuqata chaplapuwashawan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chaypipas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ñuqata pusawashawan"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "ñuqata chaplapuwashawan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "paña makiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:53.111682316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Llapan ch'usaqchasqanpa p'unchawkunanta saminqa ⟨את⟩ chayta — mana Shabatniykichikpi samirqachuta —, qamkuna chaypi tiyakusqaykichikpi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkunanta"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ch'usaqchasqanpa"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "saminqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chayta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "samirqachu"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "Shabatniykichikpi"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "tiyakusqaykichikpi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:13:03.370959651Z",
+  "model": "glm-5.3"
+}

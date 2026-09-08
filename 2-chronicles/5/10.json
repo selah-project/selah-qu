@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Arkapi mana imapas kanchu; iskay lujokunallan, chasqa Moshe (Moisés) Chorebpi churarqan, chasqa Yahwem Israelpa wawankunawan kuchurqan, Mitsrayimmanta lluqsikusqankuypi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "arkapi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "llan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "lujokuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chasqa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Chorebpi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chasqa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kuchurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "lluqsikusqankuypi"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:56:42.970392268Z",
+  "model": "glm-5.3"
+}

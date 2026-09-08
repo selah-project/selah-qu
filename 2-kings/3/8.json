@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ñirqan: «¿May ñanmantam huqasun?» Ñirqantaq: «Edompa ch'usaq pampap ñanmanta.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ñirqan"
+    },
+    {
+      "surface": "אי",
+      "gloss": "may"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ñanta"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "huqasun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ñirqantaq"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ch'usaq pampap"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edompa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:25:23.792701943Z",
+  "model": "glm-5.3"
+}

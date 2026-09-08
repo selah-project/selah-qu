@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Imaraykuchus qhaway: mana allin runakuna arconta t'aqllanku, flechankunata churanku watur pataman, ch'isipi flechakunanpaq, sunqu allin runakunata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "mana allin runakuna"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "t'aqllanku"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arco"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "churanku"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "flechankunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "pataman"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "watur"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "flechakunanpaq"
+    },
+    {
+      "surface": "במו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "ch'isipi"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "allin sunquyuq"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:04.693291156Z",
+  "model": "glm-5.3"
+}

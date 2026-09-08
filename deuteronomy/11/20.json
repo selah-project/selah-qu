@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa wasiykichikpa punku sayaykunapi, punkuykichi Kunanchakunapipas qillqanki.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "qillqanki"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "punku sayaykunapi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wasiykichi(pa)"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "punkuykichi Kunanchakunapipas"
+    }
+  ],
+  "timestamp": "2026-09-08T02:36:55.245959397Z",
+  "model": "glm-5.3"
+}

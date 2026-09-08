@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 38:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Kawsayniq t'aqasqa karqanmi, michiqpa wasin hina ñuqamanta apasqa; awaq hina kawsayniyta huñurqanim; p'acha t'inkimanta ñuqata kuchun; p'unchawmanta tuta kaman ñuqata puchukachinkim.",
+  "tokens": [
+    {
+      "surface": "דורי",
+      "gloss": "kawsayniq"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "t'aqasqa karqanmi"
+    },
+    {
+      "surface": "ונגלה",
+      "gloss": "apasqa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "wasin hina"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "michiqpa"
+    },
+    {
+      "surface": "קפדתי",
+      "gloss": "huñurqanim"
+    },
+    {
+      "surface": "כארג",
+      "gloss": "awaq hina"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kawsayniyta"
+    },
+    {
+      "surface": "מדלה",
+      "gloss": "p'acha t'inkimanta"
+    },
+    {
+      "surface": "יבצעני",
+      "gloss": "ñuqata kuchun"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "p'unchawmanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kaman"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "תשלימני",
+      "gloss": "ñuqata puchukachinkim"
+    }
+  ],
+  "timestamp": "2026-09-08T06:16:42.317436167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 15:1",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Yaravam (Jeroboam) apu, Nat (Nabat) churin, kamachisqan pusaq chunka pichqa watanpi, Aviyammi (Abiyam) Yehudapi kamachirqan.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "watanpi"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "pusaq"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "Aviyam"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-08T13:41:49.628183810Z",
+  "model": "glm-5.3"
+}

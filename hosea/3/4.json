@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Imaraykuchus askha p'unchawkuna Israelpa wawankuna tiyanqaku: mana apuyuq, mana kamachikuqyuq, mana korbanwan, mana sayawanatawan, mana efodwan, mana terafimwan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tiyanqaku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kamachikuq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "sayawana"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "hinaspa terafim"
+    }
+  ],
+  "timestamp": "2026-09-08T08:46:46.845322745Z",
+  "model": "glm-5.3"
+}

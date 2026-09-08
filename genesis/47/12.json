@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Yosef ⟨את⟩ taytanta, ⟨את⟩ wawqinkunatapas, ⟨את⟩ taytan wasinkunatawan t'antawan uywachirqanm, wawakunap siminman hina.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "uywachirqanm"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytanta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawqinkunatapas"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqinkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "taytan wasinkunatawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'antawan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "siminman hina"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "wawakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:16:02.329578220Z",
+  "model": "glm-5.3"
+}

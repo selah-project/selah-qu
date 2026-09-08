@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "Kayqa ñuqap samaywasiy, wiñay wiñaykama; kaypi tiyasaqmi, chaytam munarqani.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kayqa"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "ñuqap samaywasiy"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kaypi"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "tiyasaqmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "chaytam munarqani"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:34.622507564Z",
+  "model": "glm-5.3"
+}

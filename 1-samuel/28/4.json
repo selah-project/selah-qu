@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinaspa Pelishtimkunam huñikuspa hamurqanku, Shunempi makhnayta churarqanku; Shaulmi ⟨את⟩ llapan Israelta huñurqan, hinaspa Gilboapi makhnayta churarqanku.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "huñikuspa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtimkuna"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hamurqanku"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "makhnayta churarqanku"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "Shunempi"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "huñurqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan Israelta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "makhnayta churarqanku"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "Gilboapi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:30:16.358965010Z",
+  "model": "glm-5.3"
+}

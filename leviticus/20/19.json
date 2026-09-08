@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 20:19",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa mamaykip paninpa ichikusqanta, taytaykip paninpa ichikusqantawan ama ichikunkichu; ayllo ichikusqa rayku, huchankunta chaskinqakum.",
+  "tokens": [
+    {
+      "surface": "וערות",
+      "gloss": "hinaspa ichikusqanta"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "paninpa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mamaykip"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "hinaspa paninpa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytaykip"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ichikunkichu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayllunta"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "ayllunta"
+    },
+    {
+      "surface": "הערה",
+      "gloss": "ichikusqa"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "huchankunta"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "chaskinqakum"
+    }
+  ],
+  "timestamp": "2026-09-08T01:07:39.922717911Z",
+  "model": "glm-5.3"
+}

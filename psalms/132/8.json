@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "Sayariy, Yahwe, samay wasiykiman; qam, hinaspa ⟨את⟩ atiy Aronniykita.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "samay wasiykiman"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "hinaspa Aronniyki"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "atiyniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T15:31:25.431755161Z",
+  "model": "glm-5.3"
+}

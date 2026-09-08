@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "El ⟨kan⟩mi manchachikuq willkakunap hatun sodninpi ⟨huñunakuyninpi⟩, hinaspa llapa paypa muyuriqninkunap patanpi manchachikuqmi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "manchachikuqmi"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "sodninpi"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "willkakunap"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "hinaspa manchachikuqmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "paypa muyuriqninkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:57.139981095Z",
+  "model": "glm-5.3"
+}

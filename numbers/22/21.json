@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Bilam (Balaam)mi t'ikray p'unchawpi sayarirqan, hinaspa ⟨את⟩ burranta takyachirqan, hinaspa Moav (Moab)pa umalliqninkunawan purirqan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "t'ikray p'unchawpi"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "takyachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burranta"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "burranta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    }
+  ],
+  "timestamp": "2026-09-08T01:37:20.880904962Z",
+  "model": "glm-5.3"
+}

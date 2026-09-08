@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Chayhina Yahwem nirqan: sichus qamkuna ⟨את⟩ Beritniyta p'unchawpa, hinaspa ⟨את⟩ Beritniyta tutapa t'ikruwaq chayqa, ama p'unchaw tutawan kawsanankupaq pachankunapipas.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "t'ikruwaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritniyta p'unchawpa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritniyta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchawpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Beritniyta tutapa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritniyta"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tutapa"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "ama ... kawsanankupaq"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kawsay"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "tutawan"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "pachankunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T07:24:35.977747325Z",
+  "model": "glm-5.3"
+}

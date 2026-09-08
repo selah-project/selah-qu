@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "hinaspa ⟨את⟩ Bet Tsurta, hinaspa ⟨את⟩ Sokota, hinaspa ⟨את⟩ Adulamta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Bet Tsurta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsurta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Sokota"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Sokota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Adulamta"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulamta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:58:33.692137958Z",
+  "model": "glm-5.3"
+}

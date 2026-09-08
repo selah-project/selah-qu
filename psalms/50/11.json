@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Llapan orqokunap p'isqukunanrata riqsinimi, chakrapa sallqa uywakunapas ñuqawanmi.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "riqsini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "p'isqukuna"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "orqokunap"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "sallqa uywakunapas"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "chakra"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ñuqawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:35.743045936Z",
+  "model": "glm-5.3"
+}

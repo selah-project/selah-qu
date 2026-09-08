@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 17:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chaqna kanqam, imahina chaqlluq willkuruqta huñeptin, paypa makinninwan shiblulukunata chaqlluspa; chaqna kanqam, Refaim wayq'opi shiblulukunata pallaq runa hina.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Chaqna kanqam"
+    },
+    {
+      "surface": "כאסף",
+      "gloss": "imahina chaqlluq willkuruqta huñeptin"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "chaqllusqa"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "sayarisqa"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "paypa makinninwan"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "shiblulukunata"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "chaqlluspa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chaqna kanqa"
+    },
+    {
+      "surface": "כמלקט",
+      "gloss": "imahina pallaq runa hina"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "shiblulukunata"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "wayq'opi"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    }
+  ],
+  "timestamp": "2026-09-08T06:05:05.108679312Z",
+  "model": "glm-5.3"
+}

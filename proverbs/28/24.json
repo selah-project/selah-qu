@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Taytanta hinaspa mamanta suwaq runa, 'mana p'akichikuy kanchi' nispa, chiqniq runap masinmi.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "suwaq"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanta"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "hinaspa mamanta"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana ... kanchi"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "p'akichikuy"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "masin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "runap"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "chiqniq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:53:34.289705173Z",
+  "model": "glm-5.3"
+}

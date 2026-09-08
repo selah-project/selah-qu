@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa sichus kay kimsantin mana ruwasqaptin payman, q'ala lluqsinqam, mana qullqiwanllu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Hinaspa sichus"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kimsantin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwasqaptin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "lluqsinqam"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "q'ala"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqiwanllu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:19.668425593Z",
+  "model": "glm-5.3"
+}

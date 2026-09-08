@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 4:9",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Eloahpa samayninmanta chinkankum, hinaspa sinqanpa wayranmanta tukupunkum.",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "samayninmanta"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloahpa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "chinkankum"
+    },
+    {
+      "surface": "ומרוח",
+      "gloss": "wayranmanta hinaspa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sinqanpa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "tukupunkum"
+    }
+  ],
+  "timestamp": "2026-09-08T10:56:20.247068830Z",
+  "model": "glm-5.3"
+}

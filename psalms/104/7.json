@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Qampa sipasqaykimanta pawanmanku, qampa ch'uspichayniykipaq chakiykimanta utqhaylla ayqinkum.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "qampa sipasqayki"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "pawanmanku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "chakiykimanta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ch'uspichayniykipaq"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "qampa ch'uspichayniyki"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "utqhaylla ayqinku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:27.985105095Z",
+  "model": "glm-5.3"
+}

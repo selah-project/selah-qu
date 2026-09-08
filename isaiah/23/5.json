@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Mitsrayim (Egipto) willakuyta uyariptin hina, llakikunku Willakuyta uyariptinqa Tsiyor (Tiro) raykum.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "willakuyta"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "llakikunku"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "willakuyta uyariptinqa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsiyor"
+    }
+  ],
+  "timestamp": "2026-09-08T06:07:38.112840037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Tukiwankichikmi ch'aki qorata, wachawankichikmi q'emer qorata; samaykichik nina hina mikhuwankichik.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "Tukiwankichik"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "ch'aki qora"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "wachawankichik"
+    },
+    {
+      "surface": "קש",
+      "gloss": "q'emer qora"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "samaykichik"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "mikhuwankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T06:11:11.016497959Z",
+  "model": "glm-5.3"
+}

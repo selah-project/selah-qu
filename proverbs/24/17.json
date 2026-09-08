@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Awqayki urmarqanmanta ama k'usikuychu, hinaspa pay sarunarqanmanta ama sunquyki k'usikunchu.",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "urmarqanmanta"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "awqayki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "k'usikuychu"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "hinaspa pay sarunarqanmanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "k'usikunchu"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sunquyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:50:06.881311338Z",
+  "model": "glm-5.3"
+}

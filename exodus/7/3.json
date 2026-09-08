@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ñuqataqmi ⟨את⟩ Paropa (Faraón) sonqonta sinchichisaq, hinaspa ⟨את⟩ unanchayniykunatawan, ⟨את⟩ milagrokunaynatawan Mitsrayimpi (Egipto) askhachasaqmi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ñuqataqmi"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "sinchichisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paropa sonqonta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sonqon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "hinaspa askhachasaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unanchayniykunata"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "unanchayniy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "milagrokunaynata"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "milagrokunay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:59:33.858928946Z",
+  "model": "glm-5.3"
+}

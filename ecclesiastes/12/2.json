@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Ñawpaqta, mana inti, k'anchay, killa, quyllurkunapas tutaykanqakuchu, hinaspa phuyukuna para qhipanta kutimunqakuchu.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ñawpaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "tutaykanqakuchu"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "hinaspa k'anchay"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "hinaspa killa"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "hinaspa quyllurkunapas"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "hinaspa kutimunqaku"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "phuyukuna"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qhipanta"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "para"
+    }
+  ],
+  "timestamp": "2026-09-08T11:45:42.251916167Z",
+  "model": "glm-5.3"
+}

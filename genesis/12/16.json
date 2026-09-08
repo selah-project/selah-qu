@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Abramtaq payrayku allinta rurawarqanku; paymanmi karqan uwijakuna, wakakuna, qhari burrukuna, qhari yanapaqkuna, warmi yanapaqkuna, china burrukuna, hinaspa kamelyukuna.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "Abramtaq"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "allinta rurawarqanku"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "payrayku"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "uwijakuna"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "wakakuna"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "qhari burrukuna"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "qhari yanapaqkuna"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "warmi yanapaqkuna"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "china burrukuna"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "kamelyukuna"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:18.724446091Z",
+  "model": "glm-5.3"
+}

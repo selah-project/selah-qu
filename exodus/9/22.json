@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 9:22",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yahwem Mosheman nirqan: Makiykita hanaq pachaman mast'ariy, chaymanta chiqam Mitsrayim hallp'apin chukcham unanchakunqa, runakunapim, uywakunapim, chakrap t'ikakunapinpas Mitsrayim hallp'api.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "mast'ariy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makiykita"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykita"
+    },
+    {
+      "surface": "על",
+      "gloss": "pachaman"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "chaymanta kanqa"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "chukcha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "pim"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runakunapim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa...pim"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "uywakunapim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa...pipas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "t'ikakunapin"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chakrap"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:00.639458438Z",
+  "model": "glm-5.3"
+}

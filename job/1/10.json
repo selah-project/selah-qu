@@ -1,0 +1,81 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "job 1:10",
+ "book": "job",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "¿Manachu qam payta, wasinta hinallataq llapa paypa kaqta muyuriqninpi wasqarqanki? Paypa makikunap rurayninta bendijirqanki, hinaspa uywakunan hallp'api mast'arikurqan.",
+ "tokens": [
+  {
+   "surface": "הלא",
+   "gloss": "Manachu"
+  },
+  {
+   "surface": "את",
+   "gloss": "qam"
+  },
+  {
+   "surface": "שכת",
+   "gloss": "wasqarqanki"
+  },
+  {
+   "surface": "בעדו",
+   "gloss": "payta"
+  },
+  {
+   "surface": "ובעד",
+   "gloss": "hinallataq"
+  },
+  {
+   "surface": "ביתו",
+   "gloss": "wasinta"
+  },
+  {
+   "surface": "ובעד",
+   "gloss": "hinallataq"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kaqta"
+  },
+  {
+   "surface": "לו",
+   "gloss": "paypa"
+  },
+  {
+   "surface": "מסביב",
+   "gloss": "muyuriqninpi"
+  },
+  {
+   "surface": "מעשה",
+   "gloss": "ruraynin"
+  },
+  {
+   "surface": "ידיו",
+   "gloss": "paypa makinkuna"
+  },
+  {
+   "surface": "ברכת",
+   "gloss": "bendijirqanki"
+  },
+  {
+   "surface": "ומקנהו",
+   "gloss": "hinaspa uywakunan"
+  },
+  {
+   "surface": "פרץ",
+   "gloss": "mast'arikurqan"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "hallp'api"
+  }
+ ],
+ "timestamp": "2026-09-08T10:56:59.435303428Z",
+ "model": "glm-5.3"
+}

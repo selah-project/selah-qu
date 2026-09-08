@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 22:15",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa ñuqam ⟨את⟩ qamta genteskunaman soq'asaqki, hallp'a-kunaman t'aqasaqki, hinaspa qampa millaykita qam manta chinkachisaqki.",
+  "tokens": [
+    {
+      "surface": "והפיצותי",
+      "gloss": "soq'asaqki"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "qamta"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "genteskunaman"
+    },
+    {
+      "surface": "וזריתיך",
+      "gloss": "t'aqasaqki"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "hallp'a-kunaman"
+    },
+    {
+      "surface": "והתמתי",
+      "gloss": "chinkachisaqki"
+    },
+    {
+      "surface": "טמאתך",
+      "gloss": "qampa millaykita"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "qam manta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:13:36.129744420Z",
+  "model": "glm-5.3"
+}

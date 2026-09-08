@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Hinaspam paypa mayunkuna zetaman t'ikranqaku, paypa aphran azufreman t'ikranqa; paypa hallp'an ruphaq zetaman t'ikranqam.",
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "hinaspam t'ikranqaku"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "paypa mayunkuna"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "zetaman"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "paypa aphran"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "azufreman"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "hinaspa kanqa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "paypa hallp'an"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "ruphaq zetaman"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ruphaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:17:21.912983204Z",
+  "model": "glm-5.3"
+}

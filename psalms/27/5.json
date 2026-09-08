@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Chayrayku Yahwem mana allin p'unchawpi sukunapi pakawanmi, wasinpakuna pakana ukhupi pakawanmi, rumipi hatarichinwanmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chayrayku"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "pakawanmi"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "sukunapi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "pakawanmi"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "pakana ukhupi"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "wasinpakuna"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "rumipi"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "hatarichinwanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:34.649860971Z",
+  "model": "glm-5.3"
+}

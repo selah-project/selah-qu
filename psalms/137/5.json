@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 137,
+  "translation": "Sichus qamta qunqasaq, Yerushalayim (Jerusalén), ñuqap paña makiy qunqachun ⟨kikinmanta⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "qamta qunqasaq"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "qunqachun"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ñaqap paña makiy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:23.389908266Z",
+  "model": "glm-5.3"
+}

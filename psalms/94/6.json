@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Widowata, musuq hamuqtawan wañuchinku, hinaspa mama-nnayuq mana k'aqta sipinku.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "widowata"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "hinaspa musuq hamuqta"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "wañuchinku"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "hinaspa mama-nnayuq mana k'aqta"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "sipinku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:43.583174938Z",
+  "model": "glm-5.3"
+}

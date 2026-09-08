@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yehudap tukuy llaqtankunamanta ⟨את⟩ hanan chinakunata, ⟨את⟩ inti unanchakunatawan hurqurqan; chaymanta mamallaqtam paypa ñawpaqninpi thakillayasqam tukurqan.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tukuy…manta"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "llaqtankuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanan chinakunata"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "hanan chinakuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "inti unanchakunata"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "inti unanchakuna"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "thakillayasqam tukurqan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mamallaqta"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "paypa ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:03:56.437885350Z",
+  "model": "glm-5.3"
+}

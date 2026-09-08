@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chayqa llawq'akunam ⟨את⟩ pachap ñawinta hunt'achinqaku, manam ⟨את⟩ pachata qhawayta atikunchu; hinaspa ⟨את⟩ qispisqata, chikikuramanta qampaq saqisqata, mikhusqaku; hinaspa ⟨את⟩ llapan sach'akunatapas, chakrapi qampaq wiñaqtakunata, mikhusqaku.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "hunt'achinqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pachap ñawinta"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ñawi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pachap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "atikunchu"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "qhawayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pachata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mikhusqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qispisqata"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "saqisqa"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "qispisqa"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "saqisqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "chikikuramanta"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "chikikura"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mikhusqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sach'akuna"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "wiñaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "chakramanta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chakra"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:47.205760897Z",
+  "model": "glm-5.3"
+}

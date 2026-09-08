@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 97,
+  "translation": "Urqukunam dumbu hina Yahwep ñawpaqpi, tukuy hallp'ap Adonaypa ñawpaqpipi, wiykurqanmi.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "urqukuna"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "dumbu hina"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "wiykurqanmi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonaypa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:07.988050967Z",
+  "model": "glm-5.3"
+}

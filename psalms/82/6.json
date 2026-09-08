@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 82,
+  "translation": "Ñuqam nirqani: qamkuna dioskunam kankichik, Elyonpa churinkuna, llapanqam kankichik.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonpa"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "llapanqam"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:16.016916364Z",
+  "model": "glm-5.3"
+}

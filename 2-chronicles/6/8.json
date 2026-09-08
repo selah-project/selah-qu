@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 6:8",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Yahwem David taytayman nirqan: «Sunquykiwan karqan rayku wasita Sutiypan ruwanaykipaq, allintam ruwarqanki, sunquykiwan karqan raykum.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytay"
+    },
+    {
+      "surface": "יען",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sunquyki"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ruwanaykipaq"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "Sutiypan"
+    },
+    {
+      "surface": "הטיבות",
+      "gloss": "allintam ruwarqanki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raykum"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sunquyki"
+    }
+  ],
+  "timestamp": "2026-09-08T14:40:34.247785341Z",
+  "model": "glm-5.3"
+}

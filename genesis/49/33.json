@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Yaakov (Jacob) ⟨את⟩ churinkunanta kamachiyta tukuchirqanmi, chakinkunata wamanaman huñirqanmi, samayninta qarqurqanmi, hinaspa runayninninman huñikurqanmi.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "tukuchirqanmi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov (Jacob)"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "kamachiyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churinkunanta"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunanta"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "huñirqanmi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "chakinkunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "wamanaman"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "samayninta qarqurqanmi"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "huñikurqanmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "runayninninman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:18:04.963121889Z",
+  "model": "glm-5.3"
+}

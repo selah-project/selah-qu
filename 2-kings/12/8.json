@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 12:8",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa apu Yehoashpa Yehoyadaman (Joiada) kohentan, kohenkunantawan qayarirqanmi, paykunamanataq nirqan: «Imarayku mana allinchankichichu ⟨את⟩ wasip p'akisqanta? Kunantaq ama qhochiychichu qullqita ⟨את⟩ riqsisqaykikunamanta; wasip p'akisqanpaqllataq churawankichik».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "qayarirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoashpa"
+    },
+    {
+      "surface": "ליהוידע",
+      "gloss": "Yehoyadaman"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohentan"
+    },
+    {
+      "surface": "ולכהנים",
+      "gloss": "kohenkunantawan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunamanataq"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "mana…chu"
+    },
+    {
+      "surface": "מחזקים",
+      "gloss": "allinchankichichu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasip p'akisqanta (the breach of the house)"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "p'akisqanta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasip"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kunantaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "qhochiychichu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqita"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "riqsisqaykikunamanta (from your acquaintances)"
+    },
+    {
+      "surface": "מכריכם",
+      "gloss": "riqsisqaykikunamanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(…llataq rayku)"
+    },
+    {
+      "surface": "לבדק",
+      "gloss": "p'akisqanpaq"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasip"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "churawankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:27.294480130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chiqaqmi, ch'chiman nillanmi: «Hallp'aman uraykuy»; hinaspa paraman, paypa atiyninpa parakunamanwan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chiqaqmi"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "ch'chiman"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nillanmi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uraykuy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "hinaspa paraman"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "para"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "hinaspa parakunamanwan"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "parakuna"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "paypa atiyninpa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:19:33.759740536Z",
+  "model": "glm-5.3"
+}

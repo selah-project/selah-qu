@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "psalms 69:3",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 69,
+ "translation": "T'aqllu ukhupi limuykuuniq, mana sayaypa kanchu; ukhu unukunaman chayamuni, hinaspa unu hawariyqa ñuqata llanthunaykachawarqanmi.",
+ "tokens": [
+  {
+   "surface": "טבעתי",
+   "gloss": "limuykuuniq"
+  },
+  {
+   "surface": "ביון",
+   "gloss": "t'aqllu ukhupi"
+  },
+  {
+   "surface": "מצולה",
+   "gloss": "ukhu llaqta"
+  },
+  {
+   "surface": "ואין",
+   "gloss": "manan kanchu"
+  },
+  {
+   "surface": "מעמד",
+   "gloss": "sayaypa"
+  },
+  {
+   "surface": "באתי",
+   "gloss": "chayamuni"
+  },
+  {
+   "surface": "במעמקי",
+   "gloss": "ukhu unukunaman"
+  },
+  {
+   "surface": "מים",
+   "gloss": "unu"
+  },
+  {
+   "surface": "ושבלת",
+   "gloss": "hinaspa unu hawariy"
+  },
+  {
+   "surface": "שטפתני",
+   "gloss": "llanthunaykachawarqanmi"
+  }
+ ],
+ "timestamp": "2026-09-08T09:58:12.965803218Z",
+ "model": "glm-5.3"
+}

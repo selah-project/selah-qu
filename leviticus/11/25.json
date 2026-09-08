@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspam llapa paykunap wañusqankunmanta apaq p'achankunata mayunchinqan, hinaspa q'ata kanqa inti chinkaykaman.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hinaspam llapa"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "apaq"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "paykunap wañusqankunmanta"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mayunchinqan"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "p'achankunata"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "hinaspa q'ata kanqa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kaman"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "inti chinkay"
+    }
+  ],
+  "timestamp": "2026-09-08T02:06:59.634655512Z",
+  "model": "glm-5.3"
+}

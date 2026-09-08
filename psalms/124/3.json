@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 124,
+  "translation": "chaymi kawsantin ñuqanchikta millupasqanman karqan,llakikuyllaña qhasqusqanku ñuqanchikta:",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsantin"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "ñuqanchikta millupasqanman karqan"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "llakikuyllaña qhasqusqanku"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "llakikuyninku"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ñuqanchikta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:33.559955523Z",
+  "model": "glm-5.3"
+}

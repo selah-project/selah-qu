@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 16:30",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa Ajab, Omripa churiynin, Yahwep ñawinpi mana allinta rurarami, pay ñawpaqninpi kaqkunamanta llapanmanta aswanmi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "rurarami"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churiynin"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omripa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapanmanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqkunamanta"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pay ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:15:41.957683721Z",
+  "model": "glm-5.3"
+}

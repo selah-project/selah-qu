@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Shaulm qaparispa huñurirqan, ⟨את⟩ paywan kaq tukuy runakunawan; chayanmi awqanakuyman; chaynam karqan: sapa runap mintsin masinpa contra — sinchi hatun chaqwaymi.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "qaparispa huñurirqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "chayan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "chayakama"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "awqanakuyman"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "chaynam"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mintsin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runap"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "masinpa"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "chaqway"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:15:04.693333828Z",
+  "model": "glm-5.3"
+}

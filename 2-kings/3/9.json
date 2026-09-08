@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 3:9",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Israelpa apunmi, Yehudapa apunwan (Judá), Edompa apunwanpas purirqanku qanchis p'unchaw ñan muyuspa; armakunaman, paykunaq chakinpi kaq uywakunamanpas mana unu karqanchu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "hinaspa apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "hinaspa apun"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "ñan muyuspa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqanchu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "armakunaman"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "uywakunamanpas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "paykunaq chakinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:25:15.650278154Z",
+  "model": "glm-5.3"
+}

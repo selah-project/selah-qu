@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chay p'unchawmi Yahwe qamanta llakikaykimanta, mancharichikuymanta hinaspa sinchi yanapaykimanta qam ichus yanapasqa karqanki, samachisqaq.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Chay p'unchawmi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawmi"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "samachisqaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamanta"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "llakikaykimanta"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "mancharichikuymanta hinaspa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "yanapaykimanta"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ichus"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanapasqa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qam karqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T05:59:57.907199185Z",
+  "model": "glm-5.3"
+}

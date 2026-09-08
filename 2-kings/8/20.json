@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Paypa p'unchawkunapim Edom Yehudap makin uramanta hark'akurqan, hinaspa paykunaq patanpi aputa tiyarqachirqanku.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "paypa p'unchawkunapin"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "hark'akurqan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "uramanta"
+    },
+    {
+      "surface": "יד",
+      "gloss": "makin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "tiyarqachirqanku"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunaq patanpi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "aputa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:29:34.955410835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Yaakovpataqmi suwarqan ⟨את⟩ Lavan Aramipa sunqunta, mana willaspa payman, hamunanmanta ayqenkaptin.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "suwarqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunqunta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqunta"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Aramipa"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "willaspa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ayqenkaptin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-08T00:05:56.849512017Z",
+  "model": "glm-5.3"
+}

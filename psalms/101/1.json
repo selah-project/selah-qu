@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 101,
+  "translation": "Davidpa mizmoren: jesedta (khuyakuyta) mishk'aytawan takini, qampaqmi, Yahwe, takiwan yupaychani.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmoren"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesedta"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "mishk'aytawan"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "takini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "takiwan yupaychani"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:36.250656309Z",
+  "model": "glm-5.3"
+}

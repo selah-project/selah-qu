@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaymanta David siqarqanmi, hinaspa Ein Gedipi (En-gedi) fortalezakunapi tiyarqan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "siqarqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "fortalezakunapi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:24:43.165686885Z",
+  "model": "glm-5.3"
+}

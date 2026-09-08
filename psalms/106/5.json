@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Akllasqaykikuna allin kayninkunta rikunaypaq, llaqtaykipa kusikuyninpi kusikunaypaq, mirachisqaykiwan k'ajachikunaypaq.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "rikunaypaq"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "allin kayninkun"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "akllasqaykikuna"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "kusikunaypaq"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "kusikuyninpi"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "llaqtaykipa"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "k'ajachikunaypaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "mirachisqaykiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:10.489569959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chaysi Ammonpa churinkuna ⟨את⟩ Yardenta pasarqankum, Yehudapi hinataq Binyaminpi hinaspa Efrayimpa wasipi wanachikunankupaq; Israelpaq aswanta sasakarqan.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "pasarqankum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardenta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenta"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "wanachikunankupaq"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinataq"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudapi"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "hinaspa Binyaminpi"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "hinaspa wasipi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimpa"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "sasakarqan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelpaq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aswanta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:49:41.806905904Z",
+  "model": "glm-5.3"
+}

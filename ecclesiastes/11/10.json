@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa phiñata sunquykimanta qichuy, mana allinta aychaykimanta awayuchiy; imaraykuchus wawachay waynakaywan hevelmi.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Hinaspa qichuy"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "phiñata"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "sunquykimanta"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "hinaspa awayuchiy"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "aychaykimanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "wawachay"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "waynakaywan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevelmi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:44:07.521199784Z",
+  "model": "glm-5.3"
+}

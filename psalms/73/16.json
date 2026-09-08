@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Chayta yachayta yuyaykurqanim; chayqa sasachakuymi karqan ñawiypi.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "yuyaykurqanim"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "sasachakuy"
+    },
+    {
+      "surface": "היא",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawiypi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:00.408957614Z",
+  "model": "glm-5.3"
+}

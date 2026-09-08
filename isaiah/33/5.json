@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Yahwem sayachisqa kachkan, hanaqpi tiyarqanrayku; Tsiyonta kamachikuwanwan, cheqallwanwan hunt'arqan.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "sayachisqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tiyarqanrayku"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hanaqpi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'arqan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kamachikuwanwan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "cheqallwanwan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:13:22.329697898Z",
+  "model": "glm-5.3"
+}

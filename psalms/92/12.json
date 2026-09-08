@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Ñawiy qhawarqanmi watiyakuqkunata; ñuqata sayaq lluta ruraqkunata rinriy uyarinqam.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiy"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "watiyakuqkunata"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "sayaqkunata"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "lluta ruraqkunata"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "uyarinqa"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "rinriy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:35.774581538Z",
+  "model": "glm-5.3"
+}

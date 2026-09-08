@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Sanu runakuna, mihunakunaq qatiqninkunawan — k'akñinkunawan ñuqap contranpi ch'akchurqanku.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "Sanu runakuna"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "qatiqninkunawan"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "mihunakunaq"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "ch'akchurqanku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap contranpi"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "k'akñinkunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:47.849303321Z",
+  "model": "glm-5.3"
+}

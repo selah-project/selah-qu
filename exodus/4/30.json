@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Aharonm ⟨את⟩ Yahwem Mosheman nisqan simikunata llapanta willarqan, hinaspa unanchakunata runakunap ñawinkunap ñawpachinpi rurarqan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "willarqanm"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapata simikunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "simikuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nisqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "rurarqan"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "unanchakunata"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ñawinkunap ñawpachinpi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:37.288161137Z",
+  "model": "glm-5.3"
+}

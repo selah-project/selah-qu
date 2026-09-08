@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Wayqeykunaman ajylla karqanim, taykamamaypa wawanqunaman ajynallataq karqani.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "ajylla"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "karqanim"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "wayqeykunaman"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "ajynallataq"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawanqunaman"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "taykamamaypa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:01.596326994Z",
+  "model": "glm-5.3"
+}

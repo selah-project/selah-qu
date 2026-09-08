@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Sichus hatarispa t'inkinpiwan ñawpaqman purinmi, maqaqqa lluksiyanmi; chiqanqa samaynintam paganga, hamp'iytapas hamp'ichinga.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "hatarispa"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "ñawpaqman purinmi"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "⟨hawapi⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "-piwan"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "t'inkinpiwan"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "lluksiyanmi"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "maqaqqa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chiqanqa"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "samayninta"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "paganga"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "hamp'iytapas"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "hamp'ichinga"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:35.744843343Z",
+  "model": "glm-5.3"
+}

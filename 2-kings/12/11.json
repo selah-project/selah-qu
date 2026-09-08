@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 12:11",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Kay q'ipi arkapi qhawaspanku, qollqecha askha kasqanta rikuspa, apip qillqaqninmi hinaspa hatun kohenmi chayarqanku; chaymanta k'illkachaspa yupaspa ⟨את⟩ Yahwepa wasinpi tarisqa qollqeta waqaychayarqanku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כראותם",
+      "gloss": "qhawaspanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanta rikuspa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qollqecha"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "arkapi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "chayarqanku"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "qillqaq"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apip"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "hinaspa kohen"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "k'illkachaspa"
+    },
+    {
+      "surface": "וימנו",
+      "gloss": "yupaspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qollqeta"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qollqeta"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tarisqa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:45:01.135541342Z",
+  "model": "glm-5.3"
+}

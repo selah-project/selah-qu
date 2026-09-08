@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Allinmi Yahwe llapanman, paypa khuyakuyninkunataq llapan rurasqankunapatanmi kachkan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapanman"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "paypa khuyakuyninkunataq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "rurasqankunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:30.968414033Z",
+  "model": "glm-5.3"
+}

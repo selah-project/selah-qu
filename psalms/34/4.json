@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Hatunchichiy ⟨את⟩ Yahweta ñuqawan, hinaspa paypa Sutinta hukllapi hanllalichisun.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "hatunchichiy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqawan"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "hinaspa hanllalichisun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "paypa Sutinta"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hukllapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:02.277096873Z",
+  "model": "glm-5.3"
+}

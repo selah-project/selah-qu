@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 64,
+  "translation": "Ama Yahwe sinchita phiñakuychu, ama wiñaypaq huchata yuyariychu; qawayri, qhawayri ñawinchaspa: llapayku qam runaykum kanchik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "phiñakuy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchita"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "yuyariy"
+    },
+    {
+      "surface": "עון",
+      "gloss": "huchata"
+    },
+    {
+      "surface": "הן",
+      "gloss": "qawayri"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ñawinchay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runayki"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "llapayku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:45:10.555321783Z",
+  "model": "glm-5.3"
+}

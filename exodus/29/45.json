@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 29:45",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa ñuqam Israel wawakunap chawpinpi tiyasqam kani, hinallataq paykunapaq Elohimmi kanqa.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "tiyasqam kani"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimmi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:29.543494043Z",
+  "model": "glm-5.3"
+}

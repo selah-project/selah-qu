@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Imarayku manaraqmi kunan chayamunkichik samayman, hinallataq rakikunaman, mayqinta Yahwe Elohimniyki qamman qun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "chayamunkichik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "samayman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinallataq man"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "rakikunaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:41:50.897747834Z",
+  "model": "glm-5.3"
+}

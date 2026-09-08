@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 33:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Yaakovqa Padan Arammanta hamuspa Kanaan hallp'api Shekem llaqtaman amaanmi chayarqan; chay llaqtap ñawpaqninpi chakarqan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovqa"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "amaan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi kaq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "hamusqanpi"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "Padanmanta"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "chakarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawpaqninpi (פני: llaqtap ñawpaqnin)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "chay llaqtap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:07:29.155381797Z",
+  "model": "glm-5.3"
+}

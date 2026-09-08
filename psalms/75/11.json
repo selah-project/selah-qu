@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 75,
+  "translation": "Llapan mana allin runakunap wisnankunatam kuch'usaq; chiqalla runakunap wisnankunaqa wich'achikunqaku.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "wisnankuna"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakunap"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "kuch'usaq"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "wich'achikunqaku"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "wisnankuna"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "chiqalla runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:24.599582696Z",
+  "model": "glm-5.3"
+}

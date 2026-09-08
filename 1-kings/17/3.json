@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "«Kaymanta lluqsiy, antiman kutiy, hinaspa Kerith mayupi pakakuy, maypichus Yardenpa ñawpaqninpi kachkan».",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "lluqsiy"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kaymanta"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "hinaspa kutiy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "anta"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "antiman"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "hinaspa pakakuy"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "mayupi"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Kerith"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypichus"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-08T05:15:43.741742833Z",
+  "model": "glm-5.3"
+}

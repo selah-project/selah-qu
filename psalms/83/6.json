@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Chaymi sunqunpi hukllata masinakurqanku; qamman awqanakuq Berit (paktakuy) rurankum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "masinakurqanku"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqunpi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hukllata"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qamman awqanakuq"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Berit"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "rurankum"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:05.901990989Z",
+  "model": "glm-5.3"
+}

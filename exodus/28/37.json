@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Churay ⟨את⟩ta anqas wata patapi, kanqa chukkapi; chukkap ñawpaqnin ñawpamupi kanqam.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "churay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ta",
+      "marks": "chayta (quri plakata)"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "anqas"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "chukkapi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ñawpamunpi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "chukkap"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqam"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:12.833705052Z",
+  "model": "glm-5.3"
+}

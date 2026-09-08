@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ay! yawarniyuq llaqta, llapanmi llulla, t'aqllakuywan hunt'a; manam ukykachayqa qespillawanqachu.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ay"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "yawarniyuq"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "t'aqllakuy"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "qespillawanqachu"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ukykachay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:10:17.528479871Z",
+  "model": "glm-5.3"
+}

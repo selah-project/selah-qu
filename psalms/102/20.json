@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Yahwem hanan santuario-ninmanta qhawamurqanmi, hanaq pachamanta hallp'aman qhawarirqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "qhawamurqanmi"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "hananmanta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santuario-ninmanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "hanaq pachamanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "qhawarirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:58.336628220Z",
+  "model": "glm-5.3"
+}

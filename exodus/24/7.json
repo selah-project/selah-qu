@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaysi Beritpa qillqanta uskarqan, runakunapa rinrinninpi willarqan; runakunaqa nirqanku: Yahwe imata rimasqanmanta llapanta ruwasunchikmi, uyasunchikmi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "uskarqan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "qillqanta"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "Beritpa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "rinrinninpi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunapa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimasqanmanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ruwasunchikmi"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "uyasunchikmi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:35:22.656168882Z",
+  "model": "glm-5.3"
+}

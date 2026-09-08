@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 130,
+  "translation": "Sichus Yahwe huchakunata waqaychanki, Adonay, pi sayanqa?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "huchakunata"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "waqaychanki"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sayanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:08.328088948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "«Ahab (Ajab) apunyki wasinta ⟨את⟩ maqanqanki, chayrayku ñuqam ñuqap navikunap llamk'aqniykunap, Yahwepa llamk'aqnikunap llapap yawarninta Izebel (Jezabel)pa makinmanta paywanqani».",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "maqanqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahabpa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabpa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "apunyki"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "paywanqani"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "yawarninta"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "llamk'aqniykunap"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "navikunap"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "hinaspa yawarninta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapap"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "llamk'aqnikunap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:29:31.597366492Z",
+  "model": "glm-5.3"
+}

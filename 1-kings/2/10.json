@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Puñurqanmi David ñawpaqnin taytakunawan, hinaspa Davidpa llaqtanpi p'anqasqa karqan.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Puñurqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ñawpaqnin taytakunawan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "p'anqasqa karqan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtanpi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:56:36.147992656Z",
+  "model": "glm-5.3"
+}

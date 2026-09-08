@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Sunqunkum nanachiyta yuyan, hinaspa werqankum llakichiyta rimanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "porque"
+    },
+    {
+      "surface": "שד",
+      "gloss": "nanachiy"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "yuyan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sunqunku"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "hinaspa llakichiy"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "werqanku"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "rimanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:49:41.681350075Z",
+  "model": "glm-5.3"
+}

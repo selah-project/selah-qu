@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Llapam awqayniykuna ñuqamanta lluwllalla rimanakunku; ñuqamanta yuyaykuanku mana allinta ñuqaqpaq.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "llapam... rimanakunku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "lluwllalla rimanakunku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "awqayniykuna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "yuyaykuanku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaqpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:31.523324058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Tikrarqanmi ⟨את⟩ ununkunata yawarman, hinas wañuchirqanmi ⟨את⟩ challwankunata.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "tikrarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ununkunata"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ununkuna"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "yawarman"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "challwankunata"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "challwakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:13.136089496Z",
+  "model": "glm-5.3"
+}

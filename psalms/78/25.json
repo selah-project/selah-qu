@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "psalms 78:25",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 78,
+ "translation": "Abiurakunapa t'antanta runam mikhurqan; mikhuypaqta kachamurqan paykunapaq hunt'a hunt'a ⟨mikhunata⟩.",
+ "tokens": [
+  {
+   "surface": "לחם",
+   "gloss": "t'antanta"
+  },
+  {
+   "surface": "אבירים",
+   "gloss": "abiurakunapa"
+  },
+  {
+   "surface": "אכל",
+   "gloss": "mikhurqan"
+  },
+  {
+   "surface": "איש",
+   "gloss": "runam"
+  },
+  {
+   "surface": "צידה",
+   "gloss": "mikhuypaqta"
+  },
+  {
+   "surface": "שלח",
+   "gloss": "kachamurqan"
+  },
+  {
+   "surface": "להם",
+   "gloss": "paykunapaq"
+  },
+  {
+   "surface": "לשבע",
+   "gloss": "hunt'a hunt'a"
+  }
+ ],
+ "timestamp": "2026-09-08T10:04:15.297905962Z",
+ "model": "glm-5.3"
+}

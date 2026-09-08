@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Ñuqanchiktan tukunaku llapan runa llaqtakunaman hina; apunchiktaq ñuqanchikta taripanqa, ñuqanchik ñawpaqenmanta lluqsinqa, ⟨את⟩ maqanakuykunchiktataq maqanakunqa.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "tukunaku kanqaku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñuqanchiktan"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "llapanman hina"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "runa llaqtakunaman"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "taripanqa"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "apunchik"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsinqa"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "ñawpaqenmanta"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "maqanakunqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maqanakuykunchikta"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "maqanakuykunchikta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:09:04.190401937Z",
+  "model": "glm-5.3"
+}

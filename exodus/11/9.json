@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Yahwem Mosheman nirqan: Paroqa manam qamkunata uyarinqachu, ñuqap milagroniy askhachananpaq Mitsrayim hallp'api.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uyarinqa"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "qamkunata"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "paq"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "askhachanan"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "milagroniy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:24:50.060522909Z",
+  "model": "glm-5.3"
+}

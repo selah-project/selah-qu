@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "esther 9:19",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chayraykum mana saywayuq llaqtakunapi, llaqtachakunapi kawsaq Yehudi runakunaqa chunka tawayuq p'unchawta ⟨את⟩ Adar killapi kusikuywan mikhunakuywan, allin p'unchaw hinarqankum, sapa runa masinman mikhuy qaranakunata kachaspa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chay"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yehudi runakunaqa"
+    },
+    {
+      "surface": "הפרוזים",
+      "gloss": "mana saywayuq llaqtakunapi kaq"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "llaqtachakunapi"
+    },
+    {
+      "surface": "הפרזות",
+      "gloss": "mana saywayuq llaqtakuna"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "hinarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chunka tawayuq p'unchawta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka...yuq"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "killapa"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kusikuywan"
+    },
+    {
+      "surface": "ומשתה",
+      "gloss": "mikhunakuywan"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "ומשלוח",
+      "gloss": "kachaspa"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "mikhuy qaranakunata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "masinman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:51:32.502744977Z",
+  "model": "glm-5.3"
+}

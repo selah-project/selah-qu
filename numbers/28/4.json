@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "⟨את⟩ huk michita tuta paqariypi ruwanki, hinaspa ⟨את⟩ iskay ñiqin michita chisi pakasipi ruwanki.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huk michita"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "huk michita"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tuta paqariypi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "iskay ñiqin michita"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "iskay ñiqin michita"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chisi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "pakasipi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:14:50.405073148Z",
+  "model": "glm-5.3"
+}

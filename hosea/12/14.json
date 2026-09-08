@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Naviwanmi Yahwe ⟨את⟩ Israelta Mitsrayimmanta hawaman pusarqan; naviwantaq waqaychasqa karqan.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "naviwan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pusarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "naviwantaq"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "waqaychasqa karqan"
+    }
+  ],
+  "timestamp": "2026-09-08T08:48:05.395199408Z",
+  "model": "glm-5.3"
+}

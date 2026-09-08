@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa sichus paypa korban (ofrenda) uywakunamanta kanm — ovejakunamanta utaq kawrakunamanta — olahpaq, qhari, mana nanayniyuq, chayta apamunqam.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa sichus"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "uywakuna"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "paypa korban (ofrenda)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "ovejakuna"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kawrakuna"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "olahpaq"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "mana nanayniyuq"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "chayta apamunqam"
+    }
+  ],
+  "timestamp": "2026-09-08T00:50:37.930224684Z",
+  "model": "glm-5.3"
+}

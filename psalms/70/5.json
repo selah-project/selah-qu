@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 70,
+  "translation": "Llapan qamta maskhaqkuna qampi kusikunqaku, kusiykusinqaku; hinaspa qampa qispichikuyniykita munaqkuna wiñayta ninqakum: «Elohim hatunchachun».",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "kusikunqaku"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "hinaspa kusiykusinqaku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "qamta maskhaqkuna"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "hinaspa ninqaku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñayta"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "hatunchachun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "munaqkuna"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "qispichikuyniykita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:38.066874321Z",
+  "model": "glm-5.3"
+}

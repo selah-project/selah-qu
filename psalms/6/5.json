@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Kutiy, Yahwe; Nefeshniyta hich'ariway; qispichiway, jesedniyki ⟨rayku⟩.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Kutiy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "hich'ariway"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniyta"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "qispichiway"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:58.846099040Z",
+  "model": "glm-5.3"
+}

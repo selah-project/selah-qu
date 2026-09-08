@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Elohim Mosheman rimarqan, payman nispa: Ñuqam Yahwe kani.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "hinaspa rimarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "payman nispa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T00:23:20.619679457Z",
+  "model": "glm-5.3"
+}

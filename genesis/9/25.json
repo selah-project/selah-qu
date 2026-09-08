@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa ⟨pay⟩ nirqan: Mallisqa Kenaan; yanapaqkuna yanapaqmi kanqa ⟨kan⟩ hayninkunapa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Hinaspa nirqan"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Mallisqa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanapaq"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yanapaqkuna"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa ⟨kan⟩"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "hayninkunapa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:27.814448576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Ñawiytam masalman lut'arichisaq; kinorwan ñawpaq willakuyta kichasaq.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "lut'arichisaq"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "masalman"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ñawiyta"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "kichasaq"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinorwan"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "ñawpaq willakuyta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:49.983468923Z",
+  "model": "glm-5.3"
+}

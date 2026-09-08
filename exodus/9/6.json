@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Paqarintinmi Yahwem ⟨את⟩ kay simita ruwarqan, wañurqanmi tukuy Mitsrayimpa uywakuna; Israelpa wawankunap uywanmantaqa manam hukllapas wañurqanchu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay simita"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "simi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "paqarintin"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "uywakuna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "uywanmanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huklla"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:01.674486651Z",
+  "model": "glm-5.3"
+}

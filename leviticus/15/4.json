@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Llapan mana-t'ikrasqa wasi maypipichus yawarq runa chaypi puñun, chayqa mana imamantaqmi; llapan rurasqa imapis maypipichus chaypi tiyan, chayqa mana imamantaqmi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "mana-t'ikrasqa wasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypipichus"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "puñun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "yawarq runa"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mana imamantaqmi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "rurasqa imapis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypipichus"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mana imamantaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:59:46.476730807Z",
+  "model": "glm-5.3"
+}

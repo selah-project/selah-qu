@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Teraj-m qanchis chunka wata kawsarqan, chaymanta ⟨את⟩ Abrahamta, ⟨את⟩ Najorta, hinaspa ⟨את⟩ Haranta paqarichirqan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqan"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraj"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "qanchis chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamta"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahamta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Najorta"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Najorta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Haranta"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haranta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:59.497553881Z",
+  "model": "glm-5.3"
+}

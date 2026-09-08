@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Qirumanta unu tukurqaptinmi, ⟨את⟩ wawata huk thupa urapi t'iqsirqan.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "tukurqaptinmi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "qirumanta"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "t'iqsirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wawata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "urapi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "thupa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:40.412832198Z",
+  "model": "glm-5.3"
+}

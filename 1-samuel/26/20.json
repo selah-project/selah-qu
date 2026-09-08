@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 26:20",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Kunanataq ama yawarniy hallp'aman urmuchunchu, Yahwep ñawpaqninmanta karu — imaraykuchus Israelpa apun lluqsirqan ⟨את⟩ huk usphata maskhananpaq, hina yuthuta orqokunapi qatipaq hina.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kunanataq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "urmuchunchu"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "yawarniy"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "karu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsirqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "maskhananpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huk usphata"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "usphata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "qatipaq"
+    },
+    {
+      "surface": "הקרא",
+      "gloss": "yuthuta"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "orqokunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:35:34.265638265Z",
+  "model": "glm-5.3"
+}

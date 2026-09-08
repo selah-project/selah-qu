@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Taytayki warmipa pachanta mana rikhuchinki; chayqa taytaykipa pachanmi.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "pachanta"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "warmipa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytayki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "rikhuchinki"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "pachan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytaykipa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chayqa…mi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:04.606280865Z",
+  "model": "glm-5.3"
+}

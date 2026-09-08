@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Hinaspa kanqaman khuyakuyta qusaq, khuyakusaqpas ⟨את⟩ qamkunata, kutichisaqpas ⟨את⟩ qamkunata kanqap hallp'aykichikman.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kanqaman"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "khuyakuyta"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "khuyakusaqpas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "kutichisaqpas"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–man"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "kanqap hallp'aykichikman"
+    }
+  ],
+  "timestamp": "2026-09-08T07:37:49.879655235Z",
+  "model": "glm-5.3"
+}

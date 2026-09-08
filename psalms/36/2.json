@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Willakuymi p'itiykaypa, mana allin runapa, sonqoypa ukhupi: mana ⟨kan⟩ Elohimpa manchay ñawinpa ñawpaqninpi.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Willakuymi"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "p'itiykaypa"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "mana allin runapa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ukhupi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqoypa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana ⟨kan⟩"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "manchay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ñawinpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:35.715972178Z",
+  "model": "glm-5.3"
+}

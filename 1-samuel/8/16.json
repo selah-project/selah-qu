@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspam ⟨את⟩ yanpanakunaykichikta, ⟨את⟩ warmi yanpanakunaykichikta, ⟨את⟩ sumaq waynaykichikta, ⟨את⟩ burrukunaykichiktawan apunqa, llank'ayninpaq ruranqa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspam ⟨את⟩",
+      "marks": "yanpanakunaykichikta"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "yanpanakunaykichikta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "warmi yanpanakunaykichikta"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "warmi yanpanakunaykichikta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "waynaykichikta"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "waynaykichikta"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "sumaqkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "burrukunaykichikta"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "burrukunaykichikta"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "apunqa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ruranqa"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "llank'ayninpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T04:05:23.930027971Z",
+  "model": "glm-5.3"
+}

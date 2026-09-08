@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Yahwem Sinai urquman, urqupa umanman urmarqan; Yahwem Mosheta urqupa umanman waqyachirqanmi, Moshetaq chayarqan.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "urmarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "על",
+      "gloss": "...man"
+    },
+    {
+      "surface": "הר",
+      "gloss": "urqu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...man"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uman"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "urqupa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waqyachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...man"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uman"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "urqupa"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:44.001148309Z",
+  "model": "glm-5.3"
+}

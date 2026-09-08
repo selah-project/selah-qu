@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Kananmi Yahwepaq ruñan pacha; Toraykita pawarqankum.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruñanpaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "pawarqankum"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toraykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:24:39.091301422Z",
+  "model": "glm-5.3"
+}

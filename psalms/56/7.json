@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "Huñunakunkum, pakakunkum; paykuna ñawpaq ñankunayta qhawanku, imayna nefeshniyta suyashpa.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "huñunakunkum"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "pakakunkum"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "ñawpaq ñankunayta"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "qhawanku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "suyashpa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:28.148123652Z",
+  "model": "glm-5.3"
+}

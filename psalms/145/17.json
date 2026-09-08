@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Justumi Yahwe tukuy ñanninpi, jesedyuqmi tukuy rurasqanpi.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "justumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ñanninpi"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "jesedyuqmi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "rurasqanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:26.960619310Z",
+  "model": "glm-5.3"
+}

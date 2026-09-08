@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 33:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Hinaspa Yahwem Mosheta rimarqan: Riy, kaymanta saqeriy — qam hinaspa runakuna, mayqinkunataq Mitsrayim (Egipto) hallp'amanta p'ichwarki — hallp'aman mayqinmanmi Abrahamman (Abrahán), Itsjakman (Isaac), hinaspa Yaakovman (Jacob) jurarqani, nispa: Muruykiman chayta qusaqmi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Riy"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "saqeriy"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kaymanta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "hinaspa runakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunataq"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "p'ichwarki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinman"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jurarqani"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamman"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Itsjakman"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "hinaspa Yaakovman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "Muruykiman"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "chayta qusaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:30.120132770Z",
+  "model": "glm-5.3"
+}

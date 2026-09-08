@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chaytañarraq sinchi llakikurqanim, chaymi Toviajpa wasin llapa wakinkunata ⟨את⟩ wasimanta hawaman wikch'urqanim.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "llakikurqanim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "wikch'urqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa wakinkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "wakinkunata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Toviajpa"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "hawaman"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "wasimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:27:55.487159387Z",
+  "model": "glm-5.3"
+}

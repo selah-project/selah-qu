@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 54,
+  "translation": "Imaraykuchus mana riqsisqa runakuna ñuqap contranpi sayarirqankum, hinaspa atiyniyuqkuna ñuqap nefeshniyta maskhankum; manam Elohimta ñawpaqninkupi churankuchu. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "mana riqsisqa runakuna"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "sayarirqanku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap contranpi"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "hinaspa atiyniyuqkuna"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "maskhanku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "churankuchu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "ñawpaqninkupi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:35.733267451Z",
+  "model": "glm-5.3"
+}

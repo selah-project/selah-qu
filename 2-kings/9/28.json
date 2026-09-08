@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Paypa yanapaqninkuna ⟨את⟩ payta karrupi aysaspa Yerushalayimman aparqanku, ⟨את⟩ payta aypay wasinpi ayparqanku taytankunawan, Davidpa llaqtanpi.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "karrupi aysaspa aparqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapaqninkuna"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "Yerushalayimman"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "ayparqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "aypay wasinpi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "taytankunawan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtanpi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-08T05:33:42.473435873Z",
+  "model": "glm-5.3"
+}

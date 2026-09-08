@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Wakchapa, wak muchachapaq china tariparqanmi; chaysi allinmi karqan. ¿Manachu kaymi ⟨את⟩ ñuqata yachay? Yahwepa willakusqanmi.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "tariparqanmi"
+    },
+    {
+      "surface": "דין",
+      "gloss": "china"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "wak muchacha"
+    },
+    {
+      "surface": "אז",
+      "gloss": "chaysi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "¿manachu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "yachay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqata",
+      "marks": "ñuqata (Yahwepa ñuqan)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "willakusqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:08:31.325517877Z",
+  "model": "glm-5.3"
+}

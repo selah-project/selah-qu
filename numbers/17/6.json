@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 17:6",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chaymanta paqarinllataqmi Israelpa wawanakunapa llapan huñunakusqankuna Mosheta, Aharontawan p'inqarirqanku, nispa: Qamkunam ⟨את⟩ Yahwep llamptata wañuchirqankichi.",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "p'inqarirqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "huñunakusqankuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawanakunapa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "paqarinllataq"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "Aharontawan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Qamkuna"
+    },
+    {
+      "surface": "המתם",
+      "gloss": "wañuchirqankichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwep llamptata (Yahwep llampta)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "llampta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T01:31:53.894412545Z",
+  "model": "glm-5.3"
+}

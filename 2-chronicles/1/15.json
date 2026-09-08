@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Apum ⟨את⟩ qullqita, hinaspa ⟨את⟩ qurita Yerushalayimpi rumikuna hina hunt'achirqan; hinaspa ⟨את⟩ sedro sach'akunata sikomoro sach'akuna hina churarqan, urahallpapi kaqtak, askha kananpaq.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "hunt'achirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Apum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullqita"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qullqita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qurita"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qurita"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "rumikuna hina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sedro sach'akunata"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "sedro sach'akunata"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "sikomoro sach'akuna hina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqtak"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "urahallpapi"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "askha kananpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:54:42.245966705Z",
+  "model": "glm-5.3"
+}

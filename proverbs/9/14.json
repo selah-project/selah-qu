@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Wasinpa punkunpi tiyarqanmi, llaqtap hanan tiyanapi.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "punkunpi"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "wasinpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tiyana"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "hanan"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "llaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:11.837979481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Pelishtiyum qhawarqan, hinaspa ⟨את⟩ Davidta rikurqan, payta pisiyachirqanmi; payqa maqt'a karqan rayku, puka k'acha, sumaq rikch'añataq.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelishtiyum"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidta"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "payta pisiyachirqanmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "נער",
+      "gloss": "maqt'a"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "puka k'acha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "rikch'aña"
+    }
+  ],
+  "timestamp": "2026-09-08T04:17:51.551118321Z",
+  "model": "glm-5.3"
+}

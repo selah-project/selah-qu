@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "May kasaqkunas nirqankus: «Siminchikwanmi atipayasaqku; wirp'anchik ⟨את⟩ ñuqanchikwanmi kanku; pi-taq ñuqanchikpa apunchik kanqa?»",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "May kasaqkunas"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nirqankus"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "Siminchikwan"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "atipayasaqku"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "wirp'anchik"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñuqanchikwanmi",
+      "marks": "wirp'anchik — ñuqanchikwan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi-taq"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "apunchik"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:54.203378878Z",
+  "model": "glm-5.3"
+}

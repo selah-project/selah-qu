@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Hallp'aman, lechewan mishkiwan pukukuqman — imataq mana saqesaqchu chawpiykipi, imaraykuchus qammi sinchi kunkayuq runa kanki; ñanpi chinkachisaqkichá.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "pukukuq"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "lechewan"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "mishkiwan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "saqesaqchu"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "chawpiykipi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "kunkayuq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qammi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "-chá"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "chinkachisaqki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:30.140339732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Aniraq, Yahwe: ñuqataq ñuqa qampak yanayki kani, ñuqa qampak yanayki, qampa yanay warmiyki wawan; wattikunayta kicharqankim.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "aniraq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "taq"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qampak yanayki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qampak yanayki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "qampa yanay warmiyki"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "kicharqankim"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "wattikunayta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:54.891195499Z",
+  "model": "glm-5.3"
+}

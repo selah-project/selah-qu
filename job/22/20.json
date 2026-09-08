@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Manachu awqanchikkuna chinkapuspa karqanmi? ninataqmi puchunkunata mikhurqan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "chinkapun"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "awqanchikkuna"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "hinaspa puchunkunata"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "mikhurqan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    }
+  ],
+  "timestamp": "2026-09-08T11:09:46.573752539Z",
+  "model": "glm-5.3"
+}

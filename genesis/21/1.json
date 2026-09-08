@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa Yahwem ⟨את⟩ Sarata qhawarirqan imaynas nisqan hina; hinaspa Yahwem Sarapaq ruwarqan imaynas rimasqan hina.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "hinaspa Yahwem"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "qhawarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarata"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imaynas ... hina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nisqan"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan hinaspa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sarapaq"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imaynas ... hina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimasqan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:31.213936912Z",
+  "model": "glm-5.3"
+}

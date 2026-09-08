@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Ch'usaq pachapi p'achayuq mana kaptin q'ara puñunkum, chiri pachapipas p'ampay mana kanchu.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "q'ara"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "puñunkum"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "mana kaptin"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "p'achayuq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "p'ampay"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "chiri pachapipas"
+    }
+  ],
+  "timestamp": "2026-09-08T11:11:14.177097930Z",
+  "model": "glm-5.3"
+}

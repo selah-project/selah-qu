@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Qamllaykiqmi kanan, mana wak runakunapaq ⟨את⟩ qamwan.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "qamllaykiq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "wak runakunapaq"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan",
+      "marks": "qamwan (qam — זרים sapanpa)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:37:22.460841580Z",
+  "model": "glm-5.3"
+}

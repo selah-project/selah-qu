@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Chaypi thantarikuywan chutarparqankum, wawachaq hina nanaywan.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "thantarikuywan"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "chutarparqankum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nanaywan"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "wawachaq hina"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:18.607797918Z",
+  "model": "glm-5.3"
+}

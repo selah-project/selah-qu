@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Kusillawanmi taytayki, kusillawanmi mamayki; kusikunmi wacharqayki.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "kusillawanmi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytayki"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "mamaykiwan"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "kusikunmi"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "wacharqayki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:49:24.050843193Z",
+  "model": "glm-5.3"
+}

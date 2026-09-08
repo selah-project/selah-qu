@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Challwap wiksamanta Yonahmi Yahwe Elohimninman mañakurqan.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "mañakurqan"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "wiksamanta"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "challwap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:03:07.912640042Z",
+  "model": "glm-5.3"
+}

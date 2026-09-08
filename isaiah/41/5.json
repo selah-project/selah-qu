@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Chayawrakuna rikurqankum, mancharqanku; hallp'ap chakrakunan t'itirarakurqanku; qayllamurqanku, chayamurqankum.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "rikurqankum"
+    },
+    {
+      "surface": "איים",
+      "gloss": "chayawrakuna"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mancharqanku"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "chakrakunan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "t'itirarakurqanku"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "qayllamurqanku"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "chayamurqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T06:22:35.248051890Z",
+  "model": "glm-5.3"
+}

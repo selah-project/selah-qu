@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Halillu Yah; Yahweman willakuspataq pagankichik, imaraykuchus allinmi, imaraykuchus jesednin wiñay kachkanmi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Halillu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "willakuspataq pagankichik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kachkanmi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:21.660815451Z",
+  "model": "glm-5.3"
+}

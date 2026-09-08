@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Noachmi hallp'a runa qallarirqan, hinaspa viñata tarpurqan.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "qallarirqan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "tarpurqan"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "viña"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:20.284855920Z",
+  "model": "glm-5.3"
+}

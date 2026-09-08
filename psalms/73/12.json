@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Qhawariy: kay haq'akunam kanku, wiñayta sakanalla kawsaqkunaqa barkata chaskirqanku.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haq'akuna"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "sakanalla kawsaqkuna"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñayta"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "chaskirqanku"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "barka"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:38.495195056Z",
+  "model": "glm-5.3"
+}

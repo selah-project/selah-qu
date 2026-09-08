@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Tutayaywanmi hanaq pachata p'achachasaq, hinaspataq sawintam qatikunanhina churasaq.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "p'achachasaq"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "tutayaywan"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "hinaspataq sawinta"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "churasaq"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "qatikunanhina"
+    }
+  ],
+  "timestamp": "2026-09-08T06:37:01.001342474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Sonqoym allin rimaytam poqochin, ñuqam willani apuman rurasqaykita; qalluyniyqa usqhay qillqaqpa killqananhina ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "poqochin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqoym"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "willani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "rurasqaykita"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apuman"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "qalluyniy"
+    },
+    {
+      "surface": "עט",
+      "gloss": "killqanan"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "qillqaqpa"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "usqhay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:22.624547830Z",
+  "model": "glm-5.3"
+}

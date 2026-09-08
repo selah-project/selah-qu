@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Chayrayku Yahwem makinta huqarirqan paykunamanta ⟨lutiy⟩, ch'usaq pachapi ⟨את⟩ paykunata urmachinankupaq.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "makinta huqarirqan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "urmachinankupaq"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "ch'usaq pachapi urmachisqakunata"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pachapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:34.109531352Z",
+  "model": "glm-5.3"
+}

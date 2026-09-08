@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Sapa p'unchawmi qamta bendisichaq, hinaspa Sutiykita yupaychasaq wiñaypaq, wiñaynanpachallapitaq.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawmi"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "qamta bendisichaq"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "hinaspa yupaychasaq"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiykita"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñaynanpachallapitaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:30.709716856Z",
+  "model": "glm-5.3"
+}

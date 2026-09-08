@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Qam sayarinkim, Tsiyon (Sión)paq khuyakunki; imaraykuchus chay pacha chaynanpaq, imaraykuchus paqarisqa p'unchawpaq chayamunmi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qam"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sayarinkim"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "khuyakunki"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon (Sión)paq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עת",
+      "gloss": "chay pacha"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "chaynanpaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayamunmi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "paqarisqa p'unchawpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:28.542844684Z",
+  "model": "glm-5.3"
+}

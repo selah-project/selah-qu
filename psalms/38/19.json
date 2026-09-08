@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Imarayku juchallikuymi willanim, juchaymanta llakikunim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "juchallikuymi"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "willanim"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "llakikunim"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "juchaymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:34.075780374Z",
+  "model": "glm-5.3"
+}

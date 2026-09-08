@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Imaraykuchus runa llaqta utaq mamallaqta chay mana qamta llamk'aq kaptinqa, chinkapuspanmi kanqa; chay runa llaqtakunataq hunt'a ch'usaqchasqa kanqakum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "runa llaqta"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "utaq mamallaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "qamta llamk'aq"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "chinkapuspan kanqa"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "chay runa llaqtakunataq"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "hunt'a ch'usaqchaspa"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "ch'usaqchasqa kanqakum"
+    }
+  ],
+  "timestamp": "2026-09-08T06:39:38.415225779Z",
+  "model": "glm-5.3"
+}

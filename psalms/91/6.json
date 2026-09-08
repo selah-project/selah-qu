@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "Unqoymanta tutayaypi puriqmanta, chisi pacha wañuchiq ch'usaqachiqmanta.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "unqoymanta"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "tutayaypi"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "wañuchiq"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "ch'usaqachiq"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "chisi pacha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:28.698498007Z",
+  "model": "glm-5.3"
+}

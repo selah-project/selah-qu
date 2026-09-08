@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 1:38",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yehoshua (Josué), Nunpa churin, qampa ñawpaqpi sayaqmi chayman yaykunqa; payta ⟨את⟩ sinch'iy, imaraykuchus paymi ⟨את⟩ Israelta chayta chaskichinqa.",
+  "tokens": [
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "sayaq"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qampa ñawpaqpi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yaykunqa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "sinch'iy (חזק)"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sinch'iy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "ינחלנה",
+      "gloss": "chaskichinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:25:08.252092870Z",
+  "model": "glm-5.3"
+}

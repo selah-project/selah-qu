@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Yahwe, yuyariway khuyakuyniykita, jesedniykitawan (khuyapakuy)wan; wiñay kamasqamantam kanku.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yuyariway"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "khuyakuyniykita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "jesedniykitawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imataqmi"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "wiñay kamasqamanta"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:55.440336720Z",
+  "model": "glm-5.3"
+}

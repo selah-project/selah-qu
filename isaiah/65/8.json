@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 65:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Chayhina Yahwe nin: imahina musphuq aloha uva huñupi tarikuptin, nispa 'ama chinkachichu chayta, baraka kachkan chaypi' nispa hina, ñuqap llamk'aqkunap raykunmi chaynata ruwasaq, llapata chinkachiyta ama ñiyta.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Chayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imahina"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tarikuptin"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "musphuq aloha"
+    },
+    {
+      "surface": "באשכול",
+      "gloss": "uva huñupi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "chinkachichu chayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "baraka (bendición)"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ruwasaq"
+    },
+    {
+      "surface": "למען",
+      "gloss": "raykunmi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ñuqap llamk'aqkunap"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ama ñiyta"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "chinkachiyta"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "llapata"
+    }
+  ],
+  "timestamp": "2026-09-08T06:44:56.068299635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Kamachisqam kohenmi hurquykunata; hurqurqankum ⟨את⟩ rumikunata maypi unqeymi kachkan, hinaspa wikch'urqankum ⟨את⟩ paykunata llaqtamanta hawkaman, mana allin kitiman.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "Kamachisqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenmi"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "hurqurqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumikunata"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "rumikunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "unqey"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "wikch'urqankum"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hawkaman"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "llaqtamanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kitiman"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mana allin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:58:46.591147639Z",
+  "model": "glm-5.3"
+}

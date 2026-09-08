@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ñuqanchikmi pantachirqanchik, thakninchik; qamtaq mana pampacharqankichu.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "ñuqanchik"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "pantachirqanchik"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "thakninchik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "pampacharqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T11:31:37.717869105Z",
+  "model": "glm-5.3"
+}

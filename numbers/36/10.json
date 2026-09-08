@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Yahwem ⟨את⟩ Mosheta (Moisés) kamachisqan hina, Tselofjadpa (Selofhad) ususinkunan chaynollataqmi ruwarqanku.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachisqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheta (Moisés)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta (Moisés)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynollataq"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ususinkuna"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofjadpa (Selofhad)"
+    }
+  ],
+  "timestamp": "2026-09-08T02:24:47.726937461Z",
+  "model": "glm-5.3"
+}

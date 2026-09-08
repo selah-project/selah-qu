@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Manam tarikunchu qampi: churinta utaq ushinta ninap ukhunman pasachiq, watukuq watukuykunawan, pacha-unanchaq, unancha-ñawiq, layqapas.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Manam ... chu"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tarikunchu"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "pasachiq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "utaq ushinta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninap ukhunman"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "watukuq"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "watukuykunawan"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "pacha-unanchaq"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "unancha-ñawiq"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "layqapas"
+    }
+  ],
+  "timestamp": "2026-09-08T02:44:25.855902945Z",
+  "model": "glm-5.3"
+}

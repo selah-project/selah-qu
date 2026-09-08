@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yahwe, imaynata askhayan ñuqap tsaraykuna; askhakunam ñuqap hayunpi sayachkankum.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imaynata"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "askhayan"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ñuqap tsaraykuna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askhakunam"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "sayachkankum"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap hayunpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:41.258771141Z",
+  "model": "glm-5.3"
+}

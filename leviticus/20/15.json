@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Runapas mayqin puñunanta uywaman churan, wañunmi wañuchisqa kanqa; hinaspa ⟨את⟩ uywata wañuchiyqam.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "runapas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "churan"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "puñunanta"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "uywaman"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañun"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañuchisqa kanqa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "uywata"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "uywa"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "wañuchiyqam"
+    }
+  ],
+  "timestamp": "2026-09-08T01:07:34.915949563Z",
+  "model": "glm-5.3"
+}

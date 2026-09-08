@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Gatpi ama willaychichu, ama atallpachu waqaychichu; Beth Leaphrahpi (tuqu wasipi) tuquwanmi qallariykuni.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Gatpi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "willaychichu"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "waqay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "waqaychichu"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Leaphrahpi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tuqu"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "qallariykuni"
+    }
+  ],
+  "timestamp": "2026-09-08T09:03:53.220726744Z",
+  "model": "glm-5.3"
+}

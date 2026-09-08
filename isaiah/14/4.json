@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "isaiah 14:4",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 14,
+ "translation": "Kay willakuqta Bavel apinmanta ñawinchankim, ninki: Imaynata samirqá llakichiq, samirqá ñawpaq qullqi maqaq!",
+ "tokens": [
+  {
+   "surface": "ונשאת",
+   "gloss": "ñawinchankim"
+  },
+  {
+   "surface": "המשל",
+   "gloss": "willakuqta"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "kay"
+  },
+  {
+   "surface": "על",
+   "gloss": "manta"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "apin"
+  },
+  {
+   "surface": "בבל",
+   "gloss": "Bavel"
+  },
+  {
+   "surface": "ואמרת",
+   "gloss": "ninki"
+  },
+  {
+   "surface": "איך",
+   "gloss": "Imaynata"
+  },
+  {
+   "surface": "שבת",
+   "gloss": "samirqá"
+  },
+  {
+   "surface": "נגש",
+   "gloss": "llakichiq"
+  },
+  {
+   "surface": "שבתה",
+   "gloss": "samirqá"
+  },
+  {
+   "surface": "מדהבה",
+   "gloss": "ñawpaq qullqi maqaq"
+  }
+ ],
+ "timestamp": "2026-09-08T05:59:57.907383886Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 67,
+  "translation": "Yupaychachun qamtata runa llaqtakuna, Elohim; yupaychachun qamtata llapan runa llaqtakunapas.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Yupaychachun qamtata"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runa llaqtakuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "yupaychachun qamtata"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runa llaqtakunapas"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "llapan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:44.983243310Z",
+  "model": "glm-5.3"
+}

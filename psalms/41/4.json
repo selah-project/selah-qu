@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Yahwem payta onqoq wiranpi sayachinqa; onqosqanpi llapan wiranta tikrarqankim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "payta sayachinqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "wiranpi"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "onqoq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "wiranta"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "tikrarqankim"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "onqosqanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:06.579639065Z",
+  "model": "glm-5.3"
+}

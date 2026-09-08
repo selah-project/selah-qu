@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 9:12",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Imaraykum runapas mana riqsinqachu ⟨את⟩ pachanta; challwakuna hina mana allin waytapi hap'isqa, wallpakuna trampapi hap'isqan hina; chaynahinam runa wawakuna llangichisqa kanku mana allin pachapi, chay pacha sapanmanta paykunapatan urmaykachaptin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "riqsinqachu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pachanta"
+    },
+    {
+      "surface": "עתו",
+      "gloss": "pachanta"
+    },
+    {
+      "surface": "כדגים",
+      "gloss": "challwakuna hina"
+    },
+    {
+      "surface": "שנאחזים",
+      "gloss": "hap'isqa"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "waytapi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "וכצפרים",
+      "gloss": "wallpakuna trampapi hina"
+    },
+    {
+      "surface": "האחזות",
+      "gloss": "hap'isqa"
+    },
+    {
+      "surface": "בפח",
+      "gloss": "trampapi"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "chaynahinam"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "llangichisqa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakuna"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "mana allin pachapi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "כשתפול",
+      "gloss": "urmaykachaptin"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunapatan"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "sapanmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:43:40.215741367Z",
+  "model": "glm-5.3"
+}

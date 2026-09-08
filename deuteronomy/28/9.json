@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Yahwem qamta paypaq willka runaman sayachinqa, imayna qampamanta ahichasqan hina; Yahwe Elohimniykipa ⟨את⟩ kamachikuyninkunata waqaychaspa, paypa ñanninkunapi purinki chaymi.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "sayachinqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "runaman"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "willka"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ahichasqan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampamanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "waqaychaspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamachikuyninkunata"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kamachikuyninkunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniykipa"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "purinki"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "paypa ñanninkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:55:58.617205482Z",
+  "model": "glm-5.3"
+}

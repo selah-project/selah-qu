@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa nirqan: Bendito Yahwe, Israelpa Elohimnin, mayqin paypa siminwan ⟨את⟩ Davidtayta rimaspa, paypa makinwan hunt'achispa, nispa:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "bendito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimaspa"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "paypa siminwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidtayta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytay"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "hinallataq paypa makinwan"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'achispa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:42:57.200771995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Qespichikuyniykipi kusilla takisaqku, hinaspa Elohimninchikpa sutinpi unanchata huqarisaqku; Yahwem llapan mañakuykikita hunt'anqam.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "kusilla takisaqku"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "qespichikuyniykipi"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "sutinpi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "unanchata huqarisaqku"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "hunt'anqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "mañakuykikita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:58.909137151Z",
+  "model": "glm-5.3"
+}

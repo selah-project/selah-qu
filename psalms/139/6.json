@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Kay yachayqa pil'aymi ñuqamanta; hananpi sayachisqam, manam atinichu chayta.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "pil'ay"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "yachay"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "hananpi sayachisqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "atinichu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chayta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:20.360860284Z",
+  "model": "glm-5.3"
+}

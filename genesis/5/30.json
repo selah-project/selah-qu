@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Lemekm ⟨את⟩ Noachta paqachisqan qhipam pichqa pachak isqon chunka pichqa wata kawsarqanm, hinaspa churiykunata, ususikunatapas paqarichirqanm.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqanm"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipam"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "paqachisqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noachta"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachta"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "hinaspa isqon chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "hinaspa pichqa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "paqarichirqanm"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churiykunata"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "hinaspa ususikunatapas"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:35.105385652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Yahwem kutiyta ⟨את⟩ Iyubta (Job) kutichirqan, nirqan.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kutiyta kutichirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyubta"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyubta (Job)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:21:51.814570900Z",
+  "model": "glm-5.3"
+}

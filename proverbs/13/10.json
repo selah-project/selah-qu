@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Sapaqlla k'usillukusapawanmi ch'eqnakuy paqarichin; hinaspa ⟨את⟩ yachakuspa rimaqkunapi yachaymi tiyan.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "sapaqlla"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "k'usillukusapawan (k'usillukusapa)"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "paqarichin"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "ch'eqnakuy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "yachakuspa rimaqkuna"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "yachakuspa rimaqkuna"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:40:36.963483353Z",
+  "model": "glm-5.3"
+}

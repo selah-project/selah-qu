@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 101,
+  "translation": "Q'echu ruwaq runa wasiypa ukhupin tiyanchu; llullakunata rimaj runa ñawiypa ñawpaqninpin sayachunmanchu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyanchu"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ukhupin"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "wasiy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "q'echu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimaj"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "llullakunata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "sayachunmanchu"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:51.318785835Z",
+  "model": "glm-5.3"
+}

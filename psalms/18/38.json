@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Awqaykunata qatikusaq, chaykunarqas chaskisaq, manam kutiusaqchu, llapan chinkakusqankukama.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "qatikusaq"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "awqaykunata"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "chaykunarqas chaskisaq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "kutiusaqchu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "llapan chinkakusqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:26.987203926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Israel (Israel) wawankunam, kashaqkuna, chay pachapi ⟨את⟩ Pesachta ruwarqanku, hinaspa ⟨את⟩ matsot fiestatawan qanchis p'unchaw.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "kashaqkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesachta"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesachta"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "matsot fiestata"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fiesta"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "matsot"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T13:20:30.127129956Z",
+  "model": "glm-5.3"
+}

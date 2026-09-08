@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Nefeshniykuwanmi t'antaykuta apamurqayku, sach'a-sach'apa churin rayku.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "nefeshniykuwan"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "apamurqayku"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "t'antaykuta"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "churin"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sach'a-sach'apa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:37:19.777148976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Sunqunpi nirqan: \"Elohimsi qunqarqun, ñawinta pakan, wiñaypaq manam qhawanchu.\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sunqunpi"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "qunqarqun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "pakan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ñawinta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "qhawan"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:17.128165396Z",
+  "model": "glm-5.3"
+}

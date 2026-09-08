@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Israelpas llakiyta ruwarqanmi, ñuqap Beritniytapis llallarqankum, kamachisqayta; herem kasqamanta hap'irqakupas, suwakurqakupas, llullarqakupas, k'ananchakunap ukhunpi churarqakupas.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "llakiyta ruwarqan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "llallarqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritniyta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritniyta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqata"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "kamachisqayta"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "hap'irqaku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "herem kasqamanta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "suwakurqaku"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "llullarqaku"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "churarqaku"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "k'ananchakunap ukhunpi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:11:32.056523544Z",
+  "model": "glm-5.3"
+}

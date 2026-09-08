@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Elohimninchik hamunqam, ch'inlla kanqachu: ñawpaqninpi nina mikhunqa, muyuriqninpiwayaq wayra sinchi phawarinqa.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "hamunqa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ch'inlla kanqachu"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ch'inllayta ama"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mikhunqa"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "muyuriqninpiwan"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "wayra sinchi phawarinqa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:37.312104774Z",
+  "model": "glm-5.3"
+}

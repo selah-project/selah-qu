@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Imaynam ch'aqllaspa tiyachkan llaqtaqa, askha runayuq karqan! Wakcha warmi hina tukurqan; nacionkunapi hatunmi karqan, provinciakunapi ñawpa warmi karqan, qullqi pagaq tukurqan.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Imaynam"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "ch'aqllaspa tiyachkan"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ch'aqlla"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtaqa"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "askha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runayuq karqan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "wakcha warmi hina"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "hatunmi karqan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nacionkunapi"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "ñawpa warmi karqan"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "provinciakunapi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "למס",
+      "gloss": "qullqi pagaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:36:06.685958733Z",
+  "model": "glm-5.3"
+}

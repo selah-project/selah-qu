@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chayqa qanchis killam chayarqan, Israelpa churinkunataq llaqtakunapi karqanku; runakunataq huk runa hinam Yerushalayimman (Jerusalén) huñikurqanku.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "killam"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "churinkunataq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "llaqtakunapi"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "huñikurqanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunataq"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "huk runa hinam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimman"
+    }
+  ],
+  "timestamp": "2026-09-08T12:09:26.379029175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Imaraykuchus payqa waqachaq wakchata qispichinqam, llakillasqatawan, paypa yanapaqnin mana kaptinqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "qispichinqa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "waqachaq"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "llakillasqatawan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana kaptin"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yanapaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:55.292679614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 3:2",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chayllam, Israel churinkunap wakunaman yachananpaq, maqanakuyta yachachinankupaq — chayllam mayqinkuna ñawpaqta mana riqsirqakuchu ⟨chaykunata⟩.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Chayllam"
+    },
+    {
+      "surface": "למען",
+      "gloss": "yachaychaninpaq"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "wakunaman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ללמדם",
+      "gloss": "yachachinankupaq"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "maqanakuyta"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chaylla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "riqsirqakuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T13:33:37.719309544Z",
+  "model": "glm-5.3"
+}

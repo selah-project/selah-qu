@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "Aniywaway, Elohim: runa ñuqata millp'uwanta ⟨ñuqaykuta⟩, tukuy p'unchaw awqanakuspam ñuqata liwiykachin.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Aniywaway"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ñuqata millp'uwan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "awqanakuspa"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "ñuqata liwiykachin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:58.711881778Z",
+  "model": "glm-5.3"
+}

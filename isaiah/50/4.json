@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Adonay Yahwem ñuqaman yachachisqa arawita qowarqan, ⟨את⟩ llakikusqata rimaywan k'ajichinaypaq yachanaypaq; tutamanta, tutamanta ñuqap rinrayta saruykun, yachachisqa hina uyarinaypaq.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qowarqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "arawi"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "yachachisqakunap"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "yachanaypaq"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "k'ajichinaypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llakikusqata"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "llakikusqata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimaywan"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "saruykun"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "saruykun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "rinrayta"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "uyarinaypaq"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "yachachisqa hina"
+    }
+  ],
+  "timestamp": "2026-09-08T06:37:01.002794096Z",
+  "model": "glm-5.3"
+}

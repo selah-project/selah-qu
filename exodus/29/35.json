@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa Aharon (Aarón) churinkunawan kayhinata ruwankim, llapa kamachikusqayhina; qanchis p'unchawmi ⟨את⟩ makinkunta hunt'anki.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruwanki"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonpaq (Aarón)"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "hinaspa churinkunapaq"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "kayhinata"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "llapa hina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "kamachikusqay"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩ qamta",
+      "marks": "kamachikusqay"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "hunt'anki"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "makinkunta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:40:04.584791077Z",
+  "model": "glm-5.3"
+}

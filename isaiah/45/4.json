@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Yanapuqniy Yaakovpa (Jacob) rayku, hinaspa akllasqay Israelpa rayku, qamta sutiykiwan waqyarqani, suticharqani; ichataq qam ñuqata mana yacharqankichu.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Yanapuqniy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "hinaspa ... Israelpa"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "akllasqay"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "waqyarqani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sutiykiwan"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "suticharqani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichataq mana"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "yacharqankichu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:30:36.465043260Z",
+  "model": "glm-5.3"
+}

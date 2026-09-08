@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa ⟨את⟩ tukuy rquchita kutichirqan, hinallataq ⟨את⟩ wawqin Lotta — ⟨את⟩ rquchinta kutichirqan — hinallataq ⟨את⟩ warmikunata, hinaspa ⟨את⟩ runakunata.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy rquchita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "rquchita"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotta"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqinta"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "rquchinta"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warmikunata"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "warmikunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    }
+  ],
+  "timestamp": "2026-09-07T23:55:04.019219722Z",
+  "model": "glm-5.3"
+}

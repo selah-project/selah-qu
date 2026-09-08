@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yahwem rimarqan Mitsrayim hallp'api Mosheman (Moisés) hinallataq Aharonman (Aarón) nispa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman (Moisés)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonman (Aarón)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:18.094945017Z",
+  "model": "glm-5.3"
+}

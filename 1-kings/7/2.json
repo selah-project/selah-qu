@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Wasicharqanm ⟨את⟩ Levanon (Líbano) sach'a-sach'ap wasita: pachak codo sunin, pichqa chunka codo rahun, kimsa chunka codo sayaynin, tawa cedro sunarkuna qatopi, hinaspa k'uchusqa cedro k'aspikuna chay sunarkunap patanpi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wasicharqanm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levanon sach'a-sach'ap wasita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sach'a-sach'ap"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Levanon (Líbano)"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "codo"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sunin"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "hinaspa pichqa chunka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "codo"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "rahun"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "hinaspa kimsa chunka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "codo"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "sayaynin"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "qatopi"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "sunarkunap"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedro"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "hinaspa k'uchusqa k'aspikuna"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedro"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sunarkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T05:03:49.760215275Z",
+  "model": "glm-5.3"
+}

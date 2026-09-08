@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 76,
+  "translation": "Qampa sinchi rimaykiwanmi, Yaakovpa Elohimnin, llanthu-puñuypim chayarqanku karrukunapas, caballukunapas.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "qampa sinchi rimaykiwan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "llanthu-puñuypim chayarqanku"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "karrukunapas"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "caballukunapas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:56.608818038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 5:24",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa kohenpa ⟨את⟩ warminta ukyachinqa ⟨את⟩ haqhu laqhachaq yakukunata; hinaspa chay laqhachaq yakunam payman yaykunki haqhuhina.",
+  "tokens": [
+    {
+      "surface": "והשקה",
+      "gloss": "hinaspa ukyachinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warminta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yakukunata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yakukunata"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "haqhu"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "laqhachaq"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "hinaspa yaykunki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "המים",
+      "gloss": "yakuna"
+    },
+    {
+      "surface": "המאררים",
+      "gloss": "laqhachaq"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "haqhuhina"
+    }
+  ],
+  "timestamp": "2026-09-08T01:21:11.885375570Z",
+  "model": "glm-5.3"
+}

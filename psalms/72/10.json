@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "psalms 72:10",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 72,
+ "translation": "Tarshishpa apukuna hinaspa wat'akuna minchata apamunkum; Shebapa apukuna hinaspa Seba apukuna qunakusqakunata churamunkum.",
+ "tokens": [
+  {
+   "surface": "מלכי",
+   "gloss": "apukuna"
+  },
+  {
+   "surface": "תרשיש",
+   "gloss": "Tarshishpa"
+  },
+  {
+   "surface": "ואיים",
+   "gloss": "wat'akunapas"
+  },
+  {
+   "surface": "מנחה",
+   "gloss": "mincha"
+  },
+  {
+   "surface": "ישיבו",
+   "gloss": "apamunku"
+  },
+  {
+   "surface": "מלכי",
+   "gloss": "apukuna"
+  },
+  {
+   "surface": "שבא",
+   "gloss": "Sheba"
+  },
+  {
+   "surface": "וסבא",
+   "gloss": "Sebapas"
+  },
+  {
+   "surface": "אשכר",
+   "gloss": "qunakusqa"
+  },
+  {
+   "surface": "יקריבו",
+   "gloss": "churamunku"
+  }
+ ],
+ "timestamp": "2026-09-08T09:59:55.292463410Z",
+ "model": "glm-5.3"
+}

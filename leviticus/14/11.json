@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa pichachiq kohenmi ⟨את⟩ pichachikusaq runata, hinaspa ⟨את⟩ chaykunatawan Yahwep ñawpaqninpi, tantakuy wasip punkunpi sayachinqa.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "sayachinqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "pichachiq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pichachikusaq runata"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "pichachikusaq"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chay ofrendakunata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkun"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tenta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "t'anakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T00:59:10.920210286Z",
+  "model": "glm-5.3"
+}

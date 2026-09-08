@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Yehonatanmi ⟨את⟩ p'achanta churakusqanta hurqurqan, Davidman qurqan, p'achankunantam, khunmantawan, wamantawan, chumpinmantawan.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achanta"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "p'achanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "churakusqanta"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "qurqan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidman"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "p'achankunantam"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mantawan"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "khun"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mantawan"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "wam"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mantawan"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "chumpin"
+    }
+  ],
+  "timestamp": "2026-09-08T04:19:43.449762538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Yahwepi kusikuy, hinaspa haqllakuy, cheqniyuqkuna; llapan chiqan sunquyuqkuna, takichirqaychik.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "kusikuy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "hinaspa haqllakuy"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cheqniyuqkuna"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "takichirqaychik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "chiqan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunquyuqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:00.152956621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Manam wakcha-t'inkichaqkuna qampa ñawikunayki ñawpaqinpi sayankuchu; llapan llulla-llamk'aqkunata ch'ikikunki.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "sayankuchu"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "wakcha-t'inkichaqkuna"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ñawpaqinpi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ñawikunayki"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ch'ikikunki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "llamk'aqkunata"
+    },
+    {
+      "surface": "און",
+      "gloss": "llulla-llamk'aq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:40.479910645Z",
+  "model": "glm-5.3"
+}

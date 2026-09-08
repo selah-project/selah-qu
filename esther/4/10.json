@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "esther 4:10",
+ "book": "esther",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Hinaspa Ester Hatakman nirqan, hinaspa payta Mordejaiman kamachirqan.",
+ "tokens": [
+  {
+   "surface": "ותאמר",
+   "gloss": "hinaspa nirqan"
+  },
+  {
+   "surface": "אסתר",
+   "gloss": "Ester"
+  },
+  {
+   "surface": "להתך",
+   "gloss": "Hatakman"
+  },
+  {
+   "surface": "ותצוהו",
+   "gloss": "hinaspa kamachirqan"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "מרדכי",
+   "gloss": "Mordekai"
+  }
+ ],
+ "timestamp": "2026-09-08T11:45:04.198827470Z",
+ "model": "glm-5.3"
+}

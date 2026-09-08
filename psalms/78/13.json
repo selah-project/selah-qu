@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "T'aqarqanmi mama quchata, chaymantataq paykunanta chayarqan; unakunatawantaq qutu hina sayachirqan.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "t'aqarqanmi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mama qucha"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "paykunanta chayarqan"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "sayachirqan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unakunata"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "נד",
+      "gloss": "qutu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:55.306585023Z",
+  "model": "glm-5.3"
+}

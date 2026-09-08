@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Qamkunataq, Yahwe Elohimniykichikman k'askaq kashaspa, kawsankichicheellam kunan p'unchaw, llapaykichikmi.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "qamkunataq"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "k'askaq"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichikman"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsankichichee"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "llapaykichik"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T02:32:18.576883135Z",
+  "model": "glm-5.3"
+}

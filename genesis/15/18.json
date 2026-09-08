@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Chay p'unchawpi Yahwem ⟨את⟩ Abrahamta (Abrahán) Berit kuchurqan (alianza), nispa: Qampa murunykiyki kay ⟨את⟩ hallp'ata qarqanimi, Mitsrayimpa (Egipto) mayumanta hatun mayukama, Perat mayu (Eufrates) kama.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kuchurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamta"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahamta"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Berit"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "qampa murunykiyki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qarqanimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "mayumanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-07T23:55:46.025195916Z",
+  "model": "glm-5.3"
+}

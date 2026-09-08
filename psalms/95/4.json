@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 95,
+  "translation": "Mayqanpa makinpillapim hallp'apa ukhunkuna kachkan, hinaspa urqukunap hanaqninkunapas paypam.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mayqanpa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "makinpi"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "ukhunkuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'apa"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "hinaspa hanaqninkuna"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "urqukuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:32.888306078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Llamk'apuqpaq, Ayelet hashachar (paqariyp paqochuri) patapi; Davidpa mizmor ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "llamk'apuqpaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayelet"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "hashachar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:20.792805125Z",
+  "model": "glm-5.3"
+}

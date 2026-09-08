@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Chayhina qatiriy paykunata wayra muyuykiwan, hinallataq wayrahark'aykiwan manchachiy paykunata.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "qatiriy paykunata"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "wayra muyuykiwan"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "hinallataq wayrahark'aykiwan"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "manchachiy paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:53.767179888Z",
+  "model": "glm-5.3"
+}

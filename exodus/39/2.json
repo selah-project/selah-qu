@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hinaspa ⟨את⟩ ephodta ruwarqanm: quri, anqas, kulli, kirmachuwan, q'aytusqa awaywan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hinaspa ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephodta"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephodta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "anqas"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "hinaspa kulli"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "hinaspa kirmachu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "puka"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "hinaspa away"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "q'aytusqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:51.141639104Z",
+  "model": "glm-5.3"
+}

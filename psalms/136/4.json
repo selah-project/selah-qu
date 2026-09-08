@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "psalms 136:4",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 136,
+ "translation": "Paymi sapallan ruran hatun mallikunata, ima mana rikunqachu rikch'aykunata; imaraykuchus wiñay kama jesednin.",
+ "tokens": [
+  {
+   "surface": "לעשה",
+   "gloss": "Paymi ruran"
+  },
+  {
+   "surface": "נפלאות",
+   "gloss": "ima mana rikunqachu rikch'aykuna"
+  },
+  {
+   "surface": "גדלות",
+   "gloss": "hatun mallikuna"
+  },
+  {
+   "surface": "לבדו",
+   "gloss": "sapallan"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "לעולם",
+   "gloss": "wiñay kama"
+  },
+  {
+   "surface": "חסדו",
+   "gloss": "jesednin"
+  }
+ ],
+ "timestamp": "2026-09-08T10:29:33.293518518Z",
+ "model": "glm-5.3"
+}

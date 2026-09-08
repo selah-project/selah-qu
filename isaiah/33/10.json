@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Kunanmi sayasaq, Yahwem nirqan; kunanmi hatunyasaq; kunanmi jatarichisaq.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "sayasaq"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "hatunyasaq"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "jatarichisaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:11:11.016357124Z",
+  "model": "glm-5.3"
+}

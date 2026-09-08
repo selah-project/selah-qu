@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Mallisqam ⟨kan⟩ wiksaykip wawan, hinaspa hallp'aykip rurun, wakaykip wawankuna, hinaspa uwijaykip wawankunapas.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Mallisqam"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "wawan (rurun)"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "wiksaykip"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "hinaspa rurun"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "hallp'aykip"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "wakaykip"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "hinaspa wawankuna"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "uwijaykip"
+    }
+  ],
+  "timestamp": "2026-09-08T02:57:27.636771748Z",
+  "model": "glm-5.3"
+}

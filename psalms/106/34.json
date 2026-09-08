@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Manachu paykuna ⟨את⟩ runa llaqtakunata chinkachirqanku, mayqinkunata Yahwem paykunaman nirqan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "chinkachirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runa llaqtakunata"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "runa llaqtakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:16.763743147Z",
+  "model": "glm-5.3"
+}

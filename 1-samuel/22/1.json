@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "David chaymantam rirqan, Adullam (Adullam) wayq'uman llusp'aykamurqan; wawqinkuna, llapan taytanpa wasinpas chayta uyarirqankum, payman chaymanmi uraykamurqanku.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "llusp'aykamurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "wayq'u"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "uyarirqanku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqinkuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinallataq llapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanpa"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "uraykamurqanku"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chayman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:25:58.553332030Z",
+  "model": "glm-5.3"
+}

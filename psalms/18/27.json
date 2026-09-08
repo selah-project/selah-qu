@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Ch'uyallawan ch'uyalla kanki, hinaspa q'iwu runawan q'iwuq kanki.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "ch'uyalla runa"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "ch'uyalla kanki"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "hinaspa wan"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "q'iwu runa"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "q'iwuq kanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:28.119272990Z",
+  "model": "glm-5.3"
+}

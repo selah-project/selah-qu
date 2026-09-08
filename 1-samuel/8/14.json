@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspam ⟨את⟩ chakrakunaykichikta, ⟨את⟩ wiñakunaykichikta, sumaq zeytunakunaykichiktawan apunqa, yanpanankunamanman qunqa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspam ⟨את⟩",
+      "marks": "chakrakunaykichikta"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "chakrakunaykichikta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wiñakunaykichikta"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "wiñakunaykichikta"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "zeytunakunaykichikta"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "sumaqkuna"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "apunqa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "qunqa"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "yanpanankunamanman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:05:23.926910443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 111,
+  "translation": "Paqarinan, hatun llamk'ayninqa; paqtanchayninqataq wiñaypaq sayachkanmi.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Paqarinan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "llamk'ayninqa"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "paqtanchayninqataq"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "sayachkanmi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:44.604538779Z",
+  "model": "glm-5.3"
+}

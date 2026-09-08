@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Nirqanimi: «Kunanña Pelishtokuna Gilgalman ñuqaman urqamunqakum, ñuqataq Yahwep ñawinta mana mañakurqanichu»; chayrayku ñuqata kallpaniyta atipaspa alirqani holocaustota.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nirqanimi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunanña"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "urqamunqaku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtokuna"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgalman"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "hinaspa ñawin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "mañakurqanichu"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "ñuqata kallpaniyta atipaspa"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "alirqani"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "holocaustota"
+    }
+  ],
+  "timestamp": "2026-09-08T04:10:27.557539988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinaspa El Shadday (Tukuy Atiyniyuq) ⟨את⟩ qamta bendichun, phalachun, mirarachun, runakunap huñunamanmi tukuchun.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bendichun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "qamta"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "phalachun"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "mirarachun"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "tukuchun"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "huñunaman"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:04:17.612860113Z",
+  "model": "glm-5.3"
+}

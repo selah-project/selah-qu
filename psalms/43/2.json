@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Qanmi kanki ñuqap sinchi pukara, Elohimniy; imaraykuchu ñuqata saqirquwanki? Imaraykuchu llakiylla purini awqap llakichikuyninpi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "qanmi kanki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "ñuqap sinchi pukara"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imaraykuchu"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "ñuqata saqirquwanki"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imaraykuchu"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "llakiylla"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "purini"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "llakichikuyninpi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:04.168374669Z",
+  "model": "glm-5.3"
+}

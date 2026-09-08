@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Yahwehina santu manam kanchu; imaraykuchus qam hawallapi manam kanchu; hinallataqmi Elohimninchikhina rumi manam kanchu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santu"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahwehina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "qam hawallapi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hinallataq manam kanchu"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "Elohimninchikhina"
+    }
+  ],
+  "timestamp": "2026-09-08T04:04:12.163211400Z",
+  "model": "glm-5.3"
+}

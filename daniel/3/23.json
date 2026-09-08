@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 3:23",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa kay kimsantin runakunam — Shadrakh (Sadrac), Meshakh (Misac), hinaspa Avad Nego (Abdénego) — wisq'asqalla rawraq ninap chawpinman urmarqanku.",
+  "tokens": [
+    {
+      "surface": "וגבריא",
+      "gloss": "hinaspa runakunam"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תלתהון",
+      "gloss": "kimsantin"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Shadrakh"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "hinaspa Avad"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "urmarqanku"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "chawpinman"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "nina wasi"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ninap"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "rawraq"
+    },
+    {
+      "surface": "מכפתין",
+      "gloss": "wisq'asqalla"
+    }
+  ],
+  "timestamp": "2026-09-08T11:56:13.212415992Z",
+  "model": "glm-5.3"
+}

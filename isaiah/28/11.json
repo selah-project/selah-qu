@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Chaymi chaqaq wiruwan hinaspa wak simiwan willakunqam kay runakunaman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "chaqaq"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "wiruwan"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "hinaspa simiwan"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "wak"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "willakunqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T06:10:36.131346572Z",
+  "model": "glm-5.3"
+}

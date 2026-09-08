@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 115,
+  "translation": "Mana ñuqanchikmanchu, Yahwe, mana ñuqanchikmanchu — Sutiykipaqmi hatun k'anchayta qoy, imarayku jesedniyki rayku, cheqayniyki rayku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mana...chu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Sutiykipaq"
+    },
+    {
+      "surface": "תן",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "hatun k'anchayta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "cheqayniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:52.801792843Z",
+  "model": "glm-5.3"
+}

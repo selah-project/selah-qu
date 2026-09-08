@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Ch'usaq pachata unu quchallamanmi t'ikrarqan, hinaspa ch'aki hallp'ata unu lluqsinakunaman.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "t'ikrarqan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ch'usaq pachata"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "unu quchallaman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "hinaspa ch'aki hallp'ata"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ch'aki"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "unu lluqsinakunaman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:57.976952320Z",
+  "model": "glm-5.3"
+}

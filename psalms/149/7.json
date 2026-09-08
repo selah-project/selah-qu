@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 149,
+  "translation": "Suyukunapi kutichiyta ruwanankupaq, runa llaqtakunapipas p'inqachiyta.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanankupaq"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "kutichiy"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "suyukunapi"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "p'inqachiy"
+    },
+    {
+      "surface": "בל",
+      "gloss": "llaqtakunapi"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "runa llaqtakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:48.262939603Z",
+  "model": "glm-5.3"
+}

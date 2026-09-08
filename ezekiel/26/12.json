@@ -1,0 +1,73 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "ezekiel 26:12",
+ "book": "ezekiel",
+ "lang": "qu",
+ "chapter": 26,
+ "translation": "Qhatiqkuna hunt'asqam qullqikunata suwakunqaku, qhatu imaykikunata waqyachikunqaku; hayaq wasiykikunata thunikunqaku, munasqa wasiykikunata t'ikrasunqaku; hinaspa rumiykita, sach'aykita, qoraykitawan unup chawpinpi churanqakum.",
+ "tokens": [
+  {
+   "surface": "ושללו",
+   "gloss": "suwakunqakum"
+  },
+  {
+   "surface": "חילך",
+   "gloss": "qullqikunata"
+  },
+  {
+   "surface": "ובזזו",
+   "gloss": "waqyachikunqakum"
+  },
+  {
+   "surface": "רכלתך",
+   "gloss": "qhatu imaykikunata"
+  },
+  {
+   "surface": "והרסו",
+   "gloss": "thunikunqakum"
+  },
+  {
+   "surface": "חומותיך",
+   "gloss": "hayaq wasiykikunata"
+  },
+  {
+   "surface": "ובתי",
+   "gloss": "wasiykikunata"
+  },
+  {
+   "surface": "חמדתך",
+   "gloss": "munasqa"
+  },
+  {
+   "surface": "יתצו",
+   "gloss": "t'ikrasunqakum"
+  },
+  {
+   "surface": "ואבניך",
+   "gloss": "rumiykita"
+  },
+  {
+   "surface": "ועציך",
+   "gloss": "sach'aykita"
+  },
+  {
+   "surface": "ועפרך",
+   "gloss": "qoraykitawan"
+  },
+  {
+   "surface": "בתוך",
+   "gloss": "chawpinpi"
+  },
+  {
+   "surface": "מים",
+   "gloss": "unup"
+  },
+  {
+   "surface": "ישימו",
+   "gloss": "churanqakum"
+  }
+ ],
+ "timestamp": "2026-09-08T08:17:40.007087118Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Manam qamman kanqachu wak dioskuna ñuqap ñawpaypi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqachu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wak"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:58.793762563Z",
+  "model": "glm-5.3"
+}

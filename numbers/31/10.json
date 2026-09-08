@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Hinaspa llapan llaqtankunata ⟨את⟩ tiyaysiyinkupi, llapan pukarakunatawan ⟨את⟩ ninawan rupharqankum.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan llaqtankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "llaqtankunata"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "tiyaysiyinkupi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan pukarakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "pukarakunata"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "rupharqankum"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninawan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:19:40.974713651Z",
+  "model": "glm-5.3"
+}

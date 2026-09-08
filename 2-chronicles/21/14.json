@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 21:14",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Qhaway: Yahwem runaykikunapi, churiykikunapipas, warmiykikunapipas, tukuy kaptiykikunapipas hatun plagawan mac'inqam.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "mac'inqam"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "plagawan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "runaykikunapi"
+    },
+    {
+      "surface": "ובבניך",
+      "gloss": "churiykikunapipas"
+    },
+    {
+      "surface": "ובנשיך",
+      "gloss": "warmiykikunapipas"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "tukuy...pipas"
+    },
+    {
+      "surface": "רכושך",
+      "gloss": "kaptiykikunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:07:58.280532865Z",
+  "model": "glm-5.3"
+}

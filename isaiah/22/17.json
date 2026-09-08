@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Qhawariy: Yahwem qamta wayq'usqam, wayq'usqa sinchi runata, hinaspa qamta p'achakusqata p'achakunqam.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "qamta wayq'usqam"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "wayq'usqa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "sinchi runata"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "hinaspa qamta p'achakusqata"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "p'achakunqam"
+    }
+  ],
+  "timestamp": "2026-09-08T06:05:49.463630259Z",
+  "model": "glm-5.3"
+}

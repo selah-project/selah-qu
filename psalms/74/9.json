@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Unanchaykutaqa mana rikunaykuchu; naviqa manañam kanchu; manam ⟨את⟩ ñuqaykuwan kanchu maykama kasqata yachaq runa.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "unanchayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "rikunaykuchu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana…kanchu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mañana"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñuqaykuwan",
+      "marks": "yachaq runa (maykama kasqata yachaq)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "maykama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:49.612332881Z",
+  "model": "glm-5.3"
+}

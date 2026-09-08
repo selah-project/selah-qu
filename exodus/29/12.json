@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa torap yawarmanta hap'inki, ruk'anaykiwan altarp renkunkunapi churanki; hinaspa ⟨את⟩ tukuy yawarta altarp teqsinman t'inkinki.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "hap'inki"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "yawarmanta"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "torap"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "renkunkunapi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarp"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "ruk'anaykiwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy yawarta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "yawarta"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "t'inkinki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "teqsinman"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarp"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:23.463167946Z",
+  "model": "glm-5.3"
+}

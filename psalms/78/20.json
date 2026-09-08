@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Qhawari: rumita t'eqamunmi, chaysi unu phawaykamuwan, mayukuna kallpawan purimunmi; ichataq t'antata qonqachu, icha aychata runanpaq wakichinmanchu?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "qhawari"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "t'eqamunmi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rumita"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "chaysi phawaykamuwan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "mayukuna"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "kallpawan purimunmi"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ichataq"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'antata"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "qonqachu"
+    },
+    {
+      "surface": "תת",
+      "gloss": "qonqa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "icha"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "wakichinmanchu"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "aychata"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "runanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:33.706922361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Yoabqa kutichirqan, nispa: «Ama sinsi, ama sinsi ñuqamanta: manam millp'usaqchu, manataq chinkachisaqchu.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ama sinsi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ama sinsi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "millp'usaqchu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "manataq sichus"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "chinkachisaqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T04:49:37.018200905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Kerubimkunapipunim runap makinpa rikch'aynin rikurirqan, q'arankunap ukhunpi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurirqan"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "kerubimkunapipuni"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "rikch'aynin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "makinpa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "q'arankunap"
+    }
+  ],
+  "timestamp": "2026-09-08T07:57:22.963318503Z",
+  "model": "glm-5.3"
+}

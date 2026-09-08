@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Q'utirkukuspam millayta, q'iwita rimanku; hanaq pachamanta hina hatun simiwan rimanku.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "q'utirkukuspa"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "rimanku"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "millayta"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "q'iwita"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "hanaq pachamanta hina"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "hatun simiwan rimanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:28.930158604Z",
+  "model": "glm-5.3"
+}

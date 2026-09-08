@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 57,
+  "translation": "Chaninaway Elohim, chaninaway: qampi nefeshniy hark'aakunmi, hinaspa k'anaqnikiykip llanthupi hark'akusaq, llakikuna karu tukunqankamami.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "chaninaway"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "chaninaway"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus ⟨kayhina⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "hark'aakun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "hinaspa llanthupi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "k'anaqnikiykip"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "hark'akusaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "karu tukunqan"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "llakikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:58.526574617Z",
+  "model": "glm-5.3"
+}

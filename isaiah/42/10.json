@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "isaiah 42:10",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 42,
+ "translation": "Yahweman takiy mushuq takita; Yupaychayninqa hallp'ap kantunmantam: quchaman urmakuqkuna, hunt'aynintawan, chalakuna, chaypi kawsaqninkunawan.",
+ "tokens": [
+  {
+   "surface": "שירו",
+   "gloss": "takiy"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahweman"
+  },
+  {
+   "surface": "שיר",
+   "gloss": "taki"
+  },
+  {
+   "surface": "חדש",
+   "gloss": "mushuq"
+  },
+  {
+   "surface": "תהלתו",
+   "gloss": "Yupaychaynin"
+  },
+  {
+   "surface": "מקצה",
+   "gloss": "kantunmanta"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "hallp'ap"
+  },
+  {
+   "surface": "יורדי",
+   "gloss": "urmakunkuna"
+  },
+  {
+   "surface": "הים",
+   "gloss": "qucha"
+  },
+  {
+   "surface": "ומלאו",
+   "gloss": "hunt'aynintawan"
+  },
+  {
+   "surface": "איים",
+   "gloss": "chalakuna"
+  },
+  {
+   "surface": "וישביהם",
+   "gloss": "chaypi kawsaqninkunawan"
+  }
+ ],
+ "timestamp": "2026-09-08T06:22:07.377146946Z",
+ "model": "glm-5.3"
+}

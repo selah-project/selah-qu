@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Takichiy Yahweman, Tsiyonpi tiyaqta; willay llaqtakunapipas rurasqankunata.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Takichiy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonpi"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "willay"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "llaqtakunapipas"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "rurasqankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:49.694378263Z",
+  "model": "glm-5.3"
+}

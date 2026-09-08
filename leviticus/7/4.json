@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa ⟨את⟩ iskay ishpinkakunata, hinaspa ⟨את⟩ paykunap patanpi, k'asakunap patanpi kaq wirata, hinaspa ⟨את⟩ k'iwip patanpi kaq t'ipiqta, ishpinkakunawan hurquchinqa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "iskay ishpinkakunata"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ishpinkakuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wira"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "wira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "paykunap patanpi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "k'asakuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "t'ipiqta"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "t'ipiq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "k'iwi"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ishpinkakunap"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "hurquchinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:53:45.506263340Z",
+  "model": "glm-5.3"
+}

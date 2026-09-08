@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Sunquyi purin sayk'uspanmi, mancharichiy mancharichirqanmi; ⟨את⟩ khusqay ch'isita churarqan ñuqaman lat'anakuypaq.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "purin sayk'uspan"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "sunquyi"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "mancharichiy"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "mancharichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khusqay ch'isita"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "ch'isi"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "khusqay"
+    },
+    {
+      "surface": "שם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "lat'anakuypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:04:31.670759175Z",
+  "model": "glm-5.3"
+}

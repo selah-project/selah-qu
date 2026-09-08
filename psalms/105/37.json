@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 105:37",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Qollqewan, quriwanmi hurqurqan; paypa ayllukunanpi sarunakuq mana karqanchu.",
+  "tokens": [
+    {
+      "surface": "ויוציאם",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "qollqewan"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "quriwan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana karqanchu"
+    },
+    {
+      "surface": "בשבטיו",
+      "gloss": "paypa ayllukunanpi"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "sarunakuq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:47.622391071Z",
+  "model": "glm-5.3"
+}

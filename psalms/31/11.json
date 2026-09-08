@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Kunarayku llakikuywan tukurqan kawsayniy, hinaspa watakunay anaykunawan; huchayrayku kallpaysapa thaskiykachkan, tullukunaypas chinkarqankum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kunarayku"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "llakikuywan"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kawsayniy"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "hinaspa watakunay"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "anaykunawan"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "thaskiykachkan"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "huchayrayku"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kallpaysapa"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "hinaspa tullukunay"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "chinkarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:25.124976436Z",
+  "model": "glm-5.3"
+}

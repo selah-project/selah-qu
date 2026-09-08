@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "1-kings 3:8",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 3,
+ "translation": "Hinaspa yanapaykiyki llaqtayki — qam akllasqayki — chawpipin kachkan: askha llaqta, manam yupaywachwaqchu, manataq yupasqachu, askha kasqanrayku.",
+ "tokens": [
+  {
+   "surface": "ועבדך",
+   "gloss": "hinaspa yanapaykiyki"
+  },
+  {
+   "surface": "בתוך",
+   "gloss": "chawpinpi"
+  },
+  {
+   "surface": "עמך",
+   "gloss": "llaqtayki"
+  },
+  {
+   "surface": "אשר",
+   "gloss": ""
+  },
+  {
+   "surface": "בחרת",
+   "gloss": "akllasqayki"
+  },
+  {
+   "surface": "עם",
+   "gloss": "llaqta"
+  },
+  {
+   "surface": "רב",
+   "gloss": "askha"
+  },
+  {
+   "surface": "אשר",
+   "gloss": ""
+  },
+  {
+   "surface": "לא",
+   "gloss": "manam"
+  },
+  {
+   "surface": "ימנה",
+   "gloss": "yupaywachwaqchu"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "manataq"
+  },
+  {
+   "surface": "יספר",
+   "gloss": "yupasqachu"
+  },
+  {
+   "surface": "מרב",
+   "gloss": "askha kasqanrayku"
+  }
+ ],
+ "timestamp": "2026-09-08T04:59:46.703046639Z",
+ "model": "glm-5.3"
+}

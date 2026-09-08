@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Phichhitinkuna paykunap patanman urmayunkuchun; nina ukhupi paykunata wisch'uchun; ch'uwa lurakunaman — mana hayk'appas sayarinkuchu.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "urmayunkuchun"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunap patanman"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "phichhitinkuna"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nina ukhupi"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "wisch'uchun"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "ch'uwa lurakunaman"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana hayk'appas"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "sayarinkuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:52.666699370Z",
+  "model": "glm-5.3"
+}

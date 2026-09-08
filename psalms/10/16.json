@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yahwe apum wiñay wiñaynan kapaq; wak llaqtakuna hallp'inmanta chinkarqankum.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñaynan kapaq"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "chinkarqankum"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "wak llaqtakuna"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "hallp'inmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:36.647931540Z",
+  "model": "glm-5.3"
+}

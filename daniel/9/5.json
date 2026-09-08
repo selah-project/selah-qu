@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Pantirqaykum, haq'orqayku, millayta ruwarqayku, thaknirqayku, kamachikuyniykimanta, chinrukunaykimantawan wikch'urqayku.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Pantirqayku"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "haq'orqayku"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "millayta ruwarqayku"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "thaknirqayku"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "wikch'urqayku"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "kamachikuyniykimanta"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "chinrukunaykimantawan"
+    }
+  ],
+  "timestamp": "2026-09-08T12:02:17.225234584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Imaraykuchus qamtaq mak'irqaykita chayta paykunam qatipan; hinaspa nanayman k'irusqaykikunamanta paykunam willankum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "mak'irqayki"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "paykunam qatipan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa … -man"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "nanayman"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "k'irusqaykikunamanta"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "paykunam willankum"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:47.406847867Z",
+  "model": "glm-5.3"
+}

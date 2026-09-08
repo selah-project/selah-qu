@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "psalms 31:25",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 31,
+ "translation": "Sinchiykachichik, icha Yahwem sunquykikunata k'ajaykachinqa, llapan Yahweta suyakuqkuna.",
+ "tokens": [
+  {
+   "surface": "חזקו",
+   "gloss": "Sinchiykachichik"
+  },
+  {
+   "surface": "ויאמץ",
+   "gloss": "icha ... k'ajaykachinqa"
+  },
+  {
+   "surface": "לבבכם",
+   "gloss": "sunquykikunata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "המיחלים",
+   "gloss": "suyakuqkuna"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahweta"
+  }
+ ],
+ "timestamp": "2026-09-08T09:39:21.562568481Z",
+ "model": "glm-5.3"
+}

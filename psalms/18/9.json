@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "psalms 18:9",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 18,
+ "translation": "Wayranpim wisphu phawayarqan, hinaspa siminmanta ninam mikhuwan; q'onchakunam paymanta rawrarirqanku.",
+ "tokens": [
+  {
+   "surface": "עלה",
+   "gloss": "phawayarqan"
+  },
+  {
+   "surface": "עשן",
+   "gloss": "wisphu"
+  },
+  {
+   "surface": "באפו",
+   "gloss": "wayranpi"
+  },
+  {
+   "surface": "ואש",
+   "gloss": "hinaspa nina"
+  },
+  {
+   "surface": "מפיו",
+   "gloss": "siminmanta"
+  },
+  {
+   "surface": "תאכל",
+   "gloss": "mikhuwan"
+  },
+  {
+   "surface": "גחלים",
+   "gloss": "q'onchakuna"
+  },
+  {
+   "surface": "בערו",
+   "gloss": "rawrarirqanku"
+  },
+  {
+   "surface": "ממנו",
+   "gloss": "paymanta"
+  }
+ ],
+ "timestamp": "2026-09-08T09:35:10.015267258Z",
+ "model": "glm-5.3"
+}

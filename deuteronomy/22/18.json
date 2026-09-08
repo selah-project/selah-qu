@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Chaym chay llaqta kurakakuna ⟨את⟩ qharita hap'irqanku, hinaspa ⟨את⟩ payta yanaparqanku ⟨yasirqanku⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "chaym hap'irqanku"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kurakakuna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qharita"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "hinaspa yanaparqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:51:27.960747326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "«Ñuqam p'itirqani, unuta uyarqani; chakiy k'apatanwanmi llapa Matsorpa mayunkunata ch'akichirqani.»",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ñuqa"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "p'itirqani"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "hinaspa uyarqani"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "hinaspa ch'akichirqani"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "k'apatanwan"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "chakiy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "mayunkuna"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Matsorpa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:18:24.590524403Z",
+  "model": "glm-5.3"
+}

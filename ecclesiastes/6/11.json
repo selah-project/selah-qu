@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Askha simikuna hevelta askhachinrayku, imataq yapakun runapaq?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "simikuna"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "askha"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "askhachin"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevelta"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "yapakun"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "runapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:50.186266110Z",
+  "model": "glm-5.3"
+}

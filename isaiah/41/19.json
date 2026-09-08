@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Ch'usaq pachapi Erez (cedro) sach'ata, Shitata, Hadasta hinaspa ñuñu sach'ata chursaqmi; Arabapata Barosh, Tidhar hinaspa Teashur kuskalla churasaq.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "chursaqmi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pachapi"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "Erez"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "Shita"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "Hadasta"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "sach'ata"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ñuñu"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "churasaq"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Arabapi"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "Barosh"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "Tidhar"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "Teashur"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kuskalla"
+    }
+  ],
+  "timestamp": "2026-09-08T06:25:30.788604352Z",
+  "model": "glm-5.3"
+}

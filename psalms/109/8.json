@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Punchawninkuna pisim kanman, hinaspa wakin runa kamachikuyninta hapun.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "kanman"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "punchawninkuna"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "kamachikuyninta"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "hapun"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wakin runa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:30.905169261Z",
+  "model": "glm-5.3"
+}

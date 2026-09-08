@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Manaraq muchuyninkumanta t'akarqankuchu; mikhuyqañam siminkupillapi karqan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "t'akarqankuchu"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "muchuyninkumanta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ña"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "mikhuy"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "siminkupillapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:49.693731139Z",
+  "model": "glm-5.3"
+}

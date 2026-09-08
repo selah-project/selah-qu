@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Sichus ⟨את⟩ Yahweta saqiwankichik hinaspa wak llaqtap dioskunata serviwankichik, paymi kutimunqa, qamkunaman llakita ruwanqa, hinaspa ⟨את⟩ qamkunata chinkachinqa, qamkunaman allinta rurasqan qhipan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "saqiwankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "hinaspa serviwankichik"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dioskunata"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wak llaqtap"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kutimunqa"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "llakita ruwanqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "chinkachinqa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "allinta ruraptin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T03:35:16.005652387Z",
+  "model": "glm-5.3"
+}

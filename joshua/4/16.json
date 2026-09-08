@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kamachiy ⟨את⟩ kohenkunata — testiguq arkanta apquqkunata — Yardenmanta hawaman lluqsimunkupaq.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "kamachiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohenkunata"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkunata"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "apquqkunata"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkanta"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "testiguq"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "hawaman lluqsimunku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-08T03:05:47.487256767Z",
+  "model": "glm-5.3"
+}

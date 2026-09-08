@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaymanta David chaynintam ruwarqan, imaynachus Yahwe kamachirqan; hinaspa ⟨את⟩ Pelishtokunata yarqarqan Gebamanta, Gezerman chayakamuspa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayninta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imaynachus"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "hinaspa yarqarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtokunata"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtokunata"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "Gebamanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "באך",
+      "gloss": "chayakamuspa"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:34:53.232162897Z",
+  "model": "glm-5.3"
+}

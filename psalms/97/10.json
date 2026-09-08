@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "psalms 97:10",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 97,
+ "translation": "Yahwepa khuyaqkuna, mana allinta (rata) chikniychik; payqa jasidninkunapa nefeshninkunata waqaychanmi, mana allin runakunap makinmanta dichisqam.",
+ "tokens": [
+  {
+   "surface": "אהבי",
+   "gloss": "khuyaqkuna"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "שנאו",
+   "gloss": "chikniychik"
+  },
+  {
+   "surface": "רע",
+   "gloss": "mana allinta (rata)"
+  },
+  {
+   "surface": "שמר",
+   "gloss": "waqaychanmi"
+  },
+  {
+   "surface": "נפשות",
+   "gloss": "nefeshninkunata"
+  },
+  {
+   "surface": "חסידיו",
+   "gloss": "jasidninkunapa"
+  },
+  {
+   "surface": "מיד",
+   "gloss": "makinmanta"
+  },
+  {
+   "surface": "רשעים",
+   "gloss": "mana allin runakunap"
+  },
+  {
+   "surface": "יצילם",
+   "gloss": "dichisqam"
+  }
+ ],
+ "timestamp": "2026-09-08T10:13:00.401544840Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Chaymi apu munanqachá mana — apu munanqam sumaq kayniykita; paymi Adonayniyki; payman hinaqlapuy.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "chaymi apu munanqa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "sumaq kayniykita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "Adonayniyki"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "hinaspa hinaqlapuy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:41.107359527Z",
+  "model": "glm-5.3"
+}

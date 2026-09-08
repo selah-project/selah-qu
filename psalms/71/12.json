@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Elohim, ama ñuqamanta karaykachawaychu; Elohimniy, yanapayman usqhaylla chayamuy.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "karaykachawaychu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "yanapayman"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "usqhaylla chayamuy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:34.639562191Z",
+  "model": "glm-5.3"
+}

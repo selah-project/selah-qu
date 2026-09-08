@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Llapan hallp'a Yahweta mancharichun; paymanta llapan pachapi kawsaqkuna mancharikunchu.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "mancharichun"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "mancharikunchu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kawsaqkuna"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pachapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:37.469495658Z",
+  "model": "glm-5.3"
+}

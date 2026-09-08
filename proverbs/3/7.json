@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ama ñawiyki ukhupi yachaq kanay yuyaychu; ⟨את⟩ Yahweta manchariy, hinaspam llasaqmanta awaykullay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "kanay yuyay"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ñawiyki ukhupi"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "manchariy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "awaykullay"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "llasaqmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:00.353658355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Paykunawan ⟨את⟩ rimarqaku, nispa: «Sichus ⟨את⟩ munayykichichus kan wañusqayta ñawpaqmanta qarqaspa p'anqanaypaq ⟨את⟩, chayqa uyariwanku, hinaspa Efronwan (Efrón) — Tsoharpa (Zohar) churinwan — ñuqapaq rimarinkichik.»",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqaku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "munayykichikta"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "munayykichik"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "p'anqanaypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wañusqayta"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wañusqayta"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqmanta"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "uyariwanku"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "rimarinkichik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "Efronwan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Tsoharpa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:33.753574957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "proverbs 10:15",
+ "book": "proverbs",
+ "lang": "qu",
+ "chapter": 10,
+ "translation": "Qullqiyoq runap qapaqkayninqa atiyniyuq llaqtanmi; wakcha runakunap chinkariyninqa wakchayninkum.",
+ "tokens": [
+  {
+   "surface": "הון",
+   "gloss": "qapaqkaynin"
+  },
+  {
+   "surface": "עשיר",
+   "gloss": "qullqiyoq runap"
+  },
+  {
+   "surface": "קרית",
+   "gloss": "llaqtan"
+  },
+  {
+   "surface": "עזו",
+   "gloss": "atiyniyuq"
+  },
+  {
+   "surface": "מחתת",
+   "gloss": "chinkariynin"
+  },
+  {
+   "surface": "דלים",
+   "gloss": "wakcha runakunap"
+  },
+  {
+   "surface": "רישם",
+   "gloss": "wakchayninku"
+  }
+ ],
+ "timestamp": "2026-09-08T10:40:30.195041615Z",
+ "model": "glm-5.3"
+}

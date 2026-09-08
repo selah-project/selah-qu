@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Yahwepa makinpas paykunapi karqanmi, kampamentopa ukhumanta chinkachinankama, llapan tukukusqankama.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "-pas"
+    },
+    {
+      "surface": "יד",
+      "gloss": "maki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunapi"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "chinkachinankama"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ukhumanta"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampamento"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "tukukusqankama"
+    }
+  ],
+  "timestamp": "2026-09-08T02:27:20.985240625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yahwepa rimayninkunaqa p'ichiy rimaykuna ⟨kan⟩mi: qullqi hina, hallp'a t'inkinapi (alil) illasqa, qanchis kutitawan t'inkisqa.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "rimayninkunaqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "rimaykuna"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "p'ichiy"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "illasqa"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "t'inkinapi (alil)"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "t'inkisqa"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "qanchis kutitawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:54.203724875Z",
+  "model": "glm-5.3"
+}

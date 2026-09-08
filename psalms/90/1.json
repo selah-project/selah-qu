@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Moshepa (Moisés) t'ikraynin, Elohim runapa: Adonay, qammi ñuqanchikpa tiyay wasinchik karqanki, wata watawan.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "t'ikraynin"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshepa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tiyay wasi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "היית",
+      "gloss": "karqanki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikpa"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "watawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:49.594413196Z",
+  "model": "glm-5.3"
+}

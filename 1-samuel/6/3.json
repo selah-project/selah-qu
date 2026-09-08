@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaymanta nirqankum: \"Sichus ⟨את⟩ Israelpa Elohimninpa arcanta kachankichik, ama ⟨את⟩ ch'usaqta kachawaychichu; ichataq ashanta payman kutichiychik. Chaymihampikankichik, chaymi willakunkichik imarayku paypa makin qamkunamantan mana chinchikunchu.\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqankum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "kachankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcanta (Israelpa Elohimninpa arcanta)"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arcanta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimninpa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "kachawaychichu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ch'usaqta"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ch'usaqta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ichataq"
+    },
+    {
+      "surface": "השב",
+      "gloss": "kutichiy-"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "kutichiychik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ashanta"
+    },
+    {
+      "surface": "אז",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "hampikankichik"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "willakunkichik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "chinchikun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "paypa makin"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "qamkunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:07:30.164941546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Ama awqaypa nimananpaq: «Yallirqanimi ⟨את⟩ payta»; ama llakichikuqkunapas kusikunkuchu ñuq thaknaqtiy.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ama …paq"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nimanapaq"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqaypa"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "yallirqanimi payta"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "llakichikuqkunapas"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "kusikunkuchu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ñuq thaknaqtiy"
+    }
+  ],
+  "timestamp": "2026-09-08T15:31:25.434961364Z",
+  "model": "glm-5.3"
+}

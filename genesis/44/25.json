@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Chaysi taytanchikqa nirqan: Kutiychik, asllata mihunata ñuqanchikpaq rantichayku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Chaysi nirqan"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "taytanchik"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Kutiychik"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "rantichayku"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikpaq"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "aslla"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mihuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:16:33.630771361Z",
+  "model": "glm-5.3"
+}

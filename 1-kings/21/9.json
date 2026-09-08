@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Qillqakunapim qillparqan kayta ninanpaq: ayunuta qillqarichiy, hinaspa ⟨את⟩ Navot (Nabot) runakunap ñawpaqenpi tiyachiy.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "qillparqan"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "qillqakunapi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta ninanpaq"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "qillqarichiy"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ayunuta"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "hinaspa tiyachiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot (Nabot)"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "runakunap ñawpaqenpi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T05:19:47.624933371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Yahwem tsidik kasqanraykum tsidaqatkunata kuyan; chiqan runakunam paypa ñawinta riqsinqaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kasqanraykum"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsidik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsidaqatkunata"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "kuyan"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "chiqan runakunam"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "riqsinqaku"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "paypa ñawinta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:45.936911527Z",
+  "model": "glm-5.3"
+}

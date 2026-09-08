@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Pitah Tsiyonmanta Israelpa qispichiyninta quwanqa! Yahwem pay runankunap watakusqankunata kutichiptinmi, Yaakov (Jacob) kusikunqa, Israel phawkallaq kapunqa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "quwanqa"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyonmanta"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "qispichiyninta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "kutichiptin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "watakusqankunata"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pay runankunap"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "kusikunqa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov (Jacob)"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "phawkallaq kapunqa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:19.791331898Z",
+  "model": "glm-5.3"
+}

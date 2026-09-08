@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 11:3",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Yavesh kuraqkunataq payman niqanku: «Suyaway ñuqanchikta qanchis p'unchaw, llapan Israel saywan willaqkunata kachasaqku; sichus qespichiqqa mana kanchu, qamman lluqsisaqku».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "niqanku"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kuraqkuna"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "Suyaway"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikta"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ונשלחה",
+      "gloss": "kachasaqku"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "willaqkuna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "saywa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "qespichiq"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqanchikta"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "lluqsisaqqku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:11:27.783454136Z",
+  "model": "glm-5.3"
+}

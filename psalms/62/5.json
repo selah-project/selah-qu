@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Sapa paypa hatun kayninmanta urmachiyta yuyanku; llullawan kusikunku; siminkuwan bendinku, sonqonkupitaq lump'anku. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "paypa hatun kayninmanta"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "yuyanku"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "urmachiyta"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "kusikunku"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "llullawan"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "siminkuwan"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "bendinku"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "sonqonkupitaq"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "lump'anku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T15:31:25.434425554Z",
+  "model": "glm-5.3"
+}

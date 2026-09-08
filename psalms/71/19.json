@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Cheqan kayniykitawan, Elohim, hanaq pachakama chayanmi; ancha hatun imakunata ruramuwankim: Elohim, ¿pi kan qinallayki hina?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "cheqan kayniykitawan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hanaq pachakama"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ruramuwankim"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ancha hatun imakunata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "qinallayki hina"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:19.033269677Z",
+  "model": "glm-5.3"
+}

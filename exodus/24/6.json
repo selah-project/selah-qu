@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaysi Moshe yawarpa ch'iqanta uskarqan, tiyanakunapi churarqan; yawarpa ch'iqantinta altarpata ch'utirqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "uskarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ch'iqanta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "yawarpa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "tiyanakunapi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ch'iqantinta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "yawarpa"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "ch'utirqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pata"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:35:22.655961925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 28:7",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Paypa ⟨את⟩ kamachikuyninta wiñay kama sayanchisaqmi, sichus pay sinchi kaptin kamachikuykunayta, taripanakunaytawan kunan p'unchaw hina ruwan.",
+  "tokens": [
+    {
+      "surface": "והכינותי",
+      "gloss": "sayanchisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamachikuyninta"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "kamachikuyninta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "sinchi kaptin"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kamachikuykunayta"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "taripanakunaytawan"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "p'unchaw hina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kunan"
+    }
+  ],
+  "timestamp": "2026-09-08T12:53:59.308462748Z",
+  "model": "glm-5.3"
+}

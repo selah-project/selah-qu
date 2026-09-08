@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 111,
+  "translation": "Yahwem qhawarichirqanmi marvel-llamk'ayninkunata; Yahweqa khuyakuq, llaqllakuqmi.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "qhawarichirqan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "—"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "marvel-llamk'ayninkunata"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "khuyakuq"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "llaqllakuq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:44.604669145Z",
+  "model": "glm-5.3"
+}

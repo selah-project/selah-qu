@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Hinaspam maqarqan llapan ñawpaq paqariqta Mitsrayimpi (Egipto), kallpa qallariyta Ham toldokunapi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "maqarqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ñawpaq paqariqta"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimpi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "qallariy"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "kallpa"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "toldokunapi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:26.687609228Z",
+  "model": "glm-5.3"
+}

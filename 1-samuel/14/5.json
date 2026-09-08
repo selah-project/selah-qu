@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Huk kiru hina sinchi rumim karqa chinchayman, Mikmas (Micmás) ñawpaqpi; huktaq uraman karqa, Geba (Gaba) ñawpaqpi.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "kiru hina"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "sinchi rumi"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "chinchayman"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikmas"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "huktaq"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "uraman"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    }
+  ],
+  "timestamp": "2026-09-08T04:14:32.279645077Z",
+  "model": "glm-5.3"
+}

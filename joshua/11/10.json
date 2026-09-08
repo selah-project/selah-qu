@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chay pachapim Yehoshua kutirqan, ⟨את⟩ Hatsorta hap'irqan, ⟨את⟩ apinta hoq'ewan wañuchirqan; Hatsor ñawpaqmanta llapan chay mamallaqtakunap umanmi karqan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutirqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "chay pachapi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsorta"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsorta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "apinta"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "apinta"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "hoq'ewan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ñawpaqmanta"
+    },
+    {
+      "surface": "היא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "mamallaqtakunap"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "chay"
+    }
+  ],
+  "timestamp": "2026-09-08T03:18:25.753381527Z",
+  "model": "glm-5.3"
+}

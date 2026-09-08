@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Cheqapunim qam El pakasqa kanki, Israelpa Elohimnin, qispichiq.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Cheqapunim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "pakasqa kanki"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "qispichiq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:28:45.929715230Z",
+  "model": "glm-5.3"
+}

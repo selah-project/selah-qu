@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yahwep ñawpaqmanta nina lluqsimurqanm, hinaspa chayta mikhuspa chinkachirqan ⟨את⟩ paykunata, hinaspa Yahwep ñawpaqpi wañurqankum.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "lluqsimurqanm"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqmanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mikhuspa chinkachirqan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "wañurqankum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T00:56:14.590342308Z",
+  "model": "glm-5.3"
+}

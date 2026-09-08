@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Sayarirqanmi, purirqanmi; hinaspa Yehonatan (Jonatán) llaqtaman hamurqan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtaman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:23:26.123471620Z",
+  "model": "glm-5.3"
+}

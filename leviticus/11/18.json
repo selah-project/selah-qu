@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "hinaspa ⟨את⟩ tinshemet-ta, hinaspa ⟨את⟩ kaat-ta, hinaspa ⟨את⟩ rajam-ta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tinshemet-ta"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "tinshemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kaat-ta"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "kaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "rajám-ta"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "rajam"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:00.920046474Z",
+  "model": "glm-5.3"
+}

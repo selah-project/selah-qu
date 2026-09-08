@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 111,
+  "translation": "Rurasqankunap atiyninta willarqanmi llaqtanman, paykunaman qonanpaq suyukunap allpan.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "atiyninta"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "rurasqankunap"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "willarqanmi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "llaqtanman"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "qonanpaq"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "allpan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "suyukunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:36.196676150Z",
+  "model": "glm-5.3"
+}

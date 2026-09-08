@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Yahata yupaychay; Yahwepa sutinta ⟨את⟩ yupaychay; yupaychay, Yahwepa yanapankuna.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yupaychay"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yupaychay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yupaychay"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapankuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:12.208789516Z",
+  "model": "glm-5.3"
+}

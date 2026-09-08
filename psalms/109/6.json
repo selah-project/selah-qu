@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "psalms 109:6",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 109,
+ "translation": "⟨Qam⟩ churay paypa ajllanpi huchayuq runata, hinaspa satan paypa paña makinpi sayachun.",
+ "tokens": [
+  {
+   "surface": "הפקד",
+   "gloss": "churay"
+  },
+  {
+   "surface": "עליו",
+   "gloss": "paypa ajllanpi"
+  },
+  {
+   "surface": "רשע",
+   "gloss": "huchayuq runata"
+  },
+  {
+   "surface": "ושטן",
+   "gloss": "hinaspa satan"
+  },
+  {
+   "surface": "יעמד",
+   "gloss": "sayachun"
+  },
+  {
+   "surface": "על",
+   "gloss": "…pi"
+  },
+  {
+   "surface": "ימינו",
+   "gloss": "paypa paña makinpi"
+  }
+ ],
+ "timestamp": "2026-09-08T10:19:30.904920623Z",
+ "model": "glm-5.3"
+}

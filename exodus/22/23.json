@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Phiñayniymi rawranqam, ⟨את⟩ qamkunata wañuchisaqmi churinwan; qamkunap warmiykichikmi ususikuna tukunqam, churiykichiktaq wakchakuna tukunqam.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "rawranqam"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "phiñayniy"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "wañuchisaqmi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "churinwan"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "tukunqam"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "qamkunap warmiykichik"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ususikuna"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "churiykichikwan"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "wakchakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:57.528063506Z",
+  "model": "glm-5.3"
+}

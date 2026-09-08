@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "isaiah 49:13",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 49,
+ "translation": "Takirqariychis, hanaq pacha; kusikuy, hallp'a; orqokuna, takyawan phatmiykuchis — imaraykuchus Yahwem pueblo-ninta samachirqanmi, wakcha kayninkunataq llakikunqam.",
+ "tokens": [
+  {
+   "surface": "רנו",
+   "gloss": "takirqariychis"
+  },
+  {
+   "surface": "שמים",
+   "gloss": "hanaq pacha"
+  },
+  {
+   "surface": "וגילי",
+   "gloss": "kusikuy"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "hallp'a"
+  },
+  {
+   "surface": "יפצחו",
+   "gloss": "phatmiykuchis"
+  },
+  {
+   "surface": "הרים",
+   "gloss": "orqokuna"
+  },
+  {
+   "surface": "רנה",
+   "gloss": "takyawan"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "נחם",
+   "gloss": "samachirqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "עמו",
+   "gloss": "pueblo-ninta"
+  },
+  {
+   "surface": "ועניו",
+   "gloss": "wakcha kayninkunataq"
+  },
+  {
+   "surface": "ירחם",
+   "gloss": "llakikunqam"
+  }
+ ],
+ "timestamp": "2026-09-08T06:33:37.192964943Z",
+ "model": "glm-5.3"
+}

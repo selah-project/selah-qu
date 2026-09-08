@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Ñawiyta paskaway, Toraykimanta sapaq rurasqakunata ñawinchaynanpaqmi.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "paskaway"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiy"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ñawinchaynanpaq"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "sapaq rurasqakunata"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Toraykimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:46.527639231Z",
+  "model": "glm-5.3"
+}

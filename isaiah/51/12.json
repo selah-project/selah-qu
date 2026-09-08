@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Ñuqam, ñuqam, paymi qamkunata samichikuq; pi qam kanki, wañuq runamanta mancharirqanki, qoraman t'ikrasqa runap churinmanta?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "samichikuq"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "את",
+      "gloss": "qam",
+      "marks": "mancharirqanki"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "mancharirqanki"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wañuq"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "churinmanta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "qora"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "t'ikrasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:34:36.108903513Z",
+  "model": "glm-5.3"
+}

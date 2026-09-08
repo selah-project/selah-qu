@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Baalpa wasinmanta ⟨את⟩ sayaq rumikunata hurquspata, nanachisqakunatapas rawarqankum.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "hurquspata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayaq rumikunata"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "sayaq rumikuna, rurasqa dioskunapas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinmanta"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalpa"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "rawarqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T05:31:14.325402358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chayta mana sunqunchasqa Yahwepa siminmanqa, payqa hannaranpullatami wasinkunapi saqirqan ⟨את⟩ yanapanakunata, ⟨את⟩ uywankunatapas chakrakunapi.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sunqunchasqa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sunqun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "saqirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapanakunata"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapanakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "uywankunata"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "uywankunata"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chakrakunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:00.639165499Z",
+  "model": "glm-5.3"
+}

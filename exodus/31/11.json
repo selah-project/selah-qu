@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "hinaspa ⟨את⟩ mishk'achiy sumunta, hinaspa ⟨את⟩ sumuchiy q'aphillakunata haqay wasipaq; kamachisqaykimantam llapanta ruranku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "mishk'achiy sumunta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "sumu"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mishk'achiy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sumuchiy q'aphillakunata"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "sumuchiy"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "q'aphillakuna"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "haqay wasipaq"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "manta"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "kamachisqayki"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ruranku"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:40.079819622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Kuskanchakuyniykita willirqanim achka ayllupi; qaway, wirpaykimanqa mana hark'asaqchu; Qammi, Yahwe, yachanki.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "willirqanim"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "kuskanchakuyniykita"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ayllupi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "achka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qaway"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wirpaykiman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "hark'asaqchu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yachanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:29.445669392Z",
+  "model": "glm-5.3"
+}

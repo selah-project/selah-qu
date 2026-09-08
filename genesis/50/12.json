@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Paypa churinkunam chaynata ruwarqanku, imata kamachisqanman hina.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "צום",
+      "gloss": "kamachisqanman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:19:23.706896175Z",
+  "model": "glm-5.3"
+}

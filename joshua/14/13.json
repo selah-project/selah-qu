@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yehoshuam (Josué) payta bendecirqan, hinaspa ⟨את⟩ Chebrunta (Hebrón) Kalibman (Caleb), Yefunep (Jefone) churinman, herenciapaq kararqan.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "bendecirqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "hinaspa kararqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebrunta"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebrunta"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalibman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunep"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "herenciapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T03:17:16.059404981Z",
+  "model": "glm-5.3"
+}

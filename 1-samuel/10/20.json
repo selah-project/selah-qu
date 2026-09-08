@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Shemuelmi ⟨את⟩ Israelpa llapan ayllunkunata qayllachirqan, Binyamin ayllumi akllasqa lluqsispa karqan.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "hinaspa qayllachirqan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa llapan ayllunkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ayllunkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "akllaspa lluqsispa karqan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ayllu"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-08T13:32:46.254511847Z",
+  "model": "glm-5.3"
+}

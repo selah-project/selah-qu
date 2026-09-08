@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 4:7",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "«Qishon (Cisón) mayuman ñuqam qamman astasqayki ⟨את⟩ Sisera (Sísara)ta, Yabin (Jabín)pa awqakunap umalliqninta, hinaspa ⟨את⟩ paypa karru rurakunatawan, ⟨את⟩ paypa askha awqankunatawan; payta qampa makikipi qusaqki.»",
+  "tokens": [
+    {
+      "surface": "ומשכתי",
+      "gloss": "astasqayki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Qishon (Cisón)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sisera (Sísara)ta"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera (Sísara)ta"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umalliqnin"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "awqakunap"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabin (Jabín)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa karru rurakunata"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "paypa karru rurakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa askha awqankunata"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "paypa askha awqankunata"
+    },
+    {
+      "surface": "ונתתיהו",
+      "gloss": "qusaqki"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "qampa makikipi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:41:00.649135243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chayraykus payata llapanki; imaraykuchus payqa ⟨את⟩ Elohimniyki mikhunta q'ochinmi; qampaqmi llapa kanqa; imaraykuchus ñuqam llapanmi kani, ñuqa Yahwe, qankunata llapachiq.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "chayraykus payata llapanki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimniyki mikhunta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mikhunta"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "q'ochinmi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "llapanmi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "qankunata llapachiq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:06:31.195497911Z",
+  "model": "glm-5.3"
+}

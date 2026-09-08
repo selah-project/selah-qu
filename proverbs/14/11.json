@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Haqekunap wasinqa chinkachikunqami, icha chiqan runakunap carpantaq wiñachikunqam.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haqekunap"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "chinkachikunqami"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "icha ... carpa"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "chiqan runakunap"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "wiñachikunqam"
+    }
+  ],
+  "timestamp": "2026-09-08T10:43:03.222023465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Hinaspa qallwaniymi allin kayniykita rimanmi, llapan p'unchawta yupaychanaykita.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "hinaspa qallwaniy"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "rimanmi"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "allin kayniykita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "yupaychanaykita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:43:37.206625011Z",
+  "model": "glm-5.3"
+}

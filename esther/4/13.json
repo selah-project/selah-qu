@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 4:13",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Mordeqaym (Mardoqueo) Esterman kutichiyta nirqan: ama nupaykiwan yuyaychu apupa wasipi llapan Yihudiykunamanta aswant qispikunqaykipaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordeqaym"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kutichiyta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תדמי",
+      "gloss": "yuyaychu"
+    },
+    {
+      "surface": "בנפשך",
+      "gloss": "nupaykiwan"
+    },
+    {
+      "surface": "להמלט",
+      "gloss": "qispikunqaykipaq"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapan...manta aswant"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yihudiykunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:45:23.964386475Z",
+  "model": "glm-5.3"
+}

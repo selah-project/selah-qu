@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Waranqa watakuna ñawiykikunapiqa qaynalla p'unchaw hinami, chaypas purispalla chayaq; hinaspa tutapi watacha hinataq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "watakuna"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ñawiykikunapi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "p'unchaw hina"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "qaynalla p'unchaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaypas"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "purispalla chayaq"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "hinaspa tuta watacha"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tutapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:49.595017829Z",
+  "model": "glm-5.3"
+}

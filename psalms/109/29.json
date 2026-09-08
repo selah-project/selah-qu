@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Siq'akuqniykunam k'amiywan p'achallikun chikun, hinaspa paykunap amañikuyninta p'acha hina churakun chikun.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "p'achallikun chikun"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "siq'akuqniykunam"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "k'amiywan"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "hinaspa churakun chikun"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "p'acha hina"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "paykunap amañikuyninta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:47.990694306Z",
+  "model": "glm-5.3"
+}

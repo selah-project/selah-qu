@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa yachay sach'amanta — allimanta, millaymantawan — ama mikhuychu paymanta; imarayku payta mikhuptiyki chay p'unchawmi wañuyta wañuwanki.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "hinaspa sach'amanta"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "yachay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alli"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "millaywan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mikhuy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "mikhuptiyki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuyta"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "wañuwanki"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:23.656913159Z",
+  "model": "glm-5.3"
+}

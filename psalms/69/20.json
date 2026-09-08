@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Qam yachanki millayniyta, p'inqayniyta, mana suyusqa kayniyta; qamp ñawpaqyki llapan awqayniykuna.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qam"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yachanki"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "millayniyta"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "p'inqayniyta"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "mana suyusqa kayniyta"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "qamp ñawpaqyki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "awqayniykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:08.356578022Z",
+  "model": "glm-5.3"
+}

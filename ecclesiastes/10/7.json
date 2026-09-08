@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Rikurqanima: yanakunaqa kawallukunapi, hatun runakunataq yanakuna hina hallp'api puriykachanku.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqanima"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yanakuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kawallukunapi"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "hatun runakunataq"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "puriykachanku"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "yanakuna hina"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:09.867475951Z",
+  "model": "glm-5.3"
+}

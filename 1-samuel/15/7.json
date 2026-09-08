@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Chaymanta Shaulm ⟨את⟩ Amaleqta mak'arqan Jawilahmanta, Shurman chayaq pachakama, mayqin Mitsrayimp ñawpaqninpi kachkan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mak'arqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleqta"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleqta"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "Jawilahmanta"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "chayaq pacha"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shurman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimp"
+    }
+  ],
+  "timestamp": "2026-09-08T04:14:59.835125541Z",
+  "model": "glm-5.3"
+}

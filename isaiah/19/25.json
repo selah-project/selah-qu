@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Maypi Yahwe Tsebaot bendiciónta qusqa, nispa: Baruch ⟨kan⟩ ñuqap runay Mitsrayim, ñuqap makiypi rurasqay Ashur, hinallataq ñuqap herenciaoy Israel.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bendiciónta qusqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruch"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqap runay"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "hinallataq ñuqap makiypi rurasqay"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ñuqap makiy"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "hinallataq ñuqap herenciaoy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T06:01:03.522361450Z",
+  "model": "glm-5.3"
+}

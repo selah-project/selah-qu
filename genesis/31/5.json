@@ -1,0 +1,78 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "genesis 31:5",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 31,
+ "translation": "Hinaspa nirqan paykunaman: Ñuqam ⟨את⟩ taytaykichikpa ñawinta rikuni, manaraq ñuqawan kachkanchu qayna, qaynamanta hina; ichaqa taytaypa Elohimmi ñuqawanmi karqan.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "hinaspa nirqan"
+  },
+  {
+   "surface": "להן",
+   "gloss": "paykunaman"
+  },
+  {
+   "surface": "ראה",
+   "gloss": "rikuni"
+  },
+  {
+   "surface": "אנכי",
+   "gloss": "ñuqa"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "taytaykichikpa ñawinta"
+  },
+  {
+   "surface": "פני",
+   "gloss": "ñawinta"
+  },
+  {
+   "surface": "אביכן",
+   "gloss": "taytaykichikpa"
+  },
+  {
+   "surface": "כי",
+   "gloss": "manaraq"
+  },
+  {
+   "surface": "איננו",
+   "gloss": "manam kachkanchu"
+  },
+  {
+   "surface": "אלי",
+   "gloss": "ñuqawan"
+  },
+  {
+   "surface": "כתמל",
+   "gloss": "qayna"
+  },
+  {
+   "surface": "שלשם",
+   "gloss": "qaynamanta hina"
+  },
+  {
+   "surface": "ואלהי",
+   "gloss": "ichaqa... Elohim"
+  },
+  {
+   "surface": "אבי",
+   "gloss": "taytaypa"
+  },
+  {
+   "surface": "היה",
+   "gloss": "karqan"
+  },
+  {
+   "surface": "עמדי",
+   "gloss": "ñuqawan"
+  }
+ ],
+ "timestamp": "2026-09-08T00:05:32.178428906Z",
+ "model": "glm-5.3"
+}

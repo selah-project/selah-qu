@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "psalms 105:12",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 105,
+ "translation": "Paykunaqa ashalla runas karqanmi, pisillaraqsi, chay hallp'apipas musuq puriqsi karqanku.",
+ "tokens": [
+  {
+   "surface": "בהיותם",
+   "gloss": "karqanmi"
+  },
+  {
+   "surface": "מתי",
+   "gloss": "runas"
+  },
+  {
+   "surface": "מספר",
+   "gloss": "ashalla"
+  },
+  {
+   "surface": "כמעט",
+   "gloss": "pisillaraqsi"
+  },
+  {
+   "surface": "וגרים",
+   "gloss": "musuq puriqsi karqanku"
+  },
+  {
+   "surface": "בה",
+   "gloss": "chay hallp'apipas"
+  }
+ ],
+ "timestamp": "2026-09-08T10:15:13.255088318Z",
+ "model": "glm-5.3"
+}

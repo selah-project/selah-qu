@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaykunata makiyki patapi unancha hina watankim, hinaspa ñawiykikuna chawpinpi totafot hina kanqanku.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "watanki"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "unancha hina"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kanqanku"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "totafot hina"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ñawiykikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T02:30:43.754418991Z",
+  "model": "glm-5.3"
+}

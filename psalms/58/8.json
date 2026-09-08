@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 58,
+  "translation": "Unu hina chinkachunku, puriysachunku kikinku; waran ñit'iptin, kuchusqa kachunku hina.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "chinkachunku"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "puriysachunku"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kikinku"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ñit'iptin"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "waran"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "kuchusqa kachunku"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:44.272664208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Ima chaninniyuqmi jesedniyki, Elohim! Chayrayku runap churinkunam k'anaqnikpi llanthupi amachakunku.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ima"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "chaninniyuqmi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "churinkunam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "llanthupi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "k'anaqnikpi"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "amachakunku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:26.773194925Z",
+  "model": "glm-5.3"
+}

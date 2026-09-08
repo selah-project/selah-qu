@@ -1,0 +1,69 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "2-kings 22:10",
+ "book": "2-kings",
+ "lang": "qu",
+ "chapter": 22,
+ "translation": "Shafan qillqaq apuman willarqanmi, nispa: «Hilkiya (Hilquías) kohenmi huk p'anqata ñuqaman qowaran». Hinaspa Shafan apu ñawpaqenpi ñawinch'arqanmi.",
+ "tokens": [
+  {
+   "surface": "ויגד",
+   "gloss": "willarqanmi"
+  },
+  {
+   "surface": "שפן",
+   "gloss": "Shafan"
+  },
+  {
+   "surface": "הספר",
+   "gloss": "qillqaq"
+  },
+  {
+   "surface": "למלך",
+   "gloss": "apuman"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "nispa"
+  },
+  {
+   "surface": "ספר",
+   "gloss": "p'anqa"
+  },
+  {
+   "surface": "נתן",
+   "gloss": "qowaran"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqaman"
+  },
+  {
+   "surface": "חלקיה",
+   "gloss": "Hilkiya"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohen"
+  },
+  {
+   "surface": "ויקראהו",
+   "gloss": "ñawinch'arqanmi"
+  },
+  {
+   "surface": "שפן",
+   "gloss": "Shafan"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "ñawpaqenpi"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "apu"
+  }
+ ],
+ "timestamp": "2026-09-08T05:44:44.611729611Z",
+ "model": "glm-5.3"
+}

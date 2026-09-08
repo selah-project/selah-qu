@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspa paypa yanapaqninkuna wañusqata Megiddomanta karruman churarqanku, hinaspa Yerushalayimman (Jerusalén) aparusqanku, hinaspa paypa apananpi p'anqarqankum. Chaymanta hallp'ap runankuna ⟨את⟩ Yehoahazta hap'irqanku, Yoshiyahu churinta, hinaspa aceytowan murphichirqanku ⟨את⟩ payta, hinaspa ⟨את⟩ payta taytanpa rantin apun rurirqanku.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "karruman churarqanku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "paypa yanapaqninkuna"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wañusqata"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "Megiddomanta"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "aparusqanku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimman"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "p'anqarqanku"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "paypa apananpi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqanku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runankuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoahazta"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "murphichirqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "apun rurirqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taytanpa rantin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:49:26.860482705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa ñawiykiqa allin aqo hinam, dodiyman chiqan ñanpi puriqmi, puñukuq runakunap wirp'ankunata rimachiqmi.",
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "hinaspa ñawiykiqa"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "aqo hinam"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "puriqmi"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "dodiyman"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "chiqan ñanpi"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "rimachiqmi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wirp'ankunata"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "puñukuq runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T11:27:53.532138980Z",
+  "model": "glm-5.3"
+}

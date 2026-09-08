@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 16:8",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Asa, Yehudapa apun, iskay chunka suqtayuq wata kasqanpi Ela, Baashapa churin, Israelpa apin tukurqan Tirtsapi, iskay watan.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "wata kasqanpi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "suqtayuq"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apin tukurqan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashapa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirtsapi"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "iskay watan"
+    }
+  ],
+  "timestamp": "2026-09-08T13:42:58.436698220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinallataq llapa kichasqa rurana, patapi wata wichq'anan mana kaptinqa, waqyasqam ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hinallataq llapa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "rurana"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "kichasqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "wichq'ana"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "wata"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "waqyasqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩"
+    }
+  ],
+  "timestamp": "2026-09-08T01:37:22.296877911Z",
+  "model": "glm-5.3"
+}

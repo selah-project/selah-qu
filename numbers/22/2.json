@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Balakm, Tsiporpa churin, rikurqan ⟨את⟩ Israel Emori (amorreo) runakunaman ruwasqan llapantam.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurqanm"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsiporpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapanta (Israel ruwasqan llapanta)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ruwasqan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "Emori runakunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:39:13.734658696Z",
+  "model": "glm-5.3"
+}

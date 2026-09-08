@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa ⟨את⟩ hashapanta (sierra qowi): imaraykuchus paymi gerata hawaman pusawan, icha parsa ufariyta mana ruranchu; paymi mana ch'uyachu qamkunapaq.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hashapanta"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "hashapan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "hawaman pusawan"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "icha parsata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "ufanchinchu"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mana ch'uya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:10.289809290Z",
+  "model": "glm-5.3"
+}

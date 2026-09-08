@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 16:13",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Ch'iqmi simikunam apukunap kusikuynin; chiqanmanta rimaq runatataq kuyanmi.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "kusikuynin"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukunap"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "simikuna"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ch'iqmi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "chiqanmanta rimaq"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "chiqan"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "kuyanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:44:12.622462006Z",
+  "model": "glm-5.3"
+}

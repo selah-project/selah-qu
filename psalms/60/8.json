@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Elohimmi willka kayninpi willakun: kusikusaq, Shekhemta (Siquem) rakinisaq, Sukotpa (Succot) ch'akanitawan tupusaq.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "willakun"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "willka kayninpi"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "kusikusaq"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "rakinisaq"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "hinaspa ch'akani"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "tupusaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:14.123085335Z",
+  "model": "glm-5.3"
+}

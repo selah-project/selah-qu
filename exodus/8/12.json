@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Yahwem nirqan Mosheman: ninka Aharonman: mast'ay ⟨את⟩ bastonta, hinaspa llipichiy ⟨את⟩ kay pacha q'urpata, chayqa ch'uspakuna tukunqam Mitsrayimpa llapa hallp'anpi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ninka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "mast'ay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bastonta"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "bastonta"
+    },
+    {
+      "surface": "והך",
+      "gloss": "llipichiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "q'urpata"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "q'urpa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacha"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chayqa tukunqam"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "ch'uspakunaman"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'anpi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:24:55.475305864Z",
+  "model": "glm-5.3"
+}

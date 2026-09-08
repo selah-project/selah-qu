@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspataq ⟨את⟩ chunka tiyachanakunata, hinaspataq ⟨את⟩ chunka yaqu tiyanakunata tiyachanakunap patanpi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspataq ⟨את⟩",
+      "marks": "tiyachanakunata"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "tiyachanakuna"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspataq ⟨את⟩",
+      "marks": "yaqu tiyanakunata"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "yaqu tiyanakuna"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "tiyachanakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T05:04:45.945681767Z",
+  "model": "glm-5.3"
+}

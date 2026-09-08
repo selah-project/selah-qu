@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Yahwem ñuqap simiwan ancha thanqaysaqmi, askha runakunap chawpinpipas payta takirqachisaq.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "thanqaysaqmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ancha"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ñuqap simiwan"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "chawpinpipas"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha runakunap"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "payta takirqachisaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:47.990991449Z",
+  "model": "glm-5.3"
+}

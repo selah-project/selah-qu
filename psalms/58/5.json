@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 58,
+  "translation": "Paykunapa miyunkunaqa nachashpa miyun hinam, ch'utu lluk'ush hina rinrinta wisq'aqmi.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "miyunkuna"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunapa"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "hinam"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "miyun"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nachashpa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "lluk'ush"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ch'utu"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "wisq'aq"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "rinrinta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:23.046208741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Sayaychik amatachikchik; ñawiykikunta wañuchiychik, ñawilla tukuychik; machachikun, ichaqa manam aghatawan; thalpuchikun, ichaqa manam machaq muyuwan.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "sayaychik"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "hinaspa amatachikchik"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "ñawiykikunta wañuchiychik"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "hinaspa ñawilla tukuychik"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "machachikun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichaqa mana"
+    },
+    {
+      "surface": "יין",
+      "gloss": "aghata"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "thalpuchikun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichaqa mana"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "machaq muyuwan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:12:08.044767375Z",
+  "model": "glm-5.3"
+}

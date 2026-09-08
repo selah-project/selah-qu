@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspa wakcha runataqa mana yupaychaychu paypa manauchiyninpi.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "hinaspa wakcha runataqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "yupaychaychu"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "paypa manauchiyninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:57.758379695Z",
+  "model": "glm-5.3"
+}

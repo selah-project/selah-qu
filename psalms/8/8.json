@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Uywakuna, wakakuna, llapankum, hinallataq chakrakuna uywakunapas.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "uywakuna"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "wakakuna"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "llapanku"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinallataq ... pas"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "uywakuna"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "chakrakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:36.804823191Z",
+  "model": "glm-5.3"
+}

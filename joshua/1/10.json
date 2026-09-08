@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Yehoshua (Josué) kamachirqan ⟨את⟩ runakunapa kamachiqninkunata, nispa:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "hinaspa kamachirqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua (Josué)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunapa kamachiqninkunata"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "kamachiqninkunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunapa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:05:54.923723452Z",
+  "model": "glm-5.3"
+}

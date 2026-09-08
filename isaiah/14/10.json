@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Llapankum kutichinku hinaspa qamta ninku: Qampas ñuqanchikhina llaqllayarqankim, ñuqanchikman rikch'akurqankim.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "llapankum"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "kutichinku"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "hinaspa ninku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "llaqllayarqankim"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "ñuqanchikhina"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "rikch'akurqankim"
+    }
+  ],
+  "timestamp": "2026-09-08T13:43:37.701322203Z",
+  "model": "glm-5.3"
+}

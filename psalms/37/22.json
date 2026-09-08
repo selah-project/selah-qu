@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chaymi Yahwepa barachisqankuna hallp'ata chaskinkunmi, payta laqhasqankunataq kuchusqa kanqakunmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "Yahwepa barachisqankuna"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "chaskinkunmi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "payta laqhasqankunataq"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "kuchusqa kanqakunmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:29.421872968Z",
+  "model": "glm-5.3"
+}

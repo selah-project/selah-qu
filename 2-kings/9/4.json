@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chaymanta waynataqa — wayna, navi wawan — Ramot Guiladman purirqa.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "purirqa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "waynataqa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wayna"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Guiladman"
+    }
+  ],
+  "timestamp": "2026-09-08T05:29:26.528785080Z",
+  "model": "glm-5.3"
+}

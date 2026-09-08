@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 120,
+  "translation": "Yahwe, nefeshniyta qispichiy llulla wirpakunamanta, llullaq shimimanta!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "wirpakunamanta"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "shimimanta"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "llullaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:01.066568901Z",
+  "model": "glm-5.3"
+}

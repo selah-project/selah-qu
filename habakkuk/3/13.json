@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 3:13",
+  "book": "habakkuk",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Runayki qespichiyninpaqmi lluqsimurqanki, ⟨את⟩ Mashiajniykita qespichiyninpaqmi; millay runap wasinmanta umantam t'aqarqanki, tiyana sayaynintam tunqurkama q'aqrukarqanki. Selah.",
+  "tokens": [
+    {
+      "surface": "יצאת",
+      "gloss": "lluqsimurqanki"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "qespichiyninpaq"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runayki"
+    },
+    {
+      "surface": "לישע",
+      "gloss": "qespichiyninpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiajniykita"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiajniyki"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "t'aqarqanki"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uman"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasinmanta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "millay runa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "q'aqrukarqanki"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "tiyana sayaynin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "tunqur"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:13:25.258904198Z",
+  "model": "glm-5.3"
+}

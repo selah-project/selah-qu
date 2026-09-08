@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa kay llaqtaman ñuqanchikta apamurqanmi, hinaspam ñuqanchikman karqan ⟨את⟩ kay hallp'ata, hallp'a ñuñuwan mistiwan pukyukuq.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "apamurqanmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kay llaqtaman"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "hinaspam karqan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "pukyukuq"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ñuñuwan"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "mistiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:51:14.962860200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 30:35",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Chay p'unchawllapim ⟨את⟩ ch'arwanayuq, ch'arwañayuq macho cabrakunata hurqurqan, hinaspa ⟨את⟩ Lavanpa kaq llapan ch'imiyaq, ch'arwaña cabrakunatawan, hinaspa llapan yanata uwijakunapimanta — churinkunap makinpi churirqan.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "macho cabrakunata"
+    },
+    {
+      "surface": "התישים",
+      "gloss": "macho cabrakuna"
+    },
+    {
+      "surface": "העקדים",
+      "gloss": "ch'arwanayuq"
+    },
+    {
+      "surface": "והטלאים",
+      "gloss": "hinaspa ch'arwañayuq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapanta (cabrakunata)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "cabrakuna"
+    },
+    {
+      "surface": "הנקדות",
+      "gloss": "ch'imiyaq"
+    },
+    {
+      "surface": "והטלאת",
+      "gloss": "hinaspa ch'arwaña"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanpa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "חום",
+      "gloss": "yana"
+    },
+    {
+      "surface": "בכשבים",
+      "gloss": "uwijakunapi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "churirqan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinpi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:05:25.306528718Z",
+  "model": "glm-5.3"
+}

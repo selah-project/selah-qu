@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 110,
+  "translation": "Llaqtakunapi taripachanmi, kurkukunawan ⟨hunt'achin⟩; hatun hallp'api umata maqhanmi.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "taripachan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "llaqtakunapi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'achin"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "kurkukunawan"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "maqhan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umata"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hatun hallp'a"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:40.171070924Z",
+  "model": "glm-5.3"
+}

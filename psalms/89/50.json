@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Adonay, maypi ⟨kan⟩ ñawpaq jesedniyki? May Davidman emunaykiwan jurawankim?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Maypi"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ñawpaq jesedniyki"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "jurawanki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidman (David)"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "emunaykiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:54.720778681Z",
+  "model": "glm-5.3"
+}

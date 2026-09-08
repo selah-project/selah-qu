@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Israel purirqanmi, hinaspa wasinta Migdal-Eder (Michiqkunap Mastilnin) hawaman churarqan.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "purirqanmi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "hawaman"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Migdal"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Eder"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:05.245322957Z",
+  "model": "glm-5.3"
+}

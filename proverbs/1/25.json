@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Llapa yuyayniyta saqirpariwankichikmi, tokapuyniytaq mana chaskiwankichikchu.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "saqirpariwankichik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "yuyayniyta"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "tokapuyniytaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "chaskiwankichikchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:49.637373577Z",
+  "model": "glm-5.3"
+}

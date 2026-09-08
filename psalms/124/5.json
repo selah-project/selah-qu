@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 124:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 124,
+  "translation": "Chaypacham unakuna, ph'utiy unakuna, nefeshninchikpa patanman karqankuman ñawpankarqankuman.",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "Chaypacha"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ñawpankarqankuman"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanman"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefeshninchikpa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unakuna"
+    },
+    {
+      "surface": "הזידונים",
+      "gloss": "ph'utiy unakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:03.191994069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Ñuqam qamman rimanakunata kutichisaq, hinaspa ⟨את⟩ masiykikunatawan qamwan.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ñuqam"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "qamman rimanakunata kutichisaq"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "rimanakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "masiykikunata"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "masiykikunata"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:17:47.114912770Z",
+  "model": "glm-5.3"
+}

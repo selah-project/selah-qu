@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 38:22",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "¿Rit'i-pa waqaychanakuna-man chayamurqankichu, ch'usa-pa waqaychanakuna-ta-pas rikurqankichu?",
+  "tokens": [
+    {
+      "surface": "הבאת",
+      "gloss": "chayamurqankichu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "waqaychanakuna"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "rit'i-pa"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "waqaychanakuna-ta-pas"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ch'usa-pa"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "rikurqankichu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:20:31.362137064Z",
+  "model": "glm-5.3"
+}

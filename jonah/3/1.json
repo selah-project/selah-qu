@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaym Yahwepa simin Yonahman iskay ñiqin kuti karqan, kay nispa:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "iskay ñiqin kuti"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kay nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:03:29.507992960Z",
+  "model": "glm-5.3"
+}

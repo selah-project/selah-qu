@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ama paykunamanta manchariychu: Yahwe Elohimniyki qanpa chawpinpam saykan, hatun, mancharichiq Elmi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "manchariychu"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "qanpa chawpinpi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "mancharichiq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:33:25.555564606Z",
+  "model": "glm-5.3"
+}

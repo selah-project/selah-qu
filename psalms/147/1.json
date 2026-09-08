@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Yah-ta yupaychaychik; imarayku allinmi Elohimninchikta takinchaspa; imarayku kusikuy hina, chaninmi yupaychana.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "takinchaspa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kusikuy hina"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "chaninmi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yupaychana"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:12.127335776Z",
+  "model": "glm-5.3"
+}

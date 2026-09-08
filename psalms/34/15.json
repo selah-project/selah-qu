@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Millaymanta karuyakuy, allinta ruray, Shalomta (pachakutiy allin kawsayta) maskay hinaspa chayta qatipuy.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "karuyakuy"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "millaymanta"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ruray"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "maskay"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "chayta qatipuy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:11.874398824Z",
+  "model": "glm-5.3"
+}

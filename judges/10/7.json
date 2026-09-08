@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chaymi Yahweqa Israelpi phiñarirqan, paykunata Plishtimkunap makiman, Ammonpa churinkunap makimanpas rantirqan.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "phiñarirqan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "phiñan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpi"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "paykunata rantirqan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makiman"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtimkuna"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "makimanpas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-09-08T03:49:49.192166738Z",
+  "model": "glm-5.3"
+}

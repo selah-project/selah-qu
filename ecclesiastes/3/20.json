@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Llapanku huk kitillaman purinmi; llapanmi aqsumantam hamurqa, llapantaq aqsullamanmi kutin.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "llapanku"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "purinmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "huk kitilla"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hamurqa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aqsumanta"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "aqsu"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "llapantaq"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kutin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "aqsu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:06.077984301Z",
+  "model": "glm-5.3"
+}

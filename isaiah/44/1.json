@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Kunanmi uyariy, Yaakov, ñuqap yanay, hinaspa Israel, payta akllarqanimi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunanmi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ñuqap yanay"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "hinaspa Israel"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "akllarqanimi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:30:32.524863694Z",
+  "model": "glm-5.3"
+}

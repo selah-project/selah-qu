@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Yahwem Mosheman nirqan: kayhina ninqui Israel wawankunaman: qamkuna rikurqankichikmi chiqaqta, hanaq pachamanta qamkunawan rimarqanimi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mosheman... -man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ninqui"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunaman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "rikurqankichik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqaqta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachamanta"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "rimarqanimi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "qamkunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:15.868502605Z",
+  "model": "glm-5.3"
+}

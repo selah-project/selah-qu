@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Rikhurichun rurasqayki yanapakuqniykiman, hatun sumaq kaykitaq wawankunapipas.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "rikhurichun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "yanapakuqniykiman"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "rurasqayki"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "hatun sumaq kaykitaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wawankunapipas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:51.711118513Z",
+  "model": "glm-5.3"
+}

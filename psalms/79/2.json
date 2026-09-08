@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 79,
+  "translation": "Qurqankum ⟨את⟩ wañusqa kurkuykikunata mikhunaman hanaq pachapi phawaykunaman, santokunaykip aychanta kay pacha sallqa uywakunaman.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Qurqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wañusqa kurkuykikunata"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "wañusqa kurku"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ykikuna"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "mikhunaman"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "phawaykunaman"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "santokunaykip"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "sallqa uywakunaman"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kay pacha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:45.066599971Z",
+  "model": "glm-5.3"
+}

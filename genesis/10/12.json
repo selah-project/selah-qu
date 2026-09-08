@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa ⟨את⟩ Resenta, Ninwepas Kalahpas chawpinpi; paymi ⟨kan⟩ hatun llaqtam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Resenta"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwepas"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hinaspa chawpinpi"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalahpas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:55.752985758Z",
+  "model": "glm-5.3"
+}

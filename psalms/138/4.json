@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 138,
+  "translation": "Yahwe, hallp'ap llapa apunkunan qamta yupaychankum, qanpa simiykip rimankunata uyarisqankurayku.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "qamta yupaychankum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apunkuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uyarisqanku"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "rimankunata"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "qanpa simiykip"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:20.846577382Z",
+  "model": "glm-5.3"
+}

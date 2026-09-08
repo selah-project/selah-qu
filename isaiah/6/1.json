@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Uziyahu apu wañusqan watanmi ñuqa rikurqani ⟨את⟩ Adonayta, hatun tiyanapi tiyarqan, hanaq kaspa elechasqa; chaypa churanpa pachanmi ⟨את⟩ templo wasita hunt'achirqan.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "wañusqan watan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu (Uzías)"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "rikurqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonayta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "hatun tiyana"
+    },
+    {
+      "surface": "רם",
+      "gloss": "hanaq"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "elechasqa"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "chaypa churanpa pachan"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "hunt'achirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "templo wasita"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "templo wasi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:55:42.712310953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chaymi ruwarqan ⟨את⟩ astakunata shuti sach'akunawan; chaymantaqmi ⟨את⟩ paykunata quriwan qhatarqan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "astakunata"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "astakuna"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shuti"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "qhatarqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata (astakuna)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quriwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:31.985236599Z",
+  "model": "glm-5.3"
+}

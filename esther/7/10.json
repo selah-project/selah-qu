@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa ⟨את⟩ Hamanta chay sach'api watarirqankum, paymi Mordekaypaq allicharqan; hinaspa apup ch'akiynin pasayarqanmi.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "Hinaspa watarirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamanta"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "api"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הכין",
+      "gloss": "allicharqan"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekaypaq"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "ch'akiynin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apup"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "pasayarqanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:48:58.584586543Z",
+  "model": "glm-5.3"
+}

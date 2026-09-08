@@ -1,0 +1,88 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "leviticus 1:8",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Hinaspa Aharonpa churinkuna, kohenkuna, ⟨את⟩ t'aqakunata, ⟨את⟩ umata, hinaspa ⟨את⟩ wirata sach'akunapatanpi t'inkillanqaku, maypikaq ninapatan, maypikaq altarpipi.",
+ "tokens": [
+  {
+   "surface": "וערכו",
+   "gloss": "t'inkillanqaku"
+  },
+  {
+   "surface": "בני",
+   "gloss": "churinkuna"
+  },
+  {
+   "surface": "אהרן",
+   "gloss": "Aharonpa"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "kohenkuna"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "t'aqakunata"
+  },
+  {
+   "surface": "הנתחים",
+   "gloss": "t'aqakuna"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "umata"
+  },
+  {
+   "surface": "הראש",
+   "gloss": "uma"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "wirata"
+  },
+  {
+   "surface": "הפדר",
+   "gloss": "wira"
+  },
+  {
+   "surface": "על",
+   "gloss": "patanpi"
+  },
+  {
+   "surface": "העצים",
+   "gloss": "sach'akunapa"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "maypikaq"
+  },
+  {
+   "surface": "על",
+   "gloss": "patan"
+  },
+  {
+   "surface": "האש",
+   "gloss": "nina"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "maypikaq"
+  },
+  {
+   "surface": "על",
+   "gloss": "patanpi"
+  },
+  {
+   "surface": "המזבח",
+   "gloss": "altar"
+  }
+ ],
+ "timestamp": "2026-09-08T00:49:09.048770776Z",
+ "model": "glm-5.3"
+}

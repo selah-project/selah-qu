@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Qampas machasqa kanqanki, pakasqa kanqanki; qampas awqamanta amachaqta maskaq kanqanki.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Qampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "qam"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "machasqa kanqanki"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "kanqanki"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "pakasqa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "qampas"
+    },
+    {
+      "surface": "את",
+      "gloss": "qam"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "maskaq kanqanki"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "amachaqt"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "awqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:09:09.122652918Z",
+  "model": "glm-5.3"
+}

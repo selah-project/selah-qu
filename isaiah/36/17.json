@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Hamuspaykama, hinaspa ⟨את⟩ qamkunata apasaq hallp'aman, qamkunap hallp'aykiyhina hallp'aman: muruwan aqhawan, t'antawan wiñakunawan hallp'aman.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "באי",
+      "gloss": "hamuspay"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "hinaspa apasaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "qamkunap hallp'aykiyhina"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "muruwan"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "aqhawan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'antawan"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "wiñakunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:19:19.889352558Z",
+  "model": "glm-5.3"
+}

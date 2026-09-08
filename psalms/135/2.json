@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Yahwepa wasinpi sayaqkuna, Elohimninchikpa wasin wasi patapinkunapipas.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "sayaqkuna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "patapinkunapipas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:12.209093612Z",
+  "model": "glm-5.3"
+}

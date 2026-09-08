@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Manam kachunchu paypaq jesed t'iqichaq; hinaspa ama kachunchu khuyaq wakcha churinkunapaq.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kachunchu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "משך",
+      "gloss": "t'iqichaq"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kachunchu"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "khuyaq"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "wakcha churinkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:14.599814369Z",
+  "model": "glm-5.3"
+}

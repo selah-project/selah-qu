@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Nefeshniy kawsachun, hinaspa qamta yupachachun; hinaspa kamachikuyniykiñataq yanapawachun.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "kawsachun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "hinaspa qamta yupachachun"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "hinaspa kamachikuyniykiñataq"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "yanapawachun"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:56.273600638Z",
+  "model": "glm-5.3"
+}

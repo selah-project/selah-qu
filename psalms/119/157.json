@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Askhami ñuqata qatikunku, ñuqap awqaqkunapas; icha paqarikunaykimanta manam t'ikrasqachu kani.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ñuqata qatikunku"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "ñuqap awqaqkunapas"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "paqarikunaykimanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "t'ikrasqachu kani"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:59.224698864Z",
+  "model": "glm-5.3"
+}

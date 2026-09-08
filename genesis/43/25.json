@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Hinaspa ⟨את⟩ minchata (regalota) allinchaspa suyanku Yosefpa (Josépa) chayamuyninta chawpi p'unchawpi, uyarirqankus chaymi chaypi t'antata mikhunankupaq kasan.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "allinchaspa suyanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchata"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchata (regalota)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "chayamuynin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef (José)"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "chawpi p'unchawpi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uyarirqankus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhunanku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:43.675433426Z",
+  "model": "glm-5.3"
+}

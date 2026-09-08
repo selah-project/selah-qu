@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Imaraykum sallakunap t'ikrakusqan wañuchinkum, yalkunap qhasilla kaynin chinkachinkum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "t'ikrakusqan"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "sallakunap"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "wañuchinkum"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "qhasilla kaynin"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "yalkunap"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "chinkachinkum"
+    }
+  ],
+  "timestamp": "2026-09-08T10:35:08.707791076Z",
+  "model": "glm-5.3"
+}

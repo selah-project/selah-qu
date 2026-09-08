@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "«Llank'apuway ⟨את⟩ yanapanaykita chunka p'unchaw; chayqa sach'a murukunamanta mikhunaykupaq, unuta upyanaykupaqtaq ñuqaykuman haywankichik».",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "llank'apuway"
+    },
+    {
+      "surface": "נא",
+      "gloss": "llank'apuway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapanaykita"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "yanapanaykita"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "haywankichik"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykuman"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "sach'a murukunamanta"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "mikhunaykupaq"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "unuta"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "upyanaykupaqtaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:50:22.447124638Z",
+  "model": "glm-5.3"
+}

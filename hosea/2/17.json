@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 2:17",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Payman ⟨את⟩ paypa viñankunata chaymantam qusaq, hinaspa ⟨את⟩ Akor q'etotam suyay punkupaqta churasaq; chaypitaq takinqa, paypa waynay p'unchawkunahina, hinaspa Mitsrayim (Egipto) hallp'amanta wicharqan p'unchawhina.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "לה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa viñankunata"
+    },
+    {
+      "surface": "כרמיה",
+      "gloss": "paypa viñankunata"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Akor q'etota"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "q'eto"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Akor"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "punkupaqta"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "suyay"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "hinaspa takinqa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "p'unchawkunahina"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "paypa waynay"
+    },
+    {
+      "surface": "וכיום",
+      "gloss": "hinaspa p'unchawhina"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "wicharqan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-08T08:46:42.548053873Z",
+  "model": "glm-5.3"
+}

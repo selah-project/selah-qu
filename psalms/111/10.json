@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 111,
+  "translation": "Yahwepa manchayninqa yachaypa qallariynmi; chayta ruwaqkuna llapanmi allin yachayniyuq ⟨kan⟩; paypa alabananqa wiñaypaqmi sayachkan.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "qallariyn"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachaypa"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "manchayninqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "allin yachayniyuq"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapanmi"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "chayta ruwaqkuna"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "paypa alabananqa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "sayachkan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "wiñaypaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:38.994017190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 24:3",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Eduta qhawasqan p'achap hawanpi, Tariy Wasipi (Ohel Moed), Aharonmi (Aarón) ⟨את⟩ chayta ñawpaqchannga, tutamantataq ch'isiyaqkama, Yahwep ñawpaqninpi wiñaymanta; wiñaypaq kamachikuy ñuqaykup wata watakunapaq.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "qhawasqan p'achap"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Eduta"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "Tariy Wasipi (Ohel Moed)"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Tariy Wasipi"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ñawpaqchannga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chayta",
+      "marks": "Aharon (Aarón)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonmi (Aarón)"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "ch'isiyaqkama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tutamantataq"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñaymanta"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "kamachikuy"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ñuqaykup wata watakunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:27.703163115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Paypa simin hunt'asqam artichiywan, llullakuywan, qatipaywan; qallunnin urayninpi llaki ruray hinaspa haqllikuy.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "artichiy"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "paypa simin"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'asqa kanmi"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "hinaspa llullakuywan"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "qatipaywan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "urayninpi"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "qallunnin"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "llaki ruray"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "hinaspa haqllikuy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:40.312138213Z",
+  "model": "glm-5.3"
+}

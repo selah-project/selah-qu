@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Runaykiman sasata rikuchirqankim; ñuqanchikman thallichiq aphiita upyachirqankim.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "rikuchirqanki"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runayki"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sasa"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "upyachirqanki"
+    },
+    {
+      "surface": "יין",
+      "gloss": "aphii"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "thallichiq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:14.122551430Z",
+  "model": "glm-5.3"
+}

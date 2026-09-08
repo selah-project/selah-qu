@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Eliyahu (Elías) llapa runakunaman nirqan: Qayllamuy ñuqaman. Llapan runakunam payman qayllamurqanku. Chaymantam allicharqan ⟨את⟩ Yahwepa altarinta, chiqchasqa karqanta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu (Elías)"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "qayllamuy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "qayllamurqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "allicharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa altarinta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "chiqchasqa karqan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:17:53.828056685Z",
+  "model": "glm-5.3"
+}

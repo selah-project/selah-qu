@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "psalms 62:2",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 62,
+ "translation": "Sapallam Elohimmanmi nefeshniy ch'inllawan suyan; paymantam ñuqap qespichiymi.",
+ "tokens": [
+  {
+   "surface": "אך",
+   "gloss": "sapalla"
+  },
+  {
+   "surface": "אל",
+   "gloss": "Elohimman"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "דומיה",
+   "gloss": "ch'inllawan"
+  },
+  {
+   "surface": "נפשי",
+   "gloss": "nefeshniy"
+  },
+  {
+   "surface": "ממנו",
+   "gloss": "paymanta"
+  },
+  {
+   "surface": "יְשׁוּעָתִי",
+   "gloss": "ñuqap qespichiymi"
+  }
+ ],
+ "timestamp": "2026-09-08T09:55:56.137629519Z",
+ "model": "glm-5.3"
+}

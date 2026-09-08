@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Mikal, Shaulpa ususin, ⟨את⟩ Davidta khuyarqanm; Shaulman willarqankum, chay rimariy Shaulpa ñawinpi allinmi rikurqan.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "khuyarqan"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "willarqanku"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulman"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "allinmi rikurqan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rimariy"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ñawinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:19:50.166509103Z",
+  "model": "glm-5.3"
+}

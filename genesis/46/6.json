@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 46:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Apankumi ⟨את⟩ uywakunankunta, ⟨את⟩ qollqenkunankutawan, mayqinkunata Kanaan (Canaán) hallp'api hunt'arqanku; chaymanta Yaakov, llapan awlanninwan, ⟨את⟩ paywan Mitsrayiman (Egipto) chayarqanku.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "apanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uywakunankunta"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "uywakunankunta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qollqenkunankunta"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "qollqenkunankunta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "hunt'arqanku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "chayarqanku"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayiman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "awlannin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:17:31.598877359Z",
+  "model": "glm-5.3"
+}

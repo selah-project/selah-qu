@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "«Manam shalom kanchu mana allin runakunapaq», Yahwem nirqanmi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "manam"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "mana allin runakunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:26:48.586786740Z",
+  "model": "glm-5.3"
+}

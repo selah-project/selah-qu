@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 95,
+  "translation": "Paymi Elohimninchik, ñuqanchiktaq paypa michiynin runa, paypa makiypa uwijakuna; kunan p'unchaw, sichus paypa siminta uyariwankichik —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ñuqanchiktaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "paypa michiynin"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "uwijakuna"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "paypa makiypa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "paypa siminta"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "uyariwankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:57.441223684Z",
+  "model": "glm-5.3"
+}

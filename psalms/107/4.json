@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Ch'usaq pachapi purirqanku, yaku mana k'anchay ch'usaq pampapi ñan kaspa; tiyanapaq llaqtata mana tarirqankuchu.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pachapi"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "yaku mana k'anchay ch'usaq pampapi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan kaspa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "tiyanapaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "tarirqankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:01.279528608Z",
+  "model": "glm-5.3"
+}

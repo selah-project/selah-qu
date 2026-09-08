@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Chaym kohenqa tanata makiykimanta hurqun, Yahwe Elohimniyki altar ñawpaqninman churanmi.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "hurqun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "tanata"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "makiykimanta"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "churan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninman"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T02:52:52.631608110Z",
+  "model": "glm-5.3"
+}

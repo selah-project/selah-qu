@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 2:21",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa ñuqam qamta Soreq (allin uva) wiñahina t'urarqani, tukuy cheqalla muhuwan; imataq chayhina ñuqaman tikrarqanki, ajchina wiñap mana allin t'ikanakunaman?",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "hinaspa ñuqam"
+    },
+    {
+      "surface": "נטעתיך",
+      "gloss": "qamta t'urarqani"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "Soreq (allin uva) wiñahina"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "muhuwan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqalla"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "imataq chayhina"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "tikrarqanki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "סורי",
+      "gloss": "mana allin t'ikanakunaman"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "wiñap"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ajchina"
+    }
+  ],
+  "timestamp": "2026-09-08T06:47:01.896650589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Hinaspa Israelta paykunap chawpinmanta hurqurqan; imaraykuchus paypa jesednin wiñaypaqmi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "hinaspa hurqurqan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "paykunap chawpinmanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:24.473786266Z",
+  "model": "glm-5.3"
+}

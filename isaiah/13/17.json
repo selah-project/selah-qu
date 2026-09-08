@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Qhawariy: ñuqam paykunapuram ⟨את⟩ Madaykunata hatarichini; paykunaqa qullqita mana yuyankuchu, quritapas mana munankuchu.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Qhawariy ñuqa"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "hatarichini"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunapura"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Madaykunata"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Madaykuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paykunaqa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "yuyankuchu"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "quritapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "munankuchu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chayta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:57:28.961039168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Payqa qhepanta kutirirqan, ñuqata qhawarqan, ñuqaman waqyarqan; chaymi ninirqani: ñuqañam kashani.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "kutirirqan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "qhepanta"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "ñuqata qhawarqan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waqyarqan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ninirqani"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ñuqañam kashani"
+    }
+  ],
+  "timestamp": "2026-09-08T04:31:14.929957999Z",
+  "model": "glm-5.3"
+}

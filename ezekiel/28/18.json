@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 28:18",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Haircayniyki askha kasqanwan, mana allin rantiy rurayniykiwan willkanchayniykita wañuchirqanki; chayrayku wikniki ukhumanta ninta lluqsichirqanimi; paymi qamta mikhurqan; hinaspa hallp'api ashman t'ikrarqanimi qamta, llapan qamta rikusqakunap ñawinkunap ñawpaqninpi.",
+  "tokens": [
+    {
+      "surface": "מרב",
+      "gloss": "askha kasqanmanta"
+    },
+    {
+      "surface": "עוניך",
+      "gloss": "haircayniyki"
+    },
+    {
+      "surface": "בעול",
+      "gloss": "mana allin kasqanwan"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "rantiy rurayniyki"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "wañuchirqanki"
+    },
+    {
+      "surface": "מקדשיך",
+      "gloss": "willkanchayniykita"
+    },
+    {
+      "surface": "ואוצא",
+      "gloss": "hinaspa lluqsichirqanimi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ninta"
+    },
+    {
+      "surface": "מתוכך",
+      "gloss": "wikniki ukhumanta"
+    },
+    {
+      "surface": "היא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "אכלתך",
+      "gloss": "qamta mikhurqan"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "hinaspa t'ikrarqanimi qamta"
+    },
+    {
+      "surface": "לאפר",
+      "gloss": "ashman"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ñawinkunap ñawpaqninpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ראיך",
+      "gloss": "qamta rikusqakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T08:21:29.166070205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Israelpa wawankunam Yehudap ñawpaqninmanta ayqarqanku; Elohimmi paykunta paykuna makinman qoykurqan.",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "ayqarqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqninmanta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "qoykurqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimmi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "paykuna makinman"
+    }
+  ],
+  "timestamp": "2026-09-08T13:04:49.116663375Z",
+  "model": "glm-5.3"
+}

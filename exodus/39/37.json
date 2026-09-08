@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "⟨את⟩ p'uchqa llant'anata, ⟨את⟩ ninchanankunata, t'aqasqa ninchanakunata, hinaspa ⟨את⟩ llapan llamk'anankunata, hinaspa ⟨את⟩ k'anchana wirata.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'uchqa llant'anata"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "llant'ana"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "p'uchqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ninchanankunata"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "ninchanankuna"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "ninchanakuna"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "t'aqasqa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "llamk'anankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "k'anchana wirata"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wira"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "k'anchana"
+    }
+  ],
+  "timestamp": "2026-09-08T02:05:29.995664947Z",
+  "model": "glm-5.3"
+}

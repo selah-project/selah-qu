@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa Yahudi runakunam chaskirqanku ⟨את⟩ imata qallarirqankuta ruanankupaq, hinaspa ⟨את⟩ imata Mordekhay (Mardoqueo) paykunaman qillqarqan",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "hinaspa chaskirqankum"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudi runakuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata qallarirqankuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "qallarirqanku"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruanankupaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "imata Mordekhay qillqasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "qillqarqan"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekhay (Mardoqueo)"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:51:29.364696219Z",
+  "model": "glm-5.3"
+}

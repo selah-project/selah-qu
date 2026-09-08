@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 19:22",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaysi Avishay (Abisai), Tserujiyap (Saruja) churin, kutichispa nirqanmi: ¿Chaymantachu Shimi (Simei) mana wañuchikunqachu? Yahwepa ⟨את⟩ Mashiantam (ungisqata) saqirparirqan chayrayku.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kutichispa"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishay (Abisai)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujiyap (Saruja)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañuchikunqachu"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimi (Simei)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "saqirparirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiantam (ungisqata)"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiantam (ungisqata)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:50:30.169390923Z",
+  "model": "glm-5.3"
+}

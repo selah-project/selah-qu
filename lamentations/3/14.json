@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ñuqam llapa ñuqap runapa asipakuynin karqani, paq takinkuna tukuy p'unchaw.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "karqani"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "asipakuynin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqap runapa"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "paq takinkuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T11:32:26.345337401Z",
+  "model": "glm-5.3"
+}

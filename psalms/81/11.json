@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "Ñuqam Yahwe, Elohimniyki, qamta Mitsrayim hallp'amanta hatarichimuq; simiykita mast'ariy, ñuqam hunt'achisaq.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "hatarichimuq"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "mast'ariy"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "simiykita"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "ñuqam hunt'achisaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:49.596500627Z",
+  "model": "glm-5.3"
+}

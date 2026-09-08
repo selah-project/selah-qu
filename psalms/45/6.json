@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Saetakunam yompaqmi; runakuna saykiyki urapim urmarqanku, apupa awqaqkunap sunqunpi.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "saetakunki"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "yompaqkuna"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "saykiyki urapi"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "urmarqanku"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sunqunpi"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "awqaqkunap"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:50:08.590653563Z",
+  "model": "glm-5.3"
+}

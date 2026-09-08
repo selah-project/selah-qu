@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Huk kerub huk ch'ikanpi, kay ladopi; huk kerub huk ch'ikanpi, chay ladopi: kaporetamanta ⟨את⟩ kerubimkunata ruwarqan, iskay ch'ikanñiqninpi.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "huk kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "huk ch'ikanpi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kay ladopi"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "huk kerub"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "huk ch'ikanpi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "chay ladopi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporeta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kerubimkunata"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubimkunata"
+    },
+    {
+      "surface": "משני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "ch'ikanñiqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:34.911869996Z",
+  "model": "glm-5.3"
+}

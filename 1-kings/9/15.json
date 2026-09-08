@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Kaymi apu Shelomo apachisqan mit'apa rimaynin: Yahwepa wasinta, kikin wasinta, Millota, Yerushalayim (Jerusalén) pa pirqanta, Hatsorta, Megiddota, Gezertawan ruwananpaq.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimaynin"
+    },
+    {
+      "surface": "המס",
+      "gloss": "mit'apa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "apachisqan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "apachisqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ruwananpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kikin wasinta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kikin wasinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Millota"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yerushalayimpa pirqanta"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "pirqanta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalén)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hatsorta"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Hatsorta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Megiddota"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Gezerta"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:06:56.094356662Z",
+  "model": "glm-5.3"
+}

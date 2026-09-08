@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 7:7",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa Israelpa churinkunamanta, kohenkunamanta, Leviykunamanta, takiqkunamanta, punku waqaychaqkunamanta, Nethinimkunamantawan Yerushalayimman (Jerusalén) huqyakurqanku, Artajshashta (Artajerjes) apukaq qanchis kaq watinpi.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "huqyakurqanku"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "churinkunamanta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "kunamanta"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Leviykuna"
+    },
+    {
+      "surface": "והמשררים",
+      "gloss": "takiqkuna"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "punku waqaychaqkuna"
+    },
+    {
+      "surface": "והנתינים",
+      "gloss": "Nethinimkuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "watinpi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis kaq"
+    },
+    {
+      "surface": "לארתחשסתא",
+      "gloss": "Artajshashta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apuka"
+    }
+  ],
+  "timestamp": "2026-09-08T12:14:32.427524106Z",
+  "model": "glm-5.3"
+}

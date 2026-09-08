@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 127,
+  "translation": "Qhawaymi: churiykunaqa Yahwepa churakusqanmi; wiksap ruruntaq pagumi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhawaymi"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "churakusqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churiykunaqa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "pagu"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "rurunta"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "wiksap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:36.815871009Z",
+  "model": "glm-5.3"
+}

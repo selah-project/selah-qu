@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Imaraykuchus mana imapas rayku ñuqapaq wayqapi warmintinkupak pakarqanku; mana imapas rayku ñuqap nefeshniypaq wayqata allqhorqanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imaraykuchus"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mana imapas rayku"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "pakarqanku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "wayqapi"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "warmintinku"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mana imapas rayku"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "allqhorqanku"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ñuqap nefeshniypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:08.159854719Z",
+  "model": "glm-5.3"
+}

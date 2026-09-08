@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa ⟨את⟩ hunt'achikuy carnerota apanki, hinaspa ⟨את⟩ aychanta willka kitipi wayk'unki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hunt'achikuy carnerota"
+    },
+    {
+      "surface": "איל",
+      "gloss": "carnero"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "hunt'achikuy"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "apanki"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "hinaspa wayk'unki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aychanta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "aychanta"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "kitipi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "willka"
+    }
+  ],
+  "timestamp": "2026-09-08T00:40:27.413584607Z",
+  "model": "glm-5.3"
+}

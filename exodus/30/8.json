@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Hinaspa Aharon ⟨את⟩ k'anchaykunata chayarichiptin chisi chisiykunapacha, chaytam q'urmachanqa; wiñay q'urmancha Yahwepa ñawpaqninpi, wata-watakunaykikunapakama.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "hinaspa chayarichiptin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'anchaykunata"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "k'anchaykunata"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chisi chisiykunapacha"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "chisiykuna"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "chaytam q'urmachanqa"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "q'urmancha"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "wata-watakunaykikunapakama"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:18.084867265Z",
+  "model": "glm-5.3"
+}

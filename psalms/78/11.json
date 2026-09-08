@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Chaysi qunqarqanku paypa rurasqankunata, paypa milagrokunatawan, mayqinkunata pay rikuchirqankum chaykunata.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "qunqarqanku"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "paypa rurasqankunata"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "paypa milagrokunatawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata ... chaykunata"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "pay rikuchirqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:41.098441948Z",
+  "model": "glm-5.3"
+}

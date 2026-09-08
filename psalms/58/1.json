@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 58,
+  "translation": "Takiypa kamariqman: ama chinkachiychu, Davidpa, mikhtam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Takiypa kamariqman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "chinkachiychu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:55.960273600Z",
+  "model": "glm-5.3"
+}

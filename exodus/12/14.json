@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa kay p'unchawqa qampaq yuyay-waqaychay hinam kanqa; Yahwepaq raymi hina ⟨את⟩ raymita raymiykushankichik, wata wata wiñay kamachikuy hina raymiykushankichik.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Hinaspa...kanqa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "yuyay-waqaychay"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "raymiykushankichik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "raymita"
+    },
+    {
+      "surface": "חג",
+      "gloss": "raymi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "wata watankichikpi"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "kamachikuy"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "raymiykushankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T02:05:36.261756947Z",
+  "model": "glm-5.3"
+}

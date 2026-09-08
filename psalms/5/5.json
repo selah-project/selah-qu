@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Imaraykuchus qamqa mana El kanki reshata munaq; mana ra'ata qampi tiyachun. Qamqa manam El kanki resha munaq; ra'am mana qamwan tiyanchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "munaq"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "resha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "qamwan tiyan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ra'a"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:40.479647600Z",
+  "model": "glm-5.3"
+}

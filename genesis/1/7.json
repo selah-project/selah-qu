@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymanta Elohim ⟨את⟩ raqiata ruwarqanmi, hinaspa raqiap uranpi kaq unukunata, raqiap hawanpi kaq unukunamantawan t'aqarqan; chaynollataq karqanmi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqanmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raqiata"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "raqiata"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "t'aqarqan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "t'aqanman"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unukunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "uranpi"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "raqiap"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unukunamantawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "raqiap"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynollataq"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:22.684215897Z",
+  "model": "glm-5.3"
+}

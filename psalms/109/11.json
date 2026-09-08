@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Yawarkamawan llawichun manu qatiq tukuy paypa kaqta; hinaspa q'intunku wak runakuna paypa llamk'asqanta.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "yawarkamawan llawichun"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "manu qatiq"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "hinaspa q'intunku"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "wak runakuna"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "paypa llamk'asqanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:14.599686438Z",
+  "model": "glm-5.3"
+}

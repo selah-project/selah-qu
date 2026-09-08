@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Paykunaman paqarisqa wawakuna, kimsa ñiqin miraynin, Yahwep huñunakuyninman yaykunkum.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "wawakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imas"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "paqarisqa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "דור",
+      "gloss": "miray"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "kimsa ñiqin"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yaykunkum"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunap"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "huñunakuyninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T02:50:22.854519311Z",
+  "model": "glm-5.3"
+}

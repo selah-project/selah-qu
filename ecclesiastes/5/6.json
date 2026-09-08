@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chayrayku askha musqokunapi, ch'usaqkunapipas, askha rimaykunapas kachkan; ichataq ⟨את⟩ Elohimta manchay.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chayrayku"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "musqokunapi"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ch'usaqkunapipas"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "rimaykunapas"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "askha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ichataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "manchay"
+    }
+  ],
+  "timestamp": "2026-09-08T11:42:24.330853392Z",
+  "model": "glm-5.3"
+}

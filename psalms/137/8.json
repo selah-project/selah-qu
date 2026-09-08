@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 137,
+  "translation": "Babilonpa ususiy, waqsisqa kanaykim kashan; kusi kawsaqmi kan, ⟨את⟩ ruwasqaykita qamman kutichiq, imaynan ñuqaykutam ruwarqanki.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "ususiy"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilonpa"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "waqsisqa kanayki kashan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "kusi kawsaq"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "kutichiq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwasqaykita"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "ruwasqaykita"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "ruwarqanki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykuta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:23.390472671Z",
+  "model": "glm-5.3"
+}

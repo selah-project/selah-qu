@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Yahwe, Elohim Tsebaot, pi Qamhina kanmanmi — atiyniyuq Yah? Hinaspa chiqaq kayniyki Qamta muyuriypi mi kachkanmi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Qamhina"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "atiyniyuq"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "hinaspa chiqaq kayniyki"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "Qamta muyuriypi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:31.338224344Z",
+  "model": "glm-5.3"
+}

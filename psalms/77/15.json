@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "psalms 77:15",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 77,
+ "translation": "Qammi kan El, milagrokuna ruwaq; mamallaktakunap chawpinpi atiyniykita rikhurichirqanki.",
+ "tokens": [
+  {
+   "surface": "אתה",
+   "gloss": "Qammi"
+  },
+  {
+   "surface": "האל",
+   "gloss": "El"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "ruwaq"
+  },
+  {
+   "surface": "פלא",
+   "gloss": "milagrokuna"
+  },
+  {
+   "surface": "הודעת",
+   "gloss": "rikhurichirqanki"
+  },
+  {
+   "surface": "בעמים",
+   "gloss": "mamallaktakunap chawpinpi"
+  },
+  {
+   "surface": "עזך",
+   "gloss": "atiyniykita"
+  }
+ ],
+ "timestamp": "2026-09-08T10:01:38.456233991Z",
+ "model": "glm-5.3"
+}

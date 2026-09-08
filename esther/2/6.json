@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 2:6",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Paymi Yerushalayimmanta (Jerusalén) hallucchasqa karqan, chay hallucchasqa runakunawan — mayqenkuna Yekonyahwan, Yehudap apunwan, hallucchasqa karqanku — paytaqa Nevukadnetsar (Nabucodonosor), Babel apun, halluccharqan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "hallucchasqa karqan"
+    },
+    {
+      "surface": "מירושלים",
+      "gloss": "Yerushalayimmanta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "hallucchasqa runakunawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenkuna"
+    },
+    {
+      "surface": "הגלתה",
+      "gloss": "hallucchasqa karqanku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Yekonyahwan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paytaqa"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "halluccharqan"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-09-08T11:47:56.047475914Z",
+  "model": "glm-5.3"
+}

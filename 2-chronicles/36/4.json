@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 36:4",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Mitsrayimpa apunmi paypa wawqen Elyaqimta ⟨את⟩ Yehuda (Judá) hinaspa Yerushalayim hatenpi apunman churarqan, hinaspa ⟨את⟩ paypa sutinta Yehoyaqimman tikrarqan. Nekomi hinaspa ⟨את⟩ paypa wawqen Yehoajazta hap'ispa Mitsrayiman apamurqan.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "apunman churarqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyaqimta"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyaqim"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "paypa wawqen"
+    },
+    {
+      "surface": "על",
+      "gloss": "hatenpi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "tikrarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "paypa sutin"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyaqimman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yehoajazta"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yehoajaz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "paypa wawqen"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "Neko"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "apamurqan payta"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayiman"
+    }
+  ],
+  "timestamp": "2026-09-08T13:22:10.313873729Z",
+  "model": "glm-5.3"
+}

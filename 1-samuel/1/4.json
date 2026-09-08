@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chay p'unchaw chayamuptinmi Elqana ofrendata ruwarqan; Peninaman, paypa warmintaq, chayllataq paypa llapan churinkunaman, ususinkunamanmanmi t'aqakunata karqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chayamuptinmi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "chay p'unchaw"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "ofrendata ruwarqan"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Peninaman"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "paypa warmintaq"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "churinkunaman"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "ususinkunamanman"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "t'aqakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T04:01:31.061478650Z",
+  "model": "glm-5.3"
+}

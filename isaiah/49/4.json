@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Ñaqataq ñuqa nirqani: ch'usaqllapaq llank'arqani, mana imaynapaqpas hinaspa ch'usaq kallpayta tukuchirqani; icha taripay ⟨את⟩ Yahwewan, llamk'aytaq ⟨את⟩ Elohimniywan kachkan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ñaqataq ñuqa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ch'usaqllapaq"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "llank'arqani"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "mana imaynapaqpas"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "hinaspa ch'usaq"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kallpayta"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "tukuchirqani"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "icha"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "taripay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwewan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwewan"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "hinaspa llamk'ayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimniywan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniywan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:32:14.138548783Z",
+  "model": "glm-5.3"
+}

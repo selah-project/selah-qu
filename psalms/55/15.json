@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Taqekuspa allin sod (pakas rimanakuy) munarqayku; Elohimpa wasinpi runa huñunawan purirqaykumi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "taqekuspa"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "munarqayku"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sod"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "purirqayku"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "runa huñunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:20.336400637Z",
+  "model": "glm-5.3"
+}

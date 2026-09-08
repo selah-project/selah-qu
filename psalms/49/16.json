@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Icha Elohimmi ñuqap nefeshniyta Sheolpa makinmanta qispichinqa, chaymi chaskiwanqam. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "icha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "qispichinqa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "Sheolpa makinmanta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "chaskiwanqa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:16.681435780Z",
+  "model": "glm-5.3"
+}

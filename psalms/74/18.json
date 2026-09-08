@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Kayta yuyariy: awqam Yahweta p'inqachirqan; mana yachaq runakunataq Sutiykita q'uchurqankum.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yuyariy"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqam"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "p'inqachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "runakunataq"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "mana yachaq"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "q'uchurqankum"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:45.574670981Z",
+  "model": "glm-5.3"
+}

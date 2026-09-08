@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 1:11",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi ⟨את⟩ Yahwepa angelta kutichirqanku, mirtu sach'akunap chawpinpi sayaqta, hinaspa ñirqanku: «Hallp'api purirqaykum; chaytaq qhawariy: llapan hallp'aqa tiyachkanmi, hinaspa hinarakmi.»",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "kutichirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa angelta"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "angel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "sayaq"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "mirtu sach'akunap"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ñirqanku"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "purirqayku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "chaytaq qhawariy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'aqa"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "tiyachkan"
+    },
+    {
+      "surface": "ושקטת",
+      "gloss": "hinaspa hinarakmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:17:33.814816150Z",
+  "model": "glm-5.3"
+}

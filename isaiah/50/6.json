@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Qhasaytam qunim maqakuqkunaman, qhaparayniytaq siq'uqkunaman; uyaytaqa mana pakallarqanimchu pisiyachiytamanta, hinaspa thuqtuywanmanta.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "qhasaytam"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qunim"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "maqakuqkunaman"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "qhaparayniytaq"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "siq'uqkunaman"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uyaytaqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "pakallarqanimchu"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "pisiyachiytamanta"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "hinaspa thuqtuywanmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:36:56.121410653Z",
+  "model": "glm-5.3"
+}

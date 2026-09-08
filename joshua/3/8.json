@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Qamtaq Beritpa sandulun uywaq kohenkunaman ⟨את⟩ kamachinqanki nispa: Yarden mayu yakunap ch'ikaru chayamuptiykichikqa, Yardenpi sayariykichik nispa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "kamachinqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohenkunaman"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "uywaq"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandulun"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "Beritpa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "chayamuptiykichikqa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ch'ikaru"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ch'ikaru"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yakunap"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden mayu"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Yardenpi"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "sayariykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T03:07:31.688683560Z",
+  "model": "glm-5.3"
+}

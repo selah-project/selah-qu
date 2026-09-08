@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Llamp'u kutichiyqa phiñata kutichinmi; hinaspa nanachikuq rimayqa phiñakuyta hatarichinmi.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "kutichiy"
+    },
+    {
+      "surface": "רך",
+      "gloss": "llamp'u"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "kutichinmi"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "phiñata"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "hinaspa rimayqa"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "nanachikuq"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "hatarichinmi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "phiñakuyta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:18:16.778432395Z",
+  "model": "glm-5.3"
+}

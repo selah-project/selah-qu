@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Sichus taytan payta chayman qoyta hunt'aspa hark'an, qullqita sipaskuna moharnin hina pesunmi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "hunt'aspa"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "hark'an"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "payta qoyta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqita"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "pesun"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "moharnin hina"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "sipaskunap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:07.367335381Z",
+  "model": "glm-5.3"
+}

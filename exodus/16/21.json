@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 21,
+ "ref": "exodus 16:21",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 16,
+ "translation": "Tutamantam, tutamanta, sapa runa mikhunanman hina ⟨את⟩ pallarqanku; inti q'onqoriptinqa, unuyarparikurqanmi.",
+ "tokens": [
+  {
+   "surface": "וילקטו",
+   "gloss": "pallarqanku"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩",
+   "marks": "chayta (mana)"
+  },
+  {
+   "surface": "בבקר",
+   "gloss": "tutamanta"
+  },
+  {
+   "surface": "בבקר",
+   "gloss": "tutamanta"
+  },
+  {
+   "surface": "איש",
+   "gloss": "sapa runa"
+  },
+  {
+   "surface": "כפי",
+   "gloss": "…man hina"
+  },
+  {
+   "surface": "אכלו",
+   "gloss": "mikhuna"
+  },
+  {
+   "surface": "וחם",
+   "gloss": "q'onqoriptin"
+  },
+  {
+   "surface": "השמש",
+   "gloss": "inti"
+  },
+  {
+   "surface": "ונמס",
+   "gloss": "unuyarparikurqan"
+  }
+ ],
+ "timestamp": "2026-09-08T00:30:39.632088761Z",
+ "model": "glm-5.3"
+}

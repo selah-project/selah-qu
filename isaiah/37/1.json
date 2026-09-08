@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Karqanmi: apu Jizkiyahu (Ezequías) uyariptin, ⟨את⟩ p'achankunata ch'itiyarqan, saqowan p'istirikurqan, Yahwepa wasinman yaykurqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Karqanmi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "uyariptin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Jizkiyahu (Ezequías)"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ch'itiyarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achankunata"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "p'achankunata"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "p'istirikurqan"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "saqowan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yaykurqan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:21:19.409232833Z",
+  "model": "glm-5.3"
+}

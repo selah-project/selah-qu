@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Babelpa apun ⟨את⟩ paykunata yarparqanmi, hinaspa Riblahpi, Hamatpa hallp'api, wañuchirqan; chaymanta Yehudaqa kikin hallp'anmanta apakapusqa karqan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "yarparqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelpa"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Riblahpi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamatpa"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "apakapusqa karqan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaqa"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manta"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "kikin hallp'an"
+    }
+  ],
+  "timestamp": "2026-09-08T05:50:47.391447209Z",
+  "model": "glm-5.3"
+}

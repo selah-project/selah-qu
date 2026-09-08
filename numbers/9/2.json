@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Israelpa churinkunam ⟨את⟩ Pésajta (Pascua) hunt'ochun paypa paqariyninpi.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "hunt'ochun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésajta"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésajta"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "paypa paqariyninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:24:56.657070346Z",
+  "model": "glm-5.3"
+}

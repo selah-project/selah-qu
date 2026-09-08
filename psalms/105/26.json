@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Kacharqanmi Mosheta (Moisés), paypa yanapaqninta, Aharontawan (Aarón), paymi akllasqa karqan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "paypa yanapaqninta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharontawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pitas"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "akllasqa karqan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:53.044575943Z",
+  "model": "glm-5.3"
+}

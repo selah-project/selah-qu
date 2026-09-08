@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Elazarm ⟨את⟩ Pinechasta (Finees) paqarichirqanmi; Pinechasm ⟨את⟩ Avishuata (Abisúa) paqarichirqanmi.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinechasta"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "paqarichirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishuata"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    }
+  ],
+  "timestamp": "2026-09-08T12:33:08.703731734Z",
+  "model": "glm-5.3"
+}

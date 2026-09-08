@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Paropa churinm payman nirqan: Kay ⟨את⟩ wawata apay, ñuqapaq ñawichay; ñuqaq ⟨את⟩ qollqiykita qusaqmi. Chaymi warmi ⟨את⟩ wawata chaskirqan, ñawichirqan.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "בת",
+      "gloss": "churin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "apay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay wawata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wawata"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "ñawichay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqaq"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qollqiykita"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "qollqiykita"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "chaskirqan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wawata"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "ñawichirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:00:16.807878045Z",
+  "model": "glm-5.3"
+}

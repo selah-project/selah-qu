@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Gadpa churinkuna ayllunkunaman: Tsefomanta Tsefopa ayllun, Jagimanta Jagipa ayllun, Shunimanta Shunipa ayllun.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadpa"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayllunkunaman"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "Tsefomanta"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllun"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "Tsefopa"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "Jagimanta"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllun"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "Jagipa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "Shunimanta"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllun"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "Shunipa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:12:38.133709174Z",
+  "model": "glm-5.3"
+}

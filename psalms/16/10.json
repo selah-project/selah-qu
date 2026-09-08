@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Imataq nefeshniyta Sheolman saqinwaqchu, hasidniykita chinkay rikuynanpaq qunwaqchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "saqinwaqchu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheolman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qunwaqchu"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "hasidniykita"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "rikuynanpaq"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "chinkay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:22.105289459Z",
+  "model": "glm-5.3"
+}

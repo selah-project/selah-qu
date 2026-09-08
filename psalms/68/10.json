@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Munayninta qhusqhuyta Elohim t'ikraqanmi; ñuqanchikpa churaysunta — ch'akiptiptinsi, qamlla hunt'achirqanki.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "qhusqhuyta"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "munayninta"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "t'ikraqanmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ñuqanchikpa churaysunta"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "ch'akiptiptinsi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qamlla"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "hunt'achirqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:00.657788172Z",
+  "model": "glm-5.3"
+}

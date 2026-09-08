@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Upallay Yahwepaq, hinaspa payta suyay; ama phiñakuychu ñannin allin rurapuq rayku, runamanta millay chuymanikuna ruraqta.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Upallay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "hinaspa payta suyay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "phiñakuychu"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "allin rurapuq"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ñannin"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "runamanta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "millay chuymanikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:41.609623521Z",
+  "model": "glm-5.3"
+}

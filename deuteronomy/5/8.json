@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Ama ruwankichikchu qamkunapaq rurasqa diosta, mana ima rikch'atapas: mayqen hanaq pachapi hananpi kachkan, mayqen hallp'api uraypi kachkan, mayqenpas unapi, hallp'a uraypi kachkan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwankichikchu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "rurasqa dios"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mana ima"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "rikch'atapas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "hananpi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "uraypi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mayqenpas"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unapi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "uraypi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T02:29:39.007010192Z",
+  "model": "glm-5.3"
+}

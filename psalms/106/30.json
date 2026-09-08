@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Hinaspa Pinchas (Fineas) sayarirqanm, taripakuyta ruwarqan, hinaspa unquyqa hark'asqa karqan.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinchas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "taripakuyta ruwarqan"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "hark'asqa karqan"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "unquyqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:08.359675800Z",
+  "model": "glm-5.3"
+}

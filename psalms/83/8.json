@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Gebal, hinaspa Amon, hinaspa Amalek, Peleshet (Filistea) Tsorpa tiyaqkunawan.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "hinaspa Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "hinaspa Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsorpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:05.902255316Z",
+  "model": "glm-5.3"
+}

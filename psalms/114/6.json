@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 114,
+  "translation": "Urqukuna, imarayku karnerokuna hina k'ayllakankichik; huch'uy orqokuna, ichhu unawan hina, llama wawakuna hina?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "urqukuna"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "k'ayllakankichik"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "karnerokuna hina"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "huch'uy orqokuna"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "wawakuna hina"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ichhu unawan \/ llama"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:05.979549286Z",
+  "model": "glm-5.3"
+}

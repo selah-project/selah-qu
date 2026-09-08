@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Paqarinta p'unchaw ñawpaqta sayarirqankum, huknin hukninman jurarqanku; Itsjakm paykunata kacharqan, paykunataq paymanta ⟨את⟩ shalompi purirqanku.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "paqarinta ñawpaqta sayarirqanku"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "jurarqanku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huknin"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "hukninman"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjak"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "paymanta ⟨את⟩",
+      "marks": "paymanta (Itsjakmanta)"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "shalompi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:02:01.321666977Z",
+  "model": "glm-5.3"
+}

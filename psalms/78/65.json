@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Adonaym puñuq hina phatariptinmi, atiyniyuq qhari hina tiyanmantawan qhaparirqan.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "phatariptin"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "puñuq hina"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "atiyniyuq qhari hina"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "qhaparirqan"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "tiyanmantawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:28.382135750Z",
+  "model": "glm-5.3"
+}

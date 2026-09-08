@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chayrayku qam waqaychanki ⟨את⟩ kamachikuyta, ⟨את⟩ estatutokunatawan, ⟨את⟩ juezkamachiykunatawan, kay p'unchaw ñuqam kamachiniyki, ruwanaykipaq.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "waqaychanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamachikuyta"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "kamachikuyta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "estatutokunata"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "estatutokunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "juezkamachiykunata"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "juezkamachiykunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "piqpa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kamachiniyki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ruwanaykipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:33:52.056305890Z",
+  "model": "glm-5.3"
+}

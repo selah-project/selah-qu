@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 24:18",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspam Yahwem ⟨את⟩ llapan runakunata, hinaspa ⟨את⟩ hallp'api kawsaq Emorita (amorreo) runakunata ñawinchik ñiqmanta qarqurqan; chaymi ñuqanchikpas ⟨את⟩ Yahweta servinchik, paymi Elohimninchik.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "hinaspa qarqurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Emoritakunata"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori (amorreo)"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "ñawinchik ñiqmanta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñuqanchik"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "servinchik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    }
+  ],
+  "timestamp": "2026-09-08T03:35:16.004994315Z",
+  "model": "glm-5.3"
+}

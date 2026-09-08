@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "David apum (David) kachamurqanmi, hinaspa payta hap'irqan Makirpa (Maquir), Ammielpa (Ammiel) churinpa wasinmanta, Lodebar (Lodebar) llaqtamanta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kachamurqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "payta hap'irqan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasinmanta"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makirpa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinpa"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammielpa"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "Lodebar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "llaqtamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:38:52.443601410Z",
+  "model": "glm-5.3"
+}

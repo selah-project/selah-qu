@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinallataqmi ñuqapas uyarirqani ⟨את⟩ Israel wawakunap waqyayninta, mayqinkunata Mitsrayimpa runankuna yanachichkanku ⟨את⟩ paykunata; hinaspa yuyarirqanim ⟨את⟩ beritniyta (pactoyta).",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Hinallataqmi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqapas"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "uyarirqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel wawakunap waqyayninta"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "waqyayninta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa (Egipto)"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "yanachichkanku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "hinaspa yuyarirqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beritniyta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beritniyta (pacto)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:24:10.060807970Z",
+  "model": "glm-5.3"
+}

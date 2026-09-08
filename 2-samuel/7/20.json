@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Imataq Davidqa yakullataq rimanman qamwan, Adonay Yahwe? Qamtataq ⟨את⟩ yanapaqniyki rikhinkim, Adonay Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "yakullataq rimanman"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yakulla"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "rikhinki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapaqniyki (ñuqap yanapaq)"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanapaqniyki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T04:37:17.705941010Z",
+  "model": "glm-5.3"
+}

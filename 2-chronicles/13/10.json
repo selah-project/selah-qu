@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 13:10",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Ñuqaykuqtaq: Yahwe Elohimniyku, manam payta saqirqaykuchu; kohenkunataq Aharonpa churinkunam Yahweman sirvinku, Levitakunapas llamk'ayninpi.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Ñuqaykuqtaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimniyku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "עזבנהו",
+      "gloss": "saqirqaykuchu"
+    },
+    {
+      "surface": "וכהנים",
+      "gloss": "kohenkunataq"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "sirvinku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "Levitakunapas"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "llamk'ayninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:04:28.814632670Z",
+  "model": "glm-5.3"
+}

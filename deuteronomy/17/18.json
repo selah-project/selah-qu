@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 17:18",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chaymi karqa: paypa kamachikuysan tiyanapi tiyakuspa, kohenkunap Levikunap (levitas) ñawpaqninpi kay Torap iskaychasqenta ⟨את⟩ qillqasqapi paypaq qillqanqa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "chaymi karqa"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "tiyakuspa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tiyananpi"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "paypa kamachikuysan"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "qillqanqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iskaychasqenta"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "iskaychasqenta"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torap"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "qillqasqapi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkunap"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levikunap (levitas)"
+    }
+  ],
+  "timestamp": "2026-09-08T02:45:48.768097258Z",
+  "model": "glm-5.3"
+}

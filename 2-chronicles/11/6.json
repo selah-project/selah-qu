@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Ruwarqanmi ⟨את⟩ Bet Lejemta (Belén), hinaspa ⟨את⟩ Etamta, hinaspa ⟨את⟩ Tekoata.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Ruwarqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet Lejemta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lejem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Etamta"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etamta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tekoata"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoata"
+    }
+  ],
+  "timestamp": "2026-09-08T12:58:33.692028504Z",
+  "model": "glm-5.3"
+}

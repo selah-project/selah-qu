@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa ⟨את⟩ Sikutta, malliqnikichikta, hinaspa ⟨את⟩ Kiunta rikch'aynikichikta apaykachirqankichikmi, quyllur diosnikichik, qamkunapaq ruwarqankichik.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "hinaspa apaykachirqankichikmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikutta"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "malliqnikichik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kiunta"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "rikch'aynikichik"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "quyllur"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "diosnikichik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(ima)"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ruwarqankichik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T08:58:10.076499235Z",
+  "model": "glm-5.3"
+}

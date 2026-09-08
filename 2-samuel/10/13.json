@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 10:13",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yoab, paywan kachkaq runakunawan, Aramawan maqanakuyman qatikurqanmi; Aram runakunaqa pay ñawpaqmanta ayqirqankum.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "qatikurqan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "hinaspa runakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kachkaq"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "maqanakuyman"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aramwan"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ayqirqanku"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pay ñawpaqmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:40:28.887118224Z",
+  "model": "glm-5.3"
+}

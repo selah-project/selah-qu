@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Mitsrayimpa (Egipto) runakunam runakunata sinch'iykurqanku, utqaylla hallp'amanta lluqsichinankupaq; nirqankum: «Llapanchikmi wañushanchik».",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "sinch'iykurqanku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa runakunam"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "utqaylla"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "lluqsichinankupaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nirqankum"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "llapanchik"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "wañushanchik"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:33.195173421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Warmiqa nirqan: ⟨את⟩ pita qampaq wichachisaq? Paym nirqan: ⟨את⟩ Shemuel (Samuel)ta ñuqapaq wichachiy.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "warmiqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pita"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "wichachisaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuelta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel (Samuel)"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "wichachiy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T04:27:33.192230587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Heqañam hina ñuqaman suyaspa pakan, añatutaq pakisqa tiyanakunapi.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "heqaña"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "suyaspa pakan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "añatu"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "pakisqa tiyanakunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:31:53.381318317Z",
+  "model": "glm-5.3"
+}

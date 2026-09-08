@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Waqaychay ⟨את⟩ waqaychayta, ama chaymanta huchata apamunkichikchu, ama chaypipas wañunkichikchu, payta p'istiptiyki; ñuqam Yahwe, ñuqam paykunata k'anchaykachani.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Waqaychay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waqaychayta"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "waqaychayta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "huchata apamunkichik"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "huchata"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "wañunkichik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypipas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "p'istiptiyki"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "payta p'istiptiyki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "paykunata k'anchaykachani"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:44.323132545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Yehoshua (Josué)mi runakunap sinchi qapariyninkuta ⟨את⟩ uyaripti, Moshe (Moisés)man nirqan: awqanakuy qapariymi kampapi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyaripti"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qapariyta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "qapariy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "sinchi qaparispa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "qapariy"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "awqanakuy"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "kampapi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:13.143663138Z",
+  "model": "glm-5.3"
+}

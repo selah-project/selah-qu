@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 118,
+  "translation": "Manam wañusaqchu, kawsasqam kasaq, hinaspa Yahpa rurasqankunata willasqam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "wañusaqchu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…m kasaq"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "kawsasaq"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "hinaspa willasaq"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "rurasqankunata"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:13.752457836Z",
+  "model": "glm-5.3"
+}

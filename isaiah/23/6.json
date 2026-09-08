@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Tarshishman chayay, waqay chala tiyaqkuna!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "chayay"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "Tarshishman"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "waqay"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "אי",
+      "gloss": "chala"
+    }
+  ],
+  "timestamp": "2026-09-08T06:07:38.113057262Z",
+  "model": "glm-5.3"
+}

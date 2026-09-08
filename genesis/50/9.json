@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Paywanmi hananman purirqan carrokunapas, hinallataq caballo puriqkunapas; chay tantariyqa ancha llasaqmi karqan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "hananman purirqan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "carrokuna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "caballo puriqkuna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "tantariy"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "llasaq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ancha"
+    }
+  ],
+  "timestamp": "2026-09-08T00:19:23.705997169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Runakunata ⟨את⟩ muyuriqninpi saywachay, kayta rimaspa: Amawariykichik, ama urquman siqariykichikchu, ama chaypa ch'ikanta llaqllaykichikchu; urquta llawaq pipas wañunmi, wañuchispa wañunqam.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "saywacharqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqninpi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta rimaspa"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Amawariykichik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "siqariy"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urquman"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "llaqlla"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "chaypa ch'ikanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "pipas"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "llawaq"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urquta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuy"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañuchispa wañunqam"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:26.441380276Z",
+  "model": "glm-5.3"
+}

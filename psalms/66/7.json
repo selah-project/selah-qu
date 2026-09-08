@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Atiyninwanmi wiñaypaq kamachin; ñawinkunam llaqtakunata qhawachkan; ama hark'asqa runakuna sayarichichusñawinkunta. Sela.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "kamachinmi"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "atiyninwan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ñawinkunam"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "qhawachkan"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "hark'asqa runakuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... chus"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "sayarichichusñawinkunta"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ñawinkunta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:54.769868643Z",
+  "model": "glm-5.3"
+}

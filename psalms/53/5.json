@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 53,
+  "translation": "Manachu yachanku mana allin ruwaqkunam — ñuqap runayta mikhuqkuna t'antata hina mikhuspa? Elohimta mana qayarkankuchu.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "yachanku"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ruwaqkuna"
+    },
+    {
+      "surface": "און",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "mikhuqkuna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqap runayta"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mikhuspa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'antata hina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "qayarkankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:39.231554107Z",
+  "model": "glm-5.3"
+}

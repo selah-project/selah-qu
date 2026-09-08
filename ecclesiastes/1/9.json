@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ima karqan, chaymi kanqa; ima ruwasqa karqan, chaymi ruwakunqa; intip uranpi mana musuq imapas kanchu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "hinaspa ima"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ruwasqa karqan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ruwakunqa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uranpi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    }
+  ],
+  "timestamp": "2026-09-08T14:24:15.603127960Z",
+  "model": "glm-5.3"
+}

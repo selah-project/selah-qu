@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Apupa ñawpaqman yaykunki, payman kay hina rimanki. Yoabm ⟨את⟩ simikunata paypa siminpi churirqan.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "yaykunki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ñawpaqman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "rimanki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "churirqan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simikunata"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "simikunata"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "paypa siminpi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:43:13.743456324Z",
+  "model": "glm-5.3"
+}

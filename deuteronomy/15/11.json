@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 15:11",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Imaraykuchus wakcham mana chinkanqachu hallp'a ukhumanta; chayraykum ñuqam kamachiyki nispa: kichaspa kichay ⟨את⟩ makiykita qhari masiykipaq, mana imayuqpaq, wakchapaqpas hallp'aykipi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "chinkanqachu"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "hallp'a ukhumanta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "על",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayraykum"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kamachiyki"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kichaspa"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "kichay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makiykita"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykita"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "qhari masiykipaq"
+    },
+    {
+      "surface": "לעניך",
+      "gloss": "mana imayuqpaq"
+    },
+    {
+      "surface": "ולאבינך",
+      "gloss": "wakchapaqpas"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "hallp'aykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:43:04.484312334Z",
+  "model": "glm-5.3"
+}

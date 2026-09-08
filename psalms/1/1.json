@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ima k'anchaymi kay runa: mana reshaqkunap yuyayninwan purinchu, mana huchalikuqkunap ñanpi sayanchu, mana burlaqkunap tiyananpi tiyanchu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ima k'anchaymi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kay runa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "purinchu"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "reshaqkunap yuyayninwan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "reshaqkuna"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "huchalikuqkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "sayanchu"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "tiyananpi"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "burlaqkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:41.186212887Z",
+  "model": "glm-5.3"
+}

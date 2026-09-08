@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Imarayku paypa qhatunmi qullqi qhatumanta aswan allinmi, paypa ruruntaq qurimanta aswan allinmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "aswan allinmi"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "paypa qhatun"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "qhatu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "paypa ruruntaq qurimanta"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "paypa rurun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:09.637425842Z",
+  "model": "glm-5.3"
+}

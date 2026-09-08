@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Israelpa mana p'enqakuyninmi paypa ñawpaqpi willakurqan; ichataq manam kutirqankuchu Yahwe Elohimninkuman, manataq payta maskhakurqankuchu, kay llapanpitaq.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "willakurqan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "mana p'enqakuy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "paypa ñawpaqpi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichataq mana"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "kutirqankuchu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimninkuman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "maskhakurqankuchu payta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kay llapanpi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:49:01.227316847Z",
+  "model": "glm-5.3"
+}

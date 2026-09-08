@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Paykuna ⟨payman⟩ nirqankum: «Chaymi, ⟨את⟩ qamwanmi kutisaqku qam runaykikunaman.»",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "nirqankum"
+    },
+    {
+      "surface": "לה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "kutisaqku"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "runaykikunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:29:09.082895835Z",
+  "model": "glm-5.3"
+}

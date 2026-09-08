@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Sabiqa yawqapaqmi hananmi, punkupi ama siminta kichanchu.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "hananmi"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "yawqapaq"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "punkupi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "kichanchu"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "siminta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:48:59.630371708Z",
+  "model": "glm-5.3"
+}

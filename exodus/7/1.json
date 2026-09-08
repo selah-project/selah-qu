@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa Yahwem Mosheman (Mosés) nirqan: Qhawaymi, qamta Paropa (Faraón) dios hina churarqani; hinaspa Aharon (Aarón), wawqiykiqa, navi kanqam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Hinaspa nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "qamta churarqani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dios"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paropaq"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "hinaspa Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wawqiyki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "navi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:59:33.858082071Z",
+  "model": "glm-5.3"
+}

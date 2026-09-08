@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 9:5",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chayarqan, chayqa awqap umalliqkuna tiyachkankus; nirqan: «Simi kan qamman, umalliq». Yehu (Jehú) nirqan: «Ñuqanchikllapamanta piman?» Chayqa nirqan: «Qammanmi, umalliq».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqkuna"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "awqap"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "tiyachkankus"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "השר",
+      "gloss": "umalliq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "piman"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "מכלנו",
+      "gloss": "ñuqanchikllapamanta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "השר",
+      "gloss": "umalliq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:29:31.591901868Z",
+  "model": "glm-5.3"
+}

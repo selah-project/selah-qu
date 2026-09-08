@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Cheqan kayta munarqankim, mana allin kaytaq cheqniykurqanki; chay rayku Elohim, Elohimniyki, kusikuypa ununwan masniykimanta aswan willkachisunki.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "munarqanki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cheqan kayta"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "cheqniykurqanki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin kayta"
+    },
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "willkachisunki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kusikuy"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "masniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:50:08.590953279Z",
+  "model": "glm-5.3"
+}

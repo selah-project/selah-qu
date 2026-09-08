@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 9:20",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Menashe ⟨את⟩ Efrayimta ⟨mikhun⟩, hinaspa Efrayimpas ⟨את⟩ Menasheta ⟨mikhun⟩; paykuna hukllawasin Yehudaman awqanakunku. Llapa kaywanpas phiñanqa mana tikrasqachu, kunanraq mak'in sayachisqa kichasqam.",
+  "tokens": [
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayimta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "hinaspa Efrayimpas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menasheta"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hukllawasin"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapapi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kaypi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tikrasqachu"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "phiñan"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "hinaspa kunanraq"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mak'in"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "sayachisqa kichasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:59:03.323117286Z",
+  "model": "glm-5.3"
+}

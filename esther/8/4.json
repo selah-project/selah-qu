@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa apuriy ⟨את⟩ quri cetron Esterman wit'ichirqan; chaymanta Ester sayarirqan, apu ñawpaqninpi sayarqan.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "wit'ichirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apuriy"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quri cetron"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "cetron"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "sayarqan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:50:45.830452188Z",
+  "model": "glm-5.3"
+}

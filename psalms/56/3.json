@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "Awqayniykuna tukuy p'unchaw ñuqata millp'uwanku: achka ñuqawan awqanakuqmi, Hanaq Kaq.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ñuqata millp'uwanku"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "awqayniykuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "achka"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "awqanakuq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Hanaq Kaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:58.712022774Z",
+  "model": "glm-5.3"
+}

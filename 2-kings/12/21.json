@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Sayarirqaku paypa yanapanqenkunam, juñunakuytam ruwarqaku, hinaspa ⟨את⟩ Yoashta (Joash) wakirqaku Beth-Millo wasipi, Sillaman uraykuq ñanpi.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "sayarirqaku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "paypa yanapanqenkuna"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "juñunakuyta ruwarqaku"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "juñunakuy"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wakirqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoashta"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash (Joash)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Beth-Millo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "uraykuq ñan"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-09-08T13:45:43.075457870Z",
+  "model": "glm-5.3"
+}

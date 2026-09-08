@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Chaymantam anta q'illaymanta pichqa chunka t'inkinakunata ruwarqan, ⟨את⟩ hatun wasinta huk ⟨kananpaq⟩ t'inkichinapaq.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "t'inkinakuna"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "anta q'illay"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pichqa chunka"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "t'inkichinapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatun wasinta"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "hatun wasinta"
+    },
+    {
+      "surface": "להית",
+      "gloss": "kananpaq"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:34.337574202Z",
+  "model": "glm-5.3"
+}

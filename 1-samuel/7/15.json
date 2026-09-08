@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Shemuelqa ⟨את⟩ Israelta kawsasqan p'unchawkuna llapanpi tariparqanmi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "tariparqanmi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuelqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanpi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "kawsasqan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:06:10.322485247Z",
+  "model": "glm-5.3"
+}

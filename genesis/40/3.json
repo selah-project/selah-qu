@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Paykunataqa ⟨את⟩ wañuchiqkunap umalliqnin wasipi waqaychayman churarqanm, wichq'ana wasiman, Yosef watasqa karqan chay kitipi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "waqaychayman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umalliqnin"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wañuchiqkunap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "wichq'ana"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "chay kitipi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypipas"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "watasqa karqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:12:30.712658111Z",
+  "model": "glm-5.3"
+}

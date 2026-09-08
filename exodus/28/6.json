@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinallataq paykuna ⟨את⟩ efodta ruwqhungam: quri, tejelet, argaman, tulaat shani, hinaspa molq'usqa shesh, yachaysapa ruwaywanmi.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Hinallataq ruwqhungam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodta"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tejelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "hinaspa argaman"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tulaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "hinaspa shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "molq'usqa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ruwaywan"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "yachaysapa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:36.034629931Z",
+  "model": "glm-5.3"
+}

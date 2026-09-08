@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Yahwepa jesedninqa wiñaymantam wiñaykama payta manachikuqkunapim; paypa tsedeqnintaq wawankunap wawankunapaqmi.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "jesednintaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "wiñaymantam"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "payta manachikuqkunapa"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "tsedeqnintaq"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wawankunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:42.248220241Z",
+  "model": "glm-5.3"
+}

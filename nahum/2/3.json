@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Yahwem ⟨את⟩ Yaakovpa (Jacob) glorianta kutichirqan, Israelpa glorian hina; imaraykuchus ch'usaqchaqkuna ch'usaqcharqanku, hinaspa vid ramaikunata millayachirqanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovpa glorianta"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "glorianta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa (Jacob)"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "glorian hina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "ch'usaqchaqkuna"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "ch'usaqcharqanku"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "hinaspa vid ramaikunata"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "millayachirqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:11:55.162769440Z",
+  "model": "glm-5.3"
+}

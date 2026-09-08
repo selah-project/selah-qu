@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chay hallp'ap qurin allinmi; chaypim bedolach, hinaspa shoham rumi ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolach"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "hinaspa rumi"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    }
+  ],
+  "timestamp": "2026-09-08T02:01:09.088677390Z",
+  "model": "glm-5.3"
+}

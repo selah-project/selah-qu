@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Ñuqataq, chakillay chika t'ikrarqanña; ñaaniyta ch'usaq hina wikch'urqan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ñuqataq"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "chika"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "t'ikrarqanña"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "chakillay"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "ch'usaq hina"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "wikch'urqan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ñaaniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:10.728926943Z",
+  "model": "glm-5.3"
+}

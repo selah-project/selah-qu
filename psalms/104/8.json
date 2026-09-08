@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Orqokunam huqarisqa karqan, q'omerakunataq urayarqan, qam chaykunapaq tiqsichisqayki ñawpa pachaman.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "huqarisqa karqan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "orqokuna"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "urayarqan"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "q'omerakuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ñawpa pachaman"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ñawpa pacha"
+    },
+    {
+      "surface": "זה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "tiqsichisqayki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chaykunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:27.985286551Z",
+  "model": "glm-5.3"
+}

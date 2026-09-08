@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Sutipay rayku Yahwem sunqunta yarqurqasaq, haylliymantaq qamta hark'asaq, ama qamta kuchuspa qarqunaypaq.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Sutipay"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "sunqunta yarqurqasaq"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "yarqunay"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "haylliymantaq"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "hark'asaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ama qarqunaypaq"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "qamta kuchuspa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:26:36.184246900Z",
+  "model": "glm-5.3"
+}

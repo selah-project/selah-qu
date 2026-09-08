@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Imaraykuchus phiñayniykipi tukurqaykum, ch'aqwayniykipas mancharikurqaykum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "tukurqayku"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "phiñayniykipi"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ch'aqwayniykipi"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "mancharikurqayku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:54.750004763Z",
+  "model": "glm-5.3"
+}

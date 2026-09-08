@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinalla makilla tarirqa elil (mana chaninniyuq dioskunapa) qhapaq suyunkunata, paykuna rurasqa diosninkunatawan, Yerushalayimmanta (Jerusalén) Shomronmanta.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Hinalla"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "tarirqa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makilla"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "qhapaq suyunkunata"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "elil (mana chaninniyuq dioskunapa)"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "paykuna rurasqa diosninkunatawan"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayimmanta (Jerusalén)"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "Shomronmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:56:50.313430388Z",
+  "model": "glm-5.3"
+}

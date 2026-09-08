@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Yuyarichiy paypa mirarkananata, imata ruwasqanta, paypa unanchankunatawan, paypa siminpa chiqan kamachinkunatawan.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "yuyarichiy"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "paypa mirarkananata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqanta"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "paypa unanchankunatawan"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "chiqan kamachinkunatawan"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "paypa siminpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:41.702136908Z",
+  "model": "glm-5.3"
+}

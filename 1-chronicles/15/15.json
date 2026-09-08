@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "1-chronicles 15:15",
+ "book": "1-chronicles",
+ "lang": "qu",
+ "chapter": 15,
+ "translation": "Chaymi Leviykunap churinkunam Elohimpa ⟨את⟩ aronta hap'irqanku, ñawpaqninkupi saratakunawan Moshepa kamachisqan hina, Yahwepa simin hina.",
+ "tokens": [
+  {
+   "surface": "וישאו",
+   "gloss": "hap'irqanku"
+  },
+  {
+   "surface": "בני",
+   "gloss": "churinkuna"
+  },
+  {
+   "surface": "הלוים",
+   "gloss": "Leviykunap"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "aronta"
+  },
+  {
+   "surface": "ארון",
+   "gloss": "aronta"
+  },
+  {
+   "surface": "האלהים",
+   "gloss": "Elohimpa"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "hina"
+  },
+  {
+   "surface": "צוה",
+   "gloss": "kamachisqan"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshepa"
+  },
+  {
+   "surface": "כדבר",
+   "gloss": "simin hina"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "בכתפם",
+   "gloss": "ñañi tuqyankupi"
+  },
+  {
+   "surface": "במטות",
+   "gloss": "saratakunawan"
+  },
+  {
+   "surface": "עליהם",
+   "gloss": "ñawpaqninkupi"
+  }
+ ],
+ "timestamp": "2026-09-08T12:42:22.649617116Z",
+ "model": "glm-5.3"
+}

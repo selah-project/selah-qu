@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinaspa David sayarirqan, paypas suqta pachak runakunapas paywan kachkaspata Akishman (Aquis) — Maochpa churin, Gatpa (Gat) apunman — chayarqan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paypas"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runakunapas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kachkaspata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manman"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Maochpa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatpa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:29:04.038126063Z",
+  "model": "glm-5.3"
+}

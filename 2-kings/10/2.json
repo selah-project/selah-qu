@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Kunanmi, kay qillqa qamkunaman chayamuptiy, hinaspa ⟨את⟩ qamkunawanmi apaykiykunap churikuna kachkan, hinaspa ⟨את⟩ qamkunawanmi karrukuna, kawallukunapas, fortaleza llaqtapas, awqakunachanapas:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kunanmi"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "chayamuptiy"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kay qillqa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "hinaspa ⟨את⟩ qamkunawan",
+      "marks": "churikuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churikuna"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "apaykiykunap"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "hinaspa ⟨את⟩ qamkunawan",
+      "marks": "karrukuna"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "karrukuna"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "kawallukunapas"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "llaqtapas"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fortaleza"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "awqakunachanapas"
+    }
+  ],
+  "timestamp": "2026-09-08T13:45:22.741192088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa apupa llamk'aqninkuna, apupa punkunpi kaqkuna, Mordekayman nirqaku: imarayku qam ⟨את⟩ apupa kamachikunta llanchhunki?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqaku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "llamk'aqninkuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "punkunpi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordekayman"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "llanchhunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apupa kamachikunta"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kamachikun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:46:49.895201481Z",
+  "model": "glm-5.3"
+}

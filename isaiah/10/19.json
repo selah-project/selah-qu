@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 10:19",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa paypa sach'a-sach'ap sach'akunap chakisqaqa pisi yupayllam kanqa, huk wawalla yupaspa qillwan atinqa.",
+  "tokens": [
+    {
+      "surface": "ושאר",
+      "gloss": "chakisqaqa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sach'akunap"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "paypa sach'a-sach'ap"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "pisi yupayllam"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "huk wawalla"
+    },
+    {
+      "surface": "יכתבם",
+      "gloss": "yupaspa qillwan atinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:58:10.979637377Z",
+  "model": "glm-5.3"
+}

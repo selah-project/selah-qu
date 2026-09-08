@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Paymi makinkunata kacharqan hillinakunanman; Berisnintaqa ch'utirqan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "makinkunata"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "hillinakunanman"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ch'utirqan"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "Berisninta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:17.540799836Z",
+  "model": "glm-5.3"
+}

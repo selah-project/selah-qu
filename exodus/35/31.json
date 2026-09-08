@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Hinaspa Elohimpa wayran ⟨את⟩ payta hunt'arqan yachaywan, hamut'aywanwan, riqsichikuywanwan, llapan llamk'aywanwan.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "hunt'arqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayran"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "yachaywan"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "hamut'aywanwan"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "hinaspa riqsichikuywanwan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "llamk'aywanwan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:59.826656698Z",
+  "model": "glm-5.3"
+}

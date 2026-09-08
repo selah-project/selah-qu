@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Elohimmi ñinta yachan; paymi ⟨את⟩ tiyananta riqsin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "yachan"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "ñinta"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "paytaq"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "riqsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiyananta"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "tiyananta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:12:18.551223595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "hinaspa ⟨את⟩ Yahwe qhipamanta awkakuqkunata, ima ⟨את⟩ Yahweta mana maskarqankuchu, manataq payta tapurqankuchu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yahwe qhipamanta awkakuqkunata"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "awkakuqkunata"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "qhipamanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "maskarqankuchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "tapurqankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:15:38.458960463Z",
+  "model": "glm-5.3"
+}

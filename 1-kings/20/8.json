@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Chaymanta llapa kurakakunawan llapa runakuna payman nirqankum: Ama uyarirqaychu, ama chaskiychu.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqankum"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "kurakakuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunawan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uyarirqaychu"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "chaskiychu"
+    }
+  ],
+  "timestamp": "2026-09-08T13:42:45.115229485Z",
+  "model": "glm-5.3"
+}

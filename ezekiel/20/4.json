@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "¿Chaykunata chiqanchankichichu, runap churin? ¿Chiqanchankichichu? Taytankunap millanyachisqa rurasqankunata willay chaykunaman.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "¿chiqanchankichichu?"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chaykunata"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "¿chiqanchankichichu?"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "millanyachisqa rurasqankunata"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "millanyachisqa rurasqankunata"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "taytankunap"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "willay chaykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T08:10:19.334152482Z",
+  "model": "glm-5.3"
+}

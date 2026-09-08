@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Chaynata yachachiwku p'unchayninchikta yupanankupaq; chaywanmi sunqunchikta yachayman apakushanchik.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "yupanankupaq"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "p'unchayninchikta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "yachachiwku"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "apakushanchik"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sunqunchikta"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachayman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:30.777655457Z",
+  "model": "glm-5.3"
+}

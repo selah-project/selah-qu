@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Yahwepa k'anchayninqa rikhurinqam; llapan aycha payta hukllawantaq qhawasqanqa, Yahwepa siminmi willarqan rayku.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "rikhurinqam"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "k'anchaynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "qhawasqanqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hukllawantaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "willarqanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:48:19.219864837Z",
+  "model": "glm-5.3"
+}

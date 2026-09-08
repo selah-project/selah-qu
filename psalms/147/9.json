@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Uywakunamanmi mikhunta qun, qaran wawakunamanpas karqaraqtinku.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "qun"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "uywakunaman"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "mikhunta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawakunamanpas"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "qaran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenkuna"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "karqaraqtinku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:05.210730905Z",
+  "model": "glm-5.3"
+}

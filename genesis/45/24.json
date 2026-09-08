@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Hinaspa ⟨את⟩ wawqenkunata kachamurqan, paykuna ripurqanku; paykunamanmataq nirqan: ama ñanpi phiñanakunkichikchu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kachamurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawqenkunata"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqenkunata"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ripurqanku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunamanmataq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "phiñanakunkichikchu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:16:25.953051656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Hoy! Llapa yakumuyniyuqkuna, hamuyku unumanmi; hinaspa mana qullqiyuqkuna, hamuyku, rantikuychikmi hinaspa mikhuychik; hamuyku, rantikuychikmi aqhata hinaspa ñuñutawan, mana qullqiwan, mana chaninwan.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoy!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "yakumuyniyuqkuna"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hamuyku"
+    },
+    {
+      "surface": "למים",
+      "gloss": "unuman"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-yuq"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqiyuqkuna"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hamuyku"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "rantikuychik"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mikhuychik"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "hamuyku"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "rantikuychik"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "mana ... -wan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "mana ... -wan"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "chanin"
+    },
+    {
+      "surface": "יין",
+      "gloss": "aqha"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "ñuñutawan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:35:17.610631944Z",
+  "model": "glm-5.3"
+}

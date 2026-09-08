@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Qampam hanaq pacha, Qampillataqmi hallp'a; pachallapapas hunt'a kayninta Qammi kamarqanki.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Qampam"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "illataq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Qampillataqmi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pachallapa"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "hunt'a kayninta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "kamarqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:31.338711307Z",
+  "model": "glm-5.3"
+}

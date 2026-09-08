@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Imaraykuchus wañuyninkupi wisq'akuna manam kanchu; kurkunkutaq kallpa ch'uskallawanmi q'apariy kawsan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "wisq'akuna"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "wañuyninkupi"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "kallpa ch'uskallawanmi q'apariy"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "kurkunku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:10.729149899Z",
+  "model": "glm-5.3"
+}

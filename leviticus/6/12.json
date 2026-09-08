@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Yahwem rimarqan Moshe (Moisés)man, nispa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqanm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:51:12.350012121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa Abraham t'aqarqan ⟨את⟩ qanchis china oveja erqekunata, sapallankupi.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "hinaspa t'aqarqan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanchis china oveja erqekunata"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "china oveja erqekunata"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "oveja"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "sapallankupi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:16.365301869Z",
+  "model": "glm-5.3"
+}

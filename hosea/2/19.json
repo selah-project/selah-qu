@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Paypa siminmanta ⟨את⟩ Bealkunap sutinkunata Hurqusaqmi, manañataq sutinkuwan yuyarikunqakuchu.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Hurqusaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bealkunap sutinkunata"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sutinkunata"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Bealkunap"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "paypa siminmanta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "yuyarikunqaku"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ña"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "sutinkuwan"
+    }
+  ],
+  "timestamp": "2026-09-08T08:46:42.548678957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Kunanmar ñuqa ⟨את⟩ makiyta kachasaqman karqan, chaywan ⟨את⟩ qamta hinaspa ⟨את⟩ runaykita unquywan maqaspa, hallp'amanta chinkarqaykiman karqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "kachasaqman karqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makiyta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makiyta"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "chaywan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ qamta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "runaykita"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runaykita"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "unquywan"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "chinkarqaykiman karqan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'amanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:48.635427383Z",
+  "model": "glm-5.3"
+}

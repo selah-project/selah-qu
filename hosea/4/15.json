@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 4:15",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Israel, qam panti kaptiyki, Yehuda ama iñqachunkuchu; ama Gilgalman yaykunkichikchu, ama Beth-Avenman phawaykachankichikchu, ama 'Yahwe kawsan' nispa jurankichikchu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kaptiyki"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "panti"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "iñqachunkuchu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "yaykunkichikchu"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgalman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "phawaykachankichikchu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Avenman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "jurankichikchu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T08:45:53.645083387Z",
+  "model": "glm-5.3"
+}

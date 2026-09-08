@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 26:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa lulaut tekheletmanta ruranki huk p'achap ch'upanpi, t'inki kuchallapi; chaynillataqmi ruranki wak p'achap ch'upanpi — wakintaq p'acha — iskay ñiqin t'inkinap ch'upanpi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruranki"
+    },
+    {
+      "surface": "ללאת",
+      "gloss": "lulaut"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekheletmanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ch'upanpi"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ch'upan"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "huk p'acha"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kuchalla"
+    },
+    {
+      "surface": "בחברת",
+      "gloss": "t'inkinapi"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "chaynillataqmi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruranki"
+    },
+    {
+      "surface": "בשפת",
+      "gloss": "ch'upanpi"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "wakintaq p'acha"
+    },
+    {
+      "surface": "הקיצונה",
+      "gloss": "wakintaq"
+    },
+    {
+      "surface": "במחברת",
+      "gloss": "t'inkinap"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "iskay ñiqin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:51.440485564Z",
+  "model": "glm-5.3"
+}

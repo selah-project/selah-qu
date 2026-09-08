@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Yahweta wiñaypaq ñawpaypi churarqanimi, paymi ñuqap paña makinpi kachkanmi; chayrayku manam sarunchakusaqchu.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "churarqanimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ñawpaypi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "ñuqap paña makinpi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarunchakusaqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:13.739394768Z",
+  "model": "glm-5.3"
+}

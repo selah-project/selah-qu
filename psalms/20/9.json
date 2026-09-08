@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Paykunam ñak'arikurqanku hinaspa urmarqanku; ñuqanchiktaq sayarirqayku, hinaspa chaknata sayarirqayku.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "paykunam"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ñak'arikurqanku"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "hinaspa urmarqanku"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ñuqanchiktaq"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "sayarirqayku"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "hinaspa chaknata sayarirqayku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:18.281412933Z",
+  "model": "glm-5.3"
+}

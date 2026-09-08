@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Shemqa ⟨את⟩ Arpakshadta pañasqan qhipa pichqa pachak watakawsarqan, hinaspa churikunata, warmi churikunatawan pañarqan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "pañasqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshadta"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshadta"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "pañarqan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churikunata"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "warmi churikunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:01:30.839664841Z",
+  "model": "glm-5.3"
+}

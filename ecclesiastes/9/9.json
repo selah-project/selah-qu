@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 9:9",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Qhawariy kawsayta warmiwan, mayqentam kuyarqanki tukuy kawsayniyki hevel p'unchawkunapi, mayqentam qon qamman inti urayninpi, tukuy hevelniyki p'unchawkunapi; chaymanta paymi chaniyki kawsaypi, llank'ayniykiwanpipas, mayqenta qam llank'anki inti urayninpi.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsayta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "kuyarqanki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kawsayniyki"
+    },
+    {
+      "surface": "הבלך",
+      "gloss": "hevelniyki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "urayninpi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "הבלך",
+      "gloss": "hevelniyki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "chaniyki"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "kawsaypi"
+    },
+    {
+      "surface": "ובעמלך",
+      "gloss": "llank'ayniykiwanpipas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "llank'anki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "urayninpi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    }
+  ],
+  "timestamp": "2026-09-08T11:43:40.214859200Z",
+  "model": "glm-5.3"
+}

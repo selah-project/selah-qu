@@ -1,0 +1,69 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "exodus 19:6",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 19,
+ "translation": "Qamkunataq ñuqap kohenkunap mamallqan kanqachik, hinallataq santa nasyon. Kay simikunatam Israelpa wawankunaman willawanki.",
+ "tokens": [
+  {
+   "surface": "ואתם",
+   "gloss": "Qamkunataq"
+  },
+  {
+   "surface": "תהיו",
+   "gloss": "kanqachik"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqap"
+  },
+  {
+   "surface": "ממלכת",
+   "gloss": "mamallqan"
+  },
+  {
+   "surface": "כהנים",
+   "gloss": "kohenkunap"
+  },
+  {
+   "surface": "וגוי",
+   "gloss": "hinallataq nasyon"
+  },
+  {
+   "surface": "קדוש",
+   "gloss": "santa"
+  },
+  {
+   "surface": "אלה",
+   "gloss": "Kay"
+  },
+  {
+   "surface": "הדברים",
+   "gloss": "simikunatam"
+  },
+  {
+   "surface": "אשר",
+   "gloss": ""
+  },
+  {
+   "surface": "תדבר",
+   "gloss": "willawanki"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "בני",
+   "gloss": "wawankunaman"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israelpa"
+  }
+ ],
+ "timestamp": "2026-09-08T00:30:52.400279259Z",
+ "model": "glm-5.3"
+}

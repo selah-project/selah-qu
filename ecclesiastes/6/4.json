@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Imarayku hevelwan hamunmi, hinaspa ch'isipi rin, ch'isipitaq sut'inpas pakanqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "hevelwan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamunmi"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "hinaspa ch'isipi"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "rin"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ch'isipitaq"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sut'inpas"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "pakanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:43:19.343523933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Kaymi Terajpa t'ikrachakuynin: Teraj-m ⟨את⟩ Abrahamta, ⟨את⟩ Najorta, hinaspa ⟨את⟩ Haranta paqarichirqan; hinaspa Haran-m ⟨את⟩ Lotta paqarichirqan.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "t'ikrachakuynin"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terajpa"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraj"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamta"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahamta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Najorta"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Najorta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Haranta"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haranta"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "hinaspa Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotta"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:59.497724727Z",
+  "model": "glm-5.3"
+}

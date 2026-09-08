@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Yahwem Yerushalayimta (Jerusalén) wasichanmi; Israelpa qarqusqakunata huñunmi.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "wasichan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "qarqusqa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "huñun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:12.127712043Z",
+  "model": "glm-5.3"
+}

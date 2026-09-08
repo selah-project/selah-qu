@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Allinmi ñawikunap qhawasqan Nefeshpa puriyninmanta; kaypas hevelmi, hinaspa wayra nanachiy.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "qhawasqa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ñawikunap"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "puriynin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshpa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "hinaspa nanachiy"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:50.185915163Z",
+  "model": "glm-5.3"
+}

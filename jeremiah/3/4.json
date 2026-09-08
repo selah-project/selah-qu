@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Manachu kunanmanta ñuqaman qayarqani: Taytay, ñuqap wayna kayniyopa pusariqnillam kanki.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kunanmanta"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "qayarqani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Taytay"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "pusariqnilla"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "wayna kayniyopa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam kanki"
+    }
+  ],
+  "timestamp": "2026-09-08T06:52:32.150088118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 24:6",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "⟨את⟩ Taytakunaykichikta Mitsrayimmanta hurqurqanim, chaysi qamkuna mamakuchaman chayamurqankichik, chaysi Mitsrayim runakuna taytakunaykichikta qatirqaku karruwan hinaspa wakawan, Yam Suph (mar Rojo) kaman.",
+  "tokens": [
+    {
+      "surface": "ואוציא",
+      "gloss": "hurqurqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytakunaykichikta"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "taytakunaykichik"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "chayamurqankichik"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "mamakuchaman"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "qatirqaku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim runakuna"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qatiquq"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "taytakunaykichikta"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "karruwan"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "hinaspa wakawan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    }
+  ],
+  "timestamp": "2026-09-08T03:33:07.140568919Z",
+  "model": "glm-5.3"
+}

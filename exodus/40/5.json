@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Hinaspa churankim ⟨את⟩ quri altarta q'urpayupaq, Aron willakuy ñawpaqninpi; hinaspa churankim ⟨את⟩ punkup q'imirinta Mishkanpa punkunman.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "churankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quri altarta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "q'urpayupaq"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "willakuy"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "churankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punkup q'imirinta"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "q'imirin"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "punkup"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkanpa punkunman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:41.753589060Z",
+  "model": "glm-5.3"
+}

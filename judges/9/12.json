@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa sach'akunaqa uva sach'aman nirqankum: Hamuy, qammi ñuqanchikpa patanpi apu kay.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "hinaspa nirqankum"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "sach'akunaqa"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "uva sach'aman"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hamuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "qam"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "apu kay"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqanchikpa patanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:44:33.974249303Z",
+  "model": "glm-5.3"
+}

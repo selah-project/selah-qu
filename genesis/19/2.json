@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 19:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa nirqan: Qaway, munaylla, apuykuna, ñawpaqekuy wasiyman, tuta samay, chakikunaykita armay, paqarinqa sayarispa ñanniykikunaman puriy. Paykunaq nirqanku: Manam, icha plazapi tuta samasqayku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qaway"
+    },
+    {
+      "surface": "נא",
+      "gloss": "munaylla"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apuykuna"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "ñawpaqekuy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "munaylla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasiy-"
+    },
+    {
+      "surface": "עבדכם",
+      "gloss": "qamkunap yanapaqniykichik"
+    },
+    {
+      "surface": "ולינו",
+      "gloss": "tuta samay"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "armay"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "chakikunaykita"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "paqarinqa sayarispa"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "puriy"
+    },
+    {
+      "surface": "לדרככם",
+      "gloss": "ñanniykikunaman"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "icha"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "plazapi"
+    },
+    {
+      "surface": "נלין",
+      "gloss": "tuta samasqayku"
+    }
+  ],
+  "timestamp": "2026-09-07T23:57:43.277302970Z",
+  "model": "glm-5.3"
+}

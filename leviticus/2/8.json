@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Apamuy ⟨את⟩ minchahta kaykunamanta ruwasqata Yahwepaq; hinaspa kohenman qunki, paytataq ⟨pay⟩ altarman chayanachin.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "apamuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchahta"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchahta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwasqata"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "kaykunamanta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "hinaspa kohenman qunki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "payta chayanachin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:53.119868783Z",
+  "model": "glm-5.3"
+}

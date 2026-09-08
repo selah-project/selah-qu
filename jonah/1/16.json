@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi runakunam ⟨את⟩ Yahweta hatun manchariywan mancharqanku; hinaspa Yahwepaq korban churarqanku, nirkunatapas.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "mancharqankum"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "manchariywan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "hinaspa churarqankum"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "hinaspa nirqankum"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "nirkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:04:25.627920941Z",
+  "model": "glm-5.3"
+}

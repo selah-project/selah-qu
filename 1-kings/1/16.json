@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi Bath-sheba ñawpaqman akllakurqan, apuman sipaskurqan; apum nirqan: Imataq munanki?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "akllakurqan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "sipaskurqan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apuman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Imataq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "munanki"
+    }
+  ],
+  "timestamp": "2026-09-08T13:38:33.366210196Z",
+  "model": "glm-5.3"
+}

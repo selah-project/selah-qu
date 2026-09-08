@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Hamuychik, uyariychik, llapan Elohimta manchariqkuna; ñuqap nefeshman ima ruwasqanmanta willasaqmi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Hamuychik"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uyariychik"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "willasaqmi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "manchariqkuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqanmanta"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ñuqap nefeshman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:20.851007985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 80:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Chaymi mana qamanta jawiykusaqku; kawsachariykuway, hinaspa Sutiykiwan waqyakunchik.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "jawiykusaqku"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "qamanta"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "kawsachariykuway"
+    },
+    {
+      "surface": "ובשמך",
+      "gloss": "hinaspa Sutiykiwan"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "waqyakunchik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:01.774882805Z",
+  "model": "glm-5.3"
+}

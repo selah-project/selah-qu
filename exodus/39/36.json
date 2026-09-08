@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "⟨את⟩ siq'anta, ⟨את⟩ llapa imankunata, hinaspa ⟨את⟩ t'antata ñawikunap.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siq'anta"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "siq'anta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa imankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imankunanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "t'antata"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'antata"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ñawikunap"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:49.611434205Z",
+  "model": "glm-5.3"
+}

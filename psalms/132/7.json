@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "Yaykusunchik paypa mishkanlankunaman, chakip sarunanman inllapasunchik.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "yaykusunchik"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "mishkanlankunaman"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "inllapasunchik"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "chakip sarunanman"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "paypa chakin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:58.200978547Z",
+  "model": "glm-5.3"
+}

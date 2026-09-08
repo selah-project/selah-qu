@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Ch'usaqpi tukuchirqanm p'unchawkunta, watakunatataq manchaysapaypi.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "tukuchirqan"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ch'usaqpi"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "p'unchawkunta"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "watakunatataq"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "manchaysapaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:51.752041243Z",
+  "model": "glm-5.3"
+}

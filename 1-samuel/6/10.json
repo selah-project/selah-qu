@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chay runakunam chaynolla ruwarqanku; iskay chuhuq wakata hap'irqanku, karritaman watarqanku, hinaspa ⟨את⟩ wawankunata wasipi hark'arqanku.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "chay runakunam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynolla"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "hap'irqanku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "wakata"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "chuhuq"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "watarqanku"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "karritaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawankunata"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wawankunata"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "hark'arqanku"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasipi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:06:56.351664517Z",
+  "model": "glm-5.3"
+}

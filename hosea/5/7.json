@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Yahwepi wak'inta ruwarqaku, imaraykuchus aña churiyukunata wacharqaku; kunanmi killa mikhusqanqa paykunata ⟨את⟩ chiqan ñawpaqninkunatawan.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "wak'inta ruwarqaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churiyukunata"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "aña (estranjeros)"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "wacharqaku"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunanmi"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "mikhusqanqa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "killapa (luna nueva)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "chiqan ñawpaqninkunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T08:45:30.978009580Z",
+  "model": "glm-5.3"
+}

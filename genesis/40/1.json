@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 40:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Chay rimaykunamanta qhipanm Mitsrayimpa apunpa masqakuqnin hinaspa t'anta ruwaqnin, apunninkunap — Mitsrayimpa apun — contran rqurqanku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qhipan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "rimaykuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "contran rqurqanku"
+    },
+    {
+      "surface": "משקה",
+      "gloss": "masqakuqnin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apunpa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "והאפה",
+      "gloss": "hinaspa t'anta ruwaqnin"
+    },
+    {
+      "surface": "לאדניהם",
+      "gloss": "apunninkunap contran"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apunman"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa apun"
+    }
+  ],
+  "timestamp": "2026-09-08T00:12:30.711802417Z",
+  "model": "glm-5.3"
+}

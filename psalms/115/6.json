@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 115,
+  "translation": "Rinri ⟨kan⟩ paykunapmi, icha manam uyankuchu; sinqa ⟨kan⟩ paykunapmi, icha manam unsankuchu.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "rinri"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha manam"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "uyankuchu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "sinqa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha manam"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "unsankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:54.275202242Z",
+  "model": "glm-5.3"
+}

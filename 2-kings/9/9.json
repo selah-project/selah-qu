@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa ⟨את⟩ Ahavpa wasintaqa Yaravam (Jeroboam) Nevatpa churi wasinhinaman, Bashav (Baasa) Ajiyapa churi wasinhinaman churasaqmi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "churasaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahavpa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahavpa"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "wasinhinaman"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevatpa"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "wasinhinaman"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bashav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ajiyapa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:29:21.401664537Z",
+  "model": "glm-5.3"
+}

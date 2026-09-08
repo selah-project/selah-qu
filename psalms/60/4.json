@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Hallp'ata thultulachirqankim, ch'ikitaparqankim; ch'iki p'akiykunantan allichiy, imaraykuchus llaqt'achkanmi.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "thultulachirqanki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "ch'ikitaparqanki"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "allichiy"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "ch'iki p'akiykunanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "llaqt'achkan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:51.659940918Z",
+  "model": "glm-5.3"
+}

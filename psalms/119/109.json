@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Nefeshniym makichaypi hunt'a p'unchawmi kachkan; ichataq Toraykiwan mana qunqarqanichu.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniy"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "makichaypi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "hunt'a p'unchaw"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ichataq Toraykiwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "qunqarqanichu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:16.788902199Z",
+  "model": "glm-5.3"
+}

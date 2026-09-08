@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymanta aswanmi inti urapi rikurqani: chaninchay wasipi haqellikuyta, ichataq allin chaninchay wasipipas haqellikuyta.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Chaymanta aswanmi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqani"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "urapi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "chaninchay"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "—"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "haqellikuyta"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "ichataq wasipipas"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "allin chaninchay"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "—"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "haqellikuyta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:47.262665831Z",
+  "model": "glm-5.3"
+}

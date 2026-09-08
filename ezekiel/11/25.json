@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa ñuqam golacionkunaman rimarqani ⟨את⟩ Yahwepa llapa rimayninkunata, iyawasqaytawan.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "rimarqani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "golacionkunaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa rimayninkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimayninkunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "iyawasqaytawan"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ñuqaman"
+    }
+  ],
+  "timestamp": "2026-09-08T07:55:27.629331881Z",
+  "model": "glm-5.3"
+}

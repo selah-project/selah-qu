@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Sichus awkaykipa wakanta utaq paypa burruntunta thaskaspa tarinkim, sinchita payman kutichinaykim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "tarinkim"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wakanta"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "awkaykipa"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "burruntunta"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "thaskaspa"
+    },
+    {
+      "surface": "השב",
+      "gloss": "sinchita"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "kutichinaykim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:57.758575057Z",
+  "model": "glm-5.3"
+}

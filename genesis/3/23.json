@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaysi Yahwe Elohimmi payta Eden huertamanta qarqurqan, ⟨את⟩ allpata llank'ananpaq — chaymantam pay apusqa karqan.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "payta qarqurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "huertamanta"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "llank'ananpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allpata"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "allpata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "apusqa karqan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:09.799683431Z",
+  "model": "glm-5.3"
+}

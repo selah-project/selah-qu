@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Sunquy q'uñi karqan ñuqap ukhuypi; yuyachkaptiy, nina rawrarirqan; simiypiwan parlarqanim.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "q'uñi karqan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquy"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ukhuypi"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "yuyachkaptiy"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "rawrarirqan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "parlarqanim"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "simiypiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:06.729847531Z",
+  "model": "glm-5.3"
+}

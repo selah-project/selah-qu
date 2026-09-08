@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Rikurqankim, Yahwe; ama upallaychu; Adonay, ñuqamanta karuykachawaychu.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Rikurqanki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ⟨chu⟩"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "upallaychu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ⟨chu⟩"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "karuykachawaychu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:30.923760326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Shaulmi (Saúl) ñaqranman nirqan: «Allin rimayniyki; hamuy, risunchik». Chaymi llaktaman rirqanku, maypichus Elohim runa karqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "ñaqranman"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "rimayniyki"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hamuy"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "risunchik"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "chaymi rirqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaktaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypichus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-08T04:09:15.772332530Z",
+  "model": "glm-5.3"
+}

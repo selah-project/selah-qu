@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Illapayki rimaynin muyuriypi karqan; ch'isiq ch'askikunawan pachata k'anchaykurqankum; hallp'a mancharqan, titirarqanpas.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "rimaynin"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "illapayki"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "muyuriypi"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "k'anchaykurqankum"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "ch'isiq ch'askikunawan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pachata"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "mancharqan"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "titirarqanpas"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:30.896515083Z",
+  "model": "glm-5.3"
+}

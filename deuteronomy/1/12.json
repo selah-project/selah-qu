@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Imaynañataq ñuqa sapallay qamkunap wiksaykichikta, apaykachasqaykichikta, ch'iqninakuyykichiktapas apusa?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "imaynañataq"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "apusa"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "sapallay"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "qamkunap wiksaykichik"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "antaq apaykachasqaykichik"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "hinaspa ch'iqninakuyykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T02:25:22.139846696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Paytaq nirqa: Mana, wawqey, ama ñuqata muchuychu, imaraykuchus kay hina mana ruwakunchu Israelpi; ama ⟨את⟩ kay millay ruwayta ruwankichu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "wawqey"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "muchuychu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwakunchu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kay hina"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwankichu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay millay ruwayta"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "millay ruwayta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T13:38:56.260653830Z",
+  "model": "glm-5.3"
+}

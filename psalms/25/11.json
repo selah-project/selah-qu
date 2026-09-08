@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Sutiykirayku, Yahwe, huchayta pampachanki, imaraykuchus hatunmi ⟨kay⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sutiyki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "hinaspa pampachanki"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "huchayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kay⟩"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:48.037390948Z",
+  "model": "glm-5.3"
+}

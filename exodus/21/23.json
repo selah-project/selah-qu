@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinasqa llaki kanqaman, Nefeshta Nefeshpaq kunqanki.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "hinasqa"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "llaki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqaman"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "kunqanki"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Nefeshpaq"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesh"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:25.487144280Z",
+  "model": "glm-5.3"
+}

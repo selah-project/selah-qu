@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa kohen ⟨את⟩ chay nanayta qhawaspa, hinaspa rikurqanmi: rikch'ayninqa q'arapi aswan ukhumi, chaypipi huk q'illu ñañu chukchatawan; chaymi kohen ⟨את⟩ payta millay nirqan: neteqmi, umapa icha sankhapa tzaraatmi.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chay nanayta"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "chay nanayta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "hinaspa rikurqanmi"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "rikch'aynin"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ukhu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "העור",
+      "gloss": "q'ara"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "chaypipi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "chukcha"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "q'illu"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ñañu"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "millay nirqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "neteq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tzaraat"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "umapa"
+    },
+    {
+      "surface": "או",
+      "gloss": "icha"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "sankhapa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:58:58.506942343Z",
+  "model": "glm-5.3"
+}

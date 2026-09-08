@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Ñanninku tutam, qhasapas kanman; hinaspa Yahwepa angelnin paykunata qatipuchun.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kanman"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ñanninku"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tutam"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "hinaspa qhasapas"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "hinaspa angel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "paykunata qatipuchun"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:08.159705737Z",
+  "model": "glm-5.3"
+}

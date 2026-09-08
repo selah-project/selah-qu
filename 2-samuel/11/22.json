@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chaymanta willaq purirqan, chayamurqan, hinaspa Davidman ⟨את⟩ llapata willarqan Joab willaqtinta.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "willaq"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayamurqan"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "willaqtinta"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "willaqtinta"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    }
+  ],
+  "timestamp": "2026-09-08T04:39:43.576611439Z",
+  "model": "glm-5.3"
+}

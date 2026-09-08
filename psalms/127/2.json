@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 127,
+  "translation": "Qamkunapaqmi ch'usaqlla: ñawpaqataraq hatariy, qhipa kachkamuspa tiyay, llakikunap t'antanta mikhuy; chaynahinam khuska munasqanman puñuyta qun.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ch'usaqlla"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "ñawpaqataraq hatariy"
+    },
+    {
+      "surface": "קום",
+      "gloss": "hatarispa"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "qhipa kachkamuspa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "tiyay"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "mikhuy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "llakikunap"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynahinam"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qun"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "khuska munasqanman"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "puñuyta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:36.815731957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "exodus 40:20",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 40,
+ "translation": "Chaysi Moshe (Moisés) huk ñiqinman churamanta hina, hinaspa ⟨⟨את⟩ hamut'ata arkanman churarqan, hinaspa ⟨⟨את⟩ astakunata arkanpatan churarqan, hinaspa ⟨⟨את⟩ kapporeta arkan hanaq patanman churarqan.",
+ "tokens": [
+  {
+   "surface": "ויקח",
+   "gloss": "huk ñiqinman churamanta hina"
+  },
+  {
+   "surface": "ויתן",
+   "gloss": "churarqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "hamut'ata"
+  },
+  {
+   "surface": "העדת",
+   "gloss": "hamut'ata"
+  },
+  {
+   "surface": "אל",
+   "gloss": "arkanman"
+  },
+  {
+   "surface": "הארן",
+   "gloss": "arka"
+  },
+  {
+   "surface": "וישם",
+   "gloss": "churarqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "astakunata"
+  },
+  {
+   "surface": "הבדים",
+   "gloss": "astakunata"
+  },
+  {
+   "surface": "על",
+   "gloss": "patan"
+  },
+  {
+   "surface": "הארן",
+   "gloss": "arkan"
+  },
+  {
+   "surface": "ויתן",
+   "gloss": "churarqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kapporeta"
+  },
+  {
+   "surface": "הכפרת",
+   "gloss": "kapporeta"
+  },
+  {
+   "surface": "על",
+   "gloss": "patanman"
+  },
+  {
+   "surface": "הארן",
+   "gloss": "arkan"
+  },
+  {
+   "surface": "מלמעלה",
+   "gloss": "hanaq"
+  }
+ ],
+ "timestamp": "2026-09-08T00:49:19.257291459Z",
+ "model": "glm-5.3"
+}

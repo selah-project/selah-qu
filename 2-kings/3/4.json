@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Mesham, Moabpa apunmi, uywa michiq karqan; hinaspa Israelpa apunman chunka waranqa carnero wawakunata, chunka waranqa carnerokunatawan, millmawanmi qatarqan.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Mesham"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apunmi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabpa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "uywa michiq"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "qatarqan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apunman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "carnero wawakunata"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "chunka waranqatawan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "carnerokunatawan"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "millmawanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:24:13.049793877Z",
+  "model": "glm-5.3"
+}

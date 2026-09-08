@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspatataq ñawpa ñanpi saqir puriptin, sunqun mana hunt'a ⟨kan⟩mi, hinaspa llapa runakunaman nin: paymi saqir.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "hinaspatataq"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñawpa ñanpi"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "saqir kaptin"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "purin"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sunqun"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "mana hunt'a"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "hinaspa nin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa runakunaman"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "saqir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-08T11:42:45.524027984Z",
+  "model": "glm-5.3"
+}

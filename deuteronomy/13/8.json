@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "(runakunap dioskunamanta — qamkunap muyuriyninpi kaqkuna, qamman qayllapi utaq qammanta karupi kaqmanta — hallp'ap huk larumanta hallp'ap wak larunkama).",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "dioskunamanta"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "qamkunap muyuriyninpi"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "qayllapi kaqkuna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "karupi kaqkuna"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "qammanta"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "larumanta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hinaspa -kama"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "larunkama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T02:42:08.843682154Z",
+  "model": "glm-5.3"
+}

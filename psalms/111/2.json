@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 111,
+  "translation": "Yahwepa rurasqankunaqa hatunmi; munakuqkuna llapanmi ñawpaqmanta maskanku.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "hatunmi"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "rurasqankuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "ñawpaqmanta maskanku"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "munakuqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:44.604403594Z",
+  "model": "glm-5.3"
+}

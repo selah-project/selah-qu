@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Payqa nirqan: «⟨את⟩ Awkiykunata maskachkanimi. Willawaway: maypitaq michunku?»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awkiykunata"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "awkiykunata"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "maskachkani"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Willawaway"
+    },
+    {
+      "surface": "נא",
+      "gloss": "—"
+    },
+    {
+      "surface": "לי",
+      "gloss": "—"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "maypitaq"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "michunku"
+    }
+  ],
+  "timestamp": "2026-09-08T00:09:22.160660522Z",
+  "model": "glm-5.3"
+}

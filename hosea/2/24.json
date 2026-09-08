@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa hallp'aqa ⟨את⟩ saramanta kutichinqa, ⟨את⟩ musphu winotawan, ⟨את⟩ killay llant'awan; chaykunaqa ⟨את⟩ Yizreelta kutichinqaku.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "hinaspa hallp'aqa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "kutichinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saramanta"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "saramanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "musphu winotawan"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "musphu winotawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "killay llant'awan"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "killay llant'awan"
+    },
+    {
+      "surface": "והם",
+      "gloss": "chaykunaqa"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "kutichinqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreelta"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreelta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:06:34.647746530Z",
+  "model": "glm-5.3"
+}

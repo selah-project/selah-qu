@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chayrayku paykunaqa tutamantapa phuyu hina, hinaspa muylla ripuq ch'usa hina, trilla pampamanta wayrawan kuyuchisqa q'urpa hina, hinaspa ventanamanta q'omer hina kanqakum.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Chayrayku"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "phuyu hina"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tutamantapa"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "hinaspa ch'usa hina"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "muylla"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ripuq"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "q'urpa hina"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "wayrawan kuyuchisqa"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "trilla pampamanta"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "hinaspa q'omer hina"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "ventanamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:09:10.001494864Z",
+  "model": "glm-5.3"
+}

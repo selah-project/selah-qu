@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Q'ontiya pachapi, wañuy llanthupi tiyaqkuna, nanachikuywan, quri-q'illaywan watasqa vivirakunam.",
+  "tokens": [
+    {
+      "surface": "יֹשׁבֵי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "חֹשֶׁךְ",
+      "gloss": "q'ontiya pachapi"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "wañuy llanthupi"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "vivirakuna"
+    },
+    {
+      "surface": "עֳנִי",
+      "gloss": "nanachikuywan"
+    },
+    {
+      "surface": "ובַרזֶל",
+      "gloss": "quri-q'illaywan watasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:56.672976855Z",
+  "model": "glm-5.3"
+}

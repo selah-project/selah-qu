@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Sarahtaq llullarqan, nispa: «Manam asirqanichu» — mancharqanmi rayku. Paytaq nirqan: «Manam, asirqankim.»",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "llullarqan"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "asirqanichu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mancharqanmi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "paytaq nirqan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aswanraq"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "asirqankim"
+    }
+  ],
+  "timestamp": "2026-09-07T23:56:55.257495329Z",
+  "model": "glm-5.3"
+}

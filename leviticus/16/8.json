@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa Aharon iskay kawrikunap patanpi suertekunata churanqa: huk suerte Yahwepaq, huk suertewan Azazelpaq.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "churanqa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "kawrikuna"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "suertekuna"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "huk suerte"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "huk suertewan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "Azazelpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:54.138387083Z",
+  "model": "glm-5.3"
+}

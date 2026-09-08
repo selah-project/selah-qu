@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Willpay paykunapaman zahwiykita, hinaspa sinphiykipa rawraynin paykunata chayamun.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "willpay"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunapaman"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "zahwiykita"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "hinaspa rawraynin"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "sinphiykip"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "paykunata chayamun"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:47.406412685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "Wasichaqman, gittithpi, Asafpaq.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Wasichaqman"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gittith"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:26.177883311Z",
+  "model": "glm-5.3"
+}

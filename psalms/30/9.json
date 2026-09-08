@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Qammanmi, Yahwe, qayarqani; hinaspa Adonayman ñak'arirqani.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Qamman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qayarqani"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ... man"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ñak'arirqani"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:33.841949808Z",
+  "model": "glm-5.3"
+}

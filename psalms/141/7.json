@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 141,
+  "translation": "Hina imayna chaqruq t'aqllukuspa hallp'ata, ñuqanchikpa tullunchikkunaqa Sheolpa siminpim aphrarakurqanku.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "hina imayna"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "chaqruq"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "t'aqllukuspa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "aphrarakurqanku"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "ñuqanchikpa tullunchikkunaqa"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "siminpi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:34.734804171Z",
+  "model": "glm-5.3"
+}

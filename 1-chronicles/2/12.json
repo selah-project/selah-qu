@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Boazm ⟨את⟩ Ovedta wacharqan; hinaspa Ovedm ⟨את⟩ Yishayta (Isaí) wacharqan.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Hinaspa Boazm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovedta"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Ovedta"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "hinaspa Ovedm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishayta"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:29:51.483390915Z",
+  "model": "glm-5.3"
+}

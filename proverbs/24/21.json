@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Waway, ⟨את⟩ Yahweta hinaspa aputa much'ay; t'ikraq runakunawan ama chaqrukaychu.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "much'ay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "waway"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "hinaspa apu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "t'ikraq runakunawan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "chaqrukaychu"
+    }
+  ],
+  "timestamp": "2026-09-08T14:19:03.774553884Z",
+  "model": "glm-5.3"
+}

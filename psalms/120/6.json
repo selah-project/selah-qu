@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 120,
+  "translation": "Askha pacham ñuqap nefeshniyqa shalom (paz) p'iyanawan tiyarqan.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "askha pacha"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap nefeshniy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "p'iyana"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom (paz)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:47.937313384Z",
+  "model": "glm-5.3"
+}

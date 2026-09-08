@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Qapariytipas, yanapayta mañakuspaypas, ñuqap maqnakuyta hark'awanmi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaptinpas"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "qapariytiy"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "yanapayta mañakuspay"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "hark'awanmi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ñuqap maqnakuyta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:31:22.395330705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa ⟨את⟩ Jilenta ⟨את⟩ michi pampankunatawan, ⟨את⟩ Debirta, ⟨את⟩ michi pampankunatawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Jilenta"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Jilenta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michi pampankunata"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "michi pampankunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Debirta"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debirta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michi pampankunata"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "michi pampankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:45.803123669Z",
+  "model": "glm-5.3"
+}

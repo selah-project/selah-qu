@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 15:23",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Azaryam (Azarías), Yehudap apun, pichqa chunka wata apu kasqanpi, Peqajyam (Pecías), Menajempa (Manahem) wawan, Israelpa apun kasqa Shomron llaqtapi iskay wata.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "wata kasqanpi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pichqa chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "לעזריה",
+      "gloss": "Azaryam (Azarías)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu kasqa"
+    },
+    {
+      "surface": "פקחיה",
+      "gloss": "Peqajyam (Pecías)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menajempa (Manahem)"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomron llaqtapi"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "iskay wata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:38:54.657980218Z",
+  "model": "glm-5.3"
+}

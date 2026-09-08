@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 108,
+  "translation": "Elohim santopi rimarqanmi: kusikusani, Shekemta (Siquem) t'aqasaq, hinaspa Sukkotpa (Succot) qhochata tupusaq.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqanmi"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "santopi"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "kusikusani"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "t'aqasaq"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemta"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "hinaspa qhochan"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "tupusaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:45.773952025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chayrayku qampaapiqa waskha wataq, suertepi t'aqaq, mana kanqachu Yahwep ayllunpi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaapi"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "waskha wataq"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "waskha"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "suertepi"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ayllunpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T09:04:57.197953904Z",
+  "model": "glm-5.3"
+}

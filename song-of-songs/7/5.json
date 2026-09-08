@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 7:5",
+  "book": "song-of-songs",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Kunkaykiqa ⟨huk⟩ suntur hinam ⟨marfilyuq⟩; ñawiykiqa Heshbonpi quchakuna, Bat Rabbim punkupi; sinkiykiqa Livnonpa suntur hinam, Damasqopa ñawinta qhawaspa.",
+  "tokens": [
+    {
+      "surface": "צוארך",
+      "gloss": "kunkaykiqa"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "suntur hina"
+    },
+    {
+      "surface": "השן",
+      "gloss": "marfilyuq"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ñawiykiqa"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "quchakuna"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heshbonpi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pata"
+    },
+    {
+      "surface": "שער",
+      "gloss": "punku"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Rabbim"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "sinkiykiqa"
+    },
+    {
+      "surface": "כמגדל",
+      "gloss": "suntur hina"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Livnonpa"
+    },
+    {
+      "surface": "צופה",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawinta"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasqopa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:28:36.727325269Z",
+  "model": "glm-5.3"
+}

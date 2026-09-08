@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinallataq paninpaqwan, virgen, pay qayllanpi kaq, manaraq qhariman karqan; paypaqmi millayachikunman.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "paninpaqwan"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "virgen"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "qayllanpi kaq"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "qhariman"
+    },
+    {
+      "surface": "לה",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "millayachikunman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:27.731721578Z",
+  "model": "glm-5.3"
+}

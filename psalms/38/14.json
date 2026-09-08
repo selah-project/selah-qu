@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Ñuqataq karqo-simiyuq runa hina manam uyarinichu; hinaspa upalla runa hina, payqa siminta mana kichanchu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "karqo-simiyuq runa hina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "uyarinichu"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "hinaspa upalla runa hina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "kichanchu"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "siminta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:42.713172102Z",
+  "model": "glm-5.3"
+}

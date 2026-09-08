@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Chaysi ⟨את⟩ bordasqa p'achaykikunata chaskirqankim, chaykunata paganakurqankim; hilluyta, q'urpanaytawan ñawpaqen churarqanim.",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "chaskirqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bordasqa p'achaykikunata"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "p'achaykikuna"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "bordasqa"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "paganakurqanki"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "hilluy"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "q'urpanay"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "churarqanim"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ñawpaqen"
+    }
+  ],
+  "timestamp": "2026-09-08T14:01:23.045244414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "«Sheqer» ⟨kan⟩mi awqanakuq kawallu qespichiyqa, aswan atiyniyoq kaptinpas manam qespichinqachu.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "sheqer (llulla)"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kawallu"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "qespichiyqa"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "aswan atiyniyoq kaptinpas"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "atiyniyoq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qespichinqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:25.840284684Z",
+  "model": "glm-5.3"
+}

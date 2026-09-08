@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa waqaychichik ⟨את⟩ kamachikuykunayta, hinaspa ruwankichik ⟨את⟩ paykunata; ñuqam Yahwe, q'imikunikichik willkachikuq.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "waqaychichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamachikuykunayta"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "kamachikuykunayta"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "ruwankichik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "kamachikuykunayta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "q'imikunikichik willkachikuq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:05.160788744Z",
+  "model": "glm-5.3"
+}

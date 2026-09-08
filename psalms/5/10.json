@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Imaraykuchus siminpi mana ⟨kan⟩ cheqan rimay; ukhinninpi wañuchiykuna; kunkanqa kichasqa aya wasi hina; siminkuta llusp'iyachinkum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "siminpi"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "cheqan rimay"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ukhinninpi"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "wañuchiykuna"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "aya wasi"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "kichasqa"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "kunkanqa"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "siminkuta"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "llusp'iyachinkum"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:40.865432989Z",
+  "model": "glm-5.3"
+}

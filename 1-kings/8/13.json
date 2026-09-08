@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hunt'asqata hunt'arqanimi wasita, qampaq tiyana wasita, ch'iqtinchasqa tiyanata wiñaykunapaq tiyayykiykipaq.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "hunt'asqata"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "hunt'arqanimi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "tiyana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "ch'iqtinchasqa tiyanata"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "tiyayykiykipaq"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "wiñaykunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:41:51.414497176Z",
+  "model": "glm-5.3"
+}

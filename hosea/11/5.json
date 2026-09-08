@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Mana Mitsrayimpa hallp'anman kutimunqachu; Ashurmi paypa apun kashanqa, imaraykuchus kutiyta mana munarqankum.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kutimunqachu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'anman"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "Ashurmi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "apun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "mana munarqankum"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kutiyta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:51:09.151231538Z",
+  "model": "glm-5.3"
+}

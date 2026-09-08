@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Imaraykuchus qhawariy: Adonay, Yahwe Tsebaot, Yerushalayimmanta (Jerusalén) Yehudamantawan (Judá) sayachiqta, sayachinatawan hurqunmi — t'antap sayachiqninta llapantam, unup sayachiqnintawan llapantam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imaraykuchus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "hurqun"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayimmanta"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "Yehudamantawan"
+    },
+    {
+      "surface": "משען",
+      "gloss": "sayachiqta"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "sayachinatawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "משען",
+      "gloss": "sayachiqnin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'antap"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapantawan"
+    },
+    {
+      "surface": "משען",
+      "gloss": "sayachiqnin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unup"
+    }
+  ],
+  "timestamp": "2026-09-08T05:52:31.822605243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Mamachatataq llapallapa qispichiy, wawankunataq apamuy; chayqa allinmi qampaq, p'unchawkunaykiHatatanmi kachunki.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "llapallapa"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mamachata"
+    },
+    {
+      "surface": "האם",
+      "gloss": "mamachata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawankunata"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "wawankunata"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "apamuy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "p'unchawkunaykiHatatanmi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkunayki"
+    }
+  ],
+  "timestamp": "2026-09-08T02:49:43.288872334Z",
+  "model": "glm-5.3"
+}

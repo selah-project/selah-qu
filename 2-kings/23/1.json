@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Chaymanta apum kacharirqan, hinaspa payman huñurqanku Yehudapa (Judá) llapan kurakakunatawan, Yerushalayimpa (Jerusalén) kurakakunatawan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "huñurqanku"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kurakakuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:47:53.702960154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Chanan kanki, Yahwe, hinaspa chananmi kamachikuyniyki.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "chanan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kanki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "hinaspa chananmi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "kamachikuyniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:08.452330029Z",
+  "model": "glm-5.3"
+}

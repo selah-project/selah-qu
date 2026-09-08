@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Ravshakehm kutirqan, ⟨את⟩ Ashur aputa Libnah (Libna)wan awqanakuchkasqanpi tarirqan, imaraykuchus Lakish (Laquis)mantam sich'arqan kasqanta uyaramusqam.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutirqanm"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "tarirqanm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur apu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "awqanakuchkasqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "awan"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah (Libna)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyaramusqam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "sich'arqan"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakish (Laquis)manta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:19:51.585078814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Ñuqa kawsaqmi kani, Adonay Yahwepa nisqanin: ama qamkunañataq kay masalta Israelpi llamk'achinkichikchu.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ñuqa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nisqanin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ama...chu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ñataq"
+    },
+    {
+      "surface": "משל",
+      "gloss": "masalta llamk'achiy"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "masalta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpi"
+    }
+  ],
+  "timestamp": "2026-09-08T08:10:14.649563107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Chizkiyahu ñawinta qiriman rikurirqanmi, Yahweman ñawinchakurqanmi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "rikurirqanmi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ñawinta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "qiriman"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "ñawinchakurqanmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T06:18:12.052443706Z",
+  "model": "glm-5.3"
+}

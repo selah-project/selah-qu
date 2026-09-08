@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Sayarichiy ñawpaq chakikita wiñaypaq ch'usaqchasqaman; llapan millaytam awqan ruwasqa santopi.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "sayarichiy"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "ñawpaq chakikita"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ch'usaqchasqaman"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "millaytam"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqan"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "santopi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:57.499754830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Karqanmi: Yahwem ⟨את⟩ Eliyahu (Elías)ta wayra wananchawan hanaq pachaman apar tiyaptin, Eliyahum Elisha (Eliseo)wan Gilgal (Gilgal)manta rirqanku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Karqanmi"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "apar tiyaptin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu (Elías)ta"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu (Elías)"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "wayra wananchawan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachaman"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahum"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "Elisha (Eliseo)wan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal (Gilgal)"
+    }
+  ],
+  "timestamp": "2026-09-08T05:24:36.765355037Z",
+  "model": "glm-5.3"
+}

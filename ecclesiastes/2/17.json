@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaymi ⟨את⟩ kawsayta ikharqani, imaraykuchus inti uraypi rurasqa llamk'ayqa ñak'allam ñuqata nanachin; imaraykuchus tukuy imapas ch'usaq kaymi, wayra nanachiymi.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ikharqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawsayta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kawsay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ñak'allim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "rurasqa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uraypi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tukuy imapas"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ch'usaq kay"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "wayra nanachiypas"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:03.724078407Z",
+  "model": "glm-5.3"
+}

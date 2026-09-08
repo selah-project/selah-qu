@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Churiykipa warminpa erwanta mana pallqonkiachu; paymi churiykip warmi; paypa erwanta mana pallqonkiachu.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "erwan"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "churiykipa warmin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ... -chu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "pallqoy"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "churiykip"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ... -chu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "pallqoy"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "paypa erwanta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:03.831927323Z",
+  "model": "glm-5.3"
+}

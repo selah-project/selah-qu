@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Paymi Yahwe, Elohimninchik; paypa chiqan kamachinkunanqa llapan hallp'apim kachkan.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "paypa chiqan kamachinkunanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:41.702632881Z",
+  "model": "glm-5.3"
+}

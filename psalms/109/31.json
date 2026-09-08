@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 31,
+ "ref": "psalms 109:31",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 109,
+ "translation": "Paymi wakchap pañanpan sayan, paypa nefeshninta juzgaqkunamanta qespichinapaq.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "—"
+  },
+  {
+   "surface": "יעמד",
+   "gloss": "sayanmi"
+  },
+  {
+   "surface": "לימין",
+   "gloss": "pañanpan"
+  },
+  {
+   "surface": "אביון",
+   "gloss": "wakchap"
+  },
+  {
+   "surface": "להושיע",
+   "gloss": "qespichinapaq"
+  },
+  {
+   "surface": "משפטי",
+   "gloss": "juzgaqkunamanta"
+  },
+  {
+   "surface": "נפשו",
+   "gloss": "paypa nefeshninta"
+  }
+ ],
+ "timestamp": "2026-09-08T10:19:47.991159098Z",
+ "model": "glm-5.3"
+}

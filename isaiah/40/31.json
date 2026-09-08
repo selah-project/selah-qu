@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Yahweta suyaqkunam kallpanta musuqcharinqaku; waman hina phanrata hoqarikuspa qhatrisqaku; pawaykunku, amañaspa manataq; purinkunku, ch'akirispa manataq.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "Yahweta suyaqkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "musuqcharinqaku"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kallpanta"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "qhatrisqaku"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "phanrata"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "waman hina"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "pawaykunku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "amañaspa"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "purinkunku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "ch'akirispa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:23:49.014290418Z",
+  "model": "glm-5.3"
+}

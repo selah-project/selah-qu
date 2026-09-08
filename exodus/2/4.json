@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "exodus 2:4",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Hinaspa paypa panin karumanta sayarqan, yachanapaq imata paywan ruwasqa kanqa.",
+ "tokens": [
+  {
+   "surface": "ותתצב",
+   "gloss": "sayarqan"
+  },
+  {
+   "surface": "אחתו",
+   "gloss": "paypa panin"
+  },
+  {
+   "surface": "מרחק",
+   "gloss": "karumanta"
+  },
+  {
+   "surface": "לדעה",
+   "gloss": "yachanapaq"
+  },
+  {
+   "surface": "מה",
+   "gloss": "imata"
+  },
+  {
+   "surface": "יעשה",
+   "gloss": "ruwasqa kanqa"
+  },
+  {
+   "surface": "לו",
+   "gloss": "paywan"
+  }
+ ],
+ "timestamp": "2026-09-08T00:20:56.431304184Z",
+ "model": "glm-5.3"
+}

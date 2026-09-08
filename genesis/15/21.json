@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "hinaspa ⟨את⟩ Haemorita, hinaspa ⟨את⟩ Hakenanita, hinaspa ⟨את⟩ Hagirgashita, hinaspa ⟨את⟩ Hayevusita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Haemorita"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Haemorita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hakenanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Hakenanita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hagirgashita"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Hagirgashita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hayevusita"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Hayevusita"
+    }
+  ],
+  "timestamp": "2026-09-07T23:55:10.855601065Z",
+  "model": "glm-5.3"
+}

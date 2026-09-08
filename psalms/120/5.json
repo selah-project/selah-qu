@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 120,
+  "translation": "Llakikuni, imaraykuchus Meshek (Mesec) suyupi puriq karqani, Kedar (Cedar)pa wasikunawan tiyarqani.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "llakikuni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "puriq karqani"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meshek suyupi"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "tiyarqani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "wasikuna"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedarpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:47.936994880Z",
+  "model": "glm-5.3"
+}

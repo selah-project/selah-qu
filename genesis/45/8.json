@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Kunantaq mana qamkunachu kachawarqankichik ⟨את⟩ kayman; ichaq Elohimmi; churarqawantaq Paropaq taytan hina, wasinpa llapannin apu hina, hinaspa Mitsrayimpa llapan hallp'anpi kamachikuq hina.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kunantaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkunachu"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "kachawarqankichik"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kayman"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kayman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ichaq"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "churarqawan"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "taytan hina"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paropaq"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "hinaspa apu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasinpa"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "kamachikuq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:17:36.530872307Z",
+  "model": "glm-5.3"
+}

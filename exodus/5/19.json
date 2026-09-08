@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 5:19",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Israelpa churinkunap umalliqninkunam paykunata ⟨את⟩ llakiypi qawarqanku, nispa: «Tikaykichikunamanta mana sapa p'unchawpa tupuyta pisichiykichikchu».",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "qawarqanku"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "llakiypi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תגרעו",
+      "gloss": "pisichiykichikchu"
+    },
+    {
+      "surface": "מלבניכם",
+      "gloss": "tikaykichikunamanta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "tupuyta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawpa"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "sapa p'unchawpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:23:19.109739567Z",
+  "model": "glm-5.3"
+}

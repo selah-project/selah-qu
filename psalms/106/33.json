@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Imaraykuchus paykuna ⟨את⟩ paypa samiyninta hinakurqanku, chaymi ⟨Moshe⟩ awpanwan mana yuyaspa rimarqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "hinakurqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa samiyninta"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "paypa samiyninta"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "mana yuyaspa rimarqan"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "awpanwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:16.763548725Z",
+  "model": "glm-5.3"
+}

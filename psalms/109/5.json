@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Ñuqamanmi millayta churarqanku allinpa rantinta, chiqniykuytawan munakuypi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "churarqanku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "millayta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rantinta"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "allinpa"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "chiqniykuytawan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "…pi"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "munakuypi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:30.904594283Z",
+  "model": "glm-5.3"
+}

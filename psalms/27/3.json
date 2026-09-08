@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Ima hina awqakuna ñuqap contray mamallaspa, sonqoy manam manchakunmanchu; ima hina awqanakuy ñuqap contray sayarimuptinpas, chaywanmi ñuqa k'askakuni.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ima hina"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "mamallan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap contray"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "awqakuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "manchakunmanchu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqoy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ima hina"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sayarimunman"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap contray"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "awqanakuy"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "chaywan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "k'askakuni"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:04.783674881Z",
+  "model": "glm-5.3"
+}

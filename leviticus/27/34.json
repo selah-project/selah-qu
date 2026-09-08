@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Kaykunam kamachikuykuna, kayninta Yahwem Moshe ⟨את⟩ Israelpa churinkunaman Sinay urqupi kamachirqan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kaykuna"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "kamachikuykuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kayninta"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(churinkunaman)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqupi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-09-08T01:12:16.414730703Z",
+  "model": "glm-5.3"
+}

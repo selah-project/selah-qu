@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hukmi waka churi, huk carnero, huk borrego huk wata watan, olahpaq.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "waka churi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "waka"
+    },
+    {
+      "surface": "איל",
+      "gloss": "carnero"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "borrego"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "watan"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "huk wata"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "olahpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:19:04.100325907Z",
+  "model": "glm-5.3"
+}

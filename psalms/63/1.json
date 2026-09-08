@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Davidpa mizmor (salmo) nisqa, Yehudapa ch'usaq pachanpi kachkaptin.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "kachkaptin"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pachanpi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:47.861392590Z",
+  "model": "glm-5.3"
+}

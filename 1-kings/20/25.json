@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Qammi qamman awqakunata yupay, urmasqa awqakunahina, hinaspa sawri sawrihina, karro karrohina; hinaspa pampapi ⟨את⟩ paykunata maqanakusunchik; manachu paykunamanta sinchi kanchik? Chaymanta paykunap siminta uyarirqan, chaynatataq ruwarqan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "yupay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "awqakunata"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "awqakunahina"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "urmasqa"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩ qammanta",
+      "marks": "urmasqa awqakunahina"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "hinaspa sawri"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "sawrihina"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "hinaspa karro"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "karrohina"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "maqanakusunchik"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "pampapi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "sinchi kanchik"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "paykunap siminta"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:20:27.711093144Z",
+  "model": "glm-5.3"
+}

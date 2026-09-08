@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Paypa patanpi ⟨את⟩ sanqata churarqan; sanqaman ⟨את⟩ Urimta, hinaspa ⟨את⟩ Tumimta churarqan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa patanpi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanqata"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sanqa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sanqaman"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "sanqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urimta"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tumimta"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:56:59.009863854Z",
+  "model": "glm-5.3"
+}

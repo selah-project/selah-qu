@@ -1,0 +1,89 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "exodus 20:18",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 20,
+ "translation": "Hinaspa tukuy runakunam qhawarqanku ⟨את⟩ tonokunata, hinaspa ⟨את⟩ k'anchaykunata, hinaspa ⟨את⟩ shofarpa ovtanta, hinaspa ⟨את⟩ urqu qasawan; runakuna qhawaspa mancharirqanku, karupi sayarqankum.",
+ "tokens": [
+  {
+   "surface": "וכל",
+   "gloss": "hinaspa tukuy"
+  },
+  {
+   "surface": "העם",
+   "gloss": "runakunam"
+  },
+  {
+   "surface": "ראים",
+   "gloss": "qhawarqanku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "tonokunata"
+  },
+  {
+   "surface": "הקולת",
+   "gloss": "tonokunata"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "k'anchaykunata"
+  },
+  {
+   "surface": "הלפידם",
+   "gloss": "k'anchaykunata"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "shofarpa ovtanta"
+  },
+  {
+   "surface": "קול",
+   "gloss": "ovta"
+  },
+  {
+   "surface": "השפר",
+   "gloss": "shofarpa"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "urqu qasata"
+  },
+  {
+   "surface": "ההר",
+   "gloss": "urqu"
+  },
+  {
+   "surface": "עשן",
+   "gloss": "qasa"
+  },
+  {
+   "surface": "וירא",
+   "gloss": "qhawaspa"
+  },
+  {
+   "surface": "העם",
+   "gloss": "runakuna"
+  },
+  {
+   "surface": "וינעו",
+   "gloss": "mancharirqanku"
+  },
+  {
+   "surface": "ויעמדו",
+   "gloss": "sayarqankum"
+  },
+  {
+   "surface": "מרחק",
+   "gloss": "karupi"
+  }
+ ],
+ "timestamp": "2026-09-08T00:32:27.441737760Z",
+ "model": "glm-5.3"
+}

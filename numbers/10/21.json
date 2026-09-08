@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Kehatakkunam purirqanku, willka wasita apaspa; wak runakunataq ⟨את⟩ Mishkanta paykunam chayamunanpaq sayarichirqanku.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "hinaspa purirqanku"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehatakkuna"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "apaspa"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "willka wasita"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "sayarichirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanta"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "man"
+    },
+    {
+      "surface": "באם",
+      "gloss": "paykunam chayamunanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:22:18.816974111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Pitaq Elta paqarin, rurasqa diosta hinaspa t'inkinchin, mana imatapas allanchu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pitaq"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "paqarin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elta"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "rurasqa diosta hinaspa"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "t'inkinchin"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mana ... -chu"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "imatapas allanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:27:20.667059758Z",
+  "model": "glm-5.3"
+}

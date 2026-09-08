@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chay awqaqa tukurqanmi, ch'usaqkuna wiñay kama; hinaspa llaqtakunata hunt'iyrqankim, yuyayninku paykunaq chinkarqanmi.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "chay awqa"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "tukurqanmi"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ch'usaqkuna"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wiñay kama"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "hinaspa llaqtakunata"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "hunt'iyrqankim"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "chinkarqanmi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "yuyayninku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykunaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:46.212556685Z",
+  "model": "glm-5.3"
+}

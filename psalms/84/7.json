@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 84,
+  "translation": "Baka (waqakuq) q'eswata p'asaqkuna chaymanta pukyuta churanku; hinallataqmi ñawpaq parawan bendicionkunawan p'achachin.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "p'asaqkuna"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "q'eswata"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Baka (waqakuq)"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "pukyu"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "churanku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "bendicionkunawan"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "p'achachin"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ñawpaq parawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:13.096635116Z",
+  "model": "glm-5.3"
+}

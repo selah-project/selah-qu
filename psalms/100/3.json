@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "psalms 100:3",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 100,
+ "translation": "Yachay: Yahwe ⟨kan⟩mi Elohim; paymi ñuqanchikta rurarqan, manam ñuqanchikchu; ñuqanchikqa paypa pueblo-nmi, pay michin wasinpa uywankuna.",
+ "tokens": [
+  {
+   "surface": "דעו",
+   "gloss": "Yachay"
+  },
+  {
+   "surface": "כי",
+   "gloss": "chaymi"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "paymi"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "paymi"
+  },
+  {
+   "surface": "עשנו",
+   "gloss": "ñuqanchikta rurarqan"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "manam"
+  },
+  {
+   "surface": "אנחנו",
+   "gloss": "ñuqanchikchu"
+  },
+  {
+   "surface": "עמו",
+   "gloss": "paypa pueblo-n"
+  },
+  {
+   "surface": "וצאן",
+   "gloss": "uywankuna"
+  },
+  {
+   "surface": "מרעיתו",
+   "gloss": "pay michin wasinpa"
+  }
+ ],
+ "timestamp": "2026-09-08T10:14:37.896274539Z",
+ "model": "glm-5.3"
+}

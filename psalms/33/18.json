@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Qhawariy: Yahwep ñawin payman manakusqankunallapim kachkan, paypa jesedninta suyakuqkunapim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ñawin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "payman manakusqankuna"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "suyakuqkuna"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "paypa jesedninta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:25.840519824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa Mitsrayimtaqa Mitsrayimwan maqanakuchinmi: runa wawqinwan, runa masinwan maqanakunqakumi; llaqta llaqtawan, mamallaqta mamallaqtawan.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "maqanakuchinmi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimta"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimwan"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "maqanakunqakumi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "wawqinwan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "masinwan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtawan"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "mamallaqta"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "mamallaqtawan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:05:22.132988095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 17:11",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Hinaspa apamunapaq riptinm, payman qayarqan, nirqan: ama hina, ñuqaman makiykiwan huk t'anta chirita apamuy.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "hinaspa rirqan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "apamunapaq"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "qayarqan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "apamuy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ama hina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "פת",
+      "gloss": "chiri"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "makiykiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:15:59.414171789Z",
+  "model": "glm-5.3"
+}

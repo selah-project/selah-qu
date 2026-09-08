@@ -1,0 +1,78 @@
+{
+ "tier": "glm-5.2",
+ "verse": 26,
+ "ref": "exodus 7:26",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 7,
+ "translation": "Yahwem Mosheta (Moisés) nirqanmi: Yaykuy Paro (Faraón) man, nin: chaynata nirqanmi Yahwem: ⟨את⟩ ñuqap runayta kachari, ñuqata sirwichunkapak.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqanmi"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe (Moisés)"
+  },
+  {
+   "surface": "בא",
+   "gloss": "Yaykuy"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "פרעה",
+   "gloss": "Paro (Faraón)"
+  },
+  {
+   "surface": "ואמרת",
+   "gloss": "nin"
+  },
+  {
+   "surface": "אליו",
+   "gloss": "payman"
+  },
+  {
+   "surface": "כה",
+   "gloss": "chaynata"
+  },
+  {
+   "surface": "אמר",
+   "gloss": "nirqanmi"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "שלח",
+   "gloss": "kachari"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ñuqap runayta"
+  },
+  {
+   "surface": "עמי",
+   "gloss": "ñuqap runay"
+  },
+  {
+   "surface": "ויעבדני",
+   "gloss": "ñuqata sirwichunkapak"
+  }
+ ],
+ "timestamp": "2026-09-08T02:04:01.649456621Z",
+ "model": "glm-5.3"
+}

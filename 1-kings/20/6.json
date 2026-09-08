@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "«Icha kay pacha paqarin ⟨את⟩ yanaparqaykuna qamman kachasaq, ⟨את⟩ wasiykita, hinaspa ⟨את⟩ yanaparqayniyki wasikunata mask'anku; ñawiykikunapa llapan munasqanta makillankupi churuspa apusqanku».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "icha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "icha"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "kay pacha"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "paqarin"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "kachasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanaparqaykuna (my servants)"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanaparqaykuna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "mask'anku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasiykita (your house)"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wasiyki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "yanaparqayniyki wasikuna (houses of your servants)"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "wasikuna"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "yanaparqayniyki"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "munasqan"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ñawiykikunapa"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "churanku"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "makillankupi"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "apusqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T13:41:19.794630701Z",
+  "model": "glm-5.3"
+}

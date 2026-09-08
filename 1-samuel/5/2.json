@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Plishtikunam Elohimpa ⟨את⟩ sandulinta apuspa Dagonpa wasinman apamurqanku, ⟨את⟩ paytaqa Dagonpa ch'ikllanpi churaykurqanku.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "apuruspa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtikunam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimpa sandulinta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandulinta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "apamurqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paytaqa",
+      "marks": "Dagonpa wasinman apamusqa sandulinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagonpa"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "churaykurqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "churasqa sandulinta"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ch'ikllanpi"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagonpa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:33:16.259424433Z",
+  "model": "glm-5.3"
+}

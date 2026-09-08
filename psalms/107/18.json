@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Nefeshninkuqa tukuy mikhunata millakunmi, chayarqankutaq wañuypa punkunkunaman.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhuna"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "millakun"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefeshninku"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "chayarqankutaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "punkunkuna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuy"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:41.484523827Z",
+  "model": "glm-5.3"
+}

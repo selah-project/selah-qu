@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 25:22",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa ⟨את⟩ pusaq kaq watata tarankichik, hinaspa ñawpa t'uktumanta mikhinkichik pisqa kaq watakama, paypa t'uktun chayamunankama; ñawpa t'uktutam mikhinkichik.",
+  "tokens": [
+    {
+      "surface": "וזרעתם",
+      "gloss": "hinaspa tarankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pusaq kaq watata"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "watata"
+    },
+    {
+      "surface": "השמינת",
+      "gloss": "pusaq kaq"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "hinaspa mikhinkichik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "t'uktumanta"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ñawpa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "התשיעת",
+      "gloss": "pisqa kaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "chayamunankama"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "paypa t'uktun"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhinkichik"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ñawpa t'uktuta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:09:00.976475248Z",
+  "model": "glm-5.3"
+}

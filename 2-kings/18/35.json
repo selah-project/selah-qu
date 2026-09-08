@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 18:35",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "¿Pitachus llapa hallp'akunap dioskunamanta ⟨את⟩ hallp'inkuta ñuqap makimanta hich'irqan? ¿Yahwem ⟨את⟩ Yerushalayimta (Jerusalén) ñuqap makimanta hich'unqan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pitachus"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dioskunamanta"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "hallp'akunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "hich'irqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'inkuta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hallp'inkuta"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ñuqap makimanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "יציל",
+      "gloss": "hich'unqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimta (Jerusalén)"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ñuqap makimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:41:13.046748347Z",
+  "model": "glm-5.3"
+}

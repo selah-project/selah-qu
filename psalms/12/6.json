@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Wakcha muchusqakunap llakikunanmanta, wakchakunap unqarisqanmanta — kunanmi sayariwsaq, Yahwem nirqan; payta qispichikuyman churarqasaq, payman phujusqamanta.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "muchusqanmanta"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "wakcha runakunap"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "unqarisqanmanta"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "wakchakunap"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunanmi"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "sayariwsaq"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "churarqasaq"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "qispichikuyman"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "phujusqamanta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:54.203601894Z",
+  "model": "glm-5.3"
+}

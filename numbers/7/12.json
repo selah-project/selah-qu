@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 7:12",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ñawpaq p'unchawpi ⟨את⟩ korbanta churaqqa Najshonmi karqan, Aminadabpa churin, Yehuda ayllumanta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "churaq"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korbanta"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korbanta"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Najshon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabpa"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ayllumanta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-08T01:19:45.315749250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa runa ⟨את⟩ qodeshninta paypa kanqa; runa mayqinta kohenta qun, chayqa paypam kanqa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Hinaspa runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qodeshninta"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "qodeshninta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qun"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:11:37.610849715Z",
+  "model": "glm-5.3"
+}

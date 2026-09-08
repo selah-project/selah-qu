@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaysi Yahwe Elohimmi Adampaq, warmiwanpaq q'ara p'achakunata ruwarqan, chaywan p'acharqanku.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "Adampaq"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "warmiwanpaq"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "p'achakunata"
+    },
+    {
+      "surface": "עור",
+      "gloss": "q'ara"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "chaywan p'acharqanku"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:09.798582364Z",
+  "model": "glm-5.3"
+}

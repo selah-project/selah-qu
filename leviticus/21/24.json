@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chaysi Moshe (Moisés) Aharonwan (Aarón) paypa churinkunawan hinaspa llapa Israelpa churinkunawan rimarqan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqansi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonwan (Aarón)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "paypa churinkunawan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:13.468623365Z",
+  "model": "glm-5.3"
+}

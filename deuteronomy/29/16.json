@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa qamkunam rikurqanki ⟨את⟩ paykunap millay rurasqa diosninkunata, hinaspa ⟨את⟩ paykunap rurasqa diosninkunata — sach'a, rumi, qullqi, quri — mayqinkuna paykunawan ⟨karqan⟩.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "rikurqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paykunap millay rurasqa diosninkunata"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "millay rurasqa diosninkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paykunap rurasqa diosninkunata"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "rurasqa diosninkuna"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "hinaspa rumi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "hinaspa quri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "paykunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:56:11.427039367Z",
+  "model": "glm-5.3"
+}

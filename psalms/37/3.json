@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Yahwepi sunquchakuy, hinaspa allinta ruray, hallp'ipi tiyay, hinaspa iñikuynita michhuy.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "sunquchakuy"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "hinaspa ruray"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "tiyay"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ipi"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "hinaspa michhuy"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "iñikuynita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:43:23.931566215Z",
+  "model": "glm-5.3"
+}

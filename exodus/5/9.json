@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Llapa runakunap iñupi llank'ayqa llasaqmi kanqan, chaypi llank'anku; ama llulla rimanakunaman ñawinta churankuchu.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "llasaq kanqan"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "llank'ayqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "iñupi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "llapa runakunap"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "llank'anku"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ñawinta churankuchu"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "rimanakunaman"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:45.686141858Z",
+  "model": "glm-5.3"
+}

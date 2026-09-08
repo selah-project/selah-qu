@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Tukurqanmi mañakuykuna, Davidpa — Yishay (Isai)pa churinpa.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Tukurqanmi"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "mañakuykuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinpa"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay (Isai)pa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:24.957333840Z",
+  "model": "glm-5.3"
+}

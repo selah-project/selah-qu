@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 16:25",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Sapa ñanpa umanpi hanaq wasiykita ruwarqankim, ⟨את⟩ sumaqniykita millachirqankim, hinaspa sapa pasaqman ⟨את⟩ chakikiykita kichaspam tarirqanki, ⟨את⟩ taznutaykita (mana allin munanakuy) askhacharqankim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "sapa ñanpa umanman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umanpi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanpa"
+    },
+    {
+      "surface": "בנית",
+      "gloss": "ruwarqanki"
+    },
+    {
+      "surface": "רמתך",
+      "gloss": "hanaq wasiykita"
+    },
+    {
+      "surface": "ותתעבי",
+      "gloss": "millachirqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumaqniykita"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "sumaqniykita"
+    },
+    {
+      "surface": "ותפשקי",
+      "gloss": "kichaspam tarirqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakikiykita"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "chakikiykita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sapa …-man"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "pasaqman"
+    },
+    {
+      "surface": "ותרבי",
+      "gloss": "askhacharqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taznutaykita"
+    },
+    {
+      "surface": "תזנתך",
+      "gloss": "taznutaykita (mana allin munanakuy)"
+    }
+  ],
+  "timestamp": "2026-09-08T08:03:51.053284505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Qam⟨kan⟩m tarpunki, icha mana ichhurqunki; qam zeitatam sarunki, icha mana unchuwan unchunki; hinaspa muspha aqham, icha mana aqhata upyanki.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "tarpunki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha mana"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ichhurqunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "sarunki"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeita (oliva)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha mana"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "unchunki"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "unchu"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "hinaspa muspha aqha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha mana"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "upyanki"
+    },
+    {
+      "surface": "יין",
+      "gloss": "aqha"
+    }
+  ],
+  "timestamp": "2026-09-08T14:09:47.407810385Z",
+  "model": "glm-5.3"
+}

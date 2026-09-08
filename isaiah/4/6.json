@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa huk sukkah (carpa) kanqam: p'unchawpi q'apariymanta llanthu hina, hark'ana hina, pakaywasihina wayra malinamanta parawanpas.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "hinaspa sukkah"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqam"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "llanthuman"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "q'apariymanta"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "hinaspa hark'anaman"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "hinaspa pakaywasiman"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "wayra malinamanta"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "hinaspa parawanmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:51:33.194603029Z",
+  "model": "glm-5.3"
+}

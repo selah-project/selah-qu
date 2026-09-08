@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Mayqen Nefechpas llapan yawarta mikhun, chay Nefeshqa runanmanta ichusqa kanqam.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mayqen ... pas"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mikhun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "yawarta"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "hinaspa ichusqa kanqa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "Nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "runanmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:06:25.401705650Z",
+  "model": "glm-5.3"
+}

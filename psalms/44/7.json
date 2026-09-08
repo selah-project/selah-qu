@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Manam warak'aypi suyakunichu; churiniywanpas manam qispichiwawaychu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "warak'aypi"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "suyakuni"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "hinaspa churiniywan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "qispichiwaway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:43.778178127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Hinaspa ⟨את⟩ Yosefta (Joséta) bendecirqan, nispataq nirqanmi: Elohim — ñuqap yayakuna Abraham (Abrahán) Itsjakwan (Isaac) ñawpaqninpi puriq, Elohim ñuqata ⟨את⟩ michiwashaqm, paqariymantam kay p'unchawkama.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "bendecirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispataq nirqanmi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "ñawpaqninpi puriq"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "ñuqap yayakuna"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "Itsjakwan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "michiwashaqm"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqata",
+      "marks": "ñuqata"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "paqariymantam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T00:18:25.167489261Z",
+  "model": "glm-5.3"
+}

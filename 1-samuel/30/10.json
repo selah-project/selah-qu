@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Davidmi qatirqan, pay hinaspa tawa pachak runa; iskay pachak runataq sayarqankum, sarqunakuspa Besor ⟨את⟩ mayuta mana chayankuchu.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "qatirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "hinaspa tawa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "sayarqanku"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "iskay pachak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "sarqunakurqanku"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "chayanamanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Besor mayuta"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-09-08T04:29:05.479685338Z",
+  "model": "glm-5.3"
+}

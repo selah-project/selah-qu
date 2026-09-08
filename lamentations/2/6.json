@@ -1,0 +1,73 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "lamentations 2:6",
+ "book": "lamentations",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Hinaspa wayt'a hina suyt'unta ch'usaqyarqanmi; huñunakuy wasinta wañuchirqan; Yahwem Tsiyonpi fiesta p'unchawkunata, Shabattawan qunqarparirqan, hinaspa sinch'i phinikuywan apu kasqatapas, kohen kasqatawan p'akirirqan.",
+ "tokens": [
+  {
+   "surface": "ויחמס",
+   "gloss": "hinaspa ch'usaqyarqanmi"
+  },
+  {
+   "surface": "כגן",
+   "gloss": "wayt'a hina"
+  },
+  {
+   "surface": "שכו",
+   "gloss": "suyt'unta"
+  },
+  {
+   "surface": "שחת",
+   "gloss": "wañuchirqan"
+  },
+  {
+   "surface": "מועדו",
+   "gloss": "huñunakuy wasinta"
+  },
+  {
+   "surface": "שכח",
+   "gloss": "qunqarparirqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "בציון",
+   "gloss": "Tsiyonpi"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "fiesta p'unchawkunata"
+  },
+  {
+   "surface": "ושבת",
+   "gloss": "Shabattawan"
+  },
+  {
+   "surface": "וינאץ",
+   "gloss": "p'akirirqan"
+  },
+  {
+   "surface": "בזעם",
+   "gloss": "sinch'i phinikuywan"
+  },
+  {
+   "surface": "אפו",
+   "gloss": "sinch'in"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "apu kasqata"
+  },
+  {
+   "surface": "וכהן",
+   "gloss": "kohen kasqatawan"
+  }
+ ],
+ "timestamp": "2026-09-08T14:23:34.706945442Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Icha ñawpaqllam paypa ayllunpaq, pay qayllanpi kaqpaq: mamanpaq, taytanpaqwan, churinpaqwan, ususinpaqwan, wawqinpaqwan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "icha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ñawpaqlla"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "paypa ayllunpaq"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "qayllanpi kaq"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "mamanpaq"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "taytanpaqwan"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "churinpaqwan"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "ususinpaqwan"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "wawqinpaqwan"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:27.731547380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Shilopa Mishkanta saqirpanmi, runakunap chawpinpi sayachisqa carpata.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "saqirqan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkanta"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Shilopa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "carpa"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "sayachisqa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "runakunap chawpinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:22.188224772Z",
+  "model": "glm-5.3"
+}

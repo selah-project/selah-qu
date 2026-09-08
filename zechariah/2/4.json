@@ -1,0 +1,144 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 2:4",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Nirqanim: «Imataq kaykuna hamunku, ruranankupaq?» Chaymanta pay nirqan, nispa: «Kaykunaqa k'ajakunam, Yehudata ⟨את⟩ soqharqanku — mana pipas umanta hatarichirqan; kaykuna hamurqanku paykunata ⟨את⟩ mancharichinankupaq, llaqtakunap ⟨את⟩ k'ajankunata urmachinankupaq, paykuna k'ajanta Yehudap hallp'anman hatarichispa, chayta soqhachinankupaq».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "באים",
+      "gloss": "hamunku"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruranankupaq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "k'ajakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "soqharqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudata"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "hinamanta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hatarichirqan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umanta"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hamurqanku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "להחריד",
+      "gloss": "mancharichinankupaq"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "לידות",
+      "gloss": "urmachinankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'ajankunata"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "k'ajankunata"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "llaqtakunap"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "hatarichiq"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "k'ajanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'anman"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "לזרותה",
+      "gloss": "soqhachinankupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:19:09.356117770Z",
+  "model": "glm-5.3"
+}

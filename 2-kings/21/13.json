@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 21:13",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa Yerushalayim (Jerusalén) patapi ⟨את⟩ Shomronpa (Samaria) seq'eta, hinaspa ⟨את⟩ Ajabpa (Acab) wasinpa plomontawan churakusaq; hinaspa ⟨את⟩ Yerushalayimta qichusaqmi, imahina runa ⟨את⟩ platota qichusqan hina — qichuspa, uyan tikraspa.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "churakusaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomronpa seq'eta"
+    },
+    {
+      "surface": "קו",
+      "gloss": "seq'e"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Ajabpa wasinpa plomonta"
+    },
+    {
+      "surface": "משקלת",
+      "gloss": "plomon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "ומחיתי",
+      "gloss": "hinaspa qichusaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imahina"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "qichun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "platota"
+    },
+    {
+      "surface": "הצלחת",
+      "gloss": "plato"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "qichuspa"
+    },
+    {
+      "surface": "והפך",
+      "gloss": "hinaspa tikraspa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pata"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "uyan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:46:07.623623399Z",
+  "model": "glm-5.3"
+}

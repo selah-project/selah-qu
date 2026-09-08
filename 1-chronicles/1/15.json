@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "hinaspa ⟨את⟩ Hiwita (Heveo), hinaspa ⟨את⟩ Arqita (Araceo), hinaspa ⟨את⟩ Sinita (Sineo).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hiwita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Arqita"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arqita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Sinita"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinita"
+    }
+  ],
+  "timestamp": "2026-09-08T12:28:52.174186779Z",
+  "model": "glm-5.3"
+}

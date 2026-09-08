@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chay simiqa huchaman tukurqanmi; runakuna Dan-kama huk ñawpaqen purirqankumi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tuqurqanmi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chay simiqa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "huchaman"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "purirqankumi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huk ñawpaqen"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:12:01.847197491Z",
+  "model": "glm-5.3"
+}

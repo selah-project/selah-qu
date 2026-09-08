@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ama pay anta hina nefeshniyta mikhuchun t'aqruspa, manataq pipas qispichiq kachunchu.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "Ama ... -chu"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "mikhuchun"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "anta hina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "t'aqruspa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manataq ... kachun"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "qispichiq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:49.317528485Z",
+  "model": "glm-5.3"
+}

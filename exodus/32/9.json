@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Hinaspa Yahwem Mosheman nirqanmi: Ñawiywan rikurqanim ⟨את⟩ kay runakunata; hinaspa qhawariy, q'emi kunkayuq runakunam pay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Hinaspa nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kay runakuna"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "hinaspa qhawariy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "q'emi"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "kunka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:52.556327871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Qhawarqanim, mana karqanchu yanapaq; haylliarqanim, mana karqanchu sayachiq; ñuqap makiymi ñuqata qespichirqan, ñuqap ch'akiymi paymi ñuqata sayachirqan.",
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "qhawarqanim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana karqanchu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yanapaq"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "haylliarqanim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana karqanchu"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "sayachiq"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "qespichirqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ñuqap makiy"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "ñuqap ch'akiywan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "ñuqata sayachirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:41:41.620580699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "psalms 9:1",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 9,
+ "translation": "Dirigentiman, Alamut Laben (wañusqapa k'anchaynin) nisqa takiman, mizmor Davidpa.",
+ "tokens": [
+  {
+   "surface": "למנצח",
+   "gloss": "Dirigentiman"
+  },
+  {
+   "surface": "עלמות",
+   "gloss": "Alamut Laben"
+  },
+  {
+   "surface": "לבן",
+   "gloss": "Laben"
+  },
+  {
+   "surface": "מזמור",
+   "gloss": "mizmor"
+  },
+  {
+   "surface": "לדוד",
+   "gloss": "Davidpa"
+  }
+ ],
+ "timestamp": "2026-09-08T09:33:14.109980208Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 9:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Manchayniykichik, achka manchayniykichikpas llapan kay pacha uywakunap, llapan hanaq pachamanta phishukunap, hallp'api llapan ankallakuqkunap, hinallataq mama quchap llapan challwakunap patapi kanqa; makiykichikpi qarasqa kankumi.",
+  "tokens": [
+    {
+      "surface": "ומוראכם",
+      "gloss": "manchayniykichik"
+    },
+    {
+      "surface": "וחתכם",
+      "gloss": "achka manchayniykichikpis"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חית",
+      "gloss": "uywakunap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinallataq patapi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "phishukunap"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachamanta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapanpi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ankallakuq"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hinallataq llapan"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "challwakuna"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama qucha"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "makiykichikpi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "qarasqa kankumi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:02:24.783529665Z",
+  "model": "glm-5.3"
+}

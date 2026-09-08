@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 26:23",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspam iskay tablado ruwanki Mishkanpa k'uchu kimsantinkunapaq, iskay k'uchupi.",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "tablado"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "k'uchu kimsantinkunapaq"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanpa"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "iskay k'uchupi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:36:01.566696610Z",
+  "model": "glm-5.3"
+}

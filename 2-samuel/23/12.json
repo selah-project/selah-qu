@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 23:12",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Payqa chakarap t'aqap chawpinpi sayarirqanmi, hinaspa chayta amacharqan, ⟨את⟩ Plisht'ikunata wanachirqan; hinaspa Yahwem hatun qispichiyta rurarqanmi.",
+  "tokens": [
+    {
+      "surface": "ויתיצב",
+      "gloss": "chawpinpi sayarirqanmi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "chakarap t'aqap"
+    },
+    {
+      "surface": "ויצילה",
+      "gloss": "amacharqan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wanachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Plisht'ikunata"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plisht'ikunata"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "rurarqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "qispichiyta"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T04:55:42.461707942Z",
+  "model": "glm-5.3"
+}

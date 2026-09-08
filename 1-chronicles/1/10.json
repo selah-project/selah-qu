@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Kushm ⟨את⟩ Nimrodta walachirqan; paymi hallp'api sinchi runa tukunan qallarirqan.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kushm"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "walachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodta"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrodta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "החל",
+      "gloss": "qallarirqan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "tukunan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sinchi runa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T12:29:04.826744821Z",
+  "model": "glm-5.3"
+}

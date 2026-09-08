@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Karqanmi: Rechabam (Rehoboam) kamachikuynin sayachisqa kaptin, kallpanyachikusqaptin, ⟨את⟩ Yahwepa Torata saqerqan, Israel llapanpas paywan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Karqanmi"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "sayachisqa kaptin"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "kamachikuynin"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rechabam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "kallpanyachikusqaptin"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "saqerqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa Torata"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapanpas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    }
+  ],
+  "timestamp": "2026-09-08T13:04:29.846986871Z",
+  "model": "glm-5.3"
+}

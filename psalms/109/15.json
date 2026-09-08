@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Yahwep ñawpaqpin wiñay kachun; hallp'amanta yuyaysikiyninkutapas qulluchun.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "kachun"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "qulluchun"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "yuyaysikiyninku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:13.054372761Z",
+  "model": "glm-5.3"
+}

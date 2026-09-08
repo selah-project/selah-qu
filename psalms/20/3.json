@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Qodsqamanta yanapaykita kachachun, hinaspa Tsiyonmanta qamta sayarichichun.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "kachachun"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "yanapaykita"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Qodsqamanta"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "hinaspa Tsiyonmanta"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "qamta sayarichichun"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:16.010955748Z",
+  "model": "glm-5.3"
+}

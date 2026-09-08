@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa Yahwem Mosheman (Moisés) rimarqan, nispa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "hinaspa rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:08:33.676821204Z",
+  "model": "glm-5.3"
+}

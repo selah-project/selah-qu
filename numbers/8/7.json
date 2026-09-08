@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 8:7",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaynintaq paykunaman ruwanki, paykunata llimp'ichanaykipaq: paykunaman huchapa unuta ch'iqiy, hinaspa navajata llapan aychankuwan pasachichhi, hinaspa p'achankuta mayllachichhi, chaymanta kikin llimp'iyakhusqanku.",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "chaynintaq"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "לטהרם",
+      "gloss": "llimp'ichanaykipaq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ch'iqiy"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "מי",
+      "gloss": "unu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "huchapa"
+    },
+    {
+      "surface": "והעבירו",
+      "gloss": "hinaspa pasachichhi"
+    },
+    {
+      "surface": "תער",
+      "gloss": "navaja"
+    },
+    {
+      "surface": "על",
+      "gloss": "wan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "aychanku"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "hinaspa mayllachichhi"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "p'achanku"
+    },
+    {
+      "surface": "והטהרו",
+      "gloss": "chaymanta llimp'iyakhusqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T01:23:38.709348774Z",
+  "model": "glm-5.3"
+}

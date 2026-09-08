@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Mana allin kaychu kachkan ñuqap aychapi, q'usuyniyki rayku; mana shalom kanchu ñuqap tulluykunapi, huchay rayku.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "mana ... kanchu"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "allin kay"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "ñuqap aychapi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "q'usuyniyki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana ... kanchu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "ñuqap tulluykunapi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "huchay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:10.443096041Z",
+  "model": "glm-5.3"
+}

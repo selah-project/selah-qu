@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaysi payta muchuy wasipi saqiykurqanku, Yahwepa siminwan ñankupaq sut'ichanankupaq.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "saqiykurqanku"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "muchuy wasipi"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "sut'ichanankupaq"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ñankupaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "siminwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:08:43.626714228Z",
+  "model": "glm-5.3"
+}

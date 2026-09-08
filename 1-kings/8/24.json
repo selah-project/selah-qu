@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Mayta waqaychawanki David taytay yanapaqniykipaq, ⟨את⟩ mayta rimarqanki payman; simiykiwanmi rimarqanki, makiykiwan hunt'achirqanki, kay p'unchawhina.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "waqaychawanki"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "yanapaqniykipaq"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayta rimarqanki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "rimarqanki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "rimarqanki"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "simiykiwan"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "makiykiwan"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "hunt'achirqanki"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kay p'unchawhina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T05:04:46.293607939Z",
+  "model": "glm-5.3"
+}

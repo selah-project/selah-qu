@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Shabat p'unchawmi, sapa Shabat p'unchaw, payta Yahwep ñawpaqninpi siq'inqa wiñaylla, ⟨את⟩ Israelpa wawankunamanta, wiñay berit hina.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "siq'inqa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñaylla"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa wawankuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T01:08:47.198073616Z",
+  "model": "glm-5.3"
+}

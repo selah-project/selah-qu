@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "T'uklla allin kaywan chiqan kaywan ñuqata waqaychachun, imaraykuchus qampam suyasharqanim.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "t'uklla allin kay"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "chiqan kaywan"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ñuqata waqaychachun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "qampam suyasharqanim"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:34.883498627Z",
+  "model": "glm-5.3"
+}

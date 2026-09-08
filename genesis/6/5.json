@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Yahwem rikurqan runap mana allin kaynin askha kasqantam hallp'api, hinaspa sunqunpa yuyaykuna rurayninmi llapa p'unchaw mana allinllam.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hinaspa rikurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "askha"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "mana allin kaynin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ruraynin"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "yuyaykuna"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sunqunpa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "-lla"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:54.615575901Z",
+  "model": "glm-5.3"
+}

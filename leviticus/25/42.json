@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Yahwem riman: Ñuqap llamk'aqyku kanku, Mitsrayim hallp'amanta llusichimuni ⟨את⟩ paykuna; llamk'aqpa rantikuna hina mana rantikunchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ñuqap llamk'aqyku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "kanku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "llusichimuni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykuna"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "rantikunchu"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "rantikuy hina"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "llamk'aqpa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:08:17.749075880Z",
+  "model": "glm-5.3"
+}

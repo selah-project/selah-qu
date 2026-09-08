@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Wakichiqmanmi, Nehilotkunapi, Davidpa mizmor (salmón).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Wakichiqman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Nehilotkunapi"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nehilotkuna"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:48.164875656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "K'anchaynin ñawpaqninmanta paypa llasa phuyunkuna karqanku — ch'illqa chhukukuna hinaspa nina k'ullukuna.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "k'anchayninmanta"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "paypa ñawpaqninpi"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "llasa phuyunkuna"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ch'illqa chhukukuna"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "hinaspa nina k'ullukuna"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:04.580415196Z",
+  "model": "glm-5.3"
+}

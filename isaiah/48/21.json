@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 48:21",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Ch'usaq pampakunapi pusasqanku ñaqpa manam yarqasqachu karqanku; qatayamanta unutawan paykunapaq payarqachim; hinaspa qatayata t'aqarqanmi, unukunatawan phawaykacharqanmi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "צמאו",
+      "gloss": "yarqasqachu karqanku"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "ch'usaq pampakunapi"
+    },
+    {
+      "surface": "הוליכם",
+      "gloss": "pusasqanku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "qatayamanta"
+    },
+    {
+      "surface": "הזיל",
+      "gloss": "payarqachim"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "hinaspa t'aqarqan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qatayata"
+    },
+    {
+      "surface": "ויזבו",
+      "gloss": "hinaspa phawaykacharqan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unukuna"
+    }
+  ],
+  "timestamp": "2026-09-08T06:26:48.586533514Z",
+  "model": "glm-5.3"
+}

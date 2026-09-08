@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Awqankunañataq ñuqamanta rimankusi; ñuqap nefeshta watukuqkuna huk rumiwansi masinchakunku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "awqankunañataq"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "rimankusi"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ñuqap awqankuna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "watukuqkuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap nefeshta"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "masinchakunku"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "huk rumiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:34.639282334Z",
+  "model": "glm-5.3"
+}

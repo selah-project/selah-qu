@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Yahwem Mosheman (Moisésman) rimarqan, kayta nispa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:23:38.708756611Z",
+  "model": "glm-5.3"
+}

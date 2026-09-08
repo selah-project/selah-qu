@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 122,
+  "translation": "Yerushalayimqa wasichasqam, llaqta hina, llapan huñusqa kachkan huk ñanniraq.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimqa"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "wasichasqam"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "llaqta hina"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "huñusqa kachkan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "huk ñanniraq"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "llapan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:42.518100622Z",
+  "model": "glm-5.3"
+}

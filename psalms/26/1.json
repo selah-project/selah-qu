@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Davidpa. Taripariway, Yahwe, ñuqam tutumanayuq kasqaymanta purini, Yahwepipunim suyakuni, manam chinkasqachu kasaq.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Taripariway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ña"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "tutumanayuq kasqaymanta"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "purini"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "Yahwepipunim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "suyakuni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "chinkasqachu kasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:56.273081432Z",
+  "model": "glm-5.3"
+}

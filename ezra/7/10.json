@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ezraqa (Esdras) sunqunta allicharqan Yahwepa Toranta maskananpaq ⟨את⟩, chayta ruwananpaq, Israelpi kamachikuywan chiqanchaykunatawan yachachinampaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra (Esdras)"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "allicharqan"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sunqunta"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "maskananpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa Toranta"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toranta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "chayta ruwananpaq"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "yachachinampaq"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpi"
+    },
+    {
+      "surface": "חק",
+      "gloss": "kamachikuywan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "chiqanchaykunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T12:14:15.810955239Z",
+  "model": "glm-5.3"
+}

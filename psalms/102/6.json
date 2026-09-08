@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Ñuqap iñawiykipa oqariyninmanta tulluy aychayman ch'akirusqam.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "oqariyninmanta"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "iñawiykipa"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ch'akirusqa"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulluy"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "aychayman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:23.217609775Z",
+  "model": "glm-5.3"
+}

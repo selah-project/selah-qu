@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Qampim ñawpa yayanchik amparasqa karqanku, amparasqa karqankuchus, hinaspa qam kallasqam karqanku.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Qampim (qampanpi)"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "amparasqa karqanku"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ñawpa yayanchik"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "amparasqa karqanku"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "hinaspa kallasqam karqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:35.589760161Z",
+  "model": "glm-5.3"
+}

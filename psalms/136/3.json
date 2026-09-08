@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Muchaychik apukunap Apun Adonayta, imaraykuchus wiñay kama jesednin.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Muchaychik"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "apukunap Apunta"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "wiñay kama"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:33.293419694Z",
+  "model": "glm-5.3"
+}

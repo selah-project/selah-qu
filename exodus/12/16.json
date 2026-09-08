@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 12:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa ñawpaq p'unchawpi qesqa willanakuy, qanchis kaq p'unchawpipas qesqa willanakuy qampaq kanqam; chaykunapiqa mana mayqin llamk'aypas ruwakunqachu, icha mayqinchus llapa nefeshpaq mik'una kanqa, chayllam qampaq ruwakunqam.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "willanakuy"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qesqa"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "p'unchawpipas"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "qanchis kaq"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "willanakuy"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qesqa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwakunqachu"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaykunapi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "icha...chaylla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinchus"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mik'una"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "chaylla"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwakunqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qampaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:05:36.262439818Z",
+  "model": "glm-5.3"
+}

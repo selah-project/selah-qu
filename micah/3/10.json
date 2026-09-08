@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Tsiyonta yawarwan wasichanku, hinaspa Yerushalayimta haqellaywan wasichanku.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "wasichanku"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonta"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "yawarwan"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "hinaspa Yerushalayimta"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "haqellaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:03:48.023035584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Haqe runa wañuptinqa, suyakuyninmi chinkapun; hinaspa haqekunap kallpan suyayninpas chinkapunmi.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "wañuptinqa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haqe"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "chinkapunmi"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "suyakuynin"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "hinaspa suyayninpas"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "kallpan suyaynin"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "chinkapunmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:41:10.443827907Z",
+  "model": "glm-5.3"
+}

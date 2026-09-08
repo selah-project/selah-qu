@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Wayraqa intinsuman purin, chinchañataq muyurin; muyuriq, muyuriq wayraqa purin, wayrataq muyuriqninkunapi kutimun.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "purin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "intinsu"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "muyuriqtaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "chincha"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "muyuriq"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "muyuriq"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "purin"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "wayraqa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "muyuriqninkunapi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kutimun"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "wayrataq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:29.788548089Z",
+  "model": "glm-5.3"
+}

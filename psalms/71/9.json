@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Ziqna p'unchawpi ama ñuqata wikch'uwaychu; kallpay tukusptinqa ama saqewaychu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "ñuqata wikch'uwaychu"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ziqna"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "tukusptinqa"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kallpay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "saqewaychu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:34.639051342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymanta wawaykikunaman willay, wawaykikunaqtaq wawankunaman willananku, paypa wawanpas qhipa wataqamanmi willananku.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "wawaykikunaman"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "willay"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "wawaykikunaqtaq"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "wawankunaman"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "paypa wawanpas"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "wataqaman"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qhipa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:54:42.238182058Z",
+  "model": "glm-5.3"
+}

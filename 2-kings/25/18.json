@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Wañuchiqkuna apunmi chaskirqan ⟨את⟩ Serayahta (Seraías) ñawpaq kohenta, hinaspa ⟨את⟩ Tsefanyahta iskay ñiqin kohenta, hinaspa ⟨את⟩ kimsan punku waqaychaqkunata.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "chaskirqan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "apun"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wañuchiqkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayahta"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah (Seraías)"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tsefanyahta"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyah (Sofonías)"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kimsan punku waqaychaqkunata"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsan"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "waqaychaqkuna"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "punku"
+    }
+  ],
+  "timestamp": "2026-09-08T05:51:20.237093775Z",
+  "model": "glm-5.3"
+}

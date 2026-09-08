@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Huk runa rikurqanmi, Yoavman willarqantaq: «Qaway, rikurqanim ⟨את⟩ Abshalomta elapi colgasqa kaptinta».",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurqanmi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "willarqantaq"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoavman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Qaway"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abshalomta"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Abshalomta"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "colgasqa"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "elapi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:52:01.000588097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Runakunaqa karum sayarqankum; Moshe (Moisés) hinaqa lintiman chayamurqan, chaypi Elohim kachkanmi.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarqankum"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaqa"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "karum"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "Moshe (Moisés) hinaqa"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "chayamurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "linti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:15.868211133Z",
+  "model": "glm-5.3"
+}

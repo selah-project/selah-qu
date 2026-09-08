@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Adoni-Bezekmi (Adoni-Bezek) ayqarqan; qatirqankum payta qhipanmanta, hap'irqanku ⟨את⟩ payta, hinaspa k'aspiykurqanku ⟨את⟩ maki sikllankunata, chaki sikllankunatawan.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "ayqarqan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "qatirqankum"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "payta qhipanmanta"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "hap'irqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "hap'isqa runa (Adoni-Bezek)"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "k'aspiykurqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maki sikllankunata"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "sikllankuna"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "maki"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "chaki sikllankunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:34:05.030791431Z",
+  "model": "glm-5.3"
+}

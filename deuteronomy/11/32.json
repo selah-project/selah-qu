@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa much'ankichik ruwanaykichikpaq ⟨את⟩ tukuy kamachikuykunata, hinaspa ⟨את⟩ juzgokunata, mayqentam ñuqa qamkunap ñawpaqpi churakuni kunan p'unchaw.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "much'ankichik"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanaykichikpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy kamachikuykunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "kamachikuykunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "juzgokunata"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "juzgokunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churakuni"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "qamkunap ñawpaqpi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T02:42:52.421727751Z",
+  "model": "glm-5.3"
+}

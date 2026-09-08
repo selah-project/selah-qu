@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Karqanmi Yehoash apup iskay chunka kimsa watanpi, mana kohenkunam allinchasqachu ⟨את⟩ wasip p'akisqanta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "(…watanpi)"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kimsawan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apup"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana…chu"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "allinchasqa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasip p'akisqanta (the breach of the house)"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "p'akisqanta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasip"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:27.294269718Z",
+  "model": "glm-5.3"
+}

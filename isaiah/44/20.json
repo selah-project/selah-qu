@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Ashpata mikhuchkanmi; qullqisqa sunqun payta pantichirqanmi, manam ⟨את⟩ nefeshninta amuchayta atinchu, manataq ninta atinchu: ¿Manachu llullam kan ñuqap paña makipi?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "mikhuchkan"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ashpata"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "qullqisqa"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "pantichirqan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "amuchayta atinchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshninta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshninta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ninta atinchu"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "¿manachu…?"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llullam"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "ñuqap paña makipi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:31:33.291425931Z",
+  "model": "glm-5.3"
+}

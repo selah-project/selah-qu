@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "exodus 8:7",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 8,
+ "translation": "Chaym hamp'atokunaq qamanta, wasiykimanta, yanapaqniykimanta, runaykimanta carqunqaku; chiqap Yaku Mayupillapi saqisqa kankunaku.",
+ "tokens": [
+  {
+   "surface": "וסרו",
+   "gloss": "carqunqaku"
+  },
+  {
+   "surface": "הצפרדעים",
+   "gloss": "hamp'atokuna"
+  },
+  {
+   "surface": "ממך",
+   "gloss": "qamanta"
+  },
+  {
+   "surface": "ומבתיך",
+   "gloss": "wasiykimanta"
+  },
+  {
+   "surface": "ומעבדיך",
+   "gloss": "yanapaqniykimanta"
+  },
+  {
+   "surface": "ומעמך",
+   "gloss": "runaykimanta"
+  },
+  {
+   "surface": "רק",
+   "gloss": "chiqap"
+  },
+  {
+   "surface": "ביאר",
+   "gloss": "Yaku Mayupi"
+  },
+  {
+   "surface": "תשארנה",
+   "gloss": "saqisqa kankunaku"
+  }
+ ],
+ "timestamp": "2026-09-08T00:25:05.650966131Z",
+ "model": "glm-5.3"
+}

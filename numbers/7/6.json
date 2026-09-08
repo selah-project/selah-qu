@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa Moshe (Moisés) chaskirqanmi ⟨את⟩ carretakunata hinaspa ⟨את⟩ wakakunata, chaymanta ⟨את⟩ paykunata Levikunaman qurqanmi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hinaspa chaskirqanmi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carretakunata"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "carretakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wakakunata"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "wakakunata"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qurqanmi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "Levikunaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T01:19:08.772508981Z",
+  "model": "glm-5.3"
+}

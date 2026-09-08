@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Paym ⟨את⟩ Eylotta (Eilat) wasicharqan, hinaspa Yehudaman kutichirqan, apu taytakunanwan puñusqan qhipanmi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wasicharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eylotta"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Eylot"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudaman"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipan"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "puñusqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "taytakunanan"
+    }
+  ],
+  "timestamp": "2026-09-08T13:11:38.965199056Z",
+  "model": "glm-5.3"
+}

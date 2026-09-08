@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "1-kings 8:10",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 8,
+ "translation": "Chaymi karqan, kohenkuna Santomanta lluqsiptinku, phuyuqa ⟨את⟩ Yahwepa wasinta hunt'arqan.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "chaymi karqan"
+  },
+  {
+   "surface": "בצאת",
+   "gloss": "lluqsiptinku"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "kohenkuna"
+  },
+  {
+   "surface": "מן",
+   "gloss": "manta"
+  },
+  {
+   "surface": "הקדש",
+   "gloss": "Santo"
+  },
+  {
+   "surface": "והענן",
+   "gloss": "phuyuqa"
+  },
+  {
+   "surface": "מלא",
+   "gloss": "hunt'arqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahwepa wasinta"
+  },
+  {
+   "surface": "בית",
+   "gloss": "wasinta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  }
+ ],
+ "timestamp": "2026-09-08T05:04:52.922952321Z",
+ "model": "glm-5.3"
+}

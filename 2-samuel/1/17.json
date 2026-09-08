@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa David takurqanmi ⟨את⟩ kay lamentota Shaul (Saúl)manta, hinaspa Yehonatan (Jonatán)manta, paypa churinmanta.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "takurqanmi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay lamentota"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "lamentota"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulmanta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanmanta"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "paypa churinmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:31:11.611432138Z",
+  "model": "glm-5.3"
+}

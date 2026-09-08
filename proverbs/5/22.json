@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Paypa pantasqankunaqa payta hapt'ipanmi, haqlli runata ⟨את⟩; hinaspa paypa jukllakuynin watawan ch'anqaykusqa kanmi.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "paypa pantasqankunaqa"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "hapt'ipanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haqlli runata"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "haqlli runata"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "hinaspa watawan"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "paypa jukllakuynin"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "ch'anqaykusqa kanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:37:01.932953776Z",
+  "model": "glm-5.3"
+}

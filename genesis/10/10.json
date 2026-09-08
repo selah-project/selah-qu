@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Paypa apunasqanpa qallarinmi karqan Bavel (Babilonia), hinaspa Erekh, hinaspa Akad, hinaspa Kalneh, Shinjar (Sinar) hallp'api.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "karqanm"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "qallarin"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "paypa apunasqanpa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "hinaspa Erekh"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "hinaspa Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "hinaspa Kalneh"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinjar"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:55.752616966Z",
+  "model": "glm-5.3"
+}

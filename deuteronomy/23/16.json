@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Ama qamman pawaykusqata apamunkichu apunman, mayqen apunmanta pawaykuspa qamman chayamun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "apamunkichu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "pawaykusqata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apunman"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "apunman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "pawaykuspa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "apunmanta"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "apunmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:50:37.858003455Z",
+  "model": "glm-5.3"
+}

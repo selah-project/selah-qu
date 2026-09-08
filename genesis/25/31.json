@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa Yaakov nirqan: Kunan p'unchawmaq rantichiwaway ⟨את⟩ kuraq kayniykita ñuqaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "rantichiwaway"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuraq kayniykita"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "kuraq kayniyki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:02:04.923174267Z",
+  "model": "glm-5.3"
+}

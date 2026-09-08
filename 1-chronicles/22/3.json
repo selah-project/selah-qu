@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 22:3",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa q'illaytam askhaman hunt'achirqan Davidmi — t'ipikunapaq, punku t'ipikunapaq, t'inkinakunapaq — hinaspa q'illay antatapas askhaman, mana librasyón-tupuwanchu.",
+  "tokens": [
+    {
+      "surface": "וברזל",
+      "gloss": "q'illaytaman"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "askhaman"
+    },
+    {
+      "surface": "למסמרים",
+      "gloss": "t'ipikunapaq"
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "punku"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "t'ipikunapaq"
+    },
+    {
+      "surface": "ולמחברות",
+      "gloss": "t'inkinakunapaq"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hunt'achirqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidmi"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "q'illay antatapas"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "askhaman"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "librasyón-tupuwan"
+    }
+  ],
+  "timestamp": "2026-09-08T12:49:20.890767198Z",
+  "model": "glm-5.3"
+}

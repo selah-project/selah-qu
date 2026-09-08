@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "isaiah 33:8",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 33,
+ "translation": "Ñankakuna ch'usaqyarqankum; ñanpi puriq tukurqanm; berit p'akiyarqanm, llaqtakunata millayarqanm; runata mana yacharqanchum.",
+ "tokens": [
+  {
+   "surface": "נשמו",
+   "gloss": "ch'usaqyarqanku"
+  },
+  {
+   "surface": "מסלות",
+   "gloss": "ñankakuna"
+  },
+  {
+   "surface": "שבת",
+   "gloss": "tukurqan"
+  },
+  {
+   "surface": "עבר",
+   "gloss": "puriq"
+  },
+  {
+   "surface": "ארח",
+   "gloss": "ñanpi"
+  },
+  {
+   "surface": "הפר",
+   "gloss": "p'akiyarqan"
+  },
+  {
+   "surface": "ברית",
+   "gloss": "berit"
+  },
+  {
+   "surface": "מאס",
+   "gloss": "millayarqan"
+  },
+  {
+   "surface": "ערים",
+   "gloss": "llaqtakunata"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "חשב",
+   "gloss": "yacharqan"
+  },
+  {
+   "surface": "אנוש",
+   "gloss": "runata"
+  }
+ ],
+ "timestamp": "2026-09-08T06:13:22.330285287Z",
+ "model": "glm-5.3"
+}

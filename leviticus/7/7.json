@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hatat hina, ashampas hina: huk Tora ⟨kan⟩mi paykunapaq; kohen, mayqen paywan pampachan, paypaqmi kanqa.",
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "hatat hina"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "ashampas hina"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "pampachan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:51:47.592224531Z",
+  "model": "glm-5.3"
+}

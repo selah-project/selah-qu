@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Qhaway: ñuqam kunan p'unchaw qamkuna ñawpaqiykichikman bendiciónta hinaspa maldiciónta churachkani.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churachkani"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "qamkuna ñawpaqiykichikman"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bendiciónta"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "hinaspa maldiciónta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:38:13.753136684Z",
+  "model": "glm-5.3"
+}

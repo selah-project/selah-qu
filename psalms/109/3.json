@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Hinaspa tikray-rikuypa rimayninkuna ñuqata muyurqankum, mana imaraykuchus ñuqawan awqanakurqankum.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "hinaspa rimayninkuna"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "tikray-rikuypa"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ñuqata muyurqankum"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "hinaspa ñuqawan awqanakurqankum"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mana imaraykuchus"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:20.494483541Z",
+  "model": "glm-5.3"
+}

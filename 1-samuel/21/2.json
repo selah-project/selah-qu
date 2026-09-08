@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chaymanta David hamurqanmi Nobman (Nob), Achimelekh (Ahimelec) kohenman; Achimelekhtaq Davidta p'itikuspa mancharirqanmi, hinaspa nirqan: «Imarayku qam sapallayki kanki, mana ⟨את⟩ pipas qamwan kachkanchu?»",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "Nobman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelekh"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "mancharirqan"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Achimelekhtaq"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "p'itikuspa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sapallayki"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "hinaspa runa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan",
+      "marks": "pipas qamwan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:23:26.125910697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaysi Israelpa llapan kurakakunam chayamurqanku, hinaspa kohenkunam ⟨את⟩ sandulanta aparqanku.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "chayamurqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kurakakuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "aparqanku"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandulanta"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandulan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:04:06.870609484Z",
+  "model": "glm-5.3"
+}

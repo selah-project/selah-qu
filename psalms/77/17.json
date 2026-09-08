@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Qhawawankum unukta Elohim, qhawawankum unukta, llakikunki hinaspa mancharinkum ukhu unukuna.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "qhawawankum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unuk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "qhawawankum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unukta"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "llakikunki"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "mancharinkum"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "ukhu unukuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:30.896187853Z",
+  "model": "glm-5.3"
+}

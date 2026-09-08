@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaypiqa ⟨את⟩ arcata churaykurqani, maypichus Yahwepa Beritin tiyachkan, Israelpa churinkunawan churasqata.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "churaykurqani"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypiqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcata"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arcata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שם",
+      "gloss": "maypichus"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beritin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "כרת",
+      "gloss": "churasqata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:54:38.617403543Z",
+  "model": "glm-5.3"
+}

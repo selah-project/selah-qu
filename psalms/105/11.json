@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Nispa: «Qamman ⟨את⟩ Kanaan hallp'ata qusaq, chaymi chikan Wirakocha willka kasqaykichik» nispa.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaan hallp'ata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "chikan (measuring-line district)"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "willka kasqaykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:13.254978042Z",
+  "model": "glm-5.3"
+}

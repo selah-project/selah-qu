@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "⟨את⟩ Yahweta llapa pachapi bendisqanim, paypa alabasqanqa simiypi wiñaymi.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "bendisqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "paypa alabasqan"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "simiypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:02.276818709Z",
+  "model": "glm-5.3"
+}

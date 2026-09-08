@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Elohimman atiyta quy: Israelpa hawanpi paypa hatun kayninmi, phuyukunapipas paypa atiyninmi.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "quy"
+    },
+    {
+      "surface": "עז",
+      "gloss": "atiyta"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "paypa hatun kaynin"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "paypa atiynin"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "phuyukunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:28.831046146Z",
+  "model": "glm-5.3"
+}

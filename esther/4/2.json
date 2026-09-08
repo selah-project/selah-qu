@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Apup punkun ñawpaqman chayarqanmi, imaraykuchus saqop'achawan churarquspa apup punkunman manam yaykuy atinchu.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "chayarqanmi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "man"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqman"
+    },
+    {
+      "surface": "שער",
+      "gloss": "punkun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Apup"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yaykuy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "שער",
+      "gloss": "punkunman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Apup"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "churarquspa"
+    },
+    {
+      "surface": "שק",
+      "gloss": "saqop'achawan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:47:35.710149365Z",
+  "model": "glm-5.3"
+}

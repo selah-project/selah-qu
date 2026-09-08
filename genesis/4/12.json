@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Sichus ⟨את⟩ hallp'ata llamk'anki, chayqa manamaña kallpanta qamman qonqachu; hallp'api puriq hinaspa ayqeqmi kanki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "llamk'anki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ña"
+    },
+    {
+      "surface": "תת",
+      "gloss": "qonqa"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "kallpanta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "נע",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "hinaspa ayqeq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:09.669274529Z",
+  "model": "glm-5.3"
+}

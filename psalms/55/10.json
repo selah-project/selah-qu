@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Adonay, milluy hinaspa t'aqay llawkankuta, imaraykuchus ñuqam rikuni llutanakuyta, ama llaqtapi.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "milluy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "t'aqay"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "llawkankuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ñuqam rikuni"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "llutanakuyta"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "ama"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:57.232286674Z",
+  "model": "glm-5.3"
+}

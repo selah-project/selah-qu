@@ -1,0 +1,157 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 23:3",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspa apum saywacha ñawpaqpi sayarqan, hinaspa Yahwep ñawpaqpi ⟨את⟩ beritta churarqan — Yahwep qatinanpaq purinanpaq, paypa kamachiykunata, ⟨את⟩ paypa willakuykunatawan, ⟨את⟩ paypa leykunatawan hunt'a sonqowan, hunt'a Nefeshwan (alma) ñawpaq — ⟨את⟩ kay beritpa rimaykunata, kay qillqapi qillqasqata, hunt'achinanpaq. Hinaspa llapa runakunam beritpi sayarqanku.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "saywacha"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beritta"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "purinanpaq"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qatinanpaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "waqaychay"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "paypa kamachiykunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa willakuykunata"
+    },
+    {
+      "surface": "עדותיו",
+      "gloss": "paypa willakuykunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa leykunata"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "paypa leykunata"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sonqo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesh"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "hunt'achinanpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rimaykunata"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimaykuna"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "beritpa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הכתבים",
+      "gloss": "qillqasqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "qillqa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "beritpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:47:53.709749499Z",
+  "model": "glm-5.3"
+}

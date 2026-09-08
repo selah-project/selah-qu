@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 110,
+  "translation": "Runayki kusilla munaspa ⟨hamun⟩ atiyñiykip p'unchawpi, willka qollqechasqapi; illariypa wiksaymanta qampaqmi chhiri, warman kayniykimanta.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Runayki"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "kusilla munaspa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "atiyñiykip"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "qollqechasqapi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "willka"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "wiksaymanta"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "illariypa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaqmi"
+    },
+    {
+      "surface": "טל",
+      "gloss": "chhiri"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "warman kayniykimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:06.537992233Z",
+  "model": "glm-5.3"
+}

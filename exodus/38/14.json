@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "P'asña punkup huk ladonpi q'espiykuna chunka pichqayuq ama karqan; sapsinkuna kimsa, hinaspa tiyanankuna kimsam.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "q'espiykuna"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka pichqayuq"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huk ladonpi"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "p'asña punkup huk ladon"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "sapsinkuna"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "hinaspa tiyanankuna"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kimsa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:20.255559775Z",
+  "model": "glm-5.3"
+}

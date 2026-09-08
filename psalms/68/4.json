@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Hinaspa allin runakuna k'uyakuspa phawakapunqankumi, Elohimpa ñawpaqninpi kusikunqanku, hinaspa kusi-kusilla kusikunqanku.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "hinaspa allin runakuna"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kusikunqanku"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "k'uyakuspa phawakapunqankumi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "hinaspa kusikunqanku"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kusi-kusilla"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:58.725424890Z",
+  "model": "glm-5.3"
+}

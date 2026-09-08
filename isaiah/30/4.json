@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Imarayku Tsoanpi umalliqninku karqa, Janesman willaqninku chayarqanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqa"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Tsoanpi"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "umalliqninku"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "willaqninku"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "Janesman"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "chayarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:13:23.614585440Z",
+  "model": "glm-5.3"
+}

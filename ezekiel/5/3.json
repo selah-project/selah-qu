@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa aparinki chaymanta asllata yupaypi, hinaspa watarinki ⟨את⟩ chaykunata p'achaykip k'upanpi.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "hinaspa aparinki"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "asllata"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "yupaypi"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "hinaspa watarinki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chaykunata",
+      "marks": "p'achaykip k'upanpi"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "p'achaykip k'upanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T07:56:00.061446669Z",
+  "model": "glm-5.3"
+}

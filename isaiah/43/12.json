@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Ñuqam willarqani, ñuqam qispichirqani, ñuqam uyachirqani; qamkunap chawpinpi mana rurasqa dios karqanchu. Chayrayku qamkuna ñuqap willakuqniykim kanki, Yahwem nispa, ñuqataq Elmi kanimi.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "willarqani"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "ñuqam qispichirqani"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "ñuqam uyachirqani"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana karqanchu"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "qamkunap chawpinpi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "rurasqa dios"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ñuqap willakuqniykim"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elmi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:23:12.084685856Z",
+  "model": "glm-5.3"
+}

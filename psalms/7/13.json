@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Sichus mana kutin, paypa michunta ch'uqminqami; paypa arconta churaruspanmi allicharqan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kutin"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "paypa michunta"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "ch'uqminqami"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "paypa arconta"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "churaruspan"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "hinaspa allicharqan-ninta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:40.062213766Z",
+  "model": "glm-5.3"
+}

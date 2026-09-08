@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 3:4",
+  "book": "nahum",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Askha q'omerkachayninraykum, munapakuq, layqasapa q'omerkachaq warmi — payqa llaqtakunatam q'omerkachasqanwan qaturqan, ayllukunatapas layqayninkunawan.",
+  "tokens": [
+    {
+      "surface": "מרב",
+      "gloss": "askha kayninrayku"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "q'omerkachay"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "q'omerkachaq warmi"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "munapakuq"
+    },
+    {
+      "surface": "חן",
+      "gloss": "k'achata"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "layqasapa"
+    },
+    {
+      "surface": "כשפים",
+      "gloss": "layqay"
+    },
+    {
+      "surface": "המכרת",
+      "gloss": "qaturqan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "בזנוניה",
+      "gloss": "q'omerkachasqanwan"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "hinaspa ayllukunata"
+    },
+    {
+      "surface": "בכשפיה",
+      "gloss": "layqayninkunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:10:17.529092078Z",
+  "model": "glm-5.3"
+}

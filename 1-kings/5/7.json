@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chay sayaqkunaqa ⟨את⟩ Shelomo (Salomón) aputa mikhuywan kallpacharqankum, hinaspa ⟨את⟩ llapan Shelomo apupa shult'anman chayaqta — sapa runa paqariy killanpi; mana imapas chinkachirqankuchu.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "kallpacharqankum"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "sayaqkuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo aputa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo (Salomón)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan chayaqta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "chayaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "shult'a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "paqariy killanpi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "chinkachirqanku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imapas"
+    }
+  ],
+  "timestamp": "2026-09-08T13:37:59.421033198Z",
+  "model": "glm-5.3"
+}

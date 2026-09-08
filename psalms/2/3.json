@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "«Much'usunchiksi ⟨את⟩ wisllankunata, hinaspa paymanta watikunata wikch'usunchik» nirqanku.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "much'usunchik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wisllankunata"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "wisllankunata"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "hinaspa wikch'usunchik"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "watikunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:00.517644397Z",
+  "model": "glm-5.3"
+}

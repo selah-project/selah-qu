@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Ñuqap mana ruwasqa kurkuyta ñawiyki qhawarqankum; qillqasqaykipi llapanmi qillqasqa karqan: p'unchawkuna ruwasqa karqan, manataq hukllapas chaykunapi karqanchu.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "ñuqap mana ruwasqa kurkuyta"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "qhawarqankum"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ñawiyki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa ...pi"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "qillqasqaykipi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "llapanmi"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "qillqasqa karqan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ruwasqa karqan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukllapas"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaykunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:42.096785952Z",
+  "model": "glm-5.3"
+}

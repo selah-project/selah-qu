@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Manam wak dioskunata qatikunkichu, kaypi kaq runakunap dioskunamanta, qamkunap muyuriqninkunapim kaqkunata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "qatikunkichu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qati-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wak"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "dioskunap...manta"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "kaypi kaq runakunapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqkunata"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "muyuriqninkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:32:32.665806749Z",
+  "model": "glm-5.3"
+}

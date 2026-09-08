@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 143,
+  "translation": "Tutamanta qhawarichiwaw jesedniykiykimanta ⟨paréntesis⟩, qampim suyakuni; ñawichiwaw ñanta purinaypaq, qammanmi nefeshniyta huñarqani.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "qhawarichiwaw"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniykiykimanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "suyakuni"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ñawichiwaw"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanta"
+    },
+    {
+      "surface": "זו",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "purinaypaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qammanmi"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "huñarqani"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:03.053944898Z",
+  "model": "glm-5.3"
+}

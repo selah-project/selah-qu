@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Paypa nazireokunaqa ch'uyanchakunamanta ch'uyan karqanmi, ch'illchu; lechemanta yuraq karqanmi, hawanpi yawarmanta p'inqachakurqanmi; rup'aypanpa rup'ay kayninpi yuraqlla; q'omeru t'ika hina; sapiru sumaqta lliphipirqanmi.",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "ch'uyan karqanmi"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "paypa nazireokunaqa"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "ch'uyanchakunamanta"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "ch'illchu; lechemanta yuraq karqanmi"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "lechemanta"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "yawarmanta p'inqachakurqanmi"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "rup'aypanpa"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "sapiru"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "kaynanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:37:47.440978104Z",
+  "model": "glm-5.3"
+}

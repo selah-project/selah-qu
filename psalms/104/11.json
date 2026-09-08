@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Tukuy chakrap uywankunatam upyachin; sallqa asnokuna ch'akinkuta p'akinku.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "upyachin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "uywankuna"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "chakrap"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "p'akinku"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "sallqa asnokuna"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ch'akinkuta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:29.066028626Z",
+  "model": "glm-5.3"
+}

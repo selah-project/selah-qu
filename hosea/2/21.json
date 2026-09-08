@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "hosea 2:21",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa wiñaypaq qamta ñuqaman warmichasqaymi, tsedeqpiwan, mishpatpiwan, jesedpiwan, rachimiykunapiwanmi qamta ñuqaman warmichasqaymi.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "warmichasqaymi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "וארשתיך",
+      "gloss": "warmichasqaymi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "tsedeqpi"
+    },
+    {
+      "surface": "ובמשפט",
+      "gloss": "mishpatpiwan"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "jesedpiwan"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "rachimiykunapiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T14:07:08.942162326Z",
+  "model": "glm-5.3"
+}

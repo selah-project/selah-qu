@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 79,
+  "translation": "Hayk'a kama, Yahwe, wiñaykama phiñakunki? Kinanaykiqa nina hina rawrachkanchu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hayk'a kama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "phiñakunki"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "rawrachkanchu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "kinanayki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:20.346668339Z",
+  "model": "glm-5.3"
+}

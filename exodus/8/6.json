@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Nirqanmi: “Paqarin.” Nirqantaqmi: “Rimasqayki hina kanqami — imaraykuchus yachanaykiq chay mana ⟨kan⟩chu Yahwehina Elohimniyku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nirqanmi"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "paqarin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Nirqantaqmi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "rimasqayki hina"
+    },
+    {
+      "surface": "למען",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "yachanaykiq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana ⟨kan⟩chu"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahwehina"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimniyku"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:05.650799545Z",
+  "model": "glm-5.3"
+}

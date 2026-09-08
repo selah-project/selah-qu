@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Puchukayninmi qulluypaq kanman; wak pachawachikunapi sutinku ch'usaqchasqa kanman.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kanman"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "puchukaynin"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "qulluypaq"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "pachawachikunapi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wak"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "ch'usaqchasqa kanman"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "sutinku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:13.054025270Z",
+  "model": "glm-5.3"
+}

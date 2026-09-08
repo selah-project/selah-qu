@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "psalms 50:2",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 50,
+ "translation": "Tsiyonmanta, sumaq kaypa hunt'aynanmanta, Elohimmi k'anchaykacharqan.",
+ "tokens": [
+  {
+   "surface": "מציון",
+   "gloss": "Tsiyonmanta"
+  },
+  {
+   "surface": "מכלל",
+   "gloss": "hunt'aynanmanta"
+  },
+  {
+   "surface": "יפי",
+   "gloss": "sumaq kaypa"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "הופיע",
+   "gloss": "k'anchaykacharqan"
+  }
+ ],
+ "timestamp": "2026-09-08T09:49:37.311966815Z",
+ "model": "glm-5.3"
+}

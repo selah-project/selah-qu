@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ichaqa aswanmi: Yahwepa Toranpi munakuyninmi, paypa Toranpinpi p'unchaw tutawan yuyaykachan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ichaqa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aswanmi"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Toranpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "munakuyninmi"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "paypa Toranpinpi"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "yuyaykachan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "tutawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:41.186465752Z",
+  "model": "glm-5.3"
+}

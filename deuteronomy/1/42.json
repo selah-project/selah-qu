@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwem ñuqaman nirqa: Niy paykunaman: Ama wichankichikchu, ama awqanakunkichikchu, imaraykuchus ñuqa manam kani qamkunap chawpinpi; ama qamkunap awqaykichikpa ñawpaqninpi hark'asqa kanqaykichikchu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "niny"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama …chu"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "wichankichik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinallataq ama"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "awqanakunkichik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ñuqa manam kani"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "qamkunap chawpinpi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinallataq ama"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "hark'asqa kanqaykichik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "awqaykichikpa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:25:52.903116491Z",
+  "model": "glm-5.3"
+}

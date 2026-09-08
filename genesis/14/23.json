@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Sichus ch'ikamanta usuta watanankama, qampa kasqaykimanta imatapas mana apasaqchu, ama ñiwanqaykichu: «Ñuqam ⟨את⟩ Abramta qullqiyocharqani».",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "ch'ikamanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "watanankama"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "watana"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "usuta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa imatapas"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "apasaq"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "imamanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqayki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ñiwanqaykichu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "qullqiyocharqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abramta"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abramta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:55:22.551330521Z",
+  "model": "glm-5.3"
+}

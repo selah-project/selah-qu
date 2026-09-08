@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa ⟨את⟩ Arwadita (arwadita), hinaspa ⟨את⟩ Tsemarita (tsemarita), hinaspa ⟨את⟩ Jamatita (jamatita); chay qhipataq Kenaanpa mishpajankuna t'aqaspa askha rakikurqankum.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Arwadita"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arwadita (arwadita)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tsemarita"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemarita (tsemarita)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Jamatita"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Jamatita (jamatita)"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "chay qhipataq"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "t'aqaspa askha rakikurqankum"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mishpajankuna"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanpa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:40.855161716Z",
+  "model": "glm-5.3"
+}

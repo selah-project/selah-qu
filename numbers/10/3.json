@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chaykunawan phukuptinku, llapan ayllum qampaman huñunqaku huñunakuy tiendap punkunman.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "phukuptinku"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "chaykunawan"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "huñunqakum"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qampaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ayllu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkun"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tienda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "huñunakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T01:23:45.355862164Z",
+  "model": "glm-5.3"
+}

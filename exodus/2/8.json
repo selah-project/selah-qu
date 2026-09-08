@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaysi Paropa churin payta nirqan: Riy. Chaysi panyachaqa rirqan, chaysi ⟨את⟩ wawap mamanta waqyarqan.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "payta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "churin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Riy"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "panyachaqa"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "waqyarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawap mamanta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mamanta"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wawap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:04.264928810Z",
+  "model": "glm-5.3"
+}

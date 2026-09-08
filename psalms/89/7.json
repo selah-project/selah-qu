@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "psalms 89:7",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 89,
+ "translation": "Imarayku hanaq pachapi pi Yahweman tupaq kanman, Elimpa wawankunapichus pi Yahweman rikch'aq kanman.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "imarayku"
+  },
+  {
+   "surface": "מי",
+   "gloss": "pi"
+  },
+  {
+   "surface": "בשחק",
+   "gloss": "hanaq pachapi"
+  },
+  {
+   "surface": "יערך",
+   "gloss": "tupaq kanman"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahweman"
+  },
+  {
+   "surface": "ידמה",
+   "gloss": "rikch'aq kanman"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahweman"
+  },
+  {
+   "surface": "בבני",
+   "gloss": "wawankunapi"
+  },
+  {
+   "surface": "אלים",
+   "gloss": "Elimpa"
+  }
+ ],
+ "timestamp": "2026-09-08T14:15:57.139693260Z",
+ "model": "glm-5.3"
+}

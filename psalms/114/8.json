@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 114,
+  "translation": "Kaymi huk'arata qucha unuman, qillqamanata pukyu unuman t'ikrarqan.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "t'ikrarqan"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "huk'arata"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "qucha"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "qillqamanata"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "pukyu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:05.979802463Z",
+  "model": "glm-5.3"
+}

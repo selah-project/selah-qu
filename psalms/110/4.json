@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 110,
+  "translation": "Yahwem juramento nirqanmi, manañam tikranqachu: Qam kohen kanqaymi wiñaypaq, Malki-Tsedeqpa ñawpa kamachiynin hina.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "juramento nirqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manañam"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "tikranqachu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qam"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "hina"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ñawpa kamachiynin"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedeq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:06.538131686Z",
+  "model": "glm-5.3"
+}

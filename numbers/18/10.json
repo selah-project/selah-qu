@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Qodesh qodashim wasipi mik'unki ⟨את⟩ chayta; llapan qhari mik'unqa ⟨את⟩ chayta; qodeshmi qanpa kanqa.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "qodesh wasipi"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qodashim"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "mik'unki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mik'unqa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chayta (qodesh)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qanpa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:33:48.582451262Z",
+  "model": "glm-5.3"
+}

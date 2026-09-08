@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Amawtacharqanimi; phichgu hina sapallam karqani wasi patapi.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "amawtacharqani"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "karqani"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "phichgu hina"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "sapalla"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "גג",
+      "gloss": "wasi patan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:23.217840927Z",
+  "model": "glm-5.3"
+}

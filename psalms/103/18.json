@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Beritninta waqaychaqkunapaq, hinaspa pikudninkunata yuyariqkunapaq chaykunata ruwanankupaqmi.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "waqaychaqkunapaq"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "beritninta"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "hinaspa yuyariqkunapaq"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "pikudninkunata"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "chaykunata ruwanankupaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:42.248448588Z",
+  "model": "glm-5.3"
+}

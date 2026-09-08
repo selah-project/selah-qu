@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Ch'itikurqanmi paymanta altarpataman qanchis kutita; hinaspa unt'urqan ⟨את⟩ altarta, hinaspa ⟨את⟩ llapan llamk'anankunata, hinaspa ⟨את⟩ armakuna tiyanata, hinaspa ⟨את⟩ paypa saywaninta, willkachanankupaq.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "ch'itikurqan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "altarpataman"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "unt'urqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan llamk'anankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "llamk'anankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "armakuna tiyanata"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "armakuna tiyana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa saywaninta"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "paypa saywanin"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "willkachanankupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:40.123968151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Payqa makinta askha mamallaktakunapipas churanqanmi; Mitsrayimpa hallp'aqa manaña qespichikuy ⟨kanqa⟩chu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "makinta churanqa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "paypa makin"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "mamallaktakunapipas"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "maña"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "qespichikuy"
+    }
+  ],
+  "timestamp": "2026-09-08T12:05:01.078332726Z",
+  "model": "glm-5.3"
+}

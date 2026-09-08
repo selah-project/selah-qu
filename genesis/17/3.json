@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Hinaspa Abram ñawpanpi toakurqanm, hinaspa Elohim ⟨את⟩ paywan rimarqanm, nispa:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "toakurqanm"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ñawpan"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "hinaspa rimarqanm"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "paywan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:57:31.810869252Z",
+  "model": "glm-5.3"
+}

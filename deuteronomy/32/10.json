@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 32:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Payta tarirqanm hallp'api mana kawsaq pampapi, ch'usaq waqakuq waqllichasqa pampapipas; muyurqachirqanm payta, yachachirqanm payta, waqaycharqanm payta ñawi ch'usa hina paypa ñawin.",
+  "tokens": [
+    {
+      "surface": "ימצאהו",
+      "gloss": "tarirqanm payta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mana kawsaq pampapi"
+    },
+    {
+      "surface": "ובתהו",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "ילל",
+      "gloss": "waqakuq"
+    },
+    {
+      "surface": "ישמן",
+      "gloss": "waqllichasqa pampapipas"
+    },
+    {
+      "surface": "יסבבנהו",
+      "gloss": "muyurqachirqanm payta"
+    },
+    {
+      "surface": "יבוננהו",
+      "gloss": "yachachirqanm payta"
+    },
+    {
+      "surface": "יצרנהו",
+      "gloss": "waqaycharqanm payta"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "ñawi ch'usa hina"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "paypa ñawin"
+    }
+  ],
+  "timestamp": "2026-09-08T14:33:18.479535850Z",
+  "model": "glm-5.3"
+}

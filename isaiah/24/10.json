@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Ch'usaq llaqta p'akisqa karqanmi; tukuy wasi yaykuymanta wichq'asqa karqan.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "p'akisqa karqan"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wichq'asqa karqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "yaykuymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:06:26.620616530Z",
+  "model": "glm-5.3"
+}

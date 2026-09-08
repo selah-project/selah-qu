@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaskisqanpiqa karqanmi Beersheva, Shevawan, Moladahwan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapa"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "chaskisqanpi"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "hinaspa Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "Moladahwan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:25:04.311262104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Ama ñuqata saqiykachawaychu, Yahwe, Elohimniy; ama ñuqamanta karuykawaychu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ñuqata saqiykachawaychu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "karuykawaychu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:17.079214400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "hinaspa ⟨את⟩ llapan erevata kastanninmi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "llapan erevata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "erev"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "kastanninmi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:38:51.715979700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinallataq ñawpaq killapi, killapa chunka tawayuq p'unchawninpi, Pesajmi (Pascua) Yahwepaq.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "hinallataq killapi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "tawayuq"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawninpi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "killapa"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaj (Pascua)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:16:38.591656791Z",
+  "model": "glm-5.3"
+}

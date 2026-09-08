@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Paykunaman apum nirqan: Musqota musquykurqani, samiymi waqyakushan musqota yachanaypaq ⟨את⟩ musqota.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Paykunaman apum nirqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Musqota"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "musquykurqani"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "waqyakushan"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "samiymi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "yachanaypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musqota"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "musqota"
+    }
+  ],
+  "timestamp": "2026-09-08T11:52:23.958382808Z",
+  "model": "glm-5.3"
+}

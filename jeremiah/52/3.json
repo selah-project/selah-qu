@@ -1,0 +1,78 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "jeremiah 52:3",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 52,
+ "translation": "Yahwep phiñakuyninrayku chaymi karqan Yerushalayimpi, Yehudapipas, paykunata ñawpaqninmanta wisch'unankama; hinaspa Tsidkiyahuqa Bavel apuwan thakinakurqan.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "על",
+   "gloss": "rayku"
+  },
+  {
+   "surface": "אף",
+   "gloss": "phiñakuynin"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "היתה",
+   "gloss": "karqan"
+  },
+  {
+   "surface": "בירושלם",
+   "gloss": "Yerushalayimpi"
+  },
+  {
+   "surface": "ויהודה",
+   "gloss": "Yehudapipas"
+  },
+  {
+   "surface": "עד",
+   "gloss": "-kama"
+  },
+  {
+   "surface": "השליכו",
+   "gloss": "wisch'unankama"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩paykunta",
+   "marks": "paykunta (Yerushalayim, Yehuda)"
+  },
+  {
+   "surface": "מעל",
+   "gloss": "-manta"
+  },
+  {
+   "surface": "פניו",
+   "gloss": "ñawpaqnin"
+  },
+  {
+   "surface": "וימרד",
+   "gloss": "hinaspa thakinakurqan"
+  },
+  {
+   "surface": "צדקיהו",
+   "gloss": "Tsidkiyahu"
+  },
+  {
+   "surface": "במלך",
+   "gloss": "apuwan"
+  },
+  {
+   "surface": "בבל",
+   "gloss": "Bavel"
+  }
+ ],
+ "timestamp": "2026-09-08T07:50:51.024605152Z",
+ "model": "glm-5.3"
+}

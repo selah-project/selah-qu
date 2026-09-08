@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "hosea 11:7",
+ "book": "hosea",
+ "lang": "qu",
+ "chapter": 11,
+ "translation": "Ñuqap runaykunaqa ñuqap kutichiyman wark'isqa kankum; hanaq kaqman qayallankuchu, mana llapallan hanaqman wiñarichikunchu.",
+ "tokens": [
+  {
+   "surface": "ועמי",
+   "gloss": "Ñuqap runaykunaqa"
+  },
+  {
+   "surface": "תלואים",
+   "gloss": "wark'isqa kankum"
+  },
+  {
+   "surface": "למשובתי",
+   "gloss": "ñuqap kutichiyman"
+  },
+  {
+   "surface": "ואל",
+   "gloss": "man"
+  },
+  {
+   "surface": "על",
+   "gloss": "hanaq kaqman"
+  },
+  {
+   "surface": "יקראהו",
+   "gloss": "qayallankuchu"
+  },
+  {
+   "surface": "יחד",
+   "gloss": "llapallan"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "ירומם",
+   "gloss": "hanaqman wiñarichikunchu"
+  }
+ ],
+ "timestamp": "2026-09-08T08:51:09.151559169Z",
+ "model": "glm-5.3"
+}

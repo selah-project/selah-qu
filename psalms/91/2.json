@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "Ninimi: Yahwe, ñuqap panpa ñuqap pukara ⟨kan⟩mi; Elohimniy, paypi confiani.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ninimi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ñuqap panpa"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ñuqap pukara"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "confiani"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:02.841292052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 18:40",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chaymi ñuqata awqanakuypaq kallpaywan churaruwanki, ñuqap contra sayaqkunata ñuqap uraypi ñink'iykachirqankim.",
+  "tokens": [
+    {
+      "surface": "ותאזרני",
+      "gloss": "churaruwanki"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kallpaywan"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "awqanakuypaq"
+    },
+    {
+      "surface": "תכריע",
+      "gloss": "ñink'iykachirqankim"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "ñuqap contra sayaqkunata"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ñuqap uraypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:26.987455117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Elohim nirqan: hanaq pachap urayninpi kaq unukuna huklla tiyanaman huñukuchikun, ch'aki hallp'aqa rikhurichun; chaynata karqanmi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Hinaspa nirqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "huñukuchikun"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unukuna"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "urayninpi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tiyana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huklla"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "rikhurichun"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ch'aki hallp'a"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "hinaspa karqan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:33.458016163Z",
+  "model": "glm-5.3"
+}

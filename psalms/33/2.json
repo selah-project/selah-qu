@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Yahweman t'ikraychik kinorwan, nevel chunka warkhuqawan; paypaq takinchik.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "t'ikraychik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinorwan"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nebelwan"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "chunka warkhuqawan"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "takinchik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:59.079997424Z",
+  "model": "glm-5.3"
+}

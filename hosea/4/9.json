@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 4:9",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaymi kanqa: runakuna hinam kohenpas; ñuqam paykunap ñanninta yanachasa paykunap patanpi, ruwasqankunatapas kutichisa paykunaman.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "chaymi kanqa"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "runakuna hina"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "kohen hina"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ñuqam yanachasa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paykunap patanpi"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "paykunap ñanninta"
+    },
+    {
+      "surface": "ומעלליו",
+      "gloss": "paykunap ruwasqankunatapas"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "kutichisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T08:44:12.005884626Z",
+  "model": "glm-5.3"
+}

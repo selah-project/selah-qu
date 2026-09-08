@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa ⟨את⟩ llapa wirata mayninpi kaqtam hap'irqanmi, hinaspa ⟨את⟩ tiqti hígadopa wiñaynintawan, hinaspa ⟨את⟩ iskay ñawiyukunatam, hinaspa ⟨את⟩ paykunap wirantawanmi; hinaspa Moshe altamanmi nina ukhupi rupachirqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa wirata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "wirata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqtam"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mayninpi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tiqti wiñayninta"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "tiqti wiñayninta"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hígadopa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "iskay ñawiyukunata"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ñawiyukunatam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paykunap wiranta"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "paykunap wirantawanmi"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "rupachirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altamanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:56:47.906809488Z",
+  "model": "glm-5.3"
+}

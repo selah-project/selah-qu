@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "⟨את⟩ Shabatniyta waqaychinkichik, Miqdashniytañataq mancharinkichik; ñuqam kani Yahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabatniyta"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabatniyta"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "waqaychinkichik"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "Miqdashniytañataq"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mancharinkichik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T01:11:12.650822398Z",
+  "model": "glm-5.3"
+}

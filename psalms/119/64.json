@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Yahwe, jesedniykiwan hallp'a hunt'am; chiqanchakuykunayta ñuqata yachachiwanki.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "hunt'am"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "chiqanchakuykunayta"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ñuqata yachachiwanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:24:31.402942679Z",
+  "model": "glm-5.3"
+}

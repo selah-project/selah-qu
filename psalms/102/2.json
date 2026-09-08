@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Yahwe, mañakuyta uyariy, hinaspa qichuyniy qamman chayamun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mañakuyta"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "hinaspa qichuyniy"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "chayamun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:12.800656479Z",
+  "model": "glm-5.3"
+}

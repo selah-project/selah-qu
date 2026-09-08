@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa kimsa ñiqin markabapi yurak susikunam, hinaspa tawa ñiqin markabapi ch'iqi, sinchi susikunam.",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "hinaspa kimsa ñiqin markabapi"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "kimsa ñiqin"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "susikuna"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "yurak"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "hinaspa tawa ñiqin markabapi"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "tawa ñiqin"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "susikuna"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "ch'iqi"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "sinchi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:10:09.005795630Z",
+  "model": "glm-5.3"
+}

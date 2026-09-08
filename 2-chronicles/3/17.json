@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa sayarichirqanmi ⟨את⟩ columnakunata hechal ñawpaqninpi, hukpaq paña ladopi, huktaq lluqi ladopi; hinaspa paña ladopi kaqpa sutinta Yakin sut'icharqan, lluqi ladopi kaqtaq Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarichirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "columnakunata"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "columnakunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "hechal"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukpaq"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "paña ladopi"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "huktaq"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "lluqi ladopi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sut'icharqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "paña ladopi kaqpa"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "sutintaq"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "lluqi ladopi kaqpa"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-08T12:53:19.786033712Z",
+  "model": "glm-5.3"
+}

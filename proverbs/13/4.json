@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Qasillap nefeshnin munakun icha manam chaskinchu; icha llamk'aqkunaq nefeshninqa wirayakunqam.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "munakun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "icha manam chaskinchu"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshnin"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "qasillap"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "icha nefeshnin"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "llamk'aqkunaq"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "wirayakunqam"
+    }
+  ],
+  "timestamp": "2026-09-08T10:42:05.933511595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa ⟨את⟩ ukhunkunata, hinaspa ⟨את⟩ chakikunata arqhirqan; olahta altarpin q'uñichirqan.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "arqhirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukhunkunata"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ukhunkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chakikunata"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "chakikuna"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "q'uñichirqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:30.870997191Z",
+  "model": "glm-5.3"
+}

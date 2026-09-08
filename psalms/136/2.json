@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Muchaychik dioskunap Elohimninta, imaraykuchus wiñay kama jesednin.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Muchaychik"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "dioskunap Elohimninta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kama"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:33.293320189Z",
+  "model": "glm-5.3"
+}

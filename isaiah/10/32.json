@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "isaiah 10:32",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Kunan p'unchaw Novpi (Nob) sayaqmi; makinwan Tsiyonpa (Sión) ñust'anpa orqonta, Yerushalayimpa (Jerusalén) lomantan unanchaspa.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "Novpi"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "sayaqmi"
+    },
+    {
+      "surface": "ינפף",
+      "gloss": "unanchaspa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makinwan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqonta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ñust'anpa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonpa"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "lomantan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:57:48.723200370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Pacham paqariypaq, hinaspa pacha wañuypaq; pacha t'akuypaq, hinaspa pacha t'akusqata hurquypaq.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "paqariypaq"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacha"
+    },
+    {
+      "surface": "למות",
+      "gloss": "wañuypaq"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "t'akuypaq"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacha"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "hurquypaq"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "t'akusqata"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:09.459827110Z",
+  "model": "glm-5.3"
+}

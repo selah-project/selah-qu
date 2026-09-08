@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 115,
+  "translation": "Chaysi ñuqanchikmi Yahta bendiciyku kunanmanta wiñaykama; yupaychay, Yah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Chaysi ñuqanchikmi"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "bendiciyku"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kunanmanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yupaychay"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:57.351159081Z",
+  "model": "glm-5.3"
+}

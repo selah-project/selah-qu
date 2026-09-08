@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 37:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Hinaspa ⟨את⟩ mesapi kaq llamk'anakunatam rurarqan: ⟨את⟩ platosninta, hinaspa ⟨את⟩ q'apachiy cucharaninta, hinaspa ⟨את⟩ t'impuna bowlkunta, hinaspa ⟨את⟩ chhurunakunata mayqinkunawan chhurukunam — llimp'i quriwan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "rurarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llamk'anakunata"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "llamk'anakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "platosninta"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "platosninta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "cucharaninta"
+    },
+    {
+      "surface": "כפתיו",
+      "gloss": "cucharaninta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "t'impunanta"
+    },
+    {
+      "surface": "מנקיתיו",
+      "gloss": "t'impunanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chhurunakunata"
+    },
+    {
+      "surface": "הקשות",
+      "gloss": "chhurunakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunawan"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "chhurukunam"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "paykunawan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quriwan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "llimp'i"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:04.217504011Z",
+  "model": "glm-5.3"
+}

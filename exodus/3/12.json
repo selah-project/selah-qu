@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymi nirqan: Qamwanmi kasaq; kaymi qampa unanchan, ñuqam qamta apachirqani: ⟨את⟩ runata Mitsrayimmanta hurispa, kay urqupiman ⟨את⟩ Elohimta sirwankichik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqaptam"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "kasaq"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwanmi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampa"
+    },
+    {
+      "surface": "האות",
+      "gloss": "unanchan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "qamta apachirqani"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "hurispa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "sirwankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "urqupi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:31.190964232Z",
+  "model": "glm-5.3"
+}

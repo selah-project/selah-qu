@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 19:10",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Yoav (Joab) qhawarqan awqanakuy ñawpaqninqa ñawpaqemanta qhipamantan karqanta; chaymi Israelpa llapan akllasqamanta akllaspa, Aram (Siria) hayunta ñawinchakurqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav (Joab)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ñata"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "awqanakuy"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pay ñawpaqen"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawpa"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "qhipa"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "akllarqan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapanmanta"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "akllasqa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "ñawinchakurqan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "hayunta"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram (Siria)"
+    }
+  ],
+  "timestamp": "2026-09-08T12:44:59.300397494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaymanta aswan allinmi iskayninmanta chay, kunanraq mana kawsaq, ⟨את⟩ mayqin mana qawasqata ⟨את⟩ millay rurayta, mayqin inti urapi rurasqa karqan.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "aswan allinmi"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "iskayninmanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayqin mana kawsaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "kunanraq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "qawasqata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "millay rurayta"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "rurayta"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "millay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "rurasqa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "urapi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:17.569230342Z",
+  "model": "glm-5.3"
+}

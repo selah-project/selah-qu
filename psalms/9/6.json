@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Gowqakunata p'inirqankim, haqeta chinkachirqankim, sutinkuta wiñaypaq wiñay wiñaypaq phutuyrqankim.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "p'inirqankim"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gowqakunata"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "chinkachirqankim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haqeta"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "sutinkuta"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "phutuyrqankim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñay wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:46.212433404Z",
+  "model": "glm-5.3"
+}

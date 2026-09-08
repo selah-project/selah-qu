@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Hinaspa Ashur apupa makinmanta qispichisaq qamta, hinaspa ⟨את⟩ kay llaqtata; kay llaqta patapi amachasaqmi.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "qispichisaq qamta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kay llaqtata"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kay llaqta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "hinaspa amachasaqmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kay llaqta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T06:21:07.401957697Z",
+  "model": "glm-5.3"
+}

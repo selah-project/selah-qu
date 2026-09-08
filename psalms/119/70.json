@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Q'ara ñawpaqnin hina lliphipin sonqonku; ñuqataq Toraykipi kusi kani.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "q'ara ñawpaqnin hina"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "lliphipin"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sonqonku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toraykipi"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "kusi kani"
+    }
+  ],
+  "timestamp": "2026-09-08T10:24:04.140121698Z",
+  "model": "glm-5.3"
+}

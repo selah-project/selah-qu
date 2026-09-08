@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Sunqup'akisqakunata hampiykachanmi, hinallataq nanayninkunata watachawanmi.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "hampiykachan"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "p'akisqa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "hinallataq watachawan"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "nanayninkupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:12.127851897Z",
+  "model": "glm-5.3"
+}

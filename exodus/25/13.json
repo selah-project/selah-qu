@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa k'aspikunata shittim sach'amanta-m ruwanki, hinaspa ⟨את⟩ quriwan llut'anki.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruwanki"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "k'aspikunata"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "hinaspa quriwan llut'anki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "quriwan llut'asqa k'aspikunata"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    }
+  ],
+  "timestamp": "2026-09-08T00:36:37.375366834Z",
+  "model": "glm-5.3"
+}

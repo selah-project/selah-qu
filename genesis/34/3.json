@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Hinaspa nefeshninqa (kawsay-nin) Dinaman, Yaakovpa wawanman, waylla karqan; hinaspa ⟨את⟩ waynata munarqan, hinaspa waynapa sonqonman allin simikunata rimarqan.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "waylla karqan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshninqa (kawsay-nin)"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "Dinaman"
+    },
+    {
+      "surface": "בת",
+      "gloss": "wawanman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "munarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waynata"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "waynata"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sonqonman"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "waynapa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:01:33.272845629Z",
+  "model": "glm-5.3"
+}

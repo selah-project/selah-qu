@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Elohim nirqanmi: «K'anchaykuna kanña hanaq pachap wasichaqninpi, p'unchawwan tutawan t'aqanankupaq; hinaspa unanchakunapaq, kutichiy pachakunapaq, p'unchawkunapaq, watakunapaqpas.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Hinaspa nirqanmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kanña"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "k'anchaykuna"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "wasichaqninpi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "t'aqanankupaq"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…wan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchawwan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "tutawan"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "hinaspa kanankupaq"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "unanchakunapaq"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "kutichiy pachakunapaq"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "p'unchawkunapaq"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "watakunapaqpas"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:29.305855800Z",
+  "model": "glm-5.3"
+}

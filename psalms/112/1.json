@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 112,
+  "translation": "Yah-ta yupaychaychik. Ichhusmi allin kawsayniyuq runa, Yahweta ⟨את⟩ manchakuq, paypa kamachikuyninwan sinchata kusik'uq.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ichhus allin kawsayniyuq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "manchakuq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "paypa kamachikuyninwan"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kusik'uq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:04.362524374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa kohenm ⟨chayta⟩ mizbeajpi ruphachinqa, Yahwepaq isheh mikhata hina.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "hinaspa ruphachinqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mizbeajpi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mikhata"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isheh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:41.354648165Z",
+  "model": "glm-5.3"
+}

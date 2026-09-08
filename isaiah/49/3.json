@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Hinaspa ñuqaman nirqan: Qam ñuqap siervoy kanki, Israel; qampiwi k'anchakusaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Hinaspa ... nirqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ñuqap siervoy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qam ... kanki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨maypin⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampiwi"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "k'anchakusaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:32:14.138379531Z",
+  "model": "glm-5.3"
+}

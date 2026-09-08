@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 113,
+  "translation": "Yahweqa llapa llawk'asqa runa llaqtakunamanta hanaqmi; paypa gloriann hanaq pachamanta hanaqmi.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "hanaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta hanaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "llawk'asqa runa llaqtakuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta hanaq"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "paypa gloriann"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:53.928332832Z",
+  "model": "glm-5.3"
+}

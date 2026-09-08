@@ -1,0 +1,69 @@
+{
+ "tier": "glm-5.2",
+ "verse": 44,
+ "ref": "exodus 29:44",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 29,
+ "translation": "Tariy Wasita, altartawan, Aharonta wawankunatawanmi q'ala hawasaq, ñuqapaq kohen kanankupaq.",
+ "tokens": [
+  {
+   "surface": "וקדשתי",
+   "gloss": "q'ala hawasaqmi"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Tariy Wasita"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "Tariy Wasita"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "Tariy (moed)"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "altarta"
+  },
+  {
+   "surface": "המזבח",
+   "gloss": "altarta"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Aharonta"
+  },
+  {
+   "surface": "אהרן",
+   "gloss": "Aharon"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "wawankunata"
+  },
+  {
+   "surface": "בניו",
+   "gloss": "wawankunata"
+  },
+  {
+   "surface": "אקדש",
+   "gloss": "q'ala hawasaq"
+  },
+  {
+   "surface": "לכהן",
+   "gloss": "kohen kanankupaq"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqapaq"
+  }
+ ],
+ "timestamp": "2026-09-08T00:40:41.144816329Z",
+ "model": "glm-5.3"
+}

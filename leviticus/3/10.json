@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa ⟨את⟩ iskay riñonkunatawan, hinaspa ⟨את⟩ paykunapatan wiran kaqta, k'eskunkuna patanpi kaqtawan; hinaspa ⟨את⟩ k'igaru tiqninta, riñonkuna tiqnanpi hurqunqa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "iskay riñonkunata"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "riñonkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wiran"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "wiran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "paykunapatan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "k'eskunkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "k'igaru tiqninta"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "tiqninta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "k'igaru"
+    },
+    {
+      "surface": "על",
+      "gloss": "tiqnanpi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "riñonkuna"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "hurqunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:41.352270223Z",
+  "model": "glm-5.3"
+}

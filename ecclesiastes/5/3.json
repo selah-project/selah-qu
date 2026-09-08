@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Elohimman neder ruraptiyki, ama hunt'ananmanta huñariychu; imaraykuchus haq'uyuqkunapi khuyakuy mana ⟨kan⟩chu; imata neder ruraptiyki, hunt'ay ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "kaptiyki"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "neder ruraptiyki"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "neder"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "huñariychu"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "hunt'ananmanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "khuyakuy"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "haq'uyuqkunapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata neder ruraptiyki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "neder ruraptiyki"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "hunt'ay"
+    }
+  ],
+  "timestamp": "2026-09-08T11:42:57.812077524Z",
+  "model": "glm-5.3"
+}

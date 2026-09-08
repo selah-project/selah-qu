@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspataq ⟨את⟩ sirwinta warmipa churinta llapan runa mit'aman t'ikrasqayki, imaraykuchus payqa mitarki kaptinmi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Hinaspataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churinta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "sirwinta warmipa"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "llapan runa mit'aman"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "t'ikrasqayki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mitarki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "payqa kaptinmi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:40.412289487Z",
+  "model": "glm-5.3"
+}

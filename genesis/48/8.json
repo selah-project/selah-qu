@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Hinaspa Israel rikurqan ⟨את⟩ Yosefpa churinkunata, nirqanmi: Paykuna pi kanku?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefpa churinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefpa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:18:13.028549740Z",
+  "model": "glm-5.3"
+}

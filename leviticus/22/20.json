@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "llapa imapas mayqinpi nanay kachkan, chayta ama apankichikchu; chayqa manam qaspachaw kaqchu kanqachikpaq",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "מום",
+      "gloss": "nanay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama -chu"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "apankichik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "qaspachaw"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "-chikpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:08:04.915495030Z",
+  "model": "glm-5.3"
+}

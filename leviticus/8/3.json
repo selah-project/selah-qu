@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "hinaspa ⟨את⟩ llapa aylluta huñuy Tupanakuy Karpap ñawninman.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa aylluta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aylluta"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "huñuy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ñawnin"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Karpap"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Tupanakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T00:52:37.999686428Z",
+  "model": "glm-5.3"
+}

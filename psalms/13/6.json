@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Ñuqataq jesedniykiwanmi much'urqani; sunquy qespichiykipi kusikunqa; Yahwemanmi takini, imaraykuchus paymi ñuqawan sumaqta rurakurqan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "jesedniykiwan"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "much'urqani"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "kusikunqa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquy"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "qespichiykipi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "takini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "sumaqta rurakurqan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:31.313814691Z",
+  "model": "glm-5.3"
+}

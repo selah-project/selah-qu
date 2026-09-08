@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Yahwem Mitsrayimmanta lluqsichirqanmi ñuqanchikta sinchi makiwan, mast'arisqa makikawan, hatun manchariywan, unanchakunawan, hatun rikhurimaykunawan.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "lluqsichirqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makiwan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "makikawan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "mast'arisqa"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "manchariywan"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "unanchakunawan"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "hatun rikhurimaykunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:52:37.933914993Z",
+  "model": "glm-5.3"
+}

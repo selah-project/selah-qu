@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 96,
+  "translation": "Hatun kaynin hinallataq wiñay sumaq rikch'aynin ñawpaqninpi; atiyninwan k'anchayninqa willka wasinpi.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "hatun kaynin"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "hinallataq wiñay sumaq rikch'aynin"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "atiyninwan"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "k'anchayninqa"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "willka wasinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:03.824060715Z",
+  "model": "glm-5.3"
+}

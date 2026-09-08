@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspam chay ⟨את⟩ paykunap wañusqankunata apaq p'achankunata mayunchinqan, hinaspa q'ata kanqa inti chinkaykaman; q'atakunami paykuna qamkunapaq.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "hinaspam apaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wañusqankunata"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "paykunap wañusqankunata"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "mayunchinqan"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "p'achankunata"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "hinaspa q'ata kanqa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kaman"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "inti chinkay"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "q'atakunami"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:06:59.635554300Z",
+  "model": "glm-5.3"
+}

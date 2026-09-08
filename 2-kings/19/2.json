@@ -1,0 +1,87 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "2-kings 19:2",
+ "book": "2-kings",
+ "lang": "qu",
+ "chapter": 19,
+ "translation": "Hinaspa kacharqan ⟨את⟩ Eliyakimta (Eliacim), wasinta kamakuqta, Shevnata qillqaqta, hinaspa ⟨את⟩ kohenkunaq kurakakunata — saqtakunawan p'achakuspa — Yeshayahu (Isaías) navi man, Amotspa churin.",
+ "tokens": [
+  {
+   "surface": "וישלח",
+   "gloss": "kacharqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Eliyakimta"
+  },
+  {
+   "surface": "אליקים",
+   "gloss": "Eliyakimta"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kamakuq"
+  },
+  {
+   "surface": "על",
+   "gloss": "patapi"
+  },
+  {
+   "surface": "הבית",
+   "gloss": "wasinta"
+  },
+  {
+   "surface": "ושבנא",
+   "gloss": "Shevnata"
+  },
+  {
+   "surface": "הספר",
+   "gloss": "qillqaqta"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "kohanimkunaq kurakakunata"
+  },
+  {
+   "surface": "זקני",
+   "gloss": "kurakakunata"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "kohenkunaq"
+  },
+  {
+   "surface": "מתכסים",
+   "gloss": "p'achakuspa"
+  },
+  {
+   "surface": "בשקים",
+   "gloss": "saqtakunawan"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "ישעיהו",
+   "gloss": "Yeshayahu"
+  },
+  {
+   "surface": "הנביא",
+   "gloss": "navi"
+  },
+  {
+   "surface": "בן",
+   "gloss": "churin"
+  },
+  {
+   "surface": "אמוץ",
+   "gloss": "Amotspa"
+  }
+ ],
+ "timestamp": "2026-09-08T13:44:47.542347848Z",
+ "model": "glm-5.3"
+}

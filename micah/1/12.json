@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Imaraykuchus Marotpi tiyaqqa allinta suyaruspa muchukurqan; imaraykuchus millayqa Yahwemanta ⟨את⟩ urmaykamurqanmi Yerushalayimpan punkunman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "muchukurqan"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "allinpaq"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marotpi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "urmaykamurqan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "millay"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manta ⟨את⟩",
+      "marks": "millay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "punkunman"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpam"
+    }
+  ],
+  "timestamp": "2026-09-08T09:03:53.221169561Z",
+  "model": "glm-5.3"
+}

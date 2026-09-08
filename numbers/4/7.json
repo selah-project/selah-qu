@@ -1,0 +1,101 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "numbers 4:7",
+ "book": "numbers",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Uyapa siq'anpatam tekhelet p'achawan t'ikranqaku, hinaspa chayman churanqaku ⟨את⟩ tiyanakunata, hinaspa ⟨את⟩ k'aptakunata, hinaspa ⟨את⟩ mankiykunata, hinaspa ⟨את⟩ nesek qisakunata; wiñay t'antaqa chaypim kanqa.",
+ "tokens": [
+  {
+   "surface": "ועל",
+   "gloss": "chay"
+  },
+  {
+   "surface": "שלחן",
+   "gloss": "siq'an"
+  },
+  {
+   "surface": "הפנים",
+   "gloss": "Uyapa"
+  },
+  {
+   "surface": "יפרשו",
+   "gloss": "t'ikranqaku"
+  },
+  {
+   "surface": "בגד",
+   "gloss": "p'acha"
+  },
+  {
+   "surface": "תכלת",
+   "gloss": "tekhelet"
+  },
+  {
+   "surface": "ונתנו",
+   "gloss": "churanqaku"
+  },
+  {
+   "surface": "עליו",
+   "gloss": "chayman"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "tiyanakunata"
+  },
+  {
+   "surface": "הקערת",
+   "gloss": "tiyanakuna"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "k'aptakunata"
+  },
+  {
+   "surface": "הכפת",
+   "gloss": "k'aptakuna"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "mankiykunata"
+  },
+  {
+   "surface": "המנקית",
+   "gloss": "mankiykuna"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "qisakunata"
+  },
+  {
+   "surface": "קשות",
+   "gloss": "qisakuna"
+  },
+  {
+   "surface": "הנסך",
+   "gloss": "nesek"
+  },
+  {
+   "surface": "ולחם",
+   "gloss": "t'anta"
+  },
+  {
+   "surface": "התמיד",
+   "gloss": "wiñay"
+  },
+  {
+   "surface": "עליו",
+   "gloss": "chaypi"
+  },
+  {
+   "surface": "יהיה",
+   "gloss": "kanqa"
+  }
+ ],
+ "timestamp": "2026-09-08T01:16:33.501106378Z",
+ "model": "glm-5.3"
+}

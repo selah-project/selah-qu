@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Qori q'umarakuna kimsa chunka, qullqi q'umarakuna iskay ñiqin t'aqa tawa pachak chunka hukniyuq, wak imakunawan waranqa.",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "q'umarakuna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qori"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "q'umarakuna"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "iskay ñiqin t'aqa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "chunka hukniyuq"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "imakuna"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wak"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:04:28.678767708Z",
+  "model": "glm-5.3"
+}

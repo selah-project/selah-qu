@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chaymi Israel wiñacha karqan, chaymi payta khuyarqani; hinaspa Mitsrayim (Egipto) mantam wawayta qaywarqani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "wiñacha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "chaymi payta khuyarqani"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "hinaspa Mitsrayim mantam"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "qaywarqani"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawayta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:20.567288914Z",
+  "model": "glm-5.3"
+}

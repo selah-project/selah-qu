@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa wawam wiñarqan, ñuñumanta t'aqakurqan; hinaspa Abrahamqa hatun mikhunakuyta ruwarqan, ⟨את⟩ Itsjak ñuñumanta t'aqasqan p'unchawpi.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "Hinaspa wiñarqan"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "ñuñumanta t'aqakurqan"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "hinaspa ruwarqan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mikhunakuyta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "ñuñumanta t'aqasqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Itsjakta"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjak"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:06.311502190Z",
+  "model": "glm-5.3"
+}

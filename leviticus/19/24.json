@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa chusku ñiqin watapi llapan rurun santu kanqam, haylli hayllinapaq Yahwepaq.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "hinaspa watapi"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "chusku ñiqin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "rurun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santu"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "haylli hayllinapaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:06:40.684194373Z",
+  "model": "glm-5.3"
+}

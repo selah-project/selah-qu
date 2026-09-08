@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Israelpa churinkunam phalachurqanku, askha t'ikrakurqanku, mirarqanku, sinchitawan sinchi atiyniyuq tukurqanku; hinaspa hallp'a ⟨את⟩ paykunata hunt'arqan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "hinaspa churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "phalachurqanku"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "askha t'ikrakurqanku"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "mirarqanku"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "sinchi atiyniyuq tukurqanku"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "sinchita"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchita"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "hunt'arqan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:19:03.726177305Z",
+  "model": "glm-5.3"
+}

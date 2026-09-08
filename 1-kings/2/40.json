@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Shim'itaq sayarirqanmi, ⟨את⟩ asnonta siq'arqan, hinaspa Akishman Gatman rirqan, ⟨את⟩ servuyninta maskananpaq. Chaysi Shim'i rirqan, hinaspa ⟨את⟩ servuyninta Gatmanta apamurqan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqanmi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shim'i"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "siq'arqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asnonta"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "asnon"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "Gatman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "maskananpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "servuyninta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "servuynin"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shim'i"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "apamurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "servuyninta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "servuynin"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "Gatmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:57:48.463317968Z",
+  "model": "glm-5.3"
+}

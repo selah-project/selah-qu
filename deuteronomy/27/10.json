@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "deuteronomy 27:10",
+ "book": "deuteronomy",
+ "lang": "qu",
+ "chapter": 27,
+ "translation": "Hinaspa Yahwe Elohimniykipa kunkanta uyariwanki, hinaspa paypa kamachikunkunata, paypa jukllata kunanmanta hunt'awanki, ⟨את⟩ kamachikuykunata, ⟨את⟩ paypa estatutonkunata, mayqinkunata ñuqam kunan p'unchaw qamman kamachini.",
+ "tokens": [
+  {
+   "surface": "ושמעת",
+   "gloss": "uyariwanki"
+  },
+  {
+   "surface": "בקול",
+   "gloss": "kunkanta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיך",
+   "gloss": "Elohimniyki"
+  },
+  {
+   "surface": "ועשית",
+   "gloss": "hunt'awanki"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kamachikuykunata"
+  },
+  {
+   "surface": "מצותו",
+   "gloss": "paypa kamachikuykunata"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩"
+  },
+  {
+   "surface": "חקיו",
+   "gloss": "paypa estatutonkunata"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqinkunata"
+  },
+  {
+   "surface": "אנכי",
+   "gloss": "ñuqa"
+  },
+  {
+   "surface": "מצוך",
+   "gloss": "kamachini"
+  },
+  {
+   "surface": "היום",
+   "gloss": "kunan p'unchaw"
+  }
+ ],
+ "timestamp": "2026-09-08T02:53:37.842803465Z",
+ "model": "glm-5.3"
+}

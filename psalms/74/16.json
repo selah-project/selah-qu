@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Qampami punchaw, qampataq tuta; Qammi ⟨את⟩ k'anchayta, intitawan sayarichirqanki.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Qampami"
+    },
+    {
+      "surface": "יום",
+      "gloss": "punchaw"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qampataq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "sayarichirqanki"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "k'anchayta"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "intitawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:38.120195347Z",
+  "model": "glm-5.3"
+}

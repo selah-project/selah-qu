@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 13:24",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Jazaeltam, Arampa apun, wañurqan; Ben Hadadmi, churiynin, paynantin apu karqan.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Jazaeltam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arampa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "apu karqan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadmi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churiynin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "paynantin"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:51.432053251Z",
+  "model": "glm-5.3"
+}

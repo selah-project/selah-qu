@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Hinaspa**m** rurqan ⟨את⟩ k'aspakunata Mishkanpaq: iskay chunka k'aspakuna Inti chinkana kinrayman, ulla.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hinaspa rurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'aspakunata"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "k'aspakuna"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkanpaq"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "k'aspakuna"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "kinrayman"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Inti chinkana"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ulla"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:20.969695749Z",
+  "model": "glm-5.3"
+}

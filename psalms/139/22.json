@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Hunt'a ikikuywanmi paykunata ikikuni; awqaqkunam tukurqanku ñuqap.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ikikuy"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ikikuni paykunata"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "awqaqkuna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tukurqanku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:17.027795286Z",
+  "model": "glm-5.3"
+}

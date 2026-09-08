@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Elohimqa sapalla kawsaqkunata wasiyuq wasichakunachaqmi, wichqasqa captivokunata kushi kawsayman lluqsichin; ichataq mana kasukuqkunaqa ch'aki sach'a-sapa pachallapi tiyanku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimqa"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "wasiyuq wasichakunachaqmi"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "sapalla kawsaqkunata"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "wasiyuq"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "lluqsichin"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "wichqasqa captivokunata"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "kushi kawsayman"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ichataq"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "mana kasukuqkunaqa"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "tiyanku"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "ch'aki sach'a-sapa pachallapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:08.580702709Z",
+  "model": "glm-5.3"
+}

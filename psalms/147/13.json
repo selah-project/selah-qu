@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Imaraykum ⟨pay⟩ punkuykikunap t'aqrakunata sinchichirqanmi, wawaykikunata chawpiykipi bendisiyarqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sinchichirqanmi"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "t'aqrakunata"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "punkuykikunap"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bendisiyarqan"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wawaykikunata"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "chawpiykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:59.694883276Z",
+  "model": "glm-5.3"
+}

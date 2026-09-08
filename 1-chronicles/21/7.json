@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chay rurayqa Elohimpa ñawinpi mana allinmi tukurqan, chayraykum ⟨את⟩ Israelta wak'ayarqan.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "mana allinmi tukurqan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kaywan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ruray"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wak'ayarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T12:46:49.255623849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Wañusqakunaman pajtakunatachu ruranki? Utaq Refaimkuna sayarispachu much'aywanqaku qamta? Sela.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "wañusqakunaman"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruranki"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "pajtakunata"
+    },
+    {
+      "surface": "אם",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaimkuna"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "sayarinqaku"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "much'aywanqaku qamta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:42.460012968Z",
+  "model": "glm-5.3"
+}

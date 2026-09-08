@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Ichataq kayta ⟨את⟩ ama mikunkichikchu: jerata wicharichiqkunamanta, parsa t'aqakuqkunamanta. Gamelta ⟨את⟩ — jerata wicharichiqmi, icha parsatataq mana t'aqanchu; payqa imchikipaq manam p'uchuchasqachu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ichataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikunkichikchu"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "wicharichiqkunamanta"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "jerata"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "parsa t'aqakuqkunamanta"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "parsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gamelta"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "gamelta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "wicharichiq"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "jerata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "parsatataq"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "t'aqanchu"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "manam p'uchuchasqachu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "imchikipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:17.267637851Z",
+  "model": "glm-5.3"
+}

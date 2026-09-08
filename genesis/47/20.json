@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Yosefm ⟨את⟩ llapan Mitsrayimpa (Egipto) hallp'ata Paropaq rantirqan, imarayku Mitsrayim runakuna sapanalla chacranmanta ranqarqanku, imarayku yarqay paykunaman sinchiyarqan; chaym hallp'a Paroppa tukurqan.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "rantirqan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan Mitsrayimpa hallp'ata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paropaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ranqarqanku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim runakuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapanalla"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "chacranmanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sinchiyarqan"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "yarqay"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paroppa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:18:43.369148Z",
+  "model": "glm-5.3"
+}

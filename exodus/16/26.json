@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Suqta p'unchaw huñankichik ⟨chayta⟩, qanchis ñiqin p'unchawtaq Shabatmi, chaypiqa mana kanqachu.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Suqta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "huñankichik ⟨chayta⟩"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "qanchis ñiqin p'unchawtaq"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "qanchis ñiqin"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ...chu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:02.291111395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Llullap rimaqkunata chinkachinki; Yahwem yawar-munqayuqta, llullap chunkatawan ch'ikin.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "chinkachinki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimaqkunata"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "llullap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runata"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "yawar-munqayuqta"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "llullap chunkatawan"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "ch'ikin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:40.480093673Z",
+  "model": "glm-5.3"
+}

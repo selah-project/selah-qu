@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Ñuqap qampawaykikita k'anchaykachaw runa qampam: imi kamachikuysapa ñuqata yachachikun — ⟨את⟩ ñuqap chiqan kamachikuyninta.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "qampawaykikita"
+    },
+    {
+      "surface": "האר",
+      "gloss": "k'anchaykachaw"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "runa qampam — ñuqap"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "yachachikun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap chiqan kamachikuyninta"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "ñuqap chiqan kamachikuyninta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:24:56.332285843Z",
+  "model": "glm-5.3"
+}

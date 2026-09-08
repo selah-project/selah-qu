@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Karqanmi: Abrampam (Abraham) Mitsrayinman (Egipto) chayaspa, Mitsrayim runakuna ⟨את⟩ warminta qhawarqanku, payqa ancha sumaqmi karqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "chayaspa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayinman"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "qhawarqanku"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "Mitsrayim runakuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warminta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ancha"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:18.724088614Z",
+  "model": "glm-5.3"
+}

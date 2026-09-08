@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Q'intichirqayki ⟨את⟩ tenuphapa chhasanta, hinaspa ⟨את⟩ terumapa chakinta, mayqin wayrasqa karqan hinaspa mayqin huqarisqa karqan, Aharonpa millay karnaqanmanta, Aharonpaq kaqmanta hinaspa paypa churinkunapaq kaqmanta.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "q'intichirqayki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chhasanta"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "chhasa"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "tenuphapa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chakinta"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "chaki"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "terumapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "wayrasqa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "hinaspa mayqin"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "huqarisqa"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "karnaqamanta"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "millaypa"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kaqmanta"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonpaq"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "hinaspa kaqmanta"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "churinkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:41:22.260028918Z",
+  "model": "glm-5.3"
+}

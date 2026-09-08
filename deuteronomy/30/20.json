@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 30:20",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "⟨את⟩ Yahweta, Elohimniykita khuyanaykipaq, paypa siminta uyariynaykipaq, payman ch'anqanaykipaqwan — paymi kawsayniyki, p'unchawkunaykipa suninpas — Yahwe ayawkunaman jururqanmi chay hallp'api tiyanaykipaq: Abrahamman (Abrahánman), Itsjakman (Isaacman), hinaspa Yaakovman (Jacobman), chayta paykunaman qunanpaq.",
+  "tokens": [
+    {
+      "surface": "לאהבה",
+      "gloss": "khuyanaykipaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "uyariynaykipaq"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "paypa siminta"
+    },
+    {
+      "surface": "ולדבקה",
+      "gloss": "ch'anqanaykipaqwan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "kawsayniyki"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "sunin"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "p'unchawkunaykipa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "tiyanaykipaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "jururqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ayawkunaman"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamman"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Itsjakman"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "hinaspa Yaakovman"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "qunanpaq"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T03:02:45.218271370Z",
+  "model": "glm-5.3"
+}

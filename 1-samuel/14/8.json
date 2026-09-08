@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yehonatanm nirqan: Qawariy, kay runakunamanmi ñawinchakushanchik, chaymanta rikurinchikta paykunaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Qawariy"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñuqanchik"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ñawinchakushanchik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kay runakuna"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "rikurinchikta"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:14:32.280336258Z",
+  "model": "glm-5.3"
+}

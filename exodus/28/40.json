@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 28:40",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Aharonpa churinkunapaqmi unkukunata ruwanki, chumpikunata ruwanki paykunapaq, q'anchi chukkikunatapampas paykunapaq ruwanki, sumaq kaypaq, k'anchaypaq.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "churinkunapaq"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "unkukuna"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "אבנטים",
+      "gloss": "chumpikuna"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "q'anchi chukkikuna"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "sumaq kaypaq"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "k'anchaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:12.835171142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Yahweta ⟨את⟩ bendecisqaymi, paymi ñuqaman yuyayta quwan; tutaspipas ñuqap ukhu sunquywan yachachinmi.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "bendecisqaymi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "ñuqaman yuyayta quwan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chaynapuni"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "tutaspipas"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "yachachin"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "ñuqap ukhu sunquywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:13.739283560Z",
+  "model": "glm-5.3"
+}

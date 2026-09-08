@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yachachikuyta k'uyaqmi yachaytakun k'uyan; icha chiqanchakuypa willakuqninta ch'iqiqqa uywa hina ñawpaq kamarisqam.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "k'uyaq"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "yachachikuyta"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "k'uyan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "icha ... ch'iqiq"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "chiqanchakuypa willakuqninta"
+    },
+    {
+      "surface": "בער",
+      "gloss": "uywa hina ñawpaq kamarisqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:41:53.669750535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Sojtaqa sumaq rumim pay kamachiypa ñawinpi; maymanpas t'ikraspa, llapanmi allinta tukun.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "sojta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "pay kamachiypa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maymanpas"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "t'ikraspa"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "allinta tukun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:45:11.160851733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Allin rurasqaypaq millaytami kutichirqanku — nefeshniy wawanta chinkachisqa hina.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "kutichirqanku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "millayta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "paq"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "allin rurasqay"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "wawanta chinkachisqa hina"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefeshniy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:32.367917539Z",
+  "model": "glm-5.3"
+}

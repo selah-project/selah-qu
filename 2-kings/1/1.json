@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ajavpa wañuynin qhipanmantaq Moavmi Israelpa hark'anmanta t'ikrakurqan.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "t'ikrakurqan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpa hark'anmanta"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipanmantaq"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuynin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajav"
+    }
+  ],
+  "timestamp": "2026-09-08T05:23:32.960038249Z",
+  "model": "glm-5.3"
+}

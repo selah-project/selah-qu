@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa Mordejaiman willarqankum ⟨את⟩ Esterpa rimasqankunata.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "hinaspa willarqanku"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordejaiman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esterpa rimasqankunata"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimasqankunata"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-08T11:45:04.199229106Z",
+  "model": "glm-5.3"
+}

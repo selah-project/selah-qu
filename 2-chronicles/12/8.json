@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chaypas paypa yanapanankum kanqa, chayrayku ñuqap yanapayniyta, hallp'akunap mamallqta apu ynankunap yanapayninkunatapas yachanqakum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaypas"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "yanapanankum"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "yachanqakum"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "ñuqap yanapayniyta"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "yanapayninkunatapas"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "apu ynankunap"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "hallp'akunap mamallqta"
+    }
+  ],
+  "timestamp": "2026-09-08T13:03:37.767529264Z",
+  "model": "glm-5.3"
+}

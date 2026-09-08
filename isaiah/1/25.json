@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa makillayta qampi kutichisaqmi, hinaspa borax hina chaqlluykita ñit'isaqmi, hinaspa llapan estañoykita hurqusaqmi.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "hinaspa kutichisaqmi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makillayta"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "hinaspa ñit'isaqmi"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "borax hina"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "chaqlluykita"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "hinaspa hurqusaqmi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "estañoykita"
+    }
+  ],
+  "timestamp": "2026-09-08T05:49:57.381687419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Kunantaq, mañaqay, ⟨את⟩ apuniykiwan tinkunakuy — Ashurpa apunwan; iskay waranqa suykunata qusaqki, chaypi purichiqkunata churayta atinqta kaptinki.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה",
+      "gloss": "Kunantaq"
+    },
+    {
+      "surface": "הִתְעָרֶב",
+      "gloss": "tinkunakuy"
+    },
+    {
+      "surface": "נָא",
+      "gloss": "mañaqay"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "apuniyki, Ashurpa apun"
+    },
+    {
+      "surface": "אֲדֹנִי",
+      "gloss": "apuniyki"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "apu"
+    },
+    {
+      "surface": "אַשּׁוּר",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וְאֶתְּנָה",
+      "gloss": "qusaqki"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אַלְפַּיִם",
+      "gloss": "iskay waranqa"
+    },
+    {
+      "surface": "סוּסִים",
+      "gloss": "suykuna"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "kaptinki"
+    },
+    {
+      "surface": "תּוּכַל",
+      "gloss": "atinqta"
+    },
+    {
+      "surface": "לָתֵת",
+      "gloss": "churayta"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "רֹכְבִים",
+      "gloss": "purichiqkuna"
+    },
+    {
+      "surface": "עֲלֵיהֶם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:35:02.081681010Z",
+  "model": "glm-5.3"
+}

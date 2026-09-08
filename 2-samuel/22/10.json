@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 22:10",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hanaq pachata wancharqanmi hinaspa urayarirqan; q'oron llanthu paypa chakinnin uranpi.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "wancharqan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "urayarirqan"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "hinaspa q'oron llanthu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uranpi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "paypa chakinnin"
+    }
+  ],
+  "timestamp": "2026-09-08T04:53:52.973719277Z",
+  "model": "glm-5.3"
+}

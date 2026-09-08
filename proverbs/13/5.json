@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Pisi chiqtay rimata chiqan runa ch'ikikun; ichataq haq'llu runaqa anchata milluchikun, hinarqachakunpuni.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "rimata"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "pisi chiqtay"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ch'ikikun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "chiqan runa"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ichataq haq'llu runa"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "anchata milluchikun"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "hinarqachakun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:45.797202234Z",
+  "model": "glm-5.3"
+}

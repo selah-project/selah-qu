@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Yachachisaqmi ama panteqkunaman ñañakuniykikta; huchallikuqkunaq qampaman kutinqaku.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "yachachisaq"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "ama panteqkunaman"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ñañakuniyki"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "huchallikuqkunaq"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qampaman"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "kutinqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:34.346518049Z",
+  "model": "glm-5.3"
+}

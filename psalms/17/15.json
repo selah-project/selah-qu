@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "psalms 17:15",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 17,
+ "translation": "Ñuqataq cheqan kaywan qawasaq ñawiykikunata; saksasaq upt'iqtinqa rikch'ayniykiwan.",
+ "tokens": [
+  {
+   "surface": "אני",
+   "gloss": "ñuqa"
+  },
+  {
+   "surface": "בצדק",
+   "gloss": "cheqan kaywan"
+  },
+  {
+   "surface": "אחזה",
+   "gloss": "qawasaq"
+  },
+  {
+   "surface": "פניך",
+   "gloss": "ñawiykikunata"
+  },
+  {
+   "surface": "אשבעה",
+   "gloss": "saksasaq"
+  },
+  {
+   "surface": "בהקיץ",
+   "gloss": "upt'iqtinqa"
+  },
+  {
+   "surface": "תמונתך",
+   "gloss": "rikch'ayniykiwan"
+  }
+ ],
+ "timestamp": "2026-09-08T09:34:53.670137912Z",
+ "model": "glm-5.3"
+}

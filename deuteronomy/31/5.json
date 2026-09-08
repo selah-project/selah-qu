@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Yahwem paykunata qamkunap ñawpaqninkupi qonqa; chaymanta paykunaman tukuy kamachikuypa hinata rurankichik, mayqinta ñuqap qamkunaman kamachirqay.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "qonqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "qamkunap ñawpaqninkupi"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "chaymanta rurankichik"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tukuy…hina"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "kamachikuypa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ñuqap kamachirqay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:03:55.212602205Z",
+  "model": "glm-5.3"
+}

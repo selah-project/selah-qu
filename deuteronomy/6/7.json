@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaykunata churiykimanta yachachinkim, hinaspa chaymanta rimanki tiyaskiptiyki wasiyki ukhupi, puriskiptiyki ñanpi, puñuskiptiyki, sayariskiptiykipas.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "yachachinki"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "churiykimanta"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "rimanki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "tiyaskiptiyki"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "wasiyki ukhupi"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "puriskiptiyki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "puñuskiptiyki"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "sayariskiptiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T02:30:43.754215655Z",
+  "model": "glm-5.3"
+}

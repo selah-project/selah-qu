@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 7:16",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Kutirqanku, icha mana Hananman; llulla illanahina tukurqankum. Paykunap apunkuna churikunawan urmakunqakum, siminkunap chirirqninrayku; kaymi paykunap qhusyachisqanku Mitsrayim (Egipto) hallp'api.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "kutirqanku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "על",
+      "gloss": "Hananman"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tukurqanku"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "illana hina"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "urmakunqaku"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "churikunawan"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "paykunap apunkuna"
+    },
+    {
+      "surface": "מזעם",
+      "gloss": "chirirqninrayku"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "siminkunap"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעגם",
+      "gloss": "qhusyachisqa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    }
+  ],
+  "timestamp": "2026-09-08T08:49:22.548518510Z",
+  "model": "glm-5.3"
+}

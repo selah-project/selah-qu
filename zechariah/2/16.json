@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Yahwem ⟨את⟩ Yehudata (Judá) paypa chanan hina santa hallp'api chaskinqam; hinaspa Yerushalayimta (Jerusalén) wakmanta akllasqam.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "chaskinqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudata (Judá)"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "paypa chanan hina"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santa"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "hinaspa akllasqa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wakmanta"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimta (Jerusalén)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:18:07.518380423Z",
+  "model": "glm-5.3"
+}

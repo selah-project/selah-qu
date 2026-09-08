@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Yahwepaq millanakuymi llapan chayta ruraq; chay millanakuykuna rayku Yahwe Elohimniyki ⟨את⟩ paykunata qampa ñawpaqenmanta qarqushan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "millanakuy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "chay millanakuykuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "qarqushan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata (chay runakunata)"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "qampa ñawpaqenmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:44:25.856368589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Ama hunt'aspa simiyman hurqusunkichu cheqan rimayta, imaraykuchus taripayniykiqmi suyasaq.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "hurqusunkichu"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "simiyman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hunt'aspa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "taripayniykiq"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "suyasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:24.210825322Z",
+  "model": "glm-5.3"
+}

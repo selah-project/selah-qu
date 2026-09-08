@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Asllam allinmi chaqnasqa runapaq, wasaqakunap askha qollqenmanta aswan.",
+  "tokens": [
+    {
+      "surface": "טוֹב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "מְעַט",
+      "gloss": "asllam"
+    },
+    {
+      "surface": "לַצַּדִּיק",
+      "gloss": "chaqnasqa runapaq"
+    },
+    {
+      "surface": "מֵהֲמוֹן",
+      "gloss": "qollqenmanta"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "wasaqakunap"
+    },
+    {
+      "surface": "רַבִּים",
+      "gloss": "askha"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:44.790328196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 12:12",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chaymanta yupasqa ⟨את⟩ qollqeta Yahwepa wasin llamk'anata kamachiq runakunap makinman churarqanku; chayta Yahwepa wasinpi llamk'aq sach'a kamayuqkunaman hinaspa wasita ruwaqkunaman karqarqanku.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "churarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qollqeta"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qollqeta"
+    },
+    {
+      "surface": "המתכן",
+      "gloss": "yupasqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man"
+    },
+    {
+      "surface": "יד",
+      "gloss": "makinman"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "llamk'aq"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "llamk'anata"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "kamachiq runakunap"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ויוציאהו",
+      "gloss": "karqarqanku"
+    },
+    {
+      "surface": "לחרשי",
+      "gloss": "kamayuqkunaman"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "hinaspa ruwaqkunaman"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "llamk'aq"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:45:01.135811640Z",
+  "model": "glm-5.3"
+}

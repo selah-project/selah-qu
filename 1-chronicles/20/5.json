@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Chaymanta wakintinmi awqanakuy karqan ⟨את⟩ Pelishtimwan; hinaspa Eljananmi, Jaorpa (Jaír) churin, ⟨את⟩ Lajmita wañuchirqan, Golyatpa wawqinta, Gatmanta runata; chaypa sinrinkunap t'allanmi awayqkunap kurkurinhina karqan.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wakintin"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "awqanakuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtimwan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtimwan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Eljanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Jaorpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lajmita"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lajmita"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "wawqinta"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyatpa"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gatmanta runata"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "t'allan"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "sinrinkunap"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "kurkurinhina"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "awayqkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T12:46:05.604371061Z",
+  "model": "glm-5.3"
+}

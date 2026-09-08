@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 101,
+  "translation": "Sapa paqarintinmi hallp'apa llapa millay runankunata ñak'ay tukuchisaq: Yahwepa llaqtanmanta llapa mana allin ruraqkunata kuchunapaq.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "sapa paqarintinmi"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ñak'ay tukuchisaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "millay runankunata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'apa"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kuchunapaq"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "llaqtanmanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ruraqkunata"
+    },
+    {
+      "surface": "און",
+      "gloss": "mana allin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:51.319012660Z",
+  "model": "glm-5.3"
+}

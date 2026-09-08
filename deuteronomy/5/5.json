@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Ñuqam chay pachapi Yahwepa qamkunap chawpinpin sayarqani, qamkunaman ⟨את⟩ Yahwepa siminta willaypaq, imarayku ninapa ñawpaqen mancharqankichik, manam orqopiman siqarkunkichikchu nispa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "sayarqani"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "qamkunap chawpinpin"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "willaypaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa siminta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "mancharqankichik"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "האש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "siqarkunkichikchu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqopiman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:29:39.005904927Z",
+  "model": "glm-5.3"
+}

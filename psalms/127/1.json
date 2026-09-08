@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 127,
+  "translation": "Hanaq takillaq taki, Shlomo (Salomón)paq. Yahwem wasita mana ruraptin, wasi ruraqkunaqa ch'usaqllam llamk'anku chaypi; Yahwem llaqtata mana waqaychaptin, ch'usaqllam musuq waqaychaq.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hanaq takillaq"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shlomo (Salomón)paq"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mana … -chu kaptin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ruraptin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ch'usaqlla"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "llamk'anku"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "wasi ruraqkunaqa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mana … -chu kaptin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "waqaychaptin"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqtata"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ch'usaqlla"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "waqaychaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:36.815508890Z",
+  "model": "glm-5.3"
+}

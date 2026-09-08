@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Karqanm, Abrahampa serveqn ⟨את⟩ rimayninkuta uyarirqan, hallp'aman Yahweman p'akaykukurqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Karqan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "serveqn"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rimayninkuta"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "rimayninku"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "p'akaykukurqan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:00:45.313980831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Allinmi, chaqnillam Yahwe; chayrayku juchasapa runakunata ñanpi yachachinmi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "chaqnillam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "yachachinmi"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "juchasapa runakunata"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:55.440644493Z",
+  "model": "glm-5.3"
+}

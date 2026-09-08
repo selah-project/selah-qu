@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Yahwem qamman kachamunqam ⟨את⟩ mallita, ⟨את⟩ chhaqruyta, hinaspa ⟨את⟩ qheteriyta, makiykiwan hunt'achisqan llapa imapi, chikakunaykikama, usqhaylla chinkakunaykikamawan, mana allin rurasqaykikuna rayku, mayqenkuna ñuqata saqirgusqayki.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "kachamunqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mallita"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "mallita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chhaqruyta"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "chhaqruyta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qheteriyta"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "qheteriyta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa imapi"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "hunt'achisqan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykiwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruraptiyki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…kama"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "chikakunaykikama"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "chinkakunaykikama"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "usqhaylla"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "rurasqaykikuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenkuna"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ñuqata saqirgusqayki"
+    }
+  ],
+  "timestamp": "2026-09-08T02:57:27.637345822Z",
+  "model": "glm-5.3"
+}

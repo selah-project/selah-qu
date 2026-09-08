@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 37:14",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Payqa nirqan: «Riy ama hina, ⟨את⟩ awkiykikunap allinkayninta qhaway, ⟨את⟩ michu uywakunap allinkaynintawan; siminta kutichiwaway.» Chaysi Hebron wayq'omanta kacharqanmi, Shekhmanman chayarqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Riy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ama hina"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awkiykikunap allinkayninta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "allinkayninta"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "awkiykikunap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michu uywakunap allinkayninta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "allinkayninta"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "michu uywakunap"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "kutichiwaway"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "וישלחהו",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "מעמק",
+      "gloss": "wayq'omanta"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shekhmanman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:09:22.160339994Z",
+  "model": "glm-5.3"
+}

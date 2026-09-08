@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Ninim: Elniy, ama ñuqata hap'iywankichu chaupi p'unchawniyta; watakuna atanayniyki wiñay wiñay runa wata (malkuna) watakunallapi kachkan.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ninim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elniy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "ñuqata apariwankichu"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "chaupi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawniyta"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "runa watakunallapi"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "wata (malkuna) watakuna"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "watakuna atanayniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:52.703925569Z",
+  "model": "glm-5.3"
+}

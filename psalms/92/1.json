@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Mizmor (salm) taki, Shabat p'unchawpaq.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "p'unchawpaq"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:50.289034001Z",
+  "model": "glm-5.3"
+}

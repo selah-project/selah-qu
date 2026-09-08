@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Paqman Yahwepa ñanninkunapi wiñarqanmi, chaymantataq ⟨את⟩ hanaq wasichakunata, ⟨את⟩ Ashera wasikunatawan Yehudamanta hurqurqan.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "wiñarqanmi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "paqman"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ñanninkunapi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "chaymantataq"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanaq wasichakunata"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "hanaq wasichakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Ashera wasikunata"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Ashera wasikunatawan"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yehudamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T13:04:16.261116574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Hinaspa bad (k'asa) shitta sach'akunamanta rurarqan, ⟨את⟩ chaykunata qoriwan q'orchirqan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "rurarqan"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "bad (k'asa)"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'akunamanta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitta"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "q'orchirqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bad k'asakunata"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qoriwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:19.604136251Z",
+  "model": "glm-5.3"
+}

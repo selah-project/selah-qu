@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Ñawiykuna tukukapunmi simiypayki, ninpa: imaynataq ñuqata takyachiwanki?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "tukukapun"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiykuna"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "simiypayki"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ninpa"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "imaynataq"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "takyachiwanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:48.741073277Z",
+  "model": "glm-5.3"
+}

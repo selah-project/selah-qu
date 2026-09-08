@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Bendiciy, nefeshniy, ⟨את⟩ Yahweta; hinallataq ama qunqaychu llapan allin rurayninta.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "bendiciy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinallataq ama"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "qunqaychu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "allin rurayninta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:20.373070298Z",
+  "model": "glm-5.3"
+}

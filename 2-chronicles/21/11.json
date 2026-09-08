@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 21:11",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chaylla paypas bamakunata Yehudap orqokunapi ruwakurqanmi; ⟨את⟩ Yerushalayimpa (Jerusalén) tiyaqkunata kanachirqan, ⟨את⟩ Yehudatapas p'antachirqan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chayllapas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwakurqan"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamakuna"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "orqokunapi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויזן",
+      "gloss": "kanachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimpa tiyaqkunata"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalén)"
+    },
+    {
+      "surface": "וידח",
+      "gloss": "p'antachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-08T13:07:47.382793528Z",
+  "model": "glm-5.3"
+}

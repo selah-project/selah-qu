@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "hinaspa ⟨את⟩ mesatawan, ⟨את⟩ llapa imankunantawan, ⟨את⟩ kandilnatawan, ⟨את⟩ imankunantawan, hinaspa ⟨את⟩ q'apachina altarta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa imankuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kandilna"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandilna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "imankuna"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "imankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "q'apachina altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "q'apachina"
+    }
+  ],
+  "timestamp": "2026-09-08T00:41:03.841393412Z",
+  "model": "glm-5.3"
+}

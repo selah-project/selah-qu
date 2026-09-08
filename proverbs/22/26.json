@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Ama maki taqtikuqkunapi, deudakunapaq garantikuqkunapipas kankichu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama...-chu"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "kankichu"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "taqtikuqkunapi"
+    },
+    {
+      "surface": "כף",
+      "gloss": "maki"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "garantikuqkunapipas"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "deudakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:48:42.723035623Z",
+  "model": "glm-5.3"
+}

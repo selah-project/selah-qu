@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Yahwem, qam**mi** yupaychasqa kanki; chiqnikunaykita yachachiwanki.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "yupaychasqa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "yachachiwanki"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "chiqnikunaykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:55.204509169Z",
+  "model": "glm-5.3"
+}

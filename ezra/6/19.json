@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa qatikuna churinkuna ⟨את⟩ Pésajta ruwarqankumi, ñawpaq killap iskay chunka tawayuq p'unchawpi.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqankumi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "qatikuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pésajta"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pésaj"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "tawayuq"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "killap"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ñawpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:10:26.397893300Z",
+  "model": "glm-5.3"
+}

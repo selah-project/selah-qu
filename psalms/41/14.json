@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Alabasqam Yahwe, Israelpa Elohimnin, wiñaymanta wiñaykama. Amen, Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Alabasqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "wiñaymanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:10.705808525Z",
+  "model": "glm-5.3"
+}

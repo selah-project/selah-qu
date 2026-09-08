@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Rumikunata q'iruykachaq chaykunawan nanachikunqam; sach'akunata t'akispa chaywanpinkasqa kanqam.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "q'iruykachaq"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "rumikunata"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "nanachikunqa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaykunawan"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "t'akispa"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "sach'akunata"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "pinkasqa kanqa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:46.896464241Z",
+  "model": "glm-5.3"
+}

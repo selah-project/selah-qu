@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 112,
+  "translation": "Allinmi runa, khuyakuq hinaspa manuchiqa; rimanankunata kamachikuypiwan waqaychakun.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "khuyakuq"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "hinaspa manuchiqa"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "waqaychakun"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "rimanankunata"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kamachikuyipiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:25.328453593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 19:20",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Apuman nirqanmi: Ama huchata yuyawankichu, apuy; ama yuyariychu ⟨את⟩ imata yanapaqyki mana allinta ruwasqanta, chay p'unchawpi apu Yerushalayimmanta lluqsirqayki, ama apu chayta sunqunman churanampaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apuman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "yuyawanki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apuy"
+    },
+    {
+      "surface": "עון",
+      "gloss": "huchata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "yuyariy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata mana allinta ruwasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "העוה",
+      "gloss": "mana allinta ruwasqan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanapaqyki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsirqayki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apuy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayimmanta"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "churanampaq"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sunqunman"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sunqun"
+    }
+  ],
+  "timestamp": "2026-09-08T04:51:59.596718221Z",
+  "model": "glm-5.3"
+}

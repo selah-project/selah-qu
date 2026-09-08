@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Yahwepi cheqasqa kanqami llapan Israelpa musuynin, hinaspa Yahwepi k'irikunqami.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "cheqasqa kanqami"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "hinaspa k'irikunqami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "musuynin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:26:16.576495573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Asam ⟨את⟩ wak llaqtakunap altarninkunatawan ⟨את⟩ hanan chinakunata hurqurqan; ⟨את⟩ sayaq rumi unanchakunata p'akirqan; ⟨את⟩ Ashera sach'akunata kuchurqan.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wak llaqtakunap altarninkunata"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altarninkuna"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "wak llaqtakunap"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "hanan chinakunatawan"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "p'akirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayaq rumi unanchakunata"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "sayaq rumi unanchakuna"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "kuchurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashera sach'akunata"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Ashera sach'akuna"
+    }
+  ],
+  "timestamp": "2026-09-08T13:03:56.437582487Z",
+  "model": "glm-5.3"
+}

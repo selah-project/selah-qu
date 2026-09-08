@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 48:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Imayna uyarisqayku hina, hina llata rikusqaykum Yahwe Tsebaotpa llaqtanpi, Elohimninchikpa llaqtanpi; Elohim chayta wiñaypaq sayarichinqa ⟨kan⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "imayna ... hina"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "uyarisqayku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hina llata"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "rikusqayku"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtanpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtanpi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "sayarichinqa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...paq"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:37.348448897Z",
+  "model": "glm-5.3"
+}

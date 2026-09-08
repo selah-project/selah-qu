@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Wakcha runapa yuyayninta p'inqachinkichik, ichataq Yahwem paypa hark'ananmi.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "yuyayninta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wakcha runapa"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "p'inqachinkichik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus ⟨ichataq⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "paypa hark'anan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:19.791122047Z",
+  "model": "glm-5.3"
+}

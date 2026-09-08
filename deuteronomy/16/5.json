@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Manam atinkichu ⟨את⟩ Pesajta wavachayta hukllapipas punkuykikunapi, mayqenkunata Yahwe Elohimniyki qamta qon.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "atinkichu"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "wavachayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesajta"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesajta"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "hukllapipas"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "punkuykikunapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenkunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:41:10.995378881Z",
+  "model": "glm-5.3"
+}

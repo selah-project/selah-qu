@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Usqhaykurqanimi, mana suyakuspaychu, kamachiykikunata waqaychanaypaq.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "usqhaykurqani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "suyakuspay"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "waqaychanaypaq"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kamachiykikunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:24:09.803387664Z",
+  "model": "glm-5.3"
+}

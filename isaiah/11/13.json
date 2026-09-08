@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Ephrajimpa k'uyakuynin t'inkisqam kanqa, hinaspa Yehudap awqankuna kuchusqa kanqaku: Ephrajim manam ⟨את⟩ Yehudata k'uyakunqachu, Yehudaqtaq manam ⟨את⟩ Ephrajimta llallinqachu.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "t'inkisqam kanqa"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "k'uyakuy"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajimpa"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "awqankuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "kuchusqa kanqaku"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "k'uyakunqachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudata"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "hinaspa Yehudaqtaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "llallinqachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ephrajimta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajimta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:00:54.151323722Z",
+  "model": "glm-5.3"
+}

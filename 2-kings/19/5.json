@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaymi Hizkiyahu (Ezequías) apup servinkuna Yeshayahu (Isaías)man chayamurqanku.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "chayamurqanku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servinkuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apup"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:44:20.522960352Z",
+  "model": "glm-5.3"
+}

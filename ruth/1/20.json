@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Paykunaman nirqan: ama ñuqata Noemi sutichawankichikchu, Maratam ñuqata sutichawankichik, imaraykuchus Shaddaym ñuqawan sinchitam khakillata rurawasqa.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "sutichawankichikchu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "sutichawankichik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Marata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "המר",
+      "gloss": "khakillata rurawasqa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchitam"
+    }
+  ],
+  "timestamp": "2026-09-08T11:30:35.241772402Z",
+  "model": "glm-5.3"
+}

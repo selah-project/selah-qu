@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Nirqanim angelman, ñuqapi rimaqta: «Imataq kaykuna?» Chaymanta ñuqaman nirqan: «Kaykunaqa k'ajakunam, Yehudata ⟨את⟩, Israelta ⟨את⟩, Yerushalayimtawan soqharqanku».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nirqanim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "angelman"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rimaq"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqapi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "k'ajakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "soqharqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayimtawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:19:09.355705773Z",
+  "model": "glm-5.3"
+}

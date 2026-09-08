@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Yahwem kamachiyta munanmi, manataq ⟨את⟩ hasidninta saqewanqachu; wiñaykama amachasqa kankum; ñakay runakunap muxankunataq mat'isqa kanqaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "munanmi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kamachiyta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "saqewanqachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasidninta"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hasidninta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "amachasqa kankum"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "muxankunataq"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ñakay runakunap"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "mat'isqa kanqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:14.306301831Z",
+  "model": "glm-5.3"
+}

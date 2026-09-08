@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 67,
+  "translation": "Elohim ñuqanchikta khuyakuchun, ñuqanchikta barakachun, panentan k'anchachun ⟨את⟩ ñuqanchikwanpi. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ñuqanchikta khuyakuchun"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "ñuqanchikta barakachun"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "k'anchachun"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "panentan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñuqanchikwanpi",
+      "marks": "ñuqanchikwanpi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:44.983020644Z",
+  "model": "glm-5.3"
+}

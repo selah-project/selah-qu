@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Kaykunaqa karruwanmi, chaykunaqa kawallukunawanmi; ñuqanchiktaq Yahwe Elohimninchikpa sutinta yuyanchik.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "karruwan"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "chaykuna"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kawallukunawan"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ñuqanchiktaq"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "yuyanchik"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:58.909390336Z",
+  "model": "glm-5.3"
+}

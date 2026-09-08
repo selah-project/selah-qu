@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 98,
+  "translation": "Yahwem ⟨את⟩ jesedninta hinaspa chiqtasqan-ta Israel wasiman yuyarirqanmi; llapan hallp'a puchukunamanta ⟨את⟩ Elohimninchikpa qespichikuyninta qhawarqankumi.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yuyarirqan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesedninta"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "hinaspa chiqtasqanta"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasiman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "qhawarqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "puchukunamanta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimninchikpa qespichikuyninta"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "qespichikuyninta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:00.426251753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaysi Elohimpa runan nirqan: ¿Maypin urmarqan? Chay runam ⟨את⟩ chay kitita rikuchirqan. Chaysi huk sach'ata kuchurqan, chayman warqurqan, chaywan chuki t'iqita wayraykachimurqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "¿maypin?"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "urmarqan"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "rikuchirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chay kitita"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "chay kitita"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "kuchurqan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "huk sach'ata"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "warqurqan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "wayraykachimurqan"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "chuki t'iqita"
+    }
+  ],
+  "timestamp": "2026-09-08T05:26:29.360115186Z",
+  "model": "glm-5.3"
+}

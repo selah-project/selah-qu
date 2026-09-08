@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Qayllam Yahwe llapa Payta qayaqkunaman, llapa chiqaq kaywan qayaqkunaman.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Qayllam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "Payta qayaqkunaman"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "payta"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "chiqaq kaywan qayaqkunaman"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "chiqaq kaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:26.961065674Z",
+  "model": "glm-5.3"
+}

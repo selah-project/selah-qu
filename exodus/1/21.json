@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Karqanmi: parterakuna ⟨את⟩ Elohimta manchasqanku rayku, paykunaman wasikunata ruwarqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "mancharqanku"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "parterakuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "wasikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:18:42.783418842Z",
+  "model": "glm-5.3"
+}

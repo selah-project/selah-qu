@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Qampaqmi makikallawan, atiyniyuqllawan; makiyki sinchim, paña makiyki hanaqm.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "qampaqmi"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "makikalla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "atiyniyuqlla"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "sinchim"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "hanaqm"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "paña makiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:47.531444601Z",
+  "model": "glm-5.3"
+}

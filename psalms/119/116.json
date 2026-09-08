@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Rimayniykiman hina ñuqata suykachaway, chaymi kawsasaq; amañataq suyayniywan ñuqata p'inqachiwankichu.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "ñuqata suykachaway"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "Rimayniykiman hina"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "chaymi kawsasaq"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "amañataq"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "p'inqachiwankichu"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "suyayniywan"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:35.734202168Z",
+  "model": "glm-5.3"
+}

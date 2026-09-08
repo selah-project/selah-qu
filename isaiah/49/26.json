@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 49:26",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Hinaspa ⟨את⟩ yarqachiwanaykiman yarqachisaq ⟨את⟩ aychankunata mikuchispa; vinu hina yawarninkuwan machankunqam; llapa aychayuq yachanqam: ñuqam Yahwe, qispichiqniyki, molqoqniyki, Yaakovpa hatun sinchin kani.",
+  "tokens": [
+    {
+      "surface": "והאכלתי",
+      "gloss": "hinaspa yarqachisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yarqachiwanayki"
+    },
+    {
+      "surface": "מוניך",
+      "gloss": "yarqachiwanayki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aychankunta"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "aychankunta"
+    },
+    {
+      "surface": "וכעסיס",
+      "gloss": "hinaspa vinu hina"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "yawarninkuwan"
+    },
+    {
+      "surface": "ישכרון",
+      "gloss": "machankunqam"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "hinaspa yachanqam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aychayuq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "qispichiqniyki"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "hinaspa molqoqniyki"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "hatun sinchi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:33:08.133154428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Imataq kutichisaq Yahweman, paypa llapa allin rurayninkunamanta ñuqapay?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "kutichisaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "paypa allin rurayninkuna"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqapay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:58.970079184Z",
+  "model": "glm-5.3"
+}

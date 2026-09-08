@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-samuel 17:49",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chaymanta David ⟨את⟩ makinta q'ipiman chayarqanmi, chaymanta huk rumita hurqurqanmi, warak'awan wikurqanmi, ⟨את⟩ Palist'inata umanpatanman takarqanmi; chay rumiqa umanpatan ukhunman ch'itikapurqanmi, hawanmanmi ñawpañanpi hallp'aman urmarqan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "chayarqanmi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makinta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makinta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "q'ipiman"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hurqurqanmi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "rumita"
+    },
+    {
+      "surface": "ויקלע",
+      "gloss": "warak'awan wikurqanmi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "takarqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Palist'inata"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Palist'inata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מצחו",
+      "gloss": "umanpatanman"
+    },
+    {
+      "surface": "ותטבע",
+      "gloss": "ch'itikapurqanmi"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "chay rumiqa"
+    },
+    {
+      "surface": "במצחו",
+      "gloss": "umanpatan ukhunman"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "urmarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanmanmi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ñawpañanpi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hallp'aman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:20:59.162917306Z",
+  "model": "glm-5.3"
+}

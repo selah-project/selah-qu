@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Imaraykum llamk'ay llamk'aqkunaman qunku, chaywanmi ⟨את⟩ Yahwepa wasinta allicharqanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "llamk'aqkunaman"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "qunku"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "allicharqanku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaywan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:34:53.851801985Z",
+  "model": "glm-5.3"
+}

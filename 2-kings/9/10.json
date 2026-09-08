@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa ⟨את⟩ Izeveltaqa allqakunam Yizreelpa chakranpi mikhusqanku, mana p'anachanapaq pipas kanqachu. Chaymanta punkutam kicharqan, ayqirqanm.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Izevelta"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izevelta"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhusqanku"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "allqakunam"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "chakranpi"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreelpa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana ... pipas"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "p'anachanapaq"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "kicharqan"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "punkutam"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ayqirqanm"
+    }
+  ],
+  "timestamp": "2026-09-08T05:29:21.404210369Z",
+  "model": "glm-5.3"
+}

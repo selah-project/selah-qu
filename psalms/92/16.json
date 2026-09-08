@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Yahwe chiqtam, ñuqap Rumi, mana imapas llulla kachkanmi kaypi willanapaq.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "willanapaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqta"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "chiqtam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ñuqap Rumi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana imapas"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:24.353416915Z",
+  "model": "glm-5.3"
+}

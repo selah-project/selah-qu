@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 15:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Qamtaq Shalompi tayta-kunaykikunaman chayamunki; allin kuraq kaypiwan pampachakanki.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "chayamunki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "tayta-kunaykikuna"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "Shalompi"
+    },
+    {
+      "surface": "תקבר",
+      "gloss": "pampachakanki"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "kuraq kaypi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "allin"
+    }
+  ],
+  "timestamp": "2026-09-07T23:56:09.666052646Z",
+  "model": "glm-5.3"
+}

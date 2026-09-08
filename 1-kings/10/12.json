@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 10:12",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chaysi apu ⟨את⟩ almug sach'akunata Yahwepa wasinpaq, apupa wasinpaq mak'arakunaman t'ikrarqan, takiqkunapaq kinorakunatawan, nevalikunatawan; chayna almug sach'akunaqa manam chayamurqanchu, chay kay p'unchawkamaqa manam rikurirqanchu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "t'ikrarqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "almug sach'akunata"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "האלמגים",
+      "gloss": "almug"
+    },
+    {
+      "surface": "מסעד",
+      "gloss": "mak'araku"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinpaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "wasinpaqwan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "kinorakunatawan"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "nevalikunatawan"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "takiqkunapaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayamurqanchu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayna"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "אלמגים",
+      "gloss": "almug"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "rikurirqanchu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "chay"
+    }
+  ],
+  "timestamp": "2026-09-08T13:41:57.111236416Z",
+  "model": "glm-5.3"
+}

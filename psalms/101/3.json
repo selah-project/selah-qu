@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 101,
+  "translation": "Mana churisaq mana chaninniyuq rimayta ñawiy ñawpaqpi; saruchikunap rurasqanta cheqniymi, ñuqawan mana chapakunqachu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "churisaq"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "mana chaninniyuq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurasqanta"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "saruchikunap"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "cheqniymi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "chapakunqa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:36.251190588Z",
+  "model": "glm-5.3"
+}

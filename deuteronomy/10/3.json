@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 10:3",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa ñuqam huk q'ero wasita shittim sach'akunamanta ruwarqani, iskay hanan lintasqa rumi lintakunata ñawpaq hinalla tallirqani, hinaspa orqoman orqarqani, iskay lintakunata makiywan.",
+  "tokens": [
+    {
+      "surface": "ואעש",
+      "gloss": "ruwarqani"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "q'ero wasita"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'akunamanta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "ואפסל",
+      "gloss": "tallirqani"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "lintakunata"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "כראשנים",
+      "gloss": "ñawpaq hinalla"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "orqoman orqarqani"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "orqoman"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lintakunata"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "makiywan"
+    }
+  ],
+  "timestamp": "2026-09-08T13:27:37.477966749Z",
+  "model": "glm-5.3"
+}

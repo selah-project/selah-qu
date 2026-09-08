@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Chayqa ñuqapas qamkunawan q'eqas purisaqmi; ñuqam kikin qanchis kuti ⟨את⟩ qamkunata maqasaq, qamkunap huchaykikunarayku.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "purisaq"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "qamkunawan"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "q'eqas"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "maqasaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "maqasaq"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kikin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis kuti"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "huchaykikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T01:12:58.259458736Z",
+  "model": "glm-5.3"
+}

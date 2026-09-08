@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Tukuy p'unchawtaq yapaq runa tarpunanpaqmi yapanchu? Hallp'anta kichaspa chakanpachanchu?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "yapaq runa"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "tarpunanpaq"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "kichan"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "chakanpachan"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "hallp'anta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:10:34.829215898Z",
+  "model": "glm-5.3"
+}

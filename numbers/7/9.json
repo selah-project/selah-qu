@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Kehathpa churinkunamanqa manam qarqankuchu, imaraykuchus haqeq llamk'ayqa paykunpam; rikrapi apankum.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "churinkunaman"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehathpa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qarqanchu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "haqeq"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "paykunpa"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "rikrapi"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "apankum"
+    }
+  ],
+  "timestamp": "2026-09-08T01:19:45.315031014Z",
+  "model": "glm-5.3"
+}

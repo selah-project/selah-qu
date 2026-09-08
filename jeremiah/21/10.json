@@ -1,0 +1,77 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "jeremiah 21:10",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 21,
+ "translation": "Imaraykum ñuqap ñawiyta kay llaqtaman millaypaq churarqani, allinpaqchu manam, Yahwepa rimayninmi: Bavel apupan makinman qarasqa kanqa, ninawan ruphachikunqataq.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "imaraykum"
+  },
+  {
+   "surface": "שמתי",
+   "gloss": "churarqani"
+  },
+  {
+   "surface": "פני",
+   "gloss": "ñawiyta"
+  },
+  {
+   "surface": "בעיר",
+   "gloss": "llaqtaman"
+  },
+  {
+   "surface": "הזאת",
+   "gloss": "kay"
+  },
+  {
+   "surface": "לרעה",
+   "gloss": "millaypaq"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "allinpaqchu manam"
+  },
+  {
+   "surface": "לטובה",
+   "gloss": "allinpaq"
+  },
+  {
+   "surface": "נאם",
+   "gloss": "rimaynin"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "ביד",
+   "gloss": "makinman"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "apupan"
+  },
+  {
+   "surface": "בבל",
+   "gloss": "Bavel"
+  },
+  {
+   "surface": "תנתן",
+   "gloss": "qarasqa kanqa"
+  },
+  {
+   "surface": "ושרפה",
+   "gloss": "ruphachikunqataq"
+  },
+  {
+   "surface": "באש",
+   "gloss": "ninawan"
+  }
+ ],
+ "timestamp": "2026-09-08T07:06:49.330246436Z",
+ "model": "glm-5.3"
+}

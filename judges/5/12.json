@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 5:12",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Resucitay, resucitay, Devora (Débora); resucitay, resucitay, harawita rimariy; sayariy, Barak, hinaspa hap'isqaykikunata apaykachay, Avinoampa churi.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "resucitay"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "resucitay"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "resucitay"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "resucitay"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimariy"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "harawita"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sayariy"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "hinaspa apaykachay"
+    },
+    {
+      "surface": "שביך",
+      "gloss": "hap'isqaykikunata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Avinoampa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:37:38.139362863Z",
+  "model": "glm-5.3"
+}

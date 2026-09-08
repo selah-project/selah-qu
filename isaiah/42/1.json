@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Qhawariy, yanqay: ñuqam payta sayachini, akllasqay, paywanmi nefeshniy khuyakun; samayniyta paypi churani; mishpatta llaqtakunaman lluqsichinqa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanqay"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "sayachini"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "akllasqay"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "khuyakun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "churani"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "samayniyta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishpatta"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "llaqtakunaman"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "lluqsichinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:25:50.424701852Z",
+  "model": "glm-5.3"
+}

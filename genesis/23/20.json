@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Chakrapas, ukhunpi kaq mach'aypas, Abrahamman wañusqakunap p'ampachananpaq, Hetpa churinkunamanta ⟨את⟩ sayachisqa hunt'asqa karqanku.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayachisqa hunt'asqa karqanku"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chakrapas"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "mach'aypas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamman"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "p'ampachananpaq"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "wañusqakunap"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Hetpa churinkunamanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetpa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:17.068935404Z",
+  "model": "glm-5.3"
+}

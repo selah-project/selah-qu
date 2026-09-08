@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Mitsrayimpa apunm nirqan ibriya warmikunap wawachiqkunaman — hukninpata suti Shifra karqan, iskayninpataq Puah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "wawachiqkunaman"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ibriya warmikunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suti"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "hukninpa"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "sutinpas"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "iskayninpa"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puah"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:47.709797425Z",
+  "model": "glm-5.3"
+}

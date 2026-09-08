@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Manachu tukuy hallp'a qamp ñawpaqniki karqan? Ama hina, ñuqamanta t'aqakuy: sichus lluqiman ri, ñuqa pañaman rini; utaq sichus pañaman ri, ñuqa lluqiman rini.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qamp ñawpaqniki"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "t'aqakuy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ama hina"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "lluqiman"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "hinaspa ñuqa pañaman"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "utaq sichus"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "pañaman"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "hinaspa ñuqa lluqiman rini"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:16.729998413Z",
+  "model": "glm-5.3"
+}

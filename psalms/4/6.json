@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Tsedeq korbanakunata korbanachiy, hinaspa Yahwepi suyaychik.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "korbanachiy"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "korbanakunata"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "hinaspa suyaychik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Yahwepi…man)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:54.834736728Z",
+  "model": "glm-5.3"
+}

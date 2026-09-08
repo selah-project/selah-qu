@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Wakayniy ñuqapa t'anta karqanmi p'unchaw, tutawanpas, paykuna ñuqaman tukuy p'unchaw nispa: «Maypitaq Elohimniyki?»",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapa"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "wakayniy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "tutawanpas"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "איה",
+      "gloss": "maypitaq"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:09.951219958Z",
+  "model": "glm-5.3"
+}

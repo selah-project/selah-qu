@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Gadpa churinkunap ayllunpa awqanpiqa Elyasaf, Deuelpa churinmi karqan.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "piqa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "awqanpi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ayllunpa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadpa"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Elyasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:22:41.255712780Z",
+  "model": "glm-5.3"
+}

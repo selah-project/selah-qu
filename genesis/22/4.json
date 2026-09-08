@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Kimsa ñiqin p'unchawpi Abrahamm hawan qhawarqan ⟨את⟩ ñawinkunata, hinaspa karumanta rikurqan ⟨את⟩ chay laduta.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kimsa ñiqin"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "hawan qhawarqan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawinkunata"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ñawinkunata"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "hinaspa rikurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chay laduta"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "chay laduta"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "karumanta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:35.833538082Z",
+  "model": "glm-5.3"
+}

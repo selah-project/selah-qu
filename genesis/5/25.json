@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa Metushelajmi kawsarqan pusaq chunka qanchis wata, pachak watawan, hinaspa ⟨את⟩ Lemekta wachachirqan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqan"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelaj"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "pusaq chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "hinaspa pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wachachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemekta"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:42.595861201Z",
+  "model": "glm-5.3"
+}

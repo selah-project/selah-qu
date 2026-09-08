@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Kawsay qillqamanta pichusqa kachunchikmi, hinallataq lliphiykunawan ama qillqasqa kachunchikchu.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "pichusqa kachunchik"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "qillqamanta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsay"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "lliphiykunawan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "qillqasqa kachunchikchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:44.565628960Z",
+  "model": "glm-5.3"
+}

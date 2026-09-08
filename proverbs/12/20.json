@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Qatillaymi mana allin hatariqkunap sonqonpi; shalom (paz) yachachiqkunaptaq k'usi kaymi.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "qatillay"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sonqopi"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "hatariqkunap"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "ihinaspa yachachiqkunaptaq"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom (paz)"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "k'usi kay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:41:29.619428119Z",
+  "model": "glm-5.3"
+}

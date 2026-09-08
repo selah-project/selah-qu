@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 65,
+ "ref": "1-chronicles 6:65",
+ "book": "1-chronicles",
+ "lang": "qu",
+ "chapter": 6,
+ "translation": "Hinaspa Gad ayllumanta ⟨את⟩ Raamothta Giladhpi, hinaspa ⟨את⟩ migrasenkunata, hinaspa ⟨את⟩ Majanayimta, hinaspa ⟨את⟩ migrasenkunata.",
+ "tokens": [
+  {
+   "surface": "וממטה",
+   "gloss": "hinaspa … ayllumanta"
+  },
+  {
+   "surface": "גד",
+   "gloss": "Gad"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Raamothta"
+  },
+  {
+   "surface": "ראמות",
+   "gloss": "Raamothta"
+  },
+  {
+   "surface": "בגלעד",
+   "gloss": "Giladhpi"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "migraśenkunata"
+  },
+  {
+   "surface": "מגרשיה",
+   "gloss": "migrasenkunata"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Majanayimta"
+  },
+  {
+   "surface": "מחנים",
+   "gloss": "Majanayimta"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "migraśenkunata"
+  },
+  {
+   "surface": "מגרשיה",
+   "gloss": "migrasenkunata"
+  }
+ ],
+ "timestamp": "2026-09-08T12:34:53.673182601Z",
+ "model": "glm-5.3"
+}

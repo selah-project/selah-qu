@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Hinaspa churankim ⟨את⟩ k'atipi muchusqa ofrendap altarta, ñawpaqninpi punkumanta Mishkan, tariy wasimanta.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "churankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofrendap altarta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "k'atipi muchusqa ofrenda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punku"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tariy"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:41.756270767Z",
+  "model": "glm-5.3"
+}

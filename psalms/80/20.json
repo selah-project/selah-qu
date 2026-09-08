@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Yahwe, Elohim Tsebaot, kutichikuwayku; k'anchachiy uyaykikunata, chaymi qispikunchik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "kutichikuwayku"
+    },
+    {
+      "surface": "האר",
+      "gloss": "k'anchachiy"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uyaykikunata"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "chaymi qispikunchik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:01.774983793Z",
+  "model": "glm-5.3"
+}

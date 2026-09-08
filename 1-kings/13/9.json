@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chaynam Yahwepa siminwan ⟨את⟩ ñuqata kamachirqanmi: mana t'antata mikhunki, mana unuta upyanki, manañataq hamusqayki ñanpi kutimunki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaynam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayna"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqata",
+      "marks": "ñuqata (kamachisqa runa)"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "siminwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ninpaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mikhunki"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "upyanki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mañañataq"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "kutimunki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "hamusqayki"
+    }
+  ],
+  "timestamp": "2026-09-08T05:09:57.926984761Z",
+  "model": "glm-5.3"
+}

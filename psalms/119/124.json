@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Yahwepaq kamariy yanapaykuykiwan chaninchaspa, jesed-niyki hina; hinaspa kamachikuyniykita yachachiwariway.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "kamariy chaninchaspa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanapaykuykiwan"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "jesed-niyki hina"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "hinaspa kamachikuyniykita"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "yachachiwariway"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:08.172668625Z",
+  "model": "glm-5.3"
+}

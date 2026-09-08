@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa kohenpayta mizbeajman chayan, hinaspa ⟨את⟩ umantawan t'ikran, hinaspa mizbeajpi ruphachin; hinaspa yawarnin mizbeajpa hark'anpi hurqunqammi.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "hinaspa payta chayan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "hinaspa t'ikran"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umantawan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umantawan"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "hinaspa ruphachin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mizbeajpi"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "hinaspa hurqunmi"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "yawarnin"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "hark'anpi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeaj"
+    }
+  ],
+  "timestamp": "2026-09-08T00:50:04.064866180Z",
+  "model": "glm-5.3"
+}

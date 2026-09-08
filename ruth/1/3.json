@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Elimelej, Noemip qusan, wañurqan; payqa iskay churinkunawan saqisqa karqan.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelej"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qusan"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemip"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "saqisqa karqan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "churinkunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:30:41.616556374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Imaraykum haq'iykachaqkunap makankunaka p'akikunqaku; ichataq Yahwem allin runakunata sayachin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "makankuna"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haq'iykachaqkunap"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "p'akikunqaku"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "ichataq sayachin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "allin runakunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:33.793247334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "psalms 26:7",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 26,
+ "translation": "Añay kunkawan uyarichinaypaqmi, llapa hawarikuykikunata willanaypaq.",
+ "tokens": [
+  {
+   "surface": "לשמע",
+   "gloss": "uyarichinaypaq"
+  },
+  {
+   "surface": "בקול",
+   "gloss": "kunkawan"
+  },
+  {
+   "surface": "תודה",
+   "gloss": "añay"
+  },
+  {
+   "surface": "ולספר",
+   "gloss": "willanaypaq"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "נפלאותיך",
+   "gloss": "hawarikuykikuna"
+  }
+ ],
+ "timestamp": "2026-09-08T09:38:42.701295632Z",
+ "model": "glm-5.3"
+}

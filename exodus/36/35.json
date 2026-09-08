@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 36:35",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Hinaspa ⟨את⟩ Parokhettam ruwarqan (parda): tekhelet, argaman, tolaat shaniwan (puka lana), hinaspa shesh mashzarwan (saphsacha lina) — yachasapa ruwaywan, kerubimkunawan ruwarqan ⟨את⟩ chayta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parokhetta"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "Parokhet (parda)"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani (puka lana)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "hinaspa shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mashzar (saphsacha lina)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ruway"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "yachasapa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ chayta",
+      "marks": "Parokhetta"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubimkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:39.283341161Z",
+  "model": "glm-5.3"
+}

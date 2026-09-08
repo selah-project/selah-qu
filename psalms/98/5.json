@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 98,
+  "translation": "Yahwepaq kinorwan takuychik, kinorwan hinaspa taqllinwan takiwan.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "takuychik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinorwan"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinorwan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "hinaspa taqllinwan"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "takiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:09.602498299Z",
+  "model": "glm-5.3"
+}

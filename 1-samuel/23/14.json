@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 23:14",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Davidmi ch'alanapi wisq'asqa wasikunapi tiyarqan, Zif ch'alanapi orqopipas tiyarqanmi. Shaulmi sapa p'unchaw maskharqan, icha Elohimp mana payta makinpi churarqanchu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'alanapi"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "wisq'asqa wasikunapi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqanmi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqopi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'alanapi"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "ויבקשהו",
+      "gloss": "maskharqanmi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "churarqanchu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "makinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:22:59.915144968Z",
+  "model": "glm-5.3"
+}

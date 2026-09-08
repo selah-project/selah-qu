@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Meraripa churinkunata ayllunkunallawan, taytankunap wasinkunallawan hina ⟨את⟩ paykunata yupachanki.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Meraripa"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayllunkunallawan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinkunallawan"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "taytankunap"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "yupachanki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T01:17:42.013568132Z",
+  "model": "glm-5.3"
+}

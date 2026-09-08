@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Kaymi Yahwepa mo'adinkuna, miqra'e kodeshkuna, mayqinkunata qamkuna ⟨את⟩ kaykunata paqaris mo'adinkunapi waqyasunki.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "miqra'e"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kodeshkuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "waqyasunki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paqaris mo'adinkunata"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "paqaris mo'adinkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:07:23.860389917Z",
+  "model": "glm-5.3"
+}

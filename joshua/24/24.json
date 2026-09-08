@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa runakuna Yehoshuaman (Josué) nirqanku: ⟨את⟩ Yahweta, Elohimninchikta qimikunchik, hinaspa paypa siminta uyariwanchik.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku hinaspa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuaman (Josué)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikta"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "qimikunchik"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "paypa siminta hinaspa"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "uyariwanchik"
+    }
+  ],
+  "timestamp": "2026-09-08T03:32:40.933069891Z",
+  "model": "glm-5.3"
+}

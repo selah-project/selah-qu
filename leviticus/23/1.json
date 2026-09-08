@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Yahwem Mosheman (Moisés) rimarqan, ninpa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ninpa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:07:23.859659457Z",
+  "model": "glm-5.3"
+}

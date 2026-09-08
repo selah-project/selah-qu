@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Nefeshniyta waqaychaway, ñuqaqa jesedniyuq kasqayraykum; Elohimniy, qampi amarakusqay kamayniykita qispichiy.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "waqaychaway"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniyta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "jesedniyuq"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kamayniyki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "qampi amarakusqay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:34.696745284Z",
+  "model": "glm-5.3"
+}

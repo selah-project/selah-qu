@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Yahwem ⟨את⟩ Yosef (José)wan karqan, hinaspa jesedta (khuyakuy) payman churarqan, hinaspa wichq'ana wasiypa sichuqpa ñawinpi sichuta qurqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefwan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesedta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qurqan"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "sichuta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sichuqpa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasiy"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "wichq'ana"
+    }
+  ],
+  "timestamp": "2026-09-08T02:00:36.107607692Z",
+  "model": "glm-5.3"
+}

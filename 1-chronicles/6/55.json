@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "hinaspa Menashep ayllup iskayninkuskanmanta ⟨את⟩ Anerta (Aner), hinaspa ⟨את⟩ migrashninta, hinaspa ⟨את⟩ Bilamta (Bilam), hinaspa ⟨את⟩ migrashninta, Kehat wawakunapa qhipaq ayllunkunapaq",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "hinaspa iskayninkuskanmanta"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ayllup"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anerta"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Anerta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "migrashninta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "migrashninta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Bilamta"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "migrashninta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "migrashninta"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "ayllunkunapaq"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawakunapaq"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "qhipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:36:47.212551012Z",
+  "model": "glm-5.3"
+}

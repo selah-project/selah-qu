@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Imataq karqan chayqa: sutinmi ñawpaqtam sutichasqa karqan, riqsisqam imataq pay runa kasqan; chayqa mana atinchu paymanta aswan atiyniyuqwan rimanakunankupaq.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ñawpaqtam"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "sutichasqa karqan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sutin"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "hinaspa riqsisqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "atinchu"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "rimanakunankupaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "aswan atiyniyuqta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:50.186151586Z",
+  "model": "glm-5.3"
+}

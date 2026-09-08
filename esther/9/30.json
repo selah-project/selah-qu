@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "esther 9:30",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Qillqankunata kacharqanmi tukuy judíokunaman, Ajashveroshpa qhapaq suyunkunaman — chunka pachak iskay chunka qanchis suyuman — sumaq kawsay simikunawan, cheqap simikunawanpas.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqanmi"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "qillqankunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "judíokuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "hinaspa iskay chunka"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "hinaspa chunka pachak"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "suyu"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "qhapaq suyunkuna"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ajashverosh"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "simikuna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sumaq kawsay"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "hinaspa cheqap"
+    }
+  ],
+  "timestamp": "2026-09-08T11:51:14.411897883Z",
+  "model": "glm-5.3"
+}

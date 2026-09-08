@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Qullqim askha masikunata yapan; hinaspa wakchaqa masinmantam t'aqakun.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "yapan"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "masikunata"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "hinaspa wakcha"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "masinmanta"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "t'aqakun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:47:18.400469271Z",
+  "model": "glm-5.3"
+}

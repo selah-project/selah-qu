@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 2:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Kaykunami hanaq pachapa, kay pachapa paqariykuna kamariptinku; p'unchawpi Yahwe Elohim kamaptin hallp'atawan hanaq pachatawan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "paqariykuna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kay pacha"
+    },
+    {
+      "surface": "בהבראם",
+      "gloss": "kamariptinku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kamaptin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "hanaq pachatawan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:06.868057684Z",
+  "model": "glm-5.3"
+}

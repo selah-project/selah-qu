@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 23:2",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Balak Bilam nisqanman hina ruwarqanmi; Balak Bilamwan hinaspa sapa mizbeajpi torowan, carnerowan ichurarqanmi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "iman hina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nisqan"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ichurarqan"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "ובלעם",
+      "gloss": "hinaspa Bilam"
+    },
+    {
+      "surface": "פר",
+      "gloss": "torowan"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "carnerowan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sapa mizbeajpi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:09:51.476127109Z",
+  "model": "glm-5.3"
+}

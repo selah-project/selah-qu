@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Icha ñuqap awqaykunaqa kawsallaspa sinchiykunku, hinaspa ñuqata llut'awan ch'iqiqkunaqa askham kanku.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "icha ñuqap awqaykuna"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsalla"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "sinchiykunku"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "hinaspa askha"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ch'iqiqkuna"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llut'awan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:34.075940657Z",
+  "model": "glm-5.3"
+}

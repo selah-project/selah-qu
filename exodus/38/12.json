@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Hinaspam inti wañuy ladoman saywankuna piskaq chunka amata; sayaqninku chunkam, tiyanankunanku chunkam; sayaqkunap ganchonninku, watranninkupas qullqim.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "hinaspam ladoman"
+    },
+    {
+      "surface": "ים",
+      "gloss": "inti wañuy"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "saywankuna"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "piskaq chunka"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amata"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "sayaqninku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "hinaspa tiyanankunanku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "gancho"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sayaqkunap"
+    },
+    {
+      "surface": "וחשוקיהם",
+      "gloss": "hinaspa watranninku"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:02.652136019Z",
+  "model": "glm-5.3"
+}

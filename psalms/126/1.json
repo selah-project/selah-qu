@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 126,
+  "translation": "Taki witch'a sayaqkunap. Yahwem ⟨את⟩ Tsiyonpa kutiyninta kutichiptin, ñuqayku musphuqkuna hina karqaykumi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "witch'a sayaqkunap"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "kutichiptin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyonpa kutiyninta"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "kutiynin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "karqayku"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "musphuqkuna hina"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:22.031627950Z",
+  "model": "glm-5.3"
+}

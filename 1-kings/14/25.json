@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 14:25",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Karqan Rejavam apupa pichqa kaq watanpi, Shishaq (Sisac), Mitsrayimpa (Egipto) apun, Yerushalayimman (Jerusalén) sayaykurqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "watanpi"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "pichqa kaq"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sayaykurqan"
+    },
+    {
+      "surface": "שושק",
+      "gloss": "Shishaq"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "man"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimman"
+    }
+  ],
+  "timestamp": "2026-09-08T05:13:09.429765332Z",
+  "model": "glm-5.3"
+}

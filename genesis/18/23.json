@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chaysi Abraham yaqeman, nirqan: Chiqapchu chiqan runatam millay runawan hark'anki?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "yaqeman"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "האף",
+      "gloss": "chiqapchu"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "hark'anki"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "chiqan runata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "millay runata"
+    }
+  ],
+  "timestamp": "2026-09-07T23:55:34.333656283Z",
+  "model": "glm-5.3"
+}

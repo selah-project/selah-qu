@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Hinaspa ⟨את⟩ qetoret mizbajta, hinaspa ⟨את⟩ k'aspinkunanta, hinaspa ⟨את⟩ uyalachiy wirata, hinaspa ⟨את⟩ samikunap qetoretta, hinaspa ⟨את⟩ Mishkanpa punkunpa p'achata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qetoret mizbajta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbaj"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "qetoret"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "k'aspinkunanta"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "k'aspinkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "uyalachiy wirata"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wira"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "uyalachiy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "samikunap qetoretta"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "qetoret"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "samikuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Mishkanpa punkunpa p'achata"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "p'acha"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "punku"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "punkunpi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:22.728675809Z",
+  "model": "glm-5.3"
+}

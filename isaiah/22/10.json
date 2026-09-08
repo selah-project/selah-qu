@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa ⟨את⟩ Yerushalayim (Jerusalén) wasikunata yuparqankichik, wasikunata thupurqankichik hark'ata sinchichinapaq.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yerushalayim wasikunata"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "wasikuna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "yuparqankichik"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "thupurqankichik"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "wasikunata"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "sinchichinapaq"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "hark'a"
+    }
+  ],
+  "timestamp": "2026-09-08T06:07:29.410308992Z",
+  "model": "glm-5.3"
+}

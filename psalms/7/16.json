@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Juquta rusqanmi, hinaspa hunt'achirqanmi; kikin rusqan lirq'anmanmi urmarqan.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "juqu"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "rusqanmi"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "hinaspa hunt'achirqan"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "urmarqan"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "lirq'anman"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "kikin ruwasqanman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:40.062995326Z",
+  "model": "glm-5.3"
+}

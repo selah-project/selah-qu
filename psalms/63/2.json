@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Elohim, qanmi Elniy kanki; paqarinmantalla qamta maskhani. Nefeshniy qamta yarqawachkan, aychaniy qamta suwan, ch'aki, phinasqa, mana unayuq hallp'api.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elniy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "paqarinmantalla qamta maskhani"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "yarqawachkan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniy"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "suwan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "aychaniy"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ch'aki"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "phinasqa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unayuq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:47.861676485Z",
+  "model": "glm-5.3"
+}

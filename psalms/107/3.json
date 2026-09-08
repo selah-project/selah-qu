@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Hinallataq hallp'akunamanta huñirqan ⟨את⟩ paykunata: antimanta, inti chinkananmanta, chinchaymanta, qochamantawan.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "hinallataq hallp'akunamanta"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "huñirqan paykunata"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "antimanta"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "inti chinkananmanta"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "chinchaymanta"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "qochamantawan"
+    }
+  ],
+  "timestamp": "2026-09-08T15:31:25.433883462Z",
+  "model": "glm-5.3"
+}

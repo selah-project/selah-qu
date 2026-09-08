@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 22:42",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Yehoshafat apu kasqanpi pichqa chunka kinsa watayuq karqanmi, hinaspa Yerushalayimpi (Jerusalén) pichqa chunka iskay wata apu karqan; paypa mamanpa sutinmi Azuba, Shiljipa (Salai) ususin karqan.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "watayuq churi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "hinaspa pichqa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "apu kasqanpi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "hinaspa iskay chunka"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "hinaspa pichqa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu karqan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "hinaspa sutin"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "paypa mamanpa"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususin"
+    },
+    {
+      "surface": "שלחי",
+      "gloss": "Shiljipa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:22:08.815642796Z",
+  "model": "glm-5.3"
+}

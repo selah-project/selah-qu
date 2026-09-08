@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Chayrayku paymi nirqan, chaymi tukurqan; paymi kamachirqan, chaymi sayarqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chayrayku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:09.607974098Z",
+  "model": "glm-5.3"
+}

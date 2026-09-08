@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Sutiykita llapan wiñaykunanapi yuyachisaqmi; chayraykum runa llajtakuna Qamta yupaychasqaku wiñaypaq, wiñay wiñaykama.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "yuyachisaqmi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiykita"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "דר",
+      "gloss": "wiñaykunanapi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "wiñaykuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "raykum"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runa llajtakuna"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "Qamta yupaychasqaku"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñay wiñaykama"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:51.727565969Z",
+  "model": "glm-5.3"
+}

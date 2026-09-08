@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Kanmi huk qullqiyuq hina rikuchiq, icha mana imayuqchu; kanmi wakcha hina rikuchiq, icha achka qullqiniyuqmi.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kanmi huk"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "qullqiyuq hina rikuchiq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "icha mana imayuqchu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ima (mana imayuq)"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "wakcha hina rikuchiq"
+    },
+    {
+      "surface": "והון",
+      "gloss": "icha achka qullqi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "niyuqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:45.797528413Z",
+  "model": "glm-5.3"
+}

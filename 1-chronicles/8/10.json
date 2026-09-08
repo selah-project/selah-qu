@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa ⟨את⟩ Yeutsta, hinaspa ⟨את⟩ Shekhuyata, hinaspa ⟨את⟩ Mirmata. Kaymi paypa churinkuna, ayllukunap umalliqninkuna.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yeutsta"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeutsta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shekhuyata"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shekhuyata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Mirmata"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmata"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "paypa churinkuna"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ayllukunap"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:07.834178142Z",
+  "model": "glm-5.3"
+}

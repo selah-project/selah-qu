@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Shemuelm wayk'unaqman nirqan: Qoy ⟨את⟩ raquita, mayqinta qamman qorqani, mayqintaq qamwan nirqani: ⟨את⟩ qamwan churay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "wayk'unaqman"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "raquita"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "raquita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qorqani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqintaq"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "שים",
+      "gloss": "churay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "qamwan churasqata"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:09:43.302429832Z",
+  "model": "glm-5.3"
+}

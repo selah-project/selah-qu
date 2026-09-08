@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Mana kasuyqa qesempa huchan hina ⟨kan⟩; ñawpaqman kallpachakuyqa awqalla kaywan, terafimkunawanpas hina ⟨kan⟩. Imarayku Yahwepa ⟨את⟩ siminta mañaspa, paymi qamta apu kaymanta mañaspa qarqun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "huchan"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "qesem"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "mana kasuy"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "awqalla kaywan"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "terafimkunawanpas"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "ñawpaqman kallpachakuy"
+    },
+    {
+      "surface": "יען",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "mañaspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siminta (Yahwepa simin)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "mañaspa qarqunki"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "apu kaymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:14:32.792600285Z",
+  "model": "glm-5.3"
+}

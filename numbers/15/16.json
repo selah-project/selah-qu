@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 15:16",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Huk Tora hinaspa huk taripakuy kanqami qamkunapaqpas, puriqpaqpas ⟨את⟩ qamkunawan tiqaq.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "hinaspa taripakuy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqami"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "puriqpaqpas"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T01:31:29.452072866Z",
+  "model": "glm-5.3"
+}

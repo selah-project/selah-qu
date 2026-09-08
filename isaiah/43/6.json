@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Chinchaman nisaqmi: «Quy», qullamanpas: «Ama hark'aychu»; wawaykunata karumanta, ususiykunatataq hallp'ap chakanmanta apamuymi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nisaq"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "chinchaman"
+    },
+    {
+      "surface": "תני",
+      "gloss": "quy"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "qullamanpas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "hark'aychu"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "apamuy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawaykunata"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "karumanta"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "ususiykunatataq"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "chakanmanta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T06:22:43.038205623Z",
+  "model": "glm-5.3"
+}

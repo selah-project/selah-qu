@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 28:2",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hallp'ap haq'eypi askha apukuna kanmi paypa; icha runawan hunt'a yachayniyuqwan, riqsiqwan, chaynata unay kachanmi ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "hallp'ap haq'eypi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "apukuna paypa"
+    },
+    {
+      "surface": "ובאדם",
+      "gloss": "icha runawan"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "hunt'a yachayniyuqwan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "riqsiqwan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "unay kachanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:53:51.961859006Z",
+  "model": "glm-5.3"
+}

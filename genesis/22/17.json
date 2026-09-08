@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 22:17",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Imaraykum bendiciónwan bendicionim sumayki, hinallataq askhachaytam askhachasaq ⟨את⟩ musqaykita hanaq pachap intikunan hina, hinallataq challwa patapi kaq arena hina; chaymanta musqaykim awqayninkunap ⟨את⟩ punkunta atipanqam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bendiciónwan"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "bendicionim sumayki"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "hinallataq askhachaytam"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "askhachasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musqaykita"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "musqaykita"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "intikunan hina"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "hinallataq arena hina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "patan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "challwa"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "chaymanta atipanqam"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "musqaykim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punkunta"
+    },
+    {
+      "surface": "שער",
+      "gloss": "punkunta"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "awqayninkunap"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:56.067702104Z",
+  "model": "glm-5.3"
+}

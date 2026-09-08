@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "daniel 11:29",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Muchoy p'unchawpim kutimunqa, hinaspa uraman hamunqa; manam kanqachu ñawpaq hina, qhipa hina.",
+  "tokens": [
+    {
+      "surface": "למועד",
+      "gloss": "muchoy p'unchawpi"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kutimunqa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "hinaspa hamunqa"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "uraman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam ... chu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "כראשנה",
+      "gloss": "ñawpaq hina"
+    },
+    {
+      "surface": "וכאחרנה",
+      "gloss": "qhipa hina"
+    }
+  ],
+  "timestamp": "2026-09-08T12:06:34.561017607Z",
+  "model": "glm-5.3"
+}

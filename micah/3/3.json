@@ -1,0 +1,78 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "micah 3:3",
+ "book": "micah",
+ "lang": "qu",
+ "chapter": 3,
+ "translation": "Chaykunataq ñuqaykupa runapa aychanta mikhunku, paykunap qaranta qararqanku, hinaspa ⟨את⟩ tullunkunata t'aqllarqanku, hinallataq manq'api mast'asqa hina, hatun manq'ap chawpinpi aycha hina mast'arqanku.",
+ "tokens": [
+  {
+   "surface": "ואשר",
+   "gloss": "chaykunataq"
+  },
+  {
+   "surface": "אכלו",
+   "gloss": "mikhunku"
+  },
+  {
+   "surface": "שאר",
+   "gloss": "aychanta"
+  },
+  {
+   "surface": "עמי",
+   "gloss": "ñuqaykupa runapa"
+  },
+  {
+   "surface": "ועורם",
+   "gloss": "paykunap qarantawan"
+  },
+  {
+   "surface": "מעליהם",
+   "gloss": "paykunap ñawpaqninmanta"
+  },
+  {
+   "surface": "הפשיטו",
+   "gloss": "qararqanku"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "tullunkunata"
+  },
+  {
+   "surface": "עצמתיהם",
+   "gloss": "tullunkunata"
+  },
+  {
+   "surface": "פצחו",
+   "gloss": "t'aqllarqanku"
+  },
+  {
+   "surface": "ופרשו",
+   "gloss": "mast'arqanku"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "hina"
+  },
+  {
+   "surface": "בסיר",
+   "gloss": "manq'api"
+  },
+  {
+   "surface": "וכבשר",
+   "gloss": "aychahina"
+  },
+  {
+   "surface": "בתוך",
+   "gloss": "chawpinpi"
+  },
+  {
+   "surface": "קלחת",
+   "gloss": "hatun manq'a"
+  }
+ ],
+ "timestamp": "2026-09-08T09:05:24.719024021Z",
+ "model": "glm-5.3"
+}

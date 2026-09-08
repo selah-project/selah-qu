@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaymanta ⟨את⟩ Yarden (Jordán) orqonta pasarqankum, hinaspa Aroerpi sayarirqanku, Gad wayqop chawpinpi kaq llaqtapa pañanpi, hinaspa Yazer (Jazer)manmi.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "pasarqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden (Jordán) orqonta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden (Jordán) orqon"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "sayarirqankum"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroerpi"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pañanpi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "wayqo"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa …man"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer (Jazer)"
+    }
+  ],
+  "timestamp": "2026-09-08T04:55:20.668309297Z",
+  "model": "glm-5.3"
+}

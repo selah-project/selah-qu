@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Adonay Yahwem ñuqaman rinanta kicharqan; ñuqaqataq mana awqanakurqanimchu, qhipamanqa mana kutirqanimchu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kicharqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "rinanta"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ñuqaqataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "awqanakurqanimchu"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "qhipamanqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "kutirqanimchu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:36:56.119573155Z",
+  "model": "glm-5.3"
+}

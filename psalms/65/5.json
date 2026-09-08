@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Ashrem pay, mayta akllanki hinaspa ñawpaqman churawanki, wasiykip patankunapi tiyananpaq; wasiykip allin kayninwanmi t'uqyakusqanchik, santo temploykipi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ashrem"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "akllanki"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "hinaspa ñawpaqman churawanki"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "tiyananpaq"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "wasiykip patankunapi"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "t'uqyakusqanchik"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "allin kayninwan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wasiykip"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "temploykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:21.874940547Z",
+  "model": "glm-5.3"
+}

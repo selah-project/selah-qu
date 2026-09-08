@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 1:9",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chay p'unchawmi taripasaq llapan punkup patanpi palltaqkunata, paykunaqa apunkunap wasinta wisñaywan, engañuwan hunt'achkanku.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "hinaspa taripasaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "sapan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הדולג",
+      "gloss": "punkup patanpi palltaqkunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "המפתן",
+      "gloss": "punkup patan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "הממלאים",
+      "gloss": "hunt'achkanku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "apunkunap"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "wisñaywan"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "engañuwan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:14:11.686814900Z",
+  "model": "glm-5.3"
+}

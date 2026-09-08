@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chaysi churinkuna ⟨את⟩ wirata sunqukuna patapi churarqanku, paytaq wirata altarmanta ruphachirqan.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "churarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wirata"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "wira"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "sunqukuna"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "ruphachirqan"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "wira"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:25.571754385Z",
+  "model": "glm-5.3"
+}

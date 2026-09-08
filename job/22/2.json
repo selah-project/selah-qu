@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "job 22:2",
+ "book": "job",
+ "lang": "qu",
+ "chapter": 22,
+ "translation": "¿Elpaqmi runam chaninniyuq ⟨kan⟩? ¿Yachaysapa runam kikinpaq chaninniyuq?",
+ "tokens": [
+  {
+   "surface": "הלאל",
+   "gloss": "Elpaq"
+  },
+  {
+   "surface": "יסכן",
+   "gloss": "chaninniyuq ⟨kan⟩"
+  },
+  {
+   "surface": "גבר",
+   "gloss": "runam"
+  },
+  {
+   "surface": "כי",
+   "gloss": "¿"
+  },
+  {
+   "surface": "יסכן",
+   "gloss": "chaninniyuq"
+  },
+  {
+   "surface": "עלימו",
+   "gloss": "kikinpaq"
+  },
+  {
+   "surface": "משכיל",
+   "gloss": "yachaysapa runam"
+  }
+ ],
+ "timestamp": "2026-09-08T11:10:34.281386979Z",
+ "model": "glm-5.3"
+}

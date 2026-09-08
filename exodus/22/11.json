@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Ichataq chaypa suwasqamanta suwasqa kaptinqa, kamachikuqninmanmi paganga.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ichataq...kaptinqa"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "suwasqamanta"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "suwasqa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "chaypa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "paganga"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "kamachikuqninmanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:29.814814156Z",
+  "model": "glm-5.3"
+}

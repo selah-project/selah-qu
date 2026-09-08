@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chaymi David Elohimpa kamachisqanman hina ruwarqan; hinaspa ⟨את⟩ Pelishtikunap mahanata Giv'on (Gabaón) llaqtamanta Gazer (Gezer) llaqtakama ñit'irqanku.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "kamachisqanman"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ñit'irqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahana Pelishtikunata"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "mahana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtikunap"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "Giv'onmanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gazer"
+    }
+  ],
+  "timestamp": "2026-09-08T12:41:33.626799260Z",
+  "model": "glm-5.3"
+}

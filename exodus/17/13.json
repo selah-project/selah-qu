@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Yehoshuam ⟨את⟩ Amalekta, hinaspa ⟨את⟩ runantawan espada siminwan atiparqan.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "atiparqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekta"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "runantawan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "runantawan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "siminwan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:20.965908894Z",
+  "model": "glm-5.3"
+}

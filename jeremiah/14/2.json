@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 14:2",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yahuda llakikunmi, punkunkunapas ch'akinku; hallp'aman yana t'ikraspa karqanku; hinaspa Yerushalayim (Jerusalén)pa waqaynin hanaqman rirqan.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "llakikunmi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ושעריה",
+      "gloss": "punkunkunapas"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "ch'akinku"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "yana t'ikraspa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "וצוחת",
+      "gloss": "waqaynintaq"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpa"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "hanaqman rirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T07:03:20.580582863Z",
+  "model": "glm-5.3"
+}

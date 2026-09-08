@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 34:10",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Uyarirqankum llapan umalliqkuna, llapan runakunapas ima beritman chayakurqanku — sapa runa ⟨את⟩ yanapaninta, sapa runa ⟨את⟩ warmi yanapaninta qispinta lluqsiyachinankupaq, mana ña paykunata yanapachinankupaq; uyarirqanku, lluqsiyachirqankupas.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "uyarirqankum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "umalliqkuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapantaq"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "באו",
+      "gloss": "chayakurqanku"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "beritman"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "lluqsiyachinankupaq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapaninta"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "yanapaninta"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "sapa runataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warmi yanapaninta"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "warmi yanapaninta"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "qispinta"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mana ...paq"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanapachinankupaq"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunata"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ña"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "uyarirqanku"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "lluqsiyachirqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T07:26:04.565580317Z",
+  "model": "glm-5.3"
+}

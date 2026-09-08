@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspam Moshe willarqan ⟨את⟩ Yahwepa p'unchayninkunata Israelpa wawankunaman.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "hinaspam willarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa p'unchayninkunata"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "p'unchayninkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wawankunaman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:33.144474542Z",
+  "model": "glm-5.3"
+}

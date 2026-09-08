@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Mawka unayta waqyasqata mikhunkichikmi, mawkataq musuqmanta ñawpaqninpaq hurqunki.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "mikhunkichikmi"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "mawka"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "unayta waqyasqa"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "mawkataq"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqninpaq"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "musuqta"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "hurqunki"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:08.949561454Z",
+  "model": "glm-5.3"
+}

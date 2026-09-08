@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Ama p'inqakunkuchu ñuqap rayku qamta suyakuqkuna, Adonay, Yahwe Tsebaot; ama llakikunkuchu ñuqap rayku qamta maskaqkuna, Israelpa Elohimnin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "p'inqakunkuchu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqap rayku"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "qamta suyakuqkuna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "llakikunkuchu"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqap rayku"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "qamta maskaqkuna"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:30.065063378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Paymi wasichanqam ñuqapaq wasita, hinaspa sayarichisaqmi ⟨את⟩ apin tiyananta wiñay kama.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Pay"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wasichanqa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "sayarichisaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apin tiyananta"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "apin tiyanan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T12:45:19.246097697Z",
+  "model": "glm-5.3"
+}

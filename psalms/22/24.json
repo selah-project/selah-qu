@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Yahweta manchakuqkuna, payta yupaychaychik; Yaakovpa (Jacob) tukuy mitan, payta hatunchichik; Israelpa tukuy mitan, paymanta manchakuchik.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "manchakuqkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "payta yupaychaychik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mitan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa (Jacob)"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "payta hatunchichik"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "manchakuchik"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mitan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:55.164771274Z",
+  "model": "glm-5.3"
+}

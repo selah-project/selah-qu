@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chayrayku llapan llaqtakunapi sumaq willasqayki, Yahwe; Sutiykipaq takisaq.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "sumaq willasqayki"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "llapan llaqtakunapi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "Sutiykipaq"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "takisaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:45.149779863Z",
+  "model": "glm-5.3"
+}

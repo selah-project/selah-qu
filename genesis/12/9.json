@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa Avram (Abraham) puririspa, sariruspa uralaman sarurqan.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "sarurqan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "puririspa"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "sariruspa"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "uralaman"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:20.066987614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 18:20",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chayllataqmi: chay navi, phiñakuspa ñuqap Sutiypi rimayta riman, ⟨את⟩ chayta mana ñuqa kamachirqani rimanapaq, utaq wak dioskuna sut'inpi rimaj — chay naviqa wañunmi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chayllataqmi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "chay navi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pay"
+    },
+    {
+      "surface": "יזיד",
+      "gloss": "phiñakuspa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimanapaq"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ñuqap Sutiypi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chayta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "צויתיו",
+      "gloss": "kamachirqani"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimanapaq"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "utaq chay"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "rimaj"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sut'inpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wak"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "wañunmi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "chay naviqa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    }
+  ],
+  "timestamp": "2026-09-08T02:44:36.710116615Z",
+  "model": "glm-5.3"
+}

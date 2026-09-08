@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 12:7",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yiftajm ⟨את⟩ Israelta suqta wata kamachirqan. Chaym Yiftaj, Gilad runam, wañurqan, Gilad llaqtakunapipas pampachakurqan.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "שש",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaj"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Gilad runa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "pampachakurqan"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "llaqtakunapipas"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-08T03:50:30.892471919Z",
+  "model": "glm-5.3"
+}

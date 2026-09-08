@@ -1,0 +1,51 @@
+{
+ "tier": "glm-5.2",
+ "verse": 19,
+ "ref": "proverbs 16:19",
+ "book": "proverbs",
+ "lang": "qu",
+ "chapter": 16,
+ "translation": "Llasaq samiqa aswan allinmi ⟨את⟩ wakcha runakunawan; hach'a sunqu runakunawan ⟨את⟩ llawayta ch'iqtachasqanmanta.",
+ "tokens": [
+  {
+   "surface": "טוב",
+   "gloss": "aswan allin"
+  },
+  {
+   "surface": "שפל",
+   "gloss": "llasaq"
+  },
+  {
+   "surface": "רוח",
+   "gloss": "samay"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "wakcha runakunawan"
+  },
+  {
+   "surface": "עניים",
+   "gloss": "wakcha runakunawan"
+  },
+  {
+   "surface": "מחלק",
+   "gloss": "ch'iqtachasqan"
+  },
+  {
+   "surface": "שלל",
+   "gloss": "llawayta"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "jach'a sunqu runakunawan"
+  },
+  {
+   "surface": "גאים",
+   "gloss": "hach'a sunqu runakunawan"
+  }
+ ],
+ "timestamp": "2026-09-08T10:45:02.488464473Z",
+ "model": "glm-5.3"
+}

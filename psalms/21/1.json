@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Watukuqman, Davidpa mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "watukuqman"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:00.026073161Z",
+  "model": "glm-5.3"
+}

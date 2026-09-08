@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Aharonpa churin kohenqa ninata altarpa churanqaku, hinaspa sach'akunata chay ninapatanpi t'inkillanqaku.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "churanqaku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarpa"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "t'inkillanqaku"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "sach'akunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "nina"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:09.046722511Z",
+  "model": "glm-5.3"
+}

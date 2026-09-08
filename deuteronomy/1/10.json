@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwem Elohimniyki qamkunata ⟨את⟩ askhacharqan; hinataqmi qamkuna kunan p'unchaw hanaq pachap ch'askakunan hina askham kankichik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "askhacharqan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "hinataqmi qamkuna"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "ch'askakunan hina"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "askha"
+    }
+  ],
+  "timestamp": "2026-09-08T02:25:22.139352549Z",
+  "model": "glm-5.3"
+}

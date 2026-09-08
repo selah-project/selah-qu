@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Kunan kay p'unchawmi Yahwe Elohimniyki qamta kay huñusqa kamachikuykunata, taripakuykunatawan ruwanaykipaq kamachikun; ⟨את⟩ chaykunata tukuy sunquykiwan, tukuy nefeshniykiwan waqaychaspataq ruwanki.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kamachikun"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanaykipaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay huñusqa kamachikuykunata"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "huñusqa kamachikuykunata"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kaykunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "taripakuykunata"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "taripakuykunata"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "waqaychanki"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chaykunata"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sunquykiwan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hinaspa tukuy"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshniykiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:53:58.620813488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Kunanmi sayariychik, hinaspa kikinchikpaq ⟨את⟩ Zered mayuta pasaychik; chaysi ñuqaykum ⟨את⟩ Zered mayuta pasarqayku.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Kunanmi"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "sayariychik"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "hinaspa pasaychik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kikinchikpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zered mayuta"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "chaysi pasarqayku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zered mayuta"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Zered"
+    }
+  ],
+  "timestamp": "2026-09-08T02:27:20.984070239Z",
+  "model": "glm-5.3"
+}

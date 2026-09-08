@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwepa siminpa masan Israelman, Malajipa (Malaquías) makinwan.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "masan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "siminpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelman"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinwan"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malajipa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:25:54.475579450Z",
+  "model": "glm-5.3"
+}

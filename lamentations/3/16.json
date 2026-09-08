@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa q'uruykacharqanmi ñuqap kirukunata q'uisa rumiwan, hinaspa hark'arqanmi ñuqata q'onch'api.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "q'uruykacharqanmi"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "q'uisa rumiwan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ñuqap kirukunata"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "hark'arqanmi ñuqata"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "q'onch'api"
+    }
+  ],
+  "timestamp": "2026-09-08T11:32:26.345583392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "«Ñuqataqmi Yahwe, Elohimniyki, Mitsrayim (Egipto) hallp'amanta; hunt'a kutitam karpakunapi tiyachisaqki, citay p'unchawkunahina».",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ñuqataqmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hunt'a kutita"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "tiyachisaqki"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "karpakunapi"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "p'unchawkunahina"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "citay p'unchawkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T08:49:54.613068274Z",
+  "model": "glm-5.3"
+}

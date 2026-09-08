@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Yahweta mancharirqankum ⟨את⟩, chaymanta paykuna kikin runakunamanta bamut kohenkunata churarqanku, paykunaq bamut wasikunapi paykunapaq llamk'arqankum.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "mancharirqankum"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "manchariq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "churarqanku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "kikin runakunamanta"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamut"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "llamk'arqankum"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "llamk'aq"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasikunapi"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bamut"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:26.556204177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chiqam ñuqamanmi kutirun, makinta llapa p'unchaw tikran.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chiqam"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kutirun"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "tikran"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makinta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T11:32:43.674283543Z",
+  "model": "glm-5.3"
+}

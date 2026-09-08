@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "\"Paykunaqa huk q'irawmi karqanku ñuqanchikpaq, tuta p'unchawtintawan, tukuy p'unchaw paykunawan kachkasqanchikpi, uwihakunata michispa.\"",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "q'iraw"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqanchikpaq"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "p'unchawtintawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "kachkasqanchikpi"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "paykunawan"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "michispa"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "uwihakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T04:26:09.268539034Z",
+  "model": "glm-5.3"
+}

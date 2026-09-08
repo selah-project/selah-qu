@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa ⟨את⟩ pichqa phachakunata sapallan t'inkillanki, hinaspa ⟨את⟩ suqta phachakunata sapallan t'inkillanki; hinaspa ⟨את⟩ suqta ñiqin phachata carpa qayllanman iskaykachanki.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "hinaspa t'inkillanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pichqa phachakunata"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "phachakunata"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sapallan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "suqta phachakunata"
+    },
+    {
+      "surface": "שש",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "phachakunata"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sapallan"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "iskaykachanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suqta ñiqin phachata"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "phachata"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "suqta ñiqinta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מול",
+      "gloss": "qaylla"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "carpap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:36:53.366123861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "genesis 13:12",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 13,
+ "translation": "Abram (Abrán) Kanaanpa hallp'anpi tiyarqanmi; Lote (Lot)taq pampap llaqtankunapi tiyarqanmi, Sedommankama wasinta churarqan.",
+ "tokens": [
+  {
+   "surface": "אברם",
+   "gloss": "Abram (Abrán)"
+  },
+  {
+   "surface": "ישב",
+   "gloss": "tiyarqanmi"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "hallp'anpi"
+  },
+  {
+   "surface": "כנען",
+   "gloss": "Kanaanpa"
+  },
+  {
+   "surface": "ולוט",
+   "gloss": "Lote (Lot)taq"
+  },
+  {
+   "surface": "ישב",
+   "gloss": "tiyarqanmi"
+  },
+  {
+   "surface": "בערי",
+   "gloss": "llaqtankunapi"
+  },
+  {
+   "surface": "הככר",
+   "gloss": "pampap"
+  },
+  {
+   "surface": "ויאהל",
+   "gloss": "wasinta churarqan"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kama"
+  },
+  {
+   "surface": "סדם",
+   "gloss": "Sedomman"
+  }
+ ],
+ "timestamp": "2026-09-07T23:54:16.730705823Z",
+ "model": "glm-5.3"
+}

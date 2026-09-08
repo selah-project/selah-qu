@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Pichqa p'achakuna huk hukwan t'inkisqa kanqam, hinaspa pichqa p'achakuna huk hukwan t'inkisqa kanqam.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "p'achakuna"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "kanqam"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "t'inkisqa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "huk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hukwan"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "huk hukwan"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "hinaspa pichqa"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "p'achakuna"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "t'inkisqa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "huk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hukwan"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "huk hukwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:51.440323868Z",
+  "model": "glm-5.3"
+}

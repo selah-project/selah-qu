@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Umalliqman. Davidpa salmon. Yupaychayniy Elohimniy, ama upallaychu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Umalliqman"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "salmon"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "yupaychayniy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "upallaychu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:20.494159606Z",
+  "model": "glm-5.3"
+}

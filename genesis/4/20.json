@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "genesis 4:20",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Hinaspa Adahm ⟨את⟩ Jabalta wacharqan; paymi karqan wasichaq awqa-ayllukunapa, uywakunayuqkunapa hatun karqan.",
+ "tokens": [
+  {
+   "surface": "ותלד",
+   "gloss": "hinaspa ... wacharqan"
+  },
+  {
+   "surface": "עדה",
+   "gloss": "Adahm"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Jabalta"
+  },
+  {
+   "surface": "יבל",
+   "gloss": "Jabal"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "pay"
+  },
+  {
+   "surface": "היה",
+   "gloss": "karqan"
+  },
+  {
+   "surface": "אבי",
+   "gloss": "hatun karqan"
+  },
+  {
+   "surface": "ישב",
+   "gloss": "wasichaq"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "carpapi"
+  },
+  {
+   "surface": "ומקנה",
+   "gloss": "uywakunayuqkunapa"
+  }
+ ],
+ "timestamp": "2026-09-08T02:00:27.467421889Z",
+ "model": "glm-5.3"
+}

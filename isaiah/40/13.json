@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Pi tak'urqanchu ⟨את⟩ Yahwepa ruwanta? Ima runapas paypa amawtan kaspa payta yachachirqanchu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Pi"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "tak'urqanchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa ruwanta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruwanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ima runapas"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "amawtan"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "yachachirqanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:23:01.546592790Z",
+  "model": "glm-5.3"
+}

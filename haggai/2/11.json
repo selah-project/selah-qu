@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "haggai 2:11",
+ "book": "haggai",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Kay hinata Yahwe Tsebaot nin: ⟨את⟩ kohenkunata (sacerdoteskuna) Tormanta tapuy nan, nispa:",
+ "tokens": [
+  {
+   "surface": "כה",
+   "gloss": "kay hinata"
+  },
+  {
+   "surface": "אמר",
+   "gloss": "nin"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "צבאות",
+   "gloss": "Tsebaot"
+  },
+  {
+   "surface": "שאל",
+   "gloss": "tapuy"
+  },
+  {
+   "surface": "נא",
+   "gloss": "nan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kohanimkunata"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "kohenkunata"
+  },
+  {
+   "surface": "תורה",
+   "gloss": "Toramanta"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "nispa"
+  }
+ ],
+ "timestamp": "2026-09-08T09:16:30.745311525Z",
+ "model": "glm-5.3"
+}

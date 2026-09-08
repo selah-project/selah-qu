@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 12:1",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Qawanallaykim kanki, Yahwe, ñuqam qamwan rimanakusaq kaptinpas; ichataq mishpatikunatam ⟨את⟩ qamta willasaq: imarayku mana allin runakuna ñan allinta purin? imaraykutam llapan llullaqkuna thakillawan kachkan?",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "qawanallaykim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaptinpas"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "rimanakusaq"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ichataq"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "mishpatikunata"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "willasaq"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ qamta",
+      "marks": "qamta — ⟨את⟩ ukhupi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana-allin-runakuna"
+    },
+    {
+      "surface": "צלחה",
+      "gloss": "allinta-purin"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "thakillawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "llullaq"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "llullakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T07:04:19.358244128Z",
+  "model": "glm-5.3"
+}

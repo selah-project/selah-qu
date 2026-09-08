@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Llapanqa llapaman huk tukukuymi: haqellapaqmanpas, mana allin runamanpas, allinmanpas, ch'uyamanpas, hinaspa millaymanpas, korban churaqmanpas, mana churaqmanpas; allin hina, p'ataq hina; juramentota ruwaq hina, juramentota manchariq hina.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapaman"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "tukukuy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "haqellapaqman"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "hinaspa mana allin runaman"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "allinman"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "hinaspa ch'uyaman"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "hinaspa millayman"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "hinaspa korban churaqman"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "hinaspa pitawan"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban churaq"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "allin hina"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "p'ataq hina"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "juramentota ruwaq"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "juramentota"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "manchariq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:44:06.714140124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Kamachiqman, Davidpa mizmor (salmo).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kamachiqman"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:36.551945384Z",
+  "model": "glm-5.3"
+}

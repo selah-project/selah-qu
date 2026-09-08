@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaykunata hierro varrawan t'ikasqanki, alfareropa vasillanman hina phakichisqanki.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "t'ikasqanki"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "varrawan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "hierro"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "vasillanman hina"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "alfareropa"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "phakichisqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:02.709479331Z",
+  "model": "glm-5.3"
+}

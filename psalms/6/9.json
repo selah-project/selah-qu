@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "psalms 6:9",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 6,
+ "translation": "Yaqakuychik ñuqamanta, llapan mana allin ruwaqkuna; imaraykuchus Yahwem uyaran waqayta kunkata.",
+ "tokens": [
+  {
+   "surface": "סורו",
+   "gloss": "yaqakuychik"
+  },
+  {
+   "surface": "ממני",
+   "gloss": "ñuqamanta"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "פעלי",
+   "gloss": "ruwaqkuna"
+  },
+  {
+   "surface": "און",
+   "gloss": "mana allin"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "שמע",
+   "gloss": "uyaran"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "קול",
+   "gloss": "kunka"
+  },
+  {
+   "surface": "בכיי",
+   "gloss": "waqayta"
+  }
+ ],
+ "timestamp": "2026-09-08T09:26:34.022238291Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Qam kunan p'unchawmi ⟨את⟩ Moavpa saywan ñawpaqeninta, ⟨את⟩ Ar llaqtata ch'ampanki:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qam"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ch'ampanki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moavpa saywan ñawpaqeninta"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "saywan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar llaqtata"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar llaqtata"
+    }
+  ],
+  "timestamp": "2026-09-08T02:26:06.127390013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Hinaspa Jormahpi (Horma) kaqkunamanpas, hinaspa Kor-Ashanpi kaqkunamanpas, hinaspa Atakpi (Atac) kaqkunamanpas.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "hinaspa ... kaqkunamanpas"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Jormahpi (Horma)"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "hinaspa ... kaqkunamanpas"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Kor-"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashanpi"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "hinaspa ... kaqkunamanpas"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Atakpi (Atac)"
+    }
+  ],
+  "timestamp": "2026-09-08T13:34:22.711657979Z",
+  "model": "glm-5.3"
+}

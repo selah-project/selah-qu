@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 22:31",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Aram (Siria) apunm kamarqan ⟨את⟩ karru umalliqninta, paypa kimsa chunka iskay kaqta, nispa: Ama awqanakuychichu ⟨את⟩ uchuyuqta, hinaspa ⟨את⟩ hatunta, aswantaq ⟨את⟩ Israelpa apunllata.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karru umalliqninta"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqninta"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "karru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "awqanakuychichu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uchuyuqta"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "uchuyuqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hatunta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatunta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "taq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa apunllata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apunllata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "lla"
+    }
+  ],
+  "timestamp": "2026-09-08T05:22:43.715381284Z",
+  "model": "glm-5.3"
+}

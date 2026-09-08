@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Kaykunam kanku kamachikuykuna, mayqinkunataq ñawpaqchanki paykunaman.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kaykunam"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "kamachikuykuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunataq"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ñawpaqchanki"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:30.207547894Z",
+  "model": "glm-5.3"
+}

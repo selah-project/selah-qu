@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "psalms 48:10",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 48,
+ "translation": "Elohim, jesedniyki yuyarqaykum hichik wasiykip ukhunpi.",
+ "tokens": [
+  {
+   "surface": "דמינו",
+   "gloss": "yuyarqayku"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "חסדך",
+   "gloss": "jesedniyki"
+  },
+  {
+   "surface": "בקרב",
+   "gloss": "ukhunpi"
+  },
+  {
+   "surface": "היכלך",
+   "gloss": "hichik wasiykip"
+  }
+ ],
+ "timestamp": "2026-09-08T09:47:37.348696140Z",
+ "model": "glm-5.3"
+}

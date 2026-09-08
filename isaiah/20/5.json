@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Mancharikurqankum hinaspa p'inqakurqanku Kushmanta — suyayninkumanta — hinaspa Mitsrayimmanta — sumaq kayninkumanta.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "mancharikurqankum"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "hinaspa p'inqakurqankum"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kushmanta"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "suyayninkumanta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hinaspa Mitsrayimmanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "sumaq kayninkumanta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:02:14.790856640Z",
+  "model": "glm-5.3"
+}

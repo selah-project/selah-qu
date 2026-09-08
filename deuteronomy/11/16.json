@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 11:16",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hark'akuychik: ama sunquykiwichik umallichisqa kachunchu chá, sarpa qatipunkichik, wak dioskunata sirvipankichik, chaykunata yupaychankichikchá.",
+  "tokens": [
+    {
+      "surface": "השמרו",
+      "gloss": "hark'akuychik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunallapaq"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "umallichisqa kachun"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sunquykiwichik"
+    },
+    {
+      "surface": "וסרתם",
+      "gloss": "sarpa qatipunkichik"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "sirvipankichik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wak"
+    },
+    {
+      "surface": "והשתחויתם",
+      "gloss": "chaykunata yupaychankichik"
+    },
+    {
+      "surface": "להם",
+      "gloss": "chaykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T02:37:22.835508110Z",
+  "model": "glm-5.3"
+}

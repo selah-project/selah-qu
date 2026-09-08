@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Hinan hatun k'acha kayniykiwan sayarimuq awqaykikunata thuqurqankim; phiñakuykiwan kachamuwanki, chaymi paykunata q'achu hina mikhurqan.",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "hatun kayniykiwan"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "k'acha kayniyki"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "thuqurqanki"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "sayarimuq awqaykikunata"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "kachamuwanki"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "phiñakuykiwan"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "paykunata mikhurqan"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "q'achu hina"
+    }
+  ],
+  "timestamp": "2026-09-08T13:24:04.328784976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 10:10",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Munayniypi wisq'asqaymi; runa masikuna huñikuspa hamunqakum paykunaman, iskay ñawinku wisq'asqa kachkaptin.",
+  "tokens": [
+    {
+      "surface": "באותי",
+      "gloss": "munayniypi"
+    },
+    {
+      "surface": "ואסרם",
+      "gloss": "wisq'asqay"
+    },
+    {
+      "surface": "ואספו",
+      "gloss": "huñikuspa hamunqakum"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runa masikuna"
+    },
+    {
+      "surface": "באסרם",
+      "gloss": "wisq'asqa kachkaptin"
+    },
+    {
+      "surface": "לשתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "עינתם",
+      "gloss": "ñawinku"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:08.887915155Z",
+  "model": "glm-5.3"
+}

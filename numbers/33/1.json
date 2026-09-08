@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 33:1",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Kaykunaqa Israelpa wawankunap puriyninkunam, mayqinkunam Mitsrayim hallp'amanta lluqsirqanku awqakunan huñusqalla, Moshepa (Moisés) hinaspa Aharonpa (Aarón) makinwan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "מסעי",
+      "gloss": "puriyninkuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lluqsirqanku"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "awqakunan huñusqalla"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinwan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshepa (Moisés)"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "hinaspa Aharonpa (Aarón)"
+    }
+  ],
+  "timestamp": "2026-09-08T02:22:01.504302095Z",
+  "model": "glm-5.3"
+}

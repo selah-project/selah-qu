@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Qaraypi**m** saqta wirarqani, hinaspa q'ellollayta aqoyrapi pacharqani.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "saq (llanqha aksu)"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "wirarqani"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "-pi (qaraypi)"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "qaray"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "pacharqani"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "aqoyrapi"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "q'ellollay"
+    }
+  ],
+  "timestamp": "2026-09-08T14:21:02.749605584Z",
+  "model": "glm-5.3"
+}

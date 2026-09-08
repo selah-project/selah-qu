@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Gefénta Mitsrayimmanta apamunki (Egipto), llaqtakunata qarqunki, chaymanta churamunki ⟨chayta⟩.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "gefén"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta (Egipto)"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "apamunki"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "qarqunki"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "churamunki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:03.221693686Z",
+  "model": "glm-5.3"
+}

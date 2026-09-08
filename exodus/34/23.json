@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Kimsa kuti watapi llapan qhariykim Adonay Yahwepa, Israelpa Elohimninpa ⟨את⟩ ñawinkunata rikuchinqa.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "watapi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rikuchinqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "qhariykim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawinkunata"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawinkunata"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimninpa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:05.088017438Z",
+  "model": "glm-5.3"
+}

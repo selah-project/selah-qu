@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yaykurqanm Noach (Noé), churiyinkunawan, warmiwan, churiyinkunap warmiyninkunawan ⟨את⟩ paywan, arkaman, Mabulpa ununku ñawpaqmanta.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yaykurqan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "churiyinkunawan"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "warmiwan"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "warmiyninkunawan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churiyinkunap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "paywan — Noachwan kuska"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arkaman"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqmanta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ununku"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Mabulpa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:52.361355210Z",
+  "model": "glm-5.3"
+}

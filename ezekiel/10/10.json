@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 10:10",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Rikch'ayninkuqa tawantinpaq huk dmunt'imi kachkan, imayna huk muyuqa huk muyupa chawpinpi kachkan hina.",
+  "tokens": [
+    {
+      "surface": "ומראיהם",
+      "gloss": "rikch'ayninkuqa"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "dmunt'i"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "tawantinpaq"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imayna ... hina"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kachkan"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "huk muyuqa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "האופן",
+      "gloss": "huk muyupa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:55:31.623820237Z",
+  "model": "glm-5.3"
+}

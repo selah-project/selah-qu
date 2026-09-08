@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 84,
+  "translation": "Ima kusim runa, kallpanmi Qampi kaq; ñankunaqmi sonqonkuna ukhupi kachkan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ima kusi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "kallpa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Qampi"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ñankunaq"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "sonqonkuna ukhupi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:13.096513698Z",
+  "model": "glm-5.3"
+}

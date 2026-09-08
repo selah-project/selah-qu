@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaskiy ⟨את⟩ paykunamanta, Tupanakuy carpap llamk'ayninta llamk'anankupaq kanqaku; hinaspa ⟨את⟩ paykunata qunki Levikunaman, sapanka llamk'ayninman hina.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Chaskiy"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ paykunamanta"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "llamk'anankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llamk'ayta"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "llamk'ayta"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "carpap"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Tupanakuy"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "hinaspa qunki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "Levikunaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levikuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapanka"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "hina"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "llamk'ayninman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:19:08.771685624Z",
+  "model": "glm-5.3"
+}

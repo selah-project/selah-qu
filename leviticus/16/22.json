@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa kabraqa paypi ⟨את⟩ llapa awuankunata apakunqam t'aqasqa hallp'aman; hinaspa ⟨את⟩ kabrata sach'a-sach'api kachaqachinqam.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "apakunqam"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kabraqa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "awuankunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "t'aqasqa"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "kachaqachinqam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabrata"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "kabrata"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sach'a-sach'api"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:10.375288334Z",
+  "model": "glm-5.3"
+}

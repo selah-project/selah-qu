@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Uyarirqanmi Tow (Toi), Chamatpa apun, David ⟨את⟩ Hadadezerpa, Tsobapa apunpa, hunt'a awqanta mak'asqanmanta.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqanmi"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tow"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamatpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "mak'asqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hunt'a awqanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "awqanta"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerpa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apunpa"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    }
+  ],
+  "timestamp": "2026-09-08T12:45:39.310014804Z",
+  "model": "glm-5.3"
+}

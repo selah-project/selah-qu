@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Sichus mana suyaspa karqayku chayqa, kunanñam iskay kutilla kay kutita kutimurqayku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sichus…chayqa"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "mana karqan chayqa"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "suyaspa karqayku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ñataqmi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunanña"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "kutimurqayku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay kuti"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "iskay kuti"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:19.508122179Z",
+  "model": "glm-5.3"
+}

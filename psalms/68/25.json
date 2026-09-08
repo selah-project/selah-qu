@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Rikurqanku**m** Elohim, puriyniykita; Elniy, apuypa puriyninta qodeshpi.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "rikurqankum"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "puriyniykita"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "puriyninta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elniy"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apuypa"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "qodeshpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:36.917489752Z",
+  "model": "glm-5.3"
+}

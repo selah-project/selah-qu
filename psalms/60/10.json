@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Moab ñuqap araway mankallam; Edompatataq ñuqap churanata warqasaq; Peleshet (Filistea), ñuqarayku q'uchakuy.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "mankalla"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ñuqap arawanapaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "warqasaq"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ñuqap churanata"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqarayku"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "q'uchakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:12.334286291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Apukunapas tiyarqankum ñuqamanta mana allinta rimanankupaq; qampa yanapaqniykiqa kamachiykita yuyaykurqanim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tiyarqankum"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "rimanankupaq"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qampa yanapaqniyki"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "yuyaykurqanim"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "kamachiykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:10.872421998Z",
+  "model": "glm-5.3"
+}

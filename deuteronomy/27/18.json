@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Saqrachisqam pay mana rikuq runata ñanpi pantachiq; hinaspa llapa runakunaqa Amén ninqa.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Saqrachisqam"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "pantachiq"
+    },
+    {
+      "surface": "עור",
+      "gloss": "mana rikuq runata"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "hinaspa ... ninqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaqa"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amén"
+    }
+  ],
+  "timestamp": "2026-09-08T02:54:25.558105296Z",
+  "model": "glm-5.3"
+}

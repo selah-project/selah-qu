@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa sandulaman churanki ⟨את⟩ edutta, chayta qusaq qamman.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "hinaspa churanki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "edutta"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "edutta (testimonio)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:36:37.375869105Z",
+  "model": "glm-5.3"
+}

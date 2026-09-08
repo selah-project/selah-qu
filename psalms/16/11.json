@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Kawsay ñanta yachachinwaqmi, qanpa ⟨את⟩ ñawiyki ñawpi hunt'a kusikuykunam, paña makiykipi sumaq kawsaykuna wiñaypaqmi.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "yachachinwaqmi"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ñanta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsay"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "kusikuykunam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawiyki"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiyki"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "sumaq kawsaykuna"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "paña makiykipi"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "wiñaypaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:22.105445164Z",
+  "model": "glm-5.3"
+}

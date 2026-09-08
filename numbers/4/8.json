@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaykunapatanmi t'ikranqaku tolaat shanip p'achata, hinaspa ⟨את⟩ chayta tahash qarap wishq'anawan wishq'unqaku, hinaspa ⟨את⟩ sirpanta churarqonqaku.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "t'ikranqaku"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "chaykunapata"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "p'acha"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "wishq'unqaku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chayta"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "wishq'anawan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "qara"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahash"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "churarqonqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sirpanta"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sirpa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:16:33.501261159Z",
+  "model": "glm-5.3"
+}

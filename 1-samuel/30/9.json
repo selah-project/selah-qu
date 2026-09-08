@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 30:9",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Chaymanta Davidmi riwirqan, pay hinaspa suqta pachak runa ⟨את⟩ paywan kashaq, Besor mayukama chayarqanku; hinaspa saqisqakunataq sayarqankum.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "riwirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "hinaspa suqta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kashaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "suqta pachak runa"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "chayarqanku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    },
+    {
+      "surface": "והנותרים",
+      "gloss": "hinaspa saqisqakuna"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "sayarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T04:29:05.476514480Z",
+  "model": "glm-5.3"
+}

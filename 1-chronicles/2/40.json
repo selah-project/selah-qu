@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Elasahm ⟨את⟩ Sismayta wawacharqan, hinaspa Sismaym ⟨את⟩ Shalumta wawacharqan.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "hinaspa Elasah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismayta"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismay"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "hinaspa Sismay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalumta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalum"
+    }
+  ],
+  "timestamp": "2026-09-08T12:30:21.501905110Z",
+  "model": "glm-5.3"
+}

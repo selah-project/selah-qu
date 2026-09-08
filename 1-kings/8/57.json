@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Kashqachun Yahwe Elohimniyku ñuqaykuwan, imashina ñawpa taytakunaykuwan kashqa; ama ñuqaykuta saqechunchu, ama ñuqaykuta paskachunchu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kashqachun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimniyku"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ñuqaykuwan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imashina"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kashqa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "taytakunaykuwan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "saqechunchu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "paskachunchu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:05:50.540535878Z",
+  "model": "glm-5.3"
+}

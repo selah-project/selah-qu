@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chay Elmi, ñuqaman muchuychaykunata qun, hinaspa runa llaqtakunata ñuqap uranpi wanichin.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "chay El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "qun"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "muchuychaykuna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "hinaspa wanichin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runa llaqtakunata"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ñuqap uranpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:47.532226335Z",
+  "model": "glm-5.3"
+}

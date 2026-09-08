@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Taytayki ⟨את⟩ yugonchikta sinchiyarqanmi; kunanqataq pisiyachiy taytaykipa sinchi llamk'ayninta, ñuqanchikpatapi churasqan llasaq yugommantawan, chayqa qamta llamk'asaqku.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "taytayki"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sinchiyarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yugonchikta"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "yugonchikta"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kunanqataq"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "pisiyachiy"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "llamk'ayninta"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytaykipa"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sinchita"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "yugommanta"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "llasaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqentachus"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqanchikpatapi"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "qamta llamk'asaqku"
+    }
+  ],
+  "timestamp": "2026-09-08T13:00:32.941755737Z",
+  "model": "glm-5.3"
+}

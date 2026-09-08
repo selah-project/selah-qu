@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Imaraykuchus qammi ñuqap ukhu kurkuyta rurarqanki, mamanap wiksanpi wit'uykachaspa ñuqata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qammi"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "rurarqanki"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ñuqap ukhu kurkuyta"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "wit'uykachaspa ñuqata"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "wiksanpi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamanap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:42.095995905Z",
+  "model": "glm-5.3"
+}

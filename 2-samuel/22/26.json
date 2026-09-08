@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 22:26",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Jesedniyuqwan jesedta rikuchinki, hunt'allaqwanmi hunt'allata rikuchinki.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "jesedniyuq"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "jesedta rikuchinki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "gibor"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hunt'allaq"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "hunt'allata rikuchinki"
+    }
+  ],
+  "timestamp": "2026-09-08T04:53:55.513253664Z",
+  "model": "glm-5.3"
+}

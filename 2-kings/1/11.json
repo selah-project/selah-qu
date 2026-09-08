@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 1:11",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kutiruspa huk machaq pichqa chunka umalliqta, pichqa chunkanwan kachawarqan. Chayqa kutirirqan, payman nispa: Elohimpa runan, apu kayta nirqan: Utqaylla uraykamuy.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Kutiruspa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kachawarqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umalliqta"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pichqa chunka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "huk machaq"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "pichqa chunkanwan"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "kutirirqan"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "Utqaylla"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "uraykamuy"
+    }
+  ],
+  "timestamp": "2026-09-08T05:24:04.010978131Z",
+  "model": "glm-5.3"
+}

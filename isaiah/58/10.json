@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "isaiah 58:10",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 58,
+ "translation": "Hinaspa sichus nefeshniykillata yar'uqman lluqsichinki, nanachisqa nefeshtataq hunt'achinki, chaymi llanthu ukhupi k'anchayniki phaqarinqa, ch'iqnin tutaynikiqa chawpi p'unchaw hina ⟨kan⟩mi kanqa.",
+ "tokens": [
+  {
+   "surface": "ותפק",
+   "gloss": "Hinaspa lluqsichinki"
+  },
+  {
+   "surface": "לרעב",
+   "gloss": "yar'uqman"
+  },
+  {
+   "surface": "נפשך",
+   "gloss": "nefeshniykillata"
+  },
+  {
+   "surface": "ונפש",
+   "gloss": "hinaspa nefesh"
+  },
+  {
+   "surface": "נענה",
+   "gloss": "nanachisqa"
+  },
+  {
+   "surface": "תשביע",
+   "gloss": "hunt'achinki"
+  },
+  {
+   "surface": "וזרח",
+   "gloss": "chaymi phaqarinqa"
+  },
+  {
+   "surface": "בחשך",
+   "gloss": "llanthu ukhupi"
+  },
+  {
+   "surface": "אורך",
+   "gloss": "k'anchayniki"
+  },
+  {
+   "surface": "ואפלתך",
+   "gloss": "hinaspa ch'iqnin tutayniki"
+  },
+  {
+   "surface": "כצהרים",
+   "gloss": "chawpi p'unchaw hina"
+  }
+ ],
+ "timestamp": "2026-09-08T06:41:42.304517910Z",
+ "model": "glm-5.3"
+}

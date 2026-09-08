@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Hanq pachata yachaywan kamaraqmi, jimiymi wiñaypaq.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "kamaraqmi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanq pachata"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "yachaywan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jimarayku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesedninmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:02.837416317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaym runakunaman nirqan: kimsa p'unchawpaq ñawpaqchanakuychik; ama warmiman chayaychikchu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kaychik"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "ñawpaqchanakuychik"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawpaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "chayaychikchu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:13.677744315Z",
+  "model": "glm-5.3"
+}

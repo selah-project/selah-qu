@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Imaraykuchus Elohimta iñirqankuchu, qespichiyninpipas manam suyirqankuchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "iñirqankuchu"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinallataq manam"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "suyirqankuchu"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "qespichiyninpipas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:45.898652888Z",
+  "model": "glm-5.3"
+}

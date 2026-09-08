@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 4:16",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Nirqantaq: Kay motta p'unchawpi, kawsay pachahina, qam churiyta maranaykiwan much'anki. Warmiqa nirqan: Ama, ñuqap Apu, Elohimpa runan, ama llullawaychu ñuqata, qampa yanay warmiykita.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqantaq"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "motta p'unchawpi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "pachahina"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kawsay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "qam"
+    },
+    {
+      "surface": "חבקת",
+      "gloss": "maranaykiwan much'anki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churiyta"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ñuqap Apu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תכזב",
+      "gloss": "llullawaychu"
+    },
+    {
+      "surface": "בשפחתך",
+      "gloss": "ñuqata, qampa yanay warmiykita"
+    }
+  ],
+  "timestamp": "2026-09-08T05:27:22.905237566Z",
+  "model": "glm-5.3"
+}

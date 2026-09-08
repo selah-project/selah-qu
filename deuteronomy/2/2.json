@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Yahwem ñuqaman nirqan ninan:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ninan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:25:26.438578251Z",
+  "model": "glm-5.3"
+}

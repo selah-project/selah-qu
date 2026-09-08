@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Parataq hallp'ap patanmi karqan tawa chunka p'unchaw, hinaspa tawa chunka tuta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "para"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "tawa chunka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "hinaspa tawa chunka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:52.488633643Z",
+  "model": "glm-5.3"
+}

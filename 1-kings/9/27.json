@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 9:27",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa Jiram (Hiram) ⟨את⟩ yanapakusqankunata wamp'ukunapi apachirqan — mama quchata riqsiq wamp'u runakunata — Shelomopa yanapakusqankunawan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "hinaspa apachirqan"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Jiram (Hiram)"
+    },
+    {
+      "surface": "באני",
+      "gloss": "wamp'ukunapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapakusqankunata"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapakusqankunata"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "wamp'u"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "riqsiq"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama quchata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wanan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapakusqankuna"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomopa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:08:21.694738335Z",
+  "model": "glm-5.3"
+}

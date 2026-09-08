@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Sichus qam mana kachariyta munanki chayqa, qhaway: ñuqim ⟨את⟩ llapan saywaykita kaqllukunawan sarunchasaq.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "mana munaspa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kachariyta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "sarunchasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan saywaykita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "saywaykita"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "kaqllukunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:01.649703084Z",
+  "model": "glm-5.3"
+}

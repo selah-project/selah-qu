@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Manam kallpaniyqa rumikunap kallpanchu; manam aychaniyqa antaka hina sinchichu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "manam...chu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kallpa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "rumikunap"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kallpaniy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "aychaniy"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "antaka hina sinchi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:59:17.099115891Z",
+  "model": "glm-5.3"
+}

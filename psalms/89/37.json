@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Paypa murun wiñaypaq kanqami, hinataq paypa tiyanan inti hina ñuqap ñawpaqpi.",
+  "tokens": [
+    {
+      "surface": "זרעו",
+      "gloss": "paypa murun"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqami"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "hinataq paypa tiyanan"
+    },
+    {
+      "surface": "כשמש",
+      "gloss": "inti hina"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ñuqap ñawpaqpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:47.797210801Z",
+  "model": "glm-5.3"
+}

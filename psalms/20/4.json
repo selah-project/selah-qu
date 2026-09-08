@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Llapa minchaykikunata yuyachun, hinaspa olatayki chaskichun. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "yuyachun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "minchaykikunata"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "hinaspa olatayki"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "chaskichun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:16.011093498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Chakirqam qora, wilan t'ika; icha Elohimninchikpa siminqa wiñaypaq sayanqam.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "chakirqam"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "qora"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "wilan"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "t'ika"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "hinaspa simin"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sayanqam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:46:40.499069709Z",
+  "model": "glm-5.3"
+}

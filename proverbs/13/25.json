@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Justa runam mikun nefeshninta hunt'ananchikpaq; ichataq haqeq runakunpa wiksan chusaqmi kanqa.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "justa runa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikun"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "hunt'ananchikpaq"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshninta"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "ichataq wiksan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haqeq runakunpa"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "chusaq kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:26.203021196Z",
+  "model": "glm-5.3"
+}

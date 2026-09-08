@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Yahwe, Sutiykiqa wiñay kachkanmi; Yahwe, yupyayniykiqa wata ayllumanta wata ayllukamanmi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiyki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "yupyayniyki"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "wata ayllu"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "hinaspa wata ayllu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:06.241116108Z",
+  "model": "glm-5.3"
+}

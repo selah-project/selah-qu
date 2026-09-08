@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa hanaqchakurqanku, hinaspa ⟨את⟩ millayta ñawpayninpi rurarqanku; chaymanta ⟨את⟩ paykunata qichurqani ñawiywan qhawaspa.",
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "hinaspa hanaqchakurqanku"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "hinaspa rurarqanku"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "millayta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpayninpi"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "chaymanta qichurqani"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "qhawaspa hina"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ñawiywan qhawaspa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:03:04.218138139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 4:2",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Musqhuta qhawarqani, chaym mancharichimuwarqanmi; mishkiypi yuyaykunapas, hinaspa umaypa rikch'akunapas mancharichimuwarqanku.",
+  "tokens": [
+    {
+      "surface": "חלם",
+      "gloss": "musqhuta"
+    },
+    {
+      "surface": "חזית",
+      "gloss": "qhawarqani"
+    },
+    {
+      "surface": "וידחלנני",
+      "gloss": "chaym mancharichimuwarqanmi"
+    },
+    {
+      "surface": "והרהרין",
+      "gloss": "yuyaykunapas"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "mishkiy"
+    },
+    {
+      "surface": "וחזוי",
+      "gloss": "hinaspa rikch'akunapas"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umaypa"
+    },
+    {
+      "surface": "יבהלנני",
+      "gloss": "mancharichimuwarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T11:57:26.815415946Z",
+  "model": "glm-5.3"
+}

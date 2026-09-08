@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaymantam paykunaman qurqanku ⟨את⟩ Chevronta Yehuda hallp'api, hinaspa ⟨את⟩ paypa q'elu pampakunata paypa muyuriqninpi.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "qurqanku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevronta"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron (Hebrón)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda (Judá)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa q'elu pampakunata"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "paypa q'elu pampakuna"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "paypa muyuriqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:36:11.528147660Z",
+  "model": "glm-5.3"
+}

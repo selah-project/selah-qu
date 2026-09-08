@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Israelpa runankuna llakipi kasqankuta rikurqankum, runakuna nanachisqa kasqankurayku; chaymi runakuna pakakurqanku wiñay wayqokunapi, kiskachakunapi, rumikunapi, hatun rumikunapi, chhurunakunapipas.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "runankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "rikurqankum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqankuta"
+    },
+    {
+      "surface": "צר",
+      "gloss": "llakipi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqankurayku"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "nanachisqa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "pakakurqanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "wiñay wayqokunapi"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "kiskachakunapi"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "rumikunapi"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "hatun rumikunapi"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "chhurunakunapipas"
+    }
+  ],
+  "timestamp": "2026-09-08T04:11:20.381100381Z",
+  "model": "glm-5.3"
+}

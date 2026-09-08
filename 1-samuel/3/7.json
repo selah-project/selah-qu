@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaysi Shimuelqa manaraqmi riqsirqachu ⟨את⟩ Yahweta; manaraqmi Yahwepa simin payman rikhurirqachu.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Chaysi Shimuelqa"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "riqsirqachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "manaraqmi"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "rikhurirqachu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:04:38.420425831Z",
+  "model": "glm-5.3"
+}

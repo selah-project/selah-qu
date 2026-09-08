@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Payqa kimsa waranqa yachachiy rimayta rimarqan; paypa takinkunataq pichqa waranqa hukmi karqan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "משל",
+      "gloss": "yachachiy rimayta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "paypa takinkunataq"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pichqa waranqa"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-08T05:00:52.611131185Z",
+  "model": "glm-5.3"
+}

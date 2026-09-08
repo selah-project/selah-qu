@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Qampi, Yahwe, sach'akurqanim; ama wiñaypaq p'inqariwachuchu.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Qampi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sach'akurqanim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "p'inqariwachuchu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:10.129344458Z",
+  "model": "glm-5.3"
+}

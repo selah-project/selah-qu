@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chaymantam ⟨את⟩ bastonkunata anillukunapi churarqan, aronpa larinkunapi, ⟨את⟩ aronta apaynanpaq.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bastonkunata"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "bastonkuna"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "anillukunapi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "larinkuna"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aronpa"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "apaynanpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aronta"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aronta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:34.904845129Z",
+  "model": "glm-5.3"
+}

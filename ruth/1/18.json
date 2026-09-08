@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymi qawarqan pay sinchitam willkasqa kaptin ⟨את⟩ paywan purinampaq; chaymi payman rimayta saqirparqan.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "qawarqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "sinchitam willkasqa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "purinampaq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "paywan"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "saqirparqan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:30:35.241505609Z",
+  "model": "glm-5.3"
+}

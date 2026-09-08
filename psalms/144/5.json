@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 144,
+  "translation": "Yahwe, hanaq pachaykita waytuchuy hina uraykamuy; orqokunata llamiy, chaykunam qhathinakunqaku.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "waytuchuy"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "hanaq pachaykita"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "hina uraykamuy"
+    },
+    {
+      "surface": "גע",
+      "gloss": "llamiy"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "orqokunata"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "chaykunam qhathinakunqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:57.280437553Z",
+  "model": "glm-5.3"
+}

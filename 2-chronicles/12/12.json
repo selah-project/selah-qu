@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 12:12",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Pay humillasqanrayku, Yahwep ch'akiynin paymanta tikrakurqan, mana tukuyta chinkachinaykupaq; Yehudapipas allin ruraykuna karqan.",
+  "tokens": [
+    {
+      "surface": "ובהכנעו",
+      "gloss": "pay humillasqanrayku"
+    },
+    {
+      "surface": "שב",
+      "gloss": "tikrakurqan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ch'akiynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "chinkachinaykupaq"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "tukuyta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinaspa ... -pas"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudapipas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ruraykuna"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "allin"
+    }
+  ],
+  "timestamp": "2026-09-08T14:30:12.158090050Z",
+  "model": "glm-5.3"
+}

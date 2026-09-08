@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Chiqapta, chiqapta qatikuy, chayrayku kawsankim, hinaspa ⟨את⟩ hallp'ata ñas chaskinkim, mayqin hallp'atachus Yahwe Elohimniyki qamman qunqan.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "chiqapta"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chiqapta"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "qatikuy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "kawsanki"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "hinaspa ñas chaskinki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qunqan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:44:11.533640930Z",
+  "model": "glm-5.3"
+}

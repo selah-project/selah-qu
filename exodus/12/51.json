@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chay p'unchaw kikinpi Yahwem ⟨את⟩ Israelpa churinkunata Mitsrayimpa (Egipto) hallp'immanta awqakuna t'aqawan lluqsimuchirqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "kikinpi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "chay p'unchaw"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "lluqsimuchirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa churinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'immanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "על",
+      "gloss": "hina"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "awqakuna t'aqawan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:06.042935882Z",
+  "model": "glm-5.3"
+}

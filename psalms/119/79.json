@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 79,
+ "ref": "psalms 119:79",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 119,
+ "translation": "Mancharikuqnikiykiqa ñuqaman kutimunanku, willakuyniykikunatapas riqsinanku.",
+ "tokens": [
+  {
+   "surface": "ישובו",
+   "gloss": "kutimunanku"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqaman"
+  },
+  {
+   "surface": "יראיך",
+   "gloss": "Mancharikuqnikiykiqa"
+  },
+  {
+   "surface": "וידעו",
+   "gloss": "riqsinanku"
+  },
+  {
+   "surface": "עדתיך",
+   "gloss": "willakuyniykikunatapas"
+  }
+ ],
+ "timestamp": "2026-09-08T10:25:40.896385860Z",
+ "model": "glm-5.3"
+}

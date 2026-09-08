@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Shoham rumikunata, churana rumikunatawan, efodpaq, choshenpaqwan.",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "rumikuna"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "hinaspa rumikuna"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "churana"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "efodpaq"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "hinaspa choshenpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:36:26.633803188Z",
+  "model": "glm-5.3"
+}

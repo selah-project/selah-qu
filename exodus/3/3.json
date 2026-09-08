@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Moshe nirqan: Ñawpaqman t'ikrasaqtaq, kay hatun rikch'ayta qhawasaq ⟨את⟩ — imaraykum thula mana ninawan rawanchu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "t'ikrasaq"
+    },
+    {
+      "surface": "נא",
+      "gloss": "taq"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "qhawasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay hatun rikch'ayta"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "rikch'ayta"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "hatunta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "rawanchu"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "thula"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:16.967474107Z",
+  "model": "glm-5.3"
+}

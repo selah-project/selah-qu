@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ama sonqoykita utqaykachuychu p'iñakunaykipaq; p'iñakaqmi llullu runakunap q'ewinpi samillawanchik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "utqaykachuychu"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "sonqoykita"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "p'iñakunaykipaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(imarayku)"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "p'iñakaq"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "q'ewinpi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "llullu runakunap"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "samillawanchik"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:44.227985917Z",
+  "model": "glm-5.3"
+}

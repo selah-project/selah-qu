@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Hinaspa ⟨את⟩ churiyinkuta, ⟨את⟩ ushiyinkuntawan shedimkunaman ofrendarqankum.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ofrendarqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churiyinkuta"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "churiyinkuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ushiyinkuntawan"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ushiyinkuntawan"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "shedimkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:15.882042604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa emunahpi qamta ñuqaman warmichasqaymi, hinaspa qam ⟨את⟩ Yahweta riqsinki.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "warmichasqaymi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "emunahpi"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "riqsinki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T14:07:08.942383338Z",
+  "model": "glm-5.3"
+}

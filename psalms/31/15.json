@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Ñuqaqtaq Qampi sunquchakuni, Yahwe; ninim: Elohimniy Qam ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqaqtaq"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Qampi"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "sunquchakuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ninim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qam ⟨kan⟩mi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:39.429531533Z",
+  "model": "glm-5.3"
+}

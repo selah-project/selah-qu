@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "⟨את⟩ nina muchaypa mizbajta, hinaspa ⟨את⟩ antaka ch'akichanta mayqen paypa kaq, ⟨את⟩ k'aspinkunata, hinaspa ⟨את⟩ tukuy llamk'anankunata, ⟨את⟩ armanatawan, hinaspa ⟨את⟩ sayananwan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nina muchaypa mizbajta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbaj"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nina muchaypa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "antaka ch'akichanta"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "antaka ch'akichana"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "antaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'aspinkunata"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "k'aspinkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tukuy llamk'anankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "llamk'anankuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "armanatawan"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "armana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sayananwan"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sayanan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:22.731604705Z",
+  "model": "glm-5.3"
+}

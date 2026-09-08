@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 99,
+  "translation": "Yahwe Elohimninchikta hatunchichiy, hinaspa paypa willka orqonman ñawpaqen k'ajkachinkichik, imaraykuchus Yahwe Elohimninchikqa willka kashanmi.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "hatunchichiy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikta"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "hinaspa ñawpaqen k'ajkachinkichik"
+    },
+    {
+      "surface": "להר",
+      "gloss": "orqonman"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "paypa willka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "willka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:14.456549885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 44:1",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Kay simiqa Yirmeyahu (Jeremías)man hamurqanmi, tukuy Yehudi (Judío) runakunaman Mitsrayim (Egipto) hallp'api tiyaqkunaman — Migdolpi, Tajpanjespi, Nophpi, hinaspa Patros hallp'api tiyaqkunaman — nispa.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "kay simiqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hamurqanmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu (Jeremías)man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yehudi (Judío) runakuna"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "במגדל",
+      "gloss": "Migdolpi"
+    },
+    {
+      "surface": "ובתחפנחס",
+      "gloss": "hinaspa Tajpanjespi"
+    },
+    {
+      "surface": "ובנף",
+      "gloss": "hinaspa Nophpi"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "hinaspa hallp'api"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:38:25.853902912Z",
+  "model": "glm-5.3"
+}

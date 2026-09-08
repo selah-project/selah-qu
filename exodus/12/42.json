@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Tuta qhawasqa ⟨kan⟩mi Yahwepaq, paykunata Mitsrayim hallp'amanta lluqsigananpaq; paymi kay tutaqa Yahwepaq, qhawasqa tuta, Israelpa wawankunapaq llapanpaq tukuy kusankunapi.",
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "qhawasqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay ⟨kan⟩mi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "paykunata lluqsigananpaq"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "qhawasqa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapanpaq"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "tukuy kusankunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:45.466810666Z",
+  "model": "glm-5.3"
+}

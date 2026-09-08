@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Paykunam rikurqanku Yahwepa rurasqankunata, paypa ninfakunataq ukhu unapi.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "rikurqanku"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "rurasqankunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "paypa ninfakunataq"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "ukhu unapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:04.694042962Z",
+  "model": "glm-5.3"
+}

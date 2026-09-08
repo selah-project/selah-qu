@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 22,
+ "ref": "psalms 94:22",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 94,
+ "translation": "Chaymanta Yahwem karqa ñuqapaq pukara, hinallataq Elohimniymi ñuqap rumi, ñuqap lat'anay.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "karqam"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqapaq"
+  },
+  {
+   "surface": "למשגב",
+   "gloss": "pukara"
+  },
+  {
+   "surface": "ואלהי",
+   "gloss": "hinallataq Elohimniymi"
+  },
+  {
+   "surface": "לצור",
+   "gloss": "rumi"
+  },
+  {
+   "surface": "מחסי",
+   "gloss": "ñuqap lat'anay"
+  }
+ ],
+ "timestamp": "2026-09-08T10:10:08.754825820Z",
+ "model": "glm-5.3"
+}

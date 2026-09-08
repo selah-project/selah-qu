@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa paypa churi warmi Tamar (Tamar) payman ⟨את⟩ Perets (Fares)ta hinaspa ⟨את⟩ Zeraj (Zara)ta wachakurqan. Yehudahpa churinkunaqa llapanmi pichqa karqan.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "paypa churi warmi"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wachakurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peretsta"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Zerajta"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zeraj"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudahpa"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pichqa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:30:29.015789085Z",
+  "model": "glm-5.3"
+}

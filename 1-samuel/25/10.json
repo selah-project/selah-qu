@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Chaysi Nabalm Davidpa yanapaqkunaman ⟨את⟩ kutichirqan, nin: ¿Pitaq David? ¿Pitaq Ishiypa churin? Kunan p'unchawkunaqa askhañam yanapaqkunam, sapa runa apun ñawpaqmanta karunakuspa.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabalm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidpa yanapaqkunaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapaqkuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pitaq"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "pitaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ishiypa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchawkuna"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "askhañam"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yanapaqkuna"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "karunakuspa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqmanta"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "apun"
+    }
+  ],
+  "timestamp": "2026-09-08T04:24:51.076361066Z",
+  "model": "glm-5.3"
+}

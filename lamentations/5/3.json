@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Yatuyku karqayku, mana taytayuq; mamayku wakcha warmi hinam ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "yatuyku"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "karqayku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אב",
+      "gloss": "taytayuq"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "mamayku"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "wakcha warmi hinam ⟨kan⟩"
+    }
+  ],
+  "timestamp": "2026-09-08T11:37:02.011730852Z",
+  "model": "glm-5.3"
+}

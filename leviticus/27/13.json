@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinaspa sichus paymi qispichinqa, chayqa chaymanta pichqa chunkamanta hukta qolqechikusqaykiman hawapi yapunqam.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa sichus"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "qispichinqa"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "paymi qispichinqa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "yapunqam"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "chaymanta pichqa chunkamanta hukta"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawapi"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "qolqechikusqaykiman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:14:45.452446206Z",
+  "model": "glm-5.3"
+}

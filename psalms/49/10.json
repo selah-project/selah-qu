@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Waqyas wiñayta kawsanqachá, manataq p'uytuta rikunqachu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsanqa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "waqyas"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wiñayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rikunqachu"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "p'uytuta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:23.694064436Z",
+  "model": "glm-5.3"
+}

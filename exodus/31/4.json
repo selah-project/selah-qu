@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Yuyaykunata yuyarinapaq, ruwanapaq quripi, qullqipipas, antapipas.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "yuyarinapaq"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "yuyaykuna"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanapaq"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "quripi"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "qullqipipas"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "antapipas"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:58.723474977Z",
+  "model": "glm-5.3"
+}

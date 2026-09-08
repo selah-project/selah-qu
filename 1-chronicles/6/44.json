@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa ⟨את⟩ Ashanta ⟨את⟩ michi pampankunatawan, hinaspa ⟨את⟩ Bet Shemeshta ⟨את⟩ michi pampankunatawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Ashanta"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michi pampankunata"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "michi pampankunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Bet Shemeshta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemeshta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michi pampankunata"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "michi pampankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:45.803258844Z",
+  "model": "glm-5.3"
+}

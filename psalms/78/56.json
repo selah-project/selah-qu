@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Nasirqankumi hinaspa ⟨את⟩ Elohim Elyonta ch'iqirqanku; paypa testigokunatataq mana waqaycharqankuchu.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "nasirqankumi"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ch'iqirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyonta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "paypa testigokunatawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "waqaycharqankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:52.414941218Z",
+  "model": "glm-5.3"
+}

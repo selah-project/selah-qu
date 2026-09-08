@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Samaychis, hinaspa yachaychis ñuqaqa Elohimmi kani; suyukunapipas hatunmi kasaq, hallp'apipas hatunmi kasaq.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Samaychis"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "hinaspa yachaychis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "hatunmi kasaq"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "suyukunapipas"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "hatunmi kasaq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'apipas"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:50.077573123Z",
+  "model": "glm-5.3"
+}

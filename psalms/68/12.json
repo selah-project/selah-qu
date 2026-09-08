@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Adonaym siminta qonmi; willaq warmikunaqa askha awqasapa huñum.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonaym"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qonmi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "willaq warmikunaqa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "awqasapa huñum"
+    },
+    {
+      "surface": "רב",
+      "gloss": "askha"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:00.658021959Z",
+  "model": "glm-5.3"
+}

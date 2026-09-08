@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Millayqa millay runata wañuchinmi; allin runakunata ch'ikiqkunataq huchanchasqa ⟨kan⟩qakum.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "wañuchin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "millay runa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "millayqa"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "ch'ikiqkunataq"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runakunata"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "huchanchasqa kanqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:13.642815735Z",
+  "model": "glm-5.3"
+}

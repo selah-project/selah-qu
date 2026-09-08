@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 124,
+  "translation": "Hamawt'a sanamp'akunaq takin, Davidpa. Yahwe mana kaptin ñuqanchikpaq, Israel kunan ninkichik chá:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "takin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hamawt'a sanamp'akunaq"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "mana kaptin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikpaq"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ninkichik"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:33.559530570Z",
+  "model": "glm-5.3"
+}

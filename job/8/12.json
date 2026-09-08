@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Manaraq waytañas kaptinpas, manaraq aqtusqa kaptinpas, llapa quramanta ñawpaqllam chakiruspa q'ellayakun.",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "waytañas kaptin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "aqtusqa kaptin"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "llapa ... manta ñawpaqlla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "qura"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "chakiruspa q'ellayakun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:58:39.134297704Z",
+  "model": "glm-5.3"
+}

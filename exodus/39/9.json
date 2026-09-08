@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Tawa k'uchuyuq ⟨kan⟩mi; iskay q'ata ruwarqanku ⟨את⟩ josenta: huk zhiri suniynin, huk zhiritaq chhiqanynin, iskay q'ata.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "tawa k'uchuyuq"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨kan⟩mi"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "iskay q'ata"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "josenta"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "josenta"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "huk zhiri"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "suniynin"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "huk zhiritaq"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "chhiqanynin"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "iskay q'ata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:21.985278583Z",
+  "model": "glm-5.3"
+}

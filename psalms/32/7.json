@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Qammi ñuqap pakanay kanki, llakikunamanta waqaychawanki, qispichiy takikunawanñataq muyurqawanki. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qam"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "pakanay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "llakikunamanta"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "waqaychawanki"
+    },
+    {
+      "surface": "רני",
+      "gloss": "takikunawan"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "muyurqawanki"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T09:43:32.898795424Z",
+  "model": "glm-5.3"
+}

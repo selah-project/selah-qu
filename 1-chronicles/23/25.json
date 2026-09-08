@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Imaraykum David nirqan: Israelpa Elohimnin Yahwe runankunaman samayta qonmi, hinaspa Yerushalayimpi wiñay kama tiyakunmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "samayta qonmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "runankunaman"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "hinaspa tiyakunmi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T12:49:02.892277661Z",
+  "model": "glm-5.3"
+}

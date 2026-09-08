@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "hinaspa wasicharqanmi ⟨את⟩ ukhu patata, kimsa siq'i talladasqa rumikunamanta, huk siq'itawan kurusqa erez kurkukunamanta.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wasicharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukhu patata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "pata"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ukhu"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "siq'i"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "talladasqa rumi"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "hinaspa siq'i"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "kurusqa"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "erez kurku"
+    }
+  ],
+  "timestamp": "2026-09-08T05:01:27.463042920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Moshe (Moisés) Elohimman orqoman tarirqan, hinaspa Yahwe orqomanta payman waqyarqan, nispa: Kayhina ninki Yaakovpa (Jacob) wasinman, hinaspa willanki Israel wawakunaman.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "hinaspa Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tarirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "hinaspa waqyarqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ninki"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "hinaspa willanki"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawakunaman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:43.626761795Z",
+  "model": "glm-5.3"
+}

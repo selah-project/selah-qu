@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Qhaway, kunan p'unchaw qawaypi churani ⟨את⟩ kawsayta, ⟨את⟩ allin kaqtawan, ⟨את⟩ wañuytawan, ⟨את⟩ mana allin kaqtawan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "churani"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qawaypi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawsayta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kawsayta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "allin kaqta"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "allin kaqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wañuyta"
+    },
+    {
+      "surface": "המות",
+      "gloss": "wañuyta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mana allin kaqta"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mana allin kaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:01:33.189826154Z",
+  "model": "glm-5.3"
+}

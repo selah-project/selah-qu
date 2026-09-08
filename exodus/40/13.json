@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "exodus 40:13",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 40,
+ "translation": "Hinaspa ⟨את⟩ Aharonta (Aarón) santaq p'achakunawan p'achachinkim, hinaspa ⟨את⟩ payta ukywan unchanqim, hinaspa ⟨את⟩ payta santochinkim, ñuqapaq kohen llamk'anampaq.",
+ "tokens": [
+  {
+   "surface": "והלבשת",
+   "gloss": "p'achachinkim"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Aharonta"
+  },
+  {
+   "surface": "אהרן",
+   "gloss": "Aharon"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "santaq p'achakunata"
+  },
+  {
+   "surface": "בגדי",
+   "gloss": "p'achakunata"
+  },
+  {
+   "surface": "הקדש",
+   "gloss": "santaq"
+  },
+  {
+   "surface": "ומשחת",
+   "gloss": "hinaspa unchanqim"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ payta",
+   "marks": "payta"
+  },
+  {
+   "surface": "וקדשת",
+   "gloss": "hinaspa santochinkim"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ payta",
+   "marks": "payta"
+  },
+  {
+   "surface": "וכהן",
+   "gloss": "kohen llamk'anampaq"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqapaq"
+  }
+ ],
+ "timestamp": "2026-09-08T00:48:23.689812525Z",
+ "model": "glm-5.3"
+}

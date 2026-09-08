@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Ama ⟨את⟩ Nefeshniykichikta millayachiykichikchu llapa wayqhallikuq wayqhalliqwan; hinaspam ama chaykunawan t'imachiykuspa chaywanmi t'imakunkichik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "millayachiykichikchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshniykichikta"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "Nefeshniykichikta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "wayqhallikuq"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "wayqhalliq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspam ama"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "t'imachiykuspa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaykunawan"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "chaywanmi t'imakunkichik"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:45.890203172Z",
+  "model": "glm-5.3"
+}

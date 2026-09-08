@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 85,
+  "translation": "Runayki awonninta (hucha) aparqankim, llapan ñak'arinqninkunata p'amparqankim. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "aparqankim"
+    },
+    {
+      "surface": "עון",
+      "gloss": "awonninta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runayki"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "p'amparqankim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ñak'arinqninkunata"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:06.175045317Z",
+  "model": "glm-5.3"
+}

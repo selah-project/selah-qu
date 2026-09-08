@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Yehoshafatmi, Yehudapa apun, wasinman hawalla kutimurqan, Yerushalayinman.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutimurqan"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "hawalla"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayinman"
+    }
+  ],
+  "timestamp": "2026-09-08T13:06:47.017556020Z",
+  "model": "glm-5.3"
+}

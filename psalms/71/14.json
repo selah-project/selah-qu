@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Ñuqataq, wiñaym samiykachasaqmi, yapasaqmi llapan sunqunyupa much'ayta.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ñuqataq"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñaym"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "samiykachasaqmi"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "yapasaqmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "llapan patapi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "sunqunyupa much'ayta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:37.699159233Z",
+  "model": "glm-5.3"
+}

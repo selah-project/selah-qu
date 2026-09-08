@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Chaypas mana sarunchakuyta ruwarqankuchu, paypa ñanninkunapim purirqanku.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "chaypas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sarunchakuyta"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "paypa ñanninkunapi"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "purirqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:51.440191979Z",
+  "model": "glm-5.3"
+}

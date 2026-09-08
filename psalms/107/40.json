@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 40,
+ "ref": "psalms 107:40",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 107,
+ "translation": "Paym waytachin much'uyta hatun runakunap patanpi, chaysi chakachin ch'usaqpi — mana ⟨kan⟩ ñan.",
+ "tokens": [
+  {
+   "surface": "שפך",
+   "gloss": "waytachin"
+  },
+  {
+   "surface": "בוז",
+   "gloss": "much'uy"
+  },
+  {
+   "surface": "על",
+   "gloss": "patanpi"
+  },
+  {
+   "surface": "נדיבים",
+   "gloss": "hatun runakuna"
+  },
+  {
+   "surface": "ויתעם",
+   "gloss": "chakachin"
+  },
+  {
+   "surface": "בתהו",
+   "gloss": "ch'usaqpi"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "דרך",
+   "gloss": "ñan"
+  }
+ ],
+ "timestamp": "2026-09-08T14:17:00.861289216Z",
+ "model": "glm-5.3"
+}

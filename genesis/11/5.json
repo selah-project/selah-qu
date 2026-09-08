@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Yahwem uraykamurqan qhawanapaq ⟨את⟩ llaqtata, hinaspa ⟨את⟩ torreta, mayqintam Adampa churinkunam wasicharqanku.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "uraykamurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "qhawanapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llaqtata"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "torreta"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "torreta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wasicharqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Adampa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:45.724784088Z",
+  "model": "glm-5.3"
+}

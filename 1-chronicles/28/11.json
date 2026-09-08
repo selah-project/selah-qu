@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Chaysi David qantan willarqan Shelomo wawanpaq ⟨את⟩ punku-patiyoqpa siq'inta, ⟨את⟩ wasinkunata, qullqi-wasinkunata, hanaq wasinkunata, ukhu wasinkunatapas, hinaspa kapporet wasintapas (perqasqa payllapaq).",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wawanpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siq'inta"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "siq'inta"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "punku-patiyoqpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wasinkunata"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "wasinkunata"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "qullqi-wasinkunata"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "hanaq wasinkunata"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "ukhu wasinkunatapas"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "ukhu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "wasintapas"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet (perqasqa payllapaq)"
+    }
+  ],
+  "timestamp": "2026-09-08T12:52:11.558444231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Israelpa wawaninkuna Pilistitakunata qatikuspam kutimurqanku, hinaspa ⟨את⟩ kampamentunkunata wañuchispa llut'arqanku.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "kutimurqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawaninkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "qatikuspam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": ""
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pilistita"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "llut'arqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampamentunkunata"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kampamentunkunta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:16:59.951552765Z",
+  "model": "glm-5.3"
+}

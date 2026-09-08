@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Shaulmi ⟨את⟩ tukuy runakunata awqanakuyman haywarqan, Keilahman uraykunankupaq, Davidta, runankunatataq muyuriy sayachinankupaq.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "haywarqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "awqanakuyman"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "uraykunankupaq"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keilahman"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "muyuriy sayachinankupaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Davidta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "runankunatataq"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "runankunatataq"
+    }
+  ],
+  "timestamp": "2026-09-08T04:23:24.788534771Z",
+  "model": "glm-5.3"
+}

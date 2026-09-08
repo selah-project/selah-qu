@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Yahwepa rakinmi paypa runan: Yaakov (Jacob)mi paypa chiqnachasqa rakinqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "rakin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov (Jacob)"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "chiqnachasqa rakinta"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "paypa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:32:35.575693836Z",
+  "model": "glm-5.3"
+}

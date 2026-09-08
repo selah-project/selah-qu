@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Uraykurqanku**m** Yosefpa chunka wayqen, Mitsrayimmanta muru rantinapaq.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "uraykurqanku"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "wayqen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefpa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "rantinapaq"
+    },
+    {
+      "surface": "בר",
+      "gloss": "muru"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:51.044543884Z",
+  "model": "glm-5.3"
+}

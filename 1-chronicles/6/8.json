@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Elkanah churinmi, hinaspa Ebiasaf churinmi, hinaspa Asir churinmi.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinmi"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "hinaspa Ebiasaf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinmi"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "hinaspa Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:22.871355632Z",
+  "model": "glm-5.3"
+}

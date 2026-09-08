@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Llapa tullunkunata waqaychanmi; paykunamanta hukllapas mana p'akikunqa ⟨kan⟩chu.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "waqaychanmi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "tullunkunanta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hukllapas"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "p'akikunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:13.642575746Z",
+  "model": "glm-5.3"
+}

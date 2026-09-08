@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "May munakuni Toratayki! Tukuy p'unchaw payqa yuyayniymi ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "may (ima k'ata — munay exclamation)"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "munakuni"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toratayki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "היא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "yuyayniy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:52.127183100Z",
+  "model": "glm-5.3"
+}

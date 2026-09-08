@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 53:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 53,
+  "translation": "Chiqaqmi paymi onqoyninchikta apan, nanayninchikta apakun; icha ñuqanchik yuyarqaykunchik nanachisqa, Elohimpa yarqasqa, muchuchisqa kasqanta.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "chiqaqmi"
+    },
+    {
+      "surface": "חלינו",
+      "gloss": "onqoyninchikta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "apan"
+    },
+    {
+      "surface": "ומכאבינו",
+      "gloss": "nanayninchikta"
+    },
+    {
+      "surface": "סבלם",
+      "gloss": "apakun"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "icha ñuqanchik"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "yuyarqaykunchik"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "nanachisqa"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "yarqasqa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ומענה",
+      "gloss": "muchuchisqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:35:58.070823890Z",
+  "model": "glm-5.3"
+}

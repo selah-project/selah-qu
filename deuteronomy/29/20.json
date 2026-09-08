@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 29:20",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa Yahwem payta Israelpa llapa chiqan ayllunmanta millayman t'aqanqam, kay Tora qillqapi qillqasqa beritpa llapa laqha kamachiykuna hina.",
+  "tokens": [
+    {
+      "surface": "והבדילו",
+      "gloss": "t'aqanqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "millayman"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapa...manta"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "chiqan ayllun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hina"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "laqha kamachiykuna"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "beritpa"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "qillqasqa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "qillqapi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T02:58:46.347381179Z",
+  "model": "glm-5.3"
+}

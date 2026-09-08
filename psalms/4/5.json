@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "T'inkiriy, hinaspa ama huchallichichu; sunquykichikpi ñiykuna, churaykichikpipis; hinaspa ch'inllayakuychik. Sela",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "t'inkiriy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "huchallichichu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ñiykuna"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "sunquykichikpi"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "churaykichikpipis"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "hinaspa ch'inllayakuychik"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:54.834535995Z",
+  "model": "glm-5.3"
+}

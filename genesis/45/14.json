@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 45:14",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Chaysi Binyamin, huanin, kunkanpampam t'inkaspa waqyarqan; Binyaminpas paypa kunkanpampam waqyarqanmi.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "kunkanpampam t'inkaspa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pampam"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "kunkan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "huanin"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "waqyarqan"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Binyaminpas"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "waqyarqanmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pampam"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "paypa kunkan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:17:18.249123069Z",
+  "model": "glm-5.3"
+}

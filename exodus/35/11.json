@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "⟨את⟩ Mishkanta, ⟨את⟩ wasinta hinaspa ⟨את⟩ qatanta, ⟨את⟩ tiwanankunata hinaspa ⟨את⟩ tablankunata, ⟨את⟩ k'aspikunata, ⟨את⟩ sayanankunata hinaspa ⟨את⟩ tiyanankunata.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanta"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasinta"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qatanta"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "qatanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiwanankunata"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "tiwanankunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tablankunata"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "tablankunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'aspikunata"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "k'aspikunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayanankunata"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "sayanankunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tiyanankunata"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "tiyanankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:42:35.587544863Z",
+  "model": "glm-5.3"
+}

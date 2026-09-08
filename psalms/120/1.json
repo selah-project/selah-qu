@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 120,
+  "translation": "Shir hama'alot ⟨wichaq takikuna⟩. Yahweman, sasa kasqaypi, qayarqani, chaymí ñuqata kutichirqan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Shir"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hama'alot ⟨wichaq takikuna⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "sasa kasqaypi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "qayarqani"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "chaymí ñuqata kutichirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:01.066353419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Mizmor taky, wasi hunt'achikuypa, Davidpa.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taky"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "hunt'achikuy"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:15.609509756Z",
+  "model": "glm-5.3"
+}

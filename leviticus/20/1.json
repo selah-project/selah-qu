@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa Yahwem Mosheman rimarqan, kayta nispa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "hinaspa rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:06:55.041192547Z",
+  "model": "glm-5.3"
+}

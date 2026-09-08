@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Payman nirqaykumi: cheqeniyuq runakuna ñuqaykum kayku, manam espiakuna karqaykuchu.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "nirqayku"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "cheqeniyuq runakuna"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñuqayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "karqayku"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "espiakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:46.148697340Z",
+  "model": "glm-5.3"
+}

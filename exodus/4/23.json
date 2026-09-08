@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Ñuqam qamman niqani: kachariy ⟨את⟩ ñuqap churiyta ñuqata sirwachun; qamqa kachariyninta munarqankichu; qhawariy, ñuqam ⟨את⟩ qampa churiyki, ñawpaq paqariqniyki, wañuchisaq.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "niqani"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kachariy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap churiyta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ñuqap churiyta"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ñuqata sirwachun"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "munarqankichu"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "kachariyninta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wañuchisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churiyki"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "churiyki"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "ñawpaq paqariqniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:33.074137761Z",
+  "model": "glm-5.3"
+}

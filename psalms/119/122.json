@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Qharinaq kay yanapaykuykiwan hamurqaykipaq, qampa qollqeykiwan; ama hayk'appas ñuqata ñaqllachiwankichu k'irqi sonqo runakuna.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "qharinaq kay"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanapaykuykiwan hamurqaykipaq"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "qampa qollqeykiwan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama hayk'appas"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "ñuqata ñaqllachiwankichu"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "k'irqi sonqo runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:08.172386082Z",
+  "model": "glm-5.3"
+}

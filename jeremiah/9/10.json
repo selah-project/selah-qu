@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa Yerushalayimta (Jerusalén) ⟨את⟩ q'urpa q'urpakunaman, suq'akunap wasinman tukuchisaqmi; hinaspa Yehudap (Judá) llaqtakunatawan ⟨את⟩ ch'usaqchata, mana runayuq kananpaq churasaqmi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "hinaspa tukuchisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimta (Jerusalén)"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "q'urpa q'urpakunaman"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "suq'akunap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yehudap llaqtakunata"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "llaqtakuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap (Judá)"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "churasaq"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ch'usaqcha"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "runayuq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:50:21.404140643Z",
+  "model": "glm-5.3"
+}

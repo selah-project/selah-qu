@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 1:3",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yehudam qarqusqa karqan nanaymanta, hinaspa achka mit'a llamk'uymanta; payqa nacionkunapim tiyan, samiyta manam tarinchu; llapan qatipaqninkuna payman chayarqankum, chawpin wisq'a ñankunapi.",
+  "tokens": [
+    {
+      "surface": "גלתה",
+      "gloss": "qarqusqa karqanm"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "nanaymanta"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "hinaspa achkamanta"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "mit'a llamk'uymanta"
+    },
+    {
+      "surface": "היא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "tiyan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nacionkunapi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "tarinchu"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "samiyta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "רדפיה",
+      "gloss": "qatipaqninkuna"
+    },
+    {
+      "surface": "השיגוה",
+      "gloss": "payman chayarqankum"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpin"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "wisq'a ñankunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:36:06.686444053Z",
+  "model": "glm-5.3"
+}

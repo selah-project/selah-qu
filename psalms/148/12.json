@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 148,
+  "translation": "Ñawpaqtaq qhari ñañakuna, hawkalla hinaspa machu runakuna waynakunawan ⟨mi⟩.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "wayna qhariykuna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinaspitaq"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "k'acha ñañakuna"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "machu runakuna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hawkalla"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "waynakunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:21.928390434Z",
+  "model": "glm-5.3"
+}

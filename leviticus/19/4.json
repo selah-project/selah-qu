@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Ama rurasqa dioskunaman kutiychu, ama qamkunapaq wirayachisqa dioskunata ruwaykichikchu — ñuqa kanimi Yahwe, Elohimniykichik.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "rurasqa dioskuna"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "hinaspa dioskuna"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "wirayachisqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ruwaykichik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:59.054444087Z",
+  "model": "glm-5.3"
+}

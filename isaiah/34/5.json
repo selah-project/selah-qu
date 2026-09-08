@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Chiqaqm hanaq pachapim ñuqap chiqtunay t'akyasqaña; qhaway, Edom (Edóm) patanpi uraykamunqa, ñuqap cheremniy runakunapatin, taripanapaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chiqaqm"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "t'akyasqaña"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ñuqap chiqtunay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "uraykamunqa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa patanpi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "cheremniy"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "taripanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:20:05.370942885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Sichus allin masiyta lluta kamakurqanim, hinaspa mana imaraykuchus awqayta qispichirqanim,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "kamakurqanim"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "allin masiyta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "lluta"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "hinaspa qispichirqanim"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "awqayta"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "mana imaraykuchus"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:01.008223580Z",
+  "model": "glm-5.3"
+}

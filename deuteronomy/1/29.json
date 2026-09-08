@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa ñuqam qamkunaman nirqanim: ama achkachariychichu, ama paykunamanta mankachichu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "hinaspa nirqanim"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "achkachariychichu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "mankachichu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "paykunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:25:35.811035409Z",
+  "model": "glm-5.3"
+}

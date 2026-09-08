@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Iskay chunka wata tukukuyninpi karqanmi, chaypi Shelomo (Salomón) ⟨את⟩ Yahwepa wasinta, hinaspa ⟨את⟩ kikin wasinta wasicharqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "tukukuyninpi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wasicharqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kikin wasinta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kikin wasinta"
+    }
+  ],
+  "timestamp": "2026-09-08T13:00:21.384412344Z",
+  "model": "glm-5.3"
+}

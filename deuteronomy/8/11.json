@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Qam amartariymi: ama hina ⟨את⟩ Yahweta Elohimniykita qunqanki, mana waqaychaspayki kamachikuykunanta, chaninchaykunanta, kamarisqakunanta, maykunata kunan p'unchaw ñuqam qamman kamachirqani.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "amartariy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qam"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama hina"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "qunqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta Elohimniykita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "waqaychay"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "kamachikuykunanta"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "chaninchaykunanta"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "kamarisqakunanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kamachirqani"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T02:34:20.431958002Z",
+  "model": "glm-5.3"
+}

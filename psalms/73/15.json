@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Sichus kay hinata willasaq niptiy, qaway: wawakunaykipa mit'antaqa lluqsirqasaq karqani.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "niptiy"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "willasaq"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kay hinata"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qaway"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mit'anta"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wawakunaykipa"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "lluqsirqasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:00.408791590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Muchuyniykimpi, haq'ay rayku, runata yachachinkim; hinaspa munasqanta muk'u hina ch'usaqyachinki. Chiqapmi llapa runaqa wangasqa chuqallam. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "muchuyniykimpi"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "עון",
+      "gloss": "haq'ay"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "yachachinkim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runata"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "hinaspa ch'usaqyachinki"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "muk'u hina"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "munasqanta"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chiqapmi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "wangasqa chuqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:35.745842123Z",
+  "model": "glm-5.3"
+}

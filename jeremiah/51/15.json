@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "jeremiah 51:15",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 51,
+ "translation": "Paymi atiyniwan hallp'ata rurarqan, yachayniwan tawantinsuyuta sayarichirqan, entiendoniwan hanaq pachata mast'arqan.",
+ "tokens": [
+  {
+   "surface": "עשה",
+   "gloss": "rurarqan"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "hallp'a"
+  },
+  {
+   "surface": "בכחו",
+   "gloss": "atiyniwan"
+  },
+  {
+   "surface": "מכין",
+   "gloss": "sayarichirqan"
+  },
+  {
+   "surface": "תבל",
+   "gloss": "tawantinsuyu"
+  },
+  {
+   "surface": "בחכמתו",
+   "gloss": "yachayniwan"
+  },
+  {
+   "surface": "ובתבונתו",
+   "gloss": "entiendoniwan"
+  },
+  {
+   "surface": "נטה",
+   "gloss": "mast'arqan"
+  },
+  {
+   "surface": "שמים",
+   "gloss": "hanaq pacha"
+  }
+ ],
+ "timestamp": "2026-09-08T07:47:42.596225374Z",
+ "model": "glm-5.3"
+}

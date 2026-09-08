@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Llapankum espadata chaskaspa, awqanakuyman yachachisqa; sapa runa espadanta sanayninpi, tutakunapi manchariy rayku.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "llapanku"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "chaskaspa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espadata"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "yachachisqa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "awqanakuyman"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "espadanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "sanayninpi"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "manchariy rayku"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "tutakunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:26:09.906946921Z",
+  "model": "glm-5.3"
+}

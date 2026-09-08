@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 22,
+ "ref": "psalms 68:22",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 68,
+ "translation": "Chiqapmim Elohim awqankunap umanta t'lasunqa, chukcha yupa umantawan — paypa awqan huchanpi puriqpa.",
+ "tokens": [
+  {
+   "surface": "אך",
+   "gloss": "chiqapmi"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "ימחץ",
+   "gloss": "t'lasunqa"
+  },
+  {
+   "surface": "ראש",
+   "gloss": "uman"
+  },
+  {
+   "surface": "איביו",
+   "gloss": "awqankunap"
+  },
+  {
+   "surface": "קדקד",
+   "gloss": "chukcha yupa"
+  },
+  {
+   "surface": "שער",
+   "gloss": "chukcha"
+  },
+  {
+   "surface": "מתהלך",
+   "gloss": "puriq"
+  },
+  {
+   "surface": "באשמיו",
+   "gloss": "huchanpi"
+  }
+ ],
+ "timestamp": "2026-09-08T09:57:56.207517498Z",
+ "model": "glm-5.3"
+}

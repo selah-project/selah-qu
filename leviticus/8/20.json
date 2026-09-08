@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa ⟨את⟩ carnerota t'aqakunaman kuchurqan; chaymanta Moshe (Moisés) ⟨את⟩ umanta, ⟨את⟩ t'aqakunatawan, ⟨את⟩ wira t'aqakunatawan nina wanamanta rupharichirqan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "carnerota"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "carnerota"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "kuchurqan"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "t'aqakunaman"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "rupharichirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umanta"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "umanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "t'aqakunatawan"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "t'aqakunatawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wira t'aqakunatawan"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "wira t'aqakunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:01.019071453Z",
+  "model": "glm-5.3"
+}

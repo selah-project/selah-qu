@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 24:18",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Edom chaskina ⟨kanqa⟩, Se'irtaq awqankunapa chaskina ⟨kanqa⟩mi; Israeltaq sinchita ruwanqa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "chaskina"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "chaskina"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Se'ir"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "awqankunapa"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israeltaq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwanqa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sinchita"
+    }
+  ],
+  "timestamp": "2026-09-08T02:10:34.021197293Z",
+  "model": "glm-5.3"
+}

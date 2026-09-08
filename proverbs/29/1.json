@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Achka yachachiykunata rikuspa siqinta sinchiyachiq runaqa, phutillamanta pakikunqami, hampinnaqllam.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "yachachiykunata"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "sinchiyachiq"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "siqinta"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "phutillamanta"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "pakikunqa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hampinnaqllam (mana)"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "hampi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:52:41.293386524Z",
+  "model": "glm-5.3"
+}

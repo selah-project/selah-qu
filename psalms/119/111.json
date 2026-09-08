@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Edutaykita wiñaypaq heredokuna hina chaskirqanimi; paykunam sunquypa kusikuynin kanku.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "heredokuna hina chaskirqani"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "edutaykita"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kusikuynin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquypa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:16.789355848Z",
+  "model": "glm-5.3"
+}

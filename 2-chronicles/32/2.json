@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 32:2",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Hinaspa Hizkiyahu (Ezequías) qhawarqan Sanjerib hamusqanta, hinaspa ñawpaqen awqanakuman karqan Yerushalayim (Jerusalén) purawan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hinaspa qhawarqan"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamusqanta"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanjerib"
+    },
+    {
+      "surface": "ופניו",
+      "gloss": "hinaspa ñawpaqen"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "awqanakuman"
+    },
+    {
+      "surface": "על",
+      "gloss": "purawan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-08T13:18:47.578795940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 150,
+  "translation": "Payta yupaychaychik shofarpa takinwan; payta yupaychaychik nevelwan, kinorwanwan.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "payta yupaychaychik"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "...pa takinwan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofarpa"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "payta yupaychaychik"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nevelwan"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "kinorwanwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:54.611207380Z",
+  "model": "glm-5.3"
+}

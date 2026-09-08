@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Tutam karqan, paqariym karqan — tawa ñiqin p'unchaw.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "paqariy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "tawa ñiqin"
+    }
+  ],
+  "timestamp": "2026-09-08T02:01:23.594355563Z",
+  "model": "glm-5.3"
+}

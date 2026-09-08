@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "El Elyon (hanan kaq) pakasqanpi tiyaqmi, Shaddaypa llanthunpi tiyakunmi.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "pakasqanpi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "llanthunpi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shaddaypa"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "tiyakunmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:02.841055589Z",
+  "model": "glm-5.3"
+}

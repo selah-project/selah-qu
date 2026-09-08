@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa Yokshanmi paqachirqan ⟨את⟩ Sheba-ta, hinaspa ⟨את⟩ Dedan-ta; Dedanpa wawankunataq Ashurim, Letushim, Leummim karqan.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "hinaspa Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "paqachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheba-ta"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Dedan-ta"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedanpa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leummim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:01:50.904118009Z",
+  "model": "glm-5.3"
+}

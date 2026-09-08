@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Runakunata ñawinchik ukhupi ñit'inmi, llaqtakunatawan chakiyku ukhupi.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "ñit'inmi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Runakunata"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "ñawinchik ukhupi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "llaqtakunatawan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ukhupi"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "chakiyku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:00.959145846Z",
+  "model": "glm-5.3"
+}

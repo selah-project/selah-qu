@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Hinaspa ⟨את⟩ qamta aswan askha mirachisayki, suyukunaman churasqayki; hinaspa apukuna qammantam lluqsimunqaku.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "hinaspa mirachisayki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamta",
+      "marks": "qamta"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "askha"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "churasqayki"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "suyukunaman"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "hinaspa apukuna"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "qammanta"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lluqsimunqaku"
+    }
+  ],
+  "timestamp": "2026-09-07T23:57:07.240267947Z",
+  "model": "glm-5.3"
+}

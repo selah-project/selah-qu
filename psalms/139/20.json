@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Mayqinkunam qamta mana allin munaywan rimanku, qampa awqayniykie sutinta ch'usaqta apanku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "rimanku qamta"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "mana allin munaywan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "apanku"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ch'usaqta"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "qampa awqayniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:34.015343883Z",
+  "model": "glm-5.3"
+}

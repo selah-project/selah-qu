@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaysi David ñawpaqman purirqan, hatunyaspa; Yahwe, Tsebaotpa Elohimninmi, paywanmi karqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ñawpaqman"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "hatunyaspa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaotpa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:35:21.549378703Z",
+  "model": "glm-5.3"
+}

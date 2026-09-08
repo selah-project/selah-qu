@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Avishua (Abisúa)pa churi, Pinechaspa churi, Elazarpa churi, Aharonpa churi, hatun kohenmi.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hatun (umalliq)"
+    }
+  ],
+  "timestamp": "2026-09-08T12:14:32.427008086Z",
+  "model": "glm-5.3"
+}

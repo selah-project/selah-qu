@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Ñan saqiqpaq musuchiyqa ananmi; toqechiyta nanichiqmi wañunqa.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "musuchiy"
+    },
+    {
+      "surface": "רע",
+      "gloss": "anan"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "saqiqpaq"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "nanichiq"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "toqechiyta"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wañunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:43:21.321250131Z",
+  "model": "glm-5.3"
+}

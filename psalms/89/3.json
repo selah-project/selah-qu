@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Nirqanim: wiñaypi jesed sayachisqa ⟨kanqa⟩; hanaq pachapi iñiyniykitak takurichinqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "–"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nirqanim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "sayachisqa ⟨kanqa⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "takurichinqa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "iñiyniykitak"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "(chaypi)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:38.054164070Z",
+  "model": "glm-5.3"
+}

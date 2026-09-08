@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Davidpa. Yahwem nuqap k'anchaymi, nuqap qespichiywanmi; pipitaq manchariyman? Yahwem kawsayñuqap pukarami; pipitaq mancharikuyman?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "nuqap k'anchaymi"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "nuqap qespichiywanmi"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "pipitaq"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "manchariyman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "pukarami"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kawsayñuqap"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "pipitaq"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "mancharikuyman"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:16.171919929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Apamurqanku**m** Moshe (Moisés)man ⟨את⟩ Mishkanta, ⟨את⟩ wasinta hinaspa ⟨את⟩ llapa imankunata: t'ipinakunanta, k'aspikunanta, sirwikunanta hinaspa sayaqkunanta, hinaspa tiyanakunantawan.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "apamurqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanta"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman (Moisés)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasinta"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa imankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imankunata"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "t'ipinakunanta"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "k'aspikunanta"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "sirwikunanta"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "hinaspa sayaqkunanta"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "hinaspa tiyanakunanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:49.610532734Z",
+  "model": "glm-5.3"
+}

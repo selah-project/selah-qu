@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ima lasaqmi ⟨kan⟩ llank'aqqa, ima llank'asqanmanta?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "lasaq"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "llank'aqqa"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "llank'asqan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:05.159442482Z",
+  "model": "glm-5.3"
+}

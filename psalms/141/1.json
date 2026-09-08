@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 141,
+  "translation": "Mizmor, Davidpa. Yahwe, qamta qayarqanimi: utqay kamariway ñuqaman; ñawiywan uyariy kunkayta, qamman qayasqaypi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "qamta qayarqanimi"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "utqay kamay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "kunkayta"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "qayasqaypi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:10.995580419Z",
+  "model": "glm-5.3"
+}

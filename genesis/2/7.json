@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaysi Yahwe Elohim ⟨את⟩ runata allpap ahuñanmanta p'irqarqan; paypa sink'inman kawsay samiyta phusirqan; chaymanta runa kawsaq nefeshman tukurqan.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "p'irqarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ahuñan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "allpap"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "phusirqan"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "paypa sink'inman"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "samiy"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsaypa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nefeshman"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kawsaq"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:16.185661914Z",
+  "model": "glm-5.3"
+}

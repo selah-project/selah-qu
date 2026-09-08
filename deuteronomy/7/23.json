@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa Yahwe Elohimniyki paykunata qan ñawpaqpi churanqami, hatun pakichakuywan pakichanqami, chinkakusqankama.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "hinaspa ... paykunata churanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qan ñawpaqpi"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "pakichanqa"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "pakichakuywan"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "chinkakusqankama"
+    }
+  ],
+  "timestamp": "2026-09-08T02:33:25.556089869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Moshe (Moisés)mi Yitro (Jetro)pa — Midyanpa kohenpa, churi-masinninpa — ⟨את⟩ michinta uyniq karqan; hinaspa ⟨את⟩ michinata ch'in pachap qhipanman pusarqan, chaymanta Elohimpa orqoman, Chorebman chayarqan.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "uyniq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "michinta"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "michi"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro (Jetro)"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "churi-masinninpa"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyanpa"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "pusarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "michinata"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "michinata"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qhipanman"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ch'in pachap"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "Chorebman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:16.966989296Z",
+  "model": "glm-5.3"
+}

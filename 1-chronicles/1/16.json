@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "hinaspa ⟨את⟩ Arwadita (Aradeo), hinaspa ⟨את⟩ Tsemarita (Samareo), hinaspa ⟨את⟩ Chamatita (Emateo).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Arwadita"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arwadita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tsemarita"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Tsemarita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Chamatita"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Chamatita"
+    }
+  ],
+  "timestamp": "2026-09-08T12:28:52.174326162Z",
+  "model": "glm-5.3"
+}

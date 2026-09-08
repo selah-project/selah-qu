@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Kananmi kay hallp'ata ⟨את⟩ chakra hina suertewan t'aqay: isqon suyukunaman, Menashep suyup ch'eqtampawan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "suertewan t'aqay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "chakra hina"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "isqon"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "suyukunaman"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "hinaspa ch'eqtan"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "suyup"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashep"
+    }
+  ],
+  "timestamp": "2026-09-08T03:18:37.259840660Z",
+  "model": "glm-5.3"
+}

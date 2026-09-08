@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 70,
+  "translation": "Kutichun paykuna paqarqochunpaq, p'inqasqanmanta, '¡Heaj, heaj!' niqkuna.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "kutichun"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "paqarqochunpaq"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "p'inqasqanmanta"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "niqkuna"
+    },
+    {
+      "surface": "האח",
+      "gloss": "¡Heaj!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "¡Heaj!"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:17.089550035Z",
+  "model": "glm-5.3"
+}

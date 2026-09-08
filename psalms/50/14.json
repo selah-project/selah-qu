@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Ofrenday Elohimman ⟨todaqta⟩ (gracias willakuyta), hinaspa hunt'ay Elyonman watiyayniykichikta.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "ofrenday"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "todaqta"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "hinaspa hunt'ay"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Elyonman"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "watiyayniykichikta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:16.554177886Z",
+  "model": "glm-5.3"
+}

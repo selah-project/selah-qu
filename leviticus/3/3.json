@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa qayllachinqa shelamimpa ofrendamanta ishshehta (nina ofrenda) Yahwepaq: ⟨את⟩ wirata p'istuykuqta ⟨את⟩ chunchullata, hinaspa ⟨את⟩ llapan wirata mayqe chunchulla patapi kashqanta.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "qayllachinqa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ofrenda"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamimpa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ishshehta (nina ofrenda)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wirata"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "wirata"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "p'istuykuqta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chunchullata"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "chunchullata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan wirata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "wirata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqe"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "chunchulla"
+    }
+  ],
+  "timestamp": "2026-09-08T00:50:59.096114114Z",
+  "model": "glm-5.3"
+}

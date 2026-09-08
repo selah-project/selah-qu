@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Moshem Aharonman willarqan ⟨את⟩ Yahwepa tukuy siminkunata pay kachasqanta, hinallataq ⟨את⟩ tukuy unanchakunata pay kamachisqanta.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy siminkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "siminkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kachasqanta"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "pay kachasqanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinallataq ⟨את⟩",
+      "marks": "tukuy unanchakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "unanchakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamachisqa"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "kamachisqanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:43.811393580Z",
+  "model": "glm-5.3"
+}

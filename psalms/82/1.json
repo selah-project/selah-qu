@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 82,
+  "translation": "Asafpa mizmor. Elohim Elpa huñunakuyninpi sayachikunmi; dioskunap chawpinpi taripanmi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafpa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "sayachikunmi"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "huñunakuyninpi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elpa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskunap"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "taripanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:00.084458663Z",
+  "model": "glm-5.3"
+}

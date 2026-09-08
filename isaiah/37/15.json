@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chizkiyahum Yahweman mañakurqan, ninpa:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "mañakurqan"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ninpa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:19:31.613030314Z",
+  "model": "glm-5.3"
+}

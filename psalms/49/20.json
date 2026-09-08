@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Pay yayakunap mitankunamanmi chayanqa; wiñaykama manam achikta qhawankuchu.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "chayanqa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…man"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mita"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "yayakunap"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…kama"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "qhawankuchu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "achikta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:30.569419037Z",
+  "model": "glm-5.3"
+}

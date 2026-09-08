@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Chaysi pay iñirqankumi rimasqninkupi, yupaychanantawan takirqanku.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "iñirqankumi"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "rimasqninkupi"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "takirqanku"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "yupaychanantawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:35.266023612Z",
+  "model": "glm-5.3"
+}

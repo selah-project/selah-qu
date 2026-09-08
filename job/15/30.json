@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Manam laqhamanta ichakunqa; murunta ninawan ch'akichinqa, hinaspa paypa siminpa wayran apakunqa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ichakunqa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "laqha"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "murunta"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "ch'akichinqa"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "ninawan"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "hinaspa apakunqa"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "wayrawan"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "paypa siminpa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:07:29.722158960Z",
+  "model": "glm-5.3"
+}

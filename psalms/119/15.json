@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Pikudykipi yuyaykusaq, ñawpaqta qhawasaq ñanniykikunata.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "pikudykipi"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "yuyaykusaq"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "ñawpaqta qhawasaq"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ñanniykikunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:34.654131589Z",
+  "model": "glm-5.3"
+}

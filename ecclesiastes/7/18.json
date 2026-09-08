@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Allinmi kayta hap'iy, hinaspa chaymantapas ama ⟨את⟩ makiykita saqiychu; Elohimta yawch'akuq ⟨את⟩ llankumantam lluqsinqa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(imata)"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "hap'iy"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "chaymantapas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "saqiychu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makiyki"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(imarayku)"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yawch'akuq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llanku"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "llankumanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:42:02.876941146Z",
+  "model": "glm-5.3"
+}

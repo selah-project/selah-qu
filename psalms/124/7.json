@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 124,
+  "translation": "Nefeshninchik pisqu hina wamanta churaqkunap wamantamanta qispirqan; chay wamanta p'akirqan, ñuqanchiktataq qispirqakunchik.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefeshninchik"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "pisqu hina"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "qispirqan"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "wamanta"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "wamanta churaqkunap"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "chay wamanta"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "p'akirqan"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ñuqanchiktataq"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "qispirqakunchik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:03.192355728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Yahwem nirqan: makiqa paypa trononpi sayachisqam Yahwep; Yahwem Amalekwanmi generasyonmanta generasyonman awqanakunqa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "יד",
+      "gloss": "maki"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "כס",
+      "gloss": "tronon"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "awqanakuy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "Amalekwan"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "generasyonmanta"
+    },
+    {
+      "surface": "דר",
+      "gloss": "generasyonman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:20.966566156Z",
+  "model": "glm-5.3"
+}

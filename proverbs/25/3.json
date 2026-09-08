@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hanaq pachapas hananpi, hallp'apas ukhunpi; apukunap sunqinmi mana maskana kanapaq.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachapas"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "hananpi"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "hallp'apas"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "sunqinmi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukunap"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "maskana kanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:51:03.178350514Z",
+  "model": "glm-5.3"
+}

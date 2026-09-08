@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chay p'unchawmi Shushan (Susa) llaqta hatun wasipi wañuchisqakunap yupaynin apunkaman chayanam karqan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawmi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayanam karqan"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "yupaynin"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "wañuchisqakunap"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Shushan (Susa)"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "llaqta hatun wasipi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apunkaman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:48:50.025297013Z",
+  "model": "glm-5.3"
+}

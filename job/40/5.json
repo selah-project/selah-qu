@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Huk kutim rimarqani, manam kutichisaqchu; iskay kutitas, manam aswan rimasaqchu.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "huk kuti"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "rimarqani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "kutichisaqchu"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "iskay kutitas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "aswan rimasaqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:20:05.432050148Z",
+  "model": "glm-5.3"
+}

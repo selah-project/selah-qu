@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Chaysi Moshe ⟨את⟩ makin hanaqcharqan, chaysi ⟨את⟩ qaqata tawanawan iskay kutita makarqan; chaysi askha unukuna lluqsimurqanku, chaysi lluqtakuna ukyarqan, llamk'achisqankunawanwan.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "hanaqcharqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makinta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makinta"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "makarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaqata"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "qaqata"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "tawanawan"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "iskay kutita"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "lluqsimurqanku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unukuna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "ukyarqan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lluqtakunaqa"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "llamk'achisqankunawanwan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:12:09.055031462Z",
+  "model": "glm-5.3"
+}

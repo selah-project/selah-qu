@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa Yahwem t'aqakunqam Israelpa uywakunanmanta Mitsrayim (Egipto)pa uywakunanmanta; hinaspa Israelp wawankunap llapan kaqmanta mana huk imapas wañunqachu.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "t'aqakunqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "בין",
+      "gloss": "…manta"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "uywakunan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…manta"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "uywakunan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wañunqachu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapan kaqmanta"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelp"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "huk imapas"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:56.881415248Z",
+  "model": "glm-5.3"
+}

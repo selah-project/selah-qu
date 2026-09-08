@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Maqakuqnan maqasqan hina maqarqanchu? Icha wañuchisqankunan wañuchisqan hina wañurqanchu?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "hina"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "maqakuqnan"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "maqarqanchu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Icha"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "wañuchisqan hina"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "wañuchisqankunan"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wañurqanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:08:12.294324800Z",
+  "model": "glm-5.3"
+}

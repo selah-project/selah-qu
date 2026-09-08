@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "psalms 112:7",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 112,
+ "translation": "Mana allin willakuymanta manam manchakunqachu; sunqunqa sayachisqam, Yahwepi amarasqa.",
+ "tokens": [
+  {
+   "surface": "משמועה",
+   "gloss": "willakuymanta"
+  },
+  {
+   "surface": "רעה",
+   "gloss": "mana allin"
+  },
+  {
+   "surface": "לא",
+   "gloss": "manam"
+  },
+  {
+   "surface": "יירא",
+   "gloss": "manchakunqachu"
+  },
+  {
+   "surface": "נכון",
+   "gloss": "sayachisqam"
+  },
+  {
+   "surface": "לבו",
+   "gloss": "sunqunqa"
+  },
+  {
+   "surface": "בטח",
+   "gloss": "amarasqa"
+  },
+  {
+   "surface": "ביהוה",
+   "gloss": "Yahwepi"
+  }
+ ],
+ "timestamp": "2026-09-08T10:19:25.328753121Z",
+ "model": "glm-5.3"
+}

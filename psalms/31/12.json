@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Llapa ñak'aqniykimanta ch'iqniy kanirqani, wasi masiykunamanpas ancha; riqsikuqniykimantaq mancharichiy kanirqanim; ñawiyta hawapi qhawaspa, ñuqamanta carqarakurqanku.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "llapa...manta"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "ñak'aqniykimanta"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "kanirqani"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ch'iqniy"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "hinaspa wasi masiykunamanpas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ancha"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "hinaspa mancharichiy"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "riqsikuqniykimantaq"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "qhawaqkuna"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "hawapi"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "carqarakurqanku"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:25.125155065Z",
+  "model": "glm-5.3"
+}

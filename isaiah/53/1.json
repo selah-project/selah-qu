@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 53,
+  "translation": "Pita ñuqanchikpa willasqanchikta iñin? Yahwepa makinanta piman rikuchikapun karqan?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "iñin"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "ñuqanchikpa willasqanchikta"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "Yahwepa makinanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨piman⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "rikuchikapun karqan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:35:58.065098308Z",
+  "model": "glm-5.3"
+}

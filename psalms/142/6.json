@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 142,
+  "translation": "Qayarqani qamman, Yahwe; nirqanim: Qammi ñuqap mach'ayniy, ñuqap chiqnin kawsaqkuna pachapi.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "qayarqani"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qam"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mach'ayniy"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "chiqnin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kawsaqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:32.521088042Z",
+  "model": "glm-5.3"
+}

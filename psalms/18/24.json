@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Paywan tamim (llapan hunt'a kasqa) karqanimi, hinaspa ñuqap qollayniymanta waqaychakurqanimi.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "karqanimi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tamim (llapan hunt'a kasqa)"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "waqaychakurqanimi"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "ñuqap qollayniymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:47.243825151Z",
+  "model": "glm-5.3"
+}

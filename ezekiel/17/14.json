@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 17:14",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Kaynanpaqmi: mamallaqtaqa huch'uy kananpaq, mana huqarichikunanpaq, ⟨את⟩ Berinta waqaychakuspa sayananpaq.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "kaynanpaq"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "mamallaqtaqa"
+    },
+    {
+      "surface": "שפלה",
+      "gloss": "huch'uy"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mana ... nanpaq"
+    },
+    {
+      "surface": "התנשא",
+      "gloss": "huqarichikunanpaq"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "waqaychakuspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Berinta"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "Berinta"
+    },
+    {
+      "surface": "לעמדה",
+      "gloss": "sayananpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T08:07:04.543253566Z",
+  "model": "glm-5.3"
+}

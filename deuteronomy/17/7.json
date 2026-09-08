@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "deuteronomy 17:7",
+ "book": "deuteronomy",
+ "lang": "qu",
+ "chapter": 17,
+ "translation": "Willakuqkunap makinmi ñawpaqta payta wañuchinanpaq kanqa, hinaspa tukuy runakunap makin qhipaqta kanqa; hinaspa mana allinta chawpiykimmanta qichunkim.",
+ "tokens": [
+  {
+   "surface": "יד",
+   "gloss": "makin"
+  },
+  {
+   "surface": "העדים",
+   "gloss": "willakuqkunap"
+  },
+  {
+   "surface": "תהיה",
+   "gloss": "kanqa"
+  },
+  {
+   "surface": "בו",
+   "gloss": "payta"
+  },
+  {
+   "surface": "בראשנה",
+   "gloss": "ñawpaqta"
+  },
+  {
+   "surface": "להמיתו",
+   "gloss": "wañuchinanpaq"
+  },
+  {
+   "surface": "ויד",
+   "gloss": "hinaspa makin"
+  },
+  {
+   "surface": "כל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "העם",
+   "gloss": "runakunap"
+  },
+  {
+   "surface": "באחרנה",
+   "gloss": "qhipaqta"
+  },
+  {
+   "surface": "ובערת",
+   "gloss": "hinaspa qichunki"
+  },
+  {
+   "surface": "הרע",
+   "gloss": "mana allinta"
+  },
+  {
+   "surface": "מקרבך",
+   "gloss": "chawpiykimmanta"
+  }
+ ],
+ "timestamp": "2026-09-08T02:47:10.124477891Z",
+ "model": "glm-5.3"
+}

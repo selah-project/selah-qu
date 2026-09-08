@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "⟨את⟩ Aronta, hinaspa ⟨את⟩ k'aspinkunata, ⟨את⟩ kapporeta, hinaspa ⟨את⟩ pakay p'achap p'ardinta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aronta"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aronta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "k'aspinkunata"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "k'aspinkunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapporeta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporeta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "p'ardinta"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "p'ardinta"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "pakay p'achap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:42:35.589334764Z",
+  "model": "glm-5.3"
+}

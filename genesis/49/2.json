@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Huñunakuychik, uyariychik, Yaakovpa wawankuna; uyariychik Israelta, qamkunap taytaykichikta.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "huñunakuychik"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "uyariychik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…pa wawankuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "uyariychik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "qamkunap taytaykichikta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:19:40.804525304Z",
+  "model": "glm-5.3"
+}

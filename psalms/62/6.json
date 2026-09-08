@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Sapa Elohimman, nafshiy, ch'inllapi suyanay; paymantam suyakuyniy.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sapa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "ch'inllapi suyanay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafshiy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨imarayku⟩"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "suyakuyniy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:22.402912415Z",
+  "model": "glm-5.3"
+}

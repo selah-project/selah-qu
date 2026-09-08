@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Makakuranmi askha gentiokunata, hinaspa wañuchiran atiyniyuq apukunata.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "makakuranmi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "gentiokunata"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "hinaspa wañuchiran"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukunata"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "atiyniyuq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:17.290628227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Yahwem llillukunata waqaychanmi; ñuqa pisiyarqani, hinaspa ñuqata qispichirqan.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "waqaychan"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "llillukunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ñuqa pisiyarqani"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "hinaspa ñuqata"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "qispichirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:15.573952843Z",
+  "model": "glm-5.3"
+}

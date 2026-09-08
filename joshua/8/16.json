@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 8:16",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaymanta llapa llaqtapi kaq runakuna qayarikurqankum paykunata qatipanankupaq; hinaspa Yehoshuata qatirqanku, hinaspa llaqtamanta t'aqaspa karurqanku.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "qayarikurqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "qatipanankupaq"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "paykunata"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "qatirqanku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "-ta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וינתקו",
+      "gloss": "t'aqaspa karurqanku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "llaqtamanta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:14:47.222389837Z",
+  "model": "glm-5.3"
+}

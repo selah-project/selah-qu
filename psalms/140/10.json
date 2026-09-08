@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Ñuqata muyuriqkunap umanmanta: paykunap wirp'anpa llakikunanmi paykunata qatakunqa.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "umanmanta"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "ñuqata muyuriqkunap"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "llakikunan"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "paykunap wirp'anpa"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "paykunata qatakunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:52.666543685Z",
+  "model": "glm-5.3"
+}

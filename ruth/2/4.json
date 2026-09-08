@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 2:4",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaypacha Boaz Bet Lejimmanta hamurqan, tarpuqkunaman nispa: «Yahwe qamkunawanmi kachun». Paykunam payman nirqa: «Yahwe qamta bendicichun».",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Chaypacha"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Bet Lejimmanta"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet Lejim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לקוצרים",
+      "gloss": "tarpuqkunaman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "qamkunawanmi kachun"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "bendicichun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T11:30:58.082946933Z",
+  "model": "glm-5.3"
+}

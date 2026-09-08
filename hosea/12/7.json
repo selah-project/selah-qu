@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "hosea 12:7",
+ "book": "hosea",
+ "lang": "qu",
+ "chapter": 12,
+ "translation": "Qamtaq Elohimniykipi kutiy; jesedta, taripakuytawan waqaychay, hinaspa Elohimniykita supay wiñay.",
+ "tokens": [
+  {
+   "surface": "ואתה",
+   "gloss": "qamtaq"
+  },
+  {
+   "surface": "באלהיך",
+   "gloss": "Elohimniykipi"
+  },
+  {
+   "surface": "תשוב",
+   "gloss": "kutiy"
+  },
+  {
+   "surface": "חסד",
+   "gloss": "jesedta"
+  },
+  {
+   "surface": "ומשפט",
+   "gloss": "taripakuytawan"
+  },
+  {
+   "surface": "שמר",
+   "gloss": "waqaychay"
+  },
+  {
+   "surface": "וקוה",
+   "gloss": "hinaspa supay"
+  },
+  {
+   "surface": "אל",
+   "gloss": ""
+  },
+  {
+   "surface": "אלהיך",
+   "gloss": "Elohimniykita"
+  },
+  {
+   "surface": "תמיד",
+   "gloss": "wiñay"
+  }
+ ],
+ "timestamp": "2026-09-08T08:49:27.475594943Z",
+ "model": "glm-5.3"
+}

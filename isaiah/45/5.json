@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Ñuqam Yahwe ⟨kan⟩mi, hinaspa mana wak kaqchu ⟨kan⟩; ñuqallaypi hawa manam Elohim ⟨kan⟩chu; k'achachasqanim qamta, qamtaq mana riqsiwankichu ñuqata.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wak kaq"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ñuqallaypi hawa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "k'achachasqanim qamta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "qamtaq mana"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "riqsiwankichu ñuqata"
+    }
+  ],
+  "timestamp": "2026-09-08T06:30:13.095636707Z",
+  "model": "glm-5.3"
+}

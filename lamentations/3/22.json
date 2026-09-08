@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yahwepa jesedninkuna: manam tukurqanchu, manam tukukunchu paypa khuyapayanakuyninkuna.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "jesedninkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chasqam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "tukurqanchu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chasqam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tukukunchu"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "paypa khuyapayanakuyninkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T11:31:46.665009697Z",
+  "model": "glm-5.3"
+}

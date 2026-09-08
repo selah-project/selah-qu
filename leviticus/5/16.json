@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 5:16",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa ⟨את⟩ imatam santokunamanta llut'arirqan, chayta kutichinqam, chaymanta ⟨את⟩ phisqa ñiqinta yapaspa, kohenman ⟨את⟩ chayta qonqam; hinaspa kohenmi ashampa karnerowan payta qhaliyachinqa, chayqa pampachasqa kanqam paypa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "imata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "llut'arirqan"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santokunamanta"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kutichinqa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "chaymanta ⟨את⟩",
+      "marks": "phisqa ñiqinta"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "phisqa ñiqinta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "yapaspa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "qonqa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chayta kohenman"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenman"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "hinaspa kohen"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "qhaliyachinqa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "באיל",
+      "gloss": "karnerowan"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ashampawan"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "pampachasqa kanqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:06:36.353645911Z",
+  "model": "glm-5.3"
+}

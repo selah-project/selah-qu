@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Adammi kutiytam ⟨את⟩ warminta riqsirqan; paymi churita wacharqan, ⟨את⟩ sutinta Shet nispam suticharqan: Elohimmi Hevelpa tiyananpi wak muhuta ñuqapaq churarqan, Kayin wañuchisqanrayku.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "riqsirqan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kutiytam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warminta"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "suticharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "שת",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "muhu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tiyananpi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "wañuchisqanrayku"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:23.298939649Z",
+  "model": "glm-5.3"
+}

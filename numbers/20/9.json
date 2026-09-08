@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Chaysi Moshe (Moisés) ⟨את⟩ tawanata Yahwep ñawpaqninmanta hurqurqan, Yahwem kamachisqan hina.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "chaysi hurqurqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tawanata"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tawanata"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqninmanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "kamachisqanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:12:09.054432061Z",
+  "model": "glm-5.3"
+}

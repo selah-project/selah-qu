@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Chayraykun Yahwem uyarirqan hinaspa phutikurqan; ninawan Yaakovpi yaparparikurqan, ch'iqipas Israelpi tarparikurqan.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "chayraykun"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "hinaspa phutikurqan"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ninawan"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "yaparparikurqan"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaakovpi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ch'iqipas"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tarparikurqan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:45.898428679Z",
+  "model": "glm-5.3"
+}

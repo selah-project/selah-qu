@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Wayra ataqninta puriptin, haqeqa manaña ⟨kan⟩chu; hinaspa chiqniqqa wiñay teqim.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "wayra ataqninta puriptin"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "wayra ataqni"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hinaspa manaña"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haqe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "hinaspa chiqniq"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "teqi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:40:16.064314650Z",
+  "model": "glm-5.3"
+}

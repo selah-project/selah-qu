@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chanok (Enoc)mi pichqa suqta chunka wata kawsarqan, hinaspa ⟨את⟩ Metushelajta (Matusalén) wachachirqan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqan"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanok"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "suqta chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wachachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelajta"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelaj"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:59.814281131Z",
+  "model": "glm-5.3"
+}

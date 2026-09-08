@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "psalms 107:20",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 107,
+ "translation": "Siminta kachamurqanm, chaywan hampirqankum, hinaspa wañuchiykunamanta qespichirqan.",
+ "tokens": [
+  {
+   "surface": "ישלח",
+   "gloss": "kachamurqanm"
+  },
+  {
+   "surface": "דברו",
+   "gloss": "siminta"
+  },
+  {
+   "surface": "וירפאם",
+   "gloss": "hampirqankum"
+  },
+  {
+   "surface": "וימלט",
+   "gloss": "hinaspa qespichirqan"
+  },
+  {
+   "surface": "משחיתותם",
+   "gloss": "wañuchiykunamanta"
+  }
+ ],
+ "timestamp": "2026-09-08T14:16:19.689271694Z",
+ "model": "glm-5.3"
+}

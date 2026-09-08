@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 95,
+  "translation": "Paypa ñawpaqenpanta agradeciywanmi ñawpaqman chayasun; takikunawanmi payman q'uchuchisun.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "ñawpaqman chayasun"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "paypa ñawpaqenpanta"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "agradeciywan"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "takikunawan"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "q'uchuchisun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:32.887997714Z",
+  "model": "glm-5.3"
+}

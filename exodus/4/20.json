@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Moshe (Moisés)m apirqan ⟨את⟩ warminta, hinaspa ⟨את⟩ wawqinkunatawan, asnu (burro) patapi purichirqan, kutimurqa Mitsrayimpa hallp'anman (Egipto); hinaspa Moshe apirqan ⟨את⟩ Elohimpa varayunta makinpi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "apirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warminta"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawqinkunata"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wawqinkunata"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "purichirqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "asnu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kutimurqa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hallp'anman"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "apirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varayunta"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "varayun"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "makinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:58.876762434Z",
+  "model": "glm-5.3"
+}

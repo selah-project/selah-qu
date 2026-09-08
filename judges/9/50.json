@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Avimelehm Tevetsman (Tebes) purirqan, Tevets ñawpaqpi tiyarqan, chayta hapt'arqanmi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevets"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Tevets ñawpaqpi"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "hapt'arqan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:45:56.120305092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Nirqanm: «Ibriya warmikunata wawachiptiykichik, hawanpi rumikuna qhawaspa: churi kaptinqa, ⟨את⟩ payta wañuchiykichik; warmi wawa kaptinqa, payqa kawsachikapun».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "wawachiptiykichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibriya warmikunata"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "ibriya warmikunata"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "rumikuna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kaptinqa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kay"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "wañuchiykichik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta (churita)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kaptinqapas"
+    },
+    {
+      "surface": "בת",
+      "gloss": "warmi wawa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kay"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "kawsachikapun"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:47.710008504Z",
+  "model": "glm-5.3"
+}

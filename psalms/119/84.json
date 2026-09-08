@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Hayk'ataq p'unchawkuna qasaykipa? Imaynataq taripakuysita ruwanki qatipaqniykimanta?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "hayk'ataq"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qasayki"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "imaynataq"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "qatipaqniykimanta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "taripakuysita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:48.741363266Z",
+  "model": "glm-5.3"
+}

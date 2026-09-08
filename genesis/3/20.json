@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa runam warmipan sut'ita Chavata (Eva) churarqan, imaraykuchus paymi llapa kawsaqkunap mamansi karqan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sut'ita churarqan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sut'ita"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "warmipan"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chavata (Eva)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsaqkunap"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:27.540018346Z",
+  "model": "glm-5.3"
+}

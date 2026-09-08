@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa kutichirqanku ⟨את⟩ Yehoshuata sizaspa: llapan imata kamachiwanki chayta ruwasaqkum, hinaspa mayman churanqikipas chayman risaqku.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "kutichirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuata"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sizaspa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "kamachiwanki"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ruwasaqku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa mayman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "churanqikipas"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "risaqku"
+    }
+  ],
+  "timestamp": "2026-09-08T03:07:36.730287180Z",
+  "model": "glm-5.3"
+}

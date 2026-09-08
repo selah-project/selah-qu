@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Maypi ⟨את⟩ ollerta wañuchinku, chaypim ⟨את⟩ ashanta wañuchinku; hinaspa ⟨את⟩ yawarninta altarpa patanpin muyuntin ch'utinqa.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaypim"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "wañuchinku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ollerta"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ollerta"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "wañuchinku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashanta"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "yawarninta"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "yawarnin"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "ch'utinqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarpa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuntin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:53:45.505598816Z",
+  "model": "glm-5.3"
+}

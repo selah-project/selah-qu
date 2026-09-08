@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Lliq'aykunam mana allin q'apiy tukuspa phutikunku, pantayniyrayku.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "mana allin q'apiy tukuspa"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "phutikunku"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "lliq'aykuna"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "pantayniy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:23.247314955Z",
+  "model": "glm-5.3"
+}

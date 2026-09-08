@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "habakkuk 1:6",
+  "book": "habakkuk",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Imaraykuchus qhawariy: ñuqam Kashdimta (Caldeos) sayarichini ⟨את⟩ — huk llaqta sakran, utqaynan, hallp'ap hatun pampakunaman puriykachaq, mana paypa kasqata wasikunata hap'inanpaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imaraykuchus"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "qhawariy ñuqam"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "sayarichini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kashdimta"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Kashdimta (Caldeos)"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "huk llaqta"
+    },
+    {
+      "surface": "המר",
+      "gloss": "sakran"
+    },
+    {
+      "surface": "והנמהר",
+      "gloss": "utqaynan"
+    },
+    {
+      "surface": "ההולך",
+      "gloss": "puriykachaq"
+    },
+    {
+      "surface": "למרחבי",
+      "gloss": "hatun pampakunaman"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "hap'inanpaq"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "wasikunata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa kasqata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:11:30.335674405Z",
+  "model": "glm-5.3"
+}

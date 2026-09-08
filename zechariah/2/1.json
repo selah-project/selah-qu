@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Ñawiykunayta ⟨את⟩ hatarichirqanim, qhawarqanim; chayqa tawa k'ajakunam.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "hatarichirqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawiykunayta"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiykunayta"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "qhawarqanim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "k'ajakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:19:09.355456706Z",
+  "model": "glm-5.3"
+}

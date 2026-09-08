@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 30,
+ "ref": "leviticus 16:30",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 16,
+ "translation": "Imarayku kay p'unchawmim pay pampachanqa qankunata, ch'uyanchanqapaq ⟨את⟩ qankunata llapan hallch'asqaykikikunamanta; Yahwep ñawpaqninpi ch'uyallam kanqakichik.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "imarayku"
+  },
+  {
+   "surface": "ביום",
+   "gloss": "kay p'unchawpi"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "kay"
+  },
+  {
+   "surface": "יכפר",
+   "gloss": "pampachanqa"
+  },
+  {
+   "surface": "עליכם",
+   "gloss": "qankunata"
+  },
+  {
+   "surface": "לטהר",
+   "gloss": "ch'uyanchanqapaq"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ qankunata",
+   "marks": "qankunata"
+  },
+  {
+   "surface": "מכל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "חטאתיכם",
+   "gloss": "hallch'asqaykikikunamanta"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "ñawpaqninpi"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwep"
+  },
+  {
+   "surface": "תטהרו",
+   "gloss": "ch'uyallam kanqakichik"
+  }
+ ],
+ "timestamp": "2026-09-08T02:07:53.779156527Z",
+ "model": "glm-5.3"
+}

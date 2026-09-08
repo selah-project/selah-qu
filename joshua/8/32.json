@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa chaypi rumikunapi ⟨את⟩ Moshepa Toranpa iskay ñiqin qillqata qillqarqan, chayta Israelpa wawankunap ñawpaqninpi qillqarqan.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "qillqarqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "rumikunapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshepa Toranpa iskay ñiqin qillqata"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "iskay ñiqin qillqata"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshepa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "qillqarqan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:15:18.633879880Z",
+  "model": "glm-5.3"
+}

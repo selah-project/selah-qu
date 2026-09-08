@@ -1,0 +1,69 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "exodus 4:7",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Nirqanmi: «Makiykita chusanaykiman kutichiy». Kutichirqanmi makin chusananman, chusananmanta hurqarqan; qawariy, aychanan hinallam kutirqan.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "השב",
+   "gloss": "kutichiy"
+  },
+  {
+   "surface": "ידך",
+   "gloss": "makiyki"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "חיקך",
+   "gloss": "chusanaykiman"
+  },
+  {
+   "surface": "וישב",
+   "gloss": "kutichirqan"
+  },
+  {
+   "surface": "ידו",
+   "gloss": "makin"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "חיקו",
+   "gloss": "chusananman"
+  },
+  {
+   "surface": "ויוצאה",
+   "gloss": "hurqarqan"
+  },
+  {
+   "surface": "מחיקו",
+   "gloss": "chusananmanta"
+  },
+  {
+   "surface": "והנה",
+   "gloss": "qawariy"
+  },
+  {
+   "surface": "שבה",
+   "gloss": "kutirqan"
+  },
+  {
+   "surface": "כבשרו",
+   "gloss": "aychanan hina"
+  }
+ ],
+ "timestamp": "2026-09-08T00:22:51.154688363Z",
+ "model": "glm-5.3"
+}

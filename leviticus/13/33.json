@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Llawq'achikunqam, ichataq hinaspa ⟨את⟩ neteqta mana llawq'achinqachu; kohenm ⟨את⟩ neteqta qanchis p'unchawkunata iskay ñiqinta wisq'arqanqa.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "llawq'achikunqam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "neteqta"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteqta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "llawq'achinqachu"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "wisq'arqanqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neteqta"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteqta"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkunata"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "iskay ñiqinta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:06:03.423400641Z",
+  "model": "glm-5.3"
+}

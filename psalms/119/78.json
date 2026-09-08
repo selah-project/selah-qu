@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Sinchi k'akillakuqkunam map'achakunanku, imaraykuchus llulla-wan ñuqata llullarqanku; ñuqaqta kamachikuyniykipi yuyaykuni.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "map'achakunanku"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "sinchi k'akillakuqkuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla-wan"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "ñuqata llullarqanku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqaq"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "yuyaykuni"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "kamachikuyniykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:40.896230045Z",
+  "model": "glm-5.3"
+}

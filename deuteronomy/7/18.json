@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Mana paykunamanta manchakunkichu; yuyariy hunt'ata yuyaspa ⟨את⟩ imata Yahwe Elohimniyki Parowan (Faraón), hinaspa llapan Mitsrayimwan (Egipto) ruwarqan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "manchakunkichu"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yuyariy"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "hunt'ata yuyaspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata (imata ruwasqanta)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parowan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimwan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:34:43.551541583Z",
+  "model": "glm-5.3"
+}

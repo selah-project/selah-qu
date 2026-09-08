@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "deuteronomy 6:5",
+ "book": "deuteronomy",
+ "lang": "qu",
+ "chapter": 6,
+ "translation": "Hinaspa ⟨את⟩ Yahwetam, Elohimniykita llapan sunquykiwan, llapan nefeshniykiwan, llapan kallpaykiwan khuyakunki.",
+ "tokens": [
+  {
+   "surface": "ואהבת",
+   "gloss": "khuyakunki"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahweta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיך",
+   "gloss": "Elohimniyki"
+  },
+  {
+   "surface": "בכל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "לבבך",
+   "gloss": "sunquykiwan"
+  },
+  {
+   "surface": "ובכל",
+   "gloss": "llapan…wan"
+  },
+  {
+   "surface": "נפשך",
+   "gloss": "nefeshniykiwan"
+  },
+  {
+   "surface": "ובכל",
+   "gloss": "llapan…wan"
+  },
+  {
+   "surface": "מאדך",
+   "gloss": "kallpaykiwan"
+  }
+ ],
+ "timestamp": "2026-09-08T02:30:43.753646255Z",
+ "model": "glm-5.3"
+}

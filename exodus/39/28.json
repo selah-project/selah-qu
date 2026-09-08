@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hinaspa ⟨את⟩ umallina toqllata linomanta, ⟨את⟩ sumaq p'acha chukukunata linomanta, ⟨את⟩ churakuna hark'ananpataqa lino molusamanta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "toqllata"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "umallina toqllata"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linomanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chukukunata"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "p'acha chukukunata"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linomanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "churakunata"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "churakuna"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "hark'ananpata"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lino"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "molusamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:20.244479714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chaymanta Israelpa churinkuna Lehikunaman, paykunap chaskisqanmanta, Yahwepa siminman hina ⟨את⟩ kay llaqtakunata, hinaspa ⟨את⟩ paykunap michi pampakunatawan qoykurqanku.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "chaymanta qoykurqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Lehikunaman"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "paykunap chaskisqanmanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hina"
+    },
+    {
+      "surface": "פי",
+      "gloss": "siminman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay llaqtakunata"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paykunap michi pampakunata"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "paykunap michi pampakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:29:04.312714055Z",
+  "model": "glm-5.3"
+}

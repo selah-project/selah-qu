@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Imataq: qamkunap makiykichik yawarwanmi milluchisqa kashan, qamkunap ruruykichiktaq awqallakiywan; qamkunap wirpaykichikmi llullata rimarqanku, qamkunap qallaykichiktaq haqlla rimayta wiyawiyachin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "qamkunap makiykichik"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "milluchisqa kashan"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "yawarwan"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "qamkunap ruruykichiktaq"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "awqallakiywan"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "qamkunap wirpaykichik"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "rimarqanku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llullata"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "qamkunap qallaykichiktaq"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "haqlla rimayta"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "wiyawiyachin"
+    }
+  ],
+  "timestamp": "2026-09-08T06:39:14.857989638Z",
+  "model": "glm-5.3"
+}

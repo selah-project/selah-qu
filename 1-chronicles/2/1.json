@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Kaymi Israelpa churinkuna: Reuven (Rubén), Shimon (Simeón), Levi, Yehudah (Judá), Yissaskar (Isacar), Zevulun (Zabulón) ima.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "Zevulun"
+    }
+  ],
+  "timestamp": "2026-09-08T12:30:29.015167097Z",
+  "model": "glm-5.3"
+}

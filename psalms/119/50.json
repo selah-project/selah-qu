@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Kaymi ñak'ariypi ipsichiymi: rimaykim kawsachichuwanmi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ipsichiymi"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "ñak'ariypi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "rimaykim"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "kawsachichuwanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:58.087124790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaymi ñuqa kutirparqani, sunquyta ⟨את⟩ llapa inti uraypi llamk'aqtiy llamk'aymanta llakikuchinaypaq.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "kutirparqani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "llakikuchinaypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunquyta"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquyta"
+    },
+    {
+      "surface": "על",
+      "gloss": "…manta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "llamk'aymanta"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "llamk'aqtiy"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uraypi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:03.724629747Z",
+  "model": "glm-5.3"
+}

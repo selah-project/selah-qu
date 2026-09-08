@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Kanan makiyki pañamakiykipa runanpi saychun, runap churinpi mayta qam kikinpaq kallpacharqaykim.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "saychun"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "pañamakiykipa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "kallpacharqayki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kikinpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:01.774754023Z",
+  "model": "glm-5.3"
+}

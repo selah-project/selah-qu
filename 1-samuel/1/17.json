@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymi Eli kutirqan hinaspa nirqan: Riy sumaqlla, hinaspa Israelpa Elohim ⟨את⟩ mañasqaykita qonqa, mayqinta paymanta mañasqayki.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kutirqan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Riy"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "sumaqlla"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "hinaspa Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qonqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mañasqaykita"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "mañasqayki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "mañasqayki"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "paymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:01:58.845278628Z",
+  "model": "glm-5.3"
+}

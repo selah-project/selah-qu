@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Chaymanta Abrahamm sayarirqan, hallp'apa runakunaman — Hetpa churinkunaman — umata ñuñuspa.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "umata ñuñuspa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'apa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "churinkunaman"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetpa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:33.753413890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa apuriy ⟨את⟩ Hamanmanta pasachisqa sellonta Mordejaipa qarqan; Esterpas ⟨את⟩ Mordejaita Hamanpa wasinpa umalliqninman churarqan.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "hururqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apuriy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sellonta"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "sellon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "pasachisqa"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "Hamanmanta"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "qarqan"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordejaipa"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterpas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordejaita"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordejai"
+    },
+    {
+      "surface": "על",
+      "gloss": "umalliqninman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanpa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:50:45.830155487Z",
+  "model": "glm-5.3"
+}

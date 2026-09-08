@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Kohenmi ⟨את⟩ unqusqata qhawarqan, hinaspa ⟨את⟩ unqusqata qanchis p'unchaw wichq'arqan.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unqusqata"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "unqusqata"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "wichq'arqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unqusqata"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "unqusqata"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T00:58:17.069699241Z",
+  "model": "glm-5.3"
+}

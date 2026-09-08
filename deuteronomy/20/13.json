@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Yahwe Elohimniyki chayta makiykiman qunqam; hinaspa ⟨את⟩ llapan qharinta churip siminwan wañuchinqim.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "qunqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "makiykiman"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "hinaspa wañuchinqim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan qharinta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "siminwan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "churi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:47:21.992953098Z",
+  "model": "glm-5.3"
+}

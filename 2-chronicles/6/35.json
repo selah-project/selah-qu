@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa hanaq pacha mantam ⟨את⟩ mañasqankuta, hinaspa ⟨את⟩ tukuy sunquwan mañasqankuta uyariwanki, hinaspa taripakuyninkuta allintam ruranki.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Hinaspa uyariwanki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mañasqankuta"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "mañasqankuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tukuy sunquwan mañasqankuta"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "tukuy sunquwan mañasqankuta"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruranki"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "taripakuyninkuta allinta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:56:51.285256705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Sinqachakuypa chakin ama ñuqaman hamuchunchu, hinaspa haq'iy runakunap makinwan ama ñuqata kuyuchiwawankichu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "hamuchunchu"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "chaki"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "sinqachakuy"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "hinaspa maki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haq'iy runakunap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "kuyuchiwawankichu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:57.804276260Z",
+  "model": "glm-5.3"
+}

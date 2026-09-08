@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 29:16",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "T'ikrasqaykichik! ¿Ch'aki ruraqcha ch'akihina chaninchasqa ⟨kan⟩? Imarayku rurasqaqa ruraqninman nin: 'Manam ñuqata rurawankichu'; kamachisqapas kamachiqninman nin: 'Manam hamut'iwankichu'.",
+  "tokens": [
+    {
+      "surface": "הפככם",
+      "gloss": "t'ikrasqaykichik"
+    },
+    {
+      "surface": "אם",
+      "gloss": "icha"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "ch'akihina"
+    },
+    {
+      "surface": "היצר",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "chaninchasqa ⟨kan⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rurasqa"
+    },
+    {
+      "surface": "לעשהו",
+      "gloss": "ruraqninman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "ñuqata rurawankichu"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "hinaspa kamachisqa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ליוצרו",
+      "gloss": "kamachiqninman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "hamut'iwankichu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:13:26.015075789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa hallp'aqa Elohimpa ñawpaqpin ch'usaqyasqa karqanmi, hallp'aqa hamaswan hunt'akarqan.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "ch'usaqyasqa karqan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'aqa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpin"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "hunt'akarqan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'aqa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "hamaswan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:53.381860662Z",
+  "model": "glm-5.3"
+}

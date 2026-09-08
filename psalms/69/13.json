@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Punkupi tiyaqkuna ñuqamanta rimarqanku, hinaspa machaqkuna ñuqamanta takirqanku.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "rimarqanku"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "punkupi tiyaqkuna"
+    },
+    {
+      "surface": "שער",
+      "gloss": "punku"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "hinaspa takirqanku"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "machaqkuna"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "machaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:32.406808397Z",
+  "model": "glm-5.3"
+}

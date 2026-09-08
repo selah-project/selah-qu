@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 149,
+  "translation": "Elpa hatun yupaychayninkuna kunkankupi kanqan, hinaspa iskay filoyuq sayri makiyninkupi kanqan.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "hatun yupaychaykuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "kunkankupi"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "hinaspa sayri"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "iskay filoyuq"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "makiyninkupi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:48.262762136Z",
+  "model": "glm-5.3"
+}

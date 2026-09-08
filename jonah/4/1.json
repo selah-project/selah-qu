@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Yarqurqanmi Yonahman hatun mana allinta, chaym phiñarirqan ⟨pay⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "Yarqurqanmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yonahman"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonahman"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "phiñarirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨pay⟩"
+    }
+  ],
+  "timestamp": "2026-09-08T09:04:04.770695097Z",
+  "model": "glm-5.3"
+}

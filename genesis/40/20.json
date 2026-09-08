@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Karqanmi kimsa ñiqin p'unchawpi, Paro ⟨את⟩ paqariy p'unchaw, chay p'unchawmi Paro llapan yanapaqninkunaman fiestata ruwarqan; hinaspa ⟨את⟩ umalliq upyachiqpa umanta, hinaspa ⟨את⟩ umalliq t'anta ruraqpa umanta yanapaqninkunap chawpinpi halarqanmi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kimsa ñiqin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "paqariy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paropa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "fiestata"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapanman"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapaqninkunaman"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "hinaspa halarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umanta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umanta"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umalliq"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "upyachiqpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umanta"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umalliq"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "t'anta ruraqpa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapaqninkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:11:57.225737931Z",
+  "model": "glm-5.3"
+}

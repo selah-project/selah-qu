@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 21:35",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "⟨את⟩ Dimnahta michi pampanwan, ⟨את⟩ Nahalalta michi pampanwan: tawa llaqtam.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dimnahta"
+    },
+    {
+      "surface": "דמנה",
+      "gloss": "Dimnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michi pampanwan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michi pampa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahalalta"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michi pampanwan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michi pampa"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tawa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:27:35.450662921Z",
+  "model": "glm-5.3"
+}

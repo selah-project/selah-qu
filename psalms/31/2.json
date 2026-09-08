@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Qampi, Yahwe, sak'akuni; ama p'inqaykachawachu kachunnayta wiñaypaq; cheqan kayniykiwanmi qispichiway.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sak'akuni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "p'inqaykachawachu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "cheqan kayniykiwan"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "qispichiway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:39.477398889Z",
+  "model": "glm-5.3"
+}

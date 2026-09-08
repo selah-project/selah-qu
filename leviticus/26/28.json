@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Chaymanta ñuqam qampakunawan ama munaspa phiñayniyuq purisaq, hinaspa ⟨את⟩ qampakunata ñuqam, yapaspa ñuqa, huchaykikunamanta rayku qanchis kuti yachachisaqmi.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "purisaq"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "qampakunawan"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "phiñayniyuq"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ama munaspa"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "yachachisaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "qampakunata"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yapaspa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis kuti"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "huchaykikunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:14:12.616276700Z",
+  "model": "glm-5.3"
+}

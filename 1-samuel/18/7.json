@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Tususpa takaq warmikunam huknin hukninta kutichispa nirqanku: Shaulmi waranqata p'eqiykurqan, Davidtaq chunka waranqata.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "kutichispa"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "warmikuna"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "tususpa takaq"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "nirqankum"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "p'eqiykurqanmi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "waranqata"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Davidtaq"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "chunka waranqata"
+    }
+  ],
+  "timestamp": "2026-09-08T04:19:17.742606034Z",
+  "model": "glm-5.3"
+}

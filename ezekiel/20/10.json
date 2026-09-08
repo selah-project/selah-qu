@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Chaymi paykunata Mitsrayim (Egipto) hallp'amanta hurqurqani, ch'usaq pampaman pusarqani.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "hurqurqani paykunata"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "pusarqani paykunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ch'usaq pampaman"
+    }
+  ],
+  "timestamp": "2026-09-08T08:09:42.973471728Z",
+  "model": "glm-5.3"
+}

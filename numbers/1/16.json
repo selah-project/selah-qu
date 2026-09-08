@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kaykunami aylluntinpa waqyasqakuna karqan, taytaku-nanku ayllukunap apukuna, Israelpa waranqankunap umalliqninku.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "waqyasqakuna"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "aylluntinpa"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ayllukunap"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "taytakunanku"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umalliqninku"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "waranqankunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T01:13:31.318988515Z",
+  "model": "glm-5.3"
+}

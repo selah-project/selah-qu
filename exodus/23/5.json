@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Sichus qhawanki ⟨∅⟩ qta p'inqakuq runap burron, kargan urapi thuntisqata, hinaspa churayta saqinayki yuyaptiyki, chayqa saqimuyllataq saqimunki paywan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "qhawanki"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "burrota"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "qta p'inqakuq runap"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "thuntisqa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "urapi"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "kargan"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "hinaspa saqinayki yuyanki"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "saqiyta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chaypaq"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "saqi"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "saqimunki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:37.007080095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Paypa ñawpaqninpi awqankunata p'akiysaqmi; p'inqachikunkunata ñak'ariychisaqmi.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "p'akiysaqmi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "paypa ñawpaqninpi"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "awqankunata"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "p'inqachikunkunata"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "ñak'ariychisaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:56.586614443Z",
+  "model": "glm-5.3"
+}

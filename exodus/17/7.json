@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 17:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chay kitipa suta Massah, Meribah suticharqanku, Israel wawakunap ch'aqwanakuyninrayku, hinaspa ⟨את⟩ Yahweta t'aqsinakuyninrayku, nispa: Yahweqa kanchikkunap chawpinpi kanchu, mana kanchu?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "suticharqanku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suta"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "chay kiti"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "ומריבה",
+      "gloss": "Meribah"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ch'aqwanakuynin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa rayku"
+    },
+    {
+      "surface": "נסתם",
+      "gloss": "t'aqsinakuynin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kanchu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבנו",
+      "gloss": "kanchikkunap chawpinpi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ichapas"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:11.100014083Z",
+  "model": "glm-5.3"
+}

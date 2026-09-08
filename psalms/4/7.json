@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Askha runakuna ninkusi: «Pita allinta rikuchikuwanchik?» Yahwe, ñawpayki k'anchayta ñuqanchikman patariy.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "askha runakuna"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ninkusi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "rikuchikuwanchik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "patariy"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchayta"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawpayki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:54.834884447Z",
+  "model": "glm-5.3"
+}

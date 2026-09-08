@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Sichus paypa p'unchawkunañam sayasqa kachkan, killankunap yupayninqa ⟨את⟩ Qamwanmi; paypa sayaynin kamachiyta ruwarqankim, chaymi manam chayta pasayta atinchu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "sayasqa kachkan"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "paypa p'unchawkuna"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "yupaynin"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "killankunap"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ Qamwan",
+      "marks": "Qamwan (killankunap yupaynin)"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "paypa sayaynin kamachiyta"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ruwarqankim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "pasayta atinchu"
+    }
+  ],
+  "timestamp": "2026-09-08T14:19:56.288147839Z",
+  "model": "glm-5.3"
+}

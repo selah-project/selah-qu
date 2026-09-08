@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Imataq Davidmi qampaman yapaswanqa, sumaq yachaypaq ⟨את⟩ qampaq yanapaqykipaq; qantaqmi ⟨את⟩ qampaq yanapaqykip riqsinkim.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "yapaswanqa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qampaman"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "sumaq yachaypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qampaq yanapaqykip"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qampaq yanapaqykip"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "qantaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qampaq yanapaqykip"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qampaq yanapaqykip"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "riqsinkim"
+    }
+  ],
+  "timestamp": "2026-09-08T12:45:24.580731914Z",
+  "model": "glm-5.3"
+}

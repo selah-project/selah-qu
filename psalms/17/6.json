@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Ñuqam qamta qayllirqani, chiqapmi ñuqata kutichiwanki, El; rinriykim ñuqaman ñawichiy, ñuqap siminta uyariy.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "qamta qayllirqani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqapmi"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ñuqata kutichiwanki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "ñawichiy"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "rinriykim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ñuqap siminta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:37.194609495Z",
+  "model": "glm-5.3"
+}

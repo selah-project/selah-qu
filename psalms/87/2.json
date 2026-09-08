@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 87,
+  "translation": "Yahwem Tsiyonpa punkunkunata munan, Yaakovpa llapan wasinkunamanta aswanmi.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "munan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "punkunkunata"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonpa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapan ... manta aswan"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "wasinkuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:05.723078323Z",
+  "model": "glm-5.3"
+}

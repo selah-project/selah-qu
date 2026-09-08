@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Wata watawanmi rurasqaykikunata yupaychanga, hinaspa atiyniykikunata willanganku.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "wata"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "watawanmi"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "yupaychanga"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "rurasqaykikunata"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "hinaspa atiyniykikunata"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "willanganku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:30.709960834Z",
+  "model": "glm-5.3"
+}

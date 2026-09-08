@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 37:26",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chaymi quri ch'uyawan qhatarqan ⟨את⟩ payta: ⟨את⟩ hawanta, hinaspa ⟨את⟩ muyuriqta irqinkunanta, hinaspa ⟨את⟩ t'uqrukunanta; chaymantaqmi paypaq quri sirkata ruwarqan muyuriqnin.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "qhatarqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta (altar)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ch'uya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hawanta"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "hawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "irqinkunanta"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "irqinkuna"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "t'uqrukunanta"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "t'uqrukuna"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "זר",
+      "gloss": "sirka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqnin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:31.980055205Z",
+  "model": "glm-5.3"
+}

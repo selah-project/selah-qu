@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 22:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Sichus suwam mana tarikunchu chayqa, wasip apun Elohimman ñawpaqman rin, sichus masinpa rurasqanman makiwan churawanchu karqan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ... -chu"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tarikun"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "suwa"
+    },
+    {
+      "surface": "ונקרב",
+      "gloss": "ñawpaqman rin"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "apun"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasip"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ... -chu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "churawa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makiwan"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "rurasqanman"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "masinpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:35:34.563230177Z",
+  "model": "glm-5.3"
+}

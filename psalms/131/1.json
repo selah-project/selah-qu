@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 131,
+  "translation": "Takin patakunapa, Davidpa. Yahwe, sunquy mana hatunmi, ñawiykunapas mana hanaqmi; mana purini hatun imakunapipas, mamallapaq imakunapipas ñuqamanta.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Takin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "patakunapa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kunapas mana"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "hanaq"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiykuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "purini"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "hatun imakunapipas"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "mamallapaq imakunapipas"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:50.566607004Z",
+  "model": "glm-5.3"
+}

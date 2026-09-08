@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Kahinam hukta ⟨את⟩ pantay ofrendahina ruranqa, hukta ⟨את⟩ wichaq ofrendahinawan; Yahwep ñawpaqen kahinam payta pichachinqa paypa ichiyninmanta, paypa ichi kayninmanta.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "hinaspa ruranqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukta (pantay ofrendata)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "pantay ofrenda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hukta (wichaq ofrendata)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wichaq ofrenda"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "hinaspa pichachinqa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "payta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kahina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "ichiyninmanta"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "ichi kayninmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:02:48.326615993Z",
+  "model": "glm-5.3"
+}

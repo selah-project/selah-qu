@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Simiyki chakiyman llant'ami, hinaspa ñaniman k'anchaymi.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "llant'a"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "chakiyman"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Simiyki"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "hinaspa k'anchay"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "ñaniman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:03.116478931Z",
+  "model": "glm-5.3"
+}

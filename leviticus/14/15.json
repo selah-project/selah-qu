@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa kohenqa log aceitamanta hap'inmi, hinaspa hierinqa kohenpa lluqi maki pampanpi.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "hap'inmi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenqa"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "logmanta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "aceitapa"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "hierinqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "כף",
+      "gloss": "maki pampanpi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenpa"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "lluqi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:59:37.872361837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Imarayku manchakusaq mana allin p'unchawkunapi? Millay rurasqam ñuqap chaki taqaypi muyurinqa.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "manchakusaq"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "עון",
+      "gloss": "millay rurasqa"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "ñuqap chaki taqaypi"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "muyurinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:49.983700607Z",
+  "model": "glm-5.3"
+}

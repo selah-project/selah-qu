@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 40:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Chaysi karqan: killa ñawpaqpi, iskay ñiqin watapi, killapa huk ñiqin p'unchawpin, Mishkan sayarichisqa karqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "killa ñawpaqpi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "watapi"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "huk ñiqin p'unchawpin"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "killapa"
+    },
+    {
+      "surface": "הוקם",
+      "gloss": "sayarichisqa karqan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:19.237567982Z",
+  "model": "glm-5.3"
+}

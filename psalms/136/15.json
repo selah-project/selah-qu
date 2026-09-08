@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Hinaspa Paro (Faraón)ta awqankunatawan chay tutura qochapi ch'utirqanmi, imarayku wiñay kamanmi jesednin.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "hinaspa ch'utirqan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "awqankunatawan"
+    },
+    {
+      "surface": "בים",
+      "gloss": "qochapi"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "tutura"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kaman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:41.206344667Z",
+  "model": "glm-5.3"
+}

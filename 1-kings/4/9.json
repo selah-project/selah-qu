@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Ben-Deker Makatspi, Shaalbimpi, Bet-Shemeshpi, Elon Bet-Chananpipas kamarqan-mi.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Ben-Deker (Dekerpa churi)"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "Makatspi"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "hinaspa Shaalbimpi"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "hinaspa Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemeshpi"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "hinaspa Elon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Chananpipas"
+    }
+  ],
+  "timestamp": "2026-09-08T05:00:42.503029730Z",
+  "model": "glm-5.3"
+}

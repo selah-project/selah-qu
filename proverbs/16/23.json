@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 16:23",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Yachaqpa sonqonmi siminta yachachin, hinaspa wirp'ankunapiman yachachiyta yapam.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sonqon"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yachaqpa"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "yachachin"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa ... -man"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "wirp'ankunapiman"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "yapam"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yachachiyta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:43:32.387606853Z",
+  "model": "glm-5.3"
+}

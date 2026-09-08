@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Muchuykita ñuqamanta qichuway; makiykimanta maqakuwam chikikuni.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "qichuway"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "muchuykita"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "maqakuwan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykimanta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "chikikuni"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:35.745662121Z",
+  "model": "glm-5.3"
+}

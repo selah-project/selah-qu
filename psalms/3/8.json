@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Sayariy, Yahwe; ñuqata hampichiwariy, Elohimniy; imaraykuchus ⟨את⟩ tukuy awqaykunanata llipillapi tariparqanki, haqakuqkuna kirunkunatataq p'akiyarqanki.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ñuqata hampichiwariy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "tariparqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy awqaykunanata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqaykunanata"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "llipillapi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "kirunkunata"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haqakuqkuna"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "p'akiyarqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:28.062199225Z",
+  "model": "glm-5.3"
+}

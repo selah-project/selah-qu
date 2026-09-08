@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 146,
+  "translation": "Ruraqmi hanaq pachata, kay pachatawan, ⟨את⟩ umata, hinaspa ⟨את⟩ tukuimanta chaypi kaqta; cheqta wiñay kama waqaychaq.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "kay pachatawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umata"
+    },
+    {
+      "surface": "הים",
+      "gloss": "umata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tukui"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "waqaychaq"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqta"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kama"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:00.013415893Z",
+  "model": "glm-5.3"
+}

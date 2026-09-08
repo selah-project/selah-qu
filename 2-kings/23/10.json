@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspa Tofeteta millachirqan, maypichus Ben-Hinomin wayk'unninpi karqan, manataq pipas wawantan churinta, phañintawan nina ukhupi Molechman churanampaq.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "millachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofeteta"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofeteta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypichus"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "wayk'unninpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "churanampaq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pipas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawantan churinta"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "phañintawan"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "phañintawan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nina ukhupi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molechman"
+    }
+  ],
+  "timestamp": "2026-09-08T05:46:09.737924375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Ñuqam masinmi kani llapan qampakuyta munaqkunapaq, kamachikuyniykita waqaychaqkunapampas, Yahwe.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "masin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kunapaq"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "qampakuyta munaq"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "waqaychaqkunapampas"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "kamachikuyniykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:24:31.402812173Z",
+  "model": "glm-5.3"
+}

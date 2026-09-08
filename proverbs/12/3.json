@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Runaqa haqllakaywan mana sayarichikunchu; chiqna runakunpa saphiqa mana hayk'appas mitunchu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "sayarichikun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "haqllakaywan"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "saphiqa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "chiqna runakunpa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana hayk'appas"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "mitunchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:41:53.670283398Z",
+  "model": "glm-5.3"
+}

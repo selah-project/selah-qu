@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Icha paym rikurqan paykunap sasachakusqankuta, paykunap ⟨את⟩ waqaysikuyninkunta uyarispata.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sasachakusqankuta"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunap"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "uyarispata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waqaysikuyninkunta"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "waqaysikuyninkunta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:15.779444385Z",
+  "model": "glm-5.3"
+}

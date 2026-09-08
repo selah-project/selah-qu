@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Davidmi ⟨את⟩ Pilistita umanta hap'ispa Yerushalayimman apamurqan, hinaspa ⟨את⟩ paypa illawkunata wasinta churarqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'ispa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pilistita umanta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umanta"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pilistita"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "apamurqan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa illawkunata"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "paypa illawkunata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "wasinta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:16:59.951809220Z",
+  "model": "glm-5.3"
+}

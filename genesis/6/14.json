@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Ruwari qampaq huk arcata gofer sach'akunamanta; wasichakunatawan ruwanki ⟨את⟩ arcata, hinaspa ⟨את⟩ payta chaqllaqanki ukhumanta, hawamantawan chaqllawan.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ruwari"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "huk arcata"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'akunamanta"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "wasichakunatawan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcata"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arcata"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "chaqllaqanki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ukhumanta"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "hawamantawan"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "chaqllawan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:02:41.083835874Z",
+  "model": "glm-5.3"
+}

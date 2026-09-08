@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Yahwepa Sutinwanmi waqyarqanimi: Ananayas, Yahwe, nefeshniyta qispichiwaway.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Sutinwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "waqyarqanimi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ananayas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "qispichiwaway"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:17.947330184Z",
+  "model": "glm-5.3"
+}

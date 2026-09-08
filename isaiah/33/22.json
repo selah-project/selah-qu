@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 33:22",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Imaraykum Yahweqa juzguninchikmi, Yahweqa kamachiqninchikmi, Yahweqa apuninchikmi; paymi ñuqanchikta qispichin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שפטנו",
+      "gloss": "juzguninchik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחקקנו",
+      "gloss": "kamachiqninchik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "apuninchik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "יושיענו",
+      "gloss": "qispichin"
+    }
+  ],
+  "timestamp": "2026-09-08T06:17:10.517974551Z",
+  "model": "glm-5.3"
+}

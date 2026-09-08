@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa apu**m** nirqan: kay warmiqa «kawsaqmi ñuqap waway, qampa wawayqa wañusqa» nispa; chay warmiqa «mana, qampa wawayqa wañusqa, ñuqap wawaytaqmi kawsaq» nispa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ñuqap waway"
+    },
+    {
+      "surface": "החי",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "qampa wawayqa"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wañusqa"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "icha"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "qampa wawayqa"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wañusqa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ñuqap wawaytaq"
+    },
+    {
+      "surface": "החי",
+      "gloss": "kawsaq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:37:52.386824591Z",
+  "model": "glm-5.3"
+}

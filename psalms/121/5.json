@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 121,
+  "translation": "Yahwem qamta waqaychanmi; Yahwem qampa llanthunki paña makinpi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "qamta waqaychan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "qampa llanthunki"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "makin"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "paña"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:13.862602736Z",
+  "model": "glm-5.3"
+}

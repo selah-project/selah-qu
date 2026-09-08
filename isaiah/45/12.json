@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Ñuqam kay pachata ruwarqani, hinaspa runata chaypi kamarqani; ñuqa makikunay hanaq pachata mast'arqan, hinaspa llapan awqankunata kamachirqani.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ruwarqani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kay pachata"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "hinaspa runata"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "kamarqani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makikunay"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "mast'arqan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "awqankunata"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "kamachirqani"
+    }
+  ],
+  "timestamp": "2026-09-08T06:28:08.048585534Z",
+  "model": "glm-5.3"
+}

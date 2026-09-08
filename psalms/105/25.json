@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Paymi tikrarqan ⟨paykuna⟩ sunqunkunata, paypa runanta p'iñanankupaq, paypa yanapaqninkunawan llulla-saywan atipanankupaq.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "tikrarqan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sunqunkunata"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "p'iñanankupaq"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runanta"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "llulla-saywan atipanankupaq"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "paypa yanapaqninkunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:53.044368476Z",
+  "model": "glm-5.3"
+}

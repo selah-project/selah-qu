@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Llapan rurasqayki Yahweta yupachanki, jaso rurasqaykitaq bendecinkikii.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "yupachanki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "rurasqayki"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "jaso rurasqaykitaq"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "bendecinkikii"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:30.968621049Z",
+  "model": "glm-5.3"
+}

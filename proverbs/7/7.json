@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 7:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaysi llamp'u yuyayniyuq mana kaqkunamanta huk waynata rikurqani, wawqekunamanta riqsirqani: sunqu chusaq waynatam.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "rikurqani"
+    },
+    {
+      "surface": "בפתאים",
+      "gloss": "llamp'u yuyayniyuq mana kaqkunamanta"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "riqsirqani"
+    },
+    {
+      "surface": "בבנים",
+      "gloss": "wawqekunamanta"
+    },
+    {
+      "surface": "נער",
+      "gloss": "waynata"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "chusaq"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:37:33.113403580Z",
+  "model": "glm-5.3"
+}

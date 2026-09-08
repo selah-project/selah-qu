@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Yaakovm suticharqan ⟨את⟩ chay kitip sutinta, maypi Elohim chaypi ⟨את⟩wan rimarqan: Beyt El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "suticharqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov (Jacob)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suta"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "chay kitip"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩wan",
+      "marks": "Elohim (paywan rimasqa)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:54.646675072Z",
+  "model": "glm-5.3"
+}

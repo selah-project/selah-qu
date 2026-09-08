@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinallataqmi yanapakuq qharikunamanpas, yanapakuq warmikunamanpas, chay p'unchawkunapim ⟨את⟩ samayniyta t'ikraymanqaku.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "hinallataqmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "man"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "yanapakuq qharikuna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "manpas"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "yanapakuq warmikuna"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "t'ikraymanqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "samayniyta"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "samayniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:54:17.506908373Z",
+  "model": "glm-5.3"
+}

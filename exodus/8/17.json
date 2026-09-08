@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 8:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Sichus mana kachawankichu ⟨את⟩ ñuqap runayta, qhawaymi, kachasaq ⟨את⟩ arovkunata (ch'uspi huñukunata) qamman, qampa yanapaqniykikunamanwan, qampa runaykikunamanwan, qampa wasiykikunamanwan; Mitsrayimpa wasikunaq ⟨את⟩ arovkunatawan hunt'akunqaku, hinallataq chay hallp'a maypi paykuna tiyashanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "kachawankichu"
+    },
+    {
+      "surface": "משלח",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap runayta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqap runayta"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "qhawaymi"
+    },
+    {
+      "surface": "משליח",
+      "gloss": "kachasaq"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "qampa yanapaqniykikunamanwan"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "qampa runaykikunamanwan"
+    },
+    {
+      "surface": "ובבתיך",
+      "gloss": "qampa wasiykikunamanwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arovkunata"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "arovkunata"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "hunt'akunqaku"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "wasikuna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arovkunata"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "arovkunata"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "tiyashanku"
+    }
+  ],
+  "timestamp": "2026-09-08T00:24:55.159773616Z",
+  "model": "glm-5.3"
+}

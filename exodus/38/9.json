@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Hinaspam ⟨את⟩ kanchata ruwarqan, urala ladoman, uralamanpi; kanchap saywankunaqa shesh (linu) t'inkisqam, pachak amata.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hinaspam ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanchata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kanchata"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ladoman"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "urala"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "uralamanpi"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "saywankuna"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kanchap"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shesh (linu)"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "t'inkisqa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:02.638178344Z",
+  "model": "glm-5.3"
+}

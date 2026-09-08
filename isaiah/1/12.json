@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 1:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hamunkichik ñawinta qhawanaykipaqta, pipas kayta makiykichikmanta mañakurqanchu — wasip patyakunayta saruspa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hamunkichik kaptin"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "hamunkichik"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qhawanaykipaqta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawinta"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pipas"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "mañakurqanchu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "מידכם",
+      "gloss": "makiykichikmanta"
+    },
+    {
+      "surface": "רמס",
+      "gloss": "saruspa"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "wasip patyakunayta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:49:37.548062225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 114,
+  "translation": "Israelpa Mitsrayimmanta lluqsisqanpi, Yaakovpa wasi rimana-sapa runakunamanta lluqsisqanpi",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "lluqsisqanpi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "runakunamanta"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "rimana-sapa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:03.935585077Z",
+  "model": "glm-5.3"
+}

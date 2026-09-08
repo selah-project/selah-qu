@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Qespichirqankuchu ⟨את⟩ paykunata suyukunap diosnin, pitak taytakunay chinkachirqanku — ⟨את⟩ Gozanta, hinaspa ⟨את⟩ Haranta, hinaspa Retsef, Edenpa churinkunatawan, pi Telasarpi karqanku?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Qespichirqankuchu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "suyukunap diosnin"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "diosnin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "suyukunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pitak"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "chinkachirqanku"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "taytakunay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozanta"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Haranta"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "hinaspa Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "hinaspa churinkuna"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pi"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "Telasarpi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:18:17.388730606Z",
+  "model": "glm-5.3"
+}

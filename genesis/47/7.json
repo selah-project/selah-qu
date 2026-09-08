@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Yosep (José) ⟨את⟩ Yaakovta (Jacob) taytantan apamurqan, Paro ñawpaqpi sayachirqan; hinaspa Yaakov ⟨את⟩ Parota bendisirqanm.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "apamurqan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytantan"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "sayachirqan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "bendisirqanm"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parota"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parota"
+    }
+  ],
+  "timestamp": "2026-09-08T00:17:28.629249658Z",
+  "model": "glm-5.3"
+}

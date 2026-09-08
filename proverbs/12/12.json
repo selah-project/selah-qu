@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Mana allin runam munan mana allin runakunap watan; allin runakunap saphitaq ruruta qupunmi.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "munanmi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin runa"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "wata"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "mana allin runakunap"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "hinaspa saphi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "allin runakunap"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qupunmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:40:29.914023730Z",
+  "model": "glm-5.3"
+}

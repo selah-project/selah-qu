@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Santuarimanta manam lluqsinqachu, manam ⟨את⟩ Elohimninpam santuarionta millayachinqachu; imaraykuchus sayachisqa mishanchaq wira, Elohimninpa, paypi sayanmi; ñuqami Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "santuario"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsinqachu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "millayachinqachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santuarionta"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "santarionta"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimninpam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "sayachisqa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wira"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "mishanchaq"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimninpa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T01:06:24.253682072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Payman nirqan: sichus mana ñawiyki puriptiyki, ama kaymantan ñuqaykuta hawanman apaykachankichu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiyki"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "puriptiyki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "apaykachankichu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kaymantan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:12.345851851Z",
+  "model": "glm-5.3"
+}

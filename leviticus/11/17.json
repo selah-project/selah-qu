@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "hinaspa ⟨את⟩ kos-ta, hinaspa ⟨את⟩ shalaj-ta, hinaspa ⟨את⟩ yanshuf-ta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kos-ta"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "shalaj-ta"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "yanshuf-ta"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanshuf"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:00.918592748Z",
+  "model": "glm-5.3"
+}

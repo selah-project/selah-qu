@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "genesis 3:10",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 3,
+ "translation": "Nirqan: ⟨את⟩ kunkaykiwan uyarinim huertapi, chayraykum mancharqani, q'alalla kaspayrayku; chaymanta pakakurqanimi.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kunkayki"
+  },
+  {
+   "surface": "קלך",
+   "gloss": "kunkayki"
+  },
+  {
+   "surface": "שמעתי",
+   "gloss": "uyarinim"
+  },
+  {
+   "surface": "בגן",
+   "gloss": "huertapi"
+  },
+  {
+   "surface": "ואירא",
+   "gloss": "mancharqanim"
+  },
+  {
+   "surface": "כי",
+   "gloss": "rayku"
+  },
+  {
+   "surface": "עירם",
+   "gloss": "q'alalla"
+  },
+  {
+   "surface": "אנכי",
+   "gloss": "ñuqa"
+  },
+  {
+   "surface": "ואחבא",
+   "gloss": "pakakurqanimi"
+  }
+ ],
+ "timestamp": "2026-09-07T23:49:33.466974382Z",
+ "model": "glm-5.3"
+}

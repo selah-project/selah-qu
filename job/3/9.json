@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ch'isip ch'askinkuna ch'ikyachun; k'anchayta suyuchun, mana kanqachu; hinaspa paqariypa ñawi q'epiyninta ama qhawachunchu.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "ch'ikyachun"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "ch'askinkunata"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "ch'isipi"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "suyuchun"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "k'anchayta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana kanqachu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qhawachunchu"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "ñawi q'epiyninpi"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "paqariypa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:19:12.575130345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "¿Mana kachiyuq mikhuna mikhusqa kashanchu? ¿Runtuhpa yuraqninpi imataq mihkuy kashanchu?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "mikhusqa kashanchu"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "mana kachiyuq mikhuna"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "kachi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kashan"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "mihkuy"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "yuraqninpi"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "runtu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:59:06.433366002Z",
+  "model": "glm-5.3"
+}

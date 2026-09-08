@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Qelallata munarqanmi, chayqa payman chayarqan; bendisiónta mana munarqan, chayqa paymanta karullan karqan.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "munarqan"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "qelallata"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "payman chayarqan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "munarqan"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "bendisiónta"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "karullan karqan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:57.534548746Z",
+  "model": "glm-5.3"
+}

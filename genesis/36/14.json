@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Chaykunam karqan Oholibamahpa (Aholibamá) churinkuna, Anahpa (Aná) churinan, Tsibonpa (Zibeón) churinapa churinan, Esavpa warmipan; chaym Oholibamah Esavman wacharqan ⟨את⟩ Yeish-ta (Jeús), ⟨את⟩ Yalam-ta (Jalam) hinaspa ⟨את⟩ Koraj-ta (Coré).",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "chaykuna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibamahpa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "churinan"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anahpa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "churinapa churinan"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibonpa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "warmipan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavpa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeish-ta"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yalam-ta"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Koraj-ta"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Koraj"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:01.061256791Z",
+  "model": "glm-5.3"
+}

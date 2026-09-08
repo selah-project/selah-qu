@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Hinaspa Israelta chaypa chaupinpi pasachirqanmi, imarayku wiñay kamanmi jesednin.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "hinaspa pasachirqan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "chaypa chaupinpi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kaman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:41.206227448Z",
+  "model": "glm-5.3"
+}

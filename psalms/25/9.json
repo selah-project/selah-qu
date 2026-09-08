@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 25:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Mishpapi humilde runakunata ñanpurinqa, hinaspa humilde runakunata Yahwep ñanninta yachachinqa.",
+  "tokens": [
+    {
+      "surface": "ידרך",
+      "gloss": "ñanpurinqa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "humilde runakunata"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mishpapi"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "hinaspa yachachinqa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "humilde runakunata"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "Yahwep ñanninta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:48.036892282Z",
+  "model": "glm-5.3"
+}

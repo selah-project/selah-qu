@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Shallumm ⟨את⟩ Yekamyahta walachirqan, hinaspa Yekamyahm ⟨את⟩ Elishamata walachirqan.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "hinaspa Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "walachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamyahta"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamyahta"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "hinaspa Yekamyah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "walachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishamata"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishamata"
+    }
+  ],
+  "timestamp": "2026-09-08T12:32:26.445960583Z",
+  "model": "glm-5.3"
+}

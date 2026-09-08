@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chay warmi qhipantam ⟨את⟩ Maakhata hap'irqan, Avshalompa ususinta; paytqa churikunata wacharqanmi ⟨את⟩ Aviyata, hinaspa ⟨את⟩ Attaita, hinaspa ⟨את⟩ Zizata, hinaspa ⟨את⟩ Shelomittata.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "chay warmi qhipantam"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maakhata"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhata"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususinta"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalompa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wacharqanmi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviyata"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Attaita"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Attaita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Zizata"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Zizata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shelomittata"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomittata"
+    }
+  ],
+  "timestamp": "2026-09-08T13:00:36.657285282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Chaysi Yosef paykunata ⟨את⟩ awnan chakikunap chawpinmanta hurqurqan, chaymanta ñawwanwan pachaman inkirirqanmi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "chawpinmanta"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "awnan chakikunap"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "inkirirqan"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "ñawwanwan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "pachaman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:01:01.960889750Z",
+  "model": "glm-5.3"
+}

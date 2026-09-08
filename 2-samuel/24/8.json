@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 24:8",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Llapa hallp'ata muyuriptinkum, isqon killa iskay chunka p'unchay puchkaspa Yerushalayimman (Jerusalén) chayamurqanku.",
+  "tokens": [
+    {
+      "surface": "וישטו",
+      "gloss": "muyuriptinkum"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "chayamurqankum"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "puchkaspa"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "isqon"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "killa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalén)"
+    }
+  ],
+  "timestamp": "2026-09-08T04:55:20.668979428Z",
+  "model": "glm-5.3"
+}

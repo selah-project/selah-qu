@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Maypinraq kan apuyki, mayqentaq qamta qispichinqa llapa llaqtaykikunapi? Hinaspa kamachikuqniykim, mayqinkunataq nirqayki: «Churaway aputa, umalliqkunatawan».",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "Maypin"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "apuyki"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "kanraq"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "qispichinqa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "llaqtaykikunapi"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "kamachikuqniyki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "nirqayki"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "churaway"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-wa-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "aputa"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "umalliqkunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T08:49:16.518013987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Davidmi llapa ñanninpunin yachaysapa karqan, hinaspa Yahwem paywanmi karqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ñanninpunin"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yachaysapa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:17:51.053695942Z",
+  "model": "glm-5.3"
+}

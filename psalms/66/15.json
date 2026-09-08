@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Wirasayuq olahkunata qampaq wich'usaq, carnerokunap qetoretwanmi; wakakunata kawrakunawan ruwasaq. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "olahkunata"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "wirasayuq"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "wich'usaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "qetoret"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "carnerokunap"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ruwasaq"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "wakakunata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "kawrakunawan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:20.850890535Z",
+  "model": "glm-5.3"
+}

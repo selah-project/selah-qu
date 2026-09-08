@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspam waranqa kutikunaman ñuqata k'uyaqkunaman, kamachikuyniyta waqaychaqkunamanpas jesedta (khuyakuyta) rurawan.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "hinaspam rurawan"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesedta (khuyakuyta)"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "waranqa kutikunaman"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "ñuqata k'uyaqkunaman"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "hinallataq waqaychaqkunaman"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kamachikuyniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:21.807623163Z",
+  "model": "glm-5.3"
+}

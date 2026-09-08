@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Pakamunki ⟨paykunata⟩ ñawiykip pakanpim, runap yuyasqanmanta; suyawasipi llut'arimunki, arraq simikunap maqanakusqanmanta.",
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "pakamunki"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "pakanpi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiykip"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "yuyasqanmanta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runap"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "llut'arimunki"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "suyawasipi"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "maqanakusqanmanta"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "arraq simikunap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:05.781930739Z",
+  "model": "glm-5.3"
+}

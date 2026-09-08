@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Davidmi pay runankunawan paqarilla sayarirqan tutamanta purinankupaq, Pelishta hallp'aman kutinankupaq; Pelishtakunataq Yizreel (Jezreel)man saqirqankum.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "paqarilla sayarirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "runankunawan"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "purinankupaq"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kutinankupaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishta"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "Pelishtakunataq"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "saqirqankum"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-08T04:27:01.560590308Z",
+  "model": "glm-5.3"
+}

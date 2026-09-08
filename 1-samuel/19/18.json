@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 19:18",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Davidmi ayqirqan, ñawpaqman millp'urqan; Shmuelman Ramata chayarqan, ⟨את⟩ tukuy Shaulpa payman ruwasqantam willarqan. Chaysi pay Shmuelwan ripurqanku, Nayotpi tiyarqanku.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ayqirqan"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "ñawpaqman millp'urqan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuelman"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramata"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy…ruwasqanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…pa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulpa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ripurqanku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "Shmuelwan"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "tiyarqanku"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "Nayotpi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:19:22.700795961Z",
+  "model": "glm-5.3"
+}

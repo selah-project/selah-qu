@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinallataqmi ⟨את⟩ Beritniyta (pacto) ⟨את⟩ paykunawan sayarichirqani, ⟨את⟩ Kanaan hallp'ata paykunaman qunaypaq, ⟨את⟩ hallp'ata maypi paykuna wayraq runa hina tiyakurqanku.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "hinallataqmi"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "sayarichirqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritniyta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritniyta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunawan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "qunaypaq"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaan hallp'ata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata maypi paykuna tiyakurqanku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "maypi paykuna wayraq runa hina tiyakusqanku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "tiyakurqanku"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:23:20.620073116Z",
+  "model": "glm-5.3"
+}

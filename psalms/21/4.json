@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chayrayku allin bendicionkunawan ñawpaqmanta chaskichiwanki, umanpi ch'uya qori coronata churanki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "ñawpaqmanta chaskichiwanki"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "bendicionkunawan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "umanpi"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "coronata"
+    },
+    {
+      "surface": "פז",
+      "gloss": "ch'uya qori"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:00.026571656Z",
+  "model": "glm-5.3"
+}

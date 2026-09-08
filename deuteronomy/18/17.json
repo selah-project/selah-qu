@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Yahwem ñuqaman nirqan: «Allintam rimarqanku, imata rimasqankuta.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "allintam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "rimarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T02:44:36.709404853Z",
+  "model": "glm-5.3"
+}

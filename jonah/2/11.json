@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Yahwem challwaman nirqanmi, chayqa challwa ⟨את⟩ Yonata ch'aki hallp'aman hiq'iykacharqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "challwaman"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "hiq'iykacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonata"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "ch'aki hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T09:02:46.069944082Z",
+  "model": "glm-5.3"
+}

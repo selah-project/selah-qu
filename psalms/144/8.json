@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 144,
+  "translation": "mayqinkunap siminpas llullata riman, paña makinpas llulla maki ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunap"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "siminpas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "llullata riman"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "llullata"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "paña makinpas"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "llulla maki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:57.280979645Z",
+  "model": "glm-5.3"
+}

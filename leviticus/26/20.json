@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Kallpaykichik ch'usaqllaman tukunqam: manam hallp'aykichik ⟨את⟩ aymuranta quyta atinqachu, hinaspa hallp'ap sach'ankunapas manam rurunta quynkachu.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "tukunqam"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ch'usaqllaman"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "kallpaykichik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "quyta atinqachu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "hallp'aykichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aymuranta"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "aymuranta"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "hinaspa sach'ankuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "quynkachu"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "rurunta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:13:05.716870726Z",
+  "model": "glm-5.3"
+}

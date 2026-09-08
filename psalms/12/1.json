@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Waqachiqpaq, Sheminitpi (pusaq ñiqinpi), mizmor Davidpaq.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Waqachiqpaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "Sheminitpi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:41.695523364Z",
+  "model": "glm-5.3"
+}

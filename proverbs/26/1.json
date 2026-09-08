@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Ch'isiypi rit'i, tarpuy pachapipas para hinam; chaynam sumaq kayqa mana allinchu fatu runaman.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "rit'i hina"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ch'isiypi"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "paras hina"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "tarpuy pachapipas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "allinchu"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "fatu runaman"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sumaq kayqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:51:09.057749796Z",
+  "model": "glm-5.3"
+}

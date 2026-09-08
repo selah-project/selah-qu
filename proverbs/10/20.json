@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Qullqi akllasqam allin runap qallun; lluta runakunap sunqunqa pisi chaninmi.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "akllasqa"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "qallun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runap"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "lluta runakunap"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "pisi chanin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:41:03.813107952Z",
+  "model": "glm-5.3"
+}

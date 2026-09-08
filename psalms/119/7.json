@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Sunqu cheqallawan qamta yupaychasaq, cheqan taripayniykita yachaqaptiy.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "qamta yupaychasaq"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "cheqallawan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "yachaqaptiy"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "taripayniyki"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "cheqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:54.061776733Z",
+  "model": "glm-5.3"
+}

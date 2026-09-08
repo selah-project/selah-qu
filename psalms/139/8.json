@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Sichus hanaq pachaman siq'isaq, chaypim kanki; Sheolpi puñunayta mast'asaqtinpas, kaytam kanki.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "siq'isaq"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachaman"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kanki"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "puñunayta mast'asaqtinpas"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolpi"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "kaytam kanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:20.361163268Z",
+  "model": "glm-5.3"
+}

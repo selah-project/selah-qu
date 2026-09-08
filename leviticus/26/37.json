@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 26:37",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa runa masinmantawan t'ipikunqakum, chuki ñawpaqen hina, mana pipas qatiqtin; manam qamkunapaq sayariy kanqachu awqaykikkuna ñawpaqen.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "t'ipikunqakum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "masinmantawan"
+    },
+    {
+      "surface": "כמפני",
+      "gloss": "hina ñawpaqen"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "chuki"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "qatiq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana pipas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "תקומה",
+      "gloss": "sayariy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "awqaykikkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T01:12:54.789961433Z",
+  "model": "glm-5.3"
+}

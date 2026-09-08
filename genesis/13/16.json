@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa ⟨את⟩ musuqniykita hallp'a tuq hina churasaq; sichus runa ⟨את⟩ hallp'a tuqta yupayta atipta, musuqniykipas yupasqa kanqa.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "churasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuqniyki"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "musuqniyki"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "tuq hina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "atipta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "yupayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'a tuq"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "tuq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "גם",
+      "gloss": "punitaq"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "musuqniyki"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "yupasqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:10.923451242Z",
+  "model": "glm-5.3"
+}

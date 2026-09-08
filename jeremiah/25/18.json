@@ -1,0 +1,86 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "jeremiah 25:18",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 25,
+ "translation": "⟨את⟩ Yerushalayimta, ⟨את⟩ Yehudap llaqtankunatawan, ⟨את⟩ apunkunatawan, ⟨את⟩ umalliqnkunatawan — chaykunata ch'usaqchasqa kanankupaq, mancharichikunankupaq, silmyachikunankupaq, ⟨את⟩ hinaspa q'allichikunankupaq, kunan p'unchaw hina.",
+ "tokens": [
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yerushalayimta"
+  },
+  {
+   "surface": "ירושלם",
+   "gloss": "Yerushalayim"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "llaqtankunatawan"
+  },
+  {
+   "surface": "ערי",
+   "gloss": "llaqtankuna"
+  },
+  {
+   "surface": "יהודה",
+   "gloss": "Yehudap"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "apunkunatawan"
+  },
+  {
+   "surface": "מלכיה",
+   "gloss": "apunkuna"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "umalliqnkunatawan"
+  },
+  {
+   "surface": "שריה",
+   "gloss": "umalliqnkuna"
+  },
+  {
+   "surface": "לתת",
+   "gloss": "chaykunata... kanankupaq"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ chaykuna",
+   "marks": "chaykunata"
+  },
+  {
+   "surface": "לחרבה",
+   "gloss": "ch'usaqchasqa kanankupaq"
+  },
+  {
+   "surface": "לשמה",
+   "gloss": "mancharichikunankupaq"
+  },
+  {
+   "surface": "לשרקה",
+   "gloss": "silmyachikunankupaq"
+  },
+  {
+   "surface": "ולקללה",
+   "gloss": "hinaspa q'allichikunankupaq"
+  },
+  {
+   "surface": "כיום",
+   "gloss": "p'unchaw hina"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "kunan"
+  }
+ ],
+ "timestamp": "2026-09-08T07:15:03.157184528Z",
+ "model": "glm-5.3"
+}

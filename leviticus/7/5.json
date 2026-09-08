@@ -1,0 +1,46 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "leviticus 7:5",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 7,
+ "translation": "Hinaspa kohenm ⟨את⟩ mizbeajman rawichinqa, isheh (nina ofrenda) hina Yahwepaq; asham ⟨kan⟩mi.",
+ "tokens": [
+  {
+   "surface": "והקטיר",
+   "gloss": "hinaspa rawichinqa"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩",
+   "marks": "chaykunata (lliphi aychakunata)"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohen"
+  },
+  {
+   "surface": "המזבחה",
+   "gloss": "mizbeajman"
+  },
+  {
+   "surface": "אשה",
+   "gloss": "isheh (nina ofrenda) hina"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahwepaq"
+  },
+  {
+   "surface": "אשם",
+   "gloss": "asham"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "⟨kan⟩mi"
+  }
+ ],
+ "timestamp": "2026-09-08T00:51:47.591257639Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Yachachiyqa param hina ch'itikunmi, willakuyqa chukchu hina chukchun, chhikchi hina yura hallp'apipas, para ch'itikunahina qorapipas.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "ch'itikunmi"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "para hina"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "yachachiy"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "chukchun"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "chukchu hina"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "willakuy"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "chhikchi hina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "yura hallp'a"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "para ch'itikunahina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "qora"
+    }
+  ],
+  "timestamp": "2026-09-08T13:27:29.484337792Z",
+  "model": "glm-5.3"
+}

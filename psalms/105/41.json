@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Qaqa-ta kicharqan, chaymanta unukuna phawayta qatarqankum; ch'akikanapi mayu hina purirqankum.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "kicharqan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qaqa-ta"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "phawayta qatarqankum"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unukuna"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "purirqankum"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "ch'akikanapi"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mayu hina"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:40.958207792Z",
+  "model": "glm-5.3"
+}

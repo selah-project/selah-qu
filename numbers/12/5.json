@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yahwem phuyu saywa ukhupi urmarqan, wasi punkupi sayarqan, hinaspa Aharonta Miryamta waqyarqan; iskayninku lluqsirqanku.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "urmarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "saywa ukhupi"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "phuyu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarqan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkupi"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waqyarqan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonta"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "Miryamta"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "lluqsirqanku"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iskayninku"
+    }
+  ],
+  "timestamp": "2026-09-08T01:29:05.049818206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Chayraykumi ñuqa yachani: Yahweqa hatunmi, Adonayninchiktaq llapan dioskunamanta aswan hatunmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayraykumi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yachani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(nisqa)"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "Adonayninchiktaq"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapan...manta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:13.264142145Z",
+  "model": "glm-5.3"
+}

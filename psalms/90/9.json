@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Yawriyniykiwan llapa p'unchayninchik t'ikraspa pasaykunmi; watanchikta huk hiq'iy hina puchukarqayku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "p'unchayninchik"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "t'ikraspa pasaykun"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "yawriyniykiwan"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "puchukarqayku"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "watanchikta"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "hiq'iy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:30.777187811Z",
+  "model": "glm-5.3"
+}

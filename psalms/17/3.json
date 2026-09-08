@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Sunquyta willarqankim, tuta qhawarqankim, sayaqchiwarqankim — imapas mana tarinki; yuyayniy simimanta manam pasanqachu.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "willarqanki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquyta"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "qhawarqanki"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "sayaqchiwarqanki"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tarinki"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "yuyayniy"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "pasanqa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:48.243218578Z",
+  "model": "glm-5.3"
+}

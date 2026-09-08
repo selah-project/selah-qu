@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Sayarichiy hinaspa hatarichiy taripanaypaq, Elohimniy, Adonayniy, rimanaypaq.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Sayarichiy"
+    },
+    {
+      "surface": "ו הקיצה",
+      "gloss": "hatarichiy"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "taripanaypaq"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "Adonayniy"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "rimanaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:30.923919057Z",
+  "model": "glm-5.3"
+}

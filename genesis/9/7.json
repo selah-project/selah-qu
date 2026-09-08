@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Qamkunataqmi phallichikuychik, askha kaychik, hallp'api miraychik, chaypi askha kaychik.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Qamkunataqmi"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "phallichikuychik"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "askha kaychik"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "miraychik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "askha kaychik"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:42.264437926Z",
+  "model": "glm-5.3"
+}

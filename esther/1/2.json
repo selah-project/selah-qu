@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "esther 1:2",
+ "book": "esther",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Chay p'unchawkunapim, apu Achashverosh tiyaptin kamachiyninpa tiyananpatapi, Shushan pukarapi kaqta.",
+ "tokens": [
+  {
+   "surface": "בימים",
+   "gloss": "chay p'unchawkunapim… p'unchawkunapi"
+  },
+  {
+   "surface": "ההם",
+   "gloss": "chay"
+  },
+  {
+   "surface": "כשבת",
+   "gloss": "tiyaptin"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "apu"
+  },
+  {
+   "surface": "אחשורוש",
+   "gloss": "Achashverosh"
+  },
+  {
+   "surface": "על",
+   "gloss": "patapi"
+  },
+  {
+   "surface": "כסא",
+   "gloss": "tiyanan"
+  },
+  {
+   "surface": "מלכותו",
+   "gloss": "kamachiyninpa"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kaqta… kay"
+  },
+  {
+   "surface": "בשושן",
+   "gloss": "Shushanpi"
+  },
+  {
+   "surface": "הבירה",
+   "gloss": "pukara"
+  }
+ ],
+ "timestamp": "2026-09-08T14:24:29.378372379Z",
+ "model": "glm-5.3"
+}

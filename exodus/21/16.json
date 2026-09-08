@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa runa suwaspa ranqhaptin, utaq paypa makinpi tarikaptinqa — wañuchisqam kanqa.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "hinaspa suwaspa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ranqhaptin"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "tarikaptinqa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "paypa makinpi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuchisqa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:53.547769018Z",
+  "model": "glm-5.3"
+}

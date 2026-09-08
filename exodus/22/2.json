@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Sichus inti paypa patanpawan intillaña, chayqa yawar-p'inqaymi paypa; hunt'ata altinqami; sichus pay mana imayuqchu, chayqa paypa suwasqanmanta ranqhakunqam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "intillaña"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa patanpawan"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "yawar-p'inqay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "hunt'ata"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "altinqami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana imayuqchu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "ranqhakunqam"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "paypa suwasqanmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:05:32.531741186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 21,
+ "ref": "psalms 106:21",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 106,
+ "translation": "Qunqarqankum Elta, qespichiqninkunta, hatun ruraykunata Mitsrayimpi ruraqta.",
+ "tokens": [
+  {
+   "surface": "שכחו",
+   "gloss": "qunqarqankum"
+  },
+  {
+   "surface": "אל",
+   "gloss": "El"
+  },
+  {
+   "surface": "מושיעם",
+   "gloss": "qespichiqninkunta"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "ruraq"
+  },
+  {
+   "surface": "גדלות",
+   "gloss": "hatun ruraykunata"
+  },
+  {
+   "surface": "במצרים",
+   "gloss": "Mitsrayimpi"
+  }
+ ],
+ "timestamp": "2026-09-08T10:16:35.032409042Z",
+ "model": "glm-5.3"
+}

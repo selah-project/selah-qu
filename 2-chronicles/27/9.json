@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinaspa Yotam taytankunawan puñurqan, hinaspa payta ⟨את⟩ Davidpa llaqtanpi p'ancharqanku; hinaspa paypa churin Ajaz paypa tiyananpi apu karqan.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "puñurqan"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "taytankunawan"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "p'ancharqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "Davidpa llaqtanpi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtanpi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "apu karqan"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "paypa churin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "paypa tiyananpi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:11:00.503456836Z",
+  "model": "glm-5.3"
+}

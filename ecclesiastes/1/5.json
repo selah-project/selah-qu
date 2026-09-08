@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Inti illarinmi, intintaq chinkapun; chaymanta paypa tiyananman samakun illariq, paymi chaypi.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "illarinmi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "chinkapun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "intintaq"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "paypa tiyananman"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "samakun"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "illariq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:29.788290234Z",
+  "model": "glm-5.3"
+}

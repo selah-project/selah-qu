@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 1:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwe Tsebaotman mana pisi saqisqakunata ñuqanchikman saqipurqachu ⟨karqan chayqa⟩, Sodomsina karqaykumi, Amorasina rikch'akurqaykumi.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "mana karqan chayqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "saqipurqachu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "saqisqakunata"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "Sodomsina"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "karqaykumi"
+    },
+    {
+      "surface": "לעמרה",
+      "gloss": "Amorasina"
+    },
+    {
+      "surface": "דמינו",
+      "gloss": "rikch'akurqaykumi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:49:37.547297019Z",
+  "model": "glm-5.3"
+}

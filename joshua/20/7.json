@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Santokunarqanku ⟨את⟩ Kedeshta (Kedesh) Galilapi, Naftali orqopi; hinaspa ⟨את⟩ Shekhemta (Siquem) Efrayim orqopi; hinaspa ⟨את⟩ Kiryat Arbata — chaymi Hevron — Yehuda orqopi.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "santokunarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeshta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "Galilapi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqopi"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shekhemta"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqopi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kiryat Arbata"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqopi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-08T03:30:08.389664459Z",
+  "model": "glm-5.3"
+}

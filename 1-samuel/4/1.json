@@ -1,0 +1,81 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "1-samuel 4:1",
+ "book": "1-samuel",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Chaysi Shemuela (Samuel) simin tukuy Israelman chayarqan; hinaspa Israellla Phelishtakuna (filisteos)man manyaman awqanakuyshi lluqsirqan, Eben-ha-Ezerpatapi charkanakurqan, Phelishtakunataq Afeqpi (Afec) chakanakurqanku.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "karqan"
+  },
+  {
+   "surface": "דבר",
+   "gloss": "simin"
+  },
+  {
+   "surface": "שמואל",
+   "gloss": "Shemuel (Samuel)"
+  },
+  {
+   "surface": "לכל",
+   "gloss": "tukuy...man"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "ויצא",
+   "gloss": "lluqsirqan"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "לקראת",
+   "gloss": "manyaman"
+  },
+  {
+   "surface": "פלשתים",
+   "gloss": "Phelishtakuna"
+  },
+  {
+   "surface": "למלחמה",
+   "gloss": "awqanakuy"
+  },
+  {
+   "surface": "ויחנו",
+   "gloss": "chakanakurqan"
+  },
+  {
+   "surface": "על",
+   "gloss": "patapi"
+  },
+  {
+   "surface": "האבן",
+   "gloss": "rumi"
+  },
+  {
+   "surface": "העזר",
+   "gloss": "Eben-ha-Ezer"
+  },
+  {
+   "surface": "ופלשתים",
+   "gloss": "hinaspa Phelishtakuna"
+  },
+  {
+   "surface": "חנו",
+   "gloss": "chakanakurqanku"
+  },
+  {
+   "surface": "באפק",
+   "gloss": "Afeqpi (Afec)"
+  }
+ ],
+ "timestamp": "2026-09-08T04:07:25.021523616Z",
+ "model": "glm-5.3"
+}

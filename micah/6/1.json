@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Uyariychik ñawpaqta ⟨את⟩ imata Yahwe nim: Sayariy, ⟨את⟩ orqokunatawan rimanakuy, hinaspa qhachwakuna kunkaykita uyarinqanku.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Uyariychik"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nim"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "rimanakuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orqokunata"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "orqokunatawan"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "hinaspa uyarinqanku"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "qhachwakuna"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "kunkaykita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:11:00.250739688Z",
+  "model": "glm-5.3"
+}

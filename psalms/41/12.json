@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Kaywan riqsinim qan ñuqata khuyasqayta, awqayqa mana ñuqap patapi qapariychu kasqanrayku.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "kaywan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "riqsinim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ta"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "khuyasqayta"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanrayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "qapariychu"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqayqa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap patapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:41.855530258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Churinkunaqa mana paypa ñanninkunapi purirqankuchu, mana allin qollqeyman t'ikrakurqanku, sobornokunata chaskirqanku, justiciata wirpuchirqanku.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunaqa"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "paypa ñanninkunapi"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "t'ikrakurqanku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qatilla"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "mana allin qollqey"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "chaskirqanku"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "sobornokunata"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "wirpuchirqanku"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "justiciata"
+    }
+  ],
+  "timestamp": "2026-09-08T04:06:04.113289142Z",
+  "model": "glm-5.3"
+}

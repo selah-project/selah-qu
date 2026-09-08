@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinaspa Shmuelmi wañurqan; llapan Israelkunam payta llakikurqan, Ramahpi llaqtanpipas p'ancharqanku. Hinaspa Shaulmi aya-rimariqkunata, hinaspa ⟨את⟩ yachaqkunatas hallp'amanta qarqarqan.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "hinaspa Shmuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "llakikurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa runankuna"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "p'ancharqanku"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramahpi"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "llaqtanpipas"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "hinaspa Shaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "qarqarqan"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "aya-rimariqkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "yachaqkunata"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "yachaqkunata"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "hallp'amanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:30:16.356507972Z",
+  "model": "glm-5.3"
+}

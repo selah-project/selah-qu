@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa pichqa chunka watayuq kaspa, llamk'ay serviciumanta kutimunqam, manaña llamk'anqachu.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "hinaspa pichqa chunka watayuq kaspa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pichqa chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kutimunqam"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "serviciomanta"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manaña"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "llamk'anqa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "-ña"
+    }
+  ],
+  "timestamp": "2026-09-08T01:22:15.717298619Z",
+  "model": "glm-5.3"
+}

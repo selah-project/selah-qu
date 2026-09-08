@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Yahwem mana saqerqanchu payta paypa makinpi, manataq payta huchachinqanchu pay taripasqapi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "saqerqanchu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "paypa makinpi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "huchachinqanchu"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "pay taripasqapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:35.042069308Z",
+  "model": "glm-5.3"
+}

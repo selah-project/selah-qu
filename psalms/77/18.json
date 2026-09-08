@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Phuyukunam unuta ch'uspirqanku, hanaq pachakuna rimayta karqanku; chaymanta sahrunkunam purirqanku.",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "ch'uspirqanku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unuta"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "phuyukuna"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "hanaq pachakuna"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "sahrunkuna"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "purirqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:30.896391692Z",
+  "model": "glm-5.3"
+}

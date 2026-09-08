@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 6:7",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspataq sinchiykuna lluqsirqanku; hallp'api puriykachayta munarqanku. Chaytaq nirqan: Riychik, hallp'api puriykachaychik. Chaysi hallp'api puriykacharqanku.",
+  "tokens": [
+    {
+      "surface": "והאמצים",
+      "gloss": "hinaspataq sinchiykuna"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lluqsirqanku"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "munarqanku"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "riyta"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "puriykachayta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "riychik"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "puriykachaychik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "ותתהלכנה",
+      "gloss": "puriykacharqanku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T09:20:33.932683780Z",
+  "model": "glm-5.3"
+}

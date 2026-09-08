@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "Elohimpi ⟨siminta⟩ sumaqyachini; Yahwepi ⟨siminta⟩ sumaqyachini.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimpi"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "sumaqyachini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "sumaqyachini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "siminta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:49.404479949Z",
+  "model": "glm-5.3"
+}

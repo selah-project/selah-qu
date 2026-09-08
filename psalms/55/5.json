@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Sunquy ukhullapi wayna-waynachanmi, hinaspa wañuypa manchayninkuna ñuqap hawanpi urmaykunku.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "sunquy"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "wayna-waynachanmi"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ukhullapi"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "hinaspa manchayninkuna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuypa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "urmaykunku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap hawanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:01.815632230Z",
+  "model": "glm-5.3"
+}

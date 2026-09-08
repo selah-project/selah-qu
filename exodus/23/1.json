@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Ama ch'usaq willakuqta apaychu; ama makiykiwan mana allin runaman k'askakuychu nanakuy willakuy kanankipaq.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "apaychu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "willakuqta"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "k'askakuychu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykiwan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runaman"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "להית",
+      "gloss": "kanankipaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "willakuy"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nanakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:57.757722294Z",
+  "model": "glm-5.3"
+}

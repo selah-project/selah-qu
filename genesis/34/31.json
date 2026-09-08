@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Nirqankutaq: «¿Zona hina ⟨את⟩ paninchikta ruranqachu?»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqankutaq"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "zona hina"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruranqachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paninchikta"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "paninchik"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:27.499867775Z",
+  "model": "glm-5.3"
+}

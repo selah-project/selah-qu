@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "hinaspa ⟨את⟩ Tsorpa llapan apunkunata (Tiro), hinaspa ⟨את⟩ Tsidonpa llapan apunkunata (Sidón), hinaspa ⟨את⟩ mama quchap chay ñawpaqnenpi kaq wat'akunap apunkunata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tsorpa llapan apunkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apunkuna"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor (Tiro)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tsidonpa llapan apunkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apunkuna"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon (Sidón)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wat'akunap apunkunata"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apunkuna"
+    },
+    {
+      "surface": "האי",
+      "gloss": "wat'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "chay ñawpaqnenpi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama qucha"
+    }
+  ],
+  "timestamp": "2026-09-08T07:10:52.068823651Z",
+  "model": "glm-5.3"
+}

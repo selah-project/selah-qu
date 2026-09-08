@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymi Israel (Israel)pa churinkuna servirqanku ⟨את⟩ Eglonta, Moab (Moab)pa apunta, pusaq chunka kimsayuq wata.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "servirqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglonta"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglonta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "pusaq chunka"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kimsayuq chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:41:10.259115297Z",
+  "model": "glm-5.3"
+}

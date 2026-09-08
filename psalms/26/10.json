@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Mayqinkunap makinpi mana allin yuyaymi kachkan, hinaspa paykunap paña makinqa suqaywanmi hunt'asqa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunap"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "makinpi"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mana allin yuyay"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "hinaspa paykunap paña makin"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "hunt'asqa"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suqaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:15.349488772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Cheqalla runam yachaywan qhawan mana allin runap wasinta; mana allin runakunataqa llakiyman t'ikranmi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "yachaywan qhawan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Cheqalla runam"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin runap"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "t'ikranmi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakunataqa"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "llakiyman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:46:53.541962095Z",
+  "model": "glm-5.3"
+}

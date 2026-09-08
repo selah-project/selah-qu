@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chaymanta Yoab apachirqan, hinaspa ⟨את⟩ llapan awqanakuypa rimakunata Dawidman willarqan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "apachirqan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dawidman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan awqanakuypa rimakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimakunata"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "awqanakuypa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:40:37.265713670Z",
+  "model": "glm-5.3"
+}

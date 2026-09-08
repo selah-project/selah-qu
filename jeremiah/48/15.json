@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 48:15",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Ch'aqayasqam Moab, llaqtankunata sayarqunku, akllasqa wayninkunataq wañuchinaman urmaykunku — apum ninkan, Yahwem, Tsebaotpa apin, sutinmi.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "ch'aqayasqa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ועריה",
+      "gloss": "llaqtankunata"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sayarqunku"
+    },
+    {
+      "surface": "ומבחר",
+      "gloss": "akllasqa"
+    },
+    {
+      "surface": "בחוריו",
+      "gloss": "wayninkunataq"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "urmaykunku"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "wañuchinaman"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ninkan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sutinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T07:40:00.076772736Z",
+  "model": "glm-5.3"
+}

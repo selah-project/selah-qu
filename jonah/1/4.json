@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Yahwem hatun wayrata mama quchaman warqarqan, hinaspa mama quchapi hatun thuphay karqanm, hinaspa wampum p'akikunanpaq chikanchakurqan.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Hinaspa Yahwem"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "warqarqan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayrata"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama qucha"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqanm"
+    },
+    {
+      "surface": "סער",
+      "gloss": "thuphay"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mama quchapi"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "hinaspa wampum"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "chikanchakurqan"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "p'akikunanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:04:57.442674675Z",
+  "model": "glm-5.3"
+}

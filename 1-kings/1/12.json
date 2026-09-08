@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kunanqa hamuy, ña huk yuyayta qusqayki, chaywan ⟨את⟩ Nefeshniykita (kawsayki), hinaspa ⟨את⟩ Shelomoh (Salomón) churiyki Nefeshninta qespichiy.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kunanqa"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hamuy"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "yuyayta qusqayki"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ña"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "yuyayta"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "chaywan qespichiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshniykita"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Nefeshniyki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Nefeshninta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshnin"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "churiyki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    }
+  ],
+  "timestamp": "2026-09-08T04:57:25.952511942Z",
+  "model": "glm-5.3"
+}

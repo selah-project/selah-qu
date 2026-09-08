@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Imaraykum k'iknay laqha unquywan hunt'asqam, aichaypipas manam imapas allin ⟨kan⟩chu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "k'iknay"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "hunt'asqa"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "laqha unquywan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam imapas"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "allin"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "aichaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:23.247574953Z",
+  "model": "glm-5.3"
+}

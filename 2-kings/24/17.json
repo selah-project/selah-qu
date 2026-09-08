@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaym Babelpa apunmi ⟨את⟩ Matanjata (Matanya), paypa iñanta, paypa tiyananpi kamachinata churarqan; hinaspa ⟨את⟩ paypa sutinta tikrarqan Tsidkiyahu (Sedequías) nispa.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "kamachinata churarqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babelpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanjata"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanjata (Matanya)"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "paypa iñanta"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "paypa tiyananpi"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "hinaspa tikrarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa sutinta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "paypa sutinta"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu (Sedequías)"
+    }
+  ],
+  "timestamp": "2026-09-08T05:47:23.001488687Z",
+  "model": "glm-5.3"
+}

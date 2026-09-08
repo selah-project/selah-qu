@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 3:8",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Runakunapas uywakunapas saqqukunawan ch'itakunkunam, hinaspa Elohimman sinchi kallpawan qaparinkuna; sapa runa millay ñanmanta kutimunqam, hinaspa makinpipas kaq haqllimantawan.",
+  "tokens": [
+    {
+      "surface": "ויתכסו",
+      "gloss": "ch'itakunkunam"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "saqqukunawan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runakunapas"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "uywakunapas"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "qaparinkuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "sinchi kallpawan"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kutimunqam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "ñanmanta"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "millay"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hinaspa ... manta"
+    },
+    {
+      "surface": "החמס",
+      "gloss": "haqllimanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "בכפיהם",
+      "gloss": "makinpipas"
+    }
+  ],
+  "timestamp": "2026-09-08T09:05:59.297813510Z",
+  "model": "glm-5.3"
+}

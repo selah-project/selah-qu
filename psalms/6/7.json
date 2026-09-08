@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Wikikuypi sayq'irqanim; tuta llapanta camayta waqaywan wantiyachini, chakatayta waqaypi unuyachini.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "sayq'irqanim"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "wikikuypi"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "wantiyachini"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "camayta"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "waqaypi"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "chakatayta"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "unuyachini"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:58.846486017Z",
+  "model": "glm-5.3"
+}

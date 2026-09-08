@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Q'urutawan qaray hina t'aqakunmi; nina ñawpaqpi wirata hina hilakun hina, millay runakuna Elohimpa ñawpaqninpi chinkanqakummi.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "qaray hina"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "q'uruta"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "t'aqakunmi"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "hilakun hina"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "wira"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "chinkanqakummi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "millay runakuna"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:58.725272532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "exodus 2:16",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Midyanpa kohenninpa qanchis churiyannintinmi karqan; chaykunaq hamurqanku, unuta hurqurqanku, hinaspa hunt'achirqanku ⟨את⟩ rakinakunata, taytankupa uwijakunata upyachinanpaq.",
+ "tokens": [
+  {
+   "surface": "ולכהן",
+   "gloss": "kohenninpa"
+  },
+  {
+   "surface": "מדין",
+   "gloss": "Midyan"
+  },
+  {
+   "surface": "שבע",
+   "gloss": "qanchis"
+  },
+  {
+   "surface": "בנות",
+   "gloss": "churiyannintin"
+  },
+  {
+   "surface": "ותבאנה",
+   "gloss": "hamurqanku"
+  },
+  {
+   "surface": "ותדלנה",
+   "gloss": "unuta hurqurqanku"
+  },
+  {
+   "surface": "ותמלאנה",
+   "gloss": "hunt'achirqanku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "rakinakunata"
+  },
+  {
+   "surface": "הרהטים",
+   "gloss": "rakanakuna"
+  },
+  {
+   "surface": "להשקות",
+   "gloss": "upyachinanpaq"
+  },
+  {
+   "surface": "צאן",
+   "gloss": "uwijakunata"
+  },
+  {
+   "surface": "אביהן",
+   "gloss": "taytankupa"
+  }
+ ],
+ "timestamp": "2026-09-08T00:20:56.774686256Z",
+ "model": "glm-5.3"
+}

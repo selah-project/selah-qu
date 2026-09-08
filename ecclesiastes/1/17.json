@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "ecclesiastes 1:17",
+ "book": "ecclesiastes",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Sunquyta churirqanim hatun yachayta yachananpaq, wayna suwita hinaspa mana allin rurayta yachananpaq; yacharqanim: kaypas wayra wataq llakikuymi ⟨kan⟩.",
+ "tokens": [
+  {
+   "surface": "ואתנה",
+   "gloss": "churirqanim"
+  },
+  {
+   "surface": "לבי",
+   "gloss": "sunquyta"
+  },
+  {
+   "surface": "לדעת",
+   "gloss": "yachananpaq"
+  },
+  {
+   "surface": "חכמה",
+   "gloss": "hatun yachayta"
+  },
+  {
+   "surface": "ודעת",
+   "gloss": "yachananpaq"
+  },
+  {
+   "surface": "הוללות",
+   "gloss": "wayna suwita"
+  },
+  {
+   "surface": "ושכלות",
+   "gloss": "mana allin rurayta"
+  },
+  {
+   "surface": "ידעתי",
+   "gloss": "yacharqanim"
+  },
+  {
+   "surface": "שגם",
+   "gloss": "kaypas"
+  },
+  {
+   "surface": "זה",
+   "gloss": "kay"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "⟨kan⟩"
+  },
+  {
+   "surface": "רעיון",
+   "gloss": "llakikuy"
+  },
+  {
+   "surface": "רוח",
+   "gloss": "wayra wataq"
+  }
+ ],
+ "timestamp": "2026-09-08T11:36:47.990445721Z",
+ "model": "glm-5.3"
+}

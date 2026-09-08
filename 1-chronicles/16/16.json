@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Mayqin Beritnata Abrahamwan ⟨את⟩ kuchusqan, paypa juramentonta Itsjakman (Isaac).",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Mayqin"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kuchusqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamwan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamwan"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "paypa juramentonta"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Itsjakman"
+    }
+  ],
+  "timestamp": "2026-09-08T12:42:41.778964376Z",
+  "model": "glm-5.3"
+}

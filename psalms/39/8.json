@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Chaymanta kunan, imataq ñuqa suyani? Adonay, suyakuyniyqa qampi ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Chaymanta kunan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ñuqa suyani"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "suyakuyniyqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kan⟩mi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:51.764116868Z",
+  "model": "glm-5.3"
+}

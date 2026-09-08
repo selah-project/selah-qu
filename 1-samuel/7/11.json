@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa Israelpa runakuna Mitspamanta lluqsispa ⟨את⟩ Plishtimta qatirqankumi, hinaspa Bet-Kar (Bet-car) uraynankama wañuchirqanku.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "lluqsispa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "qatirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Plishtimta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtimta"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "wañuchirqanku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "uraynan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-09-08T04:06:06.808119418Z",
+  "model": "glm-5.3"
+}

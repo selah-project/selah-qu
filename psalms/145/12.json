@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Adampa wawankunaman atiyninta riqsichinapaq, kamachikuyninpa hatun k'anchaynintawan.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "riqsichinapaq"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunaman"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adampa"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "atiyninta"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "k'anchaynintawan"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "hatun sumaq"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "kamachikuyninpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:30.968909824Z",
+  "model": "glm-5.3"
+}

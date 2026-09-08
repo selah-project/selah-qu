@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "David anchanniyki raykun, ama Mashiajniyki ñawinta kutichiychu.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "raykun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "anchanniyki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "kutichiychu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawinta"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiajniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:40.751506662Z",
+  "model": "glm-5.3"
+}

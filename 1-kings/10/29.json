@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 10:29",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Huk karru Mitsrayimmanta suxta pachak ⟨shekel⟩ qullqimanta lluqsimurqan lluqsirqan, hinaspa huk susa pichqa chunka hinaspa pachak ⟨shekel⟩manta; chaynillatawam Heti runakunap tukuy apunkunaman, hinaspa Aram apunkunamanpas, paykunap makinwan lluqsichirqankum.",
+  "tokens": [
+    {
+      "surface": "ותעלה",
+      "gloss": "lluqsimurqan"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "lluqsirqan"
+    },
+    {
+      "surface": "מרכבה",
+      "gloss": "huk karru"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "suxta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi ⟨shekel⟩"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "hinaspa huk susa"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "pichqa chunka"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "hinaspa pachak"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "chaynillatawam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tukuy ...man"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apunkuna"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "Heti runakunap"
+    },
+    {
+      "surface": "ו למלכי",
+      "gloss": "hinaspa apunkunamanpas"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "paykunap makinwan"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lluqsichirqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T05:08:38.107053697Z",
+  "model": "glm-5.3"
+}

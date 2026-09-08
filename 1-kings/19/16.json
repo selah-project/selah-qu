@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa ⟨את⟩ Yehuta (Jehú), Nimshipa churinta, Israelpa apun kananpaq unsuchiy; hinaspa ⟨את⟩ Elishata (Eliseo), Shafatpa churinta, Abel-Meholamanta, qampa tiyanaypiyki navi kananpaq unsuchiy.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yehuta"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehuta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshipa"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "unsuchiy"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apu kananpaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Elishata"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Shafatpa"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "Abel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Meholamanta"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "unsuchiy"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "navi kananpaq"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "qampa tiyanaypiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T05:18:49.842291921Z",
+  "model": "glm-5.3"
+}

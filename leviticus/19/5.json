@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Yahweman shelamim (paz ofrenda) korbanita wañuchipte, chaskisqaykichikpaqmi wañuchinkichik.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "chaymi, ...pte"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "wañuchinkichik"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korbanita"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shelamim (paz ofrenda)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "chaskisqaykichikpaq"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "wañuchinkichik"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:19.140850088Z",
+  "model": "glm-5.3"
+}

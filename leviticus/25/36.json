@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Ama apurankichu ⟨את⟩ paymanta neshekta (deuda rentinta) ni tarbitita (atipakuymanta yapata); Elohimniykimanta manchariy, wawqeyki qamwan kawsananpaqmi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "apurankichu"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ paymanta",
+      "marks": "paymanta (neshekta)"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "neshekta"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "tarbitita"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "manchariy"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimniykimanta"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "kawsunan"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wawqeyki"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwan"
+    }
+  ],
+  "timestamp": "2026-09-08T01:08:53.492094242Z",
+  "model": "glm-5.3"
+}

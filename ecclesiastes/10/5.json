@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Kanmi huk mana allin, inti urapi rikurqani, kamachiqpa ñawpaqmanta lluqsiq pantay hina.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kanmi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqani"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "urapi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "pantay hina"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "lluqsiq"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqmanta"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "kamachiq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:09.867105155Z",
+  "model": "glm-5.3"
+}

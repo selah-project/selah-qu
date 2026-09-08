@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Si nanachiptiyki ⟨את⟩ payta, sichus waqayspa waqanmi ñuqaman, uyarisa uyarinqachikmi paypa waqayninta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "nanachiypi"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "nanachiptiyki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sichus (kaptin)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "waqayspa"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "waqanmi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyarisa"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "uyarinqachikmi"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "paypa waqayninta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:57.527828191Z",
+  "model": "glm-5.3"
+}

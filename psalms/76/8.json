@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 76,
+  "translation": "Qam, qamllam mancharichiq kanki; mayqentataq qampa ñawpaqiyki sayakunman, qam ña phiñakuspa qharispa?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mancharichiq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qamlla"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mayqentataq"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sayakunman"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qampa ñawpaqiyki"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ña"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "phiñayki qhariy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:56.608948443Z",
+  "model": "glm-5.3"
+}

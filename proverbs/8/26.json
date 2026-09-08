@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Manaraqmi hallp'ata, chacrakunatapas rurarqan, manaraqmi tukuy pachapa q'aytu ahukunap umannintapas.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurarqan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "hinaspa chacrakuna"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "hinaspa uman"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "q'aytu ahukuna"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tukuy pacha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:29.521762505Z",
+  "model": "glm-5.3"
+}

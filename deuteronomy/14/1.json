@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 14:1",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Churiyku kankichikmi qamkuna Yahwepaq, Elohimniykichikpaq; ama kikinkikta kuchunkichikchu, hinallataq ama q'arachayta rurankichik ñawiykikunan chawpinpi wañusqapaq.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "churiykuna"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תתגדדו",
+      "gloss": "kikinkikta kuchunkichik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinallataq ama ... -chu"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "rurankichik"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "q'arachayta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ñawiykikunan"
+    },
+    {
+      "surface": "למת",
+      "gloss": "wañusqapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:39:23.645915495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 6:23",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Rimay Aharonman (Aarón) hinaspa paypa wawankunaman, kayta nispa: kayhinata bendisichik ⟨את⟩ Israelpa wawankunata, paykunaman willaspa.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "rimay"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonman (Aarón)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "paypa wawankunaman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta nispa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayhinata"
+    },
+    {
+      "surface": "תברכו",
+      "gloss": "bendisichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa wawankunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אמור",
+      "gloss": "willaspa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:18:35.335239193Z",
+  "model": "glm-5.3"
+}

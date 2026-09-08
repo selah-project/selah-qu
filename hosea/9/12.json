@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Sichus ⟨את⟩ wawankunata wiñachirqankuchus, runakunamanta wiksayuq hina ch'usaqchasaqku; ñawpaqtaqmi aywi paykunaman, ñuqap paykunamanta irtakuypi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-chu (tapuna)"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "wiñachirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawankunata"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wawankunata"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "wiksayuq hina ch'usaqchasaqku"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "runakunamanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ñawpaqtaq"
+    },
+    {
+      "surface": "גם",
+      "gloss": "illin"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "aywi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "ñuqap irtakuypi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "paykunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:48:35.922575984Z",
+  "model": "glm-5.3"
+}

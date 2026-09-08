@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 115,
+  "translation": "Aharonpa wasin, Yahwepi srvachakuychik; paymi llapanpa yanapan, llapanpa rupachanpuni.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "srvachakuychik"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "llapanpa yanapan"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "llapanpa rupachanpuni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:44.336023561Z",
+  "model": "glm-5.3"
+}

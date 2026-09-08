@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Apunki tapurqanmi ⟨את⟩ yanapanankunata, nispa: ¿Tataykichik utaq wawqiykichik kachkanchu?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Apunki"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "tapurqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapanankunata"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapanankunata"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kachkanchu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ykichik"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tataykichik"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "אח",
+      "gloss": "wawqiykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T00:15:35.804437819Z",
+  "model": "glm-5.3"
+}

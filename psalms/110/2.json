@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 110,
+  "translation": "Atiyñiykip t'ikasqanta Yahwem Tsiyonmanta kachamunqam: Kamachiy awqaynikunap chawpinpi.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "t'ikasqanta"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "atiyñiykip"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "kachamunqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyonmanta"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "Kamachiy"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaynikunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:06.537818833Z",
+  "model": "glm-5.3"
+}

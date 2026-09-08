@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 138,
+  "translation": "Yahweqa hanaqmi kachkan; huch'uy runata qhawaranmi; hiqariq runataq karumantam riqsin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "רם",
+      "gloss": "hanaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "huch'uy runataq"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qhawaranmi"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "hiqariq runataq"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "karumanta"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "riqsinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:47.981743760Z",
+  "model": "glm-5.3"
+}

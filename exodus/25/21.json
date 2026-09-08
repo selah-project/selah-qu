@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Churanki ⟨את⟩ kaporetta (p'ampachay wasita) arca hawanpi, hananmantam; hinaspa arqaman churanki ⟨את⟩ edutta (testiuniyta), mayqentam ñuqam qamman qusaq.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporetta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporetta"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arca"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "hananmanta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa arqaman"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arqaman"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "edutta"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "edutta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenta"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:32.250400086Z",
+  "model": "glm-5.3"
+}

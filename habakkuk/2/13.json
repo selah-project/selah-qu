@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "habakkuk 2:13",
+  "book": "habakkuk",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Manachu, qhawariy: kaymi ⟨את⟩ Yahwe Tsebaotmanta hamun; runakuna nina-ruwasqapi llakikunqaku, suyukunataq ch'usaq-ruwasqapi sankaykunqakum.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ manta",
+      "marks": "Yahwe Tsebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "וייגעו",
+      "gloss": "llakikunqakum"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "suyukunataq"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "יעפו",
+      "gloss": "sankaykunqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:13:12.413460383Z",
+  "model": "glm-5.3"
+}

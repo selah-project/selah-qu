@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Ama ñawiykikunaman puñuyta quychu, hinaspa ñawi qarasniykikunaman utqay puñuykachayta quychu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama ... chu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "quychu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "puñuyta"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ñawiykikunaman"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "utqay puñuykachayta"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "ñawi qarasniykikunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:00.669535705Z",
+  "model": "glm-5.3"
+}

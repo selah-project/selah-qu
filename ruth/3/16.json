@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Suegranman chayarqan; paymi nirqan: pitaq kanki, ususiy? Chaymi payman willarqan chay runa ⟨את⟩ llapanta imatas paypaq ruwasqanta.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "suegranman"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pitaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "qam"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ususiy"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imatas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqanta"
+    },
+    {
+      "surface": "לה",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "chay runa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:30:04.078269743Z",
+  "model": "glm-5.3"
+}

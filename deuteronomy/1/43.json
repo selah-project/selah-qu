@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ñuqam qamkunaman rimarqani, ichaqa manam uyariwankichikchu; Yahwepa siminta ⟨את⟩ thaknichiwankichik, hawaman haqharqankichik, chaysi urquman wicharqankichik.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "rimarqani"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana …chu"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "uyariwankichik"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "thaknichiwankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa siminta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "haqharqankichik"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "wicharqankichik"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "urquman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:25:52.903307023Z",
+  "model": "glm-5.3"
+}

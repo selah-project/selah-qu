@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Ama quychu urpiykipa nefeshta salq'aman; ama waqchaykikunap kawsayninta wiñaypaq qonqaychu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "quychu"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "salq'aman"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshta"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "urpiykipa"
+    },
+    {
+      "surface": "חית",
+      "gloss": "kawsayninta"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "waqchaykikunap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "qonqaychu"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:45.574802518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Taytaykikita ñawpaqninta wawqeykikuna kanqaku ⟨kan⟩; paykunata llapan hallp'api sarikuna hina churanki.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ñawpaqninta"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "taytaykikita"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wawqeykikuna"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "paykunata churanki"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "sarikuna hina"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:51.727276312Z",
+  "model": "glm-5.3"
+}

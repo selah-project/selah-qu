@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Awqap ninanmanta, mana allin runap chikaninkamanta: ñuqaman awnita urmachinkum, phiñaniywan ñuqata chiqninkum.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "... ninanmanta"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqap"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "... kamanta"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "chikaninka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin runap"
+    },
+    {
+      "surface": "כי",
+      "gloss": ": imarayku"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "urmachinku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "און",
+      "gloss": "awnita"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "phiñaniywan"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ñuqata chiqninku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:43.891444178Z",
+  "model": "glm-5.3"
+}

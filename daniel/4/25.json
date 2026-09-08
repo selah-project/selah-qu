@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kay llapa Nebukadnetsar apuman chayamurqan.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "kay llapa"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "chayamurqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "apu"
+    }
+  ],
+  "timestamp": "2026-09-08T14:36:51.915281162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Anti wayrapacha hanaq pachapi purichimurqanmi, atiyninwan intiq wayratan pusarqan.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "purichimurqanmi"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "anti wayrapacha"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "pusarqan"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "atiyninwan"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "intiq wayratan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:15.298204025Z",
+  "model": "glm-5.3"
+}

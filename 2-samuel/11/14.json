@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Tutamantam Davidmi Yoavpaq qillqata qillqarqan, Uriyappa makipin kacharqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "qillqarqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "qillqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "paq"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makipi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyappa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:41:19.436783846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Wayrata qhawaq mana tarpunqachu; phuyukunata qhawaqtaq mana ichhunqachu.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "qhawaq"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayrata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "tarpunqachu"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "qhawaqtaq"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "phuyukunata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "ichhunqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:44:51.994516605Z",
+  "model": "glm-5.3"
+}

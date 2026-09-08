@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 18:3",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hinaspa Yahwep ñawinpi allinta ruwarqan, David, paypa taytan, ruwasqanhina tukuyta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "allin"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tukuy...hina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "paypa taytan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:42:07.025682097Z",
+  "model": "glm-5.3"
+}

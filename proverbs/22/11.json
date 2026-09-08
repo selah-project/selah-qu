@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Sonqonta ch'uya munaqpa, sumaq simiyuqpa, apunmi masin.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "munaq"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ch'uya"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sonqonta"
+    },
+    {
+      "surface": "חן",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "simiyuq"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "masin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:48:38.966486444Z",
+  "model": "glm-5.3"
+}

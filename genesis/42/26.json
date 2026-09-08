@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Churarqankum ⟨את⟩ barninkunata burronkunku pataman, chaymantam ripurqanku.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Churarqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barninkunata"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "barninkunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "pataman"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "burronkunku"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ripurqanku"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:47.259170226Z",
+  "model": "glm-5.3"
+}

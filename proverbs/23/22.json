@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Uyariy taytaykita, kanta wachakuqta; ama pillapis mamanaykita qawarikuychu, paypayri ñawpa wata ñawpa kananpi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Uyariy"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "taytaykita"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kanta"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "wachakuqta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "qawarikuychu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "paypayri"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ñawpa wata ñawpa kananpi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mamanaykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:48:53.916758848Z",
+  "model": "glm-5.3"
+}

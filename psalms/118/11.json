@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 118,
+  "translation": "Muyuwankuchá ñuqata, ñawpaqtaqmi muyuwanku; ichataqmi Yahwep Sutinwan chinkachinkimanmi.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Muyuwankuchá ñuqata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ñawpaqtaqmi"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "muyuwanku"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Sutinwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ichataqmi"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "chinkachinkimanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:07.259144933Z",
+  "model": "glm-5.3"
+}

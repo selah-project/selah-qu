@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Elohimniy, qespichimuway mana allin runap makinmanta, mawayuq, llakichiq runap k'apanmanta.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "qespichimuway"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin runa"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "k'apanmanta"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "mawayuq"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "hinaspa llakichiq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:10.129865277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Mosheqa hunt'a sapallanmi Yahweman chayamunqa; paykunaqa mana chayanqachu; runakunaqataq mana paywan wanqachu.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "chayamunqa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "hunt'a sapallan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "והם",
+      "gloss": "paykunaqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "chayanqachu"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "runakunaqataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "wanqachu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:35:07.680096559Z",
+  "model": "glm-5.3"
+}

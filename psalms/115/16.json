@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 115,
+  "translation": "Hanaq pachaqa Yahwepa hanaq pachanmi, kay pachataq Adampa wawankunaman qorqa.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachaqa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachanmi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kay pachataq"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qorqa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunaman"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adampa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:19.124686235Z",
+  "model": "glm-5.3"
+}

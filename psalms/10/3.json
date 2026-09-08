@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Haq runam munasqanmanta jach'in, qullqita muchhaspa; Yahweta ch'iqinmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "הלל",
+      "gloss": "jach'in"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haq runa"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "munasqan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "qullqita muchhaspa"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "jach'inmi"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "ch'iqinmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:26.633721477Z",
+  "model": "glm-5.3"
+}

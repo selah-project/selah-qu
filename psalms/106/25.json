@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Karpankupi llakikuspa rimarqankum; Yahwepa kunkantaqa mana uyariqankuchu.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "llakikuspa rimarqankum"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "karpankupi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uyariqankuchu"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kunkantaqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:34.109246693Z",
+  "model": "glm-5.3"
+}

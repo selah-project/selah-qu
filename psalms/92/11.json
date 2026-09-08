@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Ch'utuyta Hancharqankim re'em (taruka) hina; wayna wirawanmi llusk'achikurqani.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "hancharqanki"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "re'em (taruka) hina"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ch'utuyta"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "llusk'achikurqani"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "wirawan"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "wayna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:35.774464299Z",
+  "model": "glm-5.3"
+}

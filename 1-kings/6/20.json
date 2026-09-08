@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Debirpa ñawpaqninpiqa iskay chunka ama suni, iskay chunka ama hatun, iskay chunka ama sayay karqanmi; ch'uya qoriwan qatarqan, hinaspa cedro altartawan qatarqan.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "ñawpaqninpiqa"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "suni"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "hinaspa iskay chunka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "hinaspa iskay chunka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "sayaynin"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "qatarqan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qori"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ch'uya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "qatarqanan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "cedro"
+    }
+  ],
+  "timestamp": "2026-09-08T05:01:30.706672387Z",
+  "model": "glm-5.3"
+}

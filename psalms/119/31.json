@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Edotaykikunamanmi chapurqani; Yahwe, ama ñuqata p'inqachiwankichu.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "chapurqani"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "edotaykikunaman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "p'inqachiwankichu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:08.893008720Z",
+  "model": "glm-5.3"
+}

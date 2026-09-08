@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 41:11",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Hinaspa Yohanan, Kareahpa churin, hinaspa llapan awqap umalliqnkuna paywan ⟨את⟩ tiyaqkuna, uyarirqankum ⟨את⟩ llapan mana allinta — mayta Yishmael, Natanyahup churin, ruwarqan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqanku"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yohanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareahpa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqnkuna"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "awqap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "paywan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan mana allinta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Natanyahup"
+    }
+  ],
+  "timestamp": "2026-09-08T07:34:40.950331847Z",
+  "model": "glm-5.3"
+}

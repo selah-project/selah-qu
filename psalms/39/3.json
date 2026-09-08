@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Amuyu ch'usaq karqani, upalla; allin simimantawan upallarqani; nanaytarqam p'itichikurqan.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "amuyu ch'usaq karqani"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "upalla"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "upallarqani"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "allin simimantawan"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "nanayta"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "p'itichikurqan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:06.729699401Z",
+  "model": "glm-5.3"
+}

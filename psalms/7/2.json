@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yahwe, Elohimniy, qampim amachakurqani; llapa qatiqniykimanta hawichawaway, qispichiwaway.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampim"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "amachakurqani"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "hawichawaway"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapa ... manta"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "qatiqniy"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "qispichiwaway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:49.317381668Z",
+  "model": "glm-5.3"
+}

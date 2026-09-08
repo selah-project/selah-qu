@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 15:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Samayniykiwan phawaykacharqankim, mama qucham paykunata wisq'arqan; atiynniyuq unukunapi plomo hina rawkh'urqanku.",
+  "tokens": [
+    {
+      "surface": "נשפת",
+      "gloss": "phawaykacharqanki"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "samayniykiwan"
+    },
+    {
+      "surface": "כסמו",
+      "gloss": "wisq'arqan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mama qucham"
+    },
+    {
+      "surface": "צללו",
+      "gloss": "rawkh'urqanku"
+    },
+    {
+      "surface": "כעופרת",
+      "gloss": "plomo hina"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unukunapi"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "atiynniyuq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:31.392240655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Ruranki ⟨את⟩ altarta shita yuramanta: pichqa codokuna suni, pichqa codokuna chutariy — altarqa tawantin ⟨kan⟩mi; hinallataq kimsa codokuna sayaynin.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Ruranki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarta"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yuramanta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shita"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "codokuna"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "suni"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "codokuna"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "chutariy"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "tawantin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanmi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarqa"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "codokuna"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sayaynin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:16.495352554Z",
+  "model": "glm-5.3"
+}

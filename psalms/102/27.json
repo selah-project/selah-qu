@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Paykunam chinkapunqaku, qamtataq wiñayta sayanki; llapanku p'acha hina machulaykunku; p'acha hina t'ikrakunki chaykunata, chaykunataq t'ikraspa pasanqaku.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "chinkapunqaku"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "qamtataq"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "sayanki"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "llapanku"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "p'acha hina"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "machulaykunku"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "p'acha hina"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "t'ikrakunki chaykunata"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "t'ikraspa pasanqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:52.116533414Z",
+  "model": "glm-5.3"
+}

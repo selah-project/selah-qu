@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Najshonm ⟨את⟩ Salmata wacharqan; hinaspa Salmam ⟨את⟩ Boazta (Booz) wacharqan.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Hinaspa Najshonm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmata"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmata"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "hinaspa Salmam"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazta"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:29:51.483282623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Qhawariwaymi El, hinaspa sunquyta yachay; alliwawaymi, hinaspa yuyayniyta yachay.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "qhawariway"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "hinaspa yachay"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "sunquyta"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "alliwaway"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "hinaspa yachay"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "yuyayniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:17.027952714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "isaiah 17:12",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 17,
+ "translation": "¡Hoi! achka runa llaqtakunap ch'aqwanmama quchapa paqariynin hina paqarinkun; hinaspa llaqtakunap ch'aqwan, sinchi hatun unukunap ch'aqwan hina qhatankun.",
+ "tokens": [
+  {
+   "surface": "הוי",
+   "gloss": "¡Hoi!"
+  },
+  {
+   "surface": "המון",
+   "gloss": "ch'aqwa"
+  },
+  {
+   "surface": "עמים",
+   "gloss": "runa llaqtakunap"
+  },
+  {
+   "surface": "רבים",
+   "gloss": "achka"
+  },
+  {
+   "surface": "כהמות",
+   "gloss": "hina"
+  },
+  {
+   "surface": "ימים",
+   "gloss": "mama qucha"
+  },
+  {
+   "surface": "יהמיון",
+   "gloss": "paqarinkun"
+  },
+  {
+   "surface": "ושאון",
+   "gloss": "hinaspa ch'aqwa"
+  },
+  {
+   "surface": "לאמים",
+   "gloss": "llaqtakunap"
+  },
+  {
+   "surface": "כשאון",
+   "gloss": "hina"
+  },
+  {
+   "surface": "מים",
+   "gloss": "unu"
+  },
+  {
+   "surface": "כבירים",
+   "gloss": "sinchi hatun"
+  },
+  {
+   "surface": "ישאון",
+   "gloss": "qhatankun"
+  }
+ ],
+ "timestamp": "2026-09-08T06:03:26.829814511Z",
+ "model": "glm-5.3"
+}

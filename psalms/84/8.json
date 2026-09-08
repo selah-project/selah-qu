@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 84,
+  "translation": "Kallpamanta kallpamanmi purinku; sapa runa Tsiyonpi Elohimpa ñawpaqenpi rikuchikun.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "purinku"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "Kallpamanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kallpaman"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rikuchikun"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa ñawpaqenpi"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyonpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:13.096742265Z",
+  "model": "glm-5.3"
+}

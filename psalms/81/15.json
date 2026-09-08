@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "Huklla minutupi awqankunata q'enerqasaq icha, ñit'iqninkunapajñataq makiyta tikrirqasaq.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "huklla minutupi"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "awqankunata"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "q'enerqasaq icha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ñit'iqninkunapajñataq"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ñit'iqninkunata"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "tikrirqasaq"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makiyta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:59.460851994Z",
+  "model": "glm-5.3"
+}

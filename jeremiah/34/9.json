@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 34:9",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Lluqsiyachinankupaq: sapa runa ⟨את⟩ yanapaninta, sapa runataq ⟨את⟩ warmi yanapaninta — Ivri qhari, Ivri warmi — qispikuna kanankupaq, mana paykunata yanapachinankupaq Yehudim wawqen runa.",
+  "tokens": [
+    {
+      "surface": "לשלח",
+      "gloss": "lluqsiyachinankupaq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapaninta"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "yanapaninta"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "sapa runataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warmi yanapaninta"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "warmi yanapaninta"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "Ivri qhari"
+    },
+    {
+      "surface": "והעבריה",
+      "gloss": "Ivri warmitaq"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "qispikuna"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mana ...paq"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanapachinankupaq"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunata"
+    },
+    {
+      "surface": "ביהודי",
+      "gloss": "Yehudim"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "wawqen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:26:04.565342189Z",
+  "model": "glm-5.3"
+}

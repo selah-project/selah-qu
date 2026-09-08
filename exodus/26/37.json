@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 37,
+ "ref": "exodus 26:37",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 26,
+ "translation": "Hinaspa maskhapaq pichqa sach'a-sayt'ata ruwanki, hinaspa ⟨את⟩ chaykunata quriwan llank'anki, chaykunap wankunkuna qurim kanqanku ⟨kan⟩, hinaspa chaykunapaq pichqa quri-t'upu sayaqta wirawkimunki.",
+ "tokens": [
+  {
+   "surface": "ועשית",
+   "gloss": "hinaspa ruwanki"
+  },
+  {
+   "surface": "למסך",
+   "gloss": "maskhapaq"
+  },
+  {
+   "surface": "חמשה",
+   "gloss": "pichqa"
+  },
+  {
+   "surface": "עמודי",
+   "gloss": "sach'a-sayt'a"
+  },
+  {
+   "surface": "שטים",
+   "gloss": "shittim-sach'a"
+  },
+  {
+   "surface": "וצפית",
+   "gloss": "hinaspa llank'anki"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩",
+   "marks": "chaykunata"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "quriwan"
+  },
+  {
+   "surface": "וויהם",
+   "gloss": "wankunkuna"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "qurim"
+  },
+  {
+   "surface": "ויצקת",
+   "gloss": "hinaspa wirawkimunki"
+  },
+  {
+   "surface": "להם",
+   "gloss": "chaykunapaq"
+  },
+  {
+   "surface": "חמשה",
+   "gloss": "pichqa"
+  },
+  {
+   "surface": "אדני",
+   "gloss": "t'upu-sayaq"
+  },
+  {
+   "surface": "נחשת",
+   "gloss": "quri-t'upu"
+  }
+ ],
+ "timestamp": "2026-09-08T00:35:49.937829534Z",
+ "model": "glm-5.3"
+}

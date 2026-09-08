@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 70,
+  "translation": "Elohim, ñuqata qispichiy; Yahwe, yanapaypaqmi, utqaykuy.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ñuqata qispichiy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "yanapaypaqmi"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "utqaykuy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:17.089297631Z",
+  "model": "glm-5.3"
+}

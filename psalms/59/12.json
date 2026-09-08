@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Ama wañuchinchu, ñuqap runaykuna qonqaspa ama; kallpaykiwan purichimuy chayankuta, hinaspa uraykachimuy, Adonay, ñuqanchikpa warakananchikmi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "wañuchinchu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama ... qonqaspa"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "qonqankuchá"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqap runaykuna"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "purichimuy chayankuta"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "kallpaykiwan"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "hinaspa uraykachimuy"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ñuqanchikpa warakananchik"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:18.102961788Z",
+  "model": "glm-5.3"
+}

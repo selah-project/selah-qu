@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "¿Iskay runachu kuska purinqa, mana ñawpaqta rimanakuspa?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "purinqa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iskay runa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kuska"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "rimanakuspa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:07:30.704104165Z",
+  "model": "glm-5.3"
+}

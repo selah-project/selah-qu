@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Elohim ruwarqan ⟨את⟩ iskay hatun k'anchaykunata: ⟨את⟩ hatun k'anchayta p'unchawpa kamachiyninpaq, hinaspa ⟨את⟩ huch'uy k'anchayta tutapa kamachiyninpaq, hinaspa ⟨את⟩ quyllurkunatawan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Hinaspa ruwarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iskay hatun k'anchaykunata"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "hatun k'anchaykunata"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatun k'anchayta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "k'anchayta"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kamachiyninpaq"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchawpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "huch'uy k'anchayta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "k'anchayta"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "huch'uy"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "kamachiyninpaq"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tutapa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "quyllurkunatawan"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "quyllurkunatawan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:29.306481628Z",
+  "model": "glm-5.3"
+}

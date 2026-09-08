@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Avramtaq nirqan: Qawariy, ñuqaman churi musphayta mana quirankichu; chaymi wasiypi paqarisqa runam ⟨את⟩ ñuqata hapaqanqa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "taq nirqan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הן",
+      "gloss": "qawariy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "quirankichu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "churi musphayta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "chaymi qawariy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "wasiypi paqarisqa"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "runam hapaqanqa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata"
+    }
+  ],
+  "timestamp": "2026-09-07T23:55:44.085338496Z",
+  "model": "glm-5.3"
+}

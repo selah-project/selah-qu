@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Gam uwihaykichikta, gam wakaykichikta apay, qamkuna rimasqaykichik hina, hinaspa riy; hinaspa gam ⟨את⟩ ñuqatapas bendiciyawankichik.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Gam"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "uwihaykichikta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gam"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "wakaykichikta"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "apay"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "rimasqaykichik"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "hinaspa riy"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "hinaspa bendiciyawankichik"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gam"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata (Pharoata)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:10.871582198Z",
+  "model": "glm-5.3"
+}

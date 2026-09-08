@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Hinaspa runaqa qhapaq kayninpi mana tiyakunchu; llamakunaman rikch'akunmi, wañuspa chinkarqankum.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "hinaspa runaqa"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "qhapaq kayninpi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "tiyakunchu"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "rikch'akunmi"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "llamakunaman"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "wañuspa chinkarqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:16.680865284Z",
+  "model": "glm-5.3"
+}

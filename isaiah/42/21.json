@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 21,
+ "ref": "isaiah 42:21",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 42,
+ "translation": "Yahwem ⟨kan⟩ paqsunanrayku munan: Torah hatunchachinqa, hinaspa yupaychachinqa.",
+ "tokens": [
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "חפץ",
+   "gloss": "munan"
+  },
+  {
+   "surface": "למען",
+   "gloss": "paqsunanrayku"
+  },
+  {
+   "surface": "צדקו",
+   "gloss": "paqsunan"
+  },
+  {
+   "surface": "יגדיל",
+   "gloss": "hatunchachinqa"
+  },
+  {
+   "surface": "תורה",
+   "gloss": "Torah"
+  },
+  {
+   "surface": "ויאדיר",
+   "gloss": "hinaspa yupaychachinqa"
+  }
+ ],
+ "timestamp": "2026-09-08T06:23:55.245803785Z",
+ "model": "glm-5.3"
+}

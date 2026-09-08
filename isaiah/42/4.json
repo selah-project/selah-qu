@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Manam llakikunqachu, manam mat'ikunqachu, hallp'api mishpatta churanqa kama; hinaspa Tioranpataq chalakuna suyashanqakumi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "llakikunqachu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "mat'ikunqachu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "churanqa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishpatta"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "hinaspa Tioranpataq"
+    },
+    {
+      "surface": "איים",
+      "gloss": "chalakuna"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "suyashanqakumi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:25:50.425248142Z",
+  "model": "glm-5.3"
+}

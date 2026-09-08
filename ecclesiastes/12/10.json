@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Kohelet maskharqanmi tariynanpaq kusiychikuq simikunata; hinaspa qillqasqaqa chaqanmi ⟨kan⟩, cheqan simikunam.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "maskharqan"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "tariynanpaq"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "simikunata"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kusiychikuq"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "hinaspa qillqasqa"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "chaqan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "simikuna"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:44:49.022859597Z",
+  "model": "glm-5.3"
+}

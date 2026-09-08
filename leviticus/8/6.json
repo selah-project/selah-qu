@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Moshe**m** ⟨את⟩ Aharonta (Aarón), hinaspa ⟨את⟩ wawaninkunata qayamurqan, unuwan ⟨את⟩ paykunata mayllarqan.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "qayamurqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Aarón)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawaninkunata"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wawaninkuna"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "mayllarqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unuwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:56:59.008784858Z",
+  "model": "glm-5.3"
+}

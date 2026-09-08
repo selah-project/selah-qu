@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa Moshem orqoman wicharirqanmi, hinaspa phuyum ⟨את⟩ orqonta p'isturqan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wicharirqanmi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "orqoman"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "p'isturqan"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "phuyum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orqonta"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "orqonta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:30.497492347Z",
+  "model": "glm-5.3"
+}

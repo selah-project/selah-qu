@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "⟨את⟩ ñuqata pusanirqawanmi, purichirqawanmi ch'uskuman, manam k'anchaymanchu.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "pusanirqawan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "purichirqawan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ch'uskuman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchayman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:32:43.674169470Z",
+  "model": "glm-5.3"
+}

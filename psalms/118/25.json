@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 118,
+  "translation": "An, Yahwe, kunan qespichiway; an, Yahwe, kunan atipachiway.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "An"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "qespichiway"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "An"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "atipachiway"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kunan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:12.843905150Z",
+  "model": "glm-5.3"
+}

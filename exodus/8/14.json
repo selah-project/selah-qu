@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hartumikunatam chayninta ruwarqanku pakasqa atiyninkunawan kininata hurinankupaq, ichaqa mana ⟨את⟩ kininata hurinata atisqankuchu; chaysi kininam runakunapi, uywakunapipas karqan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqankum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayninta"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "hartumikunatam"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "pakasqa atiyninkunawan"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "hurinankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kininata"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "kininata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichaqa mana"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "atisqankuchu"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "karqansi"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kininam"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "runakunapi"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "uywakunapipas"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:58.236709934Z",
+  "model": "glm-5.3"
+}

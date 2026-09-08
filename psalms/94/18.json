@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Chakiy ch'akiptiy niptiy, Yahwepa jesedniyki ñuqata sayarichinmi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "niptiy"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ch'akiptiy"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "chakiy"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "ñuqata sayarichinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:17.137443841Z",
+  "model": "glm-5.3"
+}

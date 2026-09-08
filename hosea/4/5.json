@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Ch'isipi k'askinki, hinaspa navipas qamwan tutapi k'askinqam; hinaspa mamaykita chinkachisqaymi.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "k'askinki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ch'isipi"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "k'askinqam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tutapi"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "chinkachisqaymi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mamaykita"
+    }
+  ],
+  "timestamp": "2026-09-08T08:45:45.574681267Z",
+  "model": "glm-5.3"
+}

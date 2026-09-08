@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Amaleqm hamurqan hinaspa Rephidimpi Israelwan awqanakurqan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleq"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "awqanakurqan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "Rephidimpi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:11.100223370Z",
+  "model": "glm-5.3"
+}

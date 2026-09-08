@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Uyariychik hanaq pacha, hallp'ataq ñawiyta kichariychik: Yahwem rimarqanmi. Churiykurqani, wiñachirqani, paykunaqa ñuqawan p'itiykurqanku.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "uyariychik"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "ñawiyta kichariychik"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churiykuna"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "wiñachirqani"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "hananchirqani"
+    },
+    {
+      "surface": "והם",
+      "gloss": "paykunaqa"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "p'itiykurqanku"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqawan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:50:19.317112992Z",
+  "model": "glm-5.3"
+}

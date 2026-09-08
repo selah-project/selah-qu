@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Hinaspa Adonay Elohimniyku sumak k'anchaynin ñuqaykuwan tiyachun; ñuqaykuypi makiykuypa ruwasqankunata sayarichiy, hinallataq makiykuypa ruwasqankunata sayarichiy chayta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "hinaspa tiyachun"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "sumak k'anchaynin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimniyku"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqaykuwan"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "hinaspa ruwasqanta"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "makiykuypa"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "sayarichiy"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqaykuypi"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "hinallataq ruwasqanta"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "makiykuypa"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "sayarichiy chayta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:17.856364454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 41:12",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Hap'irqankum ⟨את⟩ llapan runakunata, hinaspa Yishmaelwan, Natanyahup churinwan, awqananpaq purirqanku; hinaspa payta ⟨את⟩ tarirqanku hatun unu qhochapi, Givonpi kasqapi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "hap'irqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "awqananpaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Natanyahup"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "tarirqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qhochapi ñawpaqnin"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqapi"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Givonpi"
+    }
+  ],
+  "timestamp": "2026-09-08T07:34:40.950478705Z",
+  "model": "glm-5.3"
+}

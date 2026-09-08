@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Chayta riqsinankupaqmi inti lluqsimuqmantam, chinkapuqmantapas, ñuqallaypi hawa mana wak kaq kasqanta; ñuqam Yahwe ⟨kan⟩mi, hinaspa mana wak kaqchu ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "riqsinankupaq"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "riqsinqaku"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "intilluqsimuqmanta"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "hinaspa chinkapuqmanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "mana wak kaqchu"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ñuqallaypi hawa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wak kaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:30:13.096055327Z",
+  "model": "glm-5.3"
+}

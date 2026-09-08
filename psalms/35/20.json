@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Ñawpaqmanataq manam shalomta rimankuchu; hallp'api ch'in kawsaqkunamanqaraq llulla rimaykunata yuyanchikku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ñawpaqmanataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ... -chu"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalomta"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "rimanku"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kunamanqaraq"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "ch'in kawsaq"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimaykunata"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "yuyanchikku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:24.553222866Z",
+  "model": "glm-5.3"
+}

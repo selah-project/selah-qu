@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaysi llaqtap runankuna Yoashman nirqanku: «Hurquy ⟨את⟩ churiykita, wañuchunpaq, imaraykuchus Baalpa ⟨את⟩ altarninta thunirqan, hinaspa kuchurqan ashinata, mayqin paypa patanpi kachkan».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Chaysi nirqanku"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runankuna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashman"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "hurquy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churiykita"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "churiykita"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañuchunpaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "thunirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarninta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarninta"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalpa"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "hinaspa imaraykuchus"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kuchurqan"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ashinata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa patanpi kachkan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:42:11.231292668Z",
+  "model": "glm-5.3"
+}

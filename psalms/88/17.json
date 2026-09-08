@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Ñuqap patanim karqan ch'akiykiykim; mancharichiykiykunan ñuqata chinkachirqanmi.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap patapi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "ch'akiykiyki"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "mancharichiykiykuna"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "ñuqata chinkachirqanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:24.285997058Z",
+  "model": "glm-5.3"
+}

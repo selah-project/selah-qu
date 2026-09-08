@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa Ahashveroshpa kamachiyninpi, kamachiynin qallariyninpi, huk qiñachiy willakuyta qillqarqankum Yehudap tiyaqninkunawan Yerushalayimpi tiyaqninkunap contrapi.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "kamachiyninpi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashveroshpa"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "qallariyninpi"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "kamachiynin"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "qillqarqankum"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "qiñachiy willakuyta"
+    },
+    {
+      "surface": "על",
+      "gloss": "contrapi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaqninkunata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "hinaspa Yerushalayimpi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:10:42.274490203Z",
+  "model": "glm-5.3"
+}

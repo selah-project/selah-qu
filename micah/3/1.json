@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa ñuqam nirqani: Uyariy, ¡taq! Yaakovpa (Jacob) umalliqkuna, Israelpa wasip kamachiqninkuna: ¿manam qamkunapaqchu ⟨את⟩ taripakuyta yachay?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "hinaspa ñuqam nirqani"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "taq"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umalliqkuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa (Jacob)"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "hinallataq kamachiqninkuna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "manam...chu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "yachaypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taripakuyta"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "taripakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:05:24.718577537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 26:63",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Kaykunam karqan yupasqakuna, Moshepa (Moisés) hinaspa Eleazar (Eleazar) kohenpa yupasqanku, mayqinkunam ⟨את⟩ Israelpa churinkunata Moabpa pampakunapi yuparqan, Yarden mayu Yerijo (Jericó) ñawpaqninpi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kaykunam"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "yupasqakuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshepa (Moisés)"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "hinaspa Eleazar (Eleazar)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunam"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "yupasqankunu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa churinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "pampakunapi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden mayu"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerijo (Jericó)"
+    }
+  ],
+  "timestamp": "2026-09-08T02:13:27.672193883Z",
+  "model": "glm-5.3"
+}

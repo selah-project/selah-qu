@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa tarirqankum ⟨את⟩ Adoni-Bezekta (Adoni-Bezek) Bezekpi (Bezek llaqtapi); hinaspa paywan awqanakurqanku, hinaspa illarqanku ⟨את⟩ Kanaanita, ⟨את⟩ Perizitatawan.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "tarirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezekta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekpi"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "awqanakurqanku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "illarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Perizitatawan"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizitatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:34:05.028523925Z",
+  "model": "glm-5.3"
+}

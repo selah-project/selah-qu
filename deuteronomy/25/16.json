@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Yahwe Elohimniykimanmi millaymi chaykunata ruraq llapan, waqlliyta ruraq llapanpas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "millay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "chaykuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "עול",
+      "gloss": "waqlliy"
+    }
+  ],
+  "timestamp": "2026-09-08T02:49:51.186591737Z",
+  "model": "glm-5.3"
+}

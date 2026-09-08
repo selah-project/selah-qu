@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Mitsrayimm (Egipto) walachirqan ⟨את⟩ Ludikunatawan, ⟨את⟩ Anamikunatawan, ⟨את⟩ Lehabikunatawan, ⟨את⟩ Naftujikunatawan.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayimm"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "walachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludikunatawan"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludikunatawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Anamikunatawan"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamikunatawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Lehabikunatawan"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabikunatawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Naftujikunatawan"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftujikunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T12:29:04.826906297Z",
+  "model": "glm-5.3"
+}

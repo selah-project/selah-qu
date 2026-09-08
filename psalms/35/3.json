@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Hinaspa chukita hurquy, hinaspa ñanta hark'ay ñuqap qatiqniykuna qayllanpaq; niy ñuqap nefeshman: «Qampaq qispichiymi ñuqam».",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "hinaspa hurquy"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "chuki"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "hinaspa ñanta hark'ay"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "qayllanpaq"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "ñuqap qatiqniykuna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "niy"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ñuqap nefeshman"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "qampaq qispichiy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:54.757317166Z",
+  "model": "glm-5.3"
+}

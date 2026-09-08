@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 3:14",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymim paypa chakinkunapim puñurqan paqariykama; huk runa ⟨את⟩ huk masinta riqsinanpa ñawpaqninmi sayarirqan. Boazmi nirqan: ama riqsisqa kaychun ña warmi tarpuy wasiman hamurqanta.",
+  "tokens": [
+    {
+      "surface": "ותשכב",
+      "gloss": "puñurqan"
+    },
+    {
+      "surface": "מרגלתו",
+      "gloss": "paypa chakinkunapim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "paqariy"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "בטרום",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "riqsinanpa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huk masinta"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "huk masin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "riqsisqa kaychun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ña"
+    },
+    {
+      "surface": "באה",
+      "gloss": "hamurqanta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "tarpuy wasiman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:30:04.078000446Z",
+  "model": "glm-5.3"
+}

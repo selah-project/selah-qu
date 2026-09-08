@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Sayarirqankum llapan sinchi runakuna, tukuy tutata purirqankumm, hinaspa hurqurqankum ⟨את⟩ Shaulpa kurkunta, churinkunap kurkunkunatawan ⟨את⟩ Beth Shanpa perqamanta; chayarqankum Yaveshman, chaypipas rupharqankumm ⟨את⟩ paykunata.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "sayarirqankum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "purirqankum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tutata"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "hurqurqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaulpa kurkunta"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "kurkunta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "churinkunap kurkunkunata"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "kurkunkunata"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "perqamanta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "chayarqankum"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "Yaveshman"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "rupharqankum"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypipas"
+    }
+  ],
+  "timestamp": "2026-09-08T04:32:15.582384876Z",
+  "model": "glm-5.3"
+}

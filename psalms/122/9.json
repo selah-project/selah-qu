@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 122,
+  "translation": "Yahwe Elohimninchikpa wasin rayku, qampaq allinta mask'asaq.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "mask'asaq"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:53.172236523Z",
+  "model": "glm-5.3"
+}

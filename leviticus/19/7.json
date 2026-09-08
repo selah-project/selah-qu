@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Kimsa ñiqin p'unchawpi mikhuchkaptinqa, p'igul ⟨kan⟩mi (millay), manam chaskisqa kanqachu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kaptinqa"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "mikhuchka"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhuchkaptinqa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kimsa ñiqin"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "p'igulmi (millay)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "chaskisqa kanqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:19.141695726Z",
+  "model": "glm-5.3"
+}

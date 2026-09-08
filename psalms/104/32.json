@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Hallp'ata qhawarillawanmi, chayqa t'itirakunmi; urqukunapi t'inkunmi, chaytaq q'osñichakunmi.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "qhawarillawanmi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "chayqa t'itirakunmi"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "t'inkunmi"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "urqukunapi"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "chaytaq q'osñichakunmi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:22.136473499Z",
+  "model": "glm-5.3"
+}

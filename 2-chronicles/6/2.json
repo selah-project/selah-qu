@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Ñuqataq qampaq wasita ruwarqani, tiyana wasita, qampaq tiyanaykipaq wiñaywiñaypaq.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ruwarqani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "tiyana wasi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "hinaspa tiyanata"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "tiyanaykipaq"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "wiñaywiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:55:17.851630214Z",
+  "model": "glm-5.3"
+}

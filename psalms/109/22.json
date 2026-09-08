@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Imaraykuchus ñuqaqa wakcha, mana imayuq kasqanimi; sunquyqa ñuqap ukhunpi nanachisqa karqanmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mana imayuq"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "sunquy"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "nanachisqa karqan"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ñuqap ukhunpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:09.251378547Z",
+  "model": "glm-5.3"
+}

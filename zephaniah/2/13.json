@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa makhinta chinpachinqa**m** chinchayman, hinaspa ⟨את⟩ Ashurta (Asiria) chinkachinqa, hinaspa ⟨את⟩ Ninweta (Nínive) ch'usaq kananpaq churanqa, ch'aki aqocha chiqan hina.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "hinaspa chinpachinqa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makhinta"
+    },
+    {
+      "surface": "על",
+      "gloss": "man"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "chinchay"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "hinaspa chinkachinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashurta"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurta (Asiria)"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "hinaspa churanqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninweta"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninweta (Nínive)"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ch'usaq kananpaq"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ch'aki aqocha"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "chiqan hina"
+    }
+  ],
+  "timestamp": "2026-09-08T09:16:45.602607863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Suqta p'unchaw llamk'anki, qanchis ñiqin p'unchawpitaqmi samanki; chakllay pachapipas, qontuy pachapipasmi samanki.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "llamk'anki"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "hinaspa qanchis ñiqin p'unchawpitaq"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "qanchis ñiqin"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "samanki"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "chakllay pachapipas"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "hinaspa qontuy pachapipas"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "samanki"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:05.081610857Z",
+  "model": "glm-5.3"
+}

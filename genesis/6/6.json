@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Yahwem sunqupacha kutirqan ⟨את⟩ runatam hallp'api rurasqayrayku, hinaspa sunqunman llakikurqan.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "hinaspa sunqupacha kutirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurasqay-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "hinaspa llakikurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sunqunman"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:54.615864509Z",
+  "model": "glm-5.3"
+}

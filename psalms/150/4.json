@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 150,
+  "translation": "Payta yupaychaychik tamborwan, tusuwan; payta yupaychaychik wataruna takinkunawan, ugabwanwan.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "payta yupaychaychik"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "tamborwan"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "tusuwan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "payta yupaychaychik"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "wataruna takinkunawan"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ugabwanwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:54.611312345Z",
+  "model": "glm-5.3"
+}

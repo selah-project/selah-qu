@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 12:14",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Sichus ⟨את⟩ Yahweta manankichik, hinaspa ⟨את⟩ payta yanapankichik, pa siminta uyarinkichik, mana ⟨את⟩ Yahwepa siminta sarunkichik chayqa, qamkunallataqmi, qamkunapata kamachiq apullataqmi, Yahwe Elohimniykichikpa qipanpin kankichik.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "manankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "hinaspa yanapankichik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "uyarinkichik"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "pa siminta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תמרו",
+      "gloss": "sarunkichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa siminta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "והיתם",
+      "gloss": "kankichik"
+    },
+    {
+      "surface": "גם",
+      "gloss": "qamkunallataqmi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kamachiq"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "qamkunapata"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qipanpin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichikpa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:12:50.470942467Z",
+  "model": "glm-5.3"
+}

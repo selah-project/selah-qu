@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Icha kaytam imarayku qamta sayarichirqani, imarayku ⟨את⟩ atiyta rikuchinaykipaq, hinallataq Sutiyta llapan hallp'api willanapaq.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "icha"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "sayarichirqayki"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "rikuchinaykipaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atiyta"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "atiyta"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "willanapaq"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Sutiyta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:48.635607239Z",
+  "model": "glm-5.3"
+}

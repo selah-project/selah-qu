@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yupaycharqan hinaspa nin: imataq ñuqam, qampa yanapaqyki, wañusqa allquman, ñuqahina kaqta qhawariwasqayki rayku?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "yupaycharqan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qampa yanapaqyki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "qhawariwanki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "allqu"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wañusqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "ñuqahina kaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:38:52.451035589Z",
+  "model": "glm-5.3"
+}

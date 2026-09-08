@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Yawarniyoqwan ama mikhunkichikchu; ama watuqunkichikchu, ama pacha-ñawpaq yachaqunkichikchu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhunkichik"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "yawarniyoqwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "watuqunkichik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinallataq ama ... chu"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "pacha-ñawpaq yachaqunkichik"
+    }
+  ],
+  "timestamp": "2026-09-08T01:04:26.107863383Z",
+  "model": "glm-5.3"
+}

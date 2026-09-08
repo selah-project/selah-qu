@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Mayupim ñanniyki karqan, ñanniykikunatawan achka unukunapi; ñawpaqllasqaykikunataq manam riqsikurqankuchu.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "mayupi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ñanniyki"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "ñanniykikunatawan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "achka unukunapi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "achka"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "ñawpaqllasqaykikunataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "riqsikurqankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:30.896631621Z",
+  "model": "glm-5.3"
+}

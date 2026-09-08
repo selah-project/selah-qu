@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Imaraykum paykunaqa sumaq wayllacha umaykipi, hinaspa anillukuna kunkaykipi kanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "wayllacha"
+    },
+    {
+      "surface": "חן",
+      "gloss": "sumaq kay"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "umaykipi"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "hinaspa anillukuna"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "kunkaykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:11.026247718Z",
+  "model": "glm-5.3"
+}

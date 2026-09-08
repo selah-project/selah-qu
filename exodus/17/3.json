@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chaypi runakunaqa unuta ch'akiykurqanku; chaymanta runakunaqa Mosheta añasqarqanku, nispataq: Imarayku kayta? Imarayku ñuqanchikta Mitsrayimmanta hurqurqanki, ⟨את⟩ ñuqata, hinaspa ⟨את⟩ wawaykunatawan, hinaspa ⟨את⟩ uywaykunatawan ch'akiwan wañuchinaykipaq?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "ch'akiykurqanku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaqa"
+    },
+    {
+      "surface": "למים",
+      "gloss": "unuta"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "añasqarqanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "hayu"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqaku"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "hurqurqanki"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "wañuchinaykipaq"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqata",
+      "marks": "ñuqata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawaykunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawaykunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "uywaykunata"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "uywaykunata"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ch'akiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:32:47.529907898Z",
+  "model": "glm-5.3"
+}

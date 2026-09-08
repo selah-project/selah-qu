@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Sumaqmi qam, waynay: Tirtsahina; k'achami Yerushalayim (Jerusalén)hina; mancharichiqmi unanchakunayuq awqakunahina.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Sumaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "qam"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "waynay"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "Tirtsahina"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "k'acha"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "Yerushalayimhina"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "mancharichiq"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "unanchakunayuq awqakunahina"
+    }
+  ],
+  "timestamp": "2026-09-08T11:28:44.691766198Z",
+  "model": "glm-5.3"
+}

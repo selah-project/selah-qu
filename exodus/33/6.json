@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Israelpa wawakunanmi ⟨את⟩ sumaq adornonkunta Jorev (Horeb) orqumanta hurqurqanku.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "hurqurqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumaq adornonkunta"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "adornonkunta"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "orqumanta"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Jorev (Horeb)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:42:34.878565462Z",
+  "model": "glm-5.3"
+}

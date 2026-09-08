@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "2-chronicles 18:6",
+ "book": "2-chronicles",
+ "lang": "qu",
+ "chapter": 18,
+ "translation": "Chaysi Yehoshafatmi nirqan: Manachu kaypi Yahwepa navin kaqraq tiyan, paymanta ⟨את⟩ tapusunchik nanpaq?",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "יהושפט",
+   "gloss": "Yehoshafat"
+  },
+  {
+   "surface": "האין",
+   "gloss": "manachu… kan"
+  },
+  {
+   "surface": "פה",
+   "gloss": "kaypi"
+  },
+  {
+   "surface": "נביא",
+   "gloss": "navin"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "עוד",
+   "gloss": "raq"
+  },
+  {
+   "surface": "ונדרשה",
+   "gloss": "tapusunchik"
+  },
+  {
+   "surface": "מאתו",
+   "gloss": "⟨את⟩",
+   "marks": "payta"
+  }
+ ],
+ "timestamp": "2026-09-08T14:30:57.367803932Z",
+ "model": "glm-5.3"
+}

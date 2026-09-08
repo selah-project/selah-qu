@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 64,
+  "translation": "Mayqinkunachus siminkunta chukchahina llip'ichinku, khunata t'eqsirqanku — millu rimanata.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Mayqinkunachus"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "llip'ichinku"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "chukchahina"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "siminkunta"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "t'eqsirqanku"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "khunata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimanata"
+    },
+    {
+      "surface": "מר",
+      "gloss": "millu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:01.635500442Z",
+  "model": "glm-5.3"
+}

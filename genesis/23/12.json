@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspam Abraham hallp'a runakunap ñawpaqninpitam ñawp'aman kurkurqan.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ñawp'aman kurkurqan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:40.106503940Z",
+  "model": "glm-5.3"
+}

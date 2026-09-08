@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Kawsayniypi**m** Yahwepaq takisaq; kawsachkani kachkaptiymi Elohimniyta waqychasaq.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "takisaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "kawsayniypi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "waqychasaq"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimniyta"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "kawsachkani kachkaptiy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:31.790070780Z",
+  "model": "glm-5.3"
+}

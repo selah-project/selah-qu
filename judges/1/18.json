@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspam Yehudam ⟨את⟩ Azata (Gaza) suyunwan, hinaspa ⟨את⟩ Ashqelonta (Ascalón) suyunwan, hinaspa ⟨את⟩ Eqronta (Ecrón) suyunwan hapirqan.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "hapirqan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azata"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza (Gaza)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "suyunwan"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "suyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Ashqelonta"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashqelon (Ascalón)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "suyunwan"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "suyu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Eqronta"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Eqron (Ecrón)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "suyunwan"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "suyu"
+    }
+  ],
+  "timestamp": "2026-09-08T03:35:30.980949955Z",
+  "model": "glm-5.3"
+}

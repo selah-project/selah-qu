@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinataqmi wañuy llanthu wayq'opipas puriptiy, manam llakita manasaqchu: qammi ñuqawan kachkanki; tawaqchaykiwan, suyachikuy t'allaykiwan — chaykunam ñuqata takyachichikunku.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hinataqmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "puriptiy"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "wayq'opipas"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "wañuy llanthu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "manasaqchu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "llakita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ñuqawan kachkanki"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "tawaqchaykiwan"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "suyachikuy t'allaykiwan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chaykunam"
+    },
+    {
+      "surface": "יְנַחֲמֻנִי",
+      "gloss": "ñuqata takyachichikunku"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:36.014520834Z",
+  "model": "glm-5.3"
+}

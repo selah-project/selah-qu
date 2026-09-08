@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Runa siminp michiyninmanta allinta mikhunmi, icha llulla runakunap nefeshninqa ch'aqwayta mikhun.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "michiyninmanta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhunmi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "icha nefeshnin"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "llulla runakunap"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ch'aqwayta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:42:05.933204704Z",
+  "model": "glm-5.3"
+}

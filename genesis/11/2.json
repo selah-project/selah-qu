@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Antimanta puriptinku, Shinar hallp'api huk pampata tarirqankum, chaypitaq tiyarqankum.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "puriptinku"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "antimanta"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "tarirqanku"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "pampa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "tiyarqanku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:42.400246215Z",
+  "model": "glm-5.3"
+}

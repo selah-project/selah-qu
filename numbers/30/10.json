@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Viudap (saqisqa warmip) hinaspa saqarichisqa warmip naderpa — llapan ima paypa Nefeshnin wasichasqan paypa patanpi sayanqam.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "hinaspa nader"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "viuda"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "hinaspa saqarichisqa warmi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "wasichasqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patan"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "Nefeshnin"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sayanqa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "paypa patanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:19:47.470961823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ichaq huertap chawpinpi kaq sach'ap rurunmanta Elohim nirqan: Chaymantam mana mikhunkichikchu, mana chaywan t'inkiwanchikchu, ama wañunchichikchá.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "Ichaq rurunmanta"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sach'ap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "huerta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhunkichik"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chaymantam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "t'inkiwanchik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaywan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama ... -chá"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "wañunchichik"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:40.820621234Z",
+  "model": "glm-5.3"
+}

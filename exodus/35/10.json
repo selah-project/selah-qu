@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Llapa sunqu yachaq qamkunapuram hamunchik, ruwanchik ⟨את⟩ tukuyta imata Yahwem kamachirqan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "qamkunapura"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hamunchik"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwanchik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuyta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuyta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    }
+  ],
+  "timestamp": "2026-09-08T00:42:35.585570077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Yahwe, Elohim Tsebaot, ¿may kama ⟨sunquyki phusuqyan⟩ mañasqayki runaykipi?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "may"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "phusuqyan"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "mañasqaykipi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runayki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:30.211274993Z",
+  "model": "glm-5.3"
+}

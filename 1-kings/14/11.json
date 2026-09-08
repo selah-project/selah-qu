@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yarov'ampam llaqtapi wañuqta alqokunam mikhunqa; chakrakunapi wañuqtataq hanaq pacha pisqokunam mikhunqa; Yahwem rimarqanmi rayku.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "wañuq"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Yarov'ampamanta"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhunqa"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "alqokuna"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "hinaspa wañuq"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chakrakunapi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhunqa"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "pisqokuna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:13:57.050099919Z",
+  "model": "glm-5.3"
+}

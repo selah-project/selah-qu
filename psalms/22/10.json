@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Qampasmi q'otoymanta lluqsimurqani; qammi ñawpaqta suyichirqanki, mamaniy ñuñunpi sayaspa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "lluqsimurqani"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "q'otoymanta"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "suyichirqanki"
+    },
+    {
+      "surface": "על",
+      "gloss": "sayaspa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ñuñunpi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamaniy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:35.471465400Z",
+  "model": "glm-5.3"
+}

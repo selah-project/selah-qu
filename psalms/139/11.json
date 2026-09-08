@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Ñuqataq nirqani: chiqapacha tutam ñuqata llakichinqa; ichapas tutaqa ñuqata muyuriptin k'anchashanqami.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ñuqataq nirqani"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chiqapacha"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tutam"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "ñuqata llakichinqa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ichapas tutaqa"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchashanqa"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "ñuqata muyuriptin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:53.111824725Z",
+  "model": "glm-5.3"
+}

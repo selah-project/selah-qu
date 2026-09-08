@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Imaraykuchus qan, Elohim, probarkuwarqanki; qullqi t'aqallasqa hina ñuqanchikta t'aqallakuwarqanki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imaraykuchus"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "probarkuwarqanki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "t'aqallakuwarqanki"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "t'aqallasqa hina"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:20.021802809Z",
+  "model": "glm-5.3"
+}

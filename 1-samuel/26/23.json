@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 26:23",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Yahwem sapa runaman ⟨את⟩ paypa cheqan kayninta, hinaspa ⟨את⟩ paypa chiqan kusan kaynintawan kutichinqa, Yahwem mayqin qanta kay p'unchaw makiman churarqan; ichataq manaña munarqani makiyta Yahwep Mashiajninman churanampaq.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "kutichinqa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sapa runaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa cheqan kayninta"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "paypa cheqan kaynin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa chiqan kusan kayninta"
+    },
+    {
+      "surface": "אמנתו",
+      "gloss": "paypa chiqan kusan kaynin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "qanta churarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makiman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichataq manaña"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "munarqani"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "churanampaq"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makiyta"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "Mashiajninman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T04:27:57.013962038Z",
+  "model": "glm-5.3"
+}

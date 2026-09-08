@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 21:3",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Ñirqankum: Imarayku, Yahwe, Israelpa Elohimnin, kay Israelpa ukhunpi rikhurirqan, kunan p'unchaw Israelmanta huk ayllum chinkananpaq?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ñirqankum"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "rikhurirqan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpa ukhunpi"
+    },
+    {
+      "surface": "להפקד",
+      "gloss": "chinkananpaq"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Israelmanta"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ayllum"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-08T04:00:11.200668924Z",
+  "model": "glm-5.3"
+}

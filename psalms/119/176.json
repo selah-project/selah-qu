@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 176,
+ "ref": "psalms 119:176",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 119,
+ "translation": "Urrayasqa waka hina t'aqakurqanimi; qan maskhaq awayta, imaraykuchus kamachikuyniykita mana qonqarqanichu.",
+ "tokens": [
+  {
+   "surface": "תעיתי",
+   "gloss": "t'aqakurqanimi"
+  },
+  {
+   "surface": "כשה",
+   "gloss": "waka hina"
+  },
+  {
+   "surface": "אבד",
+   "gloss": "urrayasqa"
+  },
+  {
+   "surface": "בקש",
+   "gloss": "maskhaq awayta"
+  },
+  {
+   "surface": "עבדך",
+   "gloss": "qan maskhaq awayta"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "מצותיך",
+   "gloss": "kamachikuyniykita"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "שכחתי",
+   "gloss": "qonqarqanichu"
+  }
+ ],
+ "timestamp": "2026-09-08T14:16:56.273875487Z",
+ "model": "glm-5.3"
+}

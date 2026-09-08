@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hinaspa Yitro, Moshepa mashan, ⟨את⟩ Tsiportam (Séfora) chaskirqan, Moshepa warminta, pay kachasqan qhipanmanta.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "chaskirqan"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mashan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshepa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiportam"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsiportam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshepa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qhipanmanta"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "kachasqan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:32:34.832129547Z",
+  "model": "glm-5.3"
+}

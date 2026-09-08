@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 141,
+  "translation": "Mañasqay sayachisqa kachun qayllaykipi q'urwachinahina; makikunallaypa huqariynin chisi ofrendahina.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "sayachisqa kachun"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mañasqay"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "q'urwachina hina"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qayllaykipi"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "huqariynin"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "makikunallaypa"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ofrenda"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "chisi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:10.995812243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Qowayku yanapayta awqaykuqmanta (llakillaqmanta); runap qispichiyninqa ch'usaqmi.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "qowayku"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykuman"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "yanapayta"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "awqaykuqmanta"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "qispichiynin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:36.149738194Z",
+  "model": "glm-5.3"
+}

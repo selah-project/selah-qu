@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Intim lluqsimuptin huñikunku, wasinkuman t'inkikunku.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "lluqsimuptin"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "huñikunku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "wasinkuman"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "t'inkikunku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:51.887074206Z",
+  "model": "glm-5.3"
+}

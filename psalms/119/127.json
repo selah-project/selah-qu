@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Chayrayku mitsvotniykita qurimanta aswan, llimp'i qurimantapas aswan munanimi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "munanimi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mitsvotniykita"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "qurimanta"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "llimp'i qurimantapas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:24:39.091430074Z",
+  "model": "glm-5.3"
+}

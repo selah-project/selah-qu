@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 11:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa llaqtakunapaq unanchata hawarqonqam, Israelpa qarqasqakunata huñunqam, hinaspa Yehudap (Judá) t'aqasqakunata hallp'ap tawan k'uchinmanta huñunqam.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "hawarqonqam"
+    },
+    {
+      "surface": "נס",
+      "gloss": "unanchata"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "llaqtakunapaq"
+    },
+    {
+      "surface": "ואסף",
+      "gloss": "hinaspa huñunqam"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "qarqasqakunata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ונפצות",
+      "gloss": "hinaspa t'aqasqakunata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "huñunqam"
+    },
+    {
+      "surface": "מארבע",
+      "gloss": "tawanmanta"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "k'uchinkunamanta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T13:44:43.392076494Z",
+  "model": "glm-5.3"
+}

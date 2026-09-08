@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Kunanmi, apukuna, yuyayniyuq kaychik; hallp'apa juezninkuna, yachakuspa alliyachikuychik.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunanmi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "yuyayniyuq kaychik"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "yachakuspa alliyachikuychik"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "juezninkuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'apa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:02.709744891Z",
+  "model": "glm-5.3"
+}

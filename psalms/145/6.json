@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Hinaspa manchachikuq ruraykunaq atiyninta willankum; hatun kayniykitataqmi ñawpa qelqakunahina willasqayki.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "hinaspa atiynin"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "manchachikuq ruraykunaq"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "willankum"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "hatun kayniykitataq"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ñawpa qelqakunahina willasqayki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:37.235087976Z",
+  "model": "glm-5.3"
+}

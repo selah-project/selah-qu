@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yahwewan thakariqkuna karqaykichikmi, p'unchawmanta riqsirqay ⟨את⟩ qankunata.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "thakariqkuna"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "karqaykichik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Yahwewan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "p'unchawmanta"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "riqsirqay"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qankunata",
+      "marks": "qankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T02:34:39.655109271Z",
+  "model": "glm-5.3"
+}

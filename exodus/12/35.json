@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Israelpa churinkunam Moshepa (Moisés) siminman hina ruwarqanku; Mitsrayim (Egipto) runakunamanta mañarqanku qullqi wakikunata, quri wakikunatawan, p'achakunatawan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "churinkunam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "siminman hina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshepa (Moisés)"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "mañarqanku"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim runakunamanta"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "wakikunata"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "wakikunatawan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "p'achakunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:33.195850939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 60:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Qam saqisqa, ch'ikisqa karqayki, mana pipas qamta pasaq karqayki chay hinallataqmi, kunan qamta wiñaypaq kabur kayman, suku sukupa kusikuymanmi churasaq.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "chay hinallataq"
+    },
+    {
+      "surface": "היותך",
+      "gloss": "karqayki"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "saqisqa"
+    },
+    {
+      "surface": "ושנואה",
+      "gloss": "ch'ikisqa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "pasaq"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "qamta churasaq"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "kabur kayman"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kusikuyman"
+    },
+    {
+      "surface": "דור",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "sukupa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:40:56.854397544Z",
+  "model": "glm-5.3"
+}

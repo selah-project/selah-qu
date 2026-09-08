@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 15:14",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Hinaspa Menahem (Manahem), Gadipa churin, Tirtsamanta siqarqan, Shomronman chayarqan; hinaspa ⟨את⟩ Shalumta, Yaveshpa churinta, Shomronpi yarparqan, wañuchirqanmi, hinaspa paypa tiyananpi kamachirqan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "siqarqan"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menahem (Manahem)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gadipa"
+    },
+    {
+      "surface": "מתרצה",
+      "gloss": "Tirtsamanta"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomronman"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yarparqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalumta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalumta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yaveshpa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomronpi"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "wañuchirqanmi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "paypa tiyananpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:37:59.999712919Z",
+  "model": "glm-5.3"
+}

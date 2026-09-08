@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Suqta p'unchawpim Elyasaf, Deuel (Deuel) churin, Gadpa churinkunap apun ñawpaqman chayan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "apun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadpa"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Elyasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuel"
+    }
+  ],
+  "timestamp": "2026-09-08T01:19:55.489564326Z",
+  "model": "glm-5.3"
+}

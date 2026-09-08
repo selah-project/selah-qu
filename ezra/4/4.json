@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaymanta hallp'ap runakunam Yehuda runakunap makinkunata llawsachirqanku, hinaspa ruwayninkuta wanichispa ama hunt'achinankupaq.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "llawsachirqanku"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makinkunta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "wanichirqanku"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ruwanankupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:12:29.964751184Z",
+  "model": "glm-5.3"
+}

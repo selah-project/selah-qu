@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Pacham ch'itinapaq, hinaspa pacham t'ikanapaq; pacham upallanapaq, hinaspa pacham rimanapaq.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pacham"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "ch'itinapaq"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacham"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "t'ikanapaq"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pacham"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "upallanapaq"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacham"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:37:26.013626885Z",
+  "model": "glm-5.3"
+}

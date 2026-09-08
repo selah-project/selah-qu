@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Quchaman uraykukuqkunam wamp'ukunapi, llamk'anata ruwaqkunam askha unapi.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "uraykukuqkuna"
+    },
+    {
+      "surface": "הים",
+      "gloss": "quchaman"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "wamp'ukunapi"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ruwaqkuna"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "llamk'anata"
+    },
+    {
+      "surface": "במים",
+      "gloss": "askha unapi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:04.693867037Z",
+  "model": "glm-5.3"
+}

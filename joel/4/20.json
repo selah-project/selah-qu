@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa Yehuda wiñaypaq tiyanqam, hinaspa Yerushalayim wawamanta wawakama.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "hinaspa Yehuda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "tiyanqam"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "hinaspa Yerushalayim"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "wawamanta"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "wawakama"
+    }
+  ],
+  "timestamp": "2026-09-08T08:55:03.901033859Z",
+  "model": "glm-5.3"
+}

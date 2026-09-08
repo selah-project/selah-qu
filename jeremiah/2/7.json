@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspan ⟨את⟩ qamkunata kanchal hallp'aman apamurqanim, misk'in allinninta mikhunaykichikpaq; chayarqankichikmi, ⟨את⟩ hallp'ayta waqllirqankichik, chakillayta millay hina churawarqankichik.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "apamurqanim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata — kanchal hallp'aman apamusqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "kanchal"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "mikhunaykichikpaq"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "misk'in"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "allinninta"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "chayarqankichikmi"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "waqllirqankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ayta"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "hallp'ayta"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "chakillayta"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "churawarqankichik"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "millay hina"
+    }
+  ],
+  "timestamp": "2026-09-08T06:48:16.181121924Z",
+  "model": "glm-5.3"
+}

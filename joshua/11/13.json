@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 11:13",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Raqmi llapan llaqtakuna, q'etunpatanpi sayaqta, Israel mana rupharqankuchu; chaymantam ⟨את⟩ Chatzor sapanllata rupharqanm Yehoshua (Josué).",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "raq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "llaqtakuna"
+    },
+    {
+      "surface": "העמדות",
+      "gloss": "sayaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "תלם",
+      "gloss": "q'etun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שרפם",
+      "gloss": "rupharqankuchu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatzor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatzor"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "sapanllata"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "rupharqanm"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-09-08T03:19:42.948560652Z",
+  "model": "glm-5.3"
+}

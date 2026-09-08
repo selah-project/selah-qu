@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Davidm nirqan: Yahwem kawsanmi; Yahwellam payta maqanqa, utaq paq p'unchawnin chayamunqa hinaspa wañunqa, utaq awqanakuyman urmarqunqa hinaspa chinkapunqa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "manta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-lla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "payta maqanqa"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "paq p'unchawnin"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "chayamunqa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "hinaspa wañunqa"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "awqanakuyman"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "urmarqunqa"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "hinaspa chinkapunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:29:48.833438071Z",
+  "model": "glm-5.3"
+}

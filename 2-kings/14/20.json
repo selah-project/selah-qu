@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa ⟨את⟩ payta kaballukunap patanman aysarqankum; hinaspa Yerushalayimpi taytakunampiwan, Davidpa llaqtanpi p'ancharqanku.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "aysarqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanman"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "kaballukunap"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "p'ancharqanku"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "taytakunampiwan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "taytakunan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtanpi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:36:16.276985854Z",
+  "model": "glm-5.3"
+}

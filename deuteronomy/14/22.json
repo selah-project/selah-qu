@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chunka hut'a, chunka hut'aspa ⟨את⟩ llapan lluqsiq tarpusqaykita, chacramanta lluqsiqta, wata wata.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "chunka hut'a"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "chunka hut'aspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan lluqsiq tarpusqaykita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "lluqsiq musuqta"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "tarpusqayki"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "lluqsiqta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chacramanta"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-08T02:43:11.707683199Z",
+  "model": "glm-5.3"
+}

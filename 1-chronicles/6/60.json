@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Jukokta, ⟨את⟩, chaypa wayllankunawan; Rejovta, ⟨את⟩, chaypa wayllankunawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Jukok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Jukok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chaypa wayllankuna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "chaypa wayllankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Rejov"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rejov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chaypa wayllankuna"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "chaypa wayllankuna"
+    }
+  ],
+  "timestamp": "2026-09-08T12:36:13.387920865Z",
+  "model": "glm-5.3"
+}

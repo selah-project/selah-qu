@@ -1,0 +1,91 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "ezekiel 24:2",
+ "book": "ezekiel",
+ "lang": "qu",
+ "chapter": 24,
+ "translation": "Runap churin, qillqay qampaq kay p'unchawpa ⟨את⟩ sutinta, kay p'unchawpa ⟨את⟩ kikinmanta; Bavel apum Yerushalayimman (Jerusalén) ñawpaq kuti kay kikin p'unchawpi sayarqanm.",
+ "tokens": [
+  {
+   "surface": "בן",
+   "gloss": "churin"
+  },
+  {
+   "surface": "אדם",
+   "gloss": "runap"
+  },
+  {
+   "surface": "כתוב",
+   "gloss": "qillqay"
+  },
+  {
+   "surface": "לך",
+   "gloss": "qampaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kay p'unchawpa sutinta"
+  },
+  {
+   "surface": "שם",
+   "gloss": "sutinta"
+  },
+  {
+   "surface": "היום",
+   "gloss": "kay p'unchawpa"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kay p'unchawpa kikinmanta"
+  },
+  {
+   "surface": "עצם",
+   "gloss": "kikinmanta"
+  },
+  {
+   "surface": "היום",
+   "gloss": "kay p'unchawpa"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "kay"
+  },
+  {
+   "surface": "סמך",
+   "gloss": "sayarqanm"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "apum"
+  },
+  {
+   "surface": "בבל",
+   "gloss": "Bavel"
+  },
+  {
+   "surface": "אל",
+   "gloss": "Yerushalayimman"
+  },
+  {
+   "surface": "ירושלם",
+   "gloss": "Yerushalayim (Jerusalén)"
+  },
+  {
+   "surface": "בעצם",
+   "gloss": "kikin"
+  },
+  {
+   "surface": "היום",
+   "gloss": "p'unchawpi"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "kay"
+  }
+ ],
+ "timestamp": "2026-09-08T08:14:21.420685988Z",
+ "model": "glm-5.3"
+}

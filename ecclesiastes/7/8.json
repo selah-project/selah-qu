@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Rimaypa tukukuyninqa qallariyninmanta allinmi; sunqu-samiyuqqa sunqu-hanaq kasqamanta allinmi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "tukukuynin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimay"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "qallariyninmanta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "samiyuq (suni)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sunqu-sami"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "hanaq kasqamanta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sunqu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:52.705384215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 43:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Ñuqap ñawiypi q'apataqmi, hatun chataqmi kanki, ñuqaq qamta kuyanimi; chayrayku runakunata qam rantikipi, llaqta runakunataq nefeshniyki rantikipi churasaq.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "יקרת",
+      "gloss": "q'apa kanki"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñuqap ñawiypi"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "hatun cha kanki"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqaq"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "qamta kuyanimi"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "churasaq"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "qam rantikipi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "llaqta runakunataq"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rantikipi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T06:26:10.301804730Z",
+  "model": "glm-5.3"
+}

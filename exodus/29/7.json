@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Chantam ⟨את⟩ mushachiy wirata hap'iyunki, paypa uman t'inkunki, hinaspa ⟨את⟩ payta mushanki.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "hap'iyunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mushachiy wirata"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wirata"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mushachiy"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "hinaspa t'inkunki"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "paypa uman"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "hinaspa mushanki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:17.025935694Z",
+  "model": "glm-5.3"
+}

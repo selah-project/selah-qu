@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Utqaykurqankum, sapa runa ⟨את⟩ k'anta chuspinta hallp'aman urqirqanku, kicharqankum sapa runa k'anta chuspinta.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "utqaykurqankum"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "urqirqanku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'anta chuspinta"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "k'anta chuspinta"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "kicharqankum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "k'anta chuspinta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:02:40.421780200Z",
+  "model": "glm-5.3"
+}

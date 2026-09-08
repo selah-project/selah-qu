@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "Q'ipimanta paypa ñawqenta qichurqanim; paypa mak'ikunataq ch'usatamanta pasankum.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "qichurqanim"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "q'ipimanta"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ñawqenta"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "mak'ikuna"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "ch'usatamanta"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "pasankum"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:52.714843769Z",
+  "model": "glm-5.3"
+}

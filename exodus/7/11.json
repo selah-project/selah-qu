@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 7:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Paropas qayarqan yachaqkunaman, hechiserokunamanman; paykunaqa Mitsrayimpa hartumkunam, illayninkunawanmi chayhina ruwarqanku.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "qayarqan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropas"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "yachaqkunaman"
+    },
+    {
+      "surface": "ולמכשפים",
+      "gloss": "hinaspa hechiserokunamanman"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqankum"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "חרטמי",
+      "gloss": "hartumkuna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "בלהטיהם",
+      "gloss": "illayninkunawan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayhina"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:29.229377825Z",
+  "model": "glm-5.3"
+}

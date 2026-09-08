@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Hinanata tayta churiykunamanta khuyakuy hina, Yhwem khuyakun ñawpaq manchakuqkunanta.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "hinanata khuyakuy hina"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tayta"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churiykuna"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "khuyakun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ñawpaq manchakuqkunanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:33.867237962Z",
+  "model": "glm-5.3"
+}

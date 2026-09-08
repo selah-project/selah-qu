@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 18:24",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chaysi imaynataq ⟨את⟩ huk kamachiqpa uyan kutichinki — ñuqap apupa aswan huch'uq yanapaqninkunamanta hukmanta — hinaspa Mitsrayimpi qampaq suyanki, carrokunapaq, caballu purichiqkunapaqpas?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "Chaysi imaynataq"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "kutichinki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huk kamachiqpa uyan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uyan"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "kamachiq"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapaqninkunamanta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ñuqap apupa"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "aswan huch'uq"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "hinaspa suyanki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "carrokunapaq"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "caballu purichiqkunapaqpas"
+    }
+  ],
+  "timestamp": "2026-09-08T05:42:55.857737241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Siminta waqaychaq runaqa kawsaynintam waqaychan; wirp'ankunta kichaqtaq chinkayllam kanqa.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "waqaychaq"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "waqaychan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kawsaynintam"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "kichaqtaq"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "wirp'ankunta"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "chinkayllam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:42:05.933375148Z",
+  "model": "glm-5.3"
+}

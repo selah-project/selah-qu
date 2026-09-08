@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "1-chronicles 1:5",
+ "book": "1-chronicles",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Yefetpa churinkunam: Gomer, Magog, Maday, Yawan, Tuval, Meshek, Tiras.",
+ "tokens": [
+  {
+   "surface": "בני",
+   "gloss": "churinkuna"
+  },
+  {
+   "surface": "יפת",
+   "gloss": "Yefetpa"
+  },
+  {
+   "surface": "גמר",
+   "gloss": "Gomer"
+  },
+  {
+   "surface": "ומגוג",
+   "gloss": "hinaspa Magog"
+  },
+  {
+   "surface": "ומדי",
+   "gloss": "hinaspa Maday"
+  },
+  {
+   "surface": "ויון",
+   "gloss": "hinaspa Yawan"
+  },
+  {
+   "surface": "ותבל",
+   "gloss": "hinaspa Tuval"
+  },
+  {
+   "surface": "ומשך",
+   "gloss": "hinaspa Meshek"
+  },
+  {
+   "surface": "ותירס",
+   "gloss": "hinaspa Tiras"
+  }
+ ],
+ "timestamp": "2026-09-08T12:28:40.165356986Z",
+ "model": "glm-5.3"
+}

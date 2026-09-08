@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Imarayku qamkunawan puriq Yahwe Elohimninchikmi, awqaykichikkunawan awqanakunampaq qamkunapaq, ⟨את⟩ qamkunata qespichinampaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "qamkunawan"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "awqanakunampaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "awqaykichikkuna"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "qespichinampaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T02:47:36.677407372Z",
+  "model": "glm-5.3"
+}

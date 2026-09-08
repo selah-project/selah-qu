@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ñuqaman nirqan: pi qam kanki? Paymanmi ninirqani: Amaleq runam ñuqa kashani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ninirqani"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Amaleq runa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:31:14.932708972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Waway, taytaykikpa kamachikuyninta waqaychay, hinaspataq mamanaykikpa Toranta ama paskaychu.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "waqaychay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "waway"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kamachikuyninta"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytaykikpa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspataq ama"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "paskaychu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toranta"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mamanaykikpa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:48.193260398Z",
+  "model": "glm-5.3"
+}

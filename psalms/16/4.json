@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Ñak'ariyninkum askha kanqa, wak dioskunata utqaykachaspa; yawarmanta ofrenda ununkunata mana churaymanchu, hinaspa mana apaymanchu ⟨את⟩ shutinkunta wirpawaypi.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "askha kanqa"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ñak'ariyninku"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wak"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "utqaykachaspa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "churaymanchu"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "ofrenda ununkunata"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "yawarmanta"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "apaymanchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shutinkunta"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "shutinkunta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wirpawaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:58.144153707Z",
+  "model": "glm-5.3"
+}

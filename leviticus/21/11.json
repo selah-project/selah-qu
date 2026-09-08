@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Mayqin wañusqap kikinmanpas manam chayasaqchu; taytaypaq, mamanpaqpas manam millayakusaqchu.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "kikinmanpas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wañusqap"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "chayasaqchu"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "taytaypaq"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "hinaspa mamanpaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "millayakusaqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T01:06:24.253528758Z",
+  "model": "glm-5.3"
+}

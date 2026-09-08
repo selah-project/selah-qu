@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Nirqanmi, hinaspa chayamurqan langostakuna hinaspa ch'uspakuna, mana yupayniyuqmi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hinaspa chayamurqan"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "langostakuna"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "hinaspa ch'uspakuna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana ... kanchu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "yupayniyuq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:11.260661654Z",
+  "model": "glm-5.3"
+}

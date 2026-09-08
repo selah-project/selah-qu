@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hat'unakuyqa yachaqta uhychanmi, regalo (sapaq chaninchay)taq ⟨את⟩ sunquta chinkachin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "cheqata"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "hat'unakuy"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "uhychan"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "chinkachin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunquta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "regalo (sapaq chaninchay)"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:52.705266975Z",
+  "model": "glm-5.3"
+}

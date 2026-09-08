@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaysi chaymanta rirqan Karmel orqoman, chaymantataq Shomronman (Samaria) kutimurqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "chaysi rirqan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "chaymantataq"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kutimurqan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomronman (Samaria)"
+    }
+  ],
+  "timestamp": "2026-09-08T05:20:47.607525864Z",
+  "model": "glm-5.3"
+}

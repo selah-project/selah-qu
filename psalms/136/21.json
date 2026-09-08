@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Hinaspa hallp'ankuta herenciapaq qowarqanmi, imaraykuchus wiñay kamanataqmi paypa jesednin.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "hinaspa qowarqanmi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hallp'ankuta"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "herenciapaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kamanataqmi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "paypa jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:50.606656087Z",
+  "model": "glm-5.3"
+}

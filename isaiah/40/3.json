@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Huk waqyaymi ch'usaq pampapi waqyaq: allichichiy Yahwepaq ñanta, hinaspa chiqanchiy ch'usaqpampapi hatun ñanta Elohimninchikpaq.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "waqyay"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "waqyaq"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pampapi"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "allichichiy"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "chiqanchiy"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "ch'usaqpampapi"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "hatun ñan"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimninchikpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:24:58.519114608Z",
+  "model": "glm-5.3"
+}

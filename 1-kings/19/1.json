@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Achabm Izebelman willarqan ⟨את⟩ tukuy imata Eliyahup rurasqanta, hinaspa ⟨את⟩ tukuy imata wañuchisqanta: ⟨את⟩ tukuy navikunata espadaawan.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izebelman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurasqanta"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wañuchisqanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "navikunata"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "espadaawan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:20:16.575542491Z",
+  "model": "glm-5.3"
+}

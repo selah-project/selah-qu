@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Shemuel (Samuel) yachasqa karqanmi; chaysa payqa ⟨את⟩ churinkunata Israelpaq juezkunaman churarqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "yachasqa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churinkunata"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "juezkuna"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T04:06:04.109100723Z",
+  "model": "glm-5.3"
+}

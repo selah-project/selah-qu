@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 148,
+  "translation": "Yahwepa sutinta ⟨את⟩ yupaychachunku, imaraykuchus paypa sutinllam aswan hanan sayasqa; paypa hatun kayninqa hallp'apipas, hanaq pachapipasmi hanan.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "yupaychachunku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "aswan hanan sayasqa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "paypa sutin"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sutinlla"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "paypa hatun kaynin"
+    },
+    {
+      "surface": "על",
+      "gloss": "hanan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'apipas"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "hanaq pachapipas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:08.472710467Z",
+  "model": "glm-5.3"
+}

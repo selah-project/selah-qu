@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa wawakunata umalliqninkunahina churasaqmi, uqlla-wawakunañataq paykunata kamachinqa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "churasaq"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "wawakunata"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "umalliqninkunahina"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "uqlla-wawakunañataq"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "kamachinqa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:52:31.823314099Z",
+  "model": "glm-5.3"
+}

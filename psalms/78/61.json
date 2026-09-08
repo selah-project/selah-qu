@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Paypa kallpanta ñasyachisqaman churarqan, paypa sumak kaynintataq awqap makinman.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ñasyachisqaman"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "paypa kallpanta"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "paypa sumak kaynintataq"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinman"
+    },
+    {
+      "surface": "צר",
+      "gloss": "awqap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:51.275703474Z",
+  "model": "glm-5.3"
+}

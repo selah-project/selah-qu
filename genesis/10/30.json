@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chaykuna tiyanankuqa Meshamantam karqan, Sefarman (Sefar) chayakuspa, anti urquman.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "tiyanankuqa"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "Meshamanta"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "chayakuspa"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Sefarman (Sefar)"
+    },
+    {
+      "surface": "הר",
+      "gloss": "urquman"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "anti"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:48.533639860Z",
+  "model": "glm-5.3"
+}

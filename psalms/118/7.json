@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 118,
+  "translation": "Yahwe ñuqap yanapakuqniywanmi; chaymi ñuqataq ñuqata ch'ikiykuqkunata qhawasaq.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "yanapakuqniywan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "qhawasaq"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "ñuqata ch'ikiykuqkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:04.390599752Z",
+  "model": "glm-5.3"
+}

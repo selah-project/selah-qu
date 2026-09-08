@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa Aharonmantam ⟨את⟩ Nadab, hinaspa ⟨את⟩ Avihu, ⟨את⟩ Elazar, hinaspa ⟨את⟩ Itamar wachakurqanku.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "wachakurqanku"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadabta"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihuta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazarta"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamarta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:13:13.599873552Z",
+  "model": "glm-5.3"
+}

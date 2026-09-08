@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Kohenkunamanta llapan qharim chayta mikhunqa; willkasqa kitillapi mikhunqa; qodesh qodshim ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "kohenkunamanta"
+    },
+    {
+      "surface": "י אכלנו",
+      "gloss": "chayta mikhunqa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kitipi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "willkasqa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhunqa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qodshim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩mi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:51:47.591785054Z",
+  "model": "glm-5.3"
+}

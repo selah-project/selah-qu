@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Gomerpa churinkunam: Ashkenaz, Rifat, Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "hinaspa churinkuna"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomerpa"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "hinaspa Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "hinaspa Togarma"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:03.290748895Z",
+  "model": "glm-5.3"
+}

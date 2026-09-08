@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa ⟨את⟩ wasita thuñichinqa: ⟨את⟩ ruminkunata, hinaspa ⟨את⟩ sach'ankunata, hinaspa ⟨את⟩ wasip tukuy phuspannatawan; llaqtamanta hawaman, ch'ichii tiyanaman apamunqam.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "hinaspa thuñichinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasita"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruminkunata"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "ruminkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sach'ankunata"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "sach'ankunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tukuy phuspannata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "phuspa"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasip"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "hinaspa apamunqam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hawapi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "llaqtamanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tiyanaman"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ch'ichii"
+    }
+  ],
+  "timestamp": "2026-09-08T01:00:04.737851669Z",
+  "model": "glm-5.3"
+}

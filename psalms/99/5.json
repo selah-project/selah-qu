@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 99,
+  "translation": "Yahwe Elohimninchikta hanachiy, hinaspa paypa chakinta tiyachinaman p'akikuy; payqa santu ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "hanachiy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikta"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "hinaspa p'akikuy"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "chakinta tiyachinaman"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "paypa chakinta"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "payqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:19.263304897Z",
+  "model": "glm-5.3"
+}

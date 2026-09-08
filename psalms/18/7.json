@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Sasa kachkaspa Yahweman qayarqani, hinaspa Elohimniyman qaparirqani; payqa wasinmanta ñuqap kunkata uyarirqanmi, ñuqap qapariyqa ñawpaqninman chayarqanmi, paypa rinrinkunaman.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "sasa kachkaspa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap kachkaspa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qayarqani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa...man"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniyman"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "qaparirqani"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "wasinmanta"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ñuqap kunkata"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "ñuqap qapariyqa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ñawpaqninman"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "paypa rinrinkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:27.853952524Z",
+  "model": "glm-5.3"
+}

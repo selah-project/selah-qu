@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Ima? Laninchasaqchu? Manam El laninchasqachu. Ima? Phiñarisaqchu? Manam Yahwem phiñarisqachu.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ima"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "laninchasaqchu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Manam"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "laninchasqachu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ima"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "phiñarisaqchu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Manam"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "phiñarisqachu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    }
+  ],
+  "timestamp": "2026-09-08T02:09:35.191876818Z",
+  "model": "glm-5.3"
+}

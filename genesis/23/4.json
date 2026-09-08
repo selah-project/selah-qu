@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 23:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Q'ipi runa hinaspa tiyaqmi ña kani qamkuna ukhupi; p'anqanapaq chakita qamkunawan ñuqaman qarawaychik, wañusqayta ñawpaqmanta p'anqananpaqmi.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "q'ipi runa"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "hinaspa tiyaq"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ña"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "qamkuna ukhupi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "qarawaychik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "chakinta"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "p'anqanapaq"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "qamkunawan"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "p'anqananpaqmi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wañusqayta"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqmanta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:26.397554553Z",
+  "model": "glm-5.3"
+}

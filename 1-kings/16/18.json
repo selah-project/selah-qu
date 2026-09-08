@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Zimri llaqta hap'isqa ⟨karqan⟩-ta rikuspa, apu wasinpa hatun wasinman yaykurqan, hinaspa ⟨את⟩ apupa wasita ninawan paypatan wanacharqan, hinaspa wañurqanm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "rikuspa"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ta"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "hap'isqa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yaykurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "hatun wasin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "hinaspa wanacharqan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apupa wasita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninawan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "hinaspa wañurqan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:15:36.415553682Z",
+  "model": "glm-5.3"
+}

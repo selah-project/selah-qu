@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 11:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Wañunqam llapan ñawpaq paqarisqa Mitsrayimpa hallp'api: Paropa ñawpaq paqarisqanmanta, tiyananpi tiyaq, kamawan yanawarmi ñawpaq paqarisqanmanta — tunaw qhipanpi kaq — hinaspa llapan uywakunap ñawpaq paqarisqankuna.",
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "wañunqam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ñawpaq paqarisqa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "מבכור",
+      "gloss": "ñawpaq paqarisqanmanta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tiyananpi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kamawan"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ñawpaq paqarisqan"
+    },
+    {
+      "surface": "השפחה",
+      "gloss": "yanawarmi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qhipanpi"
+    },
+    {
+      "surface": "הרחים",
+      "gloss": "tunaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ñawpaq paqarisqa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "uywakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:06.709277881Z",
+  "model": "glm-5.3"
+}

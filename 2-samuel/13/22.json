@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Avshalomqa Amnonwan manam rimarqanchu, mana millayta, mana allinta; imaraykuchus Avshalomqa ⟨את⟩ Amnonta ch'iknirqan, chay imamanta ⟨את⟩ Tamarta — paninta — p'inqachirqan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqanchu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomqa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "mana millayta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ch'iknirqan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "chay imamanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "p'inqachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamarta"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "paninta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:42:43.572063043Z",
+  "model": "glm-5.3"
+}

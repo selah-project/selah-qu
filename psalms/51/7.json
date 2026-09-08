@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Qhawariy: juchapi wachakurqanimi, hinaspa juchapi mamanmi ñuqata wiksayurqan.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "juchapi"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "wachakurqanimi"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "hinaspa juchapi"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "wiksayurqan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:31.203797725Z",
+  "model": "glm-5.3"
+}

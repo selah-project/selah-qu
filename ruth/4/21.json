@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa Shalmon ⟨את⟩ Boazta paqarichirqan, Boaztaq ⟨את⟩ Ovedta paqarichirqan.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Hinaspa Shalmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazta"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "Boaztaq"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovedta"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-09-08T11:30:57.495095283Z",
+  "model": "glm-5.3"
+}

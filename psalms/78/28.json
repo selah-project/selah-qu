@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Chaysi ukyanchispa urmarqan paykunap thampi chawpinpi, wasinkunap muyuriqninpi chayta.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "urmarqansi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "paykunap thampi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqninpi"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "wasinkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:15.298589469Z",
+  "model": "glm-5.3"
+}

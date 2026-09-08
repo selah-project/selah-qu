@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Taki Davidpa. Yahweqa michiqniy⟨kan⟩mi, mana imatapas chusaqchasaqchu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "taki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "michiqniy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ...chu"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "chusaqchasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:58.776827765Z",
+  "model": "glm-5.3"
+}

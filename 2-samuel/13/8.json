@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chaymi Tamar wawqen Amnonpa wasinman rirqan; payqa samisqa karqan. ⟨את⟩ T'anta masata huk'narqan, llusk'achirqan, ñawinpa qayllanpi t'antakunata ruwarqan, chay ⟨את⟩ t'antakunata wayk'urqan.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnonpa"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "wawqen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "samisqa"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "huk'narqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "t'anta masata"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "t'anta masata"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "llusk'achirqan"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "ñawinpa qayllanpi"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "wayk'urqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "t'antakunata"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "t'antakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T04:40:53.368514108Z",
+  "model": "glm-5.3"
+}

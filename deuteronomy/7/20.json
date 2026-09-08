@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaymanta Yahwe Elohimniyki ⟨את⟩ tsitsinata paykunaman kachanqa, saqirusqakuna qam ñawpaqmanta pakakusqakunawan chinkanan kama.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Chaymanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsitsinata"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "tsitsinata"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "kachanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "chinkanan"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "saqirusqakuna"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "pakakusqakunawan"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "qam ñawpaqmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:34:43.552162260Z",
+  "model": "glm-5.3"
+}

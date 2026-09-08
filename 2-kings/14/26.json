@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Imaraykum Yahwe rikurqan ⟨את⟩ Israelpa ñakayta, sinchi llaquilla kasqanta; watasqapas mana, saqisqapas mana, Israelpaq yanapakuqpas mana karqanchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa ñakayta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ñakay"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "llaquilla"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "watasqa"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "saqisqa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yanapakuq"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:37:27.141372910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Muchuyniy hunt'aachikun hatunyachisqaykiwan, tukuy p'unchaw sumaq kayniykiwan.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "hunt'aachikun"
+    },
+    {
+      "surface": "פי",
+      "gloss": "muchuyniy"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "hatunyachisqaykiwan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "sumaq kayniykiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:53.204064603Z",
+  "model": "glm-5.3"
+}

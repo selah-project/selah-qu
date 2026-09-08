@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Ninaawan ruphachisqam, kuchusqam; uyaykipa garayayninmanta chinkankum.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "ruphachisqam"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninaawan"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "kuchusqam"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "garayayninwan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uyaykipa"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "chinkankum"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:01.774518963Z",
+  "model": "glm-5.3"
+}

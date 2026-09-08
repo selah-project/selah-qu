@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Yahwepa makinninqa kay urqupi saminqam, chaytaq Moav pay urapi sarunchasqa kanqa, hinatam saphsa sarunchasqa kachkan wayq'a ukhupi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "saminqa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "makin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "kay urqupi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "sarunchasqa kanqa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pay urapi"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "hinatam sarunchasqa kachkan"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "saphsa"
+    },
+    {
+      "surface": "במי",
+      "gloss": "ukhupi"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "wayq'api"
+    }
+  ],
+  "timestamp": "2026-09-08T06:07:03.075707305Z",
+  "model": "glm-5.3"
+}

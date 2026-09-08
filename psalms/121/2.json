@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 121,
+  "translation": "Ñuqap yanapaywaymi Yahwemanta shamunqa, hanaq pachatawan kay pachata ruwaq.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "ñuqap yanapayway"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "manta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwemanta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachatawan"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "kay pachata"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:27.149771706Z",
+  "model": "glm-5.3"
+}

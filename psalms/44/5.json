@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Qammi apunya kanki ⟨kan⟩, Elohim: Yaakovpaq qispichiykunata kamachiy.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanki ⟨kan⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apunya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachiy"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "qispichiykunata"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:43.777883851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yahwem paypa ukhunpi cheqche kaqmi, llullata mana ruwanqachu; tutamanta, tutamanta paqtachayninta k'anchayman qunmi, manam chinkanqachu; icha llullaq runaqa p'inqakuyta manam yachanchu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cheqche kaq"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "paypa ukhunpi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwanqachu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "llullata"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "paqtachayninta"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qunmi"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "k'anchayman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "chinkanqachu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichaqa mana"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yachanchu"
+    },
+    {
+      "surface": "עול",
+      "gloss": "llullaq runa"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "p'inqakuyta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:16:57.266171437Z",
+  "model": "glm-5.3"
+}

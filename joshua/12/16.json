@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Makedah (Makeda) apun, hukmi; Bet-El (Betel) apun, hukmi.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makedah (Makeda)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-El (Betel)pa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El (Betel)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:16:15.255420838Z",
+  "model": "glm-5.3"
+}

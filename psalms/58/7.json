@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 58,
+  "translation": "Elohim, pakiy kirunkunata siminkupi; k'ipa pumakunap hatun kirunkunata thunay, Yahwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "pakiy"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "kirunkunata"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "siminkupi"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "hatun kirunkunata"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "k'ipa pumakunap"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "thunay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:44.272430429Z",
+  "model": "glm-5.3"
+}

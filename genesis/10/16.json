@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspam ⟨את⟩ Yebusita, ⟨את⟩ Emorita, ⟨את⟩ Girgashita.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspam ⟨את⟩",
+      "marks": "Yebusita"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yebusita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Emorita"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Girgashita"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashita"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:36.924528213Z",
+  "model": "glm-5.3"
+}

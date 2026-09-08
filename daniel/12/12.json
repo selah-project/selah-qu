@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Kusikunmi chay suyaq, waranqa kimsa pachak kimsa chunka phisqa p'unchawkunaman chayanqataq.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kusikunmi"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "chay suyaq"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "chayanqataq"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "p'unchawkunaman"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "hinaspa phisqa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:05:08.521458845Z",
+  "model": "glm-5.3"
+}

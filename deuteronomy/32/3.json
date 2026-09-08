@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Yahwepa sutinta willayraykumi: quykichik Elohimninchikpaq hatun kayta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "raykumi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "willay"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "quykichik"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "hatun kayta"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimninchikpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:26:53.864779669Z",
+  "model": "glm-5.3"
+}

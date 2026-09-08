@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Chaymanta Baal Peorman watakurqankum, wañusqakunap qhoranchasqankunatawan mikhurqanku.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "watakurqankum"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal ... man"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mikhurqanku"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qhoranchasqankunatawan"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "wañusqakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:34.109817393Z",
+  "model": "glm-5.3"
+}

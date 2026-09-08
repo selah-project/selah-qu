@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "ezekiel 11:11",
+ "book": "ezekiel",
+ "lang": "qu",
+ "chapter": 11,
+ "translation": "Chayqa (kay llaqta) manam manka kanqa qamkunapaq; qamkunataqmi paypa ukhupi aycha hina kanqakichik; Israelpa saywankunaman juicioninkichikta ruwasaq ⟨את⟩ qamkunata.",
+ "tokens": [
+  {
+   "surface": "היא",
+   "gloss": "chayqa"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "תהיה",
+   "gloss": "kanqa"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "qamkunapaq"
+  },
+  {
+   "surface": "לסיר",
+   "gloss": "manka"
+  },
+  {
+   "surface": "ואתם",
+   "gloss": "qamkunataq"
+  },
+  {
+   "surface": "תהיו",
+   "gloss": "kanqakichik"
+  },
+  {
+   "surface": "בתוכה",
+   "gloss": "paypa ukhupi"
+  },
+  {
+   "surface": "לבשר",
+   "gloss": "aycha hina"
+  },
+  {
+   "surface": "אל",
+   "gloss": "saywankunaman"
+  },
+  {
+   "surface": "גבול",
+   "gloss": "saywankunaman"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "אשפט",
+   "gloss": "juicioninkichikta ruwasaq"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ qamkunata",
+   "marks": "juicioninkichikta ruwasqa"
+  }
+ ],
+ "timestamp": "2026-09-08T07:57:23.890589308Z",
+ "model": "glm-5.3"
+}

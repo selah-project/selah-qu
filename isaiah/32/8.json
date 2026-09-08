@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Sumaq sunquyuqqa sumaq sunqu yuyaykunatam yuyachin; payqa chay sumaq sunquykunawanmi sayakanqa.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "Sumaq sunquyuqqa"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "sumaq sunqu yuyaykunata"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "yuyachin"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "chay...wan"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "sumaq sunquykunawan"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sayakanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:11:51.073267931Z",
+  "model": "glm-5.3"
+}

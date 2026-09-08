@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 11:18",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chaymi ch'usaq pachapi purirqanku, ⟨את⟩ Edompa hallp'atawan muyurqanku, hinaspa ⟨את⟩ Moabpa hallp'atawan, inti lluqsimuq ladunmanta Moabpa hallp'aman chayarqanku; hinaspa Arnón hawanpi rawk'arqanku, mana Moabpa saywanman chayarqankuchu, imaraykuchus Arnónmi Moabpa saywanmi karqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pachapi"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "muyurqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edompa hallp'a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edompa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabpa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqanku"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "lluqsimuq ladunmanta"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabpa"
+    },
+    {
+      "surface": "ויחנון",
+      "gloss": "rawk'arqanku"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnón"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "באו",
+      "gloss": "chayarqankuchu"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "saywanman"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Arnónmi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "saywanmi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabpa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:51:34.404326303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Paytaq nirqan: manam atiyniyuqkunap qaparikuynin kanchu, manataq llakikusqakunap qaparikuynin kanchu; takispa qapariytañam ñuqam uyani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam... kanchu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "qapariy"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "qaparikuy"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "atiyniyuq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manataq... kanchu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "qapariy"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "qaparikuy"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "llakikusqa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "qapariy"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "qaparikuy (takiy)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyani"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:13.147173022Z",
+  "model": "glm-5.3"
+}

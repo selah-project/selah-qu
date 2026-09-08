@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Ñuqataqmi ñuqap samayniypi niyarqani: manam wiñaypaq sarunchakushaqchu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ñuqataqmi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "niyarqani"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "ñuqap samayniypi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "manam ... chu"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sarunchakushaq"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:21.922806241Z",
+  "model": "glm-5.3"
+}

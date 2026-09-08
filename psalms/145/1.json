@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Yupaychay qillqa Davidpa. Qanta hanqallachisaqmi, Elohimniy, apu; hinaspa Sutiykita bendisichaq wiñaypaq, wiñaynanpachallapitaq.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "yupaychay qillqa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "qanta hanqallachisaqmi"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "hinaspa bendisichaq"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiykita"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñaynanpachallapitaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:30.709532375Z",
+  "model": "glm-5.3"
+}

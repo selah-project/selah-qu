@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "psalms 49:8",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 49,
+ "translation": "Wawqetataq manam runa qispichiyta atunchu; Elohimmanqa manam qispichiy qullqinta quyninqachu.",
+ "tokens": [
+  {
+   "surface": "אח",
+   "gloss": "wawqeta"
+  },
+  {
+   "surface": "לא",
+   "gloss": "manam"
+  },
+  {
+   "surface": "פדה",
+   "gloss": "qispichiy"
+  },
+  {
+   "surface": "יפדה",
+   "gloss": "qispichiyta atunchu"
+  },
+  {
+   "surface": "איש",
+   "gloss": "runa"
+  },
+  {
+   "surface": "לא",
+   "gloss": "manam"
+  },
+  {
+   "surface": "יתן",
+   "gloss": "quyninqa"
+  },
+  {
+   "surface": "לאלהים",
+   "gloss": "Elohimman"
+  },
+  {
+   "surface": "כפרו",
+   "gloss": "qispichiy qullqinta"
+  }
+ ],
+ "timestamp": "2026-09-08T09:47:49.984027526Z",
+ "model": "glm-5.3"
+}

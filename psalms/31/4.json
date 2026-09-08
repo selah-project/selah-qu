@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Qammi kanki ñuqap rumiy, ñuqap pukaray; chayrayku Sutiyki raykum ñuqata pusaway, ñawinchaywapusway.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ñuqap rumiy"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ñuqap pukaray"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "chayrayku ... rayku"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiyki"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "pusaway"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "ñawinchaywapusway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:39.477656013Z",
+  "model": "glm-5.3"
+}

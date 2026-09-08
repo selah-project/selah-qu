@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa wawan mamam nirqanmi: Yahwem kawsan, nefeshniyki kawsan, ama saqiykichu qamta nispa. Chaymi sayarirqan, hinaspa pay qatiran.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maman"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "hinaspa kawsan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshniyki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "saqiykichu qamta"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "pay qatiran"
+    }
+  ],
+  "timestamp": "2026-09-08T05:25:38.945878073Z",
+  "model": "glm-5.3"
+}

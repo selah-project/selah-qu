@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Israelmi Yahwepi qespichikun, wiñaypaq qespichiywan; mana p'inqakunkichikchu, hinaspa mana p'inqarikunkichik wiñay wiñaykama.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "qespichikun"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "qespichiy"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "p'inqakunkichikchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "p'inqarikunkichik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    }
+  ],
+  "timestamp": "2026-09-08T06:32:10.949472379Z",
+  "model": "glm-5.3"
+}

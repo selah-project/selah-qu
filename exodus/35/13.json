@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "⟨את⟩ mesata, hinaspa ⟨את⟩ k'aspinkunata, hinaspa ⟨את⟩ tukuy llamk'anankunanta, hinaspa ⟨את⟩ Rikuchiypa t'antatawan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesata"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "k'aspinkunata"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "k'aspinkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tukuy llamk'anankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "llamk'anankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Rikuchiypa t'antatawan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "Rikuchiypa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:22.722444753Z",
+  "model": "glm-5.3"
+}

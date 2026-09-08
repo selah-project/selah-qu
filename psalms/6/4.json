@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa nefeshniyqa anchatam mancharirqan; hinaspa qam, Yahwe, haykama?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "hinaspa nefeshniyqa"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "mancharirqan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anchata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa qam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "haykama"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:08.425900712Z",
+  "model": "glm-5.3"
+}

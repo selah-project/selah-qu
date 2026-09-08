@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Davidpa, Avimelek (Abimelek) ñawpaqen ⟨את⟩ imayna rikurita tikraspam, chaym payta qarqurqan, hinaspa rirqan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "imayna rikurita tikraspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imayna rikurita"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "imayna rikurita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "chaym payta qarqurqan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "hinaspa rirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:02.276591024Z",
+  "model": "glm-5.3"
+}

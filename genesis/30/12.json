@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Chaymanta Zilpah, Leahpa yanasan, Yaakovman iskay ñiqin churiyta wacharqan.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpah"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "yanasan"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leahpa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churiyta"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakovman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:02:35.407603953Z",
+  "model": "glm-5.3"
+}

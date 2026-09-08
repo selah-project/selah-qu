@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Willakuy masiykikunaman: Ammi (ñuqap runay); hinaspa panaykikunaman: Ruhamah (khuyasqay).",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "willakuy"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "masiykikunaman"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (ñuqap runay)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "hinaspa panaykikunaman"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah (khuyasqay)"
+    }
+  ],
+  "timestamp": "2026-09-08T08:47:11.167009120Z",
+  "model": "glm-5.3"
+}

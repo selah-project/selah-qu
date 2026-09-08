@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 144,
+  "translation": "Elohim, musuq takita qamman takisaq; nebel chunka watarayuqwan qamman tandarqasaq.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "takisaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nebelwan"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "chunka watarayuq"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "tandarqasaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:10.776020689Z",
+  "model": "glm-5.3"
+}

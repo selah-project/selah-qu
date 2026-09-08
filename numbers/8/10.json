@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa qam ⟨את⟩ Leviyakunata Yahwep ñawpaqninpi churankim; hinaspa Israel wawakunam ⟨את⟩ makiykuta Leviyakunap patanpi churanqaku.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "Hinaspa qam ... churankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leviyakunata"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviyakunata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "hinaspa ... churanqaku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakunam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makiykuta"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "makiykuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviyakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T13:25:13.993515214Z",
+  "model": "glm-5.3"
+}

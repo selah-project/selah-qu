@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 18:4",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Paymi ⟨את⟩ hanaq muchhana markakunata qichurqan, hinaspa ⟨את⟩ saywachakunata p'akirqan, hinaspa ⟨את⟩ Asherata kuchurqan; hinaspa chay q'illay mach'aqwayta, Moshepa ruwasqanta, pisi-pisilla p'akirqan — chayrayku chay p'unchawkunakama Israelpa churinkuna payta q'uwawan muchachkanku karqan; chaymanta payta Nejustan suticharqan.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "qichurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanaq muchhana markakunata"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "hanaq muchhana markakuna"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "hinaspa p'akirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saywachakunata"
+    },
+    {
+      "surface": "המצבת",
+      "gloss": "saywachakuna"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "hinaspa kuchurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherata"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "וכתת",
+      "gloss": "hinaspa pisi-pisilla p'akirqan"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "mach'aqway"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "q'illay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "chaykuna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מקטרים",
+      "gloss": "q'uwawan muchachkanku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "suticharqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "נחשתן",
+      "gloss": "Nejustan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:42:07.028047078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Orqokunata, q'ollratakunatawan ch'usaqchanisaqmi, llapan chhulli yurakunantin ch'akichisaq; mayukunata ch'aki hallp'aman t'ikrasaqmi, quchakunatawan ch'akichisaqmi.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "ch'usaqchanisaq"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "orqokunata"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "hinaspa q'ollratakunata"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "chhulli yurakunantin"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "ch'akichisaq"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "hinaspa t'ikrasaq"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mayukunata"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "ch'aki hallp'aman"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "hinaspa quchakunata"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "ch'akichisaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:24:48.748745735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 39:22",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hinaspa wichq'ana wasiypa sichuqm Yosefpa makinman ⟨את⟩ chay wichq'ana wasipi kasqan tukuy wichq'asqa runakunata qurqan; hinaspa ⟨את⟩ chaypi ruwasqankuna llapanmanta paymi karqan ruwaq.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "qurqan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sichuqm"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasiy"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "wichq'ana"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinman"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy wichq'asqa runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "האסירם",
+      "gloss": "wichq'asqa runakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "wichq'ana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tukuy ruwasqankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ruwasqankuna"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:00:36.108070602Z",
+  "model": "glm-5.3"
+}

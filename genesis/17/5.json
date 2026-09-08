@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Manam ña qamta ⟨את⟩ sutiykita Avram sutiwan llamankunchu; sutiykiqa Avraham kanqa, imaraykuchus askha suyukunap taytanta qamta churarqanim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "llamankunchu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ña"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutiykita"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sutiyki"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sutiyki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tayta"
+    },
+    {
+      "surface": "המון",
+      "gloss": "askha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "suyukuna"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "qamta churarqanim"
+    }
+  ],
+  "timestamp": "2026-09-07T23:57:07.239975986Z",
+  "model": "glm-5.3"
+}

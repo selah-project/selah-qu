@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "P'unchawkunaymi lant'u mast'arisqa hina; ñuqaqa ch'uxña hina ch'akirqani.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkunay"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "lant'u hina"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "mast'arisqa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqaqa"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "ch'uxña hina"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "ch'akirqani"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:17.557952365Z",
+  "model": "glm-5.3"
+}

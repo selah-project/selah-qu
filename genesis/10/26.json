@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Yoktan ⟨את⟩ Almodadta, ⟨את⟩ Sheleftawan, ⟨את⟩ Jatsarmawetawan, ⟨את⟩ Yerajtawan wachurqan.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Hinaspa Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wachurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodadta"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Sheleftawan"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Jatsarmawetawan"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Jatsarmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yerajtawan"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yeraj"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:52.749672474Z",
+  "model": "glm-5.3"
+}

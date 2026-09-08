@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa cedrowan techasqa karqanm hananmanta, chay laterakunap patanpi, mayqinkuna chay sunarkunap patanpi karqan: pusaq chunka pichqam, pichqa chunka kimsa sapa qatopi.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "hinaspa techasqa karqanm"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "cedrowan"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "hananmanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "chay laterakunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sunarkunap"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "pusaq chunka"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "hinaspa pichqa"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "sapa qatopi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:03:49.762028415Z",
+  "model": "glm-5.3"
+}

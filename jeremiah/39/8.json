@@ -1,0 +1,68 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "jeremiah 39:8",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 39,
+ "translation": "Hinaspa Kashdeykunam ⟨את⟩ apu wasinta, hinaspa ⟨את⟩ runap wasinta ninawan rupharachirqaku, hinaspa ⟨את⟩ Yerushalayimpa pirqakunatam thunqurqaku.",
+ "tokens": [
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "apu wasinta"
+  },
+  {
+   "surface": "בית",
+   "gloss": "wasinta"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "apu"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "runap wasinta"
+  },
+  {
+   "surface": "בית",
+   "gloss": "wasinta"
+  },
+  {
+   "surface": "העם",
+   "gloss": "runap"
+  },
+  {
+   "surface": "שרפו",
+   "gloss": "rupharachirqaku"
+  },
+  {
+   "surface": "הכשדים",
+   "gloss": "Kashdeykuna"
+  },
+  {
+   "surface": "באש",
+   "gloss": "ninawan"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "pirqakunata"
+  },
+  {
+   "surface": "חמות",
+   "gloss": "pirqakunata"
+  },
+  {
+   "surface": "ירושלם",
+   "gloss": "Yerushalayimpa"
+  },
+  {
+   "surface": "נתצו",
+   "gloss": "thunqurqaku"
+  }
+ ],
+ "timestamp": "2026-09-08T07:30:23.146012630Z",
+ "model": "glm-5.3"
+}

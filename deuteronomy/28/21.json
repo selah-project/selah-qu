@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Yahwem ⟨את⟩ unquyta qamman k'askachispa hunt'achinqa, ⟨את⟩ qamta hallp'ap patanmanta puchukachispa, mayman qam yaykunki chay hallp'ata hap'inaykipaq kama.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "k'askachispa hunt'achinqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unquyta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "unquy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "puchukachispa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamta"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "patanmanta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayman"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaykunki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "hallp'ata hap'inaykipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:55:26.455866106Z",
+  "model": "glm-5.3"
+}

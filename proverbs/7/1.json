@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Waway, simillaykita waqaychay, kamachikuykunaytaq ⟨את⟩ qamwan pakay.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Waway"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "waqaychay"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "simillaykita"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "kamachikuykunaytaq"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "pakay"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan",
+      "marks": "kamachikuykunayta (H854 'kikinwan' kasqanrayku)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:11.935736742Z",
+  "model": "glm-5.3"
+}

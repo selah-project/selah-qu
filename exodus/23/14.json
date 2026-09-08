@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Kimsa kutim wata ukhupi ñuqapaq raymihanki.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "kimsa kuti"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "raymi"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "raymihanki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "wata ukhupi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:21.109801972Z",
+  "model": "glm-5.3"
+}

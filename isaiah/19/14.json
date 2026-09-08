@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Yahwem paypa ukhunpi p'inqay sonqota chaqrumurqan; chaymi paykuna ⟨את⟩ Mitsrayimta llapan ruwayninpi chinkachirqan, machaq runa upyananpi tiqlasqan hina.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "chaqrumurqan"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "paypa ukhunpi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sonqota"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "p'inqay"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "chinkachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "ruwayninpi"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "tiqlasqan hina"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "machaq runa"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "upyananpi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:03:59.622573736Z",
+  "model": "glm-5.3"
+}

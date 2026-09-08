@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Qamllapi appakurqani mama q'arumantapacham; qammi mamaypa ukhumanta hurqusqayki; qampim wiñaypa hatunyachisqay ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "qamllapi"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "appakurqani"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mama q'arumanta"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "ukhumanta"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamaypa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qammi"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "hurqusqayki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "hatunyachisqay"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñaypa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:53.203843671Z",
+  "model": "glm-5.3"
+}

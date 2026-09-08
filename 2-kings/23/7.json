@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspa p'akirqanmim ⟨את⟩ kades runakunap wasinkunata (cult prostitutes), maypi Yahwepa wasipi karqan, maypi warmikuna chaypi Asherapaq wasikunata away karqan.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "p'akirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasinkunata"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "wasinkunata"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kades runakunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "warmikuna"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "away karqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "wasikunata"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "Asherapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:46:50.202175990Z",
+  "model": "glm-5.3"
+}

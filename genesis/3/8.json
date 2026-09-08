@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa uyarisqanku ⟨את⟩ Yahwe Elohimpa rimayninta, wayraylla p'unchawpi huertapi puriykachaqta; runa warmintinwan pakakurqanmi Yahwe Elohimpa ñawpaqninmanta, huertap sach'ankunap chawpinpi.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "uyarisqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohimpa rimayninta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rimayninta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "puriykachaqta"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "huertapi"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "wayraylla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "pakakurqanmi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "warmintinwan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqninmanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sach'ankunap"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "huertap"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:25.096570368Z",
+  "model": "glm-5.3"
+}

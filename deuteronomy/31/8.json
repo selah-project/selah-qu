@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Hinaspa Yahwe, paymi qam ñawpaqnikiypi puriq; paymi qamwan kanqa; qanta wisichinqachu, hinaspa saqewanqachu; ama manchakuychu, hinaspa ama mancharikuychu.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Hinaspa Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ñawpaqnikiypi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "qanta wisichinqachu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "saqewanqachu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "manchakuy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mancharikuy"
+    }
+  ],
+  "timestamp": "2026-09-08T03:03:55.213465608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yahwem Mosheman nirqan: huk umalliq p'unchawpaq, huk umalliq p'unchawpaq ⟨את⟩ korbankunta churanqakum, altarpa janukayninpaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "umalliq"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "p'unchawpaq"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "umalliq"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "p'unchawpaq"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "churanqakum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korbankunta"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "korbankun"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "janukayninpaq"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarpa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:19:45.315547253Z",
+  "model": "glm-5.3"
+}

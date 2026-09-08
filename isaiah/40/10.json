@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Qhawaymi: Adonay Yahwem kallpawan hamunqa, hinaspa mak'inmi paypaq kamachun; qhaway, pagonta paywan ⟨את⟩, hinaspa rurasqanta ñawpaqninpi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "kallpawan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hamunqa"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "hinaspa mak'in"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "kamachun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "pagonta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "pago (pagonta)"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "hinaspa rurasqanta"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:22:39.299310194Z",
+  "model": "glm-5.3"
+}

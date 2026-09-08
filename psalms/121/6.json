@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 121,
+  "translation": "P'unchawpi intim qamta mana llakichinqachu, tutapipas killam qamta mana llakichinqachu.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana … chu"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "llakichinqa"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "tutapipas killa"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tutapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:13.862951238Z",
+  "model": "glm-5.3"
+}

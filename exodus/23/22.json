@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Chiqaqta paypa otoninta uyarispa, ñuqaq willasqakuñata hunt'aspaqa, ñuqaqa awqaykikunap awqanmi kanqa, hinaspa ñawinchaykikunatam ñawinchasaq ⟨את⟩ awqaykikunatawan, ⟨את⟩ ñawinchaykikunatawan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "chiqaqta uyariy"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uyarispa"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "paypa otoninta"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa hunt'anki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenta"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ñuqa willasaq"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "ñuqaqa awqan kanqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awqaykikunata"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaykikunata"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ñawinchasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawinchaykikunata"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ñawinchaykikunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:18.910517837Z",
+  "model": "glm-5.3"
+}

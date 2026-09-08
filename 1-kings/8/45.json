@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hanaq pachapi ⟨את⟩ mañasqankuta, hinaspa ⟨את⟩ qimikuyninkuta uyariwankim, hinaspa mishpatninkuta ruwankim.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "uyariwankim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mañasqankuta"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "mañasqankuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qimikuyninkuta"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "qimikuyninkuta"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ruwankim"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "mishpatninkuta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:06:33.065537234Z",
+  "model": "glm-5.3"
+}

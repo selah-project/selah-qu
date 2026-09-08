@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Yahwem wañuchin, hinaspa kawsachin; Sheolman urayachin, hinaspa hanaqchachin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "wañuchin"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "hinaspa kawsachin"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "urayachin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolman"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "hinaspa hanaqchachin"
+    }
+  ],
+  "timestamp": "2026-09-08T04:00:52.704951570Z",
+  "model": "glm-5.3"
+}

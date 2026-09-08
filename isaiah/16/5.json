@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Jesedwanmi tiyana churasqa kanqa; payqa Davidpa tiendanpi, cheqtawanpi tiyakunqa, chaninchaspa, kamachikuyta maskhaspa, cheqallata utqaylla ruraspa.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "churasqa kanqa"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "jesedwan"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tiyana"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyakunqa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "cheqtawan"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tiendanpi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "chaninchaspa"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "maskhaspa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kamachikuyta"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "utqaylla ruraspa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cheqallata"
+    }
+  ],
+  "timestamp": "2026-09-08T13:43:47.664957204Z",
+  "model": "glm-5.3"
+}

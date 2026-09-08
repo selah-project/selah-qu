@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Kayhina Yahwe Tsebaot nirqanmi: ⟨את⟩ imata Amalek Israelpaq ruwasqantam qhawasqani, mayta ñanpi paypaq wakichirqan, pay Mitsrayimmanta (Egipto) lluqsiptin.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "qhawasqanimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekpa ruwasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqanta"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelpaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wakichirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "pay lluqsiptin"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:16:44.348331917Z",
+  "model": "glm-5.3"
+}

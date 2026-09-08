@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 66:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Chaymi: qhaway, Yahwem ninawan hamunqa, markabninkunataq wayra puyu hina; phiñasqanta sinchita kutichinaypaq, waqyasqantataq ninap sonqhonwan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninawan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hamunqa"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "wayra puyu hina"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "markabninkuna"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kutichinaypaq"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "sinchita"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "phiñasqanta"
+    },
+    {
+      "surface": "וגערתו",
+      "gloss": "waqyasqanta"
+    },
+    {
+      "surface": "בלהבי",
+      "gloss": "ninap sonqhonwan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    }
+  ],
+  "timestamp": "2026-09-08T06:46:25.785455192Z",
+  "model": "glm-5.3"
+}

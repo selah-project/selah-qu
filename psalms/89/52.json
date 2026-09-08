@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Chaywanmi awkaykikuna p'inqachirqanki, Yahwe; chaywanmi Mashiajykiq chaki ñankunanta p'inqachirqanku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Chaywan"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "p'inqachirqanki"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "awkaykikuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaywan"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "p'inqachirqanku"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "chaki ñankunanta"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiajykiq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:54.721180477Z",
+  "model": "glm-5.3"
+}

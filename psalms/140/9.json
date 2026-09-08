@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Yahwe, ama qusunkichu haq'echaqpa munasqankunata; paqtachasqanta ama hunt'arpariykachunkichu, ama hanaqyasunkuchu. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qusunkichu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "munasqankunata"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haq'echaqpa"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "paqtachasqanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "hunt'arpariykachunkichu"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "hanaqyasunkuchu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:52.666315037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Chaymanta Yahwem ⟨את⟩ Iyubta mamarrachimanta kuticharqan, nispataq nirqan:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kuticharqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyubta"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyubta"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "mamarrachimanta"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "mamarrachi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispataq nirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:20:05.432330346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "hinaspa ⟨את⟩ Dedanta (Dedán), hinaspa ⟨את⟩ Temata (Temá), hinaspa ⟨את⟩ Buzta (Buz), hinaspa ⟨את⟩ llapan p'achallkin muyuriyninta k'asusqa runakunata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Dedanta"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan (Dedán)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Temata"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema (Temá)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Buzta"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz (Buz)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "k'asusqa runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "k'asusqa"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "muyuriynin p'achallki"
+    }
+  ],
+  "timestamp": "2026-09-08T07:10:52.068993312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chayrayku Tsiyonpa (Sión) churinpa punkukunapi tukuy yupaychanaykita willanaypaqmi, qispichiykiwan kusikunaypaq.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "willanaypaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "yupaychanayki"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "punkukunapi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "churin"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon (Sión)"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "kusikunaypaq"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "qispichiykiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:17.513266282Z",
+  "model": "glm-5.3"
+}

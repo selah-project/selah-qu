@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinaspa⟨m⟩ ⟨את⟩ iskay shoham rumikunata hurquykunki, hinaspa chaypi Israelpa wawankunap sutinkunata t'ikrashanki.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "hinaspa hurquykunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iskay shoham rumikunata"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "rumikunata"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "hinaspa t'ikrashanki"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sutinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:05.500769611Z",
+  "model": "glm-5.3"
+}

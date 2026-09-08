@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaymanta Moshem hamurqan, runakunap kurakankunata waqyachirqan, ñawpanku churarqan ⟨את⟩ kay llapa simikunata, imatachus Yahwem kamachirqan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waqyachirqan"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "kurakankunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ñawpanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay llapa simikunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "simikunata"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imatachus"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:52.400430059Z",
+  "model": "glm-5.3"
+}

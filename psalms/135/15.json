@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Llaqtakunap rurasqa dioskunanqa qullqi quri ⟨kan⟩mi, runap makinkunap rurasqan.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "rurasqa dioskuna"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "llaqtakunap"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "hinaspa quri"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rurasqa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makinkunap"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:06.241483227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Qumir wayllakunapi puñuchinmi ñuqata, samaq unakunap kinrayninpusan pusawanchikmi.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "wayllakunapi"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "qumir"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "puñuchinmi ñuqata"
+    },
+    {
+      "surface": "על",
+      "gloss": "kinrayninpusan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "unakuna"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "samaq"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "pusawanchikmi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:58.777084558Z",
+  "model": "glm-5.3"
+}

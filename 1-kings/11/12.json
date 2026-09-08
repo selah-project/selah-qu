@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Ichaqa qamp'unchawkunapichu chayta ruwasaqchu, David taytaykirayku; wawaykipa makinmanta saqt'inisaqmi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ichaqa"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "qamp'unchawkunapi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam …chu"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ruwasaq"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…rayku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytayki"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wawaykipa"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "saqt'inisaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:09:51.154332665Z",
+  "model": "glm-5.3"
+}

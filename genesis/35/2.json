@@ -1,0 +1,82 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "genesis 35:2",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 35,
+ "translation": "Yaakovm nirqan wasinman, llapan paywan kaqkunaman: Qichuy ⟨את⟩ wak llaqtakunap dioskunata — qankunap chawpinpi kaqta — hinaspa p'akichikuy, hinaspa p'achaykikunata tikrariy.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "יעקב",
+   "gloss": "Yaakov"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "ביתו",
+   "gloss": "wasinman"
+  },
+  {
+   "surface": "ואל",
+   "gloss": "hinaspa (…)man"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kaqkunaman"
+  },
+  {
+   "surface": "עמו",
+   "gloss": "paywan"
+  },
+  {
+   "surface": "הסרו",
+   "gloss": "qichuy"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "wak llaqtakunap dioskunata"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "dioskunata"
+  },
+  {
+   "surface": "הנכר",
+   "gloss": "wak llaqtakunap"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kaqta"
+  },
+  {
+   "surface": "בתככם",
+   "gloss": "qankunap chawpinpi"
+  },
+  {
+   "surface": "והטהרו",
+   "gloss": "hinaspa p'akichikuy"
+  },
+  {
+   "surface": "והחליפו",
+   "gloss": "hinaspa tikrariy"
+  },
+  {
+   "surface": "שמלתיכם",
+   "gloss": "p'achaykikunata"
+  }
+ ],
+ "timestamp": "2026-09-08T00:09:29.359408628Z",
+ "model": "glm-5.3"
+}

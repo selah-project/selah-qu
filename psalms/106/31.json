@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Chayqa paypaq tsedeq kayninmi yupasqa karqan, tukuy generacionkunaman, wiñaykama.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "yupasqa karqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "tsedeq kaynin"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "generacionkunaman"
+    },
+    {
+      "surface": "ודר",
+      "gloss": ""
+    },
+    {
+      "surface": "עד",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:08.359786096Z",
+  "model": "glm-5.3"
+}

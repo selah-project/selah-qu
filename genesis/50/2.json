@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Yosefm kamachirqan ⟨את⟩ yanapaqninkunata, ⟨את⟩ hampikunata, taytan hampachinankupaq; hampikkunam ⟨את⟩ Israelta hampachirqan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapaqninkunata"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapaqninkunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hampikunata"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "hampikunata"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "hampachinankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytanta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanta"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "hampachirqan"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "hampikkunam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:34.083349278Z",
+  "model": "glm-5.3"
+}

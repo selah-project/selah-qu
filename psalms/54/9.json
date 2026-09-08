@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 54,
+  "translation": "Imaraykum llapa ch'akiymanta qispichirqanmi ñuqata, hinaspa ñawiy awqaykunata rikurqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ch'akiymanta"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "qispichirqanmi ñuqata"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "hinaspa awqaykuna"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:50:25.938537330Z",
+  "model": "glm-5.3"
+}

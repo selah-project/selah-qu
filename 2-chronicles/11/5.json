@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Tiyarqanmi Rejavam (Roboam) Yerushalayimpi (Jerusalén); hinaspa Yehudapi (Judá) hark'ananpaq llaqtakunata ruwarqanmi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqanmi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "hinaspa ruwarqanmi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "hark'ananpaq"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudapi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:58:33.691719158Z",
+  "model": "glm-5.3"
+}

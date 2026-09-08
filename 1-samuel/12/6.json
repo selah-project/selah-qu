@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chaysi Shemuel runakunaman nirqan: Yahwem — ⟨את⟩ Moshe (Moisés)ta hinaspa ⟨את⟩ Aharon (Aarón)ta ruwaq, hinaspa ⟨את⟩ taytaykichikta Mitsrayim (Egipto) hallp'amanta pusamurqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "chaysi nirqan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel (Samuel)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe (Moisés)ta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Aharon (Aarón)ta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Aarón)"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "hinaspa imata"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "pusamurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytaykichikta"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "taytaykichik"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    }
+  ],
+  "timestamp": "2026-09-08T04:12:00.186557547Z",
+  "model": "glm-5.3"
+}

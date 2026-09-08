@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Huñurqankum ⟨את⟩ t'ikranta t'ikrantahina, hinaspa kay pacham millay unchiywan qallarirqan.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "huñurqankum"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "t'ikranta"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "t'ikranta"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "t'ikrantahina"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "millay unchiywan qallarirqan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacham"
+    }
+  ],
+  "timestamp": "2026-09-08T00:24:55.474881891Z",
+  "model": "glm-5.3"
+}

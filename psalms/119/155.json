@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Qispichikuymi karu muchu runakunamanta, imarayku kamachikuyniykita mana maskhankuchu.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "karu"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "muchu runakunamanta"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "qispichikuy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kamachikuyniykita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "maskhankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:35.335164072Z",
+  "model": "glm-5.3"
+}

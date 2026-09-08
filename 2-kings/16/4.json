@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa hanan ch'askakunapipas q'omarqan, q'apaq qasapi sientu ichurqan, llaphi k'anchay sach'akunap uranpipas.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "q'omarqan"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "sientu ichurqan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "hanan ch'askakunapipas"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "q'apaq"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "qasapi"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "uranpipas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llaphi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sach'akunap"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "k'anchay"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:28.789312294Z",
+  "model": "glm-5.3"
+}

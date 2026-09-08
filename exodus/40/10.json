@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Hinaspa ⟨את⟩ ha'ola mizbeajta mishcharqayki, hinaspa ⟨את⟩ achalanninta llapantawan; hinaspa ⟨את⟩ mizbeajta willkachirqayki, chaymi mizbeajqa willkakunap willkan ⟨kan⟩ kanqa.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "mishcharqayki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ha'ola mizbeajta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ha'ola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapantawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "achalannin"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "willkachirqayki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeajta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "willkakunap"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "willkan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:18.670567533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Muchuyrayku ñawiy llakikapunmi; qamta qaywarqani, Yahwe, sapa p'unchaw, qamman makiykunayta mast'arqani.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ñawiy"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "llakikapun"
+    },
+    {
+      "surface": "מני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "muchuy"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "qamta qaywarqani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "mast'arqani"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "makiykunayta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:42.459844458Z",
+  "model": "glm-5.3"
+}

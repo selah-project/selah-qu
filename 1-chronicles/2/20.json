@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hurmi ⟨את⟩ Urita wachachirqan; hinaspa Urimi ⟨את⟩ Betsalelta wachachirqan.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wachachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urita"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "hinaspa Uri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wachachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betsalelta"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    }
+  ],
+  "timestamp": "2026-09-08T12:30:42.461284604Z",
+  "model": "glm-5.3"
+}

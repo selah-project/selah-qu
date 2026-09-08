@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa kohen (sacerdote) llajtamanta lljsqta rikurqan: kohenm ⟨rikun⟩, hinaspa qawariy: tsaraq runamanta tsaraq unancha alliyakusqachu kachkan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hawaman"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "llajtamanta"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "rikun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "qawariy"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "alliyakusqa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "unancha"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "tsaraq runamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:57:55.093156341Z",
+  "model": "glm-5.3"
+}

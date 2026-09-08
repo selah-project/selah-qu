@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 37:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Payta qori q'anchaywan ⟨limp'u qoriwan⟩ wasin ukhupi, wasin hawapipas q'orchirqan; hinaspa paypaq zer (moldura) qori willk'ata muyuriypi rurarqan.",
+  "tokens": [
+    {
+      "surface": "ויצפהו",
+      "gloss": "q'orchirqan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qori"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "llimp'u"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasin ukhupi"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "wasin hawapipas"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "rurarqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zer (moldura)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qori"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriypi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:19.598620640Z",
+  "model": "glm-5.3"
+}

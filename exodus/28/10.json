@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Suqtam ⟨את⟩ sutikunamanta huknin rumipi churanki, hinaspa ⟨את⟩ saqisqa suqtap sutinkunata iskayñiqin rumipi, paqarikusqankuhina.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "sutikunamanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "rumipi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "hukninpi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sutikunata"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sutikunata"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "suqtap"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "saqisqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "rumipi"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "iskayñiqinpi"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "paqarikusqankuhina"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:05.501132815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Chayhina Yahwem nirqan: sinchi awqap hat'asqankuna chaskikunqam, ahataq runap suwasqankunapas qispichikunqam; ⟨את⟩ maqanakuqniykim ñuqa hamutanim, ⟨את⟩ wawakunaykim ñuqa qispichinim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "כה",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sinchipas"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "hat'asqankuna"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sinchi awqap"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "chaskikunqam"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "hinaspa suwasqankuna"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "ahataq runap"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qispichikunqam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "maqanakuqniyki"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "maqanakuqniykim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "hamutanim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawakunayki"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wawakunaykim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "qispichinim"
+    }
+  ],
+  "timestamp": "2026-09-08T06:33:08.132730127Z",
+  "model": "glm-5.3"
+}

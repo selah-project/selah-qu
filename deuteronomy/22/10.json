@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Ama turuwan burruwan kusata chakituychu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "chakituychu"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "turuwan"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "burruwan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kusata"
+    }
+  ],
+  "timestamp": "2026-09-08T02:48:37.562773107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaysi Lot lluqsirqan punkunta paykunaman, hinaspa punkita qhepanta wichq'arqan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsirqan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "punkunta"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "hinaspa punkita"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wichq'arqan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "qhepanta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:56:15.453547849Z",
+  "model": "glm-5.3"
+}

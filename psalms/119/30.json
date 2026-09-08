@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Emuna (chiqap chaninchay) ñanta akllarqanim; mishpataykikunata ñuqap ñawpaypi churarqani.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "emuna"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "akllarqani"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "mishpataykikuna"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "churarqani"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:08.892899246Z",
+  "model": "glm-5.3"
+}

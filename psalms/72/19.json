@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Hinaspa barikuqmi paypa k'anchayninpa suti wiñaypaq; hinaspa paypa k'anchayninmi ⟨את⟩ llapan kay pachata hunt'achun. Amen, hinaspa Amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Hinaspa barikuqmi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suti"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "paypa k'anchayninpa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "hinaspa hunt'achun"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "paypa k'anchayninmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan kay pachata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pachata"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "hinaspa Amen"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:24.957221661Z",
+  "model": "glm-5.3"
+}

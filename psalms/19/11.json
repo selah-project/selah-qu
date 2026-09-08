@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaykunaqa quri-manta aswan munasqam, askha q'illay quri-mantañas; aswan misk'um mishkimanta, sharapa wasimanta hamuqwan.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "munasqam"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "quri-manta"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "hinaspa q'illay quri-manta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "aswan misk'um"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "mishkimanta"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "hinaspa ch'usaq sharapa"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "sharapa wasimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:43.714672746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Imaraykuchus mana allin ruraqkuna kuchisqa kanqakum; Yahwepa suyaqkunaqa llapanmi hallp'ata charinqaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mana allin ruraqkuna"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "kuchisqa kanqakum"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "suyaqkunaqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "llapanmi"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "charinqaku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:15.139001974Z",
+  "model": "glm-5.3"
+}

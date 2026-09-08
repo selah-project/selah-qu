@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Ñuqataq qhichuriku karqani paymanam; ñawinchakuspam umankunta ch'anqarqanku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "karqani"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "qhichuriku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paymanam"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "ñawinchakuspam"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "ch'anqarqanku"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "umankunta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:00.296092352Z",
+  "model": "glm-5.3"
+}

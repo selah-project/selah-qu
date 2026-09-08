@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Rikusqanim ⟨את⟩ kawsaqkunata llapanta, inti ukhupi puriqta, iskay ñiqin waynawan — paymi paypa tiyananpi sayaq.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Rikusqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawsaqkunata llapanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kawsaqkunata"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "puriqta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ukhupi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "waynawan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sayaq"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "paypa tiyananpi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:25.294516196Z",
+  "model": "glm-5.3"
+}

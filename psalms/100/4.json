@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 100,
+  "translation": "Haykuy paypa punkunkunaman agradecimientowan, paypa kanchankunaman alabanzawan; payta yupaychay, paypa Sutinta bendiciy.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Haykuy"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "paypa punkunkunaman"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "agradecimientowan"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "paypa kanchankunaman"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "alabanzawan"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "payta yupaychay"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bendiciy"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "paypa Sutinta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:37.896390868Z",
+  "model": "glm-5.3"
+}

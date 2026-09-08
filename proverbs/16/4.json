@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Yahwem llapata paqtachiranmi paypa munasqanpaq; chaymantapas haq'i runata llaqwi p'unchawpaq.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapata"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "paqtachiran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "paypa munasqanpaq"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "chaymantapas"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haq'i runata"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "p'unchawpaq"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "llaqwi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:44:23.217954244Z",
+  "model": "glm-5.3"
+}

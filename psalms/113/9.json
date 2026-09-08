@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "psalms 113:9",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 113,
+ "translation": "Yahmi mana wawachaq warmita wasiykupi tiyachin, wawakuna-yuq kusilla mamata hina; Yupaychaychik Yahta.",
+ "tokens": [
+  {
+   "surface": "מושיבי",
+   "gloss": "tiyachin"
+  },
+  {
+   "surface": "עקרת",
+   "gloss": "mana wawachaq warmi"
+  },
+  {
+   "surface": "הבית",
+   "gloss": "wasiyku"
+  },
+  {
+   "surface": "אם",
+   "gloss": "mama"
+  },
+  {
+   "surface": "הבנים",
+   "gloss": "wawakuna-yuq"
+  },
+  {
+   "surface": "שמחה",
+   "gloss": "kusilla"
+  },
+  {
+   "surface": "הללו",
+   "gloss": "Yupaychaychik"
+  },
+  {
+   "surface": "יה",
+   "gloss": "Yah"
+  }
+ ],
+ "timestamp": "2026-09-08T10:18:02.549477476Z",
+ "model": "glm-5.3"
+}

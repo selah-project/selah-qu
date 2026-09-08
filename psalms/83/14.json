@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Elohimniy, paykunata tukuchiy muyuna hina, wayra ñawpaqpi q'urpilla hina.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "tukuchiy"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "muyuna hina"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "q'urpilla hina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:53.766963595Z",
+  "model": "glm-5.3"
+}

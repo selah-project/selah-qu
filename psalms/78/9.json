@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Efrayimpa churinkuna, kasqakunata t'irqachiywan ch'ikukuna ⟨arqueros⟩, maqanakuy p'unchawpi kutirirqankum.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimpa"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "t'irqachiywan"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "ch'ikukuna"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kasqakunata"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "kutirirqankum"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "maqanakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:41.097810752Z",
+  "model": "glm-5.3"
+}

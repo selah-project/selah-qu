@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Chaysi Yehizkiyahu apu prinse nkunan chayamurqanku, ⟨את⟩ wakhakunata qhawarqanku; chaymanta ⟨את⟩ Yahweta, ⟨את⟩ Israelpa runantinta agradechiyta willarqanku.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "chayamurqanku chaysi"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu (Ezequías)"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "prinse nkuna"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "qhawarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakhakunata"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "wakhakunata"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "agradechiyta willarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Israelpa runantinta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "runantinta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:16:34.980807614Z",
+  "model": "glm-5.3"
+}

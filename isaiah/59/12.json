@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Imaraykuchus huchanchik ñawpaqykipi askhakapunmi, hinaspa juk'unakunanchik ñuqanchikmanta chiqan willakunmi; imaraykuchus huchanchik ⟨את⟩ kanchikwan, hinaspa pantakunanchikta riqsinchikmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "askhakapun"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "huchanchik"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ñawpaqykipi"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "hinaspa juk'unakunanchik"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "chiqan willakun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ñuqanchikmanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "huchanchik"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ kanchikwan",
+      "marks": "huchanchik"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "hinaspa pantakunanchikta"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "riqsinchik"
+    }
+  ],
+  "timestamp": "2026-09-08T06:40:09.977531666Z",
+  "model": "glm-5.3"
+}

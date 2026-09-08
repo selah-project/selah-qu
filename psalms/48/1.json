@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Shir, mizmor — Korachpa wawanpa.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Shir (taki)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Korachpa wawan"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach (Core)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:17.980742257Z",
+  "model": "glm-5.3"
+}

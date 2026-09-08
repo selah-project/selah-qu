@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Quri mizbeajta (qori altarta) patapi anqas p'achata mast'anku, ⟨את⟩ payta tajas qarawan p'istunku, chaymanta ⟨את⟩ t'ikrankunata churanku.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "mast'anku"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "p'acha"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "anqas"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "p'istunku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "quri mizbeajta"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "p'istanawan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "qara"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tajas"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "churanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "t'ikrankunata"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "t'ikrankuna"
+    }
+  ],
+  "timestamp": "2026-09-08T01:18:18.894138879Z",
+  "model": "glm-5.3"
+}

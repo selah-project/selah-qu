@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Tukuy tulluykta yupaymanchikmani; paykunaqa qhawanku, ñuqata qhawaspa.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "yupaymanchikmani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "tulluykta"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykunaqa"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "qhawanku"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:49.849463398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Bendisqam Yahwe, imaraykuchus ñawpaq mañakuypa kunkanta uyawarqan.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bendisqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyawarqan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kunkanta"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ñawpaq mañakuypa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:21.856654773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Khuri Ahazqa Yahwepa wasinta ⟨את⟩, hinaspa ⟨את⟩ apupa wasinta, umalliqkunap wasintawan t'aqaspa, Ashur apuman qurqanmi; ichaqa manam payman yanapakuyta chaskirqanchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "khuri"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "t'aqaspa qurqan"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "apupa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "umalliqkunap wasintawan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qurqanmi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apuman"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichaqa manam"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "yanapakuyta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T13:13:20.841007712Z",
+  "model": "glm-5.3"
+}

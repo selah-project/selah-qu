@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Yahwem mana llaqtakunap wakichikuyninkunata ch'usaqyarqan, runakunap yuyayninkunatataq mana hunt'achirqan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "ch'usaqyarqan"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "wakichikuyta"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "llaqtakunap"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "mana hunt'achirqan"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "yuyayninkunata"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:09.608179781Z",
+  "model": "glm-5.3"
+}

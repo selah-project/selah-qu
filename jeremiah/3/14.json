@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 3:14",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Kutiy, away taripakuq churiykuna, Yahwepa rimasqanmi: ñuqam qamkunap apu karqani, hinaspa hukta llaqtamanta, iskayta ayllumanta ahatachasaq ⟨את⟩ qamkunata, hinaspa Tsiyonman apamusaq ⟨את⟩ qamkunata.",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churiykuna"
+    },
+    {
+      "surface": "שובבים",
+      "gloss": "away taripakuq"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "rimasqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "בעלתי",
+      "gloss": "apu karqani"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "qamkunap"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "hinaspa ahatachasaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukta"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "llaqtamanta"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "hinaspa iskayta"
+    },
+    {
+      "surface": "ממשפחה",
+      "gloss": "ayllumanta"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "hinaspa apamusaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:52:50.838333092Z",
+  "model": "glm-5.3"
+}

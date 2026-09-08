@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Yanapaykiwan allinmi ruwarqanki, Yahwe, rimayniykiman hina.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ruwarqanki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanapayki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "rimayniykiman hina"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:12.768172292Z",
+  "model": "glm-5.3"
+}

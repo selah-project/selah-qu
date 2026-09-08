@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 15:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Sunquy Moabpaq waqaykachanm, puriqkuna Tsoarmanmi, Eglath Shelishiya (kimsa wata waka) saqen; Luhithpa orqonpi waqaspa orqonmanmi tarpanku, chayrayku Choronayim ñanpi ch'akiy waqayta yarparinkum.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "sunquy"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "Moabpaq"
+    },
+    {
+      "surface": "יזעק",
+      "gloss": "waqaykachan"
+    },
+    {
+      "surface": "בריחה",
+      "gloss": "puriqkuna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "manmi"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "waka"
+    },
+    {
+      "surface": "שלשיה",
+      "gloss": "kimsa wata (Eglath Shelishiya)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "orqon"
+    },
+    {
+      "surface": "הלוחית",
+      "gloss": "Luhithpa"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "waqaspa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "tarpan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "חורנים",
+      "gloss": "Choronayim"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "waqayta"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ch'akiy"
+    },
+    {
+      "surface": "יעערו",
+      "gloss": "yarparinku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:03:43.464706054Z",
+  "model": "glm-5.3"
+}

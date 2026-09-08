@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chunka hukniyoq p'unchawmi Khorov (Horeb)manta, Seir orqo ñanwan, Kadesh Barnea (Cades Barnea) kama.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "hukniyoq"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Khorov (Horeb)manta"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanwan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea (Cades Barnea)"
+    }
+  ],
+  "timestamp": "2026-09-08T02:26:05.835462974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 130,
+  "translation": "Adonay, ñuqap kunkata uyariy; rinrinkuna yarpayuq ⟨kan⟩mi ñuqap mañasqay kunkaman.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ñuqap kunkata"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨kan⟩mi"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "rinrinkuna"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "yarpayuq"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kunkaman"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ñuqap mañasqay"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:21.812789718Z",
+  "model": "glm-5.3"
+}

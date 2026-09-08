@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Shempa churinkunam: Elam, hinaspa Ashur, hinaspa Arpakshad, hinaspa Lud, hinaspa Aram.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shempa"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "hinaspa Ashur"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "hinaspa Arpakshad"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "hinaspa Lud"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "hinaspa Aram"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:40.718232950Z",
+  "model": "glm-5.3"
+}

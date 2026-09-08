@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Inti yaykamuptinmi hinaspa tahaq tukuspa, qhipantaq qollqechasqakunamanta mikhun; paypa mikhunan ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "yaykamun"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "hinaspa tahaq tukuspa"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "qhipantaq"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qollqechasqakuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "paypa mikhunan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:09.519521462Z",
+  "model": "glm-5.3"
+}

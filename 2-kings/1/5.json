@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi willaqkuna payman kutimurqanku; payqa nirqanku: «Imam kayri, kutimurqaykichi?»",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "kutimurqankus"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "willaqkuna"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "kutimurqaykichi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:24:10.290689645Z",
+  "model": "glm-5.3"
+}

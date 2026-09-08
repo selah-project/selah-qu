@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Efrajmm llakichisqa; saphinkum ch'akirusqa; mana phaltata rurankuchu. Chaypas wachakuptinkum, hinaspa wañuchisaq wiksayninkup munasqankunata.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "llakichisqa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajm"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "saphinku"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ch'akirusqa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "phaltata"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "ruranku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chaypas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "puni"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "wachakuptinku"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "hinaspa wañuchisaq"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "munasqankunata"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "wiksayninkup"
+    }
+  ],
+  "timestamp": "2026-09-08T08:48:49.256301025Z",
+  "model": "glm-5.3"
+}

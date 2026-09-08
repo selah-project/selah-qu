@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa ⟨את⟩ willka sut'iita mana llutananchu ichichiinkiichik; ñuqam Israel wawachakunap chawpinpi willkasqa kanqam; ñuqam Yahwem, qamkunata willkachiq.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "llutananchu ichichiinkiichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "willka sut'iita"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suti"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "willka sut'iita"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "willkasqa kanqam"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawachakunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "qamkunata willkachiq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:45.277879334Z",
+  "model": "glm-5.3"
+}

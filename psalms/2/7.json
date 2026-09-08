@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Yahwepa kamachikuyninta willasqayta: Yahwem ñuqaman nirqanmi — Qanmi ñuqap churiy kanki; kay p'unchawmi ñuqata wacharqani.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "willasqayta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manta"
+    },
+    {
+      "surface": "חק",
+      "gloss": "kamachikuyninta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ñuqap churiy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qanmi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchawmi"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "wacharqani"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:04.780613013Z",
+  "model": "glm-5.3"
+}

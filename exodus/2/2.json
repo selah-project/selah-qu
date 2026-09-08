@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "exodus 2:2",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Chay warmim wiksayuq tukurqan, churiyta wacharqan; ⟨את⟩ payta qhawarqan allin ⟨kasqanta⟩, hinaspa kimsa killa payta pakarqan.",
+ "tokens": [
+  {
+   "surface": "ותהר",
+   "gloss": "wiksayuq tukurqan"
+  },
+  {
+   "surface": "האשה",
+   "gloss": "chay warmi"
+  },
+  {
+   "surface": "ותלד",
+   "gloss": "wacharqan"
+  },
+  {
+   "surface": "בן",
+   "gloss": "churiyta"
+  },
+  {
+   "surface": "ותרא",
+   "gloss": "qhawarqan"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩",
+   "marks": "payta"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imarayku"
+  },
+  {
+   "surface": "טוב",
+   "gloss": "allin"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "⟨pay⟩"
+  },
+  {
+   "surface": "ותצפנהו",
+   "gloss": "pakarqan"
+  },
+  {
+   "surface": "שלשה",
+   "gloss": "kimsa"
+  },
+  {
+   "surface": "ירחים",
+   "gloss": "killa"
+  }
+ ],
+ "timestamp": "2026-09-08T00:20:56.430866870Z",
+ "model": "glm-5.3"
+}

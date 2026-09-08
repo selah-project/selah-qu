@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Sunqun munayninta payman qurqanki, wirpankin mañasqantapas mana hark'arqankichu. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "munayninta"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sunqun"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "qurqanki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "mañasqantapas"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "wirpankin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "hark'arqanki"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:00.026426943Z",
+  "model": "glm-5.3"
+}

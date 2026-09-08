@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Ama huchalikuqkunawan ñuqap nefeshniyta apapuwaychu, hinaspa yawar runakunawan ñuqap kawsayniyta ⟨chu⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "apapuwaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "huchalikuqkuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap nefeshniyta"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "hinaspa wan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runa"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "yawar"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ñuqap kawsayniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:15.349159308Z",
+  "model": "glm-5.3"
+}

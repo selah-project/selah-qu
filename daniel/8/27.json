@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 27,
+ "ref": "daniel 8:27",
+ "book": "daniel",
+ "lang": "qu",
+ "chapter": 8,
+ "translation": "Ñuqataq Daniel llakikurqani, hinaspa unqusqa karqani p'unchawkuna; sayarirqanitaq hinaspa ⟨את⟩ apupa llamk'ayta ruwarqani; rikuchiymanta much'arqanitaq, hinaspa mana riqsiq ⟨kan⟩chu.",
+ "tokens": [
+  {
+   "surface": "ואני",
+   "gloss": "ñuqataq"
+  },
+  {
+   "surface": "דניאל",
+   "gloss": "Daniel"
+  },
+  {
+   "surface": "נהייתי",
+   "gloss": "llakikurqani"
+  },
+  {
+   "surface": "ונחליתי",
+   "gloss": "hinaspa unqusqa karqani"
+  },
+  {
+   "surface": "ימים",
+   "gloss": "p'unchawkuna"
+  },
+  {
+   "surface": "ואקום",
+   "gloss": "hinaspa sayarirqani"
+  },
+  {
+   "surface": "ואעשה",
+   "gloss": "hinaspa ruwarqani"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "apupa llamk'ayta"
+  },
+  {
+   "surface": "מלאכת",
+   "gloss": "llamk'ayta"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "apupa"
+  },
+  {
+   "surface": "ואשתומם",
+   "gloss": "hinaspa much'arqani"
+  },
+  {
+   "surface": "על",
+   "gloss": "…manta"
+  },
+  {
+   "surface": "המראה",
+   "gloss": "rikuchiy"
+  },
+  {
+   "surface": "ואין",
+   "gloss": "hinaspa mana"
+  },
+  {
+   "surface": "מבין",
+   "gloss": "riqsiq ⟨kan⟩chu"
+  }
+ ],
+ "timestamp": "2026-09-08T11:58:51.819443754Z",
+ "model": "glm-5.3"
+}

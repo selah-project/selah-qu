@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Hinaspa ⟨את⟩ Yehudap kutiyninta, hinaspa ⟨את⟩ Israelap kutiyninta kutichirqasaq; ñawpaqmanta hina wasicharqasaq.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "kutichirqasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudap kutiyninta"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kutiyninta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Israelap kutiyninta"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "kutiyninta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelap"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "wasicharqasaq"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "ñawpaqmanta hina"
+    }
+  ],
+  "timestamp": "2026-09-08T07:24:31.273884015Z",
+  "model": "glm-5.3"
+}

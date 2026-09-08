@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 149,
+  "translation": "Paykunapi qillqasqa taripata ruwanankupaq; kaymi hatun sumaqmi llapan hasidninkunapaq. Yupaychaychik, Yah.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanankupaq"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paykunapi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "taripata"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "qillqasqa"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "hatun sumaq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan...paq"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hasidninkuna"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:52.867683299Z",
+  "model": "glm-5.3"
+}

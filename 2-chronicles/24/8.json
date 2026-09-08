@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaysi apum kamachirqan, chaymanta huk sanqata rurarqanku, chayta Yahwepa wasinp punkunpi, hawapi churarqanku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "chaymanta rurarqanku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanqata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "chayta churarqanku"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "punkunpi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "hawapi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:11:38.515937872Z",
+  "model": "glm-5.3"
+}

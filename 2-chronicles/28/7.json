@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Zikhri, Efrayimpa sinchi runan, wañuchirqan ⟨את⟩ Maaseyahuta, apup churinta, hinaspa ⟨את⟩ Azriqamta, wasipa kamariqninta, hinaspa ⟨את⟩ Elqanata, apup iskay kaqta.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sinchi runa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaseyahuta"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apup"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Azriqamta"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azriqamta"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "kamariqnin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasipa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Elqanata"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqanata"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "iskay kaqta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apup"
+    }
+  ],
+  "timestamp": "2026-09-08T13:13:41.837059633Z",
+  "model": "glm-5.3"
+}

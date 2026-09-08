@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 16:23",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Sichus Elohimpa samay Shaulman chayamuptin, David ⟨את⟩ hakinorta hap'ispa makinwan waqachirqan; Shaulta samaywan alliyarqan, payqa allin kachkarqan, chaysa mana allin samayqa paymanta ekk'ispa karqan.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "kachkaptin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "samay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulman"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hakinorta"
+    },
+    {
+      "surface": "הכנור",
+      "gloss": "hakinorta"
+    },
+    {
+      "surface": "ונגן",
+      "gloss": "waqachirqan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "makinwan"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "samaywan"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulta"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "וסרה",
+      "gloss": "ekk'ispa karqan"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "samay"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mana allin"
+    }
+  ],
+  "timestamp": "2026-09-08T04:12:59.230894619Z",
+  "model": "glm-5.3"
+}

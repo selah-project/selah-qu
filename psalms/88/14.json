@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Ñuqataq, Yahwe, qamman qaparinim; paqariypachataq ñuqap mañakuyniy qamta ñawpaqta taripan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "qaparinim"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "paqariypachataq"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mañakuyniy"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "qamta ñawpaqta taripan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:03.544238175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Arpaksadm ⟨את⟩ Shelajta wacharqan, hinaspa Shelajtm ⟨את⟩ Eberta wacharqan.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpaksadm"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelajta"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelajta"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "hinaspa Shelajtm"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eberta"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eberta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:29:14.825732382Z",
+  "model": "glm-5.3"
+}

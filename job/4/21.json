@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Manachu paykunap wasin watan paykunapi t'ikrasqa karqan? Wañunkum, manam ⟨kan⟩ yachayniyuqchu.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "t'ikrasqa karqan"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "paykunap wasin watan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunapi"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "wañunkum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "yachayniyuqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:57:50.969664469Z",
+  "model": "glm-5.3"
+}

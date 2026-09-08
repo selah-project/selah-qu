@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Maskankim chayta, manataq tarinkichu: qampa ch'iqichikuyniyki runakuna mana imapas hinamanmi tukunqaku, ch'usaq hinapas, qampa awqanakuyniyki runakunapas.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "maskankim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "tarinkichu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "qampa ch'iqichikuyniyki"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "tukunqaku"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "mana imapas hina"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "ch'usaq hinapas"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakunapas"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "qampa awqanakuyniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T06:23:01.900690337Z",
+  "model": "glm-5.3"
+}

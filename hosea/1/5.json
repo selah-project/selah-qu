@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kanqa chay p'unchawpi Israelpa ⟨את⟩ warak'anta Yizreelpa q'ichwapi p'akirqanim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "p'akirqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warak'anta"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "warak'anta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "q'ichwapi"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:46:25.178199505Z",
+  "model": "glm-5.3"
+}

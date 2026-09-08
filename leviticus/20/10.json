@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa runa huk runap warminwan adulterio ruwaqmi — riqsinpa warminwanmi adulterio ruwarqan — wañuymi wañuchikunqam: adulterio ruwaqmi, adulterio ruwaq warmipas.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "hinaspa runa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "adulterio ruwaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huk runap warminta"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "adulterio ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "riqsinpa warminta"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "riqsinpa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuy"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañuchikunqa"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "adulterio ruwaq"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "adulterio ruwaq warmipas"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:46.733817038Z",
+  "model": "glm-5.3"
+}

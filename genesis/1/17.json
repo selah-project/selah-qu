@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Elohim ⟨את⟩ chaykunata hanaq pachap rakha ñawpaqniyqim churarqan, hallp'ap patan k'anchaychanampaq.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chaykunata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "rakhapi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "k'anchaychanampaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T02:01:23.593725157Z",
+  "model": "glm-5.3"
+}

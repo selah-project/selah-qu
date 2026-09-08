@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Qispichiwawaymi yawar ukhumanta, Elohim, Elohimniy qispichikuq; qalluwiy takinqami chani kayniykiwan.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "qispichiwaway"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "yawar ukhumanta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "qispichikuq"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "takinqa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "qalluwiy"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "chani kayniykiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:34.346641891Z",
+  "model": "glm-5.3"
+}

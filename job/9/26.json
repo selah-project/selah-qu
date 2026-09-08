@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 9:26",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Papyrus q'aytunkuna hina wayqellanmi pasirqanku, anka hina mikhunata ch'anqaspa.",
+  "tokens": [
+    {
+      "surface": "חלפו",
+      "gloss": "wayqellan pasirqankum"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hina (kusawanta)"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "wampunkuna"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "papyrus q'aytu"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "anka hina"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "ch'anqaspa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "-ta (pataman)"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhuna"
+    }
+  ],
+  "timestamp": "2026-09-08T11:01:45.541821848Z",
+  "model": "glm-5.3"
+}

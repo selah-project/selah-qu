@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 14:1",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Shomeron huchanwan q'utu kanqam, imaraykuchus paypa Elohimninmanta thyarikurqanmi; khunanwanpim urmakunqaku, wawankunata thaqnasqa kanqaku, hinaspa wiksayuq warminkunatap ch'akiruspa kichasqa kanqaku.",
+  "tokens": [
+    {
+      "surface": "תאשם",
+      "gloss": "huchanwan q'utu kanqam"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "thyarikurqan"
+    },
+    {
+      "surface": "באלהיה",
+      "gloss": "paypa Elohimninmanta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "khunanwan"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "urmakunqaku"
+    },
+    {
+      "surface": "עלליהם",
+      "gloss": "wawankunata"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "thaqnasqa kanqaku"
+    },
+    {
+      "surface": "והריותיו",
+      "gloss": "hinaspa wiksayuq warminkunatap"
+    },
+    {
+      "surface": "יבקעו",
+      "gloss": "ch'akiruspa kichasqa kanqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T08:51:42.213384360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Allin runakuna achkakaptinmi, runa llakta kusikunmi; mana allin runa kamachiptinqa, runa llakta llakikunmi.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "achkakaptin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "allin runakuna"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kusikun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runa llakta"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "kamachiptinqa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin runa"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "llakikun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runa llakta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:52:41.293664879Z",
+  "model": "glm-5.3"
+}

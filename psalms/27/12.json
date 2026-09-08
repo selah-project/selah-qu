@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Ama churariwawachu awqallaqtaykunap munayninman; ñuqap hayu willaqkunaq qaqpaaqmapakusqam ñuqap contra, hinaspa llakikuyllata samisqankum.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "churariwawachu"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "munayninman"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "awqallaqtaykunap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…m"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "qaqpaaqmapakusqam"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqap contra"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "willaqkunaq"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "hayu"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "samisqankum"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "llakikuyllata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:14.296848621Z",
+  "model": "glm-5.3"
+}

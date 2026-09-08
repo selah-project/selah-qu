@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 143,
+  "translation": "Usqhaytam p'anqaway, Yahwe; wayraymi tukukachkan; ama ñawiykita ñuqamanta pakaychu, chayri jak'uman urmaqkuna hina tukusaq.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "usqhayta"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "p'anqawaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "tukukachkan"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "wayray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "pakaychu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiykita"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "chayri…tukusaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…hina"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "urmaqkuna"
+    },
+    {
+      "surface": "בור",
+      "gloss": "jak'uman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:03.053738313Z",
+  "model": "glm-5.3"
+}

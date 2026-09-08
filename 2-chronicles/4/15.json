@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "⟨את⟩ huklla hatun tiyanata, hinaspa ⟨את⟩ chunka iskayniyuq wakakunata paypa ukhanpi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huklla hatun tiyana"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hatun tiyana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huklla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wakakuna"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "wakakuna"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "paypa ukhanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:55:42.043916233Z",
+  "model": "glm-5.3"
+}

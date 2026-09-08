@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "¡Ay! Ashurmi ⟨kan⟩ ñuqap phiñuyniyuqpa t'ikan, hinaspa paykunap makinkunapim ñuqap linliy.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "¡Ay!"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "t'ikan"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ñuqap phiñuyniyuqpa"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "hinaspa linli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay ⟨kan⟩"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "paykunap makinkunapi"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "ñuqap linliy"
+    }
+  ],
+  "timestamp": "2026-09-08T05:57:30.094023765Z",
+  "model": "glm-5.3"
+}

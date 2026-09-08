@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chayhinataq kay p'unchawkunapi kutirqani, ⟨את⟩ Yerushalayimta (Jerusalén) hinaspa ⟨את⟩ Yehudap wasita allinchanaypaq yuyarqanimi. Ama manchakichichu.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "chayhinataq"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "kutirqani"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "yuyarqani"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "allinchanaypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yehudap wasita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "manchakichichu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:20:56.391693173Z",
+  "model": "glm-5.3"
+}

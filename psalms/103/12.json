@@ -1,0 +1,42 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "psalms 103:12",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 103,
+ "translation": "Antimanta kuntiman karu kasqanhinam, pay ⟨את⟩ pishakunanchikta ñuqanchikmanta karuman karuchirqan.",
+ "tokens": [
+  {
+   "surface": "כרחק",
+   "gloss": "karu kasqan"
+  },
+  {
+   "surface": "מזרח",
+   "gloss": "anti"
+  },
+  {
+   "surface": "ממערב",
+   "gloss": "kuntimanta"
+  },
+  {
+   "surface": "הרחיק",
+   "gloss": "karuman karuchirqan"
+  },
+  {
+   "surface": "ממנו",
+   "gloss": "ñuqanchikmanta"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "pishakunanchikta"
+  },
+  {
+   "surface": "פשעינו",
+   "gloss": "pishakunanchikta"
+  }
+ ],
+ "timestamp": "2026-09-08T10:13:09.710961009Z",
+ "model": "glm-5.3"
+}

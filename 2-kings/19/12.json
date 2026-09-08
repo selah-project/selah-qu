@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "¿Qispichirqankuchu ⟨את⟩ paykunata tiksimuyukunap dioskuna, taytakunaypa chinkachisqankunata — ⟨את⟩ Gozan (Gozán)ta, hinaspa ⟨את⟩ Haran (Harán)ta, Resef (Résef)tawan, hinaspa Edenpa (Edén) wawankunawan, Telasar (Telasar)pi kaptin?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Qispichirqankuchu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "tiksimuyukunap dioskunata"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "tiksimuyukunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "chinkachisqankunata"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "taytakunaypa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozanta"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Haranta"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "Reseftawan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "wawankunawan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edenpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "Telasarpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:43:29.460998989Z",
+  "model": "glm-5.3"
+}

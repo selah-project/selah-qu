@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Hinallataqmi rumita tariypi — churanankupaq —, hinallataq sach'ata tariypi, llapa llamk'ayta ruranankupaq.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "hinallataq rumita tariypi"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "churanankupaq"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "hinallataq sach'ata tariypi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruranankupaq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "llamk'ayta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:41:41.266574166Z",
+  "model": "glm-5.3"
+}

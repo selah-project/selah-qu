@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chayrayku ari runam ⟨את⟩ taytanta, hinaspa ⟨את⟩ mamanta saqinqa, warminwan churanakunqa, huk aychaman tukunqaku.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chayrayku ari"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayrayku ari"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "saqinqa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytanta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "mamanta"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mamanta"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "churanakunqa"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "warminwan"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "tukunqaku"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "huk aychaman"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:22.210283528Z",
+  "model": "glm-5.3"
+}

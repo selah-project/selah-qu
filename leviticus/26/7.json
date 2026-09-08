@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa awqaqkichikta qatikunkichik ⟨את⟩, hinaspa espadaman ñawpaqenkichikman urmakunqaku.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "hinaspa qatikunkichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awqaqkichikta"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "awqaqkichikta"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "hinaspa urmakunqaku"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ñawpaqenkichikman"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "espadaman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:41.211836309Z",
+  "model": "glm-5.3"
+}

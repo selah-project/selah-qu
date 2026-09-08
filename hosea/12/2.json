@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 12:2",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Ephrajim wayratan michhakun, anti wayratawan qatikun; tukuy p'unchawmi llullata, yaqatawan askhachan; hinaspa Ashurwan beritta t'ikranku, hinaspa ñit'ita Mitsrayimman apachinku.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Ephrajim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "michhakun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayrata"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "qatikun"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "anti wayrata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "llullata"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "yaqatawan"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "askhachan"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "beritta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "t'ikranku"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ñit'ita"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayimman"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "apachinku"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:26.714000290Z",
+  "model": "glm-5.3"
+}

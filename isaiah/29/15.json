@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "¡Ay! Yahwemanta ukhuyachispa yuyayninkuta pakaqkuna wayllakusqam; llaqlla ukhupillapitaq rurasqanku, hinaspa ninku: ¿Pitachus ñuqaykuta rikun, pitachus ñuqaykuta riqsin?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "¡Ay!"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "ukhuyachispa pakaqkuna"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwemanta"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "pakayta"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "yuyayninkuta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "hinallaspa"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "llaqlla ukhupi"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "rurasqanku"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "hinaspa ninku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "ñuqaykuta rikun"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "hinaspa pita"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "ñuqaykuta riqsin"
+    }
+  ],
+  "timestamp": "2026-09-08T06:13:26.014894764Z",
+  "model": "glm-5.3"
+}

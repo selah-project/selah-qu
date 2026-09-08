@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaymanta llapa ⟨את⟩ torota mach'aymanta hawaman apamunqam, ch'uyalla pachaman, thasta thastanankaman; hinallataq sach'akunapi ninawan ⟨את⟩ payta yanachanqa; thasta thastanankupi yanachasqa kanqa.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "apamunqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa torota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "toro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "mach'aymanta hawa"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "mach'ay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ch'uyalla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "thastay pacha"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "thasta"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "yanachanqa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "sach'akuna"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "thastay pacha"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "thasta"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "yanachasqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:50:51.593762075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Ñuqataq, jesedniyki askha kasqanwan wasiykiman yaykunim; p'eqaykiman hinata pay imahinaykipi inkillman t'inkinakunim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ñuqataq"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "askha kasqanwan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "yaykunim"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wasiykiman"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "t'inkinakunim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hinata pay"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "pay imahinaykipi"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "inkill"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "mancharikuspa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:40.480245941Z",
+  "model": "glm-5.3"
+}

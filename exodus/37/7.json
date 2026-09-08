@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chaymantam iskay kerubimkunata ruwarqan quriyuq, martillowan llank'isqata: kaporetap iskay ch'ikanninpi ruwarqan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubimkuna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quriyuq"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "martillowan llank'isqa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "משני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ch'ikan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporetap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:34.909559804Z",
+  "model": "glm-5.3"
+}

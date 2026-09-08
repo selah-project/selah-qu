@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Atipunim ñuqap sumaq masiycha, paymi ñuqa suyakurqanimi, ñuqap t'antayta mikhuspa, ñuqaman chaki q'aytunta jat'uncharqan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "atipunim"
+    },
+    {
+      "surface": "איש",
+      "gloss": "masiy"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "sumaq kawsayniyuq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "suyakurqanimi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "mikhuq"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ñuqap t'antayta"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "jat'uncharqan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "chaki q'aytunta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:41.855246232Z",
+  "model": "glm-5.3"
+}

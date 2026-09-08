@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yahweqa ñak'arichisqakunapaq hark'ana patan, sasa pachakunapipas hark'ana patan ⟨kanqa⟩mi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweqa"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "hark'ana patan"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ñak'arichisqakunapaq"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "hark'ana pata"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pachakunapi"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sasa pachakunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:49.694110119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Yahwem nirqan: Qam qikiq yuramanta khuyakunki, chaytaq mana qam llank'arqankichu, mana qam wiñachirqankichu; huk tutam paqarirqan, huk tutallataq chinkapun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "khuyakunki"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qikiq yura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaytaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "llank'arqanki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "wiñachirqanki"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "huk ⟨tuta-pa⟩"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "היה",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "huk tutallataq"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "chinkapun"
+    }
+  ],
+  "timestamp": "2026-09-08T09:04:53.345134622Z",
+  "model": "glm-5.3"
+}

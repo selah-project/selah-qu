@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yachayqa mirawanwan kuska allinmi; intita qhawaqkunapaqqa aswan chaninmi.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachayqa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan kuska"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mirawanwan"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "aswan chaninmi"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "qhawaqkunapaq"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "intita"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:44.228355630Z",
+  "model": "glm-5.3"
+}

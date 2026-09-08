@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 19,
+ "ref": "leviticus 6:19",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 6,
+ "translation": "Hat'ikuchiq kohenmi ⟨את⟩ payta mikhunqa; willka lugarpi mikhuchkanqami, Tupanakuy Carpapa kanchanpi.",
+ "tokens": [
+  {
+   "surface": "הכהן",
+   "gloss": "kohen"
+  },
+  {
+   "surface": "המחטא",
+   "gloss": "hat'ikuchiq"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "⟨את⟩",
+   "marks": "payta"
+  },
+  {
+   "surface": "יאכלנה",
+   "gloss": "payta mikhunqa"
+  },
+  {
+   "surface": "במקום",
+   "gloss": "lugarpi"
+  },
+  {
+   "surface": "קדש",
+   "gloss": "willka"
+  },
+  {
+   "surface": "תאכל",
+   "gloss": "mikhuchkanqa"
+  },
+  {
+   "surface": "בחצר",
+   "gloss": "kanchanpi"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "Carlawan"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "Tupanakuy"
+  }
+ ],
+ "timestamp": "2026-09-08T14:53:16.438642869Z",
+ "model": "glm-5.3"
+}

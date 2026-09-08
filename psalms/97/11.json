@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 97,
+  "translation": "K'anchay chiqap kaqpaq t'aqasqam; chiqap sunquyoqkunapaqtari khusikuy.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "k'anchay"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "t'aqasqa"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "chiqap kaqpaq"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "chiqap...kunapaqtari"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunquyoq"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "khusikuy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:00.401667220Z",
+  "model": "glm-5.3"
+}

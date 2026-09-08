@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Llapatam aswaqta aswaqsaq hallp'apa uyanmanta, Yahwepa nisqanmin.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "aswaqta"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "aswaqsaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapata"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uyan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'apa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nisqanmin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:14:44.314482542Z",
+  "model": "glm-5.3"
+}

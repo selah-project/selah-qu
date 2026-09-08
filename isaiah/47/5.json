@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Ch'inllata tiyay, llanthuman yaykuy, Kasdimpa (Caldeos) wawan; manañam malkukunap apasin hina qamta qayakunqakuchu.",
+  "tokens": [
+    {
+      "surface": "שבי",
+      "gloss": "tiyay"
+    },
+    {
+      "surface": "דומם",
+      "gloss": "ch'inllata"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "llanthuman yaykuy"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "llanthu ukhupi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdimpa (Caldeos)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "ñawpaqta hinata"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "qayakunqaku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "apasin"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "malkukunap"
+    }
+  ],
+  "timestamp": "2026-09-08T06:30:32.333116729Z",
+  "model": "glm-5.3"
+}

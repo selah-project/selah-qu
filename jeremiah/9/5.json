@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Tiyanayki mirmahpa chawpinpi ⟨kan⟩mi; mirmahwan ⟨את⟩ ñuqata riqsiyta mana munankum, Yahwepa neum.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "tiyanayki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mirmahpa"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "mirmahwan"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "mana munankum"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "riqsiyta"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ñuqata"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "Yahwepa neum"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T06:56:24.686608025Z",
+  "model": "glm-5.3"
+}

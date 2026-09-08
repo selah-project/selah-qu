@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 2:15",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa tuta mayu qataripi huqarirqanim, hinaspa hark'api qhawarqani, hinaspa kutirqani, hinaspa jawira punkuta yaykurqani, hinaspa kutirqanim.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "⟨karqani⟩"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "huqarirqanim"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "mayu qataripi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "⟨karqani⟩"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "qhawarqani"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "hark'api"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "hinaspa kutirqani"
+    },
+    {
+      "surface": "ואבוא",
+      "gloss": "hinaspa yaykurqani"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "punkuta"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "jawira"
+    },
+    {
+      "surface": "ואשוב",
+      "gloss": "hinaspa kutirqanim"
+    }
+  ],
+  "timestamp": "2026-09-08T12:18:47.006504048Z",
+  "model": "glm-5.3"
+}

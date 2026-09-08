@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa iskay t'aqa qankichikmanta, llapan Shabatmanta lluqsiqkuna, ⟨את⟩ Yahwep wasin waqyachiyninta apu ñawpaqpi waqyachinqaku.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "hinaspa iskay"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "t'aqa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "qankichikmanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "lluqsiqkuna"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabatmanta"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "hinaspa waqyachinqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waqyachiyninta"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "waqyachiynin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:03.269393737Z",
+  "model": "glm-5.3"
+}

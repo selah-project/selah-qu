@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Imaraykuchus mana perdonawanki ñuqap p'ischuyta, hinaspa mana ⟨את⟩ ñuqap hatun pantayta qichunkichu? Kunanmi q'apiman puñunaypaq; ñawpa tuta maskawankichá, ichataq ñuqaqa manañam kasaqchu.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "perdonawanki"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ñuqap p'ischuyta"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "hinaspa mana ... qichunkichu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap hatun pantayta"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ñuqap hatun pantayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Kunan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunanmi"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "q'apiman"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "puñunaypaq"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "ñawpa tuta maskawankichá"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "maañam kasaqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:58:00.041744230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Warmi mañakunqa wasinpi tiyaq masinmanta, wasinpi muyuq warmimantawan: qullqi imakunata, quri imakunatawan, p'achakunatawan; chayta wawaykichikpa, ususniykichikpawan churankichik; hinaspa ⟨את⟩ Mitsrayimta surq'onkichik.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "mañakunqa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "wasinpi tiyaq masinmanta"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "wasinpi muyuq warmimantawan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "imakunata"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "hinaspa imakunata"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "p'achakunatawan"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "churankichik"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "wawaykichikpa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ususniykichikpa"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "surq'onkichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:15.971522620Z",
+  "model": "glm-5.3"
+}

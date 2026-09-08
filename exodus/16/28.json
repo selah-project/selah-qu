@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa Yahwem Mosheman nirqan: Hayk'akamataq kamachikuykunayta, Torayta waqaychayta mana munankichik?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hayk'akama"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "-taq ...?"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "mana munankichik"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "waqaychayta"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kamachikuykunayta"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "Torayta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:02.291409153Z",
+  "model": "glm-5.3"
+}

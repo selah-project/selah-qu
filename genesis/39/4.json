@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hinaspa Yosefm paypa ñawinpi pañata tariurqan; hinaspa payta yanaparqan ⟨את⟩; hinaspa payta wasinpa umalliqninman churarqan, hinaspa tukuy kaqta paypa makinman kurqan.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "hinaspa ... pañata tariurqan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefm"
+    },
+    {
+      "surface": "חן",
+      "gloss": "pañata"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "paypa ñawinpi"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "hinaspa payta yanaparqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "hinaspa payta ... churarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasinpa umalliqnin"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa tukuy"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kurqan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "paypa makinman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:11:55.150386351Z",
+  "model": "glm-5.3"
+}

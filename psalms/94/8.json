@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Yachariychik, runakunap ñak'ariqkuna, hinaspa yuyay-nnayuqkuna: imaynataq yachariwankichik?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "yachariychik"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ñak'ariqkuna"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "hinaspa yuyay-nnayuqkuna"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "imaynataq"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "yachariwankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:43.583451750Z",
+  "model": "glm-5.3"
+}

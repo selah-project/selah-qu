@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Churay sayaqpiwan qam ataq runa, hatun sumaq kayniykiwan, lliphlliq k'anchayniykiwan.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Churay sayaqpiwan"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "qam"
+    },
+    {
+      "surface": "על",
+      "gloss": "sayaqpiwan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ataq runa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "hatun sumaq kayniykiwan"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "lliphlliq k'anchayniykiwan"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:22.624851544Z",
+  "model": "glm-5.3"
+}

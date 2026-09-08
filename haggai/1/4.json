@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "¿Ñawpa pachachu qamkunapaq, qamkunallapaqmi, wasiykikunapi — techosqakunapi — tiyananpaq, kay wasitaq ch'usaqchasqa kananpaq?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Ñawpa pacha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkunallapaqmi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "tiyananpaq"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "wasiykikunapi"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "techosqakunapi"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "wasitaq kay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ch'usaqchasqa kananpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:15:41.998650271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Mayqinkunasi riqsiqkunaman ninku: «Amaña riqsispa»; hinaspa qhawaqkunaman: «Amaña qhawaspa ñuqanchikman chiqan rimaykunata; ñuqanchikman llamp'u rimaykunata rimankichik, llullakunata qhawankichik».",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunasi"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ninku"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "riqsiqkunaman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "amaña"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "riqsispa"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "hinaspa qhawaqkunaman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "amaña"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "chiqan rimaykunata"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "rimankichik"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "llamp'u rimaykunata"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "qhawankichik"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "llullakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T06:11:33.831330557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chayraykum jurasqanim Eli wasinman: Eli wasinpa jeqanman zebajwan (sacrificio) hinaspa minchawan (ofrenda) manam pampachakunqachu wiñaypakama.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "chayraykum"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jurasqanim"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manam ... -chu"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "pampachakunqachu"
+    },
+    {
+      "surface": "עון",
+      "gloss": "jeqanman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "zebajwan"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "hinaspa minchawan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypakama"
+    }
+  ],
+  "timestamp": "2026-09-08T04:04:16.275263499Z",
+  "model": "glm-5.3"
+}

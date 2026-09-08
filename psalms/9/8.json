@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa Yahwe wiñaypaq tiyakunmi; taripakuypaq tiyananta sayarichirqan.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Hinaspa Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyakunmi"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "sayarichirqan"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "taripakuypaq"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tiyanan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:46.212657132Z",
+  "model": "glm-5.3"
+}

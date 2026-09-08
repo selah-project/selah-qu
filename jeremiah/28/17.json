@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinaspa Hananjah (Ananías) naviqa chay watam, qanchis kaq killapim wañurqan.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananjah"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "chay watapi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "killapi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "qanchis kaq"
+    }
+  ],
+  "timestamp": "2026-09-08T07:16:29.855576089Z",
+  "model": "glm-5.3"
+}

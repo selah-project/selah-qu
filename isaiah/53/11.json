@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 53:11",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 53,
+  "translation": "Nefeshninpa llakikuyninmanta rqachinqam, hunt'akapunqa; yachayninwan chanin yanapakuyniy achka runakunata chaninchinqa, hinaspa payllam pantasqankunata apakapunqa.",
+  "tokens": [
+    {
+      "surface": "מעמל",
+      "gloss": "llakikuyninmanta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Nefeshninpa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rqachinqa"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "hunt'akapunqa"
+    },
+    {
+      "surface": "בדעתו",
+      "gloss": "yachayninwan"
+    },
+    {
+      "surface": "יצדיק",
+      "gloss": "chaninchinqa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "chanin"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapakuyniy"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "achka runakunata"
+    },
+    {
+      "surface": "ועונתם",
+      "gloss": "hinaspa pantasqankunata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paylla"
+    },
+    {
+      "surface": "יסבל",
+      "gloss": "apakapunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:36:38.726370321Z",
+  "model": "glm-5.3"
+}

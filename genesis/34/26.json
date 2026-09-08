@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Hinaspa ⟨את⟩ Hamorta (Hamor) hinaspa ⟨את⟩ paqta Shekhemta q'armina sayaywan wañuchirqanku; hinaspa ⟨את⟩ Dinata Shekhempa wasinmanta aparqanku, lluqsirqankumi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hamorta"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamorta (Hamor)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shekhemta"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhemta"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "paqta"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "wañuchirqanku"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "sayaywan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "q'armina"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "aparqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinata"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinata"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasinmanta"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhempa"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "lluqsirqankumi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:19.076581369Z",
+  "model": "glm-5.3"
+}

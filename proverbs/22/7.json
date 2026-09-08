@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Qhari wakchakunapipas kamachinmi; manuchaq runaman qaskanmi, qullqimaqaqpa.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "wakchakunapi"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "kamachin"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "hinaspa qaskan"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "manuchaq"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "runaman"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "qullqimaqaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:48:14.118006235Z",
+  "model": "glm-5.3"
+}

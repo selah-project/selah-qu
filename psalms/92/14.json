@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Yahwepa wasinpi situsqakunam, Elohimninchikpa patyankunapi phanchinqaku.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "situsqakuna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "patyankunapi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "phanchinqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:25.250015458Z",
+  "model": "glm-5.3"
+}

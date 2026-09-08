@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 1:1",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Karqan Moshe (Moisés), Yahwepa yanapan, wañusqanmanta; chaymanta Yahwem Yehoshuaman (Josué), Nunpa churinman, Moshepa yanapanman, rimarqan kayta willaspa:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipanmanta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañusqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanapan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nunpa"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "yanapan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshepa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta willaspa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:08:07.667753285Z",
+  "model": "glm-5.3"
+}

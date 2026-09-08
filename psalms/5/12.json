@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaymi llapan qampi chaskanakuykuna kusikunqakum; wiñaypata takinqakum; hinaspa pallunkuman; hinaspa Sutiyki munaqkuna qampi kusikunqakum.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "kusikunqakum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "qampi chaskanakuykuna"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypata"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "takinqakum"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "pallunkuman"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "kusikunqakum"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "munaqkuna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:40.865747144Z",
+  "model": "glm-5.3"
+}

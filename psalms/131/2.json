@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "psalms 131:2",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 131,
+ "translation": "Chiqaqmi Nefeshniyta ch'inllachirqani, allinchaspa; hina mamanta chichunta saqisqa wawa hina mamanta: chay hina Nefeshniy ñuqawan kachkan.",
+ "tokens": [
+  {
+   "surface": "אם",
+   "gloss": "chiqaqmi"
+  },
+  {
+   "surface": "לא",
+   "gloss": "⟨mana⟩"
+  },
+  {
+   "surface": "שויתי",
+   "gloss": "allinchaspa"
+  },
+  {
+   "surface": "ודוממתי",
+   "gloss": "ch'inllachirqani"
+  },
+  {
+   "surface": "נפשי",
+   "gloss": "Nefeshniyta"
+  },
+  {
+   "surface": "כגמל",
+   "gloss": "hina mamanta chichunta saqisqa wawa"
+  },
+  {
+   "surface": "עלי",
+   "gloss": "mamanta"
+  },
+  {
+   "surface": "אמו",
+   "gloss": "maman"
+  },
+  {
+   "surface": "כגמל",
+   "gloss": "chay hina …saqisqa wawa"
+  },
+  {
+   "surface": "עלי",
+   "gloss": "ñuqawan"
+  },
+  {
+   "surface": "נפשי",
+   "gloss": "Nefeshniy"
+  }
+ ],
+ "timestamp": "2026-09-08T10:26:50.566976708Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Toraykita sapa p'unchawmi waqaychasaq, wiñay kama, hinaspa hunt'a wiñaypaq.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "waqaychasaq"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toraykita"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sapa p'unchaw"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kama"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hinaspa hunt'a wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:24.210947432Z",
+  "model": "glm-5.3"
+}

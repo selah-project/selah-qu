@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Chirita ch'iqtachkam tikrankunaman hina; chiriynin ñawpaqninpi pitach ahaman atin?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "ch'iqtachkam"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "chirita"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "tikrankunaman hina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "chiriynin"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "chach ahaman atin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:58.025216133Z",
+  "model": "glm-5.3"
+}

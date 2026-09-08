@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 9:10",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "«Hinaspa ⟨את⟩ tukuy imata rurasqanta iskay Emoreap apukunaman, Yarden chayanan hawanpi kaqkunaman: Sijonman, Jeshbonpa apuninman, hinaspa Ogman, Bashanpa apuninman, Ashtarotpi tiqaqman.»",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tukuy imata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurasqanta"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Emoreap apukunaman"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoreap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqkunaman"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "chayanan hawanpi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "Sijonman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Jeshbonpa apuninman"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "hinaspa Ogman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashanpa apuninman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tiqaq"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "Ashtarotpi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:17:23.427539511Z",
+  "model": "glm-5.3"
+}

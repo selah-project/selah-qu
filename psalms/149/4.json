@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "psalms 149:4",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 149,
+ "translation": "Imaraykumi Yahwe runanwan khusikun, humildekunata qespichiywan sumyachin.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "imarayku"
+  },
+  {
+   "surface": "רוצה",
+   "gloss": "khusikun"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "בעמו",
+   "gloss": "runanwan"
+  },
+  {
+   "surface": "יפאר",
+   "gloss": "sumyachin"
+  },
+  {
+   "surface": "ענוים",
+   "gloss": "humildekunata"
+  },
+  {
+   "surface": "בישועה",
+   "gloss": "qespichiywan"
+  }
+ ],
+ "timestamp": "2026-09-08T10:32:26.515050216Z",
+ "model": "glm-5.3"
+}

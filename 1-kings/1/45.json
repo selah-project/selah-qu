@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 1:45",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Tsadoq kohenwan, Natan naviwan payta ⟨את⟩ apu kananpaq Gijonpi unturqankum; chaymanta khusiykuspa wichayarqanku, llaqtam qhaparirqan; chaymi chay simi, chayta qamkunam uyarqankichik.",
+  "tokens": [
+    {
+      "surface": "וימשחו",
+      "gloss": "unturqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta (Tsadoqwan Natanwan llerphichisqata)"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "Natanwan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apu kananpaq"
+    },
+    {
+      "surface": "בגחון",
+      "gloss": "Gijonpi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wichayarqanku"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "khusiykuspa"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "qhaparirqan"
+    },
+    {
+      "surface": "הקריה",
+      "gloss": "llaqtam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "chay simi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "uyarqankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T04:58:18.571230631Z",
+  "model": "glm-5.3"
+}

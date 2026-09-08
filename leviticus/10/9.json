@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yaya hinaspa shukarta ama upyankichu — qam, wawqiykikuna ⟨את⟩ qamwan — Ohel Moedman yaykuspa ama wañunkichischu; kayqa wiñay kamachikuymi wawqiykikunap wiñayninkunapaq.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "yaya"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "hinaspa shukarta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "upyankichu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "wawqiykikuna"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "yaykuspa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "wañunkichischu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "kamachikuy"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "wawqiykikunap wiñayninkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:21.278735780Z",
+  "model": "glm-5.3"
+}

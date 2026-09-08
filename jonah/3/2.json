@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Sayariy, riy Ninwe llaqtaman, hatun llaqtaman, chayman willaway ⟨את⟩ willakusqata, ñuqap qamman rimasqayta.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "riy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "willaway"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "willakusqata"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "willakusqata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimasqayta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:03:29.508263740Z",
+  "model": "glm-5.3"
+}

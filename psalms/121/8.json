@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 121,
+  "translation": "Yahwem lluqsiykusqaykita, chayamuykusqaykitawan waqaychanmi, kay p'unchawmanta wiñaykama.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "waqaychan"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "lluqsiykusqayki"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "chayamuykusqaykiwan"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kay p'unchawmanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "… kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:13.863307075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaymi Shelomo (Salomón) nirqan: Yahwem q'oronpi tiyanankupaq nirqanm.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqanm"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "tiyanankupaq"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "q'oronpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:04:52.925754407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Davidtaq Majanayman chayarqan; Avshalomtaq ⟨את⟩ Yurdenta ch'usaqarqan, pay, Israelpa llapa runakunawan.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Davidtaq"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Majanayman"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "Avshalomtaq"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ch'usaqarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yurdenta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yurdenta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:46:26.367434781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Ama sumaq kayninta sunquyki ukhupi munakuychu, ama hinaspa payqa wirpankunawan qamta apakuchun.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "munakuychu"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "sumaq kayninta"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sunquyki ukhupi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama hinaspa"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "qamta apakuchun"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "payqa wirpankunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:38:26.494740424Z",
+  "model": "glm-5.3"
+}

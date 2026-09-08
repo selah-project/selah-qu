@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Yahwe juzganapaqmi kanqa, ñuqawan qampipura juzgonqam; hinaspa qhawaspa ⟨את⟩ ñuqap pleitoyta juzgaspa, qamta makiykimanta qispichinwanqam.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "juzganapaq"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "juzgonqam"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "qampipura"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "juzgaspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap pleitoyta"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ñuqap pleitoy"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "qispichinwanqam ñuqata"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "qamta makiykimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:23:36.785268975Z",
+  "model": "glm-5.3"
+}

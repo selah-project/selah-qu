@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Sayariy, kay pachap taripakuqnin; kutichiy kunanta humasqa runakunaman.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "taripakuqnin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pachap"
+    },
+    {
+      "surface": "השב",
+      "gloss": "kutichiy"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "kunanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "man"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "humasqa runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:19.565187686Z",
+  "model": "glm-5.3"
+}

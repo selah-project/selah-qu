@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Llapanchikmi huk runap churiyku kanku; cheqen runakunami kanku, qampak servuykicha manam qhawaq runakunachu karqayku.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "llapanchik"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiyku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runap"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "kanku"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "cheqen runakuna"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "kanku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqayku"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qampak servuyki"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "qhawaq runakunachu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:13:07.539458913Z",
+  "model": "glm-5.3"
+}

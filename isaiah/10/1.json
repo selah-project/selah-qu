@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "¡Llakillam kamachikuqkuna mana allin kamachiykunata kamachiq, hinaspa qillqaqkuna muchuymanta qillqaq!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "¡Llakilla"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "kamachikuqkuna"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "kamachiykunata"
+    },
+    {
+      "surface": "און",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "hinaspa qillqaqkuna"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "muchuymanta"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "qillqaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:59:15.595756216Z",
+  "model": "glm-5.3"
+}

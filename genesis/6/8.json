@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Noe (Noé)mi Yahwep ñawpaqenpin chaniyllata tarirqan.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "hinaspa Noe (Noé)"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "tarirqan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chaniy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawpaqenpin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:54.616403867Z",
+  "model": "glm-5.3"
+}

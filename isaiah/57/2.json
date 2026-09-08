@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 57,
+  "translation": "Shalomman chayanmi, paykunap wirinkunapin saminku, chiqa ñanninwan puriqkuna.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "chayanmi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalomman"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "saminku"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "wirinkunapin"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "puriqkuna"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "chiqa ñanninwan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:41:19.322841435Z",
+  "model": "glm-5.3"
+}

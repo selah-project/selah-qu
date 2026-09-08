@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 32:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Killkallaqpa yanapanakunaqan mana allinmi; payqa millay yuyaykunatam yuyachin, llulla rimaykunawan humildekunata nanachinapaq, hinaspa wakcha chaninchayta rimariptinpas.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "Killkallaqpa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "yanapanakunaqa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "זמות",
+      "gloss": "millay yuyaykuna"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "yuyachin"
+    },
+    {
+      "surface": "לחבל",
+      "gloss": "nanachinapaq"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "humildekunata"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "rimaykunawan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "ובדבר",
+      "gloss": "hinaspa rimariptin"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chaninchay"
+    }
+  ],
+  "timestamp": "2026-09-08T06:11:51.073094432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Riqsinim ki Yahwem ñak'ariqpa taripakuyninta ruwanqa, wakchakunap justicianintawan.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "riqsinim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "דין",
+      "gloss": "taripakuyninta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ñak'ariqpa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "justicianinta"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "wakchakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:55.609996640Z",
+  "model": "glm-5.3"
+}

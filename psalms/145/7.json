@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Askha allin kayniykimanta yuyayta phoqchankum; hinaspa pañu kayniykimanta takinkum kusilla.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yuyayta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "allin kayniykimanta"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "phoqchankum"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "hinaspa pañu kayniykimanta"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "takinkum kusilla"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:37.235201879Z",
+  "model": "glm-5.3"
+}

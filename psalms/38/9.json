@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Atipasqa karqanim, machwasqataq — sinchitam; sunquypa llakikuyninmanta ch'iqirqani.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "atipasqa karqani"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "machwasqataq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchita"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ch'iqirqani"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "llakikuyninmanta"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:16.296606987Z",
+  "model": "glm-5.3"
+}

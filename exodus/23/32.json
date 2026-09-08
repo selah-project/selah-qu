@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Manam paykunawan, paykunap diosninkunawanpas Berit ruwankichu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ruwankichu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunawan"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "paykunap diosninkunawanpas"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Berit"
+    }
+  ],
+  "timestamp": "2026-09-08T00:35:30.951368142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Hinaspa ⟨את⟩ churiykunanta qayankim, hinaspa ⟨את⟩ paykunata kutunakunawan (k'utisqa p'achakunawan) p'achachinkim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "churiykunanta"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churiykunanta"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "qayankim"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "hinaspa p'achachinkim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kutunakunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:23.692247952Z",
+  "model": "glm-5.3"
+}

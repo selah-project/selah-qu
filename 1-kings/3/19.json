@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 19,
+ "ref": "1-kings 3:19",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 3,
+ "translation": "Kay warmip wawan ch'isi tutas wañurqan, pay wawata hinarquspa.",
+ "tokens": [
+  {
+   "surface": "וימת",
+   "gloss": "wañurqan"
+  },
+  {
+   "surface": "בן",
+   "gloss": "wawan"
+  },
+  {
+   "surface": "האשה",
+   "gloss": "warmip"
+  },
+  {
+   "surface": "הזאת",
+   "gloss": "kay"
+  },
+  {
+   "surface": "לילה",
+   "gloss": "ch'isi tutas"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "pay"
+  },
+  {
+   "surface": "שכבה",
+   "gloss": "hinarquspa"
+  },
+  {
+   "surface": "עליו",
+   "gloss": "wawata"
+  }
+ ],
+ "timestamp": "2026-09-08T04:58:47.780782273Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Yovelmanta, paymi q'anchis ⟨kan⟩ qamkunapaq; chakramanta ⟨את⟩ paypa rurunta mikunkichikmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "manta"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "q'anchis"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "chakramanta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chakra"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikunkichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa rurunta"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "paypa rurunta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:09:36.104345358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Yahwepa p'anayninqa mana allin ruraqkunap hayñinmi kachkan, paykunap yuyasqankuta hallp'amanta tukuchinampaq.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "p'anay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "ruraqkunap"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "tukuchinampaq"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "yuyasqankuta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:49.555205422Z",
+  "model": "glm-5.3"
+}

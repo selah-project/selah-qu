@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Qamtaq, Yahwe, hananpim wiñaypaq tikrakunki.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Qamtaq"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hananpi"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:35.774023326Z",
+  "model": "glm-5.3"
+}

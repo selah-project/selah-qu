@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "El uyarinm, hinaspa paykunata anchhuchinm, wiñay kawsaqmi, Selah; paykunapqa mana tikrayniyuq kankuchu, chayrayku Elta manam manch'akunchu.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "uyarinm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "hinaspa paykunata anchhuchinm"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wiñay kawsaqmi"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paykunapqa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "tikrayniyuq"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "manch'akunchu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:58.988647661Z",
+  "model": "glm-5.3"
+}

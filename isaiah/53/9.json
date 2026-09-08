@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 53,
+  "translation": "Hinaspa ⟨את⟩ mana allin runakunawan wañusqa wasinta churarqan, hinaspa ⟨את⟩ qollqayuqwan wañuyninpi; imaraykuchus nanachiyta mana ruwarqanchu, manataq llulla simiypi karqanchu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana allin runakunata"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakunawan"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "wañusqa wasinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "qollqayuqwan"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "wañuyninpi"
+    },
+    {
+      "surface": "על",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nanachiyta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "simiypi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:36:38.722432640Z",
+  "model": "glm-5.3"
+}

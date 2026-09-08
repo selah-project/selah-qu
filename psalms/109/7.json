@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Pay juzgasqa kaptinmi, huchayuq hina lluqsimun, hinaspa mañasqan huchamanmi tukun ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "juzgasqa kaptin"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsimun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "huchayuq hina"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "hinaspa mañasqan"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tukun ⟨kan⟩"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "huchaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:30.905061219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspam ⟨את⟩ qamkunata chunka tawa chunka wata ch'usaqpi pusanirqani; chalpakunaykichik manam uch'uyarqanchu qamkunamanta, chhukunaykiq manam uch'uyarqanchu chakiyki ukhunmanta.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "pusanirqani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "chunka tawa chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaqpi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "uch'uyarqanchu"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "chalpakunaykichik"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "qamkunamanta"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "chhukunaykiq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "uch'uyarqanchu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ukhunmanta"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "chakiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T02:57:56.757516439Z",
+  "model": "glm-5.3"
+}

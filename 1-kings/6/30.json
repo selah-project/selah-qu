@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspam ⟨את⟩ wasipa chirunta quriwan qhatayarqan; ukhumanta, hawamantapas.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspam ⟨את⟩",
+      "marks": "wasipa chirunta"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "chirunta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "qhatayarqan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quriwan"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ukhumanta"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "hawamantapas"
+    }
+  ],
+  "timestamp": "2026-09-08T05:02:00.302217823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 108,
+  "translation": "¿Manachu Elohim saqirquwanki ñuqanchikta? ¿Manataq Elohim awqakunanchikwan lluqsinchuchu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "saqirquwanki ñuqanchikta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lluqsinchuchu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "awqakunanchikwan"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:47.063957267Z",
+  "model": "glm-5.3"
+}

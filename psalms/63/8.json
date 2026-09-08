@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Qammi yanapaysaywam karqani; chayrayku phawanayki llanthupi kusilla takisaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "היית",
+      "gloss": "karqani"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "yanapaysay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "hinaspa llanthupi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "phawanayki"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "kusilla takisaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:28.975477652Z",
+  "model": "glm-5.3"
+}

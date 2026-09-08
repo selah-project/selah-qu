@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "¿Ima gananciata apamun yawarpiy, k'iktuman uraykamuptiy? ¿Aphraqa yupaychawankichu? ¿chesqaykita willawanchuchu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "¿Ima"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "gananciata"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "yawarpiy"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "uraykamuptiy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... man"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "k'iktuman"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "yupaychawankichu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "Aphraqa"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "willawanchuchu"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "chesqaykita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:33.842151512Z",
+  "model": "glm-5.3"
+}

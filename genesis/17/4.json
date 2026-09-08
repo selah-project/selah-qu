@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Ñuqa⟨m⟩: qaway, beritninta ⟨את⟩ qampawan, hinaspa askha llaktakunap taytan tukunki.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qaway"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beritninta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qampawan",
+      "marks": "qampawan"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "hinaspa tukunki"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "המון",
+      "gloss": "askha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "llaktakunap"
+    }
+  ],
+  "timestamp": "2026-09-07T23:57:31.811061052Z",
+  "model": "glm-5.3"
+}

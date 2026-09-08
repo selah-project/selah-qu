@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 97,
+  "translation": "Llapa rurasqa dioskunata llamk'aqkuna p'inqaykunqakum, wak imakunapi amtakusqakuna; payman t'iknakuspa, llapa dioskuna.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "p'inqaykunqakum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "llamk'aqkuna"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "rurasqa dioskunata"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "amtakusqakuna"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "wak imakunapi"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "t'iknakuspa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:07.988357086Z",
+  "model": "glm-5.3"
+}

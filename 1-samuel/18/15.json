@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Shaulsi pay aswan yachaysapa kasqanta rikurqan, chaymi payta mancharqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yachaysapa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "mancharqan"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:17:51.053898290Z",
+  "model": "glm-5.3"
+}

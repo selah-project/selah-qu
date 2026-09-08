@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 76,
+  "translation": "Ahrirqariychik Yahweman, Elohimniykichikman, hunt'achiychik; llapan ñawpaqninpi kaqkunapas regalokuna apamunqaku Manchachiqman.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "ahrirqariychik"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "hunt'achiychik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichikman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "ñawpaqninpi kaqkunapas"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "apamunqaku"
+    },
+    {
+      "surface": "שי",
+      "gloss": "regalokuna"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "Manchachiqman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:35.091073851Z",
+  "model": "glm-5.3"
+}

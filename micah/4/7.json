@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 4:7",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Huk'nan amput'asqata ⟨את⟩ qipa qichuqllaman churasaqmi, hayuq kaqta hatun sinchi llaktaman; Yahwe Tsiyon urqupi paykunapurapi kamachinqami, kunanmanta wiñaykama.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "churasaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huk'nan amput'asqata"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "huk'nan amput'asqata"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "qipa qichuqllaman"
+    },
+    {
+      "surface": "והנהלאה",
+      "gloss": "hayuq kaqta"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "hatun llaktaman"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "sinchi atiyniyuq"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "kamachinqami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunapurapi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqupi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kunanmanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:06:11.512787450Z",
+  "model": "glm-5.3"
+}

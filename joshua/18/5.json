@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hinaspa ⟨את⟩ chayta qanchis t'aqaman t'aqasqankum: Yehudam saywampi sayakunqa uralanman, hinaspa Beth Yosef saywankunapi sayakunqaku chinanmanta.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "t'aqasqankum"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chayta"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "t'aqaman"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sayakunqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "saywampi"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "uralanman"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "hinaspa Beth"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "sayakunqaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "saywankunapi"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "chinanmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:26:31.123129640Z",
+  "model": "glm-5.3"
+}

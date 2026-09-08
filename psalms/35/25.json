@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Ama ninkuchu sonqonkukupi: «Aha, munayninchik»; ama ninkuchu ninku: «Chupayku ñuqata».",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ninkuchu"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sonqonkukupi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "munayninchik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ninkuchu"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "chupayku ñuqata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:43:37.206095615Z",
+  "model": "glm-5.3"
+}

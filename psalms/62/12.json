@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Huk kutillata Elohim rimarqanmi, iskay kutitaq kayta uyarirqani: chiqaqta atiymi Elohimpa.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "huk kuti"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iskay kuti"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "uyarirqani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqaqta"
+    },
+    {
+      "surface": "עז",
+      "gloss": "atiynin"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:12.881405789Z",
+  "model": "glm-5.3"
+}

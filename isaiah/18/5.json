@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chayraykum, pallay ñawpaqnin, t'ika tukukuspa, mana-puquq ruru t'ikapi wiñarispa kanqan chay pacha, ⟨pay⟩ ch'ikllakunata kuchunawan kuchunqam, hinaspa ⟨את⟩ romasqakunata hurqunqam, it'unqam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "pallay"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "tukukuspa"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "t'ika"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "hinaspa mana-puquq ruru"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "wiñarispa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqan"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "t'ikapi"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "hinaspa kuchunqam"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "ch'ikllakunata"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "kuchunawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "romasqakunata"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "romasqakunata"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "hurqunqam"
+    },
+    {
+      "surface": "התז",
+      "gloss": "it'unqam"
+    }
+  ],
+  "timestamp": "2026-09-08T06:04:16.104510445Z",
+  "model": "glm-5.3"
+}

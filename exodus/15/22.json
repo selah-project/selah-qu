@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Chaysi Moshem ⟨את⟩ Israelta qollpa quchamanta pusarqan, ch'aki pampa Shurman lluqsirqankum; kimsa p'unchaw ch'aki pampapi purirqanku, manam unutata tarirqankuchu.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "pusarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "qucha"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "qollpa"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "lluqsirqankum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ch'aki pampa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'aki pampapi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "tarirqankuchu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unutata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:05.381635032Z",
+  "model": "glm-5.3"
+}

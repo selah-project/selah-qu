@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "2-chronicles 32:3",
+ "book": "2-chronicles",
+ "lang": "qu",
+ "chapter": 32,
+ "translation": "Hinaspa umalliqninkunawan, sinchi awqaqninkunawanwan yuyaytakasharqan llaqtapa hawanpi kaq pukyokunap ununta ⟨את⟩ wichq'anankupaq; hinaspa payta yanaparqankum.",
+ "tokens": [
+  {
+   "surface": "ויועץ",
+   "gloss": "hinaspa yuyaytakasharqan"
+  },
+  {
+   "surface": "עם",
+   "gloss": "wan"
+  },
+  {
+   "surface": "שריו",
+   "gloss": "umalliqninkuna"
+  },
+  {
+   "surface": "וגבריו",
+   "gloss": "sinchi awqaqninkuna"
+  },
+  {
+   "surface": "לסתום",
+   "gloss": "wichq'anankupaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ununta"
+  },
+  {
+   "surface": "מימי",
+   "gloss": "ununta"
+  },
+  {
+   "surface": "העינות",
+   "gloss": "pukyokunap"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kaykunata"
+  },
+  {
+   "surface": "מחוץ",
+   "gloss": "hariqpi"
+  },
+  {
+   "surface": "לעיר",
+   "gloss": "llaqtapa hawanpi"
+  },
+  {
+   "surface": "ויעזרוהו",
+   "gloss": "hinaspa yanaparqankum"
+  }
+ ],
+ "timestamp": "2026-09-08T13:18:47.578964049Z",
+ "model": "glm-5.3"
+}

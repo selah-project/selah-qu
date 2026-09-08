@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "T'upsurqan simiyman hinaspa nirqan: Qhaway, kayqa wirpaykiman t'upsun; michhu kayniyki qichusqañam, huchayki pampachasqa kanqam.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "T'upsurqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "-man"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simiyman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "t'upsun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kayqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "-man"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "wirpaykiman"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "qichusqañam"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "michhu kayniyki"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "huchayki"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "pampachasqa kanqam"
+    }
+  ],
+  "timestamp": "2026-09-08T05:54:20.202443079Z",
+  "model": "glm-5.3"
+}

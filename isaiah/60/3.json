@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Llaqtakunam k'anchayniykiman purinqaku, apukunataq lluqsiykiykiman k'anchayninman.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "purinqaku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "llaqtakuna"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "k'anchayniykiman"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "apukunataq"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "k'anchayninman"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "lluqsiykiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T13:51:07.269450209Z",
+  "model": "glm-5.3"
+}

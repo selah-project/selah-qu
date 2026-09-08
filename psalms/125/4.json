@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 125,
+  "translation": "Yahwe, allin runakunamanwan allinta ruway, sunqunkunapi chiqtata puriqkunamanwan.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "allinta ruway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "allin runakunaman"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "hinaspa chiqta puriqkunamanwan"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "sunqunkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:28.466959309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Yahwe, ama phiñakuyniykipi ñuqata toqichu, ama llakikuy ñawpaq ñuqata yasarichu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "phiñakuyniykipi"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "toqichu ñuqata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ama ... -chu"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "llakikuy ñawpaq"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "yasarichu ñuqata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:08.425614903Z",
+  "model": "glm-5.3"
+}

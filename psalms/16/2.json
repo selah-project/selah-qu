@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Yahweman nirqanim: Adonay, qam ⟨kanki⟩; ñuqaq allinqa qamanta mana ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "nirqanim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "ñuqaq allin"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:58.143861074Z",
+  "model": "glm-5.3"
+}

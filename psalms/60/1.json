@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Takiq umalliqman, Shushan Eduth (Ñawpaq takipi) nisqapi, Davidpa mikhtam sanamp'asqa taki, yachachinapaq.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "takiq umalliqman"
+    },
+    {
+      "surface": "על",
+      "gloss": "nisqapi"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "yachachinapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:51.659463734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 20:18",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Yehonatanmi payta nirqan: «Paqarin musuq killam; qamta maskhanqakus, tiyanayki ch'usaq kaptin.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "paqarin"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "musuq killa"
+    },
+    {
+      "surface": "ונפקדת",
+      "gloss": "qamta maskhasqa kanqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "maskhasqa kanqa"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "tiyanayki"
+    }
+  ],
+  "timestamp": "2026-09-08T04:21:09.642439190Z",
+  "model": "glm-5.3"
+}

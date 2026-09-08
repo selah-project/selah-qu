@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Paytaq saqirirqan ⟨את⟩ kuraqkunap yuyayninta, mayqenkuna payman qarqanku, chaymantaq ⟨את⟩ waynakunawan masikunata ruwarqan, mayqenkuna paywan ⟨את⟩wan wiñarqanku, mayqenkuna pay ñawpaqninpi sayaq karqankum.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "saqirirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuraqkunap yuyayninta"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "yuyay"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "kuraqkunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenkuna"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "payman qarqanku"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "masikunata ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waynakunawan"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "waynakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenkuna"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "wiñarqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩wan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenkuna"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sayaqkuna"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pay ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:10:30.821972352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Kunanmi hinaspa ⟨את⟩ p'allqasqa rurasqankunata llapanhuntalla hachawan, martillowanpas t'aqllanku.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa",
+      "marks": "p'allqasqa rurasqankunata"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "p'allqasqa rurasqankunata"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "llapanhuntalla"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "hachawan"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "martillowanpas"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "t'aqllanku"
+    }
+  ],
+  "timestamp": "2026-09-08T15:31:25.432317583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 45,
+ "ref": "psalms 89:45",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 89,
+ "translation": "K'anchayninta tukurirqankim, hinaspataq tiyananta hallp'aman urayarqankim.",
+ "tokens": [
+  {
+   "surface": "השבת",
+   "gloss": "tukurirqanki"
+  },
+  {
+   "surface": "מטהרו",
+   "gloss": "k'anchayninta"
+  },
+  {
+   "surface": "וכסאו",
+   "gloss": "hinaspataq tiyananta"
+  },
+  {
+   "surface": "לארץ",
+   "gloss": "hallp'aman"
+  },
+  {
+   "surface": "מגרתה",
+   "gloss": "urayarqanki"
+  }
+ ],
+ "timestamp": "2026-09-08T10:09:34.725760948Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 95,
+  "translation": "Maypi taytakuna ñuqata llawiyirqanku, ñawpa-waqyasqa ñuqata, chaypiña rikurqanku llawiy wasichasqayta.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "llawiyirqanku ñuqata"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "taytakuna"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "ñawpa-waqyasqa ñuqata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chaypiña"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "rikurqanku"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "llawiy wasichasqayta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:21.920763365Z",
+  "model": "glm-5.3"
+}

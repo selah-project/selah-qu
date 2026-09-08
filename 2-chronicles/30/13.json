@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 30:13",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Chaymanta askha runam Yerushalayimman (Jerusalén) huñukurqan, iskay ñiqin killapi ⟨את⟩ matsa raymita ruwanankupaq — sinchi askha aylluntinmi.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "huñukurqan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimman"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsa raymita"
+    },
+    {
+      "surface": "חג",
+      "gloss": "raymi"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "matsa"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "killapi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "aylluntin"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:17:47.917770686Z",
+  "model": "glm-5.3"
+}

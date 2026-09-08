@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Imam karqan: ñawñaq karqanmi; chaytaq kananpaq: ñawñaqñataqmi karqan; ichataq Elohimmi ⟨את⟩ qatisqata maskan.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Imam"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ñawñaq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "chaytaq"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kananpaq"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ñawñaqñataqmi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "ichataq Elohimmi"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "maskan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qatisqata"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "qatisqata"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:47.262505988Z",
+  "model": "glm-5.3"
+}

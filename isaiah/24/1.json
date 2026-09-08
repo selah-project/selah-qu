@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Qhaway: Yahwem hallp'ata ch'usaqchinqa, ch'usaqchasqataq kacharinqa; uyaninta Wik'uchisqataq tikrinqa, hinaspa kawsaqninkunata t'aqasqata kacharinqa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhawash"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "ch'usaqchinqa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "ch'usaqchasqataq kacharinqa"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "Wik'uchisqataq tikrinqa"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "uyaninta"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "hinaspa t'aqasqata kacharinqa"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "kawsaqninkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T06:09:19.791585019Z",
+  "model": "glm-5.3"
+}

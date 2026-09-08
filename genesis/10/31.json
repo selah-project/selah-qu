@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Kaykunam Shempa (Sem) churinkuna karqan, ayllunkunaman hina, siminkunaman hina, hallp'ankunapi, llaqtankunaman hina.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shempa (Sem)"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayllunkunaman hina"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "siminkunaman hina"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "hallp'ankunapi"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "llaqtankunaman hina"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:48.533797784Z",
+  "model": "glm-5.3"
+}

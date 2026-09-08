@@ -1,0 +1,71 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "2-chronicles 8:5",
+ "book": "2-chronicles",
+ "lang": "qu",
+ "chapter": 8,
+ "translation": "Hinaspa pirqarqanmi ⟨את⟩ Beyt Jorónpa hanaq kaqta, hinaspa ⟨את⟩ Beyt Jorónpa uray kaqta, hina wasichasqa llaqtakuna hina, jirk'akunawan, punkukunawan, hinaspa t'jakanawan.",
+ "tokens": [
+  {
+   "surface": "ויבן",
+   "gloss": "pirqarqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Beyt Jorónpa hanaq kaqta"
+  },
+  {
+   "surface": "בית",
+   "gloss": "Beyt"
+  },
+  {
+   "surface": "חורון",
+   "gloss": "Jorón"
+  },
+  {
+   "surface": "העליון",
+   "gloss": "hanaq kaq"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Beyt Jorónpa uray kaqta"
+  },
+  {
+   "surface": "בית",
+   "gloss": "Beyt"
+  },
+  {
+   "surface": "חורון",
+   "gloss": "Jorón"
+  },
+  {
+   "surface": "התחתון",
+   "gloss": "uray kaq"
+  },
+  {
+   "surface": "ערי",
+   "gloss": "llaqtakuna"
+  },
+  {
+   "surface": "מצור",
+   "gloss": "wasichasqa"
+  },
+  {
+   "surface": "חומות",
+   "gloss": "jirk'akunawan"
+  },
+  {
+   "surface": "דלתים",
+   "gloss": "punkukunawan"
+  },
+  {
+   "surface": "ובריח",
+   "gloss": "hinaspa t'jakanawan"
+  }
+ ],
+ "timestamp": "2026-09-08T13:01:20.127886126Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 26,
+ "ref": "jeremiah 2:26",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Suwa tarikuptin p'inqakusqanman hina, Israel wasi p'inqakurqanmi — paykunam, paykunap apunkuna, paykunap umalliqninkuna, hinaspa paykunap kohenninkuna, hinaspa paykunap naviinkuna.",
+ "tokens": [
+  {
+   "surface": "כבשת",
+   "gloss": "p'inqakusqanman hina"
+  },
+  {
+   "surface": "גנב",
+   "gloss": "suwa"
+  },
+  {
+   "surface": "כי",
+   "gloss": "tarikuptin"
+  },
+  {
+   "surface": "ימצא",
+   "gloss": "tari-"
+  },
+  {
+   "surface": "כן",
+   "gloss": "hinam"
+  },
+  {
+   "surface": "הבישו",
+   "gloss": "p'inqakurqanmi"
+  },
+  {
+   "surface": "בית",
+   "gloss": "wasi"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "המה",
+   "gloss": "paykunam"
+  },
+  {
+   "surface": "מלכיהם",
+   "gloss": "paykunap apunkuna"
+  },
+  {
+   "surface": "שריהם",
+   "gloss": "paykunap umalliqninkuna"
+  },
+  {
+   "surface": "וכהניהם",
+   "gloss": "hinaspa paykunap kohenninkuna"
+  },
+  {
+   "surface": "ונביאיהם",
+   "gloss": "hinaspa paykunap naviinkuna"
+  }
+ ],
+ "timestamp": "2026-09-08T06:46:57.064477787Z",
+ "model": "glm-5.3"
+}

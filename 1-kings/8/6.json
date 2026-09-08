@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaymi kohens apamurqanku ⟨את⟩ Yahwepa Beritpa arkanta iman tiyananman, wasip debirninman, Qodesh Qodeshkunaman, kerubimkunap phananpa uranman.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "apamurqanku"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa Beritpa arkanta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkanta"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beritpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iman"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "tiyananman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debirninman"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasip"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qodesh"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "Qodeshkunaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uranman"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "phananpa"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubimkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T05:06:06.218008362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa paypa awqakunan, yupasqakunapas, tawa chunka suqtayuq waranqa suqta pachakmi.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "paypa awqakunan"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "yupasqakunapas"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "chunka suqtayuq"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachakmi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:14:39.803919716Z",
+  "model": "glm-5.3"
+}

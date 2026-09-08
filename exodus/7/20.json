@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Moshe (Moisés)wan Aharon (Aarón)pas Yahwepa kamachisqan hinam ruwarqanku; t'qtata hanaqman hawarirqan, Paro (Faraón)pa ñawpaqenpin, paypa yanapaqninkunap ñawpaqenpinpas ⟨את⟩ yaorpi kaq unota makarqan; yaorpi kaq llapan unokunaqa yawarmanmi tukurqanku.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqankum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharonpas"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kamachisqan"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "hanaqman hawarirqan"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "t'qtata"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "makarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unota (yaorpi kaq unokunata)"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "yaorpi"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ñawpaqenpin"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "ñawpaqenpinpas"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapaqninkunap"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "tukurqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unokunaqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "yaorpi"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "yawarmanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:23:53.644137158Z",
+  "model": "glm-5.3"
+}

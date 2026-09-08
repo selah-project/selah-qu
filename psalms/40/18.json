@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Ñuqataq wakcha, muchuyniyuqmi kani; Adonaym ñuqanta yuyawasha; qammi ñuqap yanapayniy, ñuqap qespichiniy kanki; Elohimniy, ama rawk'akunkichu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "hinaspa muchuyniyuq"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "yuyawasha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqanta"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "ñuqap yanapayniy"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "hinaspa ñuqap qespichiniy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "rawk'akunkichu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:51.799872658Z",
+  "model": "glm-5.3"
+}

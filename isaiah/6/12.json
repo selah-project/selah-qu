@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Yahwem ⟨את⟩ runakunata karuman qarqunqam, chawpipi churakusqakunapas askha tukunqam hallp'ap chawpinpi.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "karuman qarqunqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "askha tukunqam"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "churakusqakunapas"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T05:52:43.893094463Z",
+  "model": "glm-5.3"
+}

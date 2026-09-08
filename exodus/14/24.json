@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 14:24",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Karqanm tuta tukuy ñawpaq wach'iy pachapi, hinaspa Yahwem Mitsrayimpa kampaman ninap t'alanwan, phuyuwanpas qhawarqan, hinaspa ⟨את⟩ Mitsrayimpa kampata ch'aqwayachirqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "באשמרת",
+      "gloss": "wach'iy pachapi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "tuta tukuy ñawpaq"
+    },
+    {
+      "surface": "וישקף",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampaman"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "t'alanwan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ninap"
+    },
+    {
+      "surface": "וענן",
+      "gloss": "phuyuwanpas"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "ch'aqwayachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimpa kampata"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:19.617564215Z",
+  "model": "glm-5.3"
+}

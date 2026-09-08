@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "psalms 40:3",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 40,
+ "translation": "Q'apasqa haku ukhumanta hawaman irqurqawankim, llut'a hallp'amanta; hinaspa chakita q'ayapi sayachirqankim, puriyniyta allinchasqaykim.",
+ "tokens": [
+  {
+   "surface": "ויעלני",
+   "gloss": "hawaman irqurqawankim"
+  },
+  {
+   "surface": "מבור",
+   "gloss": "haku ukhumanta"
+  },
+  {
+   "surface": "שאון",
+   "gloss": "q'apasqa"
+  },
+  {
+   "surface": "מטיט",
+   "gloss": "llut'a"
+  },
+  {
+   "surface": "היון",
+   "gloss": "hallp'a"
+  },
+  {
+   "surface": "ויקם",
+   "gloss": "sayachirqankim"
+  },
+  {
+   "surface": "על",
+   "gloss": "pi"
+  },
+  {
+   "surface": "סלע",
+   "gloss": "q'aya"
+  },
+  {
+   "surface": "רגלי",
+   "gloss": "chaki"
+  },
+  {
+   "surface": "כונן",
+   "gloss": "allinchirqankim"
+  },
+  {
+   "surface": "אשרי",
+   "gloss": "puriyniyta"
+  }
+ ],
+ "timestamp": "2026-09-08T14:14:13.590292778Z",
+ "model": "glm-5.3"
+}

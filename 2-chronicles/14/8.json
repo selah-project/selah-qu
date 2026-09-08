@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 14:8",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa Zerach Kushiya paykunaman lluqsirqanmi huk waranqa waranqa awqakunawan, kimsa pachak awaqkunatawan, hinaspa Mareshahman chayamurqan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsirqan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "Kushiya"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "awqakunawan"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "waranqa waranqa"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "hinaspa awaqkunatawan"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hinaspa chayamurqan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-man"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Mareshah"
+    }
+  ],
+  "timestamp": "2026-09-08T13:05:32.798049687Z",
+  "model": "glm-5.3"
+}

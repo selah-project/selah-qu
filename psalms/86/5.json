@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Imarayku qanmi, Adonay, allin kanki, pampachakuqmi kanki, hatun jesedniyuqmi tukuy qamta qarqasqaykipaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "hinaspa pampachakuq"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "hinaspa hatun"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "qamta qarqasqaykipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:22.006645562Z",
+  "model": "glm-5.3"
+}

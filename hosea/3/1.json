@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 3:1",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yahwem ñuqaman nirqan: musuqmanta riy, huk warmita khuyay, masiypa khuyasqa, hinaspa wanachakuq warmita, hina Yahwepa ⟨את⟩ Israelpa wawankunata khuyasqanman; paykuna wak dioskunaman qawanku, hinaspa khuyaqkuna raisin t'antakunam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "musuqmanta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "riy"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "khuyay"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmita"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "khuyasqa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "masi"
+    },
+    {
+      "surface": "ומנאפת",
+      "gloss": "hinaspa wanachakuq"
+    },
+    {
+      "surface": "כאהבת",
+      "gloss": "hina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa wawankunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "והם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "qawanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wak"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "hinaspa khuyaqkuna"
+    },
+    {
+      "surface": "אשישי",
+      "gloss": "raisin t'anta"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "raisin"
+    }
+  ],
+  "timestamp": "2026-09-08T08:46:46.844734894Z",
+  "model": "glm-5.3"
+}

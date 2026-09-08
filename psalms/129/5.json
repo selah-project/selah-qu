@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 129,
+  "translation": "P'inqakuchunku, qhipaman kutichunchuku llapan Tsiyon (Sión) ch'iqiqkuna.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "p'inqakuchunku"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "hinaspa kutichunchuku"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "qhipaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ch'iqiqkuna"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon (Sión)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:09.536857387Z",
+  "model": "glm-5.3"
+}

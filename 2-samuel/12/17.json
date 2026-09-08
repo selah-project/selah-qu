@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Wasin kurakunam paypa patapi sayarqanku, hallp'amanta hatarichinankupaq; icha manam munarqanchu, manam ⟨את⟩ purawan t'antata mikurqanchu.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "sayarqanku"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kurakuna"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa patapi"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "hatarichinankupaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "munarqanchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "mikurqanchu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ purawan",
+      "marks": "Davidwan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:41:57.448384289Z",
+  "model": "glm-5.3"
+}

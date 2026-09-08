@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Llapa mana allin ñanmanta chakikunaytawin hark'arqani, Simiykita waqaychanaypaqmi.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "llapa…manta"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "hark'arqani"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "chakikunayta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…paq"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "waqaychanaypaq"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Simiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:59.186715596Z",
+  "model": "glm-5.3"
+}

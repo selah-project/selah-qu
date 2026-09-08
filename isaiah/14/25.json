@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Ashshurta (Asiriata) hallp'aypi p'akichinanpaq, hinaspa urqukunaypi yawrchanim; paypa yugun paykunamanta carqunqam, paypa q'epin riqranmanta uchuykunqam.",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "p'akichinanpaq"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur (Asiria)"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "hallp'aypi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa patapi"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "urqukunay"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "yawrchanim"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "carqunqam"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "yugun"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "q'epin"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manta"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "riqranta"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "uchuykunqam"
+    }
+  ],
+  "timestamp": "2026-09-08T06:01:50.352195470Z",
+  "model": "glm-5.3"
+}

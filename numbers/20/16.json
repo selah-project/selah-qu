@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 20:16",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Yahweman waqaykurqayku, payqa kunkanchikta uyarirqan, hinaspa huk willakuqta apachispa Mitsrayimmanta ñuqaykuta lluqsichirqan; rikukuqtaqmi, kunanqa ñuqayku Qadeshpi tiyachkayku, suyukkikip chayanan llaqtapi.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "waqaykurqayku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "kunkanchikta"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "apachirqan"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "willakuqta"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "lluqsichirqan ñuqaykuta"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "rikukuqtaqmi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñuqayku"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "Qadeshpi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "chayanan"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "suyukkipi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:36:39.695358971Z",
+  "model": "glm-5.3"
+}

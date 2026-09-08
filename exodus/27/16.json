@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 27:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Chaymanta kanchap punkunpaq iskay chunka ama qatam: anqas, kulli, puka lana, hinallataq watuchasqa sisa p'acham, bordakuna rurasqam; saywankuna tawa, tiyachinankuna tawa.",
+  "tokens": [
+    {
+      "surface": "ולשער",
+      "gloss": "punkunpaq"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kanchap"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "qata"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "anqas"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "kulli"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "puka lana"
+    },
+    {
+      "surface": "שני",
+      "gloss": "sinchi puka"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "sisa p'acha"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "watuchasqa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rurasqa"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "bordakuna"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "saywankuna"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "tiyachinankuna"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "tawa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:05.469995575Z",
+  "model": "glm-5.3"
+}

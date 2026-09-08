@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspam payqa chaymanta hukta, sapa korbanonmanta, trumah hina Yahweman qayllachinqa; ⟨את⟩ shlamin yawarta zarkanqan kohenmanmi chayqa kanqa paypa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "hinaspam qayllachinqa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukta"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "sapa…manta"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korbanon"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "trumah"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenman"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "zarkanqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yawarta (shlamin yawar)"
+    },
+    {
+      "surface": "דם",
+      "gloss": "yawar"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shlaminta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:53:25.244093908Z",
+  "model": "glm-5.3"
+}

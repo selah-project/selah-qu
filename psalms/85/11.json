@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 85,
+  "translation": "Jesed hinallataq cheqta tupanakurqankum; cheqkay hinallataq pazwan muchhanakurqankum.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "jesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "hinallataq cheqta"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "tupanakurqankum"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cheqkay"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "hinallataq pazwan"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "muchhanakurqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:17.977208105Z",
+  "model": "glm-5.3"
+}

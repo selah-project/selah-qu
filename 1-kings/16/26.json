@@ -1,0 +1,83 @@
+{
+ "tier": "glm-5.2",
+ "verse": 26,
+ "ref": "1-kings 16:26",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 16,
+ "translation": "Yaaravam (Jeroboam) Navatpa churinpa tukuy ñanninpi purirqan, pay Israelta ⟨את⟩ huchallichisqan huchankunanpipas, Israelpa Elohimnin Yahweta ⟨את⟩ paykunapa ch'usaq diosninkunawan phiñachinanpaq.",
+ "tokens": [
+  {
+   "surface": "וילך",
+   "gloss": "purirqan"
+  },
+  {
+   "surface": "בכל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "דרך",
+   "gloss": "ñanninpi"
+  },
+  {
+   "surface": "ירבעם",
+   "gloss": "Yaaravam (Jeroboam)"
+  },
+  {
+   "surface": "בן",
+   "gloss": "churin"
+  },
+  {
+   "surface": "נבט",
+   "gloss": "Navat"
+  },
+  {
+   "surface": "ובחטאתיו",
+   "gloss": "huchankunanpipas"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kasqanta"
+  },
+  {
+   "surface": "החטיא",
+   "gloss": "huchallichisqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Israelta"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israelta"
+  },
+  {
+   "surface": "להכעיס",
+   "gloss": "phiñachinanpaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahweta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweta"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "Elohimnin"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israelpa"
+  },
+  {
+   "surface": "בהבליהם",
+   "gloss": "paykunapa ch'usaq diosninkunawan"
+  }
+ ],
+ "timestamp": "2026-09-08T05:14:54.969703907Z",
+ "model": "glm-5.3"
+}

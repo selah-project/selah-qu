@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Hallp'ap runankuna Yoshiyahup (Josías) churin Yehoajazta ⟨את⟩ hap'irqankumi, hinaspa payta taytanpa tiyananpi Yerushalayim (Jerusalén)pi apunman churarqanku.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "hap'irqankumi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runankuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoajazta"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoajaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahup"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "apunman churarqanku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taytanpa tiyananpi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:22:10.313255429Z",
+  "model": "glm-5.3"
+}

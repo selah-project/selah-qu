@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Qhaway ⟨את⟩ Aviv killata, hinaspa Pesajta ruway Yahwe Elohimniykipaq; imarayku Aviv killapim Yahwe Elohimniyki qamta Mitsrayimmanta tuta lluqsichirqan.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviv killata"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "killa"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruway"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesajta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "killapi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "lluqsichirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:42:52.120106736Z",
+  "model": "glm-5.3"
+}

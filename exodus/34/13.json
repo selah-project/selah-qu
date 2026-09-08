@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Chaymi ⟨את⟩ paykunap mizbeajninkunta t'inkunki, hinaspa ⟨את⟩ paykunap sayasqa ruminkunata p'akinki, hinaspa ⟨את⟩ paykunap Asherankunata kuchunki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paykunap mizbeajninkunta"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "paykunap mizbeajninkunta"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "t'inkunki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paykunap sayasqa ruminkunata"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "paykunap sayasqa ruminkunata"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "p'akinki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paykunap Asherankunata"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "paykunap Asherankunata"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "kuchunki"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:55.575416484Z",
+  "model": "glm-5.3"
+}

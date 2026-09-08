@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Yahwepa qispichisqankuna ninkunan, awqapa makinmanta qispichisqankunata.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ninkunan"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "qispichisqankuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "qispichisqankunata"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "צר",
+      "gloss": "awqapa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:01.279300931Z",
+  "model": "glm-5.3"
+}

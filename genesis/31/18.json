@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 31:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Hinaspa pusarqan ⟨את⟩ llapan uywankunanta, ⟨את⟩ llapan kapuyninta willakuqta, uywakuna hunt'achikuyninta, may Paddan Arampi (Mesopotamiapi) hunt'achisqa, Itsjakpa (Isaac) taytanman ñanpa, Kanaanpa hallp'anman chayananpaq.",
+  "tokens": [
+    {
+      "surface": "וינהג",
+      "gloss": "pusarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan uywankunanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "uywankunanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan kapuyninta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "kapuyninta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "willakuqta"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "hunt'achisqa"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "uywakuna"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "hunt'achikuyninta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "hunt'achisqa"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "Paddan Arampi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "chayananpaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjakpa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanman"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hallp'anman"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:05:56.849133237Z",
+  "model": "glm-5.3"
+}

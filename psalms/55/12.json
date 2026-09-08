@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "llutanakuykuna ukhunpi ⟨kan⟩; p'atatanta mana saqinchu ñakariy ima, hinaspa ima qatillatawan.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "llutanakuykuna"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "saqinchu"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "p'atatanta"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ñakariy ima"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "ima qatillatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:57.232582903Z",
+  "model": "glm-5.3"
+}

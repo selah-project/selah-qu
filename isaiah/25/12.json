@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hayñiq sayayniyuq pukarata, hark'aykikunap hatun sayaynintawan urmaykachinqa, huch'aykunqa, hallp'aman chayanqami, aqhaman kama.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "hatun pukaratawan"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "hayñiq sayayniyuq"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "hark'aykikuna"
+    },
+    {
+      "surface": "השח",
+      "gloss": "urmaykachinqa"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "huch'aykunqa"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "chayanqa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "aqhaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:07:03.075984788Z",
+  "model": "glm-5.3"
+}

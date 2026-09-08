@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Yahweqa ñuqap t'aqallaymi, ñuqap qirullaywanmi; qammi ñuqap suerteyta sayachiwanki.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweqa"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "chaniyuqlla"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ñuqap t'aqallay"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "ñuqap qirullaywan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qammi"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "sayachiwanki"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "ñuqap suerteyta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:13.738950027Z",
+  "model": "glm-5.3"
+}

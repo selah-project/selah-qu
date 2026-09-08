@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Kehatpa churinkuna: Aminadab churinmi, Korach churinmi, Asir churinmi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatpa"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinmi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinmi"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:22.871237962Z",
+  "model": "glm-5.3"
+}

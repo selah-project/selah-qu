@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Israel wawakunap huñunmanta ⟨את⟩ iskay qhari kawrikunata hucha korbanpaq chaskinqa, hinaspa huk karnerotawan ruphachina korbanpaq.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "manta ⟨את⟩",
+      "marks": "huñu (Israel wawakunap huñun)"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "huñu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "chaskinqa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kawri"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "hucha korbanpaq"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "hinaspa karnero"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ruphachina korbanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:54.137528594Z",
+  "model": "glm-5.3"
+}

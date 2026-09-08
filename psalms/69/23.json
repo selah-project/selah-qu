@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Q'untillanku ñawpaqpi t'ikrallanpaq tukuchun, allin kawsayninkupaq watunallanpaq.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "tukuchun"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "q'untillanku"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "t'ikrallanpaq"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "allin kawsayninkupaq"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "watunallanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:55.718632951Z",
+  "model": "glm-5.3"
+}

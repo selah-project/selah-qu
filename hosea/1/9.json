@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa nirqan: «Sutinta Lo-Ammi (mana ñuqap runaynichikchu) nispam churay, imaraykuchus qamkuna mana ñuqa runaykichikchu kankichik, hinaspataq ñuqa mana qamkunapaq kanisaqchu».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Hinaspa nirqan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "churay"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Lo-Ammi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqa runaykichik"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "hinaspataq ñuqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "kanisaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T08:43:30.845332392Z",
+  "model": "glm-5.3"
+}

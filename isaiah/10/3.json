@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 10:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "¿Imatataq ruwangichik p'anqay p'unchawpi, hinaspa karumanta hamuq ch'usaqyachiyta? ¿Pipmanmi ayqekichik yanapayta maskaspa? ¿Maypitaq saqirawankichik k'anchayniykichikta?",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "¿Imatataq"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ruwangichik"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "פקדה",
+      "gloss": "p'anqay"
+    },
+    {
+      "surface": "ולשואה",
+      "gloss": "hinaspa ch'usaqyachiyta"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "karumanta"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "hamuq"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "¿Pipmanmi"
+    },
+    {
+      "surface": "תנוסו",
+      "gloss": "ayqekichik"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "yanapayta maskaspa"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "¿Maypitaq"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "saqirawankichik"
+    },
+    {
+      "surface": "כבודכם",
+      "gloss": "k'anchayniykichikta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:59:15.596427239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 1:15",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chunka p'unchaw tukukusqanpitaq paykunap rikch'aynin allinmi rikurirqan, aycha sinchiyuqmi tukuy apupa ⟨את⟩ mikhunninta mikhuq chiqniykunamanta aswan.",
+  "tokens": [
+    {
+      "surface": "ומקצת",
+      "gloss": "tukukusqanpi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "rikurirqanmi"
+    },
+    {
+      "surface": "מראיהם",
+      "gloss": "rikch'aynin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "ובריאי",
+      "gloss": "aycha sinchiyuq"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "chiqniykuna"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "mikhuq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apupa mikhunninta"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "mikhun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:49:52.177914454Z",
+  "model": "glm-5.3"
+}

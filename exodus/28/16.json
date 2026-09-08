@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Tawa k'uchuyuq ⟨kan⟩, iskay kuti t'inkisqa; sun'iyninqa huk maki ch'iqam, anchayninqapas huk maki ch'iqam.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "tawa k'uchuyuq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kan"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "iskay kuti t'inkisqa"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "maki ch'iqa"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sun'iynin"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "maki ch'iqa"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "anchaynin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:44.621269967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 95,
+  "translation": "Hamuy, Yahweman kusita takisun; ñuqanchikpa qispichiyninchikpa rumimanmi q'uchuchisun.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Hamuy"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "kusita takisun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "q'uchuchisun"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "rumiman"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "qispichiyninchikpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:32.887702587Z",
+  "model": "glm-5.3"
+}

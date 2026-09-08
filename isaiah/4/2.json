@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "isaiah 4:2",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Chay p'unchawmi Yahwepa Tsemachqa kanqa munasqa kayninpaq, hatun chaninpaq; hallp'ap ruruntaq Israelpi qespichisqakunapaq hach'a kayninpaq, llipt'ichiq sumaqpaq.",
+ "tokens": [
+  {
+   "surface": "ביום",
+   "gloss": "chay p'unchaw"
+  },
+  {
+   "surface": "ההוא",
+   "gloss": "chay"
+  },
+  {
+   "surface": "יהיה",
+   "gloss": "kanqa"
+  },
+  {
+   "surface": "צמח",
+   "gloss": "Tsemach"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "לצבי",
+   "gloss": "munasqa kayninpaq"
+  },
+  {
+   "surface": "ולכבוד",
+   "gloss": "hatun chaninpaq"
+  },
+  {
+   "surface": "ופרי",
+   "gloss": "ruruntaq"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "hallp'ap"
+  },
+  {
+   "surface": "לגאון",
+   "gloss": "hach'a kayninpaq"
+  },
+  {
+   "surface": "ולתפארת",
+   "gloss": "llipt'ichiq sumaqpaq"
+  },
+  {
+   "surface": "לפליטת",
+   "gloss": "qespichisqa"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israelpi"
+  }
+ ],
+ "timestamp": "2026-09-08T05:53:33.892347881Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "psalms 8:4",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 8,
+ "translation": "Qhawaspa hanaq pachaykita, rukuykikuna rurasqanta — killata, quyllurkunatawan, mayqinkunata sayarichirqankim.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": ""
+  },
+  {
+   "surface": "אראה",
+   "gloss": "Qhawaspa"
+  },
+  {
+   "surface": "שמיך",
+   "gloss": "hanaq pachaykita"
+  },
+  {
+   "surface": "מעשי",
+   "gloss": "rurasqanta"
+  },
+  {
+   "surface": "אצבעתיך",
+   "gloss": "rukuykikuna"
+  },
+  {
+   "surface": "ירח",
+   "gloss": "killata"
+  },
+  {
+   "surface": "וכוכבים",
+   "gloss": "quyllurkunatawan"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqinkunata"
+  },
+  {
+   "surface": "כוננתה",
+   "gloss": "sayarichirqanki"
+  }
+ ],
+ "timestamp": "2026-09-08T09:32:28.845493161Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 57:19",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 57,
+  "translation": "Wirpakunap rurunta kamaq: thakilla, thakilla karu kaqman, hinaspa qaylla kaqman, nirqan**mi** Yahwem; hinaspa payta hampirqasaq.",
+  "tokens": [
+    {
+      "surface": "בורא",
+      "gloss": "kamaq"
+    },
+    {
+      "surface": "נוב",
+      "gloss": "rurunta"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "wirpakunap"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thakilla"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thakilla"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "karu kaqman"
+    },
+    {
+      "surface": "ולקרוב",
+      "gloss": "hinaspa qaylla kaqman"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ורפאתיו",
+      "gloss": "hinaspa payta hampirqasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:41:02.884867175Z",
+  "model": "glm-5.3"
+}

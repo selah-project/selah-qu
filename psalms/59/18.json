@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Ñuqap atiy, qammanmi takini: imaraykuchus Elohimmi ñuqap pukaray, jesedniy Elohimniymi.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ñuqap atiy"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "takini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ñuqap pukaray"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "jesedniy"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:42.699175963Z",
+  "model": "glm-5.3"
+}

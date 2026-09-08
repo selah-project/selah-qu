@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Llapan runakunam tiendap punkunpi sayaqta ⟨את⟩ phuyu saphsata qharirqanku, chaymi llapan runakuna sayarirqanku, sapa runa wasin punkunpi tawarikurqanku.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "qharirqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phuyu saphsata"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "saphsa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "phuyu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "sayaqta"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkunpi"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tiendap"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "sayarirqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "tawarikurqanku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkunpi"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "wasin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:45.890376321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Chayqa ususninqa taytan mammantinwan hap'ispa ⟨את⟩ ususninqa pinga unanchakunata lluqsichinqa llaqta kuraqkunaman, punkupi.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "hap'ispa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ususninqa"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mammantinwan"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "lluqsichinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ususninqa pinga unanchakunata"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "pinga unanchakunata"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ususninqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...man"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kuraqkunaman"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "punkupi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:49:53.754710746Z",
+  "model": "glm-5.3"
+}

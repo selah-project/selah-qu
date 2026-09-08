@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 111,
+  "translation": "Makikunap rurasqankunaqa cheqapmi, hinaspa allin kamachikuwan; llapan kamachikusqankunaqa sayaqlla⟨kanku⟩mi.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "rurasqankuna"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "makikunap"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqap"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "hinaspa allin kamachikuwan"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "sayaqllakanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "kamachikusqankuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:36.196807257Z",
+  "model": "glm-5.3"
+}

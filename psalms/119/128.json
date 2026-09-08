@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Chayrayku llapan piqudkiyki llapan imapiwan chiqaq hina chaniynim; llapan llulla ñanta chikniynim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "piqudkiyki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan imapiwan"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "chiqaq hina chaniynim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ñanta"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "chikniynim"
+    }
+  ],
+  "timestamp": "2026-09-08T10:24:39.091544097Z",
+  "model": "glm-5.3"
+}

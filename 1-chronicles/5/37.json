@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa Azarjahm ⟨את⟩ Amariahta wawacharqan, hinaspa Amariahm ⟨את⟩ Ajiubta wawacharqan.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amariahta"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amariahta"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "hinaspa Amariahm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajiubta"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ajiubta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:32:33.000548560Z",
+  "model": "glm-5.3"
+}

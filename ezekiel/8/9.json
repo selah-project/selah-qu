@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Ñuqaman nirqanmi: Yaykuy, qhaway ⟨את⟩ millanakunata, mana allin ruwasqankunata kaypi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaykuy"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "millanakunata"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "millanakunata"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-q"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ruwasqanku"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T07:59:11.289842005Z",
+  "model": "glm-5.3"
+}

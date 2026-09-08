@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 143,
+  "translation": "Mizmor Davidpa. Yahwe, mañakuyta uyariy, qayakuyman ñawiyta kichariy; iñiyniykiwan ñuqata kutichiy, chaninchayniykiwan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mañakuyta"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ñawiyta kichariy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "qayakuy"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "iñiyniykiwan"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ñuqata kutichiy"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "chaninchayniykiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:43.089557282Z",
+  "model": "glm-5.3"
+}

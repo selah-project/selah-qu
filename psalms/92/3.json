@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Paqarinpi jesedniyki willanaypaq, hinaspa suyunniykitataq tuta tutaspi.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "willanaypaq"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "paqarinpi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "hinaspa suyunniyki"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "tuta tutaspi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:50.289420828Z",
+  "model": "glm-5.3"
+}

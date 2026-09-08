@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "⟨את⟩ llapan orevta laminehninta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan orev"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "orev"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "laminehnin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:31.285046164Z",
+  "model": "glm-5.3"
+}

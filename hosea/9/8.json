@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 9:8",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Efrayim qhawaqmi karqan Elohimniywan; navipaqa p'isqu t'ipiqpa phakan llapa ñanninkunapipimi tiyan, Elohimnin wasinpipas ch'iqniymi.",
+  "tokens": [
+    {
+      "surface": "צפה",
+      "gloss": "qhawaq"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniywan"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "phaka"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "p'isqu t'ipiqpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ñanninkunapi"
+    },
+    {
+      "surface": "משטמה",
+      "gloss": "ch'iqniy"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimnin"
+    }
+  ],
+  "timestamp": "2026-09-08T08:51:44.152032651Z",
+  "model": "glm-5.3"
+}

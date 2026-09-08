@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa ⟨את⟩ wasita pisqup yawarninwan, kawsaq unuwan, kawsaq pisquwan, eraz sach'awan, ezovwan, shani tola'atwanmi chat'in.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "chat'in"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasita"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "yawarninwan"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "pisqup"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "unuwan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "pisquwan"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "sach'awan"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "eraz"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "ezovwan"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "shaniwan"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "tola'at"
+    }
+  ],
+  "timestamp": "2026-09-08T00:57:54.127611334Z",
+  "model": "glm-5.3"
+}

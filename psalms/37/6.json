@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Hinaspa lluqsichinqam chaninnikiyta k'anchay hina, hinaspa taripaninikiyta chawpi p'unchaw k'anchay hina.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Hinaspa lluqsichinqam"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "k'anchay hina"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "chaninnikiyta"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "hinaspa taripaninikiyta"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "chawpi p'unchaw k'anchay hina"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:41.609465813Z",
+  "model": "glm-5.3"
+}

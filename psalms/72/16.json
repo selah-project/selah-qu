@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Kachunmi sarap askha kaynin hallp'api, urqukunap patapipas; Levanon hina phalinnin thaltillanqachu, hinaspa llaqtamanta hallp'ap q'omer qorahina phanchirinqaku.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kachunmi"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "askha kaynin"
+    },
+    {
+      "surface": "בר",
+      "gloss": "sarap"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "urqukunap"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "thaltillanqachu"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "Levanon hina"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "phalinnin"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "hinaspa phanchirinqaku"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "llaqtamanta"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "q'omer qorahina"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:04.129346873Z",
+  "model": "glm-5.3"
+}

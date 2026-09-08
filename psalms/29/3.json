@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yahwepa kunkanmi unakunapatan; kabodpa Elmi truenowan t'uqyachkan; Yahwemi achkha unakunapatan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "kunkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unakuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elmi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kabodpa"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "truenowan t'uqyachkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwemi"
+    },
+    {
+      "surface": "על",
+      "gloss": "patan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unakuna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "achkha"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:10.058840600Z",
+  "model": "glm-5.3"
+}

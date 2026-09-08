@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Ñuqapas sunquyuqmi kani, qamkunahina; mana qamkunamanta urmaykusqachu kani; hinaspa ⟨את⟩ pipas mana kanchu kaykunahina yachaq.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pis"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "qamkunahina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "urmaykusqa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "qamkunamanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "pita"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T11:03:54.861085646Z",
+  "model": "glm-5.3"
+}

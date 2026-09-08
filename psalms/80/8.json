@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Elohim Tsebaot, kutichiyku; ñawiykita k'anchariy, chaymi qespichisqa kanqaku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "kutichiyku"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "k'anchariy"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiykita"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "qespichisqa kanqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:30.211778708Z",
+  "model": "glm-5.3"
+}

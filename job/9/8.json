@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Payllanmi hanaq pachata mast'arin, mama quchapa hanaq patanpitaq purin.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "mast'ariq"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "payllanmi"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "hanaq patan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mama qucha"
+    }
+  ],
+  "timestamp": "2026-09-08T11:00:38.248002305Z",
+  "model": "glm-5.3"
+}

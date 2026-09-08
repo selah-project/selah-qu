@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Killa hina wiñaypaq sayasqa ⟨kan⟩mi, hinallataq pacha patanpi cheqa willakuq. Sela.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "killa hina"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "sayasqa ⟨kan⟩mi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hinallataq willakuq"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "pacha patanpi"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "cheqa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:47.797449840Z",
+  "model": "glm-5.3"
+}

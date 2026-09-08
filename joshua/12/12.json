@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Eglonpa apun hukmi; Gezerpa (Guezer) apun hukmi.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglonpa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerpa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:16:30.687840443Z",
+  "model": "glm-5.3"
+}

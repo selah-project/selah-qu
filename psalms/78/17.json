@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Paykunaqa raqmi yapaspa payman muchurqanku — Elyonta q'iwiykurqanku ch'aki pachapi.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "yapaspa muchurqanku"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "muchuypaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "q'iwiykurqanku"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonta"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "ch'aki pachapi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:28.084738687Z",
+  "model": "glm-5.3"
+}

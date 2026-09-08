@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Payqa nirqan: «Mana atinichu ⟨את⟩ qamwan kutinampaq, mana ⟨את⟩ qamwan yaykunampaq; kay kitipim mana t'antam mikhusaqchu, mana ⟨את⟩ qamwan unutam upyasaqchu».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "atinichu"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kutinampaq"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "yaykunampaq"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhusaq"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "upyasaq"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kitipi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T05:11:46.547111830Z",
+  "model": "glm-5.3"
+}

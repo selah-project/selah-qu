@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "T'eqequwan tullukunaypi awqaykuna ñuqata p'inqachiwanku, llapa p'unchaw ñuqaman nispa: maypi ⟨kan⟩ Elohimniyki?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "t'eqequwan"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "tullukunaypi"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "ñuqata p'inqachiwanku"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "awqaykuna"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "איה",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:33.099235594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Imaraykuchus jesedniyki kawsaymanta aswan allinmi, wirp'ayki qamta takirqachunki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imaraykuchus"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "kawsaymanta aswan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wirp'ayki"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "qamta takirqachunki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:47.861994858Z",
+  "model": "glm-5.3"
+}

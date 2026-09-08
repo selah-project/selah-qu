@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 142,
+  "translation": "Hich'ariy wichq'ay wasimanta ñuqap nefeshniyta, ⟨את⟩ Sutikita yupaychanaypaq; ñuqap rayku tsadiqkuna ñuqata muyurinqakum, imaraykuchus ñuqaman allinta ruranki.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Hich'ariy"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "wichq'ay wasimanta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap nefeshniyta"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "yupaychanaypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sutikita"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutikita"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqap rayku"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "muyurinqakum"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tsadiqkuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "allinta ruranki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqaman"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:32.075069586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "⟨את⟩ kamachikuyniykita waqaychasaq; ama ñuqata tukuylla saqiwáychu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamachikuyniykita"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "kamachikuyniykita"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "waqaychasaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "saqiwáychu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tukuylla"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "tukuylla"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:54.061921857Z",
+  "model": "glm-5.3"
+}

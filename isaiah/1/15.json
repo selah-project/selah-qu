@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 1:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Makiykichikta mast'arqptiykichik, ñuqap ñawiyta qamkunamanta pakanisaqmi; mañakuyta askhachaspa chaypas, manam ñuqachu uyarinichu; makiykichikqa yawarwanmi hunt'asqa kachkan.",
+  "tokens": [
+    {
+      "surface": "ובפרשכם",
+      "gloss": "mast'arqptiykichik"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "makiykichikta"
+    },
+    {
+      "surface": "אעלים",
+      "gloss": "pakanisaq"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñuqap ñawiyta"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "qamkunamanta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaypas"
+    },
+    {
+      "surface": "תרבו",
+      "gloss": "askhachankichik"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mañakuyta"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "manam ñuqachu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyarinichu"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "makiykichikqa"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "yawarwan"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "hunt'asqa kachkan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:49:38.812231656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Rirqan, aparqan, paypa mamantan apamurqan; chaysim paypa maman paypa taytan munasqan sumaq mikhunakunata ruwarqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "aparqan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "apamurqan"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "paypa mamantan"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "paypa maman"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "sumaq mikhunakunata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "munasqan hina"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "munasqan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "paypa taytan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:27.880254240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "¿Pisqoqa urmakunmanchu witapi, hallp'api, paypaq witapaq mana kaptin? ¿Witaqa hallp'amanta sayarimunmanchu, mana imata hapt'aspachu?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "urmakunmanchu"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "pisqo"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "witapi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "witapaq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "sayarimunmanchu"
+    },
+    {
+      "surface": "פח",
+      "gloss": "wita"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "hinaspa hapt'iyta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "hapanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:55:42.716508622Z",
+  "model": "glm-5.3"
+}

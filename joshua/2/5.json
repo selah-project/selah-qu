@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 2:5",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaymanta punkiqa wisq'akunanpaq karqan, ch'isi ukhupim; chay runakunataq lluqsirqanku — mayman ringakuta manam yachanichu. Qatikuy, utqaymanta qatikuy, chaskiwanqikum nispam.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "השער",
+      "gloss": "punkiqa"
+    },
+    {
+      "surface": "לסגור",
+      "gloss": "wisq'akunanpaq"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ch'isi ukhupim"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "chay runakunataq"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lluqsirqanku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yachanichu"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "mayman"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ringakuta"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "chay runakuna"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "qatikuy"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "utqaymanta"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "paykunata qatiy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "תשיגום",
+      "gloss": "chaskiwanqikum"
+    }
+  ],
+  "timestamp": "2026-09-08T03:05:32.874702159Z",
+  "model": "glm-5.3"
+}

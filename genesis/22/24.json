@@ -1,0 +1,73 @@
+{
+ "tier": "glm-5.2",
+ "verse": 24,
+ "ref": "genesis 22:24",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 22,
+ "translation": "Hinaspa paypa sirinawan — paypa sutinmi Reuma (Reuma) — paypas ⟨את⟩ Tebachta, ⟨את⟩ Gahamta, ⟨את⟩ Tahashta hinaspa ⟨את⟩ Maakata wacharqan.",
+ "tokens": [
+  {
+   "surface": "ופילגשו",
+   "gloss": "paypa sirinan"
+  },
+  {
+   "surface": "ושמה",
+   "gloss": "paypa sutin"
+  },
+  {
+   "surface": "ראומה",
+   "gloss": "Reuma"
+  },
+  {
+   "surface": "ותלד",
+   "gloss": "wacharqan"
+  },
+  {
+   "surface": "גם",
+   "gloss": "paypas"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "pay"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Tebachta"
+  },
+  {
+   "surface": "טבח",
+   "gloss": "Tebach"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Gahamta"
+  },
+  {
+   "surface": "גחם",
+   "gloss": "Gaham"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Tahashta"
+  },
+  {
+   "surface": "תחש",
+   "gloss": "Tahash"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Maakata"
+  },
+  {
+   "surface": "מעכה",
+   "gloss": "Maaka"
+  }
+ ],
+ "timestamp": "2026-09-07T23:58:13.907213711Z",
+ "model": "glm-5.3"
+}

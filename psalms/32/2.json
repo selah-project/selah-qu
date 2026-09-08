@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Ima kusillam runa, Yahwem mana yupanchu paypaq llut'anta; paypa samayninpipas manam llulla kanchu.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ima kusilla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "yupanchu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "עון",
+      "gloss": "llut'a"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "paypa samayninpi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "llulla"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:58.078633420Z",
+  "model": "glm-5.3"
+}

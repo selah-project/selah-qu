@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Paykunapatan man ⟨manna⟩ta paramurqan mikhunapaq; hanaq pachap sarata qurqan paykunaman.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "paramurqan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunapatan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man ⟨manna⟩ta"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "mikhunapaq"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "sarata"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qurqan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:45.898970639Z",
+  "model": "glm-5.3"
+}

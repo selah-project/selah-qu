@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "psalms 19:7",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 19,
+ "translation": "Hanaq pachap chakananmanta lluqsiyninmi, muyuynintaqmi chakanankunaman; q'ojaymanta mana imapas pakasqa kanchu.",
+ "tokens": [
+  {
+   "surface": "מקצה",
+   "gloss": "chakananmanta"
+  },
+  {
+   "surface": "השמים",
+   "gloss": "hanaq pachap"
+  },
+  {
+   "surface": "מוצאו",
+   "gloss": "lluqsiynin"
+  },
+  {
+   "surface": "ותקופתו",
+   "gloss": "muyuynintaq"
+  },
+  {
+   "surface": "על",
+   "gloss": ""
+  },
+  {
+   "surface": "קצותם",
+   "gloss": "chakanankunaman"
+  },
+  {
+   "surface": "ואין",
+   "gloss": "mana imaapas"
+  },
+  {
+   "surface": "נסתר",
+   "gloss": "pakasqa"
+  },
+  {
+   "surface": "מחמתו",
+   "gloss": "q'ojaymanta"
+  }
+ ],
+ "timestamp": "2026-09-08T09:36:48.797798219Z",
+ "model": "glm-5.3"
+}

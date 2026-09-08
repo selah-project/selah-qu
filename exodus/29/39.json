@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "⟨את⟩ huk uwijata tutamantam ruwanki, hinaspa ⟨את⟩ iskay ñiqin uwijata ch'isipi ruwanki.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huk uwijata"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "uwija"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "iskay ñiqin uwijata"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "uwija"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ch'isipi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:56.103048595Z",
+  "model": "glm-5.3"
+}

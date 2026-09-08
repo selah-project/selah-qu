@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Warak'api rumita watarqallaqhina, sapaman sumaq chaninta quqmi ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "watarqallaqhina"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "rumita"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "warak'api"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "quq"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "sapaman"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sumaq chaninta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:51:51.402350918Z",
+  "model": "glm-5.3"
+}

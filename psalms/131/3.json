@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 131,
+  "translation": "Israel, Yahweman suyaychik, kunanmanta wiñaykama.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "suyaychik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man (Yahweman)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kunanmanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:50.567130780Z",
+  "model": "glm-5.3"
+}

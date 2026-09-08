@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa huñunakuyninmi runa ayllukuna ⟨qamta⟩ muyuchunqaku; paykunap patanpi hananpata kutiy.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "hinaspa huñunakuy"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "runa ayllukuna"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "qamta muyuchunqaku"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "paykunap patanpi"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "hananpata"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "kutiy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:01.008707266Z",
+  "model": "glm-5.3"
+}

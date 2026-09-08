@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 6:15",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Qammi willarqaykita ⟨את⟩ willasqaykita hunt'aspa serviqniykipaq David taytaypaq; simiykiwan willarqayki, makiykiwanpas hunt'arqayki, kunan p'unchaw hina.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "hunt'arqanki"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "serviqniykipaq"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "willasqayki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "willasqayki"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "willarqanki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "willarqayki"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "simiykiwan"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "makiykiwanpas"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "hunt'arqayki"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kunan p'unchaw hina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kunan"
+    }
+  ],
+  "timestamp": "2026-09-08T12:57:21.105552194Z",
+  "model": "glm-5.3"
+}

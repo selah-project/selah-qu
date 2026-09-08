@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 27:9",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Davidmi ⟨את⟩ hallp'ata ñak'arqan, mana qharita warmitapas kawsachirqanchu; hinaspa uwihakunata, wakakunata, asnakunata, llamakunata, p'achakunatawan hap'irqan; kutimurqan hinaspa Akishman chayarqan.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "ñak'arqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana … -chu"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "kawsachirqan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qharita"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "warmitapas"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "uwihakunata"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "wakakunata"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "asnakunata"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "llamakunata"
+    },
+    {
+      "surface": "ובגדים",
+      "gloss": "p'achakunatawan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kutimurqan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akishman"
+    }
+  ],
+  "timestamp": "2026-09-08T13:35:44.643064025Z",
+  "model": "glm-5.3"
+}

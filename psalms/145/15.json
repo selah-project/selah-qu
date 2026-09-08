@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Llapa ñawinkuna qamman ñawinchaspa suyanmi; qamtaq paykunaman ⟨את⟩ mikhunanta paqtan pachapi qunki.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ñawinkuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ñawinchaspa suyan"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "qunki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikhunanta"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "mikhunanta"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "paqtan pachapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:01.950176673Z",
+  "model": "glm-5.3"
+}

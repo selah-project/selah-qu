@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Apum warmiman nirqanmi: «Riy wasiykiman; ñuqataq qamrayku kamachinqani.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "warmiman"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Riy"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "wasiykiman"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "kamachinqani"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qamrayku"
+    }
+  ],
+  "timestamp": "2026-09-08T04:44:38.229883782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "psalms 18:2",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 18,
+ "translation": "Hinaspa nirqan: Yahweta khuyani, ñuqap chaniy ñawpaq yanapuwy.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "Hinaspa nirqan"
+  },
+  {
+   "surface": "ארחמך",
+   "gloss": "khuyani"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweta"
+  },
+  {
+   "surface": "חזקי",
+   "gloss": "ñuqap chaniy ñawpaq yanapuwy"
+  }
+ ],
+ "timestamp": "2026-09-08T09:36:04.772070362Z",
+ "model": "glm-5.3"
+}

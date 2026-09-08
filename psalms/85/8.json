@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "psalms 85:8",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 85,
+ "translation": "Rikuchiwachayku, Yahwe, jesedniykikita; qispichiykiykita ñuqanchikman quykuway.",
+ "tokens": [
+  {
+   "surface": "הראנו",
+   "gloss": "Rikuchiwachayku"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "חסדך",
+   "gloss": "jesedniykikita"
+  },
+  {
+   "surface": "וישעך",
+   "gloss": "qispichiykiykita"
+  },
+  {
+   "surface": "תתן",
+   "gloss": "quykuway"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "ñuqanchikman"
+  }
+ ],
+ "timestamp": "2026-09-08T10:07:58.567982610Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa ⟨את⟩ Khazirta (khuchi): chaki t'aqata t'aqaqmi pay, kutitataq mana; q'umim pay qamkunapaq. Aychankumanta mana mikhuwankichikchu, hinaspa wañusqankupipas mana llamk'ankichikchu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Khazirta"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "Khazirta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "t'aqaq"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "chaki t'aqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "q'umi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "aychankumanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhuwankichik"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "hinaspa wañusqankupi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "llamk'ankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T02:41:18.274012725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Hinaspa llapa apukuna payman pampakunkum, llapa mamallaqtakuna payta llamk'ankum.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "pampakunku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mamallaqtakuna"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "payta llamk'anku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:55.292574578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Adonay Yahwe, qammi qallarirqanki rikuchiyta ⟨את⟩ yanapayniykikita, ⟨את⟩ hatun kayniykikita, hinaspa ⟨את⟩ makiykim sinchi kaqta; hanaq pachapipas hallp'apipas ima Elmi kanchu ruwaq ruwayniyki hina, atinchayniyki hinataq?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "qallarirqanki"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "rikuchiyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapayniykikita"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanapayniyki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatun kayniykikita"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "hatun kayniyki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "makiykim"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "hinallataq hallp'api"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "ruwayniyki hina"
+    },
+    {
+      "surface": "וכגבורתך",
+      "gloss": "atinchayniyki hinallataq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:28:51.977502501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 18:29",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Kayhina apum nirqan: ama Hizkiyahu (Ezequías) qamkunata llullachunchu, imaraykuchus payqa manam atinchu ⟨את⟩ qamkunata paypa makunmanta liberakunanpaq.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ישיא",
+      "gloss": "llullachunchu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunata"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu (Ezequías)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "atinchu"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "liberakunanpaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "paypa makunmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:43:22.955423655Z",
+  "model": "glm-5.3"
+}

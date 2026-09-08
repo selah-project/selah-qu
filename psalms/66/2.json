@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Sutinpa hatun sumaqninmanta takiy; paypa hamut'ayninta hatunchay.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "takiy"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "hatun sumaq"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Sutinpa"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "churay"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "hatunchay"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "paypa hamut'ayninta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:02.841873630Z",
+  "model": "glm-5.3"
+}

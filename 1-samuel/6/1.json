@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Yahwepa arcinninmi Pelishti runakunap chacranpi qanchis killa karqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arcin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chacranpi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti runakunap"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "killa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:07:30.159898571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Paykuna phalanta hallp'amanta chinkachinkim, paykuna muruntataq runa churiykunap chawpinmanta.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "phalanta (paykunap)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "chinkachinki"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "hinaspa muruntan"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "runa churiykunap chawpinmanta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:39.628714148Z",
+  "model": "glm-5.3"
+}

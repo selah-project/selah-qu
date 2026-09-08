@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yahwem Shelomoman iskay ñiqinta rikuchirqanmi, Givonpi payman rikuchisqan hina.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikuchirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "iskay ñiqinta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "rikuchirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Givonpi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:41:31.401503670Z",
+  "model": "glm-5.3"
+}

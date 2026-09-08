@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Manachu kayta qampaq ruwanki: saqirqankim ⟨את⟩ Yahweta, Elohimniykita, ñanpi pusasqan p'unchawpipas?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "saqirqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "pusasqan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:48:50.017721003Z",
+  "model": "glm-5.3"
+}

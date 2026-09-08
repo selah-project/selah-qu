@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Yachaq runakunap qallunqa yachayta allinchanmi; mana yachaq runakunap siminqa wakcha yachayta lawachinmi.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "qallun"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "yachaq runakunap"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "allinchanmi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "hinaspa ... siminqa"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "mana yachaq runakunap"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "lawachinmi"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "wakcha yachayta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:18:16.778697515Z",
+  "model": "glm-5.3"
+}

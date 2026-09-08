@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Allin kaypaq unanchata ruwaway: ñuqata cheqniqniykunan qhawankum hinaspa p'inqakunqaku, chaymi qam, Yahwe, ñuqata yanaparqanki hinaspa samichirqankim.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ruwaway"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqap llapa"
+    },
+    {
+      "surface": "אות",
+      "gloss": "unanchata"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "allin kaypaq"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "qhawankum"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ñuqata cheqniqniykunan"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "hinaspa p'inqakunqaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "ñuqata yanaparqanki"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "hinaspa samichirqankim"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:33.525244766Z",
+  "model": "glm-5.3"
+}

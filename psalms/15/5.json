@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Qullqinta musuqwan mana qunchu, hinaspa huchannaq runata q'umichinapaq chayllata mana chaskinchu; kaykunata ruwaq runaqa wiñaypaqpas manam sarunchakunchu.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "qullqinta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qunchu"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "musuqwan"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "hinaspa chayllata"
+    },
+    {
+      "surface": "על",
+      "gloss": "q'umichinapaq"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "huchannaq runata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "chaskinchu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykunata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sarunchakunchu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaqpas"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:21.037503720Z",
+  "model": "glm-5.3"
+}

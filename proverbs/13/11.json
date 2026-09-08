@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Ch'usaqmanta chaskisqa qullqimi pisiyan; hinaspa makiwan huñuqmi achkayachin.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ch'usaqmanta chaskisqa (ch'usaqmanta)"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "pisiyan"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "hinaspa huñuq"
+    },
+    {
+      "surface": "על",
+      "gloss": "wan (makiwan huñuspa)"
+    },
+    {
+      "surface": "יד",
+      "gloss": "maki"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "achkayachin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:40:36.963600442Z",
+  "model": "glm-5.3"
+}

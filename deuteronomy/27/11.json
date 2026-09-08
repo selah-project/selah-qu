@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinaspa Moshe chay p'unchawpi ⟨את⟩ runakunata kamachirqan kayta ninpa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta ninpa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:53:37.843067611Z",
+  "model": "glm-5.3"
+}

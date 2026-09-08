@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Shimshonmi ⟨את⟩ Israelta Pelishtakunap p'unchawkunapi iskay chunka wata juez karqan.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "juez karqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtakunap"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:54:19.379292151Z",
+  "model": "glm-5.3"
+}

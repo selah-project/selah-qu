@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Makiymi paywan saykanqa; makinchayniytaq payta sinchichinqami.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mayqenwan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makiymi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "saykanqa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "taq"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "makinchayniy"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "payta sinchichinqami"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:56.586355607Z",
+  "model": "glm-5.3"
+}

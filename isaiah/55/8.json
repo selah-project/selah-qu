@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Imaraykuchus ñuqap yuyayniy manam qankunap yuyayniykichikchu, hinaspa qankunap ñankunachus manam ñuqap ñanniychu, Yahwepa nisqanmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "ñuqap yuyayniy"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "qankunap yuyayniykichik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa manam"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "qankunap ñankunachi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ñuqap ñanniy"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nisqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:34:58.198819148Z",
+  "model": "glm-5.3"
+}

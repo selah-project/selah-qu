@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Qantaq ⟨את⟩ kay rimasqanchikta willaptiykiqa, qampaq muhuraykimanta culpannaqchu kaniku saqikunaku, mayqinta qam ñuqanchikta muhurachirqanki.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "qantaq"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "willaptiykiqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay rimasqanchikta"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "kay rimasqanchikta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "kaniku saqikunaku"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "culpannaqchu"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "qampaq muhuraykimanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "ñuqanchikta muhurachirqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T03:09:34.346988742Z",
+  "model": "glm-5.3"
+}

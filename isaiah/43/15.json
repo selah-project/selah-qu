@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Ñuqam Yahwe, qanchikpa Qodeshnichik, Israelpa Kamariqnin, qanchikpa apu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Qodeshnichik"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Kamariq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "apu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:25:26.225703747Z",
+  "model": "glm-5.3"
+}

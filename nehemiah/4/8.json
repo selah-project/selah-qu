@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 4:8",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Ñuqam qhawarqani, sayarirqani, hinaspa hatun runakunaman, kamachiqkunaman, wak runakunamanpas nirqani: «Ama paykunamanta manchakunkichikchu; ⟨את⟩ hatun, mancharikuq Adonayta yuyariychik, hinaspa wawqeykikunapaq, churiykichikpaq, ususiykichikpaq, warmiykichikpaq, wasiykichikpaq maqanakuykichik.»",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "qhawarqani"
+    },
+    {
+      "surface": "ואקום",
+      "gloss": "sayarirqani"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "hatun runakunaman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ... man"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "kamachiqkunaman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ... manpas"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "wak"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunamanpas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "manchakunkichikchu"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatun, mancharikuq Adonayta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayta"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "mancharikuq"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "yuyariychik"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "maqanakuykichik"
+    },
+    {
+      "surface": "על",
+      "gloss": "paq"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "wawqeykikunapaq"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "churiykichikpaq"
+    },
+    {
+      "surface": "ובנתיכם",
+      "gloss": "ususiykichikpaq"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "warmiykichikpaq"
+    },
+    {
+      "surface": "ובתיכם",
+      "gloss": "wasiykichikpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:20:31.096873178Z",
+  "model": "glm-5.3"
+}

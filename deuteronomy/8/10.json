@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Mik'uspa hunt'akuspa, ⟨את⟩ Yahweta Elohimniyki allin hallp'a rayku, qamman qamusqamanta bendiniwanki.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "mik'uspa"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "hunt'akuspa"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "hinaspa bendiniwanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "allin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qamusqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:34:20.431738134Z",
+  "model": "glm-5.3"
+}

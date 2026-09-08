@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Cheqalla runap llamk'usqanqa kawsaypaqmi; millay runap lluqsisqanqa juchapaqmi.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "llamk'usqan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cheqalla runap"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "kawsaypaqmi"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "lluqsisqan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "millay runap"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "juchapaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:40:30.195144707Z",
+  "model": "glm-5.3"
+}

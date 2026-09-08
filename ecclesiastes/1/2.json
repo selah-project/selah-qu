@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ch'usaq, ch'usaqkunam Qohelet nin; ch'usaq, ch'usaqkuna — tukuyqa ch'usaqmi.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ch'usaqkuna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Qohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ch'usaqkuna"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tukuyqa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ch'usaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:31.216034156Z",
+  "model": "glm-5.3"
+}

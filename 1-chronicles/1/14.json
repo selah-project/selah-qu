@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "hinaspa ⟨את⟩ Yevusita (Jebuseo), hinaspa ⟨את⟩ Emorita (Amorreo), hinaspa ⟨את⟩ Girgashita (Gergeseo).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yevusita"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yevusita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Emorita"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Girgashita"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashita"
+    }
+  ],
+  "timestamp": "2026-09-08T12:28:52.174021485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Kanqam: Yahwem qamta Kenaanpa hallp'aman chayachiptin, hina qamman hinaspa taytaykikunaman huqasqan, chayta qampa churinqa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "qamta chayachiptin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanpa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "huqasqan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "hinaspa taytaykikunaman"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "churinqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:25.948266405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaywanmi yanqaqaykipas chaykunawan yachachikusqam; chaykunta waqaychaspaqa hatun michiqmi ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanqaqayki"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "yachachikusqam"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaykunawan"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "chaykunta waqaychaspa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "michiq"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:43.714806037Z",
+  "model": "glm-5.3"
+}

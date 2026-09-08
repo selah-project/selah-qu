@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 6:13",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa ñuqataqmi ñuqa qallarirqani qamta nanachiyta, qamta ch'usaqchayta juchaykunayki rayku.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "hinaspa ñuqataqmi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "החליתי",
+      "gloss": "qallarirqani ⟨unuchayki⟩"
+    },
+    {
+      "surface": "הכותך",
+      "gloss": "qamta nanachiyta"
+    },
+    {
+      "surface": "השמם",
+      "gloss": "qamta ch'usaqchayta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "חטאתך",
+      "gloss": "juchaykunayki rayku"
+    }
+  ],
+  "timestamp": "2026-09-08T14:36:59.867062273Z",
+  "model": "glm-5.3"
+}

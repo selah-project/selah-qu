@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 82,
+  "translation": "Chiqaptaq runa hina wañunkichikmi, hinaspa huk umalliqkuna hina urmakunkichikmi.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "chiqaptaq"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "runa hina"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "wañunkichik"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "hinaspa huk"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "umalliqkuna hina"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "urmakunkichik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:16.017032170Z",
+  "model": "glm-5.3"
+}

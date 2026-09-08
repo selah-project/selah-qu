@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Chaymanta paykuna waqaychankum ⟨את⟩ toldo tupachikuypa waqaychayta, hinaspa ⟨את⟩ santu kaqpa waqaychayta, Aharonpa churinkunap waqaychaytawan, wawqenku, Yahwep wasin sirvininpaq.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "waqaychankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toldo tupachikuypa waqaychayta"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "waqaychayta"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "toldo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tupachikuy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "santu kaqpa waqaychayta"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "waqaychayta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santu kaqpa"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "waqaychaytawan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "wawqenku"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "sirvininpaq"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T12:50:26.785438574Z",
+  "model": "glm-5.3"
+}

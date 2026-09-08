@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaymanta Esterm kutirirqanm, nispam nirqan: Kay ñuqap mañasqay, kay ñuqap munasqay —",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "kutirirqanm"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nispam nirqan"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ñuqap mañasqay"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "ñuqap munasqay"
+    }
+  ],
+  "timestamp": "2026-09-08T11:46:35.680258656Z",
+  "model": "glm-5.3"
+}

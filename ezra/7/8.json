@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa chayarqan Yerushalayimman (Jerusalén) pichqa kaq killapim — chayqa apukaq qanchis kaq watinmi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimman"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "killapi"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "pichqa kaq"
+    },
+    {
+      "surface": "היא",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "watin"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "qanchis kaq"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apukaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:14:32.427675562Z",
+  "model": "glm-5.3"
+}

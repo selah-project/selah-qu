@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Anahpa churinkunam: Dishon. Dishonpa churinkunataq: Hamran, hinaspa Eshban, hinaspa Yitran, hinaspa Keran.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anahpa"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Dishon"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "hinaspa churinkuna"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Dishonpa"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "Hamran"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "hinaspa Eshban"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "hinaspa Yitran"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "hinaspa Keran"
+    }
+  ],
+  "timestamp": "2026-09-08T12:28:58.812728262Z",
+  "model": "glm-5.3"
+}

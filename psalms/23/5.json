@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Ñawpaypiypi mushqakusqaykimanta ñawpaqpi mesata chaninchankim, awqañiqiykunap ñawpaqpi; hakuwantawan umayta llusichiwanki, qhawarunayqa hunt'asqam.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "mesata chaninchankim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaypiipi"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "awqañiqiykuna"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "llusichiwanki"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "hakuwantawan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umayta"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "qhawarunay"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "hunt'asqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:44.891299359Z",
+  "model": "glm-5.3"
+}

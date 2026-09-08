@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Rimana tariykimanta ⟨את⟩ masiykiwan rimanakuymanta, huk wak runap sodinta ama willaychu.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "rimana tariykimanta"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "rimanakuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masiykiwan"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "masiyki"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "hinaspa sodinta"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "huk wak runap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "willaychu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:48:58.379418676Z",
+  "model": "glm-5.3"
+}

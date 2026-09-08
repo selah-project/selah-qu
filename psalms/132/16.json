@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "psalms 132:16",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 132,
+ "translation": "Paypa kohenninkunatawan qespichiyta churasaqmi, paypa jesed runankunataq qhapaqta qhaparinqa.",
+ "tokens": [
+  {
+   "surface": "וכהניה",
+   "gloss": "paypa kohenninkunatawan"
+  },
+  {
+   "surface": "אלביש",
+   "gloss": "churasaqmi"
+  },
+  {
+   "surface": "ישע",
+   "gloss": "qespichiyta"
+  },
+  {
+   "surface": "וחסידיה",
+   "gloss": "paypa jesed runankunataq"
+  },
+  {
+   "surface": "רנן",
+   "gloss": "qhapaqta"
+  },
+  {
+   "surface": "ירננו",
+   "gloss": "qhaparinqa"
+  }
+ ],
+ "timestamp": "2026-09-08T10:27:34.622721053Z",
+ "model": "glm-5.3"
+}

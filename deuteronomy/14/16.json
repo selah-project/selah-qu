@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "⟨את⟩ kosata, hinaspa ⟨את⟩ yanshuphta, hinaspa hatinshametmi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kosata"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kosa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yanshuphta"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "yanshuph"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "hinaspa hatinshametmi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:38:51.716383604Z",
+  "model": "glm-5.3"
+}

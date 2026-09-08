@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Kamachiqman, Korachpa wawankunapaq, yachachina qillqam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kamachiqman"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunapaq"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachpa"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yachachina qillqam"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:28.917657652Z",
+  "model": "glm-5.3"
+}

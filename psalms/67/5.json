@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 67,
+  "translation": "K'usikunmi hinaspa joyllayanku llaqtakuna, imaraykuchus runakunata chiqapmi taripanki, hallp'apim llaqtakunata pusanki. Sela.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "k'usikunmi"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "hinaspa joyllayanku"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "llaqtakuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "taripanki"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "chiqapmi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'apim"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "pusanki"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:32.822571087Z",
+  "model": "glm-5.3"
+}

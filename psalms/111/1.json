@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 111,
+  "translation": "Yah-ta hallichik. Yahweta hunt'a sunquwanmi yupaychasaq, chiqaq runakunap huñunakuyninpi, llapa huñunakuypipas.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "hallichik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah-ta"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "yupaychasaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sunquwan"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "huñunakuyninpi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "chiqaq runakunap"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "llapa huñunakuypipas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:44.604181989Z",
+  "model": "glm-5.3"
+}

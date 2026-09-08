@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 20:38",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Navim purirqan, apunpaq ñan patapi sayarirqan, qullpatawan ñawinkunapata t'ikrarparqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navim"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apunpaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "ויתחפש",
+      "gloss": "t'ikrarparqan"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "qullpatawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ñawinkunapata"
+    }
+  ],
+  "timestamp": "2026-09-08T13:41:14.777071749Z",
+  "model": "glm-5.3"
+}

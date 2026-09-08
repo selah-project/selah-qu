@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Llapan rimaykunaqa saqirusqañam; manam runa atinchu rimayta; ñawipas manam chaskanachu qhawanata, rinripas manam hunt'akunchu uyariymanta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "rimaykunaqa"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "saqirusqañam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "atinchu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "chaskanachu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ñawipas"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qhawanata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinallataq manam"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "hunt'akunchu"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "rinripas"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "uyariymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:29.788898454Z",
+  "model": "glm-5.3"
+}

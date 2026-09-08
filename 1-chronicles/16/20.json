@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "1-chronicles 16:20",
+ "book": "1-chronicles",
+ "lang": "qu",
+ "chapter": 16,
+ "translation": "Hinaspa llaqtamanta llaqtaman puriychakurqankum, mamallaktamanta wak runakunamanpas.",
+ "tokens": [
+  {
+   "surface": "ויתהלכו",
+   "gloss": "hinaspa puriychakurqankum"
+  },
+  {
+   "surface": "מגוי",
+   "gloss": "llaqtamanta"
+  },
+  {
+   "surface": "אל",
+   "gloss": "llaqtaman"
+  },
+  {
+   "surface": "גוי",
+   "gloss": "llaqta"
+  },
+  {
+   "surface": "ומממלכה",
+   "gloss": "mamallaktamanta"
+  },
+  {
+   "surface": "אל",
+   "gloss": "runakunaman"
+  },
+  {
+   "surface": "עם",
+   "gloss": "runakuna"
+  },
+  {
+   "surface": "אחר",
+   "gloss": "wak"
+  }
+ ],
+ "timestamp": "2026-09-08T12:43:57.302807273Z",
+ "model": "glm-5.3"
+}

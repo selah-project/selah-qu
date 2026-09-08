@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 11:35",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa mamallaktata wawanpa makinmanta hurqusaqmi, hinaspa qamman churasaq ⟨את⟩ chunka ayllukunata.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "hinaspa hurqusaqmi"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "mamallaktata"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wawanpa"
+    },
+    {
+      "surface": "ונתתיה",
+      "gloss": "hinaspa churasaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chunka ayllukunata"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "ayllukunata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:10:50.355612526Z",
+  "model": "glm-5.3"
+}

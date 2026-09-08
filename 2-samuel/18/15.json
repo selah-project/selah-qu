@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chunka waynakunam, Yoavpa awqanakunata apanak, muyurispa ⟨את⟩ Avshalomta maqarqanku, wañuchirqankum.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "muyurirqanku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "waynakuna"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "apanak"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "awqanakunata"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavpa"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "maqarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomta"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomta"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "wañuchirqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T04:50:32.861821062Z",
+  "model": "glm-5.3"
+}

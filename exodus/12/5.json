@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Sehqa tukuylla qhari, huk wata churiyuj kanqam qamkunapaq; karnerokunamanta utaq k'awnakunamanta churankichik.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "seh"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "tukuylla"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "karnerokunamanta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "utaq ... manta"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "k'awnakunamanta"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "churankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:50.870281112Z",
+  "model": "glm-5.3"
+}

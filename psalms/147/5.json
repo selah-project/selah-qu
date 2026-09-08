@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Hatunmi Adonayninchik, askha kallpayuq; paqtachayninqa mana yupayniyuqmi.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Hatun"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonayninchik"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kallpayuq"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "paqtachayninqa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "yupayniyuq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:35.497615045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa Yahwem ⟨את⟩ Mitsrayimta llakichinqa, llakichispa hampirqapuspa; hinaspa paykunaq Yahweman kutimunqanku, paykunaman ñawinchakunqam, hampinqakum.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "llakichinqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimta"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "llakichispa"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "hampirqapuspa"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "kutimunqanku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "ñawinchakunqa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "hampinqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:03:02.378447926Z",
+  "model": "glm-5.3"
+}

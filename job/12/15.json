@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Qhawariy: paymi unuta hark'aspa churan, chaysi ch'akikunmi; paymi chaskachaspa kachapan, chaysi hallp'ata t'ikraykapan.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "paymi... hark'aspa churan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unuta"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "chaysi ch'akikunmi"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "paymi chaskachaspa kachapan"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "chaysi... t'ikraykapan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ata"
+    }
+  ],
+  "timestamp": "2026-09-08T11:03:08.270633139Z",
+  "model": "glm-5.3"
+}

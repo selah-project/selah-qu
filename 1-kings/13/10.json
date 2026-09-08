@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chaymanta huk ñanpi purirqanmi, mana Bet Elman hamusqan ñanpi kutirqanchu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "huk (wak)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kutirqan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamusqan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-08T05:09:57.929464716Z",
+  "model": "glm-5.3"
+}

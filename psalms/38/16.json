@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Chiqaqtaq qampaq, Yahwe, suyarqanim; qam kutichinki, Adonay, Elohimniy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chiqaqtaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "suyarqanim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "kutichinki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:42.713426359Z",
+  "model": "glm-5.3"
+}

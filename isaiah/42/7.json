@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Ñawsakunap ñawinkunata kichaypaq, wichq'ay wasimanta wichq'asqata lluqsichinapaq, luitapi tiyaqkunata wichq'ay wasimanta lluqsichinapaq.",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "kichaypaq"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ñawikuna"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "ñawsakunap"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "lluqsichinapaq"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "wichq'ay wasimanta"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "wichq'asqa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasimanta"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "wichq'ay wasa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "luitapi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:22:27.722408234Z",
+  "model": "glm-5.3"
+}

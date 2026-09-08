@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 95,
+  "translation": "Ama sunqiykichikta sinchichiychu Merivahpi hina, Massah p'unchaw hina, ch'usaqpi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama...chu"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "sinchichiychu"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sunqiykichikta"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "Merivahpi hina"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "p'unchaw hina"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massah"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaqpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:57.441393056Z",
+  "model": "glm-5.3"
+}

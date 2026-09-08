@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Runapim huk rimay kaptin ñuqaman chayamun; ñuqaq huk runawan huk masinwan taripanini, hinaspa ⟨את⟩ Elohimpa kamachikuyninkunata, hinaspa ⟨את⟩ Tontanta yachachinini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "runapim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "huk rimay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayamun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "taripanini"
+    },
+    {
+      "surface": "בין",
+      "gloss": "huk runawan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hinaspa huk"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "masinwan"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "yachachinini hinaspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamachikuyninkunata"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "kamachikuyninkunata"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tontanta"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "Tontanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:14.722106280Z",
+  "model": "glm-5.3"
+}

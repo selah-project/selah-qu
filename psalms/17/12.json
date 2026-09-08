@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "psalms 17:12",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 17,
+ "translation": "Rikch'ayninqa hatun uturunku hina, ch'itiyta munaspa mikhunata; hinaspa uturunku wawanhina pakasqa itinakunapi tiyachkan.",
+ "tokens": [
+  {
+   "surface": "דמינו",
+   "gloss": "rikch'ayninqa"
+  },
+  {
+   "surface": "כאריה",
+   "gloss": "hatun uturunku hina"
+  },
+  {
+   "surface": "יכסוף",
+   "gloss": "ch'itiyta munaspa"
+  },
+  {
+   "surface": "לטרוף",
+   "gloss": "mikhunata"
+  },
+  {
+   "surface": "וככפיר",
+   "gloss": "hinaspa uturunku wawanhina"
+  },
+  {
+   "surface": "ישב",
+   "gloss": "tiyachkan"
+  },
+  {
+   "surface": "במסתרים",
+   "gloss": "pakasqa itinakunapi"
+  }
+ ],
+ "timestamp": "2026-09-08T09:34:33.913222889Z",
+ "model": "glm-5.3"
+}

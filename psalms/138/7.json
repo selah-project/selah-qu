@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 138,
+  "translation": "Sichus llakikunap chawpinpi puriyman, kawsachiwankim; awqaykunap ch'akiyniykiman makiykita kachawanki, paña makiykiqtaq ñuqata qispichiwachkan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "puriyman"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "llakikunap"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "kawsachiwankim"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "אף",
+      "gloss": "ch'akiyniykiman"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqaykunap"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "kachawanki"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykita"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "ñuqata qispichiwachkan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "paña makiykiqtaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:47.981915056Z",
+  "model": "glm-5.3"
+}

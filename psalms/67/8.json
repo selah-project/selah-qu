@@ -1,0 +1,42 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "psalms 67:8",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 67,
+ "translation": "Elohim ñuqanchikta barkachunmi; hinaspa hallp'ap tukuy chaknankuna ⟨את⟩ Payta mancharikunchin.",
+ "tokens": [
+  {
+   "surface": "יברכנו",
+   "gloss": "barkachunmi"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "וייראו",
+   "gloss": "mancharikunchin"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ Payta",
+   "marks": "hallp'ap tukuy chaknankuna"
+  },
+  {
+   "surface": "כל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "אפסי",
+   "gloss": "chaknankuna"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "hallp'ap"
+  }
+ ],
+ "timestamp": "2026-09-08T09:58:32.823134109Z",
+ "model": "glm-5.3"
+}

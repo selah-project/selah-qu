@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chaypa saphin hallp'api machunaptinqa, chaypa khinrinqa q'uñapi wañunqami.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kaptinqa"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "machunqa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "chaypa saphin"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "q'uñapi"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wañunqa"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "chaypa khinrinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:21:28.826715627Z",
+  "model": "glm-5.3"
+}

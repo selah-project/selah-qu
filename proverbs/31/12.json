@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Payman allintam kutichin, mana allintataqchu, kawsayninp tukuy p'unchawkunapi.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "payman kutichin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "רע",
+      "gloss": "allin mana kasqata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "kawsayninp"
+    }
+  ],
+  "timestamp": "2026-09-08T10:55:20.041427221Z",
+  "model": "glm-5.3"
+}

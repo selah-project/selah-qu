@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Tsaddiqkuna hallp'ata chaskinqankum, hinaspa chaypi wiñaypaq tiyanku.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "Tsaddiqkuna"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "chaskinqankum"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "hinaspa tiyanku"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:21.223860021Z",
+  "model": "glm-5.3"
+}

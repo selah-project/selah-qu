@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "hinaspa ⟨את⟩ payta hunt'arqani Elohimpa saminwan, yachaypi, hamut'aypipas, riqsiypipas, llapa llamk'aypipas.",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "hunt'arqani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta (Betsalelta)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "samin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "yachaypi"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "hamut'aypipas"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "riqsiypipas"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "llamk'aypipas"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:58.723223458Z",
+  "model": "glm-5.3"
+}

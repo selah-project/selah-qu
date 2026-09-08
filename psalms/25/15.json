@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Ñawiymi llapa p'unchaw Yahweman ⟨kan⟩mi, paymi ñawiykita wayamanta hurqunqa.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ñawiymi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "llapa p'unchaw"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweman ⟨kan⟩mi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "hurqunqa"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "wayamanta"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ñawiykita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:27.914582792Z",
+  "model": "glm-5.3"
+}

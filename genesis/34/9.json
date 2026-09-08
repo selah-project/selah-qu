@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Hinaspa ñuqaykuwan aylluchakuychik: ⟨את⟩ warmi wawaykichikta ñuqaykuman churay, hinaspa ⟨את⟩ warmi wawaykuta qamkichikman chaskiy.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "hinaspa ñuqaykuwan aylluchakuychik"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "warmi wawaykichikta"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "warmi wawaykichik"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "churay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykuman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "warmi wawaykuta"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "warmi wawayku"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "chaskiy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkichikman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:32.196650188Z",
+  "model": "glm-5.3"
+}

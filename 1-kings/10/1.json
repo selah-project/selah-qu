@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Sheba reina uyarmi rikurqan ⟨את⟩ Shelomopa willakuyninta Yahwepa Sutinrayku, hinaspa hamurqanmi payta yawch'inanpaq chiqtikunawan.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "hinaspa Sheba reina"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomopa willakuyninta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "willakuynin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Sutinrayku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "hinaspa hamurqanmi"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "payta yawch'inanpaq"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "chiqtikunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:07:15.777401853Z",
+  "model": "glm-5.3"
+}

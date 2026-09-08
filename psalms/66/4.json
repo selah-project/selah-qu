@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Llapa kay pacha qamman p'akinkapakamunqam, qamman takinqa, Sutikita takinqam. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Llapa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacha"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "p'akinkapakamunqam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "hinaspa takinqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "takinqam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutikita"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:02.842160210Z",
+  "model": "glm-5.3"
+}

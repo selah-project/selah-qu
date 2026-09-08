@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa chaymanmi apukunaman, chinchayladopi kaqkunaman: urqukunapi, pampapi Kinerotpa ullanpi, hinallataq uch'u pampapi, Dorpa ch'akanpi, inti chinkay ladopi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa chayman"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "may"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "chinchayladopi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqukunapi"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "pampapi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ullan"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinerotpa"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "uch'u pampapi"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "ch'akanpi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dorpa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "inti chinkay ladupi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:20:12.862434446Z",
+  "model": "glm-5.3"
+}

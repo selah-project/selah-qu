@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 141,
+  "translation": "Qampallaqmi, Yahwe, Adonay, ñuqap ñawiykuna ⟨kan⟩; qampim ñuq patachakurqani; ama ñuqap nefeshta ch'usaqchu awanchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "qampallaqmi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñuqap ñawiykuna"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "qampim"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "patachakurqani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ch'usaq awanchu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap nefeshta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:34.735028330Z",
+  "model": "glm-5.3"
+}

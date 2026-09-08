@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Kaykunam karqan paykunap taytankunanpa umalliqninkuna, hinaspa paykunap k'tsara yachakuyninkuna, ñuqawan Artajshashta (Artajerjes) apup kamachikuyninpi Babylonmanta lluqsiqkuna.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "hinaspa kaykuna"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "paykunap taytankunanpa"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "hinaspa paykunap k'tsara yachakuyninkuna"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "lluqsiqkuna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "kamachikuyninpi"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artajshashta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apup"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Babylonmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:15:40.484265356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chaypimi manchayta mancharikurqanku, imaraykuchus Elohimqa allin runakuna ukhupillapim kachkan.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "mancharikurqanku"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "manchayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "…ukhupillapi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:19.790793675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 4:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hebeltaq paypas michinpak ñawpaq wachasqanmanta, irasmantanwan apamurqanmi; Yahwem Hebeltaman, paypa minchanmanwan qawarqanmi.",
+  "tokens": [
+    {
+      "surface": "והבל",
+      "gloss": "Hebeltaq"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "apamurqanmi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "paypas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "מבכרות",
+      "gloss": "ñawpaq wachasqanmanta"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "michinpak"
+    },
+    {
+      "surface": "ומחלבהן",
+      "gloss": "irasmanwan"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "qawarqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebeltaman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…manwan"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "paypa minchanman"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:03.089801878Z",
+  "model": "glm-5.3"
+}

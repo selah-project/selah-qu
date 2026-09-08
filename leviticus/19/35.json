@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Mana allin kasqata ama ruwaychinkichikchu kamachikuypi, tupunapi, llasa tupunapi, unu tupunapiwan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ruwaychinkichikchu"
+    },
+    {
+      "surface": "עול",
+      "gloss": "mana allin kasqata"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kamachikuypi"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "tupunapi"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "llasa tupunapi"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "unu tupunapiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:20.176727084Z",
+  "model": "glm-5.3"
+}

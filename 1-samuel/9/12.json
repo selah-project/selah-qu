@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chay warmikunaqam ⟨את⟩ paykunata kutichispa willarqaku: «Kachkanmi; qhaway, ñawpaqniki; kunan utqaykuy, imaraykuchus kunan p'unchawmi llaqtaman chayarqan, chayrayku korbanmi kunan p'unchaw runakunapaq hanan jawch'api (bama).»",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "kutichispa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "willarqaku"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kachkanmi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ñawpaqniki"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "utqaykuy"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "llaqtaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "runakunapaq"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "hanan jawch'api"
+    }
+  ],
+  "timestamp": "2026-09-08T04:09:15.776522654Z",
+  "model": "glm-5.3"
+}

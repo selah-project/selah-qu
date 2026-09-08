@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 98,
+  "translation": "Yahweman qhapariy, llapan hallp'a; phaskariy, hinaspa kusikuspa karqariy, hinaspa takiy.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "qhapariy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "phaskariy"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "hinaspa kusikuspa karqariy"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "hinaspa takiy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:00.426395584Z",
+  "model": "glm-5.3"
+}

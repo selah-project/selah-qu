@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Imarayku Yahwe runantinta taripanqami, hinaspa yanapankunapaq sunquparikunqami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "taripanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "runantinta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapankunapaq"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "sunquparikunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:06.241338975Z",
+  "model": "glm-5.3"
+}

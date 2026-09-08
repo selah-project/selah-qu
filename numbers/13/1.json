@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa Yahwem Mosheman rimarqan, nispam:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moshe: "
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispam"
+    }
+  ],
+  "timestamp": "2026-09-08T01:27:08.933851623Z",
+  "model": "glm-5.3"
+}

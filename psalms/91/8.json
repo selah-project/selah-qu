@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "Ñawiykilla qhawanki, hinaspa mana allin runakunap rakinta rikunki.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "lla"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ñawiyki"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "qhawanki"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "hinaspa rakinta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakunap"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "rikunki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:28.698785810Z",
+  "model": "glm-5.3"
+}

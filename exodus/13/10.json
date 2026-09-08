@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa ⟨את⟩ kay kamachikuqta pachanpi waqaychanki, p'unchawkunamanta p'unchawkunaman.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "hinaspa waqaychanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay kamachikuqta"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "kamachikuqta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "pachanpi"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "p'unchawkunamanta"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "p'unchawkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:25.948078936Z",
+  "model": "glm-5.3"
+}

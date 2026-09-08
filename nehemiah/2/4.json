@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaysi apum ñuqaman nirqan: «Imataq kayta qam mañakunki?» Chaysi Hanaq Pachap Elohimninman mañakurqani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "על",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "mañakunki"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "mañakurqani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimninman"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Hanaq Pachap"
+    }
+  ],
+  "timestamp": "2026-09-08T12:19:53.331019367Z",
+  "model": "glm-5.3"
+}

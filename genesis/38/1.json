@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "genesis 38:1",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 38,
+ "translation": "Chay p'unchawpim Yehudam wawqinkunamanta ⟨את⟩ urmarqan hinaspa huk Adulam runaman t'ikrarqan; paypa sutinqa Jirah (Hira) karqan.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "karqan"
+  },
+  {
+   "surface": "בעת",
+   "gloss": "chay p'unchawpi"
+  },
+  {
+   "surface": "ההוא",
+   "gloss": "chay"
+  },
+  {
+   "surface": "וירד",
+   "gloss": "urmarqan"
+  },
+  {
+   "surface": "יהודה",
+   "gloss": "Yehuda"
+  },
+  {
+   "surface": "מאת",
+   "gloss": "⟨את⟩ manta",
+   "marks": "wawqinkunamanta"
+  },
+  {
+   "surface": "אחיו",
+   "gloss": "wawqinkuna"
+  },
+  {
+   "surface": "ויט",
+   "gloss": "t'ikrarqan"
+  },
+  {
+   "surface": "עד",
+   "gloss": "man"
+  },
+  {
+   "surface": "איש",
+   "gloss": "runa"
+  },
+  {
+   "surface": "עדלמי",
+   "gloss": "Adulam runa"
+  },
+  {
+   "surface": "ושמו",
+   "gloss": "paypa sutinqa"
+  },
+  {
+   "surface": "חירה",
+   "gloss": "Jirah"
+  }
+ ],
+ "timestamp": "2026-09-08T00:10:41.255466156Z",
+ "model": "glm-5.3"
+}

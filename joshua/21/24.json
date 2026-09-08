@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon (Ajalón) llaqtatawan ⟨את⟩ michina pachanta, ⟨את⟩ Gath-Rimmon (Gat-Rimón) llaqtatawan ⟨את⟩ michina pachanta — tawa llaqta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon llaqtatawan"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon (Ajalón)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michina pachanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michina pachanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gath-Rimmon llaqtatawan"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon (Rimón)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michina pachanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michina pachanta"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tawa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:28:36.513128283Z",
+  "model": "glm-5.3"
+}

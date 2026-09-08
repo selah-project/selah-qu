@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa kohenmi minchamanta ⟨את⟩ azkartanta hatarichirqan, hinaspa altarpi tunuchirqan — ninaman ofrenda, samikunaq sami Yahwepaq.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "hinaspa hatarichirqan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "azkartanta"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "azkarta (recordación-parten)"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "hinaspa tunuchirqan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarpi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ninaman ofrenda"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "sami"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "samikunaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:28.015504294Z",
+  "model": "glm-5.3"
+}

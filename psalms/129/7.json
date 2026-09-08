@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 129,
+  "translation": "Chaymi charwana ichhu rutuq makiywan hunt'achinchu, charwana waturiqpas sanqanta hunt'achinchu.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'achinchu"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "makiywan"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "charwana ichhu rutuq"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "hinaspa sanqanta"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "charwana waturiqpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:09.537301767Z",
+  "model": "glm-5.3"
+}

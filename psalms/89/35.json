@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Beritniyta (pactoyta) manam phuchusqayqasaqchu, simirinpimanta lluqsisqata manam tikraqasaqchu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "phuchusqayqasaq"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beritniyta (pactoyta)"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "lluqsisqata"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "simirinpimanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "tikraqasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:24.541208639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chay hallp'amanta Ashur lluqsirqanm; hinaspa ⟨את⟩ Ninweta (Nínive), ⟨את⟩ Rejovot llaqtata, ⟨את⟩ Kalta winayarqan.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsirqanm"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "winayarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninweta"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Rejovot llaqtata"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rejovot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kalata"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:55.752806391Z",
+  "model": "glm-5.3"
+}

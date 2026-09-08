@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Davidpa. Qamman, Yahwe, qayani, ñuqap haqta; ama ñuqamanta upallaychu; ama ñuqamanta upallaptiyki, ukhu tiyanaman uraykuqkuna hina tukunimanmi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Qamman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qayani"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ñuqap haqta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "upallaychu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "פן",
+      "gloss": "manaqa"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "upallaptiyki"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "tukunimanmi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "uraykuqkuna"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ukhu tiyanaman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:11.826042850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Munanimi, imarayku Yahwem uyarinmi ⟨את⟩ kunkayta, mañakuykunaytawan.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "munanimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uyarin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunkayta, mañakuykunaytawan"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "kunkayta"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mañakuykunaytawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:17.946802691Z",
+  "model": "glm-5.3"
+}

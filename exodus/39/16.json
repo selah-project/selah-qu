@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hinaspa ruwarqankumi iskay quri wasichaykunata, hinaspa iskay quri anillukunata; hinaspa ⟨את⟩ iskay anillukunata Hoshenpa iskay k'uchunpi churarqanku.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "wasichaykuna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "hinaspa iskay"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "anillukuna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "churarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iskay anillukunata"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "anillukunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "k'uchun"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hoshenpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:32.416577081Z",
+  "model": "glm-5.3"
+}

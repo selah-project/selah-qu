@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi Elohimqa llulla warmikunaman allinta rurarqan; runakunaqa askha tukurqankum, sinchi askhalla tukurqankum.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "allinta rurarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimqa"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "llulla warmikunaman"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "askha tukurqankum"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaqa"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "sinchi askhalla tukurqankum"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:26.403169026Z",
+  "model": "glm-5.3"
+}

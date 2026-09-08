@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Estherqa manam willarqanchu ⟨את⟩ paypa runantamanta, nitaq ⟨את⟩ paypa paqariyninmanta; Mordokaymi payta kamachirqan mana willanankupaq.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "willarqanchu"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa runanta"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "paypa runanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nitaq ⟨את⟩",
+      "marks": "paypa paqariyninta"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "paypa paqariyninta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "payta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "willanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:46:19.587775339Z",
+  "model": "glm-5.3"
+}

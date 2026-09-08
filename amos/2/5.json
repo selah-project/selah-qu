@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaysi ñuqa nina Yahwem kachamurqan Yehudaman, chaysi Yerushalayim (Jerusalén) pa qasakunata mikhusqa.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "kachamurqan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudaman"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mikhusqa"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "qasakunata"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalén)"
+    }
+  ],
+  "timestamp": "2026-09-08T08:55:54.332688327Z",
+  "model": "glm-5.3"
+}

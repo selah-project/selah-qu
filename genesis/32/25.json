@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Yaakovm sapallan karqan, hinaspa huk runam paywan mayt'unakurqan, paqar lluqsiyninkama.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "sapallan karqanmi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sapallan"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "mayt'unakurqanmi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "lluqsiynin"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "paqar"
+    }
+  ],
+  "timestamp": "2026-09-08T00:05:38.556648236Z",
+  "model": "glm-5.3"
+}

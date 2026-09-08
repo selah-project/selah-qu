@@ -1,0 +1,73 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "leviticus 19:15",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 19,
+ "translation": "Ama juzgaypi awqallikuta ruwaychischu; ama wakllapa ñawinta hanllark'aychu, hatun runap ñawintaq ama sumjachuychu; cheqan kasqawanmi masniykita juzgay.",
+ "tokens": [
+  {
+   "surface": "לא",
+   "gloss": "ama"
+  },
+  {
+   "surface": "תעשו",
+   "gloss": "ruwaychischu"
+  },
+  {
+   "surface": "עול",
+   "gloss": "awqalliku"
+  },
+  {
+   "surface": "במשפט",
+   "gloss": "juzgaypi"
+  },
+  {
+   "surface": "לא",
+   "gloss": "ama"
+  },
+  {
+   "surface": "תשא",
+   "gloss": "hanllark'aychu"
+  },
+  {
+   "surface": "פני",
+   "gloss": "ñawin"
+  },
+  {
+   "surface": "דל",
+   "gloss": "waklla"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "ama"
+  },
+  {
+   "surface": "תהדר",
+   "gloss": "sumjachuychu"
+  },
+  {
+   "surface": "פני",
+   "gloss": "ñawin"
+  },
+  {
+   "surface": "גדול",
+   "gloss": "hatun runa"
+  },
+  {
+   "surface": "בצדק",
+   "gloss": "cheqan kasqawan"
+  },
+  {
+   "surface": "תשפט",
+   "gloss": "juzgay"
+  },
+  {
+   "surface": "עמיתך",
+   "gloss": "masniyki"
+  }
+ ],
+ "timestamp": "2026-09-08T01:06:23.793856865Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 98,
+  "translation": "Mizmor. Yahweman takiy musuq takita, imaraykuchus milagrokunata ruwarqanmi; pañamak'in hinaspa santu makin paypaq qespichirqan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "takiy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "milagrokunata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "qespichirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "pañamak'in"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "hinaspa santu maki"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santon"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:00.425924503Z",
+  "model": "glm-5.3"
+}

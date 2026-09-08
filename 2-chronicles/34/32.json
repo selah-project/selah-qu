@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Hinaspa ⟨את⟩ Yerushalayimpi (Jerusalén) hinaspa Binyaminpi tarikasqakunata llapanta sayachirqan; hinaspa Yerushalayimpa tiyaqkunaqa Elohimpa — taytankunap Elohimninpa — Berithina ruwarqanku.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "sayachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tarikasqakunata llapanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tarikasqakunata"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi (Jerusalén)"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "hinaspa Binyaminpi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "hinaspa ruwarqanku"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpa"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "Berithina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimninpa"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "taytankunap"
+    }
+  ],
+  "timestamp": "2026-09-08T13:22:34.640818889Z",
+  "model": "glm-5.3"
+}

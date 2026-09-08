@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Davidm waktaylla maskaq runakunata kacharqan; chaymanta riqsirqanmi Shaul cheqta chayamusqanta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidm"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "waktaylla maskaq runakunata"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "riqsirqanmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nisqanta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayamusqanta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cheqta"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "cheqta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:26:58.433691144Z",
+  "model": "glm-5.3"
+}

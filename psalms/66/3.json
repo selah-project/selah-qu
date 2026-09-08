@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Niy Elohimman: «Ima manchachiqtinmi rurasqayki! Atiyniykipa askha kayninwan, awqaykiki llok'orikamunki lllullakuspa».",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Niy"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ima"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "manchachiqtinmi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "rurasqayki"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "askha kayninwan"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "atiyniykipa"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "llok'orikamunki llullakuspa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaykiki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:02.842023613Z",
+  "model": "glm-5.3"
+}

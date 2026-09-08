@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Chaypi ⟨את⟩ ñuqaykuwan kamarqanku huk wayna Ivrí (Hebreo), wayt'akunap apunpa yanapaq; payman willarqayku, chaysam ñuqaykuman ⟨את⟩ musqoykuta sut'icharqan, sapa runa kikin musqonman hina sut'ichaspa.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñuqaykuwan",
+      "marks": "ñuqaykuwan"
+    },
+    {
+      "surface": "נער",
+      "gloss": "wayna"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ivrí"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanapaq"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "apunpa"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wayt'akunap"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "willarqayku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "sut'icharqan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykuman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musqoykuta"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "musqoykuta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "kikin musqonman hina"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "sut'ichaspa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:11:57.621576857Z",
+  "model": "glm-5.3"
+}

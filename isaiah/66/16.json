@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Chaymi ninawan Yahwem taripakunqa, chillidunwanwan ⟨את⟩ tukuy aychata; Yahwep wañuchisqankunaqataq achka kanqaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "taripakunqa"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "chillidunwanwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy aycha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "achka kanqaku"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "wañuchisqankuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T06:46:25.786683627Z",
+  "model": "glm-5.3"
+}

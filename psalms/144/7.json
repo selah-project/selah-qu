@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 144,
+  "translation": "Hanp'araqmanta makiykikunata kachamuy; ñuqata qispichiy, achka unumanta, wak runakunap wawankunap makinmanta qispichiwaway.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "kachamuy"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "makiykikunata"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "hanp'araqmanta"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "ñuqata qispichiy"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "qispichiwaway"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "achka unumanta"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "achka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "...ap makinmanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wak runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:57.280845061Z",
+  "model": "glm-5.3"
+}

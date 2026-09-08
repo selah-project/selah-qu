@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chaymi paykunaman qoyanku ⟨את⟩ Qiryat Arba llaqtata, Anaqpa taytanpa — payqa Hevronmi, Yehudap orqopi — hinaspa ⟨את⟩ michi pampakunatawan, muyuriqninpi.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "qoyanku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qiryat Arba llaqtata"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytanpa"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anaqpa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqopi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michi pampakunatawan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michi pampakunata"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "muyuriqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:27:45.269358564Z",
+  "model": "glm-5.3"
+}

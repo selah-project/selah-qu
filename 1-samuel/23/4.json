@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Chaysi David Yahweta wakmanta tapurqan; chaysi Yahwem kutichirqan, nispam: Sayariy, Qeilaman uraykoy, imaraykuchus ñuqam ⟨את⟩ Pelishti runakunata qampa makiykiman churasaq.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "wakmanta tapurqan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wakmanta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "tapuyta"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispam"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "רד",
+      "gloss": "uraykoy"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeilaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishti runakunata"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti runakunata"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "qampa makiykiman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:24:26.297016213Z",
+  "model": "glm-5.3"
+}

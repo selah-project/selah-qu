@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Barakqa payman nirqan: «Qam ñuqawan puriqtiyki, ñuqa purisaqmi; qam mana ñuqawan puriwaqkichu, ñuqa mana purisaqchu.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "puriqtiyki (si)"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "puriqtiyki"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "purisaqmi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "si mana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "puriwaqki"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "purisaqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T03:41:00.651020405Z",
+  "model": "glm-5.3"
+}

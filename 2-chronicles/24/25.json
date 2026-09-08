@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 24:25",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaymanta paykuna paymanta riptinkum, imaraykuchus payta ⟨את⟩ askha unqaykunawan saqirqanku; Yehoyada kohenpa churinkunap yawninmanta paypa yanapaqninkuna payta liwirqanku, wañuchirqanku paypa wihchan patapi; wañurqan, chaymantataq Davidpa llaqtanpi p'ancharqanku, icha manam apukunap p'anqakunapi p'anchasqankuchu.",
+  "tokens": [
+    {
+      "surface": "ובלכתם",
+      "gloss": "riptinkum"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "saqirqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "במחליים",
+      "gloss": "unqaykunawan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "התקשרו",
+      "gloss": "liwirqanku"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "paypa yanapaqninkuna"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "yawninmanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "wañuchirqanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "paypa wihchan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "p'ancharqanku"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "קברהו",
+      "gloss": "p'anchasqankuchu"
+    },
+    {
+      "surface": "בקברות",
+      "gloss": "p'anqakunapi"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "apukunap"
+    }
+  ],
+  "timestamp": "2026-09-08T13:12:05.264400517Z",
+  "model": "glm-5.3"
+}

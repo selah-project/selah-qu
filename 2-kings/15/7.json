@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Azaryahumi taytakunawan puñurqan, taytakunawanmi Davidpa llaqtanpi ⟨את⟩ payta pampacharqanku; chaymantami paypa churin Yotam pay rantin kamachirqan.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "puñurqan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "taytakunawan"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "pampacharqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "taytakunawan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "pay rantin"
+    }
+  ],
+  "timestamp": "2026-09-08T05:37:46.019283680Z",
+  "model": "glm-5.3"
+}

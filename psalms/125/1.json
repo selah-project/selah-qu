@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 125,
+  "translation": "Hanaqman sayaqkunap takinm. Yahwepi iñiq runakunaqa Tsiyon urqu hina ⟨kan⟩, manam chiqninqachu, wiñaypaq tiyakun.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "takin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hanaqman sayaqkunap"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "iñiq runakuna"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "urqu hina"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "chiqninqachu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyakun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:28.466447356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Chaynillataqmi kawsaypi qamta bendisayki; Sutiykipi makiyta hawaman utanqa.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "chaynillataq"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "qamta bendisayki"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "kawsaypi"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Sutiykipi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "utanqa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "makiyta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:28.974917116Z",
+  "model": "glm-5.3"
+}

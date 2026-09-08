@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Chaymanta altarmanmi chayasaq — Elohimman, k'usiy k'usiyman; hinaspa kinnorwanmi qanta yupaychasaq, Elohim, Elohimniy.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "chaymanta chayasaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "altarman"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "k'usiy"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "k'usiy k'usiy"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "hinaspa qanta yupaychasaq"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinnorwan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:04.168676650Z",
+  "model": "glm-5.3"
+}

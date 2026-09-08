@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Yahwem nirqan: ⟨את⟩ runatam qichusaq, mayta hallp'a ñawpaqmanta kamarqani, runamanta uywakunakama, k'iti kawsaqkunakama, hinaspa hanaq pachap phichiwakunankama; imaraykum llakikuni chaykunata rurasqayrayku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "qichusaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "kamarqani"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "patinmanta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqenmanta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "runamanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "uywakuna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "k'iti kawsaqkuna"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hinaspa kama"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "phichiwakuna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "llakikuni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "rurasqayrayku"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:54.616146271Z",
+  "model": "glm-5.3"
+}

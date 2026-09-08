@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Yahwe Elohim runaman kamachirqan, nispa: huertap tukuy sach'ankunamanta mik'uytam mik'unqakunimi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runaman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tukuy…manta"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sach'ankuna"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "huertap"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mik'uyta"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mik'unqakunimi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:39.794084240Z",
+  "model": "glm-5.3"
+}

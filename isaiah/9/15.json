@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Kay runakunap pusakuqninkuna paykunata pantachinkum, paykunap pusasqankunataq milwankum.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "pusakuqninkuna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "pantachinkum"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "pusasqankunataq"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "milwankum"
+    }
+  ],
+  "timestamp": "2026-09-08T05:59:19.702295920Z",
+  "model": "glm-5.3"
+}

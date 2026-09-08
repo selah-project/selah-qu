@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Paymi ñuqaman qamunqa: Qam taytay kanki, Elniy kanki, hinaspa ñuqap qispichikuypa rumiypa saya.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "ñuqaman qamunqa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elniy"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "hinaspa rumiy"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ñuqap qispichikuypa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:47.394018523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Kohenm qhawaspa qawariy: tsaraatm ⟨את⟩ llapa aychanta churaptin, kohenm ⟨את⟩ unqusqata p'ichasqata willanqa; llapanmi yuraqman tikrakun; payqa p'icham.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "qawariy"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "churaptin"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa aychanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "aychanta"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "p'ichasqata willanqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unqusqata"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "unqusqa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "tikrakun"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "yuraqman"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "p'icha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-08T00:57:45.542215715Z",
+  "model": "glm-5.3"
+}

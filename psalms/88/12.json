@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "P'ampachanapitaq willakunkuchu jesedniyki? Avadonpi chiktayki?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "willakunkuchu"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "p'ampachanapi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "chiktayki"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "Avadonpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:42.460148453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Hinaspa ⟨את⟩ Bosmatta, Yishmaelpa (Ismael) churinta, Nebayotpa ñañanta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Bosmatta"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmatta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaelpa"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ñañanta"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebayotpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:21.131512563Z",
+  "model": "glm-5.3"
+}

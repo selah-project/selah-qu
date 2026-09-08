@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Qampawanmi kawsaypa phuqun ⟨kan⟩; k'anchayniykiwan k'anchayta rikunchik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qampawan"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "phuqun"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsaypa"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "k'anchayniykiwan"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "rikunchik"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchayta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:57.804070618Z",
+  "model": "glm-5.3"
+}

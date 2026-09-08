@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaysim David ⟨את⟩ Tsiyon (Sión) pukarata hap'irqan; chayqa Davidpa llaqtanmi.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon pukarata"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "pukarata"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon (Sión)"
+    },
+    {
+      "surface": "היא",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqtan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:36:28.761017727Z",
+  "model": "glm-5.3"
+}

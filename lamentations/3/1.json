@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ñuqam ⟨kan⟩ chay runa: rikurqanim muchuyta, t'ikapi phiñakuyninpi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "chay runa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rikurqanim"
+    },
+    {
+      "surface": "עני",
+      "gloss": "muchuyta"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "t'ikapi"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "phiñakuyninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:32:43.673915483Z",
+  "model": "glm-5.3"
+}

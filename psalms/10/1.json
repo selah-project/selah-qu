@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Imarayku, Yahwe, karu sayanki? Imaraykutach sasa pachakunapipacham pakallakunki?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "sayanki"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "karu"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "pakallakinki"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "pachakunapipi"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sasa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:26.633124178Z",
+  "model": "glm-5.3"
+}

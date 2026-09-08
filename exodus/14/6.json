@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa Paroh ⟨את⟩ carrokunata allicharqan, hinaspa ⟨את⟩ runankunata paywan apakurqan.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "allicharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "carrokunata"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "carrokunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "runankunata"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "apakurqan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:07.991502478Z",
+  "model": "glm-5.3"
+}

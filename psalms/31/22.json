@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Bendisqom Yahwe, imaraykuchus jesedninta ajollayta rikuchirqan ñuqaman, hark'asqa llaqtapi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bendisqom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "ajollayta rikuchirqan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesedninta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "hark'asqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:05.782163634Z",
+  "model": "glm-5.3"
+}

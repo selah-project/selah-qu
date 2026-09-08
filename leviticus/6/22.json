@@ -1,0 +1,46 @@
+{
+ "tier": "glm-5.2",
+ "verse": 22,
+ "ref": "leviticus 6:22",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 6,
+ "translation": "Kohenkunapim lliphi qhari chayta mikhunmi; payqa llapanmanta aswan ⟨את⟩ santo ⟨kan⟩mi.",
+ "tokens": [
+  {
+   "surface": "כל",
+   "gloss": "lliphi"
+  },
+  {
+   "surface": "זכר",
+   "gloss": "qhari"
+  },
+  {
+   "surface": "בכהנים",
+   "gloss": "kohenkunapim"
+  },
+  {
+   "surface": "יאכל",
+   "gloss": "mikhunmi"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "⟨את⟩",
+   "marks": "chayta"
+  },
+  {
+   "surface": "קדש",
+   "gloss": "santo"
+  },
+  {
+   "surface": "קדשים",
+   "gloss": "llapanmanta aswan santo"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "payqa"
+  }
+ ],
+ "timestamp": "2026-09-08T00:51:11.065963355Z",
+ "model": "glm-5.3"
+}

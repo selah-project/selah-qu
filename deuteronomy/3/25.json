@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Pasayta mañani, ⟨את⟩ allin hallp'ata rikunaypaq, mayqin Yardenpa ch'eqeinpi kachkan chayta, kay allin urquta, hinaspa Levanontawan.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "pasayta mañani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mañakuspa"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "hinaspa rikunaypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allin hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "allin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ch'eqeinpi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenpa"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "urqu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "hinaspa Levanontawan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:29:27.062968328Z",
+  "model": "glm-5.3"
+}

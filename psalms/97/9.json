@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 97,
+  "translation": "Chayrayku qammi, Yahwe, Elyon ⟨tukuy kay pachap hanaqnin⟩ tukuy kay pachap hawanpi kanki; tukuy dioskunamanta sinchi hatunmi t'aqarqanki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon (hanan kaq)"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pachap"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "hatunmi t'aqarqanki"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:00.401321253Z",
+  "model": "glm-5.3"
+}

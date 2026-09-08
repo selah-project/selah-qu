@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Sukakunapa ch'ayanta qanchis p'unchaw qampaq ruwanki, hallp'aykiykita waylluykachaspa, thaqaykiykitawan.",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "ch'ayanta"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Sukakunapa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "waylluykachaspa"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "hallp'aykiykita"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "thaqaykiykitawan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:44:31.327109811Z",
+  "model": "glm-5.3"
+}

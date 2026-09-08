@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Wasipaqlla tiyaqmi hinaspa suyunapaq llamk'aqmi chaymanta mana mikhunkuchu.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "wasipaqlla tiyaq"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "hinaspa suyunapaq llamk'aq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:45.163034105Z",
+  "model": "glm-5.3"
+}

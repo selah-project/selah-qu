@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Hinaspa Moshem kamachirqan ⟨את⟩ Leviykunata (levitakunata), Yahwepa Beritpa Aronta apaqkunata, nispa:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "hinaspa kamachirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leviykunata"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviykunata"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "apaqkuna"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beritpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:03:45.701475615Z",
+  "model": "glm-5.3"
+}

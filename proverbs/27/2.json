@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Huk mana ayllumasi runam qanta yupaychachun, mana qampa simiyki; huk nukñu runam, mana qampa wirp'aykiyki.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "qanta yupaychachun"
+    },
+    {
+      "surface": "זר",
+      "gloss": "huk mana ayllumasi runam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "qampa simiyki"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "huk nukñu runam"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "qampa wirp'aykiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T14:20:24.259631434Z",
+  "model": "glm-5.3"
+}

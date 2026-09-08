@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwem riqsinmi allin runakunap ñanta; haq'allokkunap ñantaq chinkapunqami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "riqsinmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "allin runakunap"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "hinaspa ñan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haq'allokkunap"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "chinkapunqami"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:11.973026625Z",
+  "model": "glm-5.3"
+}

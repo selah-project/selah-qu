@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Armakuychis, q'ala hunt'alla kaychis; ñuqap ñawiypa qayllamanta mana allin ruwayniykichikta qichuychis; mana allin ruwaytaqa saqichis.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "armakuychis"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "q'ala hunt'alla kaychis"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "qichuychis"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "ruwayniykichikta"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "qayllamanta"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñuqap ñawiypa"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "saqichis"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mana allin ruwayta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:49:38.812452037Z",
+  "model": "glm-5.3"
+}

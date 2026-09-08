@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Kamachiq takiqmanpaq: shir, mizmor. Llapa kay pacha, Elohimman q'uchuchaspa huqariy!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kamachiq takiqmanpaq"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "shir (takirina)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "q'uchuchaspa huqariy"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacha"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:02.841650764Z",
+  "model": "glm-5.3"
+}

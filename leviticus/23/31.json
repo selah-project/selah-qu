@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Llapa llamk'ayta mana ruwankichikchu; kayqa wiñaypaq kamachikuymi sapa wiñakunapaqkichik, llapa tiyana wasiykichikpi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Llapa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "llamk'ayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ruwankichik"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "kamachikuy"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "sapa wiñakunapaqkichik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "tiyana wasiykichikpi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:21.025592102Z",
+  "model": "glm-5.3"
+}

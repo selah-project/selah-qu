@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "psalms 55:18",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 55,
+ "translation": "Chisiwan, pacariwan, chawpip'unchawwan ñuqa yuyaykuwan, llakikuni, hinaspa uyariwancham ñuqap kunkata.",
+ "tokens": [
+  {
+   "surface": "ערב",
+   "gloss": "chisi"
+  },
+  {
+   "surface": "ובקר",
+   "gloss": "pacariwan"
+  },
+  {
+   "surface": "וצהרים",
+   "gloss": "chawpip'unchawwan"
+  },
+  {
+   "surface": "אשיחה",
+   "gloss": "yuyaykuwan"
+  },
+  {
+   "surface": "ואהמה",
+   "gloss": "llakikuni"
+  },
+  {
+   "surface": "וישמע",
+   "gloss": "hinaspa uyariwancha"
+  },
+  {
+   "surface": "קולי",
+   "gloss": "ñuqap kunkata"
+  }
+ ],
+ "timestamp": "2026-09-08T09:51:58.988366341Z",
+ "model": "glm-5.3"
+}

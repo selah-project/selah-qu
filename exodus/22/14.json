@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Apun paywan kaptinqa, mana pagachinqachu; haq runa kaptinqa, pagaynanwanmi chayan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "apun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ...chu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "pagachinqa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "haq runa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kaptin ⟨payqa⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayan"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "pagaynanwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:07.367029940Z",
+  "model": "glm-5.3"
+}

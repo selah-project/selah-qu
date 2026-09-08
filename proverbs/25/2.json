@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Elohimpa hatun sumaqninmi simita pakay; apukunappas hatun sumaqninmi simita maskay.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "hatun sumaqninmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "pakay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simita"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "hatun sumaqninmi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukunappas"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "maskay"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:51:03.178222093Z",
+  "model": "glm-5.3"
+}

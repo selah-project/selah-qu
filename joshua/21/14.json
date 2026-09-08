@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa ⟨את⟩ Yattirta, hinaspa ⟨את⟩ paypa michuna pampanninta; hinaspa ⟨את⟩ Eshtemoata, hinaspa ⟨את⟩ paypa michuna pampanninta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yattirta"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yattir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa michuna pampanninta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "paypa michuna pampannin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Eshtemoata"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa michuna pampanninta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "paypa michuna pampannin"
+    }
+  ],
+  "timestamp": "2026-09-08T03:28:03.512643349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 78:70",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Chaym Davidta akllarqan, servantsninta, hinaspa uywakuna michunanmanta hurqurqan.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "akllarqan"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davidta"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "servantsnin"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "ממכלאת",
+      "gloss": "michunanmanta"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "uywakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:44.331229519Z",
+  "model": "glm-5.3"
+}

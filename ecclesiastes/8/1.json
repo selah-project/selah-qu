@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Pita kay chaniyuq hina? Pitam rimana pesherta (rikuchiyninta) yachan? Runap yachayninmi ñawinta k'anchachin, ñawinpa sinch'i kaynintaq tikran.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "kay chaniyuq hina"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "hinataq pita"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yachan"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "pesherta (rikuchiyninta)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimana"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "yachaynin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "k'anchachin"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ñawinta"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "sinch'i kaynintaq"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ñawinpa"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "tikran"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:57.517768248Z",
+  "model": "glm-5.3"
+}

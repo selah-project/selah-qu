@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Llapa pachapi yurak kananmi p'achaykikuna; huk'itaq umaykipi ama chinkachunchu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "p'achaykikuna"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "yurak"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "huk'itaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "umayki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama...chu"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "chinkachunchu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:42:57.983388738Z",
+  "model": "glm-5.3"
+}

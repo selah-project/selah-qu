@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Penuelta ⟨את⟩ pasasqanpacham inti paqarirqan paytaq, paytaq sirp'iyaspa purirqan chaqnanpi.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paytaq"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pasasqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuelta"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "paytaq"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "sirp'iyaspa purirqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "chaqnanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:06:55.775664824Z",
+  "model": "glm-5.3"
+}

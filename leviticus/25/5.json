@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "⟨את⟩ qatuykipa k'uchilla yurisqanmanta ama ruthuychu, hinaspa ⟨את⟩ mana awillisqa wayruroykipa uvasninkunata ama palliychu; samanakuy Shabat wata hallp'apaq kanqa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'uchilla yurisqa (qatuykipa)"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "k'uchilla yurisqa"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "qatuyki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ruthuychu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "uvasninkuna (wayruroykipa)"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "uvasninkuna"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "mana awillisqa wayruroyki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "palliychu"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "wata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "samanakuy Shabat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'apaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:08:42.146360412Z",
+  "model": "glm-5.3"
+}

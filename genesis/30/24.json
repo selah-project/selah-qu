@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Hinaspa ⟨את⟩ shutinta Yosef (José) nispa suticharqan, nispa: Yahwem ñuqaman wakin churita yapawan.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "suticharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shutinta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "shutinta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "yapawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churita"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wakin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:22.335983788Z",
+  "model": "glm-5.3"
+}

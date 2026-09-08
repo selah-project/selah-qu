@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 21:13",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chayamurqankum iskay runa, belialpa churinkuna ⟨mana chaninniyuq runakuna⟩, hinaspa paypa ñawpaqninpi tiyarqanku; belialpa runakunam runakunap ñawpaqninpi ⟨את⟩ Navotta (Nabot) willakurqanku, nispa: Navotmi Elohimta hinaspa aputa bendecirqan. Chaymanta llaqta hawaman hurqurqankum, rumikunawan wanachirqanku, hinaspa wañurqan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "chayamurqankum"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "runa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "belialpa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "tiyarqanku"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "paypa ñawpaqninpi"
+    },
+    {
+      "surface": "ויעדהו",
+      "gloss": "willakurqankum"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakunam"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "belialpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navotta"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bendecirqan"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navotmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "hinaspa aputa"
+    },
+    {
+      "surface": "ויצאהו",
+      "gloss": "hurqurqankum"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hawaman"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "llaqtap"
+    },
+    {
+      "surface": "ויסקלהו",
+      "gloss": "wanachirqankum"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "rumikunawan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:22:13.139636331Z",
+  "model": "glm-5.3"
+}

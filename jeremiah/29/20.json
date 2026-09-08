@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Chaysi qamkunam Yahwepa siminta uyariychik, llapan q'ipisqakuna, mayqinkunata Yerushalayimmanta (Jerusalén) Babilonaman kacharkuni.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Chaysi qamkunam"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uyariychik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "q'ipisqakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "kacharkuni"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayimmanta"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilonaman"
+    }
+  ],
+  "timestamp": "2026-09-08T07:22:01.821866381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 35:19",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "⟨את⟩ llanp'u p'achakunata santopi llamk'anapaq, ⟨את⟩ santap p'achakunta Aharon (Aarón) kohenpaq, hinaspa ⟨את⟩ churinkunap p'achakunta kohen kananpaq.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llanp'u p'achakunata"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "p'achakunta"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "llanp'u"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "llamk'anapaq"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "santopi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santap p'achakunta"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "p'achakunta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santap"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonpaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "churinkunap p'achakunta"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "p'achakunta"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohen kananpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:42:15.211105185Z",
+  "model": "glm-5.3"
+}

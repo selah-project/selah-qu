@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Ñit'inmi p'istikuykun, chaywanmi atiyniyoq makinkunap llakilla runakunata urmachin.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "ñit'inmi"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "p'istikuykun"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "urmachin"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "atiyniyoq makinkunap"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "llakilla runakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:36.602750985Z",
+  "model": "glm-5.3"
+}

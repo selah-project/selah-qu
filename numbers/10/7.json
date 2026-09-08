@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "⟨את⟩ huñusqa aylluta huñipte, waqyachiy, ichataq ama teru'ata ruwawaychu.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "huñipte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huñusqa aylluta"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "huñusqa ayllu"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "waqyachiy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichataq ama"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "teru'ata ruwawaychu"
+    }
+  ],
+  "timestamp": "2026-09-08T01:23:27.036137139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Uyariychik, orqokuna, ⟨את⟩ Yahwepa rimanakuyninta, hinaspa sinchikuna, hallp'a tiyachakuynin: Yahwepaqmi rimanakuy ⟨kan⟩ runanwan, hinaspa Israelwan rimanakunqa.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Uyariychik"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "orqokuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa rimanakuyninta"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "rimanakuy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "hinaspa sinchikuna"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "tiyachakuynin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "rimanakuy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "runan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "hinaspa ... wan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "rimanakunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:11:00.251035537Z",
+  "model": "glm-5.3"
+}

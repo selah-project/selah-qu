@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Paypaq chunka tawa p'unchawmi hunt'akurqan, chaynallataqmi hampachisqakunap p'unchawninkuna hunt'akun; Mitsrayim runakunam ⟨את⟩ payta qanchis chunka p'unchaw waqarqanku.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "hunt'akurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "chunka tawa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynallataq"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "hunt'akun"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawninkuna"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "hampachisqakunap"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "waqarqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim runakunam"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "qanchis chunka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:34.083646688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Kunanqachunkin Israelpa mitankunamanta chunka iskayniyuq runata churaykuwaykichik, huk runata, huk runata sapa mitanpaq.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kunanqa"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "churaykuwaykichik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "chunkin"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "mitankunamanta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "sapa mitanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T03:06:57.989795832Z",
+  "model": "glm-5.3"
+}

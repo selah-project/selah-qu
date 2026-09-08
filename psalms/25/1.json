@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "psalms 25:1",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 25,
+ "translation": "Davidpaq (Davidpa). Qamman, Yahwe, nefeshniyta hark'anim.",
+ "tokens": [
+  {
+   "surface": "לדוד",
+   "gloss": "Davidpaq"
+  },
+  {
+   "surface": "אליך",
+   "gloss": "qamman"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "נפשי",
+   "gloss": "nefeshniy"
+  },
+  {
+   "surface": "אשא",
+   "gloss": "hark'anim"
+  }
+ ],
+ "timestamp": "2026-09-08T09:38:22.956118744Z",
+ "model": "glm-5.3"
+}

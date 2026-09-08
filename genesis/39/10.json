@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Chaym warmiqa Yosefman (José) p'unchaw sapa p'unchaw rimarqan, icha payqa mana uyawarqanchu payta, paywan puñunapaq utaq pay qayllapi kanapaq.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chaym karqan"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "rimaptin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "--man"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefman (José)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "sapa p'unchaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha manataq"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyawarqanchu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "payta"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "puñunapaq"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "pay qayllapi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kanapaq"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "paywan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:10:19.866088050Z",
+  "model": "glm-5.3"
+}

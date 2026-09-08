@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Qhipanma ⟨את⟩ Sijhon (Sijhón) maqharqanmi, emorikunap apun, Jesbonpi tiyaqta; hinaspa ⟨את⟩ Og (Og), Bashan apunta, Eshdarotpi, Edreipi tiyaqta.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "qhipanma"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "maqharqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sijhon (Sijhón)"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sijhon (Sijhón)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emorikuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Jesbonpi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Og (Og)"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og (Og)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "Eshdarotpi"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "Edreipi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:26:05.835814090Z",
+  "model": "glm-5.3"
+}

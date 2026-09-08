@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 1:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chantaq makinwan llamasqapa uminta ñit'inqa, hinaspa paypaq chaskisqa kanqami, paypa pampachakuyninpaq.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "ñit'inqa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makinwan"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uminta"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "llamasqapa"
+    },
+    {
+      "surface": "ונרצה",
+      "gloss": "chaskisqa kanqami"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "pampachakuyninpaq"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:50:07.939980694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Taytanmi punchawkunanpi mana illakichirqanchu, \"imarayku chaynata ruwarqanki?\" nispa; paymi achkha sumaq rikch'ayniyuq karqan, hinaspa Chaguitmi ⟨את⟩ payta Avshalompa qhipan wacharqan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "llakichirqanchu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "punchawkunanpi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "chayna"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ruwarqanki"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "rikch'a"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "achkha"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipa"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalompa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:56:12.122046066Z",
+  "model": "glm-5.3"
+}

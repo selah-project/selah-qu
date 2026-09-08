@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Shimonpa (Simeón) churiykunam: Yemuel, Yamin, Ohad, Yakin, Tsojar, hinallataq Shaul, kanaanita warmipa churin.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "churiykunam"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimonpa (Simeón)"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "Yakin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "Tsojar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "kanaanita warmipa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:15:54.929303730Z",
+  "model": "glm-5.3"
+}

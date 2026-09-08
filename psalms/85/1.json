@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 85,
+  "translation": "Kamachiqman — Korachpa (Coré) wawankunap mizmor (salmo).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kamachiqman"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachpa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:06.174638802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa ⟨את⟩ Aharonta (Aarón), hinaspa ⟨את⟩ churinkunata Tantakuy carpa punkunman qayanki, ⟨את⟩ paykunata unawan armakachanki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Aarón)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "qayanki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkun"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "carpa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Tantakuy"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "armakachanki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unawan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:41:19.285418981Z",
+  "model": "glm-5.3"
+}

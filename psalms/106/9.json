@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Yam Suphta p'inqachirqanmi, chayqa ch'akirparirqan; hatun yakukuna ukhupi ch'ala hina pusarqankuta.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "p'inqachirqanmi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "yamapi"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suph"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "ch'akirparirqan"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "pusarqanku"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "hatun yakukuna ukhupi"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "ch'ala hina"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:35.265478042Z",
+  "model": "glm-5.3"
+}

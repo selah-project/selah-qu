@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Churqanmi parankunata chiki hina, nina rawrayta hallp'ankupi.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "churqan"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "parankuna"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "chiki"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "rawray"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "hallp'ankupi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:13.136692910Z",
+  "model": "glm-5.3"
+}

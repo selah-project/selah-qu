@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Sabiwmi haq'ay runakuna llapan ladopi purinku, runap wawankunap ukhupi mana allin kayqa hatunchasqa kaptin.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "sabiw"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haq'ay runakuna"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "purinku"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "hatunchasqa kaptin"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "mana allin kayqa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:30:48.593073268Z",
+  "model": "glm-5.3"
+}

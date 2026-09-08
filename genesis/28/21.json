@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "hinaspa thaknillapim taytaypa wasinman kutimusaq; chayqa Yahweqa Elohim kanqa ñuqap Elohimniy hina.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "hinaspa kutimusaq"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "thaknillapi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytaypa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chayqa kanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimniy hina"
+    }
+  ],
+  "timestamp": "2026-09-08T00:02:37.357454333Z",
+  "model": "glm-5.3"
+}

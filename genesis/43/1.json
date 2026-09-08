@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Chaymanta yarqasqam hallp'api llasa karqan.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "chaymanta yarqasqa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "llasa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T00:13:56.487659965Z",
+  "model": "glm-5.3"
+}

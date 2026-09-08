@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Sonqoyta willakuykimanman ñawpaqchiway, mana qullqi-quri munaraykuñachu.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "ñawpaqchiway"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqoyta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...man"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "willakuykiman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mana ...chu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...man"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "qullqi-quri"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:29.905836342Z",
+  "model": "glm-5.3"
+}

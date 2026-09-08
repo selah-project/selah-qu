@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Phiñayniyki rayku, ch'iqniykiyki raykum, ñuqata huqariwanki hinaspa kirparqawanki.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "phiñayniyki"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "hinaspa ch'iqniykiyki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "huqariwanki"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "hinaspa kirparqawanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:17.557813613Z",
+  "model": "glm-5.3"
+}

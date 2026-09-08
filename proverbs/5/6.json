@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Kawsay ñanmanta ama yuyaychu; paypa ñanninkuna wayllillanmi, payqa mana riqsinichu.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsay"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "yuyaychu"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "wayllillan"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "paypa ñanninkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "riqsinichu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:47.256182836Z",
+  "model": "glm-5.3"
+}

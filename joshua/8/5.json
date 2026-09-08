@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Ñuqataq, ⟨את⟩ ñuqawan kashaq llapa runakunaqa llaqtaman qayllayku; paykuna ñawpaq kuti hina ñuqanchikman lluqsimuqtinqa, paykunap ñawpaqninpiña miyunqaku.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ñuqataq"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kashaq"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqawan",
+      "marks": "ñuqawan (yehoshuapawan kushaq runakuna)"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "qayllayku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "…qtinqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…pti"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lluqsimunqaku"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ñawpaq kuti"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "miyunqaku"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "paykunap ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:33:17.276525863Z",
+  "model": "glm-5.3"
+}

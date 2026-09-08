@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Chhikhipaqmi paykunap wakankunata tasnarqan, paykunap ñawinchankunatawan lliphipiq ninakunamanpaq.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "tasnarqan"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "chhikhipaq"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "paykunap wakankunata"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "paykunap ñawinchankunata"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "lliphipiq ninakunamanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:39.974864161Z",
+  "model": "glm-5.3"
+}

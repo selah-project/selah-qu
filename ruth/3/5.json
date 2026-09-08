@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaysi payqa nirqan: «Qam willasqaykita llapanta rusaq».",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-sqa"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "willasqayki"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "rusaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:28:43.297282212Z",
+  "model": "glm-5.3"
+}

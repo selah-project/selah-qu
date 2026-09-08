@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Taripachiwaway, Elohim, hinaspa rimanakuyta rimanakuchaway: mana pi llaqtamanta; llulla runamanta hinaspa mana allinta ruraq runamanta qispichiwaway.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "taripachiwaway"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "hinaspa rimanakuchaway"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "rimanakuyta"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "llaqtamanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "pi runa"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "runamanta"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "hinaspa mana allinta ruraq"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "qispichiwaway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:04.168156773Z",
+  "model": "glm-5.3"
+}

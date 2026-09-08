@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Ichapas apupa rimayninqa Yoabmanpas, awqap umalliqninkunamanpas sinch'i karqanmi. Chaymi Yoab, awqap umalliqninkunawan, apup ñawpanmanta lluqsirqanku ⟨את⟩ runakunata — ⟨את⟩ Israelta — yupayanapaq.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "sinch'i karqan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimaynin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabman"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "manpas"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "awqap"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsirqanku"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "umalliqninkunawan"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "awqap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpanmanta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apup"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "yupayanapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:55:53.599309930Z",
+  "model": "glm-5.3"
+}

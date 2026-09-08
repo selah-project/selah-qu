@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa millaymi kanqa qamkunapaq: paykup aynankunata mana mikhuwankichikchu, hinaspa ⟨את⟩ paykup wañusqankuta millay riqsinkichik.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "hinaspa millay"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "paykup aynankunamanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhuwankichikchu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wañusqankuta"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "wañusqanku"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "millay riqsinkichik"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:26.783616687Z",
+  "model": "glm-5.3"
+}

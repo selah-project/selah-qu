@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chayarqanmi, Yosef (José) wawqenkunaman chayamuptin: ⟨את⟩ Yosefta, ⟨את⟩ p'achanta — ⟨את⟩ pasiyuq p'achanta, paypi kaqta — hurqurqankum.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chayarqanmi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaspa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayamuptin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqenkunaman"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "hurqurqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achanta"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "p'achanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pasiyuq p'achanta"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "p'achanta"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "pasiyuq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:12:09.205332679Z",
+  "model": "glm-5.3"
+}

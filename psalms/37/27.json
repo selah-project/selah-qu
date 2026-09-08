@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Mana allinmanta suriy, allinta ruway, hinaspa wiñaykama tiyakuy.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "suriy"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "mana allinmanta"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "hinaspa allinta ruway"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "hinaspa tiyakuy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaykama"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:14.306042955Z",
+  "model": "glm-5.3"
+}

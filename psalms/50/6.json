@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "psalms 50:6",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 50,
+ "translation": "Hanaq pacham Elohimpa paqta kayninta willarqan, imaraykum Elohimmi pay chinchaq ⟨kan⟩. Sela.",
+ "tokens": [
+  {
+   "surface": "ויגידו",
+   "gloss": "willarqan"
+  },
+  {
+   "surface": "שמים",
+   "gloss": "hanaq pacham"
+  },
+  {
+   "surface": "צדקו",
+   "gloss": "paqta kayninta"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykum"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimmi"
+  },
+  {
+   "surface": "שפט",
+   "gloss": "chinchaq"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "pay"
+  },
+  {
+   "surface": "סלה",
+   "gloss": "Sela"
+  }
+ ],
+ "timestamp": "2026-09-08T09:49:53.862311316Z",
+ "model": "glm-5.3"
+}

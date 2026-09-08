@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa Davidpa churinkunam Chebronpi paqarirqanku; paqariq ñawpaqninqa Amnon karqanmi, Ajinoampa — Yizreelmanta warmi — churin.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "paqarirqanku"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Chebronpi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "paqariq ñawpaqninqa"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "Ajinoampa"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "Yizreelmanta warmi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:32:42.371255205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chask'anraqmi qanchis p'unchaw wakinta, chaymataq yapaspa kacharqan ⟨את⟩ palomata arkamanta.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "chask'anraqmi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wakin"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "yapaspa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palomata"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "palomata"
+    },
+    {
+      "surface": "מן",
+      "gloss": "arkamanta"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arkamanta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:57.946664189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Terajpa p'unchawninkunaqa iskay pachak pichqa watam karqan; chaymanta Teraj Charanpi wañurqanmi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "karqankum"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawninkunaqa"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terajpa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "iskay pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqanmi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Teraj"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "Charanpi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:59.713128059Z",
+  "model": "glm-5.3"
+}

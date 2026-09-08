@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Ama chayna kachunchu ñuqapaq: wañukama**mi** mana ⟨את⟩ qamkunata allin kaqta rurasaqchu, mana ñuqamanta qichusaqchu p'akilla kayniyta.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "ama chayna kachunchu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "allin kaqta rurasaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata — kaypi pronombre (qamkuna), manam ⟨את⟩ unanchachu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "wañusaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana…chu"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "qichusaqchu"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "p'akilla kayniyta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:12:19.069690096Z",
+  "model": "glm-5.3"
+}

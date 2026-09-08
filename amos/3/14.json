@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 3:14",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chiqaqmi p'unchawpi Israelpa pish'eyninta paypa qatipusqaypi, hinaspa Bet Elpa altarunkunatapas qatipusaqmi; altarp k'urunkunapas kuchusqa kanqaku, hallp'aman t'akikunqaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chiqaqmi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "qatipusqaypi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pish'eyninta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "hinaspa qatipusaqmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "(altarunkuna)ta"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altarunkuna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ונגדעו",
+      "gloss": "hinaspa kuchusqa kanqaku"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "k'urunkuna"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarp"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "hinaspa t'akikunqaku"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'aman"
+    }
+  ],
+  "timestamp": "2026-09-08T08:57:56.067843403Z",
+  "model": "glm-5.3"
+}

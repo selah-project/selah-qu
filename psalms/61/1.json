@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 61,
+  "translation": "Kamachiqman, t'ikra waqaychana patapi, Davidpaq.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kamachiqman"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "t'ikra waqaychana"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:31.263590316Z",
+  "model": "glm-5.3"
+}

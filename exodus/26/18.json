@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa ⟨את⟩ Mishkanpaq tablakunatam ruranki: iskay chunka tabla ulla saywaman, ulla ñanninman.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruranki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanpaq tablakunata"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "tablakunata"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkanpaq"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tabla"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "saywaman"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ulla"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ulla ñanninman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:44.706977868Z",
+  "model": "glm-5.3"
+}

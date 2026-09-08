@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "jeremiah 16:20",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 16,
+ "translation": "Runaqa kikinpaq dioskunata rurawaqchu — chaykunaq manam dioskunachu kanku?",
+ "tokens": [
+  {
+   "surface": "היעשה",
+   "gloss": "rurawaqchu"
+  },
+  {
+   "surface": "לו",
+   "gloss": "kikinpaq"
+  },
+  {
+   "surface": "אדם",
+   "gloss": "runa"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "dioskuna"
+  },
+  {
+   "surface": "והמה",
+   "gloss": "chaykunaq"
+  },
+  {
+   "surface": "לא",
+   "gloss": "manam"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "dioskuna"
+  }
+ ],
+ "timestamp": "2026-09-08T07:02:58.395207212Z",
+ "model": "glm-5.3"
+}

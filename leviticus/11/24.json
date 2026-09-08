@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chaykunamantaq imasmallam kankichik: mayqinllapas paykunap wañusqallanwan llank'iqtinqa, imasmallam kanqa ch'isiyakuykama.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "chaykunamantaq"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "imasmalla kankichik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mayqinllapas"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "llank'iq"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "paykunap wañusqallanwan"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "imasmalla kanqa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ch'isiyakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:44.545838666Z",
+  "model": "glm-5.3"
+}

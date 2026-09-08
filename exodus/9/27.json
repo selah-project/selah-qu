@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 9:27",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Paro (Faraón) kacharqanmi, Mosheta (Moisés) hinaspa Aharonta (Aarón) waqyarqan, chaykunaman nispa: Kay kuti ñuqa muchuyta ruwarqanimi; Yahweqa chaninmi, ñuqataq ñuqap runakunataq millay runakunam.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "waqyarqan"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "hinaspa Aharonta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "chaykunaman"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "muchuyta ruwarqani"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "kay kuti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "chanin"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "ñuqap runakunataq"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "millay runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:18.715252722Z",
+  "model": "glm-5.3"
+}

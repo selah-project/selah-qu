@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "1-kings 11:8",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 11,
+ "translation": "Hinallatawmi llapan wak llaqtamanta warmiyninpaq ruwarqan, paykunaq q'urwa ichhata k'anchaspa, diosninkunaman wañuchispa.",
+ "tokens": [
+  {
+   "surface": "וכן",
+   "gloss": "hinallataw"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "ruwarqan"
+  },
+  {
+   "surface": "לכל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "נשיו",
+   "gloss": "warmiyninpaq"
+  },
+  {
+   "surface": "הנכריות",
+   "gloss": "wak llaqtamanta"
+  },
+  {
+   "surface": "מקטירות",
+   "gloss": "q'urwa ichhata k'anchaq"
+  },
+  {
+   "surface": "ומזבחות",
+   "gloss": "hinaspa wañuchiq"
+  },
+  {
+   "surface": "לאלהיהן",
+   "gloss": "diosninkunaman"
+  }
+ ],
+ "timestamp": "2026-09-08T05:09:14.359440244Z",
+ "model": "glm-5.3"
+}

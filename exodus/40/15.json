@@ -1,0 +1,75 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "exodus 40:15",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 40,
+ "translation": "Hinaspa ⟨את⟩ paykunata unchanqim, imahina taytanta ⟨את⟩ unchasqayki hina; paykuna ñuqapaq kohen llamk'anqanku, hinaspa unkunankuqa paykunapaq wiñay kohen-kargo kananpaq kanqam, llapa miraysikuyninkunapi.",
+ "tokens": [
+  {
+   "surface": "ומשחת",
+   "gloss": "hinaspa unchanqim"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ paykunata",
+   "marks": "paykunata"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "imahina"
+  },
+  {
+   "surface": "משחת",
+   "gloss": "unchasqayki"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "taytanta"
+  },
+  {
+   "surface": "אביהם",
+   "gloss": "taytanta"
+  },
+  {
+   "surface": "וכהנו",
+   "gloss": "kohen llamk'anqanku"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqapaq"
+  },
+  {
+   "surface": "והיתה",
+   "gloss": "kanqam"
+  },
+  {
+   "surface": "להית",
+   "gloss": "kananpaq"
+  },
+  {
+   "surface": "להם",
+   "gloss": "paykunapaq"
+  },
+  {
+   "surface": "משחתם",
+   "gloss": "unkunanku"
+  },
+  {
+   "surface": "לכהנת",
+   "gloss": "kohen-kargopaq"
+  },
+  {
+   "surface": "עולם",
+   "gloss": "wiñay"
+  },
+  {
+   "surface": "לדרתם",
+   "gloss": "llapa miraysikuyninkunapi"
+  }
+ ],
+ "timestamp": "2026-09-08T00:48:23.694540192Z",
+ "model": "glm-5.3"
+}

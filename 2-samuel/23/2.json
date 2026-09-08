@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Yahwepa ruhunmi ñuqawan rimarqan, hinaspa paypa siminmi ñuqap qallwa patanpi.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruhun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqanmi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "hinaspa paypa simin"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "qallwa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:55:03.689579750Z",
+  "model": "glm-5.3"
+}

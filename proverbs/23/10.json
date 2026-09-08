@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Ama wiñay saywata kuyuchichu, hinaspa wakchakunap chakrakunaman ama yaykuchu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "kuyuchichu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "saywata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "hinaspa chakrakunaman"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "wakchakunap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "yaykuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:49:22.061962610Z",
+  "model": "glm-5.3"
+}

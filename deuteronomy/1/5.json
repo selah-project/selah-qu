@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yarden hawanpi, Moabpa hallp'anpim Moshe (Moisés) ⟨את⟩ kay Torata sut'ichayta qallarirqan, nispa:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'anpi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabpa"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "qallarirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "sut'ichayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Torata"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torata"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:26:20.559367306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ama manchariy phutikuyqita ch'usaqta rikhurimusqanmanta hark'aychu, hinallataq rasuakunap chinkachasqanmanta, chaymi chayamunqaku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "manchariy …chu"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "manchariy phutikuyqita …manta"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ch'usaqta rikhurimusqanmanta"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "hinallataq chinkachasqanmanta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rasuakunap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "chayamunqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:24.776488289Z",
+  "model": "glm-5.3"
+}

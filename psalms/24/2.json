@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaymi pay yarukunap patanpi sayarichirqan, mayukunap patanpi churarqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chaymi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yarukuna"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "sayarichirqan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "patanpin"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mayukuna"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "churarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:08.507493488Z",
+  "model": "glm-5.3"
+}

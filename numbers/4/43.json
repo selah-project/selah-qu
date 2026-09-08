@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 4:43",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kimsa chunka watayuq margamanta pichqa chunka watayuqkama, llapan tupanakuq wasipi llamk'anapaq yaykuq.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "watayuq margamanta"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "manta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "watayuq"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pichqa chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "yaykuq"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "llamk'anaman"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "llamk'anapaq"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tupanakuq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:16:33.609392104Z",
+  "model": "glm-5.3"
+}

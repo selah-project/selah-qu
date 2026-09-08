@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Mut'usqam taytanta mamanwan pisi chaninchaq runa; tukuy runakunataq ninkum: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Mut'usqam"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "pisi chaninchaq"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanta"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "mamanwan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ninkum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunataq"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-08T02:56:02.545994473Z",
+  "model": "glm-5.3"
+}

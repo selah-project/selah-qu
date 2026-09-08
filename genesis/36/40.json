@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Kaymi kay kurakakunap sutinkuna, Esavpa kurakankuna, ayllunkunaman, tiyanankunaman, sutinkunamanhina: kuraka Timna, kuraka Alva, kuraka Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sutikuna"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "kurakankuna"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayllunkunaman"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "tiyanankunaman"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "sutinkunamanhina"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kuraka"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kuraka"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "kuraka"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-09-08T00:07:52.082336902Z",
+  "model": "glm-5.3"
+}

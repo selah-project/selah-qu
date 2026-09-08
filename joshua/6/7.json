@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Paykunam runakunaman nirqanku: 'Pasay, ⟨את⟩ llaqtata muyuchiy; hark'aq runakunataq Yahwepa sandq ñawpaqnin pasanqam.'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqankum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "Pasay"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "muyuchiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llaqtata"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtata"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "hark'aq runakuna"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "pasanqa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:09:43.184926323Z",
+  "model": "glm-5.3"
+}

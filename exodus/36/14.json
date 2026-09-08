@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Kawra millmamanta p'achakunatam ruwarqan, wasipaq, Mishkanpatapi; chunka hukniyuq p'achata ⟨את⟩ paykunata ruwarqan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "p'achakunata"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kawra millmamanta"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "wasipaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "hukniyuq"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "p'acha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:44.748816436Z",
+  "model": "glm-5.3"
+}

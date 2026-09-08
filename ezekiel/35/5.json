@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 35:5",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Imaraykus qampa wiñay awqalli kaptinm, hinaspa ⟨את⟩ Israel wawakunata espada makiyman hark'arqanki, llakikusqanpi pachapim, llut'aypa puchukay pachapim.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Imaraykus"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampa"
+    },
+    {
+      "surface": "איבת",
+      "gloss": "awqalli"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "ותגר",
+      "gloss": "hark'arqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel wawakunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakunata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "על",
+      "gloss": "makiyman"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makiy"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "espada"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pachapim"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "llakikusqanpi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pachapim"
+    },
+    {
+      "surface": "עון",
+      "gloss": "llut'aypa"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "puchukay"
+    }
+  ],
+  "timestamp": "2026-09-08T08:28:36.916745705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Paypa runankunata espadaMAN churarqan, paypa herencianinwanpis phinakurqanm.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "espadaMAN"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runankunata"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "paypa herencianinwanpis"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "phinakurqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:51.276007950Z",
+  "model": "glm-5.3"
+}

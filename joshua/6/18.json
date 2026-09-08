@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 6:18",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Ichataq huklla qamkuna heremmanta amawakichikuy, ama heremta ruwawankichik chá heremmanta imata chaskiptiykichik, hinaspa ⟨את⟩ Israelpa awqakunata herem hina churawankichik, hinaspa ⟨את⟩ payta muchuchiwankichik.",
+  "tokens": [
+    {
+      "surface": "ורק",
+      "gloss": "ichataq huklla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "amawakichikuy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "herem"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama ... chá"
+    },
+    {
+      "surface": "תחרימו",
+      "gloss": "heremta ruwawankichik chá"
+    },
+    {
+      "surface": "ולקחתם",
+      "gloss": "hinaspa chaskiptiykichik"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "herem"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "churawankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa awqakunanta"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "awqakuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "herem hina"
+    },
+    {
+      "surface": "ועכרתם",
+      "gloss": "muchuchiwankichik"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ payta"
+    }
+  ],
+  "timestamp": "2026-09-08T13:30:30.580373741Z",
+  "model": "glm-5.3"
+}

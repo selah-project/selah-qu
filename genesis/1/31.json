@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Elohim rikurqan ⟨את⟩ llapan ruwasqantapas, hinaspa qhawariy: sumaqmi, aswan sumaqmi. Chaysi chisi karqan, chaysi tutamanta karqan — suqta ñiqin p'unchaw.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Hinaspa rikurqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan ruwasqantapas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ruwasqan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqanta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "hinaspa qhawariy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sumaqmi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aswan sumaqmi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "chisi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "suqta ñiqin"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:23.808931210Z",
+  "model": "glm-5.3"
+}

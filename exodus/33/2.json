@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Kachasaqmi ángelta ñawpaykikama, hinaspa qarqusaqmi ⟨את⟩ Kenaanitata, Emoritatawan, Hititatawan, Perisitatawan, Hiwitatawan, Yebusitatawan.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Kachasaqmi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ñawpaykikama"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ángelta"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "hinaspa qarqusaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaanitata (Kenaan runata)"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanitata"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoritatawan"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Hititatawan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perisitatawan"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwitatawan"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebusitatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:30.133491438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspam nirqanku: ¿Yahwem Moshe llapinwan rimarqanchu? ¿Manachu ñuqanchikwanpas rimarqan? Chayta Yahwem uyarirqan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ninqaku"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "¿...chu?"
+    },
+    {
+      "surface": "אך",
+      "gloss": "llapin"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqanchu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿manachu?"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-pas"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ñuqanchikwan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T01:30:02.704127669Z",
+  "model": "glm-5.3"
+}

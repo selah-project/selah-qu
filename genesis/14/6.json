@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa ⟨את⟩ Horikunata Seirpa urqukunninpi, El-Parankama — mayqin ch'aki pachap ñawpaqninpi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Horikunata"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Horikuna"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "urqukunninpi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirpa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ch'aki pacha"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:22.091631239Z",
+  "model": "glm-5.3"
+}

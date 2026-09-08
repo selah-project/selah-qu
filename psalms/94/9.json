@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Rinriyta churaqmi, manachu uyarinqa? Ñawita paqarichiqmi, manachu qhawarinqa?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "churaq"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "rinriyta"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uyarinqa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "paqarichiq"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ñawita"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "qhawarinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:57.406804076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Araj (Arah) churinkuna, pichqa chunka iskayniyuq chunka pichqantin hunu — chunka pichqayuq hunu hinaspa chunka qanchisniyuq.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Araj (Arah)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "chunka pichqantin hunu — qanchis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "chunka pichqayuq hunu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "hinaspa chunka qanchisniyuq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:04:46.751585535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa ⟨את⟩ wawanmanta mana khuyakusaqchum, imaraykuchus paykuna wanachaypa wawanmi kanku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawanmanta"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "wawanmanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ...chu"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "khuyakusaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "wanachaypa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykuna kanku"
+    }
+  ],
+  "timestamp": "2026-09-08T08:45:42.160063400Z",
+  "model": "glm-5.3"
+}

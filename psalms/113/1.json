@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 113,
+  "translation": "Yupaychaychik Yahta; yupaychaychik, Yahwepa llamk'aqninkuna, Yupaychaychik ⟨את⟩ Yahwepa sutinta.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Yahwepa llamk'aqninkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa sutinta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:53.927880465Z",
+  "model": "glm-5.3"
+}

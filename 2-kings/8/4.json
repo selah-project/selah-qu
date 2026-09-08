@@ -1,0 +1,82 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "2-kings 8:4",
+ "book": "2-kings",
+ "lang": "qu",
+ "chapter": 8,
+ "translation": "Apunmi Gehazi (Geazi)wan rimarqan, Elohimpa runan yanapaqninwan, nispa: Willaway ñuqaman ama hina, Elishap rurasqan ⟨את⟩ llapa hatun ruraykunata.",
+ "tokens": [
+  {
+   "surface": "והמלך",
+   "gloss": "Apun"
+  },
+  {
+   "surface": "מדבר",
+   "gloss": "rimarqan"
+  },
+  {
+   "surface": "אל",
+   "gloss": "…wan"
+  },
+  {
+   "surface": "גחזי",
+   "gloss": "Gehazi"
+  },
+  {
+   "surface": "נער",
+   "gloss": "yanapaqnin"
+  },
+  {
+   "surface": "איש",
+   "gloss": "runan"
+  },
+  {
+   "surface": "האלהים",
+   "gloss": "Elohimpa"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "nispa"
+  },
+  {
+   "surface": "ספרה",
+   "gloss": "Willaway"
+  },
+  {
+   "surface": "נא",
+   "gloss": "ama hina"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqaman"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "llapa hatun ruraykunata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "הגדלות",
+   "gloss": "hatun ruraykuna"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "rurasqanta"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "ruraq"
+  },
+  {
+   "surface": "אלישע",
+   "gloss": "Elishap"
+  }
+ ],
+ "timestamp": "2026-09-08T05:30:21.466828552Z",
+ "model": "glm-5.3"
+}

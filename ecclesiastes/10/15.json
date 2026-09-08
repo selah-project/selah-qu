@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Sakhallakunap llamk'ayninqa ch'akiyachinmi, llaktaman ñan mana yachasqanrayku.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "llamk'ayninqa"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "sakhallakunap"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ch'akiyachinmi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yachasqan"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaktaman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:33.787946330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Parohm Mosheta hinaspa Aharonman waqyarqan, nirqanmi: Lluqsiychik, ñak'aychik Elohimniykichikman hallp'api.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waqyarqan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohm"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "hinaspa Aharonman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "lluqsiychik"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "ñak'aychik"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "Elohimniykichikman"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T02:05:46.728558095Z",
+  "model": "glm-5.3"
+}

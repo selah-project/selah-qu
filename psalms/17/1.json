@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Davidpa mañakuy. Uyariy, Yahwe, cheqaqta; waqayta qhawariy; mañakuyta uyariy — llullayuq wirpakunawan mana.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "mañakuy"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Uyariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cheqaqta"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "waqayta"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mañakuyta"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wirpakunawan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "llullayuq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:48.242901157Z",
+  "model": "glm-5.3"
+}

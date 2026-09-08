@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Kawsasqanpi paypa nefeshninmi sumaqchasqa kanqa, hinaspa yupaychawankum qam allinta qampaq ruwasqaykita.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus ⟨kawsasqanpi⟩"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshnin"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "kawsasqanpi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sumaqchasqa kanqa"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "yupaychawanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ta"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "allinta ruwasqayki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:30.569288883Z",
+  "model": "glm-5.3"
+}

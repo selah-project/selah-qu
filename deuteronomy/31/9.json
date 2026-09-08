@@ -1,0 +1,91 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "deuteronomy 31:9",
+ "book": "deuteronomy",
+ "lang": "qu",
+ "chapter": 31,
+ "translation": "Moshe (Moisés) qillqarqanmi ⟨את⟩ kay Torata, qoykurqan kohenkunaman — Levipa churinkunaman, Yahwepa berit ⟨את⟩ sandanta apaqkunaman — hinallataq Israelpa llapan machu runakunaman.",
+ "tokens": [
+  {
+   "surface": "ויכתב",
+   "gloss": "qillqarqan"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kay Torata"
+  },
+  {
+   "surface": "התורה",
+   "gloss": "Torata"
+  },
+  {
+   "surface": "הזאת",
+   "gloss": "kay"
+  },
+  {
+   "surface": "ויתנה",
+   "gloss": "qoykurqan"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "kohenkuna"
+  },
+  {
+   "surface": "בני",
+   "gloss": "churinkuna"
+  },
+  {
+   "surface": "לוי",
+   "gloss": "Levi"
+  },
+  {
+   "surface": "הנשאים",
+   "gloss": "apaqkunaman"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "sandanta"
+  },
+  {
+   "surface": "ארון",
+   "gloss": "sanda"
+  },
+  {
+   "surface": "ברית",
+   "gloss": "berit"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "ואל",
+   "gloss": "hinallataq … man"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "זקני",
+   "gloss": "machu runan"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israelpa"
+  }
+ ],
+ "timestamp": "2026-09-08T03:04:07.779877598Z",
+ "model": "glm-5.3"
+}

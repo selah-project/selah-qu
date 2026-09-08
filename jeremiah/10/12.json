@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "jeremiah 10:12",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 10,
+ "translation": "Paymi atiyniwan hallp'ata kamarnqa, yachayniwan pachata sayarichirqan, hinaspa hamutayniwan hanaq pachata mast'arqan.",
+ "tokens": [
+  {
+   "surface": "עשה",
+   "gloss": "kamarnqa"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "hallp'a"
+  },
+  {
+   "surface": "בכחו",
+   "gloss": "atiyniwan"
+  },
+  {
+   "surface": "מכין",
+   "gloss": "sayarichirqan"
+  },
+  {
+   "surface": "תבל",
+   "gloss": "pacha"
+  },
+  {
+   "surface": "בחכמתו",
+   "gloss": "yachayniwan"
+  },
+  {
+   "surface": "ובתבונתו",
+   "gloss": "hinaspa hamutayniwan"
+  },
+  {
+   "surface": "נטה",
+   "gloss": "mast'arqan"
+  },
+  {
+   "surface": "שמים",
+   "gloss": "hanaq pacha"
+  }
+ ],
+ "timestamp": "2026-09-08T06:55:16.005393457Z",
+ "model": "glm-5.3"
+}

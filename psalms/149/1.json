@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 149,
+  "translation": "Yupaychachiy Yahta, takiy Yahweman musuq taki, Yupaychasqanta jesedniyuqkunap huñunakuyninpi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yupaychachiy"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahta"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "takiy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "Yupaychasqanta"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "huñunakuyninpi"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "jesedniyuqkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:26.514550958Z",
+  "model": "glm-5.3"
+}

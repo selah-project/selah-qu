@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Hinaspa varakunata ruwarqan ⟨את⟩, acacia sach'akunamanta, hinaspa chaykunata broncewan qhatiykurqan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "varakunata"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "varakunata"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "acacia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "qhatiykurqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chaykunata",
+      "marks": "broncewan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "broncewan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:57.528577649Z",
+  "model": "glm-5.3"
+}

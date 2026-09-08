@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hasatan ⟨את⟩ Yahweta kutichirqan, nispataq nirqan: «Qarataq qarapaq; runap kaq llapantam nefeshninpaq qusaqhina.»",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispataq nirqan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "qarataq"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "qarapaq"
+    },
+    {
+      "surface": "עור",
+      "gloss": "qara"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapantam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "runap"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qusaqhina"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nefeshninpaq"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshnin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:57:51.156383333Z",
+  "model": "glm-5.3"
+}

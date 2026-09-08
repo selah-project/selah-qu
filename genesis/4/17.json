@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kainm ⟨את⟩ warminta riqsirqan; paym wiksayuq karqan, ⟨את⟩ Janoqta (Enoc) wacharqan; llaqtata wasicharqanmi, llaqtap sutinta wawannin Janoqpa sutiwan sutichirqan.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "riqsirqan"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warminta"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wiksayuq karqan"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Janoqta"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Janoqta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wasicharqan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqtata"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sutichirqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtap"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "sutiwan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wawannin"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Janoqpa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:56.576923782Z",
+  "model": "glm-5.3"
+}

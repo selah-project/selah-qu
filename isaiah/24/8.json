@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Sayarqanmi tinyakunap kusikuynin, tukurqanmi kusikukuqkunap kapariynin; sayarqanmi kinorpa kusikuynin.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "sayarqanmi"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kusikuynin"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "tinyakuna"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "tukurqanmi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "kapariy"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "kusikukuqkunap"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sayarqanmi"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "kusikuynin"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinorpa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:08:09.890269663Z",
+  "model": "glm-5.3"
+}

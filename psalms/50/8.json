@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Manam zavchaniyki rayku qamta chiqanchasaqchu; olotniykiqa wiñaypa ñuqap ñawpaqpi kachkanmi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Manam"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "zavchaniyki"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "chiqanchasaqchu qamta"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "olotniyki"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ñuqap ñawpaqpi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñaypa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:53.862557217Z",
+  "model": "glm-5.3"
+}

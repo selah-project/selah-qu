@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Pumakunam ñuqata muyurirqanku: millay runakunap huñunm ñuqata muyunta-llamuwanku; puma hina makiykiman, chakikunamanman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "muyurirqanku ñuqata"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "anu kunakuna"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "huñun"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "millay runakunap"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "muyunta-llamuwanku ñuqata"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "puma hina"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makiykiman"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "chakikunamanman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:49.849236434Z",
+  "model": "glm-5.3"
+}

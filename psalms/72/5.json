@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Intiwan kuska ⟨qamta⟩ mancharanqakum, killap ñawpaqninpipas, wata watakuna tukuy.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "mancharanqaku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan kuska"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "hinaspa ñawpaqninpi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "killa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "wata"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "watakuna tukuy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:43.941478762Z",
+  "model": "glm-5.3"
+}

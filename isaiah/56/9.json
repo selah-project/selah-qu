@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "Llapankichik sach'a-sach'apa chakrakunap alqokuna, hamuy, mikunaypaq; llapankichik sach'a-sach'api kaq chakrakuna.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "chakrakuna"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sach'a-sach'apa"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "hamuy"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "mikunaypaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "chakrakuna"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "sach'a-sach'api"
+    }
+  ],
+  "timestamp": "2026-09-08T06:35:26.350492628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Qusqam paykunaman ⟨את⟩ hark'akuy llaqta wañuchiqpa, ⟨את⟩ Shekhem (Siquem) llaqtatawan hinaspa ⟨את⟩ michina pachanta Efrayim urqupi, hinaspa ⟨את⟩ Gezer (Gézer) llaqtatawan hinaspa ⟨את⟩ michina pachanta.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "qusqam paykunaman"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hark'akuy llaqta wañuchiqpa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "hark'akuy"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "wañuchiqpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem llaqtatawan"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem (Siquem)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michina pachanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michina pachanta"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqupi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Gezer llaqtatawan"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer (Gézer)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michina pachanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michina pachanta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:28:36.505686875Z",
+  "model": "glm-5.3"
+}

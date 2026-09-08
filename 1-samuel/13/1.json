@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Huk wata-yuqmi Shaul kamakusqan pachan; hinaspa iskay wata Israelpa patanpi kamakurqan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "huk wata-yuq ⟨churi⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "kamakusqan pachan"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "hinaspa iskay"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kamakurqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa patanpi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T13:34:49.368565510Z",
+  "model": "glm-5.3"
+}

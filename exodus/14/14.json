@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yahwem qamkunapaq awqanqam; qamkunataq ch'inllalla kankichik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "awqanqam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "qamkunataq"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "ch'inllalla kankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:08.182031292Z",
+  "model": "glm-5.3"
+}

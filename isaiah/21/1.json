@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Q'ipim ch'usaq hallp'a mama quchapa: Néguevpi wayra muchuykuna hina llamparinankupaq; ch'usaq hallp'amanta hamunmi, mancharichiq hallp'amanta.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "q'ipi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ch'usaq hallp'a"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mama qucha"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "wayra muchuykuna hina"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Néguevpi"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "llamparimanankupaq"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ch'usaq hallp'amanta"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamun"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "mancharichiq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:04:31.670176605Z",
+  "model": "glm-5.3"
+}

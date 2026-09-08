@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Esterm Mordeqayman kutichiyta nirqan.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterm"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kutichiyta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordeqay"
+    }
+  ],
+  "timestamp": "2026-09-08T11:45:23.964806277Z",
+  "model": "glm-5.3"
+}

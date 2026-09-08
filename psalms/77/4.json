@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "psalms 77:4",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 77,
+ "translation": "Elohimta yuyarinim, phutikuni; yuyaykunim, samayniy llaqlarqanmi. Selah.",
+ "tokens": [
+  {
+   "surface": "אזכרה",
+   "gloss": "yuyarinim"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimta"
+  },
+  {
+   "surface": "ואהמיה",
+   "gloss": "hinaspa phutikuni"
+  },
+  {
+   "surface": "אשיחה",
+   "gloss": "yuyaykunim"
+  },
+  {
+   "surface": "ותתעטף",
+   "gloss": "llaqlarqan"
+  },
+  {
+   "surface": "רוחי",
+   "gloss": "samayniy"
+  },
+  {
+   "surface": "סלה",
+   "gloss": "Selah"
+  }
+ ],
+ "timestamp": "2026-09-08T10:02:36.323609591Z",
+ "model": "glm-5.3"
+}

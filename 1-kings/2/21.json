@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaymanta nirqan: ⟨את⟩ Abishagta, Shunam warmita, Adoniyahupaq — qampa wawqeyki warmiman — churankapun.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Chaymanta nirqan"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "churankapun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishagta, Shunam warmita"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Abishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "Shunam warmi"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adoniyahupaq"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qampa wawqeyki"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "warmiman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:58:05.461402979Z",
+  "model": "glm-5.3"
+}

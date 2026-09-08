@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 134,
+  "translation": "Hananman saywaykunap takin. Qhaway, bendichiychik ⟨את⟩ Yahweta, tukuy Yahwepa yanapaqkuna, Yahwepa wasinpi tutas sayaqkuna.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "takin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hananman saywaykunap"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bendichiychik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapaqkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sayaqkuna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "tutas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:32.854725453Z",
+  "model": "glm-5.3"
+}

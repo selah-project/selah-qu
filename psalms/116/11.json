@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Ñuqa nirqani utiraypi: llapa runakuna llullakuykuqkuna.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "utiraypi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "llullakuykuqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:58.969978456Z",
+  "model": "glm-5.3"
+}

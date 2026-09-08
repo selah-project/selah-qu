@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "leviticus 4:5",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Hap'irqanmi kohen meshijasqa para yawarmanta, hinaspa ⟨את⟩ chayta apamurqan huñunakuy wasiman.",
+ "tokens": [
+  {
+   "surface": "ולקח",
+   "gloss": "hap'irqan"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohen"
+  },
+  {
+   "surface": "המשיח",
+   "gloss": "meshijasqa"
+  },
+  {
+   "surface": "מדם",
+   "gloss": "yawarmanta"
+  },
+  {
+   "surface": "הפר",
+   "gloss": "para"
+  },
+  {
+   "surface": "והביא",
+   "gloss": "apamurqan"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ chayta"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "wasi"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "huñunakuy"
+  }
+ ],
+ "timestamp": "2026-09-08T00:51:46.664145262Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 12:4",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspam Yahwem ch'usaqlla Moshe-man, Aharonman, Miryamman rimarqan: Kinsantin, tariy wasiman lluqsiy. Hinaspam kinsantin lluqsirqanku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ch'usaqlla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa -man"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa -man"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "lluqsiy"
+    },
+    {
+      "surface": "שלשתכם",
+      "gloss": "kinsantin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "carpa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tariy"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "lluqsirqanku"
+    },
+    {
+      "surface": "שלשתם",
+      "gloss": "kinsantin"
+    }
+  ],
+  "timestamp": "2026-09-08T01:30:02.704491712Z",
+  "model": "glm-5.3"
+}

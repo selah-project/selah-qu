@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "⟨את⟩ pitam yachachinqa yachayta, hinaspa ⟨את⟩ pitam riqsichinqa willakuventa? Milkumanta chikunkuna, ch'uchumanta hurquskuna.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "yachachinqa"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "pi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "riqsichinqa"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "willakuventa"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "chikunkuna"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "milkumanta"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "hurquskuna"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "ch'uchumanta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:10:36.130907803Z",
+  "model": "glm-5.3"
+}

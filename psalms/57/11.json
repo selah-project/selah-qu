@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 57,
+  "translation": "Kaymi hanaq pachakaman jesedniyki hatunmi, phuyukunakamanpas cheqanniyki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kaymi"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "hatunmi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kaman"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kamanpas"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "phuyukuna"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "cheqanniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:57.735094697Z",
+  "model": "glm-5.3"
+}

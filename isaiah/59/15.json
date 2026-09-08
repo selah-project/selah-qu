@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Chaysi chiqaqkayqa chinkarqan, hinaspa millaymantaña saqeq runaqa suwasqa kayman chayarqan. Hinaspa Yahwe qhawarqanmi, hinaspa ñawinpi mana allin karqanmi, imaraykuchus taripayqa mana kanchu karqan.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "chiqaqkayqa"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "chinkarqan"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "saqeq"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "millaymantaña"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "suwasqa kayman chayarqan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "mana allin karqanmi"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "taripayqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:39:20.293486601Z",
+  "model": "glm-5.3"
+}

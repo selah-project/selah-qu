@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Huk ñiqin kinraytaqman: chunka pichqa ama qatasqa p'achakuna; saywankuna kinsa, tiyachinankuna kinsa.",
+  "tokens": [
+    {
+      "surface": "ולכתף",
+      "gloss": "kinraytaqman"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka-yuq"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "qatasqa p'achakuna"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "saywankuna"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "tiyachinankuna"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kinsa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:05.469806150Z",
+  "model": "glm-5.3"
+}

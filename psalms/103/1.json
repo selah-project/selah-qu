@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Davidpa. Bendiciy, nefeshniy, ⟨את⟩ Yahweta; hinallataq llapan ukhunniy ⟨את⟩ santon Sutinta bendicion.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "bendiciy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinallataq llapan"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "ukhunniy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santon Sutinta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sutin"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santon"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:20.372754027Z",
+  "model": "glm-5.3"
+}

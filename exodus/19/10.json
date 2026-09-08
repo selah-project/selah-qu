@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Yahwem Mosheman nirqan: Riy runakunaman, kunan p'unchaw, paqarinmi paqarichiy, p'achankunatañataq mayukachichun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Riy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "paqarichiy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "paqarin"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "mayukachichun"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "p'achankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:26.441037327Z",
+  "model": "glm-5.3"
+}

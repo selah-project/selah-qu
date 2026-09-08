@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "isaiah 45:2",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 45,
+ "translation": "Ñuqam qam ñawpaqenpi purinqa, hach'a patakunata chiqanchasa; anti q'illaymanta punkukunata phatichirqasa, hinaspa q'illaymanta wichq'anakunata kuchusaq.",
+ "tokens": [
+  {
+   "surface": "אני",
+   "gloss": "Ñuqam"
+  },
+  {
+   "surface": "לפניך",
+   "gloss": "qam ñawpaqenpi"
+  },
+  {
+   "surface": "אלך",
+   "gloss": "purinqa"
+  },
+  {
+   "surface": "והדורים",
+   "gloss": "hach'a patakunata"
+  },
+  {
+   "surface": "אושר",
+   "gloss": "chiqanchasa"
+  },
+  {
+   "surface": "דלתות",
+   "gloss": "punkukunata"
+  },
+  {
+   "surface": "נחושה",
+   "gloss": "anti q'illaymanta"
+  },
+  {
+   "surface": "אשבר",
+   "gloss": "phatichirqasa"
+  },
+  {
+   "surface": "ובריחי",
+   "gloss": "hinaspa wichq'anakunata"
+  },
+  {
+   "surface": "ברזל",
+   "gloss": "q'illaymanta"
+  },
+  {
+   "surface": "אגדע",
+   "gloss": "kuchusaq"
+  }
+ ],
+ "timestamp": "2026-09-08T06:30:36.464676070Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Paymi hanaq pachata puyuwan p'istun, paratan hallp'apaq allichan, qhototan urqukunapi wiñachin.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "p'istun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "puyuwan"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "allichan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'apaq"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "parata"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "wiñachin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "urqukunapi"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "qhoto"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:35.498175293Z",
+  "model": "glm-5.3"
+}

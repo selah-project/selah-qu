@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 58,
+  "translation": "Hinaspa runa ninmi: chiqaqta rurum allin runapaq kan, chiqaqta Elohim kay pachapi juzgakunmi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa ninmi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chiqaqta"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ruru"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "allin runapaq"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chiqaqta"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "juzgakun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kay pachapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:25.308211364Z",
+  "model": "glm-5.3"
+}

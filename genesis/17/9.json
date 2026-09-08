@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "genesis 17:9",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 17,
+ "translation": "Elohimmi Abrahamman nirqan: hinaspa qam ⟨את⟩ Beritniyta waqaychanki, qam hinaspa qhipayki muruyki, sapa wiñayninkupi.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "אל",
+   "gloss": "…man (Abrahamman)"
+  },
+  {
+   "surface": "אברהם",
+   "gloss": "Abraham (Abrahán)"
+  },
+  {
+   "surface": "ואתה",
+   "gloss": "hinaspa qam"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Beritniyta"
+  },
+  {
+   "surface": "בריתי",
+   "gloss": "Beritniyta"
+  },
+  {
+   "surface": "תשמר",
+   "gloss": "waqaychanki"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "qam"
+  },
+  {
+   "surface": "וזרעך",
+   "gloss": "hinaspa muruyki"
+  },
+  {
+   "surface": "אחריך",
+   "gloss": "qhipayki"
+  },
+  {
+   "surface": "לדרתם",
+   "gloss": "sapa wiñayninkupi"
+  }
+ ],
+ "timestamp": "2026-09-08T02:00:56.823948826Z",
+ "model": "glm-5.3"
+}

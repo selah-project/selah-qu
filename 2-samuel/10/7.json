@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "David uyarirqanmi, hinaspa kacharqan ⟨את⟩ Yoavtawan (Joab), hinaspa ⟨את⟩ llapan sinchi awqakunatawan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqanmi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoavtawan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoavtawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan sinchi awqakunatawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "awqakunata"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "sinchi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:40:02.217402919Z",
+  "model": "glm-5.3"
+}

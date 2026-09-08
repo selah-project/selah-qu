@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 96,
+  "translation": "Willachik gentil llaqtakunapi glorian; maravillankunata llapa runa llaqtakunapi.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "willachik"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gentil llaqtakunapi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "glorian"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "runa llaqtakunapi"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "maravillankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:28.350379928Z",
+  "model": "glm-5.3"
+}

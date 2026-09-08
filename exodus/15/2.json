@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Ñuqap kallpay, ñuqap takillaypaq Yah ⟨kan⟩; ñuqap qispichiymi tukurqan. Kaymi Elniy, yupaychasaqmi; taytaypa Elohimnin, hananchachisaqmi.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ñuqap kallpay"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ñuqap takillaypaq"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "qispichiymi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elniy"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "yupaychasaqmi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytaypa"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "hananchachisaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:39.688497515Z",
+  "model": "glm-5.3"
+}

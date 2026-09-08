@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Chaynillataq qaqta willka wasipi qamta qawarqani, qapaq kayniykita, wiñay sumaq kayniykitawan qawanaypaq.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Chaynillataq"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "willka wasipi"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "qamta qawarqani"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qawanaypaq"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "qapaq kayniykita"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "wiñay sumaq kayniykitawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:47.861847159Z",
+  "model": "glm-5.3"
+}

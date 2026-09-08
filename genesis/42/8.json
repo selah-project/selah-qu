@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Yosefm ⟨את⟩ wawqenkunata riqsirqan, ichaqa paykuna payta mana riqsirqankuchu.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "riqsirqan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawqenkunata"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqenkunata"
+    },
+    {
+      "surface": "והם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "riqsirqankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:00.138583369Z",
+  "model": "glm-5.3"
+}

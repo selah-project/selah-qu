@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yahwem Moshe (Moisés)man nirqan: «Paro (Faraón)man yaykuy, ñuqam paypa ⟨את⟩ sunqunta, hinaspa ⟨את⟩ yanapaqninkunap sunquntawan llasaqchasqani, kay unanchaykunata paypa chawpinpi churaypaq.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaykuy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro (Faraón)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "llasaqchasqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunqunta"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sunqunta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "yanapaqninkunap sunqunta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapaqninkunap"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "churaypaq"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "unanchaykunata"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "paypa chawpinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:02.132336090Z",
+  "model": "glm-5.3"
+}

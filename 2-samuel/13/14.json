@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Manam paypa siminta uyarita munarqanchu; paymanta aswan kallpayuq kaspa payta nanachirqan, hinaspa ⟨את⟩ payta puñurqan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Manam"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "munarqanchu"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "uyarita"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "paypa siminta"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "aswan kallpayuq kaspa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "payta nanachirqan"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "puñurqan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:41:02.041534988Z",
+  "model": "glm-5.3"
+}

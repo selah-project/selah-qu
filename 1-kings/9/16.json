@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Paro, Mitsrayim (Egipto) pa apun, sayarirqanmi; ⟨את⟩ Gezerta hap'irqan, ninawan ruphachirqan, llaqtapi kawsaq Kanaan runatawan wañuchirqan; chayta ususiyanman, Shelomopa warmiyanman, qorqarikuy hina karqan.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto) pa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sayarirqanmi"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezerta"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerta"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "ruphachirqan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kanaan runatawan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaan runatawan"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "qorqarikuy hina"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ususiyanman"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "warmiyanman"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomopa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:06:56.097147731Z",
+  "model": "glm-5.3"
+}

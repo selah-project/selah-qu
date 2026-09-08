@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yahwepa rimaymi taruka chinakunata t'ikraykachan, sach'a-sach'akunata ch'usaqyachin; paypa templopi llapanmi kabod (sumaq k'anchay) nispa niwan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "rimay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "t'ikraykachan"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "taruka chinakunata"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "hinaspa ch'usaqyachin"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "sach'a-sach'akunata"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "hinaspa paypa templopi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabod"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:37.528022052Z",
+  "model": "glm-5.3"
+}

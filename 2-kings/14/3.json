@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 14:3",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yahwep ñawinpi allintam ruram; chayllataq David taytan hina mana karqanchu; Yoash taytan rurasqankunata llapanhina ruram.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruram"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "רק",
+      "gloss": "chayllataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "David hina"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "llapanhina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rurasqankunata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rura-"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruram"
+    }
+  ],
+  "timestamp": "2026-09-08T05:36:42.021305852Z",
+  "model": "glm-5.3"
+}

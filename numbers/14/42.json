@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Amam santakunkichikchu, imaraykuchus Yahweqa manam qamkunap chawpinpiychu kachkanchu, hinaspa ama awqaqamakunap ñawpaqninkupi thaqisqa kayunkichikchu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "santakunkichik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam kachkanchu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "qamkunap chawpinpiy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa ama kayunkichikchu"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "thaqisqa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninkupi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "awqaqamakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T01:29:16.587922790Z",
+  "model": "glm-5.3"
+}

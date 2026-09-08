@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Chaninchayniykiwan qespichiway, hinaspa hark'anaway; ñuqaman rinriykita mayt'uy, hinaspa qespichimuway.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "chaninchayniykiwan"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "qespichiway"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "hinaspa hark'anaway"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "mayt'uy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "rinriykita"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "hinaspa qespichimuway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:10.129565581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Sumaq k'anchaynin willakuqmi kikin hatun varokniykiypa; hinaspa millay rikhurichisqaykimanta rimankunata yuyaykunim rimasqayki.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "sumaq k'anchaynin willakuq"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kikin hatun varokniykip"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "varokniyki"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "hinaspa rimankunata"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "millay rikhurichisqaykimanta"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "yuyaykunim rimasqayki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:37.234916670Z",
+  "model": "glm-5.3"
+}

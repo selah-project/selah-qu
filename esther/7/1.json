@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hamurqanm apum, Hamanwan (Haman), Ester (Ester) qhapaq warmiwan upyanapaq.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Hamanwan"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "upyanapaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "qhapaq warmiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:50:25.390324837Z",
+  "model": "glm-5.3"
+}

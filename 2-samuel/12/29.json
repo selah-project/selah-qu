@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa Davidm hunt'aspa ⟨את⟩ tukuy runakunata huñurqan, Rabbahman rinakurqan, chaypi awqanakurqan, chaytaspas hap'irqan.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "huñurqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "rinakurqan"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "Rabbahman"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "awqanakurqan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "hap'irqan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:41:50.525141964Z",
+  "model": "glm-5.3"
+}

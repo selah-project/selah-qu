@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinaspa pecherap patapi iskay anilluta qurimanta ruwanki, hinaspa ⟨את⟩ iskay anillukunata pecherap iskay kuchunkunapi churanki.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruwanki"
+    },
+    {
+      "surface": "על",
+      "gloss": "…patapi"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "pechera"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "anillo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qurimanta"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "hinaspa churanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iskay anillukunata"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "anillukunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "kuchunkuna"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "pecherap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:40.589137112Z",
+  "model": "glm-5.3"
+}

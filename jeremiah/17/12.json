@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Sumaq k'anchay tiyanam hanaq, qallariymantapacha, santuarioninchikpa tiyanan.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "tiyana"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sumaq k'anchayniyuq"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hanaq"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "qallariymantapacha"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tiyanan"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "santuarioninchikpa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:05:40.144894449Z",
+  "model": "glm-5.3"
+}

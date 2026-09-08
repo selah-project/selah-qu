@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Sichus kamachiqpa sonqun qam contraykimanta p'itwan, tiyanaykita ama saqeychu; imaraykuchus upallay kasqinmi hatun pantasqakunata thakichin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sonqun"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "kamachiqpa"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "p'itwan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qam contraykimanta"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "tiyanaykita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "saqeychu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "upallay kasqin"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "thakichin"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "hatun pantasqakunata"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T11:42:45.524149562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Shaqha t'antaykita unupa uyanpi hana; achka p'unchawkunapi chayta tarinkim.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Shaqha"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "t'antaykita"
+    },
+    {
+      "surface": "על",
+      "gloss": "hana"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uyanpi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unupa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "achka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "chayta tarinki"
+    }
+  ],
+  "timestamp": "2026-09-08T11:44:51.993737400Z",
+  "model": "glm-5.3"
+}

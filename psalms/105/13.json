@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Huk llaqtamanta wak llaqtaman, apuwasitaqmanta wak runakunap mamallqtanman purirqankum.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "purirqankum"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "huk llaqtamanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wak"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "llaqtaman"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "apuwasitaqmanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mamallqtanman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:35.830259058Z",
+  "model": "glm-5.3"
+}

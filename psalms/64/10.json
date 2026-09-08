@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 64,
+  "translation": "Chaymi llapa runa mancharikunku, hinaspa Elohimpa rurayninta willanku; paypa rurasqankunata amawta hinawan yuyankum.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "mancharikunku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "willanku"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "rurayninta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "paypa rurasqankunata"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "amawta hinawan yuyanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:02.690974010Z",
+  "model": "glm-5.3"
+}

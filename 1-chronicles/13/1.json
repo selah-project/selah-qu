@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Davidmi waranqakunap pushaqkunawan, pachqakunap pushaqkunawan, llapan umalliqwan masintakurqan.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "masintakurqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David (David)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…wan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pushaqkuna"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "waranqakunap"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "hinaspa pachqakunap"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "umalliq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:29:17.352915609Z",
+  "model": "glm-5.3"
+}

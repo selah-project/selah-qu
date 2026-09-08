@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa karnerokunap puka t'inasqa carakunata, takhash (thachash) carakunatawan, hinaspa shittim sach'akunatawan.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "hinaspa carakuna"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "karnerokuna"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "puka t'inasqa"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "hinaspa carakuna"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "takhash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "hinaspa sach'a"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:36:26.633376353Z",
+  "model": "glm-5.3"
+}

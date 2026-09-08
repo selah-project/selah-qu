@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Hinaspa apamuy ⟨את⟩ taytaykichikta, ⟨את⟩ wasiykichikkunatawan, ñuqaman haykuy; ñuqa qusaqki Mitsrayim hallp'apa allin kaqninta ⟨את⟩, hinaspa hallp'apa misk'ininta ⟨את⟩ mikhunkichik.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "apamuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytaykichikta"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "taytaykichikta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wasiykichikkunata"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "wasiykichikkunata"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "haykuy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "qusaqki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allin kaqninta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin kaqnin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mikhunkichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misk'ininta"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "misk'inin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'apa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:17:37.581125917Z",
+  "model": "glm-5.3"
+}

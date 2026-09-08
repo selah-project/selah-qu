@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Manchakusqaykikunamanmi unanchata karqanki, chiqtu rayku wayrarparinanpaq. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "karqanki"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "manchakusqaykikunaman"
+    },
+    {
+      "surface": "נס",
+      "gloss": "unancha"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "wayrarparinanpaq"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "chiqtu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:14.122813072Z",
+  "model": "glm-5.3"
+}

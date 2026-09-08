@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Aya wasikunapi tiyaqkunam, hark'asqa wasikunapipuñuqkuna; khuchi aychata mikhuaqkunam, michhu tukru wanunkunapi kasqan.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "aya wasikunapi"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "hinaspa hark'asqa wasikunapi"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "puñunku"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "mikhuaqkuna"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "khuchi"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "hinaspa tukru"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "michhu"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "wanunkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:46:30.248897970Z",
+  "model": "glm-5.3"
+}

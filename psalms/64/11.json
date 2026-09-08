@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 64,
+  "translation": "Allin runa Yahwepi k'uyakunqam, hinaspa paypi amarqakunqam; llapa sunqu chiqtan runakuna amtachakunqakum.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "k'uyakunqa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "amarqakunqa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "amtachakunqaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "chiqtan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:02.691124194Z",
+  "model": "glm-5.3"
+}

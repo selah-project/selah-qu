@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaysi llapa runa ⟨את⟩ Yarden chayanwan tukurqaptin, Yahwem Yehoshuaman (Josué) rimaran willanapaq.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chaysi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "tukurqaptin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "runa"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "chayanwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "rimaran"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuaman (Josué)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "willanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:27:49.877827507Z",
+  "model": "glm-5.3"
+}

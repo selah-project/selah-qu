@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Ñuqamanta mañakuy, ñuqam goykunata qusaq chaniykimanan; chaniykiwanmi hallp'ap chalanakuna.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "mañakuy"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "Ñuqamanta"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ñuqam qusaq"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "goykuna"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "chaniykimanan"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "chaniykiwanmi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "chalanakuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:04.780783426Z",
+  "model": "glm-5.3"
+}

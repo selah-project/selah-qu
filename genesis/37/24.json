@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Hap'irqankum, ⟨את⟩ payta ukhuman wikch'urqankum; ukhuqa ch'usaqmi karqan, manam unayuqchu karqan ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "hap'irqankum"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "wikch'urqankum"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "ukhuman"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "ukhuman"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "ukhuqa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ch'usaqmi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unayuqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:12:09.205773204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Shelachmi kimsa chunka wata kawsarqan, hinaspa ⟨את⟩ Eberta paqarichirqan.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Shelach"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsarqan"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eberta"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Eber"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:47.157272796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Elohimqa allin taripaqmi; Elqa sapa p'unchaw phiñakunmi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "taripaq"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "phiñakunmi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:53.078962277Z",
+  "model": "glm-5.3"
+}

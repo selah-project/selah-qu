@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymanta Elohim raqiaman «hanaq pacha» sutinta curqanmi; ch'isim karqan, paqariym karqan, iskay ñiqin p'unchawmi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sutinta curqanmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "raqiaman"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ch'isim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "paqariym"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay ñiqin"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:22.684520849Z",
+  "model": "glm-5.3"
+}

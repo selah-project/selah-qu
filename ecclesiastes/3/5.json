@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Pacham rumikunata wikch'unapaq, hinaspa pacham rumikunata huñunapaq; pacham marq'anapaq, hinaspa pacham marq'anaymanta karakunapaq.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pacham"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "wikch'unapaq"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "rumikunata"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacham"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "huñunapaq"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "rumikunata"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pacham"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "marq'anapaq"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacham"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "karakunapaq"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "marq'anaymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:37:26.013244947Z",
+  "model": "glm-5.3"
+}

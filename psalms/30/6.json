@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Yahwepa phiñakuyninqa huk ri'aspa t'ikraymim ⟨kan⟩; paypa kusa munakuyninpiqa kawsaymi; tuta chayamuptinqa waqaypaq p'unchaw tukukunmi, hinaspa paqarintaq k'uchi q'uchukuy hamunmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "〈kan〉 ... -m"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "huk ri'aspa"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "Yahwepa phiñakuyninpi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsaymi"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "paypa kusa munakuyninpi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "tuta chayamuptinqa"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "p'unchaw tukukunmi"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "waqaypaq"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "hinaspa paqarintaq"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "k'uchi q'uchukuy"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:22.695254657Z",
+  "model": "glm-5.3"
+}

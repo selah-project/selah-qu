@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 16:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Chayrayku Moab (Moab) llakikunqanmi Moabpaq, Moab llapanninmi llakikunqan; Kir-Jerespa (Kir-Hareset) uva misk'i t'antankuna rayku waqankichik — sincham nanachisqa kanku.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Chayrayku"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "llakikunqanmi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab (Moab)"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "Moabpaq"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "llapannin"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "llakikunqanmi"
+    },
+    {
+      "surface": "לאשישי",
+      "gloss": "uva misk'i t'antankuna rayku"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "חרשת",
+      "gloss": "Jeres"
+    },
+    {
+      "surface": "תהגו",
+      "gloss": "waqankichik"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sincham"
+    },
+    {
+      "surface": "נכאים",
+      "gloss": "nanachisqa kanku"
+    }
+  ],
+  "timestamp": "2026-09-08T13:43:43.740633415Z",
+  "model": "glm-5.3"
+}

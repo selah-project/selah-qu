@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 4:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hananokman (Henoc) paqariykirqan ⟨את⟩ Irad; Iradmi paqarirqan ⟨את⟩ Mehujael; Mehujaelmi paqarirqan ⟨את⟩ Methushael; Methushaelmi paqarirqan ⟨את⟩ Lamek.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "paqariykirqan"
+    },
+    {
+      "surface": "לחנוך",
+      "gloss": "Hananokman (Henoc)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Irad"
+    },
+    {
+      "surface": "עירד",
+      "gloss": "Irad"
+    },
+    {
+      "surface": "ועירד",
+      "gloss": "Iradtaq"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mehujael"
+    },
+    {
+      "surface": "מחויאל",
+      "gloss": "Mehujael"
+    },
+    {
+      "surface": "ומחייאל",
+      "gloss": "Mehujaeltaq"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Methushael"
+    },
+    {
+      "surface": "מתושאל",
+      "gloss": "Methushael"
+    },
+    {
+      "surface": "ומתושאל",
+      "gloss": "Methushaeltaq"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lamek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lamek"
+    }
+  ],
+  "timestamp": "2026-09-08T13:24:02.514952073Z",
+  "model": "glm-5.3"
+}

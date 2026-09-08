@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Zevach (sacrificio) hinaspa minchah (ofrenda) mana munarqankichu; silqakunatam ñuqapaq p'anqarqanki; olah (quemay ofrenda) hinaspa jata'ah mana mañarqankichu.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "zevach (sacrificio)"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "hinaspa minchah (ofrenda)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "munarqankichu"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "silqakunata"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "p'anqarqanki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "olah (quemay ofrenda)"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "hinaspa jata'ah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "mañarqankichu"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:54.615440336Z",
+  "model": "glm-5.3"
+}

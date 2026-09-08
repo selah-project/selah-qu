@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Llapa ususita hinaspa wakchata mana nanachiykichikchu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ususi"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "hinaspa wakcha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "nanachiykichikchu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:57.527383125Z",
+  "model": "glm-5.3"
+}

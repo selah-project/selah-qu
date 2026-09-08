@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinaspa pecherap patapi ruwanki cadena-wataskunata, p'istusqa makikat, watasqa-wataskuna ruwasqata, ch'uya qurimanta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruwanki"
+    },
+    {
+      "surface": "על",
+      "gloss": "…patapi"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "pechera"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "cadena-wataskuna"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "p'istusqa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ruwasqa"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "watasqa-wataskuna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ch'uya"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:40.588721732Z",
+  "model": "glm-5.3"
+}

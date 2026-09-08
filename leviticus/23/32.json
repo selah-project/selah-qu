@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Shabat Shabaton chaymi qamkunapaq; hinaspa much'ankichik ⟨את⟩ Nefeshniykichikta killapa isqonninti chisiypi, chisiymanta chisyakama Shabatniykichikta waqaychankichikmi.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabaton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "hinaspa much'ankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshniykichikta"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "Nefeshniykichikta"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "isqonninti"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "killapa"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "chisiypi"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "chisiymanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "chisyakama"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "chisyakama"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "waqaychankichik"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Shabatniykichikta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:21.025765742Z",
+  "model": "glm-5.3"
+}

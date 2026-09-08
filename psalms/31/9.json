@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "psalms 31:9",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 31,
+ "translation": "Manam awqaypa makinpi ñuqata wichiykachawanki; hatun pachapi chakikunata sayachirqankim.",
+ "tokens": [
+  {
+   "surface": "ולא",
+   "gloss": "manam"
+  },
+  {
+   "surface": "הסגרתני",
+   "gloss": "ñuqata wichiykachawanki"
+  },
+  {
+   "surface": "ביד",
+   "gloss": "makinpi"
+  },
+  {
+   "surface": "אויב",
+   "gloss": "awqaypa"
+  },
+  {
+   "surface": "העמדת",
+   "gloss": "sayachirqanki"
+  },
+  {
+   "surface": "במרחב",
+   "gloss": "hatun pachapi"
+  },
+  {
+   "surface": "רגלי",
+   "gloss": "chakikunata"
+  }
+ ],
+ "timestamp": "2026-09-08T09:40:25.124571394Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 17:31",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Hinaspa Davidpa rimasqankunam uyarirqanku, Shaulpa ñawpaqninman willarqankumpas; chaysi Shaul payta ñawpaqninman apachirqan.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "uyarirqankum"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "rimasqankunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimasqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "willarqankum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninman"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulpa"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "payta apachirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:17:50.464270467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa Yeshua (Josué) ⟨את⟩ Yoyaqimta paqarichirqanmi; hinaspa Yoyaqim ⟨את⟩ Eliyashibta paqarichirqan; hinaspa Eliyashib ⟨את⟩ Yoyadata paqarichirqan.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Hinaspa Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyaqimta"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyaqim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "hinaspa Yoyaqim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyashibta"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eliyashib"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "hinaspa Eliyashib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyadata"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-09-08T12:25:56.494145744Z",
+  "model": "glm-5.3"
+}

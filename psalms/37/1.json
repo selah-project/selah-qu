@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Davidpa. Ama phiñariychu millay rurakuqkunamanta, ama k'uyaychu ima saqillata rurakuqkunamanta.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "phiñariychu"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "millay rurakuqkunamanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "k'uyaychu"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "rurakuqkunamanta"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ima saqillata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:43:23.931215028Z",
+  "model": "glm-5.3"
+}

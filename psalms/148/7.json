@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 148,
+  "translation": "Hallp'amanta Yahweta yupaychachun ⟨את⟩: hatun yaku mach'aqwaykuna, llapa ukhu yakukunapas.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yupaychachun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "hatun yaku mach'aqwaykuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "ukhu yakukuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:47.496288643Z",
+  "model": "glm-5.3"
+}

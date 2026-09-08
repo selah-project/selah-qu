@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 13:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa tsaraat charipi t’ikaspa mast’ariptin, tsaraatmi ⟨את⟩ neg’ayuqpa tukuy charinta wichq’akunqa, paypa umanmanta chakinkaman, kohenpa ñawikunap qhawasqan tukuy rikch’aykama.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa …kaptin"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "t’ikaspa"
+    },
+    {
+      "surface": "תפרח",
+      "gloss": "mast’arin"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "charipi"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "hinaspa wichq’akunqa"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy neg’ayuqpa charinta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "עור",
+      "gloss": "charinta"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "neg’ayuqpa"
+    },
+    {
+      "surface": "מראשו",
+      "gloss": "paypa umanmanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "…kaman"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "paypa chakinkaman"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "rikch’aykama"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawikunap qhawasqan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:58:08.179936880Z",
+  "model": "glm-5.3"
+}

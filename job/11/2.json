@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Askha rimaykunaqa manachu kutichisqa kanqa? hinaspa wirp'akunayuq runachu allin tukunqa?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "rimaykuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "kutichisqa kanqa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa ... chu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "wirp'akunayuq"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "allin tukunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:04:09.711436187Z",
+  "model": "glm-5.3"
+}

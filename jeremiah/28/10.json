@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Chaymanta Hananya navim (Ananías) ⟨את⟩ yugunta Yirmeya (Jeremías) navipa hunk'umanta hurqurqan, chayta t'akirparqanm.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "chaymanta hurqurqan"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yugunta"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "yugun"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hunk'umanta"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "hunk'u"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navipa"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "chayta t'akirparqan"
+    }
+  ],
+  "timestamp": "2026-09-08T13:52:31.753628442Z",
+  "model": "glm-5.3"
+}

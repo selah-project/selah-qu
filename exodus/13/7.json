@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Masata ⟨את⟩ qanchis p'unchawkunata mikhunqam; manam wayusqa qamwan rikuriqchu, manam wayupas qamwan rikuriqchu, llapan saywaykikipi.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Masata"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhunqam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanchis p'unchawkunata"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "p'unchawkunata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rikuriq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "wayusqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rikuriq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "wayu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapanpi"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "saywaykikipi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:00.594365480Z",
+  "model": "glm-5.3"
+}

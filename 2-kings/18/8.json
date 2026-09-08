@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Paymi ⟨את⟩ Pelishtikunata Azza kama mak'arqan, hinaspa ⟨את⟩ saywaqninkunata — waqaychaqkunaq turrumanta fortaleza llaqtakama.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "mak'arqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtikunata"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtikunata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "saywaqninkunata"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "saywaqninkunata"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "urrumanta"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "waqaychaqkunaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "fortaleza"
+    }
+  ],
+  "timestamp": "2026-09-08T05:39:23.859818692Z",
+  "model": "glm-5.3"
+}

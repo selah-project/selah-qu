@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 9:13",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yahwem Mosheta nirqan: paqarintin tutamanta ñawpaqta sayariy, Paropa ñawpaqninpi sayay, hinaspa payman ninki: kayta ninmi Yahwe, Ivriykunap Elohimnin: ⟨את⟩ runayta kachariy, ñuqata servichikunankupaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "paqarintin ñawpaqta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "והתיצב",
+      "gloss": "sayay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ninki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ninmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ivriykunap"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kachariy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runayta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runayta"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "ñuqata servichikunankupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:48.634845835Z",
+  "model": "glm-5.3"
+}

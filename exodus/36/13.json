@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 36:13",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Pichqa chunka quri q'asqatam ruwarqan, hinaspa ⟨את⟩ p'achakunata hukta hukman q'asqakunawan t'inkirqan; chaymanta Mishkanqa hukmi tukurqan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pichqa chunka"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "q'asqa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "ויחבר",
+      "gloss": "t'inkirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achakunata"
+    },
+    {
+      "surface": "הירעת",
+      "gloss": "p'achakunata"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hukta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "hukman"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "q'asqakunawan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:44.745865678Z",
+  "model": "glm-5.3"
+}

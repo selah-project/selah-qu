@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Yahwe, yuyariy imatañam ñuqaykuman karqan; qhawaytaq rikuy ⟨את⟩ p'inqayñuqaykunchikta.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yuyariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imata"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykuman"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "qhawaytaq rikuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'inqayñuqaykunchikta"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "p'inqayñuqaykunchikta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:37:02.011359856Z",
+  "model": "glm-5.3"
+}

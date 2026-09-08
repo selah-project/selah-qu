@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Suyakuqkuna qullqinkupi, askha qullqinkuwan phurarikunku.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "suyakuqkuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "qullqinku"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "qullqinkuwan"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "phurarikunku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:49.983859127Z",
+  "model": "glm-5.3"
+}

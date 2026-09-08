@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi ⟨את⟩ Yonata hap'ispa mama quchaman warqurqanku; chaymanta qucham rawichiyninmanta sayarirqan.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "hinaspa hap'irqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonata"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "warqurqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama qucha"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "qucham"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "rawichiyninmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:04:25.627781939Z",
+  "model": "glm-5.3"
+}

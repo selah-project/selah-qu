@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yahwem ⟨את⟩ Parota hatun onqoykunawan llaliykurqan, hinaspa ⟨את⟩ wasintawan, Saraypa — Abrahampa warmipa — imarayku.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "llaliykurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parota"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parota"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "onqoykunawan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wasinta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saraypa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "warmipa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrahampa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:30.743682268Z",
+  "model": "glm-5.3"
+}

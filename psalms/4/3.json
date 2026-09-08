@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Runakunap wawankuna, maykaman nuqap sumaq kaynita ch'iqichiykichikman chayanqa? Ch'usaqtachu munankichik, llullatachu maskhankichik? Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "עד",
+      "gloss": "maykama"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "nuqap sumaq kaynita"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "ch'iqichiyman"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "munankichik"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ch'usaqta"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "maskhankichik"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "llullata"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:29.454304651Z",
+  "model": "glm-5.3"
+}

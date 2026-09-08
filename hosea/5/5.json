@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "hosea 5:5",
+ "book": "hosea",
+ "lang": "qu",
+ "chapter": 5,
+ "translation": "Israelpa suyasqanm Yahwep ñawpaqninpi willakunqa; Israelpas Efrayimpas pprinta-ta-wan chankallakunqaku; Yahudapas paykunawanmi chankallakunqa.",
+ "tokens": [
+  {
+   "surface": "וענה",
+   "gloss": "willakunqa"
+  },
+  {
+   "surface": "גאון",
+   "gloss": "Israelpa suyasqan (vanidad)"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "בפניו",
+   "gloss": "paypa ñawpaqninpi"
+  },
+  {
+   "surface": "וישראל",
+   "gloss": "hinaspa Israel"
+  },
+  {
+   "surface": "ואפרים",
+   "gloss": "hinaspa Efrayim"
+  },
+  {
+   "surface": "יכשלו",
+   "gloss": "chankallakunqaku"
+  },
+  {
+   "surface": "בעונם",
+   "gloss": "printa-ta-wan"
+  },
+  {
+   "surface": "כשל",
+   "gloss": "chankallakunqa"
+  },
+  {
+   "surface": "גם",
+   "gloss": "pas"
+  },
+  {
+   "surface": "יהודה",
+   "gloss": "Yahuda (Judá)"
+  },
+  {
+   "surface": "עמם",
+   "gloss": "paykunawanmi"
+  }
+ ],
+ "timestamp": "2026-09-08T08:45:30.977641049Z",
+ "model": "glm-5.3"
+}

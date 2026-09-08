@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Chaymanta chiqnin sik'intawan t'ikrarqankim, awqanapipas sayachiyta mana ruwarqankichu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "t'ikrarqankim"
+    },
+    {
+      "surface": "צור",
+      "gloss": "chiqnin sik'i"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "-tawan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana ...chu"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "sayachiyta ruwarqanki"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "awqanapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:26.758138691Z",
+  "model": "glm-5.3"
+}

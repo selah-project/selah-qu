@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Mikhayahutaq nirqan: Yahwe kawsaqmi; Yahwem ñuqaman imata niptinmi, ⟨את⟩ chaytañam ñuqa rimasaq ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayahutaq"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsaqmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqaqchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa nisqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "niptinmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chaytañam",
+      "marks": "rimasqayta"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "rimasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:22:02.458216834Z",
+  "model": "glm-5.3"
+}

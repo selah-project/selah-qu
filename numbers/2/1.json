@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Yahwem Mosheta (Moisés) rimarqan, hinaspa Aharonta (Aarón) niptin:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hinaspa … niptin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa … niptin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "niptin"
+    }
+  ],
+  "timestamp": "2026-09-08T01:14:39.802755855Z",
+  "model": "glm-5.3"
+}

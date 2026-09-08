@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Awqaykunata qaway: achkanmi chayrayku, hinaspa k'asita ch'iqiwanmi ch'iqiwarqanku.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "qaway"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "awqaykunata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "achkanmi"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "hinaspa k'asita ch'iqiwanmi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "k'asita"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "ch'iqiwarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:13.322459505Z",
+  "model": "glm-5.3"
+}

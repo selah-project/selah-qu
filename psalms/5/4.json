@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Yahwe, tutamantam ñuqap kunkayta uyanki; tutamanta qamman ñuqap mañasqayta churasaq hinaspa suyasaq.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uyanki"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ñuqap kunkayta"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "churasaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "hinaspa suyasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:48.165376176Z",
+  "model": "glm-5.3"
+}

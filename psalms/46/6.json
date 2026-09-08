@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Elohimmi paypa chawpinpi kachkan, manam chikichasqa kanqachu; yanapasaqmi payta Elohim, paqariy ñawpaqta.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "paypa chawpinpi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "chikichasqa kanqa"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "yanapasaq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "paqariy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:43.892337599Z",
+  "model": "glm-5.3"
+}

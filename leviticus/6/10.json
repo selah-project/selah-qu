@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "leviticus 6:10",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 6,
+ "translation": "Manam chimtunawan wawchisqa kanqachu; paykunapa chikninta ñuqam ⟨את⟩ payta karqani ñuqap ninakunamanta; santokunap santonmi payqa, hatunpahina, hinaspa ashanpahina.",
+ "tokens": [
+  {
+   "surface": "לא",
+   "gloss": "manam"
+  },
+  {
+   "surface": "תאפה",
+   "gloss": "wawchisqa kanqa"
+  },
+  {
+   "surface": "חמץ",
+   "gloss": "chimtunawan"
+  },
+  {
+   "surface": "חלקם",
+   "gloss": "paykunapa chikninta"
+  },
+  {
+   "surface": "נתתי",
+   "gloss": "ñuqam karqani"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "⟨את⟩",
+   "marks": "payta"
+  },
+  {
+   "surface": "מאשי",
+   "gloss": "ñuqap ninakunamanta"
+  },
+  {
+   "surface": "קדש",
+   "gloss": "santo"
+  },
+  {
+   "surface": "קדשים",
+   "gloss": "santokunap santon"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "payqa"
+  },
+  {
+   "surface": "כחטאת",
+   "gloss": "hatunpahina"
+  },
+  {
+   "surface": "וכאשם",
+   "gloss": "hinaspa ashanpahina"
+  }
+ ],
+ "timestamp": "2026-09-08T00:51:12.349462355Z",
+ "model": "glm-5.3"
+}

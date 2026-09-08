@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 146,
+  "translation": "Yahwem ñawsakunap ñawinkunata kichan, Yahwem k'umukunata sayarichin, Yahwem cheq runakunata k'uyan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ñawinkunata kichaq"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ñawsakunap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "sayarichiq"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "k'umukunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "k'uyaq"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cheq runakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:00.013730769Z",
+  "model": "glm-5.3"
+}

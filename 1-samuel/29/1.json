@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Pelishtakunam ⟨את⟩ llapa machanenkunata Afeqapi huñarqanku; Israeltaq Yizreelpi kaq pukyupi sayarqankum.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "huñarqankum"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtakunam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa machanenkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "machanenkunata"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeqapi"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Israeltaq"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "sayarqankum"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "pukyupi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Yizreelpi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:30:35.807538816Z",
+  "model": "glm-5.3"
+}

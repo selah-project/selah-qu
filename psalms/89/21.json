@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Davidta servuyta tarirqanimi; muqusqay wirawan much'arqanimi.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "tarirqanimi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidta"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servuyta"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "wirawan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "muqusqay"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "much'arqanimi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:56.585949452Z",
+  "model": "glm-5.3"
+}

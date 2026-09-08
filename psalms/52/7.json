@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 52,
+  "translation": "Chaymi El q'emerpusqayki kanqa wiñaypaq: aysasqayki, wasiykimanta q'ispichisqayki, kawsaqkuna hallp'imanta saphiykita hurqusqayki. Sela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "q'emerpusqayki"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "aysasqayki"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "q'ispichisqayki"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "wasiykimanta"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "saphiykita"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'imanta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsaqkuna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:49.544368358Z",
+  "model": "glm-5.3"
+}

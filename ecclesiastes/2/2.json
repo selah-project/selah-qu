@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Asichymanta ñuqam nirqani: wayuhina; kusikuymantaq: imatam ruwan?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "asichymanta"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ñuqam nirqani"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "wayuhina"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "kusikuymantaq"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:23.030770260Z",
+  "model": "glm-5.3"
+}

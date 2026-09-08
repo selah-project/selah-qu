@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Llakikunmi, chinkapakunmi hallp'a; llakikunmi, chinkapakunmi pacha; llakikunmi hatun runakuna, hallp'ap runakuna.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Llakikunmi"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "chinkapakunmi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "llakikunmi"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "chinkapakunmi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "llakikunmi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hatun runakuna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T06:09:19.792135315Z",
+  "model": "glm-5.3"
+}

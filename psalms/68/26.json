@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Takiqkuna ñawpaq purirqanku, takinakunata waqachiqkuna qhipanta; sipaskuna chawpinpi tinyata waqachispa.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "ñawpaq purirqanku"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "takiqkuna"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qhipanta"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "takinakunata waqachiqkuna"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "sipaskuna"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "tinyata waqachispa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:36.917697619Z",
+  "model": "glm-5.3"
+}

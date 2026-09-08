@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Apum Ahashverosh (Asuero) mask'ata churarqan hallp'apipas, qucha wat'akunapipas.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "מס",
+      "gloss": "mask'ata"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi (patapi)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "hinaspa wat'akuna"
+    },
+    {
+      "surface": "הים",
+      "gloss": "qucha"
+    }
+  ],
+  "timestamp": "2026-09-08T11:49:28.622031513Z",
+  "model": "glm-5.3"
+}

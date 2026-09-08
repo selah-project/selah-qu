@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Mana yachaq runaqa achka hanan pataman churarqanku, qullqisapakunataq huch'uy uranpi tiyanku.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "churarqanku"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "mana yachaq"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "hanan pataman"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "achka"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "qullqisapakunataq"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "huch'uy uranpi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tiyanku"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:09.867329404Z",
+  "model": "glm-5.3"
+}

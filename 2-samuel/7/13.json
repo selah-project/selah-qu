@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Paymi wasita ruwanqa ñuqap Sutipaq, hinaspa ñuqam ⟨את⟩ paypa kamachikuyninpa tiyananta sayachisaq wiñay kama.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wasita ruwanqa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "ñuqap Sutipaq"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "hinaspa sayachisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa kamachikuyninpa tiyananta"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tiyananta"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "paypa kamachikuyninpa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T04:35:48.161277340Z",
+  "model": "glm-5.3"
+}

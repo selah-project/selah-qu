@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 6:50",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa suyuypa churinkunamantam — Yehuda (Judá)pa churinkunap suyumanta, Shimonpa churinkunap suyumanta, Binyaminpa churinkunap suyumantam — quykurqanku ⟨את⟩ kay llaqtakunata, kaykunata sutinta akllaykurqanku ⟨את⟩ payta sutikunawan.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "quykurqanku"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "akllaykurqanku"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "suyumanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda (Judá)pa"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "suyumanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimonpa"
+    },
+    {
+      "surface": "וממטה",
+      "gloss": "suyumanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaminpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay llaqtakunata"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kay llaqtakunata"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kaykunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "sutinta akllaykurqanku"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "sutikunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:20.312038281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Yahwem Israelpa tukuy urpachasqantam chiqniykurqan, hinaspa paykunata muchuchiirqan, hinaspa waqaychakuqkunap makinkaman churarqan, ñawinmanta qarquspa tukunankama.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "chiqniykurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urpachasqanta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "muchuchiirqan"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinkaman"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "waqaychakuqkunap"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tukunankama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qarquspa"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "qarquspa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ñawinmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:41:33.045107717Z",
+  "model": "glm-5.3"
+}

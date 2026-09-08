@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Yahwe Adonay, ñuqap qespichiypa kallpan: arma p'unchawpi umallayta ch'iqiwankim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kallpa"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ñuqap qespichiypa"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "ch'iqiwanki"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "umallayta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "arma"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:57.071719232Z",
+  "model": "glm-5.3"
+}

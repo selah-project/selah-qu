@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 15:15",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Chaymantam chaymanta Devirpa (Debir) tiyaqkunaman ñawpaqman saqiykurqan; Devirpa sutin ñawpa pacham Qiryat Sepher karqan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ñawpaqman saqiykurqan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaqkunaman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devirpa (Debir)"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "sutin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devirpa"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ñawpa pacha"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Qiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sepher"
+    }
+  ],
+  "timestamp": "2026-09-08T03:23:48.066111655Z",
+  "model": "glm-5.3"
+}

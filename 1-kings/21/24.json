@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Ajabmanta wañuqta llaqtapi alqokunam mikhunqaku; hinaspa wañuqta chakrapi hanaq pachap p'isqukuna mikhunqaku.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "wañuqta"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ajabmanta"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhunqaku"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "alqokunam"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "hinaspa wañuqta"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chakrapi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhunqaku"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "p'isqukuna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    }
+  ],
+  "timestamp": "2026-09-08T05:21:50.779549578Z",
+  "model": "glm-5.3"
+}

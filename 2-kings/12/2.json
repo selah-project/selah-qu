@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 12:2",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yehu (Jehú) paqta qanchis watapi Yehoash apu tukurqan; waqanchis chunka watam Yerushalayim (Jerusalén)pi apu karqan. Paypa mamap sutinqa Tsiviah (Sibia) karqan, Beer Sheva (Berseba) llaqtamanta.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "watapi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ליהוא",
+      "gloss": "Yehu paqta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu tukurqan"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "waqanchis chunka watam"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu karqan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "hinaspa sutin"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "paypa mamap"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "Tsiviah"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "Beer Sheva llaqtamanta"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:53.726427624Z",
+  "model": "glm-5.3"
+}

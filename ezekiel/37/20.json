@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 37:20",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chay sach'akunaqa, maypipas qillqanki, makiykipllapi kanqaku, paykunap ñawinqanpi.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "chay sach'akunaqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypipas"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "qillqanki"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunap patapi"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "makiykipllapi"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "paykunap ñawinqanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:05:25.631438408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Llapankaqmi Yaakovpa (Jacob) charanmanta lluqsisqa nefeshkuna qanchis chunka nefesh karqan; hinaspa Yosef (José) Mitsrayimpi (Egipto) karqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "lluqsisqa"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "charan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "qanchis chunka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "hinaspa Yosef"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:19:03.725693611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 113,
+  "translation": "Payta paypa runap lliphiq apukunawan — lliphiq apukunawan tiyanachinanpaq.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "tiyanachinanpaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "lliphiq apukuna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "lliphiq apukuna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:03.506469274Z",
+  "model": "glm-5.3"
+}

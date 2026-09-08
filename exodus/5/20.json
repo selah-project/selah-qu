@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Paromanta ⟨את⟩ lluqsiptinku, Mosheta (Moisés) ⟨את⟩ hinaspa Aharonta (Aarón) ⟨את⟩ paykuna ñawpaqenman sayasqa tuparqankum.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "tuparqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta (Moisés)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Aharonta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonta (Aarón)"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "sayasqa"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "paykuna ñawpaqenman"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "lluqsiptinku"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩manta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paromanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:23:19.109917957Z",
+  "model": "glm-5.3"
+}

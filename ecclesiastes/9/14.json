@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Huk huch'uylla llaqta karqan, runakunañataq chaypi pisi karqan; hinaspa hatun apu chayaman karqan, hinaspa ⟨את⟩ payta muyurirqan, hinaspa pay patapi hatun mamak'asakunata sayarichirqan.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "huch'uylla"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "hinaspa runakuna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "hinaspa chayamurqan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "chayaman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "hinaspa muyurirqan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "payta (chay llaqtata)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "hinaspa sayarichirqan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pay patapi"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "mamak'asakuna"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:21.316244820Z",
+  "model": "glm-5.3"
+}

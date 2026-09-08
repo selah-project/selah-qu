@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "psalms 89:5",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 89,
+ "translation": "Wiñay kamanmi musuqyachisaq qampaj musuqniykita, hinaspa miraymantam miraykama tiyanaykita hatarichisaq. Selah.",
+ "tokens": [
+  {
+   "surface": "עד",
+   "gloss": "kaman"
+  },
+  {
+   "surface": "עולם",
+   "gloss": "wiñay"
+  },
+  {
+   "surface": "אכין",
+   "gloss": "musuqyachisaq"
+  },
+  {
+   "surface": "זרעך",
+   "gloss": "qampaj musuqniykita"
+  },
+  {
+   "surface": "ובניתי",
+   "gloss": "hinaspa hatarichisaq"
+  },
+  {
+   "surface": "לדר",
+   "gloss": "miraymanta"
+  },
+  {
+   "surface": "ודור",
+   "gloss": "miraykama"
+  },
+  {
+   "surface": "כסאך",
+   "gloss": "tiyanaykita"
+  },
+  {
+   "surface": "סלה",
+   "gloss": "Selah"
+  }
+ ],
+ "timestamp": "2026-09-08T10:08:54.388545009Z",
+ "model": "glm-5.3"
+}

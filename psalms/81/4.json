@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "T'uqyachiy killapi shofarta, killa hunt'a k'anchaypi, raykunanchik p'unchawpi.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "T'uqyachiy"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "killapi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofarta"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "killa hunt'a k'anchaypi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "raykunanchik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:26.178416053Z",
+  "model": "glm-5.3"
+}

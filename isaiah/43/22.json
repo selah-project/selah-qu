@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Chaypas manam ⟨את⟩ ñuqata qayarqankichu, Yaakov (Jacob); ñuqamanta phutikurqankim, Israel.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "chaypas manam"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "qayarqankichu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov (Jacob)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "phutikurqanki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T06:24:25.067893899Z",
+  "model": "glm-5.3"
+}

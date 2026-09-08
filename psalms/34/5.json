@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Maskarqani ⟨את⟩ Yahweta, chaymanta ñuqata kutirparqanmi, llapa mancharikuykunamantam qispichirqan.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "maskarqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ñuqata kutirparqanmi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "llapa ... manta"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "mancharikuykunamanta"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "qispichirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:51.342470877Z",
+  "model": "glm-5.3"
+}

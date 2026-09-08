@@ -1,0 +1,80 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "jonah 1:9",
+ "book": "jonah",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Hinaspa payman nirqan: «Ivri (hebreo) kanimi ñuqa, hinaspa ⟨את⟩ Yahweta, hanaq pachap Elohimta ñuqa manchakunim, pay ⟨את⟩ mamita hinaspa ⟨את⟩ chaki hallp'ata rurasqa.»",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "hinaspa nirqan"
+  },
+  {
+   "surface": "אליהם",
+   "gloss": "payman"
+  },
+  {
+   "surface": "עברי",
+   "gloss": "Ivri"
+  },
+  {
+   "surface": "אנכי",
+   "gloss": "ñuqa"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Yahweta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "השמים",
+   "gloss": "hanaq pachap"
+  },
+  {
+   "surface": "אני",
+   "gloss": "ñuqa"
+  },
+  {
+   "surface": "ירא",
+   "gloss": "manchakuni"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "pay"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "rurasqa"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "mamita"
+  },
+  {
+   "surface": "הים",
+   "gloss": "mami"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "chaki hallp'ata"
+  },
+  {
+   "surface": "היבשה",
+   "gloss": "chaki hallp'a"
+  }
+ ],
+ "timestamp": "2026-09-08T09:04:12.491311401Z",
+ "model": "glm-5.3"
+}

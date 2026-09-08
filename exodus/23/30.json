@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Pisilla pisillam paykunata qam ñawpaqmanta qarqusaq, qam phalachkaq kankikama, hinaspa ⟨את⟩ hallp'ata chaskikunki.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "pisilla"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "pisilla"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "qarqusaq"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "qam ñawpaqmanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…q"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "phalachkaq kanki"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "hinaspa chaskikunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T00:35:30.950901773Z",
+  "model": "glm-5.3"
+}

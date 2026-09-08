@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaysi goelqa Boazman nirqan: «Qampaq rantiy.» Chaysi sandalonta hurqurqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Chaysi nirqan"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Boazman"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "rantiy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "sandalonta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:30:29.903983594Z",
+  "model": "glm-5.3"
+}

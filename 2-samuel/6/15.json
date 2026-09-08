@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Davidwanmi, Israelpa wasiwan llapan ⟨את⟩ Yahwepa aronta qapariywan, shofarpa waqayninwan hayhuaykacharqanku.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Davidwan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasiwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "hayhuaykacharqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa aronta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aronta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "qapariywan"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "waqayninwan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofarpa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:38:02.102373752Z",
+  "model": "glm-5.3"
+}

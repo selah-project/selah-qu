@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Qammi atiyniykiwan ⟨את⟩ mamakuchata t'aqarirqanki; tanninimkunap umankunata yakupi p'akirqanki.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "t'aqarirqanki"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "atiyniykiwan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mamakuchata"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "p'akirqanki"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umankunata"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tanninimkunap"
+    },
+    {
+      "surface": "על",
+      "gloss": "yakupi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "yakupi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:38.119765386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Yahwe carpapi, phuyu pilapi rikurimurqan; chaysi phuyu pilam carpap punkun patapi sayarirqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurimurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "carpapi"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "pilapi"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "phuyu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "pila"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "phuyu"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkun"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "carpap"
+    }
+  ],
+  "timestamp": "2026-09-08T03:04:30.041589049Z",
+  "model": "glm-5.3"
+}

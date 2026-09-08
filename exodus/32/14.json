@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Hinaspa Yahwem sunqunta tikrarqanmi chay mana allin imamanta, mayqinata pay llaqtanman ruwanapaq willarqan.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "sunqunta tikrarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "chay mana allin imamanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanapaq"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "pay llaqtanman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:13.301055150Z",
+  "model": "glm-5.3"
+}

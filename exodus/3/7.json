@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yahwem nirqan: Rikum rikuni ⟨את⟩ llakikuyniyta runaypa, maypi Mitsrayimpi (Egipto) kachkanku; hinaspa ⟨את⟩ qaparisqankutapas uyarini, hatun kamachiqninku rayku; ñuqam yachani ⟨את⟩ nanasqankunata.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rikum"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rikuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llakikuyniyta runaypa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "llakikuyniy"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimpi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qaparisqankuta"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "qaparisqankuta"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "uyarini"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "hatun kamachiqninku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "icha"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yachanimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanasqankunata"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "nanasqankuta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:29.871056589Z",
+  "model": "glm-5.3"
+}

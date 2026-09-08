@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi David payta nirqan: \"Imaynataq manam mancharqankichu makiykita kacharuspa ⟨את⟩ Yahwep Mashiajta chinkachiyta?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איך",
+      "gloss": "imaynataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "mancharqankichu"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kacharuspa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykita"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "chinkachiyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiajta"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T04:31:39.336204508Z",
+  "model": "glm-5.3"
+}

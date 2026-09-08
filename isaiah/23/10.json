@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Puririy hallp'aykimanta, mayu hina, Tarshishpa wawan; manaña k'uscham kanchu.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "puririy"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "hallp'aykimanta"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "mayu hina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "pa wawan"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "k'uscha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ña"
+    }
+  ],
+  "timestamp": "2026-09-08T06:06:50.705554995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 11:2",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Tutayaq pacha chayarqanmi; David mishkabninta sayarirqan, apupa wasinp teqsinpi puriykacharqan; teqsimanta huk warmi armakushanta rikurqan; chay warmiqa ancha sumaq rikch'ayniyuqmi karqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tutayaq"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "mishkabninta"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "puriykacharqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "גג",
+      "gloss": "teqsinpi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "armakushan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "teqsimanta"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "chay warmiqa"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "rikch'ayniyuq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ancha"
+    }
+  ],
+  "timestamp": "2026-09-08T04:42:11.346042624Z",
+  "model": "glm-5.3"
+}

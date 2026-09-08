@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Willaqkunata Ajab (Acab)man, Israelpa apinman, llaqtaman apachirqanmi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "apachirqanmi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "willaqkunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab (Acab)man"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apinman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "llaqtaman"
+    }
+  ],
+  "timestamp": "2026-09-08T05:17:05.939698438Z",
+  "model": "glm-5.3"
+}

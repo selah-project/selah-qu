@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 93,
+  "translation": "Askha unukunap kunkanmanta, mama quchap hat'un t'ikranakunamanta — hananpapi tiyaq Yahwemi aswan atiyniyuqmi.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "kunkanmanta"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unukunap"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "hat'un"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "t'ikranakunamanta"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mama quchap"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "aswan atiyniyuq"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "hananpapi tiyaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:00.367206636Z",
+  "model": "glm-5.3"
+}

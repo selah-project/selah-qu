@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Llapan hallp'ap runankuna k'uyarirqankum, llaqtapas thakillarqan; hinaspa ⟨את⟩ Atalyahuta apupa wasipi khillqawan wañuchirqankum.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "k'uyarirqankum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runankuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "llaqtapas"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "thakillarqan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Atalyahuta"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahuta"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "wañuchirqankum"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "khillqawan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apupa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:02.960537789Z",
+  "model": "glm-5.3"
+}

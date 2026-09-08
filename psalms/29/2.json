@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Quchiy Yahweman kabodta, Sutinpaq; taqllakuy Yahweman santoq sumaq kayninpi.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "quchiy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabodta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Sutinpaq"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "taqllakuy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "sumaq kayninpi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santoq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:10.058697179Z",
+  "model": "glm-5.3"
+}

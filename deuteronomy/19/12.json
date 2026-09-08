@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaymanta llaqtanpa kurakakunakuna apachinku, ⟨את⟩ payta chaymanta hap'inku, ⟨את⟩ payta qunku makipi yawarpa qispichiyninpa, chayqa wañun.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "apachinku"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kurakakuna"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "llaqtanpa"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "hap'inku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "qunku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makipi"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "qispichiq"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "yawarpa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "wañun"
+    }
+  ],
+  "timestamp": "2026-09-08T02:45:45.868879697Z",
+  "model": "glm-5.3"
+}

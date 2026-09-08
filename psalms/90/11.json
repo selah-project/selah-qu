@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Pitachus ñawiykipa phiñakuyninpa atiyninta riqsin? Manchariykiman hina yawriykim.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "riqsin"
+    },
+    {
+      "surface": "עז",
+      "gloss": "atiy"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ñawiykipa phiñakuynin"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "hinaspa manchariykiman hina"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "yawriyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:30.777550691Z",
+  "model": "glm-5.3"
+}

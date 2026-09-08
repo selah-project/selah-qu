@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 4:19",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Qammi kay, apu: qam wiñarqanki, sinch'ikarqanki; hatun kayniyki wiñarqanmi, hanaq pachamanmi chayan; kamachiyniyki hallp'ap tukunanmanmi chayan.",
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "apu"
+    },
+    {
+      "surface": "די",
+      "gloss": "(relativa)"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "wiñarqanki"
+    },
+    {
+      "surface": "ותקפת",
+      "gloss": "sinch'ikarqanki"
+    },
+    {
+      "surface": "ורבותך",
+      "gloss": "hatun kayniyki"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "wiñarqan"
+    },
+    {
+      "surface": "ומטת",
+      "gloss": "chayan"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "hanaq pachaman"
+    },
+    {
+      "surface": "ושלטנך",
+      "gloss": "kamachiyniyki"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "tukunanman"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T11:55:09.552028281Z",
+  "model": "glm-5.3"
+}

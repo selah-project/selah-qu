@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Adonay, wirp'ayta kichaway, hinaspataq simiym ⟨ta⟩ willanmi yupaychayniykita.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wirp'ayta"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "kichaway"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "hinaspataq simiym"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "willanmi"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "yupaychayniykita"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:15.335281091Z",
+  "model": "glm-5.3"
+}

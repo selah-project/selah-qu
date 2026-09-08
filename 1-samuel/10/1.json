@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Shemuelm ⟨את⟩ wisñu killkata hurqurqan, umanpapi t'ikrarqan, hinaspa payta much'arqan; hinaspa nirqan: Manachu, Yahwem qanta kanchachirqan paypa herencianpi apu kananpaq?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hinaspa hurqurqan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel (Samuel)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wisñu killkata"
+    },
+    {
+      "surface": "פך",
+      "gloss": "killka"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "wisñu"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "hinaspa t'ikrarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "umanpapi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "uman"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "hinaspa payta much'arqan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "qanta kanchachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "paypa herencianpi"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "apu kananpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T04:11:26.668518741Z",
+  "model": "glm-5.3"
+}

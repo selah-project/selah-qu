@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Hinaspa Mishkanpa llapan takakunan, chaqrapa muyuriqninpas bronzem karqan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "takakuna"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkanpa"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "chaqrapa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqninpi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "bronzem"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:39.059953823Z",
+  "model": "glm-5.3"
+}

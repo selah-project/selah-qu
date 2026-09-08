@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Imaraykuchus wayra payta hawan, chayqa chinkapunmi; chaynintaqpas manañam rikurinqachu kaniptin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "hawan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "chayqa chinkapunmi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manañam"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "rikurinqachu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ña"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "kaniptin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:33.867749783Z",
+  "model": "glm-5.3"
+}

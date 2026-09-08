@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Juk'ayakusqaykichikkamam ñuqam ⟨kan⟩mi; yuraq chukcha tukusqaykichikkamam ñuqam q'ipilla apayqam. Ñuqam kamarqayki, ñuqataqmi apayqa, ñuqataqmi q'ipilla apayqa, qispichillaykimantaqmi.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "juk'ayakusqaykichik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩mi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "yuraq chukcha tukusqaykichik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "q'ipilla apayqa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kamarqayki"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataqmi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "apayqa"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataqmi"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "q'ipilla apayqa"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "qispichillaykimantaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:28:36.742620608Z",
+  "model": "glm-5.3"
+}

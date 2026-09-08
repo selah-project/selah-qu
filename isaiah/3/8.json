@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 3:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yerushalayim (Jerusalén)qa t'aqarirqam, Yehudataq (Judá) urmarqan; imaraykuchus siminkuwan rurasqankuwan Yahwepa contranku karqan, sumaq k'anchay ñawinkunta p'akichispa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "t'aqarirqam"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimqa"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehudataq"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "urmarqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "siminkuwan"
+    },
+    {
+      "surface": "ומעלליהם",
+      "gloss": "rurasqankuwan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "contranku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "p'akichispa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ñawinkunta"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sumaq k'anchay"
+    }
+  ],
+  "timestamp": "2026-09-08T05:51:55.089761028Z",
+  "model": "glm-5.3"
+}

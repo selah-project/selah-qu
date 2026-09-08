@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 21:19",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chaymanta Elohim ⟨את⟩ ñawinkunta kicharqan, hinaspa unu p'uytuta rikurqan; chaymi rispa ⟨את⟩ ch'uspa unuwan hunt'arqan, hinaspa ⟨את⟩ wawaman uyarqan.",
+  "tokens": [
+    {
+      "surface": "ויפקח",
+      "gloss": "kicharqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawinkunta"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "ñawinkun"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "באר",
+      "gloss": "p'uytu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "rispa"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "hunt'arqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ch'uspa"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "ch'uspa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unuwan"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "uyarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawaman"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wawa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:52.438234409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspa k'anchay paqariypi inti lluqsiqhina, mana phuyu-yuq p'unchawhina; k'anchaymanta, parawan, q'umu ichhu hallp'amanta wiñaykunan.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "hinaspa k'anchayhina"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "paqariypi"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "lluqsiq"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "phuyu-yuq"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "k'anchaymanta"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "parawan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "q'umu ichhu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:55:03.689866481Z",
+  "model": "glm-5.3"
+}

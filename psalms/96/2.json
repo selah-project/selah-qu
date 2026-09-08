@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 96,
+  "translation": "Takiychik Yahweman, bendeziy Sutinta; willachik qespichiyninta p'unchawmanta p'unchawman.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "takiychik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bendeziy"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Sutinta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "willachik"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "p'unchawmanta"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "p'unchawman"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "qespichiyninta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:28.350274512Z",
+  "model": "glm-5.3"
+}

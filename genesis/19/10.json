@@ -1,0 +1,64 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "genesis 19:10",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 19,
+ "translation": "Chay runakunam makinkuta churarqanku ⟨את⟩, Lotta ⟨את⟩ paykunaman wasiman apamurqanku, hinaspa ⟨את⟩ punkuta wisq'arqanku.",
+ "tokens": [
+  {
+   "surface": "וישלחו",
+   "gloss": "churarqankum"
+  },
+  {
+   "surface": "האנשים",
+   "gloss": "runakunam"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "makinkuta"
+  },
+  {
+   "surface": "ידם",
+   "gloss": "makinkuta"
+  },
+  {
+   "surface": "ויביאו",
+   "gloss": "apamurqanku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Lotta"
+  },
+  {
+   "surface": "לוט",
+   "gloss": "Lotta"
+  },
+  {
+   "surface": "אליהם",
+   "gloss": "paykunaman"
+  },
+  {
+   "surface": "הביתה",
+   "gloss": "wasiman"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "punkuta"
+  },
+  {
+   "surface": "הדלת",
+   "gloss": "punkuta"
+  },
+  {
+   "surface": "סגרו",
+   "gloss": "wisq'arqanku"
+  }
+ ],
+ "timestamp": "2026-09-07T23:56:43.266107028Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Aharonm Mosheman kutirqan, tariy wasip punkunmanmi; chay unqariyqa hark'akurqanmi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutirqan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkunman"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wasip"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tariy"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "chay unqariyqa"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "hark'akurqanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:32:28.752569976Z",
+  "model": "glm-5.3"
+}

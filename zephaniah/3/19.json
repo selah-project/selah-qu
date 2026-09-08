@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zephaniah 3:19",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Qantaq kayta: chay pachapi llapan ⟨את⟩ minkhuwasqaykikunatawan ruwasaqmi, hinaspa ⟨את⟩ tsalleqta qispichisaq, qarqusqakunatawan huñasaq; paykunata much'achinapaq sutipaq churasaqmi, maypi llapan hallp'api ch'iqniysqa karqanku.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Qantaq kayta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan minkhuwasqaykikunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מעניך",
+      "gloss": "minkhuwasqaykikunata"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "chay pachapi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "hinaspa qispichisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsalleqta"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "tsalleqta"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "qarqusqakunatawan"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "huñasaq"
+    },
+    {
+      "surface": "ושמתים",
+      "gloss": "churasaqmi"
+    },
+    {
+      "surface": "לתהלה",
+      "gloss": "much'achinapaq"
+    },
+    {
+      "surface": "ולשם",
+      "gloss": "sutipaq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapanpi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ch'iqniysqa karqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:13:48.544724271Z",
+  "model": "glm-5.3"
+}

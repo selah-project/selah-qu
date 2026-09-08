@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 21:11",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Burlaqta saruchaspa mana yachaq allin yachakunmi; hinaspa yachaqta yachachiptin, yachayta chaskinmi.",
+  "tokens": [
+    {
+      "surface": "בענש",
+      "gloss": "saruchaspa"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "burlaqta"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "allin yachakunmi"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "mana yachaq"
+    },
+    {
+      "surface": "ובהשכיל",
+      "gloss": "hinaspa yachachiptin"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "yachaqta"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "chaskinmi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "yachayta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:46:53.541822372Z",
+  "model": "glm-5.3"
+}

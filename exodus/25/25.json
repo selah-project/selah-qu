@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa chayman huk maki-chanrayuq muyunta ruwanki, muyuriqllapi; hinaspa quri wirallata chay muyunman ruwanki, muyuriqllapim.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruwanki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "muyunta"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "maki-chanra"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqlla"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruwanki"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wirallata"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "chay muyunman"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqllapi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:36:36.999532114Z",
+  "model": "glm-5.3"
+}

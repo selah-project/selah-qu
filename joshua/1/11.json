@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 1:11",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Campopa ukhunpi pasay, hinaspa ⟨את⟩ runakunata kamachiy nispa: qamkunapaq mikhunata wasichay; imaraykuchus kimsa p'unchawraq qamkuna ⟨את⟩ kay Yardenta (Jordán) pasanki, yaykunaykipaq, ⟨את⟩ hallp'ata hap'inaykipaq, mayta Yahwe Elohimniykichik qamkunaman qunmi hap'inaykipaq.",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "pasay"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "campopa"
+    },
+    {
+      "surface": "וצוו",
+      "gloss": "hinaspa kamachiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "wasichay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "mikhunata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "pasanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay Yardenta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenta (Jordán)"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yaykunaykipaq"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "hap'inaykipaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qunmi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "hap'inaykipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T03:05:54.924019752Z",
+  "model": "glm-5.3"
+}

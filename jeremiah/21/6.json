@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa kay llaqtap tiyaqninkunatam ⟨את⟩ nanachisaq: runatapas ⟨את⟩, uywakunatapas ⟨את⟩; hatq'unquywanmi wañunqaku.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "nanachisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay llaqtap tiyaqninkunata"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "tiyaqninkunata"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kay llaqtap"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "uywakunata"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "uywakunata"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "hatq'unquywan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "wañunqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T07:09:23.883073173Z",
+  "model": "glm-5.3"
+}

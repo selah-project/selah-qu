@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Paqorisqanku Shimon ayllupaq: pichqa chunka isqun waranqa, kimsa pachak-mi.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "Paqorisqanku"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ayllupaq"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "isqun"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "pichqa chunka"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak-mi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:14:32.377047659Z",
+  "model": "glm-5.3"
+}

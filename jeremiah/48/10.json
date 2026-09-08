@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 48:10",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Saqrachasqa ⟨kan⟩ pay, Yahwepa llamk'ayninta mana hunt'a sunquwan ruraq; hinaspa saqrachasqa ⟨kan⟩ pas, paypa khuninta yawarmanta hark'aq.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "saqrachasqa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "llamk'ayninta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "mana hunt'a sunquwan"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "hinaspa saqrachasqa"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "hark'aq"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "khuninta"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "yawarmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T07:40:39.870428213Z",
+  "model": "glm-5.3"
+}

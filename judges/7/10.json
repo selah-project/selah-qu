@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "judges 7:10",
+ "book": "judges",
+ "lang": "qu",
+ "chapter": 7,
+ "translation": "Sichus qam manchakunki uraykamunaykiqam, qamwan Purahnan, qam wawqin champiwan, kampaman uraykamuy.",
+ "tokens": [
+  {
+   "surface": "ואם",
+   "gloss": "sichus"
+  },
+  {
+   "surface": "ירא",
+   "gloss": "manchakunki"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "qam"
+  },
+  {
+   "surface": "לרדת",
+   "gloss": "uraykamunaykiqam"
+  },
+  {
+   "surface": "רד",
+   "gloss": "uraykamuy"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "qam"
+  },
+  {
+   "surface": "ופרה",
+   "gloss": "Purahwan"
+  },
+  {
+   "surface": "נערך",
+   "gloss": "qam wawqin champi"
+  },
+  {
+   "surface": "אל",
+   "gloss": ""
+  },
+  {
+   "surface": "המחנה",
+   "gloss": "kampaman"
+  }
+ ],
+ "timestamp": "2026-09-08T03:42:50.642341310Z",
+ "model": "glm-5.3"
+}

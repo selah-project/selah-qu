@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Ichapas mana ñuqata uyariwankichikchu, mana ruwankichikchutaq ⟨את⟩ llapan kay kamachikuykunata.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Ichapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "uyariwankichikchu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ruwankichikchutaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan kamachikuykunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "kamachikuykunata"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T01:11:38.174451037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa ⟨את⟩ bendisiyta kamachisaqmi qamkunapak suqta kaq watapi, chaymi ⟨את⟩ t'uktuta kimsa watakunapaq ruranqa.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "hinaspa kamachisaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bendisiyta"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "bendisiyta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapak"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "watapi"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "suqta kaq"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "hinaspa ruranqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "t'uktuta"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "t'uktuta"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "kimsanpaq"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "watakunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:09:00.976182659Z",
+  "model": "glm-5.3"
+}

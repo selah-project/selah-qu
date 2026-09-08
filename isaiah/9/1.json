@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Ch'usaqllapi puriq runakunam hatun k'anchayta rikurqanku; wañuypa llanthunpi tiyaq runakunapim k'anchay pawallarqan.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ch'usaqllapi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "rikurqanku"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchayta"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaq runakuna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'ampi"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "wañuypa llanthunpi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchay"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "pawallarqan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunapim"
+    }
+  ],
+  "timestamp": "2026-09-08T06:00:33.682737458Z",
+  "model": "glm-5.3"
+}

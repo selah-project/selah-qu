@@ -1,0 +1,102 @@
+{
+ "tier": "glm-5.2",
+ "verse": 23,
+ "ref": "2-chronicles 24:23",
+ "book": "2-chronicles",
+ "lang": "qu",
+ "chapter": 24,
+ "translation": "Wata muyurusqanpi karqanmi: Aram awqayninqa paypaq yawarirqan, chaysi Yehudaman, Yerushalayimman (Jerusalén) chayamurqanku, hinaspa runakunap umalliqninkunata llapanta runakunamanta ch'usuwachirqanku, hinaspa ch'itikunata llapanta Darmaseq apumanman kachamurqanku.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "karqanmi"
+  },
+  {
+   "surface": "לתקופת",
+   "gloss": "muyurusqanpi"
+  },
+  {
+   "surface": "השנה",
+   "gloss": "wata"
+  },
+  {
+   "surface": "עלה",
+   "gloss": "yawarirqan"
+  },
+  {
+   "surface": "עליו",
+   "gloss": "paypaq"
+  },
+  {
+   "surface": "חיל",
+   "gloss": "awqayninqa"
+  },
+  {
+   "surface": "ארם",
+   "gloss": "Aram"
+  },
+  {
+   "surface": "ויבאו",
+   "gloss": "chayamurqanku"
+  },
+  {
+   "surface": "אל",
+   "gloss": "—"
+  },
+  {
+   "surface": "יהודה",
+   "gloss": "Yehudaman"
+  },
+  {
+   "surface": "וירושלם",
+   "gloss": "Yerushalayimman"
+  },
+  {
+   "surface": "וישחיתו",
+   "gloss": "ch'usuwachirqanku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "tukuy umalliqninkunata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "שרי",
+   "gloss": "umalliqninkunata"
+  },
+  {
+   "surface": "העם",
+   "gloss": "runakunap"
+  },
+  {
+   "surface": "מעם",
+   "gloss": "runakunamanta"
+  },
+  {
+   "surface": "וכל",
+   "gloss": "hinaspa tukuy"
+  },
+  {
+   "surface": "שללם",
+   "gloss": "ch'itikunata"
+  },
+  {
+   "surface": "שלחו",
+   "gloss": "kachamurqanku"
+  },
+  {
+   "surface": "למלך",
+   "gloss": "apumanman"
+  },
+  {
+   "surface": "דרמשק",
+   "gloss": "Darmaseq"
+  }
+ ],
+ "timestamp": "2026-09-08T13:15:02.396451486Z",
+ "model": "glm-5.3"
+}

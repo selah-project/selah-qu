@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Ñuqataq uyarinirqanimi, icha mana intindinichu; nirqani: «Adonay, imataq kaykunap puchun kanqa?»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "uyarinirqani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "intindinichu"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "puchun"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykunap"
+    }
+  ],
+  "timestamp": "2026-09-08T12:07:13.663409761Z",
+  "model": "glm-5.3"
+}

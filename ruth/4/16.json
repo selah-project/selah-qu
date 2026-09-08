@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaysi Noemin ⟨את⟩ wawata hap'irqan, iñupi churarqan, paypa ñañan-manam tukurqan.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noemin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "iñupi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "ñanan-manam"
+    }
+  ],
+  "timestamp": "2026-09-08T11:29:04.779950046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Yahwem sayarichirqan huk awqata Shelomo (Salomón)paq: ⟨את⟩ Hadad Edomitata, apu khuskanmi payqa Edompi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Hinaspa ... sayarichirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "huk awqata"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomopaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad Edomitata"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomita"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "khuskan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edompi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:09:30.257490434Z",
+  "model": "glm-5.3"
+}

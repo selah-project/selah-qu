@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Yahwem llapa urmaqkunata tiyachinmi, hinaspataq llapa k'ikllukaqkunata sayarichinmi.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "tiyachin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "urmaqkuna"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "hinaspataq sayarichin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "k'ikllukaqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:01.950037410Z",
+  "model": "glm-5.3"
+}

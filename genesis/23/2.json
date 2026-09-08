@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "genesis 23:2",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 23,
+ "translation": "Sara wañurqanm Kiryat Arba llaqtapi — chayqa Hebronmi — Kanaanpa hallp'anpi; Abrahamm yaykurqan Sarapanta llakikunanpaq, payta waqananpaq.",
+ "tokens": [
+  {
+   "surface": "ותמת",
+   "gloss": "wañurqanm"
+  },
+  {
+   "surface": "שרה",
+   "gloss": "Sara"
+  },
+  {
+   "surface": "בקרית",
+   "gloss": "llaqtapi"
+  },
+  {
+   "surface": "ארבע",
+   "gloss": "Kiryat Arba"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "chayqa"
+  },
+  {
+   "surface": "חברון",
+   "gloss": "Hebronmi"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "hallp'anpi"
+  },
+  {
+   "surface": "כנען",
+   "gloss": "Kanaanpa"
+  },
+  {
+   "surface": "ויבא",
+   "gloss": "yaykurqan"
+  },
+  {
+   "surface": "אברהם",
+   "gloss": "Abrahamm"
+  },
+  {
+   "surface": "לספד",
+   "gloss": "llakikunapaq"
+  },
+  {
+   "surface": "לשרה",
+   "gloss": "Sarapanta"
+  },
+  {
+   "surface": "ולבכתה",
+   "gloss": "payta waqananpaq"
+  }
+ ],
+ "timestamp": "2026-09-07T23:59:26.397223479Z",
+ "model": "glm-5.3"
+}

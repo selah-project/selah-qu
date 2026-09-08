@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Sichus suwa p'akiyyaykuypi tarikun, hinaspa varaqas wañuchikun, chayqa paypaq yawar-p'inqaymi mana ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "p'akiyyaykuypi"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tarikun"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "suwa"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "hinaspa varaqas"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "wañuchikun"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "yawar-p'inqay"
+    }
+  ],
+  "timestamp": "2026-09-08T02:05:32.531217024Z",
+  "model": "glm-5.3"
+}

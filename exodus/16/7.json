@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa tutamanta Yahwepa ⟨את⟩ k'anchayninta rikusqaykichikmi, pay ⟨את⟩ thakniykichikta Yahwepa uyariwaptin; ñuqaykuqa imataq kanchik, imaraykuchus ñuqaykuwan thaknikunkichik?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "hinaspa tutamanta"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "rikusqaykichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa k'anchayninta"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "k'anchayninta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "uyariwaptin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thakniykichikta"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "thakniykichikta"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pa (contran)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "ñuqaykuqa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "thaknikunkichik"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqaykuwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:32:26.379112159Z",
+  "model": "glm-5.3"
+}

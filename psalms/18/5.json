@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Muwasqaykimanta waskakunañam muyurqankuni, hinaspa mana chaninniyuqpaq mayukunan mancharichiwanku.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "muyurqankuni"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "wasqakuna... waskakuna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "muwasqaykimanta"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "hinaspa mayukuna"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "mana chaninniyuqpaq"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "mancharichiwanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:27.853606627Z",
+  "model": "glm-5.3"
+}

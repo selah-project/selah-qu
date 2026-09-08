@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Chaysi Shaulm ⟨את⟩ plishtikunaq campanta rikurqan; chaysi mancharikurqan, sunqunpas sinchi llakikurqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plishtikunaq campanta"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "campanta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plishtikunaq"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mancharikurqan"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "llakikurqan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sunqunpas"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:28:41.569176654Z",
+  "model": "glm-5.3"
+}

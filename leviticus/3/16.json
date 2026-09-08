@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa kohenmi chaykunata altarpi ruphachirqan: mikhuy isha, sumaq q'api; llapa wiraqa Yahwepaqmi.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "ruphachirqan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarpi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mikhuy"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isha"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "q'apipaq"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "wira"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:53.376695756Z",
+  "model": "glm-5.3"
+}

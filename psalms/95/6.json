@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 95,
+  "translation": "Hamuy, achkachasunchik, umanchasunchik; Yahwep ñawpanpi — Ruraqniyku — hinakusunchik.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "hamuy"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "achkachasunchik"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "umanchasunchik"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "hinakusunchik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpanpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Ruraqniyku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:57.441036558Z",
+  "model": "glm-5.3"
+}

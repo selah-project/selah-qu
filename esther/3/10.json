@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymanta apum ⟨את⟩ anillonta makinmanta hurqurqan, Hamanman churapurqan — Hamedatapa churin, Agagpa miraynin, Yehudimkunap awqan.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "chaymanta hurqurqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anillonta"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "anillonta"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makin"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "churapurqan"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamanman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "Agagpa miraynin"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "awqa"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yehudimkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T14:24:32.202343835Z",
+  "model": "glm-5.3"
+}

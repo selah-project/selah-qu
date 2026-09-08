@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa ⟨את⟩ iskay ñawikunata, hinaspa ⟨את⟩ wirata paykunapata patapi kaqta, k'ajrakunapata patapi, hinaspa ⟨את⟩ yoteretta tukti patapi kaqta — ñawikunawan hurqunqam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "iskay ñawikunata"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "ñawikunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wirata"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "wirata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqe"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "paykunapata patapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqe"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "k'ajrakuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "yoteretta"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "yoteretta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "tukti"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "ñawikuna"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "hurqunqam"
+    }
+  ],
+  "timestamp": "2026-09-08T00:50:59.098278462Z",
+  "model": "glm-5.3"
+}

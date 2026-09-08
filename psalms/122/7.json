@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 122,
+  "translation": "Sumaq kawsay ⟨kachun⟩ hondukikipi, thakikuy ⟨kachun⟩ hatun wasikikipi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "⟨kachun⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sumaq kawsay"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "hondukikipi"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "thakikuy"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "hatun wasikikipi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:17.135588276Z",
+  "model": "glm-5.3"
+}

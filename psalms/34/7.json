@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Kay wakcha qaparirqan, Yahwem uyariptinmi, llapa sasa kasqinkunamantam qispichirqan.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "qaparirqan"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyariptinmi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "llapa ... manta"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "sasa kasqinkunamanta"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "qispichirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:51.342889506Z",
+  "model": "glm-5.3"
+}

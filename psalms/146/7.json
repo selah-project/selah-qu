@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 146,
+  "translation": "Ruraqmi kamachikuyta ñak'arichisqakunapaq, t'anta quq yarqasqakunaman; Yahwem wisq'asqakunata kicharichin.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kamachikuyta"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "ñak'arichisqakunapaq"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "quq"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "yarqasqakunaman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "kicharichin"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "wisq'asqakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:00.013579012Z",
+  "model": "glm-5.3"
+}

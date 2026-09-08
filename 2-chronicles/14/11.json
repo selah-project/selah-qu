@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yahwem ⟨את⟩ Kush runakunata Asap ñawpaqninpi, Yehudap ñawpaqninpipas maqarqan; chaymi Kush runakuna ayqerqanku.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "maqarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kush runakunata"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kush runakunata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asap"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ñawpaqninpipas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ayqerqanku"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Kush runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T13:05:03.610871278Z",
+  "model": "glm-5.3"
+}

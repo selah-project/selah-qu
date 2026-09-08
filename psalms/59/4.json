@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Qhawariy: nefeshniyta suyarqankumimi, sinchi awqaqkuna ñuqaman huñikunkumimi; mana ñuqap saltaymi, mana ñuqap huchaypas, Yahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "suyarqanku"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "huñikunku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "sinchi awqaqkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ñuqap saltay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ñuqap huchay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:52.105036146Z",
+  "model": "glm-5.3"
+}

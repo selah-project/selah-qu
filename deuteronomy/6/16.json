@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Ama ⟨את⟩ Yahweta, Elohimninchikta wakichunkichu, hina Massahpi (Masa) wakichiwankichu hina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama...chu"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "wakichunkichu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta, Elohimninchikta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "wakichiwankichu"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Massahpi (Masa)"
+    }
+  ],
+  "timestamp": "2026-09-08T02:32:32.666411837Z",
+  "model": "glm-5.3"
+}

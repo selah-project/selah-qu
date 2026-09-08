@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Ñawiykichim rikurqanku ⟨את⟩ llapa Yahwepa hatun ruwayninta, imata rurqanta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ñawiykichi"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "rikurqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa ruwayninta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ruwaynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurqanta"
+    }
+  ],
+  "timestamp": "2026-09-08T13:26:38.610111566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Manam chaymanta imatapas paqarina kachasaqchu, tulluntapas manam chayanqakuchu; Pesachpa (Pascua) llapa kamachikuyninhina chayta ⟨את⟩ ruwanqakum.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "kachasaqchu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chaymanta imatapas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "paqarina"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "paqarina"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "tulluntapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "chayanqakuchu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "kamachikuyninhina"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesachpa (Pascua)"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ruwanqakum"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chayta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:23:30.469313317Z",
+  "model": "glm-5.3"
+}

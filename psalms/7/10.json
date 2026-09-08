@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Haqekunapa millayninta tukuchiy, ama hina kayta; chaymanta allin runata sayarichiy; sunqukunata rinqakunatawan qhawaqmi allin Elohim.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "tukuchiy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ama hina kayta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "millayninta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haqekunapa"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "sayarichiy"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runata"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "qhawaqmi"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "sunqukunata"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "rinqakunatawan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:53.078728219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 97,
+  "translation": "Paypa ch'askachakunanmi tiksimuyunta k'anchaykacharqan; hallp'a qhawarqanmi, hinaspa k'uyurqan.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "k'anchaykacharqan"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "paypa ch'askachakunan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tiksimuyunta"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "qhawarqanmi"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "hinaspa k'uyurqan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:49.189526772Z",
+  "model": "glm-5.3"
+}

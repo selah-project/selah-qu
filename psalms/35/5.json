@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Kaynanku muncha hina wayra ñawpaqpi; hinaspa Yahwepa angelnin paykunata qarqochun.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Kaynanku"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "muncha hina"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "hinaspa angel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "paykunata qarqochun"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:08.159496468Z",
+  "model": "glm-5.3"
+}

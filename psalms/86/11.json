@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Yahwe, ñanikita ñawinchawachiwaway; chiqaqniykiwan purisa. Sunquyta hukyachiwaway Sutiykita manchaypaq.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "ñawinchawachiwaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ñanikita"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "purisa"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "chiqaqniykiwan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hukyachiwaway"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "sunquyta"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "manchaypaq"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:11.145937311Z",
+  "model": "glm-5.3"
+}

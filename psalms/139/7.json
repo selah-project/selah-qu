@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Mayman richaq sunquykimanta? Maymantataq qawasqaykimanta ayq'asaq?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "mayman"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "richaq"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "sunquykimanta"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "maymantataq"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "qawasqaykimanta"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ayq'asaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:20.361018554Z",
+  "model": "glm-5.3"
+}

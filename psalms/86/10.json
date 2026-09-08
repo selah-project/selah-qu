@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Qanmi hatun kanki, munay ruraykunatam rurawanki; qanmi ⟨kan⟩ Elohim, sapallayki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "rurawanki"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "munay ruraykuna"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "sapallayki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:11.145696590Z",
+  "model": "glm-5.3"
+}

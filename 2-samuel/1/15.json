@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi David waynakunamanta hukintam waqyarqan, nispataq: \"Qayllakuy, payta maqay.\" Chaysi payta maqarqan, wañurqan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waqyarqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "hukinta"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "waynakunamanta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispataq"
+    },
+    {
+      "surface": "גש",
+      "gloss": "qayllakuy"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "maqay"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "maqarqan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:31:39.338405773Z",
+  "model": "glm-5.3"
+}

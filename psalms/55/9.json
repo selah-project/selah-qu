@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Ñuqapaq milliwayta usqhaychasaq, phawaykuq wayramanta, wayraway thawinamanta.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "usqhaychasaq"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "milliwayta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "wayramanta"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "phawaykuq"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "wayraway thawinamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:57.231994712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Ñuqamanta qamkunaman kutisaqmi, ⟨את⟩ qamkunata mirachisaqmi, ⟨את⟩ qamkunata askhachasaqmi, chaymanta ⟨את⟩ Beritniyta (pakti) ⟨את⟩ qamkunawan sayarichisaqmi.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "ñuqamanta kutisaqmi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "mirachisaqmi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "askhachasaqmi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "sayarichisaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritniyta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritniyta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:08.949275500Z",
+  "model": "glm-5.3"
+}

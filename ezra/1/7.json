@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "ezra 1:7",
+ "book": "ezra",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Hinaspam Koresh (Ciro) apim ⟨את⟩ Yahwepa wasinpa wananankunata hurqurqan — mayqinkunata Nevukadnetsar (Nabucodonosor) Yerushalayimmanta hurqurqan, chaykunata paypa diosninpa wasinpi churarqan.",
+ "tokens": [
+  {
+   "surface": "והמלך",
+   "gloss": "apim"
+  },
+  {
+   "surface": "כורש",
+   "gloss": "Koresh"
+  },
+  {
+   "surface": "הוציא",
+   "gloss": "hurqurqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "wananankunata"
+  },
+  {
+   "surface": "כלי",
+   "gloss": "wananankuna"
+  },
+  {
+   "surface": "בית",
+   "gloss": "wasinpa"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqinkunata"
+  },
+  {
+   "surface": "הוציא",
+   "gloss": "hurqurqan"
+  },
+  {
+   "surface": "נבוכדנצר",
+   "gloss": "Nevukadnetsar"
+  },
+  {
+   "surface": "מירושלם",
+   "gloss": "Yerushalayimmanta"
+  },
+  {
+   "surface": "ויתנם",
+   "gloss": "churarqan"
+  },
+  {
+   "surface": "בבית",
+   "gloss": "wasinpi"
+  },
+  {
+   "surface": "אלהיו",
+   "gloss": "diosninpa"
+  }
+ ],
+ "timestamp": "2026-09-08T12:07:54.368578737Z",
+ "model": "glm-5.3"
+}

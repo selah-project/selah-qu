@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Yahwepa t'ikrayninmi simiy willakunqa, hinaspa llapan aycha paypa Santo Sutinta wiñaypaq, wiñay wiñayñata bendicinwanqa.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "Yahwepa t'ikraynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "willakunqa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simiy"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "hinaspa bendicinwanqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sutinta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "paypa Santo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñay wiñayñata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:36.813080207Z",
+  "model": "glm-5.3"
+}

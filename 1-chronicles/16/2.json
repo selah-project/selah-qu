@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Davidm ollata, shelamintawan qatayta tukuchirqan, chaymanta Yahwep Sutinwan ⟨את⟩ runakunaman bendicionta qukurqan.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "tukuchirqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "qataymanta"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ollata"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "shelamintawan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "bendicionta qukurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunaman"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Sutinwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T12:43:39.925900206Z",
+  "model": "glm-5.3"
+}

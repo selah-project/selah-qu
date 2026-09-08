@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Kanchap pirqap kinrayninpi, inti paqariyman ñanpi, t'aqasqa wasi ñawpanpi, wasichasqap ñawpanpinpas lishkakunam ⟨kachkan⟩.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "kinrayninpi"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "pirqa"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kanchap"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "inti paqariyman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpanpi"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "t'aqasqa wasi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa man"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpanpipas"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "wasichasqa"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "lishkakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T14:06:46.112867757Z",
+  "model": "glm-5.3"
+}

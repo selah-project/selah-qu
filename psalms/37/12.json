@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Mana allin runaqa allin runapaq mana allin planllata musuq ñan churanm; hinaspa kirunta payman kiruykachanm.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "mana allin planllata musuq ñan churanm"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin runaqa"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "allin runapaq"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "kirunta... kiruykachanm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "kirun"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:15.139500429Z",
+  "model": "glm-5.3"
+}

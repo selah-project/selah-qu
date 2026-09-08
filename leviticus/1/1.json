@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwem Mosheta (Moisés) qayarqan, hinaspa Taynakuy Wasimanta payman rimarqan, nispa:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "qayarqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "Wasimanta"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Taynakuypa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:50:07.931685457Z",
+  "model": "glm-5.3"
+}

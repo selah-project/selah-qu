@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa ⟨את⟩ runakunap korbanta qayllachirqan; ⟨את⟩ sair jatat, kay runakunapaq kaqta, aparqan, warachirqan; ñawpaq hinam jatajta rurirqan.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "qayllachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korbanta"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "aparqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sair jatat"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "sair"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jatat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "runakunapaq"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "warachirqan"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "jatajta rurirqan"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "ñawpaq hina"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:30.877586138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Yehorammi taytanpa mamlaqtanpi sayarirqan, hinaspa kallpachakurqan; ⟨את⟩ llapan wawqinkunata nanachwan wañuchirqan, Israelpa umalliqninkunamantapas.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "mamlaqtan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanpa"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "kallpachakurqan"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan wawqinkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqinkunata"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "nanachwan"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:09:12.631966451Z",
+  "model": "glm-5.3"
+}

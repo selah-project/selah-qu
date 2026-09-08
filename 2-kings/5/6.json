@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaysi qillqaqa chayamurqan Israel apunman, kayta nispa: Kunan, kay qillqa qamman chayamusptinqa, qaway, qampaman apachirqanimi ⟨את⟩ Naamanta, ñuqap yanayta, qamtaq paypa q'aymanta p'ampakachanayki karqan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "chayamurqan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "qillqaqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "chayamusptinqa"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "qillqa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qaway"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "apachirqanimi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qampaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naamanta"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naamanta"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ñuqap yanayta"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "p'ampakachanayki"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "paypa q'aymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:28:07.252823868Z",
+  "model": "glm-5.3"
+}

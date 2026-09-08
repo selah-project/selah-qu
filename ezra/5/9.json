@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 5:9",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaymantam ñawpaq runakunata kaykunata tapurqayku, kayhinam paykunaman nirqayku: pim qamkunapaq kamachikuyta churan kay wasita wasichanapaq, hinaspa kay qasata puchukanapaq?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Chaymanta"
+    },
+    {
+      "surface": "שאלנא",
+      "gloss": "tapurqayku"
+    },
+    {
+      "surface": "לשביא",
+      "gloss": "ñawpaq runakunata"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kaykunata"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "nirqayku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "מן",
+      "gloss": "pi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "churan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "kamachikuyta"
+    },
+    {
+      "surface": "ביתא",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "למבניה",
+      "gloss": "wasichanapaq"
+    },
+    {
+      "surface": "ואשרנא",
+      "gloss": "hinaspa qasata"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לשכללה",
+      "gloss": "puchukanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:12:05.352954479Z",
+  "model": "glm-5.3"
+}

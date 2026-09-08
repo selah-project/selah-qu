@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa minchapa chusanqa Aharonpa, churinkunapampi kanqa; qodesh qodeshkunam Yahwepa ishinkunamanta.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "chusanqa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchapa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "churinkunapampi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qodeshkunam"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ishinkunamanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:50:20.195939039Z",
+  "model": "glm-5.3"
+}

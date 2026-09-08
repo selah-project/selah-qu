@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Yishmael (Ismael) churinmi kimsa chunka kimsa watayoq karqan, ⟨את⟩ aychanta, qaranpa hawanpata orqosqaptin.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "orqosqaptin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aychanta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "qaranpa hawanpa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:55:38.180182092Z",
+  "model": "glm-5.3"
+}

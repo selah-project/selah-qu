@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 57,
+  "translation": "Ñuqa willasqayki allin kayniykita, hinaspa ⟨את⟩ rurasqaykikunata; chaykunaqa manam yanapawasunkichu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "willasqayki"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "allin kayniykita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "rurasqaykikunata"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "rurasqaykikunata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichataq mana"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "yanapawasunkichu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:41:05.146400744Z",
+  "model": "glm-5.3"
+}

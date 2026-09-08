@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 129,
+  "translation": "Manataq chay pasaqquna ninkuchu: 'Yahwepa bendicionninqa qamkunawanmi kachun; Yahwepa Sutinwanmi bendicinishunchik ⟨את⟩ qamkunata' nispa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ninkuchu"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "chay pasaqquna"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bendicionninta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "bendicinishunchik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Sutinwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:09.537467512Z",
+  "model": "glm-5.3"
+}

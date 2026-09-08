@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Wañusqa runata p'asa qurimanta aswan sasa tarichisaq, hinaspa runata Ophir (Ofir) manta pichasqa qurimanta aswan sasa tarichisaq.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "sasa tarichisaq"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "wañusqa runa"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "p'asa qurimanta aswan"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "hinaspa runata"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "pichasqa qurimanta"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophir (Ofir)"
+    }
+  ],
+  "timestamp": "2026-09-08T05:57:27.723471563Z",
+  "model": "glm-5.3"
+}

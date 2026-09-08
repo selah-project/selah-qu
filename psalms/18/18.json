@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Sinchi awqaykunamanta amarqachawarqanmi, iñaqnillaykunamantawan, imaraykuchus ñuqamanta aswan sinchi karqanku.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "amarqachawarqanmi"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "awqaykunamanta"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "iñaqnillaykunamantawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "aswan sinchi karqanku"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:33.738816347Z",
+  "model": "glm-5.3"
+}

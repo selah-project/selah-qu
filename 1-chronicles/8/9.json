@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaysi Chodesh warmiyninmanta wawakunatan payaqarqan: ⟨את⟩ Yovavta, hinaspa ⟨את⟩ Tsiviyata, hinaspa ⟨את⟩ Meshata, hinaspa ⟨את⟩ Malkamta.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "payaqarqan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Chodesh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "warmiyninmanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yovavta"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovavta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tsiviyata"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Tsiviyata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Meshata"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Meshata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Malkamta"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Malkamta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:07.833826903Z",
+  "model": "glm-5.3"
+}

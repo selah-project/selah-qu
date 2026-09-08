@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Illapata rimankum runa ⟨את⟩ masinwan; llamp'u wirpakuna, sunqowan sunquwan rimankum.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Illapata"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "rimankum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masinwan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "masin"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "wirpakuna"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "llamp'u"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sunqowan"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "sunquwan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "rimankum"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:41.695988865Z",
+  "model": "glm-5.3"
+}

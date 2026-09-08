@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Mitsrayimpa apun paykunaman nirqanmi: imarayku, Moshe, Ahronwan, ⟨את⟩ runakunata llank'ayninkunmanta paskachkankichik? Ñawpaqman qatikuy llasa llank'aykichikman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "hinaspa Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "paskachkankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "llank'ayninkunmanta"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "qatikuy"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "llasa llank'aykichikman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:24:10.593279392Z",
+  "model": "glm-5.3"
+}

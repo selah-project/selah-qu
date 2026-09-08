@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Ñuqapaqmi unu quchakunata ruwarqani, chaymanta sach'a-sach'ata unuyachinaypaq, mallkikunata wiñachiqta.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ruwarqani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "quchakunata"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "unuyachinaypaq"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sach'a-sach'a"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "wiñachiq"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "mallkikunata"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:30.982337476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yoash (Joás) Yoahazpa churin, Israelpa apun, iskay wata kamachisqanpi, Amatsyahu (Amasías) Yoashpa churin, Yehudapa apun, kamachiyta qallarirqanmi.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "wata kamachisqanpi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yoahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kamachiyta qallarirqan"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashpa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:36:42.020754463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Yahweman jesedninta yupaychachinkum, winya rurasqankunatataq runap wawankunaman.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "yupaychachinku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "winya rurasqankunatawan"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunaman"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:38.387810776Z",
+  "model": "glm-5.3"
+}

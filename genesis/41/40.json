@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 41:40",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Qammi wasiypi kamachaq tihanki; llapan runayki qamta much'inqa ⟨qampa simiykikama⟩; apu tiyanapillapitaq ñuqam qam-manta aswan hatunmi kanqa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "qammi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tihanki"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi kamachaq"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "wasiypi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "qampa simiykikama"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "much'inqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runayki"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sapallantaq"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "apu tiyanapillapi"
+    },
+    {
+      "surface": "אגדל",
+      "gloss": "aswan hatunmi kanqa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "qam-manta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:13:55.082766042Z",
+  "model": "glm-5.3"
+}

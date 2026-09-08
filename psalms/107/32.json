@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Payta hatunchanankum runakunap huñinakuyninpi, kuraqkunap tiyananpipas payta sumaqchananku.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Payta hatunchananku"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "huñinakuypipas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "tiyananpipas"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "kuraqkunap"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "payta sumaqchananku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:16.218770174Z",
+  "model": "glm-5.3"
+}

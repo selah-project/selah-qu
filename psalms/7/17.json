@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Kutimunmi paypa llakichikusqan paypa umanpi, hinaspa paypa awqalliynin paypa ch'ukarapi uraykamunqa.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "kutimunmi"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "paypa llakichikusqan"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "paypa umanpi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "paypa ch'ukarapi"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "paypa awqalliynin"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "uraykamunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:30:55.303950690Z",
+  "model": "glm-5.3"
+}

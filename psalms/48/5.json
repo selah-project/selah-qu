@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Imaraykuchus qhawaychik: apukuna huñunakurqankum, llapan hukllata purirqankum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawaychik"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "huñunakurqankum"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "purirqankum"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "llapan hukllata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:18.607438365Z",
+  "model": "glm-5.3"
+}

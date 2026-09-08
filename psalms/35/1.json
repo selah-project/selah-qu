@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Davidpa. Maqanakuway, Yahwe, ⟨את⟩ ñuqap maqanakuqniywan; awqanakuway ⟨את⟩ ñuqap awqanakuqniywan.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "maqanakuway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap maqanakuqniy"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "ñuqap maqanakuqniy"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "awqanakuway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap awqanakuqniy"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ñuqap awqanakuqniy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:54.756978744Z",
+  "model": "glm-5.3"
+}

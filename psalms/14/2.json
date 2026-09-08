@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yahwem hanaq pachamanta adam wawakunap patan qhawarqan, qhawanapaq imachus yachaq, ⟨את⟩ Elohimta maskaq kanman.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "hanaq pachamanta"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakunap"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qhawanapaq"
+    },
+    {
+      "surface": "היש",
+      "gloss": "imachus"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "maskaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:55.476111477Z",
+  "model": "glm-5.3"
+}

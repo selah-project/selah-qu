@@ -1,0 +1,72 @@
+{
+ "tier": "glm-5.2",
+ "verse": 41,
+ "ref": "exodus 39:41",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 39,
+ "translation": "⟨את⟩ servicipa p'achakunata muqunapaq, ⟨את⟩ qollqapa p'achakunata Aharon kohenman, hinaspa ⟨את⟩ wawankunap p'achakunata kohen kanapaq.",
+ "tokens": [
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "servicipa p'achakunata"
+  },
+  {
+   "surface": "בגדי",
+   "gloss": "p'achakuna"
+  },
+  {
+   "surface": "השרד",
+   "gloss": "servici"
+  },
+  {
+   "surface": "לשרת",
+   "gloss": "muqunapaq"
+  },
+  {
+   "surface": "בקדש",
+   "gloss": "qollqapi"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "qollqapa p'achakunata"
+  },
+  {
+   "surface": "בגדי",
+   "gloss": "p'achakuna"
+  },
+  {
+   "surface": "הקדש",
+   "gloss": "qollqapa"
+  },
+  {
+   "surface": "לאהרן",
+   "gloss": "Aharonman"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohen"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "wawankunap p'achakunata"
+  },
+  {
+   "surface": "בגדי",
+   "gloss": "p'achakuna"
+  },
+  {
+   "surface": "בניו",
+   "gloss": "wawankunap"
+  },
+  {
+   "surface": "לכהן",
+   "gloss": "kohen kanapaq"
+  }
+ ],
+ "timestamp": "2026-09-08T00:49:02.141132641Z",
+ "model": "glm-5.3"
+}

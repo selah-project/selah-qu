@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yahwepa kunkanmi sedrokunata p'akiwan; hinaspa Yahwem ⟨את⟩ Libanonpa sedrosnintam p'akirqan.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "kunka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "p'akiwan"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedrokunata"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "hinaspa p'akirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Libanonpa sedrosninta"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sedrosnin"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Libanonpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:35.037067335Z",
+  "model": "glm-5.3"
+}

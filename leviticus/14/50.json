@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa ⟨את⟩ huk pisquta kawsaq unu patapi ch'aklla (llinphu) ukhupi wañuchinmi.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "wañuchinmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huk pisquta"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "pisqu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ukhupi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ch'aklla"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "llinphu"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:57:54.126508590Z",
+  "model": "glm-5.3"
+}

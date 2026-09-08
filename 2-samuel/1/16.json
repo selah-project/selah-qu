@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi David payta nirqan: \"Yarqarunki umaykipi, imaraykuchus simiyki kikinpa testigo karqan, nispa: 'Ñuqam ⟨את⟩ Yahwep Mashiajta wañuchirqani.'\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "yarqarunki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ipi"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "umaykipi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "simiyki"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "testigo karqan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kikinpa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "wañuchirqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiajta"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiaj"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T04:31:39.340660954Z",
+  "model": "glm-5.3"
+}

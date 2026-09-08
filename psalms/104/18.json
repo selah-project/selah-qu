@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Hatun orqokunaqa yeelkunapaqmi; qaqakunaqa shafankunapaq wasinmi.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "orqokuna"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "yeelkunapaq"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "qaqakuna"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "shafankunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:01.283468046Z",
+  "model": "glm-5.3"
+}

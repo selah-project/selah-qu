@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Runap llapan llamk'ayninqa siminpaqllam; chaywanpas Nefeshqa mana hunt'akunchu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "siminpaq"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "chaywanpas"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "Nefeshqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "hunt'akunchu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:40.865590418Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kay herq'epaqmi mañakurqani, hinaspa Yahwem ⟨את⟩ mañakusqayta qurqanmi, imata paymanta mañakurqani.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "paq"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "herq'e"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "mañakurqani"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qurqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mañakusqayta"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "mañakusqayta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "mañakurqani"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "paymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:02:39.058096303Z",
+  "model": "glm-5.3"
+}

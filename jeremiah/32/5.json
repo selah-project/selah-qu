@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Babilonaman ⟨את⟩ Tsidkiyahuta apachinqa, chaypim kanqa ñuqap qawasqaykama, Yahwem willan: ⟨את⟩ Chaldea runakunawan awqanakuptiykichikqa, mana atipasqaykichikchu kanqa.",
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Babilonaman"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "apachinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "ñuqap qawasqay"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "willan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "awqanakuptiykichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chaldea runakuna"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Chaldea runakuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "atipasqaykichikchu kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:25:40.902233266Z",
+  "model": "glm-5.3"
+}

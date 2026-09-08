@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chawpinmanta ⟨את⟩ wak llaqtap diosninkunata hurqurqaku, hinaspa ⟨את⟩ Yahweta qatipayarqakum; Israelpa nanasqanwan nefesninqa ch'ikyarqanmi.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "hurqurqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wak llaqtap diosninkunata"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "diosnin"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "wak llaqtap"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "chawpinmanta"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "hinaspa qatipayarqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "ch'ikyarqan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefesnin"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "nanasqanwan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:48:44.379507807Z",
+  "model": "glm-5.3"
+}

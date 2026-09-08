@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Yahwep ñawpaqpi taytankunapa hacillankuna yuyasqa kanman; mamantan huchantapas ama ch'usaqchachunchu.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "yuyasqa kanman"
+    },
+    {
+      "surface": "עון",
+      "gloss": "hacillankuna"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "taytankunapa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "huchantapas"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mamanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "ch'usaqchachun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:13.054242315Z",
+  "model": "glm-5.3"
+}

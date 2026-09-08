@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Ninapunmi taytayman hinaspa mamayman: «Mana qhawasqaychu»; ⟨את⟩ wawqeykunata mana riqsisqaychu, ⟨את⟩ wawaykunata mana yachasqaychu; imaraykuchus paykunan simiykita waqaycharqanku, Beritniykitapas waqaychanqakumi.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "ninapun"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "taytayman"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "hinaspa mamayman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "qhawasqaychu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawqeykunata"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqeykunata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "riqsisqaychu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawaykunata"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wawaykunata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yachasqaychu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "waqaycharqanku"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "simiykita"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "hinaspa Beritniykitapas"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "waqaychanqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T02:59:56.073756686Z",
+  "model": "glm-5.3"
+}

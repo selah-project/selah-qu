@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 33:19",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Chakranta chikanta rantirqan ⟨את⟩, maypi carpanta mast'arqan, Hamorpa churiyunkunamanta — Shekempa taytan — pachak qesitahuanmi.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "rantirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakranpa chikanta (חלקת)"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "chikanta"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chakranpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "mast'arqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "carpanta"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makiqmanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiyunkunamanta"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamorpa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekempa"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "קשיטה",
+      "gloss": "qesitahuan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:07:29.155569755Z",
+  "model": "glm-5.3"
+}

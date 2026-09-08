@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Hanaq pachamanta Yahwem qhawarqan, ⟨את⟩ llapan runa wawakunata rikurqan.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "hanaq pachamanta"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan runa wawakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakunata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:20.164982291Z",
+  "model": "glm-5.3"
+}

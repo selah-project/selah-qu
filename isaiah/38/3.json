@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Nirqanmi: An, Yahwe, yuyariy ñawpaqta ⟨את⟩ imata ñuqam ñawiykikama chiqtatawan, hunt'a sunquwan purirqani, allinta ñawiypi rurirqani; Chizkiyahu ancha hatun waqywan waqyarqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "An"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yuyariy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata ñuqa ñawiykikama purirqani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "purirqani"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ñawiykikama"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "chiqtatawan"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "hunt'a sunquwan"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ñawiypi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "rurirqani"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "waqyarqanmi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "waqywan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ancha hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T06:18:12.054335449Z",
+  "model": "glm-5.3"
+}

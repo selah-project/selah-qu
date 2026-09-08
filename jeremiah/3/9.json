@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Karqanm zanunta huklla kasqanrayku ⟨את⟩ hallp'ata millayachirqan, hinaspa ⟨את⟩ rumiwan, ⟨את⟩ sach'awan huñakurqan.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "karqanm"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "huklla kasqanrayku"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "zanunta"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "millayachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "huñakurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rumita"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "rumita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sach'awan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sach'awan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:51:12.805651590Z",
+  "model": "glm-5.3"
+}

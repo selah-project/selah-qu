@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinallataqmi ⟨את⟩ Israelta saqiykunqa, Yaarovampa huchankunamanta: mayqen huchakusqanmanta, hinallataq mayqen ⟨את⟩ Israelta huchachisqanmanta.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "saqiykunqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "huchankuna"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaarovampa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "huchakusqan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "hinallataq mayqen"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "huchachisqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:15:07.144783208Z",
+  "model": "glm-5.3"
+}

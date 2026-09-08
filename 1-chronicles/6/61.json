@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "1-chronicles 6:61",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Naftali (Neftalí) mat'iymanta: ⟨את⟩ Kedesh Galilpi qachu pampankunawan, hinaspa ⟨את⟩ Hamon qachu pampankunawan, hinaspa ⟨את⟩ Kiryataim qachu pampankunawan.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mat'iymanta hinaspa"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedeshta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "Galilpi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qachu pampankunata"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "qachu pampankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hamonta"
+    },
+    {
+      "surface": "חמון",
+      "gloss": "Hamon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qachu pampankunata"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "qachu pampankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kiryataimta"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryataim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qachu pampankunata"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "qachu pampankuna"
+    }
+  ],
+  "timestamp": "2026-09-08T12:36:48.417110786Z",
+  "model": "glm-5.3"
+}

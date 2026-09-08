@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yahwem ⟨את⟩ Shmuelpa rinrinta paskarqanmi — huk p'unchaw ñawpaqnin Shaul chayamunanpaq — kayta nillapaq:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "paskarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shmuelpa rinrinta"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "rinri"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel (Samuel)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "chayamunan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul (Saúl)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nillapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T04:10:09.792287020Z",
+  "model": "glm-5.3"
+}

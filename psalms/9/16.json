@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Wak llaqtakunam kikin ruwasqan wayq'oman chinkarqanku; chay kikin pakasqan waytapi chakinkuna t'ipisqa karqan.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "chinkarqanku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "wak llaqtakuna"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "wayq'oman"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kikin ruwasqan"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "waytapi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "chay kikin"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "pakasqan"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "t'ipisqa karqan"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "chakinkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:17.513406737Z",
+  "model": "glm-5.3"
+}

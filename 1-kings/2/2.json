@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Ñuqam tukuy hallp'ap ñanninmanmi rini; qamtaq sinchikapuy, runaman tukukuy.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "rini"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanninman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "sinchikapuy qamtaq"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "tukukuy"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "runaman"
+    }
+  ],
+  "timestamp": "2026-09-08T05:00:06.512411827Z",
+  "model": "glm-5.3"
+}

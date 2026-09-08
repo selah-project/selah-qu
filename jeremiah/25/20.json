@@ -1,0 +1,108 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "jeremiah 25:20",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 25,
+ "translation": "Hinaspa ⟨את⟩ llapa chaqru runakunatawan, hinaspa ⟨את⟩ llapa apinkunatawan Utz hallp'ap, hinaspa ⟨את⟩ llapa apinkunatawan Plishtim hallp'ap, hinaspa ⟨את⟩ Ashqelonta, ⟨את⟩ Azzata, ⟨את⟩ Eqronta, hinaspa ⟨את⟩ Ashdodpa puchukasqankunatawan.",
+ "tokens": [
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "llapa chaqru runakunatawan"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "הערב",
+   "gloss": "chaqru runakuna"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "llapa apinkunatawan"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "מלכי",
+   "gloss": "apinkuna"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "hallp'ap"
+  },
+  {
+   "surface": "העוץ",
+   "gloss": "Utz"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "llapa apinkunatawan"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "מלכי",
+   "gloss": "apinkuna"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "hallp'ap"
+  },
+  {
+   "surface": "פלשתים",
+   "gloss": "Plishtim"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Ashqelonta"
+  },
+  {
+   "surface": "אשקלון",
+   "gloss": "Ashqelon"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Azzata"
+  },
+  {
+   "surface": "עזה",
+   "gloss": "Azza"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Eqronta"
+  },
+  {
+   "surface": "עקרון",
+   "gloss": "Eqron"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "puchukasqankunatawan"
+  },
+  {
+   "surface": "שארית",
+   "gloss": "puchukasqankuna"
+  },
+  {
+   "surface": "אשדוד",
+   "gloss": "Ashdodpa"
+  }
+ ],
+ "timestamp": "2026-09-08T07:15:03.157510074Z",
+ "model": "glm-5.3"
+}

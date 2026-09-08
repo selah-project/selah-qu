@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaymi Yehoshua (Josué), Nunpa churin, Yahwepa servinnin, pachak chunka watayuq kaspa wañurqan.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nunpa"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servinnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kaspa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "watayuq"
+    }
+  ],
+  "timestamp": "2026-09-08T03:32:32.489553439Z",
+  "model": "glm-5.3"
+}

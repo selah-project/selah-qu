@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "proverbs 9:1",
+ "book": "proverbs",
+ "lang": "qu",
+ "chapter": 9,
+ "translation": "Yachaym wasinta hatararqan, sayaqninkunataq qanchistam kuchurqan.",
+ "tokens": [
+  {
+   "surface": "חכמות",
+   "gloss": "Yachay"
+  },
+  {
+   "surface": "בנתה",
+   "gloss": "hatararqan"
+  },
+  {
+   "surface": "ביתה",
+   "gloss": "wasinta"
+  },
+  {
+   "surface": "חצבה",
+   "gloss": "kuchurqan"
+  },
+  {
+   "surface": "עמודיה",
+   "gloss": "sayaqninkunata"
+  },
+  {
+   "surface": "שבעה",
+   "gloss": "qanchista"
+  }
+ ],
+ "timestamp": "2026-09-08T10:39:33.837604440Z",
+ "model": "glm-5.3"
+}

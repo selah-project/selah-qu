@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa tikrarqan ⟨את⟩ kay llaqtakunata, hinaspa ⟨את⟩ llapa pampata, hinaspa ⟨את⟩ llapa kay llaqtakunap kawsaqninkunata, hallp'ap wiñaqninkunatawanmi.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "hinaspa tikrarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay llaqtakunata"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kay llaqtakunata"
+    },
+    {
+      "surface": "האל",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa pampata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "pampata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa kawsaqninkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kawsaqninkunata"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kay llaqtakunap"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "hallp'ap wiñaqninkunatawan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-07T23:57:44.827075263Z",
+  "model": "glm-5.3"
+}

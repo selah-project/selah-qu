@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Muchuyniyta qaway, hinaspa nanayta; llapan juchaykunata perdonaway.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "qaway"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "muchuyniyta"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "hinaspa nanayta"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "perdonaway"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "juchaykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:13.322334200Z",
+  "model": "glm-5.3"
+}

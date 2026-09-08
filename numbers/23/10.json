@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Pitan Yupashawa t'ustuta Yaakovpa (Jacobpa), hinaspa yupayninta ⟨את⟩ chusku Israelpa? Nefeshniy chiqan runakunap wañuyninwan wañuchun, hinaspa p'uchukayniy paykuna hinaman kanman.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pitan"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "Yupashawa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "t'ustuta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "hinaspa yupayninta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chusku (ruba hisq'usqa t'awqata)"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "chusku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "wañuchun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniy"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuyman"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "chiqan runakunap"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "hinaspa kanman"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "p'uchukayniy"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "paykuna hina"
+    }
+  ],
+  "timestamp": "2026-09-08T01:40:20.158240001Z",
+  "model": "glm-5.3"
+}

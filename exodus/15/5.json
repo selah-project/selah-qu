@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 15:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Ukhu yakukunam payta hunt'achirqanku; ukhuman rumi hinam siqarqanku.",
+  "tokens": [
+    {
+      "surface": "תהמת",
+      "gloss": "ukhu yakukuna"
+    },
+    {
+      "surface": "יכסימו",
+      "gloss": "hunt'achirqanku"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "siqarqanku"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "ukhuman"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "rumi hina"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "rumi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:44.480762240Z",
+  "model": "glm-5.3"
+}

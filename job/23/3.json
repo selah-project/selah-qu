@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "¡Pi quwankuman! Chayqa yachasaq, taripasaqta, paypa tiyananman chayasaq.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "quwankuman"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yachasaq"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "taripasaqta"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "chayasaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "man"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "paypa tiyananman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:13:04.389379345Z",
+  "model": "glm-5.3"
+}

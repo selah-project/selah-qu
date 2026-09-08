@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Askha michiqkuna ñuqap viñayta wañuchirqankum, ⟨את⟩ ñuqap rakita llamlarqankum, ⟨את⟩ ñuqap munasqay rakita ch'usaq chakraman churarqankum.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "michiqkuna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "wañuchirqankum"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ñuqap viñayta"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "llamlarqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap rakita"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "ñuqap rakita"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "churarqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap munasqay rakita"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "rakita"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "ñuqap munasqay"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ch'usaq chakraman"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ch'usaqchasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:01:07.138527924Z",
+  "model": "glm-5.3"
+}

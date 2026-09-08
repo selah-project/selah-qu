@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Karqanmi, apu Chizkiyahu (Ezequías) uyarptin, ⟨את⟩ p'achankunata chiqtirqan, hinaspa saqtawan wisq'akurqan, Yahwepa wasinman yaykurqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "uyarptin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "chiqtirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achankunata"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "p'achankunata"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "wisq'akurqan"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "saqtawan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yaykurqan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:44:47.542071859Z",
+  "model": "glm-5.3"
+}

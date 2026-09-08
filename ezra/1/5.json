@@ -1,0 +1,91 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "ezra 1:5",
+ "book": "ezra",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Sayarirqankum Yehudapawan Binyaminpa tayta-ayllunkunap umalliqninkuna, kohenkunapas, leviykunapas — llapanmi Elohim ⟨את⟩ sonqonta puqchirqa, hawanman rinankupaq, Yahwepa ⟨את⟩ wasinta kayachinankupaq, maypi Yerushalayim (Jerusalén).",
+ "tokens": [
+  {
+   "surface": "ויקומו",
+   "gloss": "sayarirqankum"
+  },
+  {
+   "surface": "ראשי",
+   "gloss": "umalliqninkuna"
+  },
+  {
+   "surface": "האבות",
+   "gloss": "tayta-ayllunkunap"
+  },
+  {
+   "surface": "ליהודה",
+   "gloss": "Yehudapawan"
+  },
+  {
+   "surface": "ובנימן",
+   "gloss": "Binyaminpa"
+  },
+  {
+   "surface": "והכהנים",
+   "gloss": "kohenkuna"
+  },
+  {
+   "surface": "והלוים",
+   "gloss": "leviykuna"
+  },
+  {
+   "surface": "לכל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "העיר",
+   "gloss": "puqchirqa"
+  },
+  {
+   "surface": "האלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "sonqonta"
+  },
+  {
+   "surface": "רוחו",
+   "gloss": "sonqonta"
+  },
+  {
+   "surface": "לעלות",
+   "gloss": "hawanman rinankupaq"
+  },
+  {
+   "surface": "לבנות",
+   "gloss": "kayachinankupaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "wasinta"
+  },
+  {
+   "surface": "בית",
+   "gloss": "wasin"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "maypi"
+  },
+  {
+   "surface": "בירושלם",
+   "gloss": "Yerushalayimpi"
+  }
+ ],
+ "timestamp": "2026-09-08T12:07:54.368111111Z",
+ "model": "glm-5.3"
+}

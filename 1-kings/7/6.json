@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa ⟨את⟩ punki-suyu wasita ruwarqan: pichqa chunka ama sunyu karqan, kimsa chunka ama hatun karqan; hinaspa huk punki-suyu wasi ñawpaqninpi karqan, hinaspa suyukunapas, sankakunapas ñawpaqninpi karqan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "punki-suyu wasita"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "punki-suyu wasita"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "suyukunap"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pichqa chunka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sunyu karqan"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "hatun karqan"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "hinaspa punki-suyu wasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "hinaspa suyukunapas"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "sankakunapas"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:02:58.699811336Z",
+  "model": "glm-5.3"
+}

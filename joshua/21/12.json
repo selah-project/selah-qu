@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Llaqtap chakranta llaqtachakunatawanmi Kalebman qoyanku, Yefunep wawinman, kapuynin hina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llaqtap chakranta"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "chakranta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llaqtachakunatawan"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "llaqtachakunatawan"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "qoyanku"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wawinman"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunep"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "kapuynin hina"
+    }
+  ],
+  "timestamp": "2026-09-08T03:27:45.271517360Z",
+  "model": "glm-5.3"
+}

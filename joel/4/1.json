@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Imarayku, qhawariy: chay p'unchawkunapim, chay pachapipunim — maypim ⟨את⟩ Yehudapa hinaspa Yerushalayimpa witinta kutichini — chay p'unchawpa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "chay p'unchawkunapi"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "chaykuna"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "hinaspa chay pachapi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "kutichini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudapa hinaspa Yerushalayimpa witinta"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "witinta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "hinaspa Yerushalayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:55:51.828110527Z",
+  "model": "glm-5.3"
+}

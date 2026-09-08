@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Paykunaqa allinta saqrakuqkunam, millayta munakuqkunam; paykunap qaranta kurumanta suwaspa hurquqkuna, aychantawan paykunap tullunkunamanta hurquqkuna.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "saqrakuqkuna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "millayta munakuqkuna (hinallataq)"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "millayta"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "suwaspa hurquqkuna"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "paykunap qaranta"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kurumanta"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "aychantawan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ukhumanta"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "paykunap tullunkunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:05:24.718817497Z",
+  "model": "glm-5.3"
+}

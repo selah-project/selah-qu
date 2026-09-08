@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hash'a runakuna tikrakuspa mana ⟨kankuchu⟩; hinaspa chiqan runakunap wasinmi sayallan.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "tikrakuspa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "hash'a runakuna"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "mana kankuchu"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "hinaspa wasi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "chiqaq runakunap"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sayallan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:41:42.378654922Z",
+  "model": "glm-5.3"
+}

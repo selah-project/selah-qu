@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "Sasa pachapi qayarqanki, ñuqam qamta qispichirqanim; truenopa pakasqanpi qamta kutichinim; Merivah unankunapi qamta wallpanim. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "sasa pachapi"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "qayarqanki"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "qispichirqanim"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "kutichinim"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "pakasqanpi"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "trueno"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "wallpanim"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "unankuna"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Merivah"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:52.715049552Z",
+  "model": "glm-5.3"
+}

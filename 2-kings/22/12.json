@@ -1,0 +1,102 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "2-kings 22:12",
+ "book": "2-kings",
+ "lang": "qu",
+ "chapter": 22,
+ "translation": "Hinaspa apum kamachirqan ⟨את⟩ Hilkiya kohenta, hinaspa ⟨את⟩ Ajiqamta, Shafanpa churinta, hinaspa ⟨את⟩ Akborta, Mikhia churinta, hinaspa ⟨את⟩ Shafan qillqaqta, hinaspa ⟨את⟩ Asayata, apu yanapaqninta, nispa:",
+ "tokens": [
+  {
+   "surface": "ויצו",
+   "gloss": "kamachirqan"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "apum"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Hilkiyata"
+  },
+  {
+   "surface": "חלקיה",
+   "gloss": "Hilkiya"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohen"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Ajiqamta"
+  },
+  {
+   "surface": "אחיקם",
+   "gloss": "Ajiqam"
+  },
+  {
+   "surface": "בן",
+   "gloss": "churi"
+  },
+  {
+   "surface": "שפן",
+   "gloss": "Shafan"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Akborta"
+  },
+  {
+   "surface": "עכבור",
+   "gloss": "Akbor"
+  },
+  {
+   "surface": "בן",
+   "gloss": "churi"
+  },
+  {
+   "surface": "מיכיה",
+   "gloss": "Mikhia"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Shafanta"
+  },
+  {
+   "surface": "שפן",
+   "gloss": "Shafan"
+  },
+  {
+   "surface": "הספר",
+   "gloss": "qillqaq"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Asayata"
+  },
+  {
+   "surface": "עשיה",
+   "gloss": "Asaya"
+  },
+  {
+   "surface": "עבד",
+   "gloss": "yanapaqnin"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "apu"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "nispa"
+  }
+ ],
+ "timestamp": "2026-09-08T05:44:44.616426642Z",
+ "model": "glm-5.3"
+}

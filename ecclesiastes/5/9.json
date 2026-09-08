@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Qullqita munan runaqa mana qullqiwan hunt'akunchu; hinaspa achka qapaqkayta munan runaqa mana ⟨imapas⟩ chayamunchu; kaytawanmi hevel ⟨ch'usaq kaymi⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "munan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "hunt'akunchu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqiwan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "munan"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "achka qapaqkayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "chayamunchu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kaytawan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:57.667123887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Kanaanqa paypa makinpi llulla tullpukunam kachkan; qatipayta munanmi.",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "paypa makinpi"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "tullpukuna"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "qatipayta"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "munan"
+    }
+  ],
+  "timestamp": "2026-09-08T08:49:27.475730719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Payqa churikunata wacharqanmi ⟨את⟩ Yeus, hinaspa ⟨את⟩ Shemaryata, hinaspa ⟨את⟩ Zahamta.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "wacharqanmi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churikunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeus"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shemaryata"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Shemaryata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Zahamta"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zahamta"
+    }
+  ],
+  "timestamp": "2026-09-08T13:00:36.657088337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 13:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Karqanmi, holocaustota hunt'a alzasqan p'unchaw, qhaway: Shemuel (Samuel) hamurqanmi; Shaultaq lluqsirqanmi payta tupanapaq, payta bendinapaq.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "hunt'a alzasqan"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "alzanapaq"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "holocaustota"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsirqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "payta tupanapaq"
+    },
+    {
+      "surface": "לברכו",
+      "gloss": "payta bendinapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T04:10:27.552645252Z",
+  "model": "glm-5.3"
+}

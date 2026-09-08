@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Ñata wiksayuq karqan hinaspa churiyta wacharqan; paym ⟨את⟩ sutinta Onan nispa sutichirqan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "wiksayuq karqan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ñata"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churiyta"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "sutichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "paypa sutin"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:10:41.256103230Z",
+  "model": "glm-5.3"
+}

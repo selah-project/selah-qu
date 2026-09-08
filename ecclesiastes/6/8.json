@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Imataq yachaqman ratamanta aswan kachkan? Imataq kawsaqkunap ñawpaqen puriyta yachaq wakchaman?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "yachaqman"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "rata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "wakchaman"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "puriyta"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kawsaqkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:40.865707918Z",
+  "model": "glm-5.3"
+}

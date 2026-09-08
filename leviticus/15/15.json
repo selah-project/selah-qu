@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Kohentam ⟨את⟩ paykunata ruwanqam, hukta jata ofrendaman, huktaqta olá ofrendaman; kohentam paypaq Yahwep ñawpinpi pampachakuyta ruwanqam, zovn rayku.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "ruwanqam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohentam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukta"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "jata ofrendaman"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "huktaqta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olá ofrendaman"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "pampachakuyta ruwanqam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohentam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "zovn rayku"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:33.592366367Z",
+  "model": "glm-5.3"
+}

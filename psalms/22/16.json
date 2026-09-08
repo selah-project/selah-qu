@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Ñuqap kallpachay mank'a p'akihina ch'akirqam, hinaspa qallulluy nanayman wisparqam; hinaspa wañuypa phuspanman churirqanki.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "ch'akirqam"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "mank'a p'akihina"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kallpachay"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "hinaspa qallulluy"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "wisparqam"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "nanayman"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "hinaspa phuspanman"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuypa"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "churirqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:47.637168469Z",
+  "model": "glm-5.3"
+}

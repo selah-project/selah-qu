@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chayraykumi yachayniyki hina ruray, ama saqiychu paypa kuraq umninta pachapachapi Sheolman urmananpaq.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ruray"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "yachayniyki hina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "urmananpaq"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "kuraq umnin"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "pachapachapi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Sheolman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:58:58.068027046Z",
+  "model": "glm-5.3"
+}

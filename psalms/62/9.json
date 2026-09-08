@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Paypi bit'chuy sapa pachapi, runakuna; paypa ñawpaqen sunquykichikta shpichuy: Elohimmi ñuqanchikpaq p'ampallcha. Selah.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "bit'chuy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "shpichuy"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "paypa ñawpaqen"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sunquykichikta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "p'ampallcha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikpaq"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:12.880945108Z",
+  "model": "glm-5.3"
+}

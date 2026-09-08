@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 137,
+  "translation": "Chayraykumi chaypi ñuqaykuta apaqkuna takispa simikunata mañawarqanku, ch'aqaykuqkunataq kusikuyta mañawarqanku: «Takiywaychik Tsiyonmanta huk takita».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "mañawarqanku"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "ñuqaykuta apaqkuna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "simikuna"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "ch'aqaykuqkuna"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kusikuy"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "takiywaychik"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-waychik"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "Tsiyonmanta taki"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:02.677545284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa ⟨את⟩ Patrusikunatawan, ⟨את⟩ Kaslujkunatawan — chaykunamanta Pelishtakuna (Filisteos) lluqsirqanku — hinaspa ⟨את⟩ Kaftorikunatawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Patrusikunatawan"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusikunatawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kaslujkunatawan"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kaslujkunatawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaykunamanta"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lluqsirqanku"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtakuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kaftorikunatawan"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorikunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T12:29:04.827036823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Chaym ruwarqan ⟨את⟩ mizbeajpa llapan llamk'anankunata: ⟨את⟩ mankakunata, hinaspa ⟨את⟩ p'allanakunata, hinaspa ⟨את⟩ taqllakunata, ⟨את⟩ sik'ikunatawan, hinaspa ⟨את⟩ ninaq'ontikunatawan; llapan llamk'anankunata chukimanta ruwarqan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan llamk'anankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "llamk'anankuna"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeajpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mankakunata"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "mankakuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "p'allanakunata"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "p'allanakuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "taqllakunata"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "taqllakuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sik'ikunata"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "sik'ikuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ninaq'ontikunata"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "ninaq'ontikuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "llamk'anankunata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "chukimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:06.000795680Z",
+  "model": "glm-5.3"
+}

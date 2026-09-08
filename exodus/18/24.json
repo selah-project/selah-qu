@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Mosheqa qaytenpa kunkanta uyarirqanm, hinaspa nisqantinta llapantinta ruwarqan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqanm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kunkanta"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "qaytenpa"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapantinta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nisqanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:46.998965318Z",
+  "model": "glm-5.3"
+}

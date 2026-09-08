@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 21,
+ "ref": "isaiah 30:21",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 30,
+ "translation": "Rinriykimm uyarinqaku rimata qhipaykimanta, kayta nispa: kaymi ñan, chaypi puriychik — pañaman k'atiriptiyki, lluq'iman k'atiriptiykipas.",
+ "tokens": [
+  {
+   "surface": "ואזניך",
+   "gloss": "rinriykimm"
+  },
+  {
+   "surface": "תשמענה",
+   "gloss": "uyarinqaku"
+  },
+  {
+   "surface": "דבר",
+   "gloss": "rimata"
+  },
+  {
+   "surface": "מאחריך",
+   "gloss": "qhipaykimanta"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "kayta nispa"
+  },
+  {
+   "surface": "זה",
+   "gloss": "kay"
+  },
+  {
+   "surface": "הדרך",
+   "gloss": "ñan"
+  },
+  {
+   "surface": "לכו",
+   "gloss": "puriychik"
+  },
+  {
+   "surface": "בו",
+   "gloss": "chaypi"
+  },
+  {
+   "surface": "כי",
+   "gloss": "k'atiriptiyki"
+  },
+  {
+   "surface": "תאמינו",
+   "gloss": "pañaman k'atiriy"
+  },
+  {
+   "surface": "וכי",
+   "gloss": "lluq'iman k'atiriptiykipas"
+  },
+  {
+   "surface": "תשמאילו",
+   "gloss": "lluq'iman k'atiriy"
+  }
+ ],
+ "timestamp": "2026-09-08T13:47:41.879098315Z",
+ "model": "glm-5.3"
+}

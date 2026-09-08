@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaysi ñuqam nirqani ñuqawan rimaq ángelta: «Maymanmi kaykunata ⟨את⟩ eifata apamunku?»",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "payman"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ángelta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rimaq"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "mayman"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "apamunku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eifata"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eifata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:17:11.497087314Z",
+  "model": "glm-5.3"
+}

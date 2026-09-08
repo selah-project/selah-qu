@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Llapan qhichwaqa hananchasqa kanqam, hinaspa llapan orqo hinaspa huch'uy orqoqa uraychasqa kanqam; ch'iki kaqqa pampa chiqan t'ikrasqa kanqam, hinaspa sallqa ch'ikikunaqa pampa t'ikrasqa kanqam.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "qhichwa"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "hananchasqa kanqa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "hinaspa huch'uy orqo"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "uraychasqa kanqa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "t'ikrasqa kanqa"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "ch'iki kaq"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "pampa chiqan"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "hinaspa sallqa ch'ikikuna"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "pampa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:24:58.519283399Z",
+  "model": "glm-5.3"
+}

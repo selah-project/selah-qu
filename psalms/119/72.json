@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Simiykipa Toranqa aswan chaninniyuqmi ñuqapaqa, waranqa quri qullqimantapas.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "aswan chaninniyuqmi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaqa"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "Simiykipa"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "qullqimantapas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:24:04.140343423Z",
+  "model": "glm-5.3"
+}

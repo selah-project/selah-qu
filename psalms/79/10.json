@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 79,
+  "translation": "¿Imarayku wak llaqtakuna ninanku: «Maypi kachkan paykunap diosninku?» Ñawiykuwan riqsichiy wak llaqtakunapi qsipiykukunap thuichisqa yawarpa mallichiyninta.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ninanku"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "wak llaqtakuna"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Maypi kachkan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "paykunap diosninku"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "riqsichiy"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "wak llaqtakunapi"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "Ñawiykuwan"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "mallichiyninta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "yawarpa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qsipiykukunap"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "thuichisqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:08.154689092Z",
+  "model": "glm-5.3"
+}

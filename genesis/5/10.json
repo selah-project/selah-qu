@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa Enosh ⟨את⟩ Kenanta paqarichisqan qhipa pichqa chunka pichqayuq wata, pusaq pachak watawan kawsarqanmi, hinaspa churiykunata, ñust'a kunatawan paqarichirqan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqanmi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipa"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "paqarichisqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenanta"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenanta"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka pichqayuq"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "pusaq"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "watawan"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churiykunata"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ñust'a kunatawan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:52.227433374Z",
+  "model": "glm-5.3"
+}

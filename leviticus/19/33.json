@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Huk wak suyumanta runa ⟨את⟩ qamwan hallp'aykichikpi tiyakuptinqa, ama ⟨את⟩ payta haqiykachaychikchu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "hinaspataq"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "tiyakuptinqa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan",
+      "marks": "huk wak suyumanta runa"
+    },
+    {
+      "surface": "גר",
+      "gloss": "wak suyumanta runa"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "hallp'aykichikpi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "haqiykachaychikchu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "wak suyumanta runata"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:20.176203860Z",
+  "model": "glm-5.3"
+}

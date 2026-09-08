@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Yuyarirqankum: Elohimqa rumillankumi, El Elyon (hanan ñiqin El) qispichiqninkum kasqantam.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "yuyarirqankum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "rumillankumi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon (hanan ñiqin El)"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "qispichiqninkum"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:51.752362050Z",
+  "model": "glm-5.3"
+}

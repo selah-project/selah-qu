@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Elohimqa ñuqanchikpa chayananchikmi, kallpanchikpas; sasa pachakunapi aswan yanapakuymi tarikun.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikpa"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "chayananchik"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "kallpanchikpas"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "yanapakuy"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "sasa pachakunapi"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tarikun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aswan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:22.066202700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Beritman qhaway (pactopa): imarayku hallp'a q'umaq pachakunaqa ch'aqwasqa kanchakunawanmi hunt'asqa kachkan.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "Beritman (pactopa)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "hunt'asqa kachkan"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "q'umaq pachakuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "kanchakuna"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ch'aqwasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:45.574929707Z",
+  "model": "glm-5.3"
+}

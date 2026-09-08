@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yachaypa sayanmi, qullqipa sayanmi; yachaymanta riqsiyninpa aswan chaninninmi: kawsachin chikniyuqninta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "(imarayku)"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "sayan"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "yachaypa"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "saya"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qullqipa"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "aswan chaninninmi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "riqsiynin"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "yachaymanta"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "kawsachin"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "chikniyuqninta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:44.228474242Z",
+  "model": "glm-5.3"
+}

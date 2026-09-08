@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 85,
+  "translation": "Llapunim Yahwe allinta qunqa, hinaspataq hallp'anchikpa paypa yebulta (produce agrícola) qunqam.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "llapuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qunqa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "hinaspataq hallp'anchikpa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qunqa"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "paypa yebulta (produce agrícola)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:27.201889578Z",
+  "model": "glm-5.3"
+}

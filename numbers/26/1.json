@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Yahwem rimarqan Moshe (Moisés) ⟨man⟩ hinaspa Elazar ⟨man⟩, Aharonpa churin kohenta, ninpa:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa man"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ninpa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:11:02.069577759Z",
+  "model": "glm-5.3"
+}

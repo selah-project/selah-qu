@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Chayraykumi paypa runankuna kayman kutinku, hunt'a yakukunata paykunaman sik'inchinku.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "kutinku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runankuna"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "kayman"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "yakukunata"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "sik'inchinku"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:38.494952321Z",
+  "model": "glm-5.3"
+}

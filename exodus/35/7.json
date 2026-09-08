@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Hinaspa puka ruwasqa unturkunap qaranta, tehashkunap qarantawan, shita sach'akunatawan.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "qaran"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "unturkunap"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "puka ruwasqa"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "qaran"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tehashkunap"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "sach'akuna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shita"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:59.264743934Z",
+  "model": "glm-5.3"
+}

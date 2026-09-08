@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 128,
+  "translation": "Qampa warmiykiqa ruruyuq wituñam, wasiykip kinrayninpin; wawaykitaq oliwa mallkikuna hina, mikhuypatakip muyuriptin.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "qampa warmiyki"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "wituña hina"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ruruyuq"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "kinrayninpin"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wasiykip"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wawaykitaq"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "oliwa mallkikuna hina"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "oliwa mallkikuna"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriptin"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "mikhuypatakip"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:23.974862697Z",
+  "model": "glm-5.3"
+}

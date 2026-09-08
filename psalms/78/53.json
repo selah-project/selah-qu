@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Llamk'allata ñawpaqcharqanmi, manataq mancharqankuchu; hinaspa ⟨את⟩ awqankunata mama qucha p'istuykurqan.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "ñawpaqcharqanmi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "llamk'allata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "mancharqankuchu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "awqankunata"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "awqankunata"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "p'istuykurqan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama qucha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:52.414423555Z",
+  "model": "glm-5.3"
+}

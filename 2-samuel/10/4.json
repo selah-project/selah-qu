@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chayrayku Hanunmi ⟨את⟩ Davidpa yanapanninkunata hap'irqan; ⟨את⟩ sunkhankunap huk ch'eqanta qhurparqantaq, ⟨את⟩ p'achankunata chawpinpi sat'inkama kuchuspa kacharqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanunmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidpa yanapanninkunata"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapannin"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "qhurparqantaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunkhankunap huk ch'eqanta"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "huk ch'eqan"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "sunkhankunap"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kuchurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achankunata"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "p'achankunata"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "sat'in"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "kacharqan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:42:11.260466970Z",
+  "model": "glm-5.3"
+}

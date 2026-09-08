@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 23:34",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Paro Nekohm ⟨את⟩ Eljakimta, Yoshiyahu churita, Yoshiyahu taytanpa rantin, kamachirqan; hinaspa ⟨את⟩ sutinta Yehoyaqim nisqa tikrarqan; hinaspa ⟨את⟩ Yehoajazta apaspa Mitsrayimman aparqan; chaypi wañurqan.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakimta"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakimta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu (Josías)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rantin"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanpa"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "tikrarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyaqim (Joaquim)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yehoajazta"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoajazta (Joaacaz)"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "apaspa aparqan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimman (Egipto)"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:48:18.908002099Z",
+  "model": "glm-5.3"
+}

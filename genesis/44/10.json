@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Nirqanmi: kunan ñataq simiykikunahina chaynollam ⟨kan⟩; pichus ⟨את⟩ chaywan tarikun, ñuqapaq yanapanakunaman tukunqa; qamkunañataq mana umalla kankichik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ñataq"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "simiykikunahina"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynollam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pichus"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tarikun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chaywan",
+      "marks": "pichus tarikun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tukunqa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanapanakunaman"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "qamkunañataq"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kankichik"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "mana umalla"
+    }
+  ],
+  "timestamp": "2026-09-08T02:02:40.421565618Z",
+  "model": "glm-5.3"
+}

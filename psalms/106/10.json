@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Ñak'arikuqmanta makinmanta qispichirqankumi, hinaspa awqan makinmanta qatirqanku.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "qispichirqanku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ñak'arikuq"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "qatirqanku"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:35.265717932Z",
+  "model": "glm-5.3"
+}

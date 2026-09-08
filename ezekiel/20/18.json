@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 20:18",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Ch'usaq pachapichá churinkunaman nirqanim: taytaykichikpa kamachikuyninkunapi ama puriykichichu, hinaspa ⟨את⟩ taripakuy nisqankuta ama waqaypaykichichu, hinaspa rurasqa diosninkunawan ama millayachikunkichichu.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nirqanim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "churinkunaman"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pachapi"
+    },
+    {
+      "surface": "בחוקי",
+      "gloss": "kamachikuyninkunapi"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "taytaykichikpa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "puriykichichu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "taripakuy nisqankuta"
+    },
+    {
+      "surface": "משפטיהם",
+      "gloss": "taripakuy nisqankuta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "waqaypaykichichu"
+    },
+    {
+      "surface": "ובגלוליהם",
+      "gloss": "rurasqa diosninkunawan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "millayachikunkichichu"
+    }
+  ],
+  "timestamp": "2026-09-08T08:11:06.460149768Z",
+  "model": "glm-5.3"
+}

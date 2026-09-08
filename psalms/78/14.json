@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "psalms 78:14",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 78,
+ "translation": "P'unchawpi phuyuwan pusarqanmi, llapan tutatawantaq ninap k'anchayninwan.",
+ "tokens": [
+  {
+   "surface": "וינחם",
+   "gloss": "pusarqanmi"
+  },
+  {
+   "surface": "בענן",
+   "gloss": "phuyuwan"
+  },
+  {
+   "surface": "יומם",
+   "gloss": "p'unchawpi"
+  },
+  {
+   "surface": "וכל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "הלילה",
+   "gloss": "tutata"
+  },
+  {
+   "surface": "באור",
+   "gloss": "k'anchayninwan"
+  },
+  {
+   "surface": "אש",
+   "gloss": "nina"
+  }
+ ],
+ "timestamp": "2026-09-08T10:02:55.306807589Z",
+ "model": "glm-5.3"
+}

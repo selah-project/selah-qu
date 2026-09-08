@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 79,
+  "translation": "Mizmor Asafpaq. Elohim, wak runakuna chaskinasqaykipi hamurqankum, ⟨את⟩ santon templonta millayachirqankum, ⟨את⟩ Yerushalayimta (Jerusalén) rumi q'intikunaman churarqankum.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafpaq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hamurqankum"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "wak runakuna"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "chaskinasqaykipi"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "millayachirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santon templonta"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "templon"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "santon"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "churarqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimta (Jerusalén)"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "rumi q'intikunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:45.066310415Z",
+  "model": "glm-5.3"
+}

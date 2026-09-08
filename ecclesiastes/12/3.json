@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "chay p'unchawpi wasip waqaychaqninkuna llat'ankum, sinchi runakunapas ankuykunku, t'ustuqkunaqam sayanku imaraykuchus pisiykusqa, hinaspa qhawana t'uqikunapi qhawaqkunapas tutaykapunkum.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "llat'ankum"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "waqaychaqninkuna"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasip"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "hinaspa ankuykunku"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "sayanku"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "t'ustuqkuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "pisiykusqa"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "hinaspa tutaykapunku"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "qhawaqkuna"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "qhawana t'uqikunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:45:42.252066181Z",
+  "model": "glm-5.3"
+}

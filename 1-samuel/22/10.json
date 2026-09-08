@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Paypaq Yahwepi tapukurqan, hinaspa mikhunata qoykurqan; hinaspa ⟨את⟩ Filisteo Golyatpa churintawan payman qoykurqan.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "tapukurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "mikhunata"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoykurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Filisteo Golyatpa churinta"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyatpa"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filisteo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoykurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:22:24.855194735Z",
+  "model": "glm-5.3"
+}

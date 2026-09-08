@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa kinnorwan, nevelwan, tofwan, jalilwan, aqhawanpas maskuypim kachkan; hinaspa ⟨את⟩ Yahwepa llamk'ayninta manam qhawankuchu, makinp rurasqantapas manam rikurqankuchu.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinnorwan"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "nevelwan"
+    },
+    {
+      "surface": "תף",
+      "gloss": "tofwan"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "jalilwan"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "aqhawanpas"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "maskuypi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yahwepa llamk'ayninta"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "qhawankuchu"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "hinaspa rurasqanta"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "makinp"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "rikurqankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:53:33.269622383Z",
+  "model": "glm-5.3"
+}

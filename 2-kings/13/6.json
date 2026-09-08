@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Manataq Yaravam (Jeroboam) wasi huchaykunamanta t'iqrarqankuchu, mayqin ⟨את⟩ Israelta huchyachiptin; chaypipas purirqanku, aswanpas Ashera Shomronpi sayarqan.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "t'iqrarqankuchu"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "huchaykunamanta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "huchyachiptin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypipas"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "aswanpas"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "sayarqan"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomronpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:36:57.579599220Z",
+  "model": "glm-5.3"
+}

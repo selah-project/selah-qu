@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Ñuqata qunqachinaypaq haq'akuna suyakuspa karqankum; icha adutiykikunatawan yachanisaqmi.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "suyakuspa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haq'akuna"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "qunqachinaypaq"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "adutiykikunatawan"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "yachanisaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:39.285415241Z",
+  "model": "glm-5.3"
+}

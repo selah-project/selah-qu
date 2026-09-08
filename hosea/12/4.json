@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Wiksaypim ⟨את⟩ wawqinta chakinta hap'irqan, kallpanpipas ⟨את⟩ Elohimta atiparqan.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "wiksaypi"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "chakinta hap'irqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawqinta"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqinta"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "kallpanpipas"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "atiparqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:26.714362019Z",
+  "model": "glm-5.3"
+}

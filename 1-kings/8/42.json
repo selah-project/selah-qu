@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "imarayku Sutiyki hatun ⟨kan⟩mi, makiyki sinchi ⟨kan⟩mi, makikarayki mast'arisqa ⟨kan⟩mi — chayta ⟨את⟩ Sutiykita, ⟨את⟩ makiykita uyarinku; chaysi hamuspa kay wasiman mañakun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "uyarinku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sutiykita"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiykita"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "makiykita"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykita"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "hinaspa makikarayki"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "mast'arisqa"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "hamuspa"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "mañakun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T05:08:12.136530883Z",
+  "model": "glm-5.3"
+}

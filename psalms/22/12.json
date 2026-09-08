@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Ama ñuqamanta karaykachawaychu; imaraykuchus ñak'ariyqa qayllapinmi; imaraykuchus yanapaqqa mana pi kanchu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "karaykachawaychu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ñak'ariy"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "qayllapinmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana pi kanchu"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "yanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:35.471766108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Ñuqanchikta wamanman chayachimurqanki; champinchikpi llakita churamurqanki.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "chayachimurqanki"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "wamanman"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "churamurqanki"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "llakita"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "champinchikpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:20.022030354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Payman nirqan: «Yachankichikchachu ⟨את⟩ Lavan (Labán)ta, Najor (Nacor)pa churinta?» Paykunaqa nirqanku: «Yachaykumi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "payman"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "yachankichikchachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Najor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "yachaykumi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:12.807626720Z",
+  "model": "glm-5.3"
+}

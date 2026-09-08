@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Manam Yahwepi hallp'api tiyankuchu; Efraim Mitsrayimman kutinqam, Ashurpipas mana ch'uya mikuykunatam mikunqaku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tiyankuchu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kutinqam"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimman"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "Ashurpipas"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mana ch'uya"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikuykunatam mikunqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:11.061876457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Cuchillata kunkaykipi churay, sichus nefesh-niyuq ⟨kan⟩ kanki.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "churay"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "cuchillata"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "kunkaykipi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "niyuq"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "kanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:50:30.078401158Z",
+  "model": "glm-5.3"
+}

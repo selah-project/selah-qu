@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Yahwe, ama ñuqata hunch'ulichuwankichu, imaraykuchus qamta qayarqanimi; mana allin runakuna hunch'ukuchun, Sheolpi ch'inlla kaspa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "hunch'ulichuwanki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "qamta qayarqanimi"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "hunch'ukuchun"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakuna"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ch'inlla kaspa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheolpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:39.813799085Z",
+  "model": "glm-5.3"
+}

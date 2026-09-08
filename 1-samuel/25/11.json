@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "¿Chaytaq ñuqap t'antayta, ñuqap unuyta, ñuqap wañuchisqa aychayta — millwa rutuqkunaypaqmi wañuchirqani — mana riqsisqa, maymanta hamusqankupas mana yachasqa runakunaman apaqtinmanchu?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "apaqtinmanchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap t'antayta"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "t'antayta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ñuqap unuyta"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "unuyta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ñuqap aychayta"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "aychayta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "wañuchirqani"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "rutuqkunaypaq"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "qusaqtinmanchu"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yachasqa"
+    },
+    {
+      "surface": "אי",
+      "gloss": "maymanta"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hamusqankupas"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T04:24:51.078367703Z",
+  "model": "glm-5.3"
+}

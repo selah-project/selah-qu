@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Qam riqsiwankimi tiyakuymi, sayariymi; yuyayniyman karumanta entindewankim.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qam"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "riqsiwanki"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "tiyakuymi"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "sayariymi"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "entindewanki"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "yuyayniyman"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "karumanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:54.723513866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Rimankillataqmi ⟨את⟩ ñuqap rimayniykuta paykunaman, sichus uyaranpaku utaq sichus hark'aranpaku — imaraykuchus hark'akuqkunami paykuna.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "Rimankillataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap rimayniykuta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñuqap rimayniykuta"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "uyaranpaku"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "utaq sichus"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "hark'aranpaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "hark'akuqkuna"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T07:54:54.227165243Z",
+  "model": "glm-5.3"
+}

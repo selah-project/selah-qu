@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Phiñarikurqankum Israelpa churinkunap llapan ayllun Mosheawan (Moisés) contrawan, Aharonawan (Aarón) contrawan, chusaqpi.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "phiñarikurqankum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ayllun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "contrawan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheawan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa contrawan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonawan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "chusaqpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:41.762659918Z",
+  "model": "glm-5.3"
+}

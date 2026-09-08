@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chaymanta ⟨את⟩ paywan kutirirqanmi, paypa wasinpi t'anta mikurqan, yakuta upyarqan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutirirqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "mikurqan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "paypa wasinpi"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "upyarqan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yakuta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:12:31.653693216Z",
+  "model": "glm-5.3"
+}

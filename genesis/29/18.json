@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 29:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yaakovmi ⟨את⟩ Rajelta khuyarqan, hinaspa nirqan: «Rajelpaq — qampa huch'uy wawaykipaq — qanchis wata qampaq yanqasaq».",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "khuyarqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rajelta"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajelta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "אעבדך",
+      "gloss": "qampaq yanqasaq"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Rajelpaq"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "wawaykipaq"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "huch'uy"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:42.398272307Z",
+  "model": "glm-5.3"
+}

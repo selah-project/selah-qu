@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 26:9",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Davidm Avishayman nirqan: Ama payta waqllaychu; imarayku, ¿pitam Yahwepa Mashiajninpi makinta churan, hinaspa ch'usaq huch'ayuq kanqa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Avishay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תשחיתהו",
+      "gloss": "payta waqllaychu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pitam"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "churan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makinta"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "Yahwepa Mashiajninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "hinaspa ch'usaq huch'ayuq kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:29:48.830956485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa ⟨את⟩ hayuanahpa ususinta, hinaspa ⟨את⟩ tachmasta, hinaspa ⟨את⟩ shachaphta, hinaspa ⟨את⟩ netsita laminehninta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hayuanahpa ususin"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususin"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "hayuanahpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "nets"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "laminehnin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:31.287742887Z",
+  "model": "glm-5.3"
+}

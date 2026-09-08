@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 32:31",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Yaakov (Jacob) chayllaqta Penuel sutiwan suticharqanmi: «Imaraykum ñuqam Elohimta ñawin ñawinwan rikurqani, kawsaymi qispisqa karqan».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "suticharqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suti"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "chayllaqta"
+    },
+    {
+      "surface": "פניאל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…wan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawin"
+    },
+    {
+      "surface": "ותנצל",
+      "gloss": "qispisqa karqan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "kawsay"
+    }
+  ],
+  "timestamp": "2026-09-08T00:06:55.775465900Z",
+  "model": "glm-5.3"
+}

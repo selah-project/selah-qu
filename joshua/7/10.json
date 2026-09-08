@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaysi Yahwem Yehoshuata nirqan: Sayariy; imarayku kay pachapi qam uyarikunaykichus ñawpaqman?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Yehoshuata)"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuata"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "uyarikunaykichus ñawpaqman"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T03:11:32.054191760Z",
+  "model": "glm-5.3"
+}

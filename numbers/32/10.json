@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Chay p'unchawmi Yahwepa phiñan phiñarqan, hinaspa jurarqanmi nispa:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "phiñarqan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "phiñan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "jurarqanmi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:20:25.000699880Z",
+  "model": "glm-5.3"
+}

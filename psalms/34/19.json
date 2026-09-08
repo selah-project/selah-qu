@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Qayllam Yahwe sunqu p'akisqakunaman, hinaspa ⟨את⟩ wayra llakichisqakunata qispichin.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Qaylla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "p'akisqakunaman"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wayra llakichisqakunata"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "llakichisqa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "qispichin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:49.555537863Z",
+  "model": "glm-5.3"
+}

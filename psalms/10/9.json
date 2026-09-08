@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Pakasqa wasipi suyanmi, pumahina ramadapi; yawchakusqata hap'inanpaq suyan; chay yawchakusqata aysaspanmi, lawka ukhupi hap'in.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "suyanmi"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "pakasqa wasipi"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "pumahina"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "ramadapi"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "suyan"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "hap'inanpaq"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yawchakusqata"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "hap'inmi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yawchakusqata"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "aysaspan"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "lauka ukhupi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:36.602531445Z",
+  "model": "glm-5.3"
+}

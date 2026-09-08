@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Ñawiyman t'ikray, hinaspa khuyaway; atiykiyta qampa llamk'aqniykiman quy, hinaspa qampa warmi llamk'aqniyki churiyman qispichiway.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "t'ikray"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "hinaspa khuyaway"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "quy"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "atiykiyta"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "qampa llamk'aqniykiman"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "hinaspa qispichiway"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "churiyman"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "warmi llamk'aqniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:39.016742966Z",
+  "model": "glm-5.3"
+}

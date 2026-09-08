@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Horewpim ⟨את⟩ Yahweta ch'iqichirqankichik, chaymi Yahwe qankichikwan p'iñakurqan ⟨את⟩ qankunata chinkachinaykichikpaq.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "Horewpim"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "ch'iqichirqankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "p'iñakurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "qankichikwan"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "chinkachinaykichikpaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T02:35:47.510685259Z",
+  "model": "glm-5.3"
+}

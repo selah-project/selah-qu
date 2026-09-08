@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "Paypa mikhunanta barakuyta barakusaqmi, paypa wakchañakunata tantawan hunt'achisaqmi.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "mikhunanta"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barakuyta"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "barakusaqmi"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "paypa wakchañakunata"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "hunt'achisaqmi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "tantawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:34.622616348Z",
+  "model": "glm-5.3"
+}

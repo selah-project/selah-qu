@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa ⟨את⟩ hadatawan, hinaspa ⟨את⟩ ayata laminehninta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hadah"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "hadah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ayah"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ayah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "laminehnin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:31.282511556Z",
+  "model": "glm-5.3"
+}

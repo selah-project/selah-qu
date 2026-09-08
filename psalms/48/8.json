@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Anti wayrawanmi Tarshishpa wamp'ukunata p'akinkim.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "wayrawan"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "anti"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "p'akinkim"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "wamp'ukunata"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:18.607943523Z",
+  "model": "glm-5.3"
+}

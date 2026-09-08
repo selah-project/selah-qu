@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Suyayta suyani Yahweta, chaysi ñuqaman t'ikraspa ñuqap qapariyta uyarirqan.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Suyayta"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "suyani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "t'ikraspa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ñuqap qapariyta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:24.560373674Z",
+  "model": "glm-5.3"
+}

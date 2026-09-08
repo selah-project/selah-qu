@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Chunka wataruyuq takina patapi, nablapa patapi, hinaspa kinurawan higayon ⟨t'ikrasqa rimanawan⟩.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "chunka wataruyuq takina"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "hinaspa patapi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinurawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:50.289563988Z",
+  "model": "glm-5.3"
+}

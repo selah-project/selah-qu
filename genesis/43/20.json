@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Nirqanku: Apu, uyariy ñuqanchikta: ñawpaqta mikhunata rantinaykupaqmam uraykamurqanchik.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "בי",
+      "gloss": "uyariy ñuqanchikta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Apu"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "uraykamuy"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "uraykamurqanchik"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "rantinaykupaq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:13:20.718513155Z",
+  "model": "glm-5.3"
+}

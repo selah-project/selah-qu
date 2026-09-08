@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 43:14",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "hinaspa El Shaddaymi qamkunaman rikchariyta qun chay runap ñawpaqninpi, chaymanta qamkunaman kachawanqa ⟨את⟩ huk wawqeykichikta, hinaspa ⟨את⟩ Binyaminta (Benjamín). Ñuqataq, imayna wakchaykachakuyniyqa, wakchaykachakuyniymi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qun"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "rikchariyta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "chay runap"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "chaymanta kachawanqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawqeykichikta"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "wawqeykichikta"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "huk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Binyaminta"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyaminta (Benjamín)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "wakchaykachakuyniyqa"
+    },
+    {
+      "surface": "שכלתי",
+      "gloss": "wakchaykachakuyniymi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:48.735143115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Chay p'unchawmi paykunata bendiciarqan, nispa: Qampawanmi Israel bendicianqa, nispa: Elohim qamta Efrayim hina, Menashe hinapas ruwachun. Hinaspa ⟨את⟩ Efrayimta Menashepa ñawpaqninman churarqan.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "bendiciarqan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "Chay p'unchawmi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Qampawanmi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bendicianqa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "ruwachun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "Efrayim hina"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "Menashe hinapas"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayimta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninman"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashepa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:18:29.290743439Z",
+  "model": "glm-5.3"
+}

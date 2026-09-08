@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 149,
+  "translation": "Israel kamaruqninpi kusikunmi, Tsiyonpa churinkunataq apunpi kusilla phawarinku.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "kusikun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "kamaruqninpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonpa"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "kusilla phawarinku"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "apunpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:26.514791219Z",
+  "model": "glm-5.3"
+}

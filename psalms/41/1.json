@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Atichiqpaq. Davidpa mizmor (salmon).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "atichiqpaq"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (salmón)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:06.579101153Z",
+  "model": "glm-5.3"
+}

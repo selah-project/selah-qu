@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Paymi ususinkunaman nirqan: maypitaq pay? imaraykutaq kay ⟨את⟩ runata saqirqankichik? Waqyachichichik payta, t'anta mikhunanpaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ususinkunaman"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "ususinkuna"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "maypitaq pay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imaraykutaq"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "saqirqankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay runata"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "runata"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "waqyachichichik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "mikhunqapaq"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:14.443243285Z",
+  "model": "glm-5.3"
+}

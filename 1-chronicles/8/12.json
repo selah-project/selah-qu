@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Elpaalpa churinkunam kaymi: Ever, Misham, Shamed. Paymi ⟨את⟩ Onota kamirqan, ⟨את⟩ Lodta, chaypa churinkunawan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaalpa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kamirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Onota"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Onota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Lodta"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lodta"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "chaypa churinkunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:07.834475094Z",
+  "model": "glm-5.3"
+}

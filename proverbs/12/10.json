@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Allin runam riqsin paypa uywanpa nefeshninta (kawsayninta); mana allin runakunapa khuyakuykunaqataq sinchi llakichikuqmi kanku.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "riqsinmi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshninta (kawsayninta)"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "paypa uywanpa"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "hinaspa khuyakuykuna"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakunapa"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "sinchi llakichiqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:40:29.913752369Z",
+  "model": "glm-5.3"
+}

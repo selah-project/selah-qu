@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Yahwem ⟨את⟩ hatun challwata churamurqan Yonah (Jonás)ta milluynanpaq; hinaspa Yonahmi challwap wiksanpi karqan kimsa p'unchaw, kimsa tutawan.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "churamurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "דג",
+      "gloss": "challwa"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "milluynanpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonahta"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "wiksanpi"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "challwap"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "hinaspa kimsa"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "tuta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:03:07.912422316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yehoshuam paqarinqa sayarirqan, hinaspa ⟨את⟩ Israelta ayllunkunawan ñawpaqman churarqan; hinaspa Yahudapmi ayllun lakichikurqan.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "paqarinqa sayarirqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "paqaripi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "ñawpaqman churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "ayllunkunawan"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "lakichikurqan"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ayllu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudap"
+    }
+  ],
+  "timestamp": "2026-09-08T03:13:27.082107947Z",
+  "model": "glm-5.3"
+}

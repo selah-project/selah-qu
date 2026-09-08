@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Taytaykip panapa q'allichasqanta ama q'allichankichu ⟨chu⟩: taytaykip ayllunmi ⟨kay⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "q'allichasqanta"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "panapa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytaykip"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "q'allichankichu"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ayllun"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytaykip"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kay⟩"
+    }
+  ],
+  "timestamp": "2026-09-08T01:00:50.222738185Z",
+  "model": "glm-5.3"
+}

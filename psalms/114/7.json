@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 114,
+  "translation": "Adonaypa ñawpaqenmanta llat'anakuy, hallp'a; Yaakovpa Eloahpa ñawpaqenmanta.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqenmanta"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "llat'anakuy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqenmanta"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov (Jacob)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:05.979689632Z",
+  "model": "glm-5.3"
+}

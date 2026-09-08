@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaysi uraman sarayan guru wasiman, hinallataq llapanta ruwarqan kaypiqentalla kay warmi qusap mamanta kamachisqantam.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "uraman sarayan"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "guru wasi"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaypiqentalla"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "kamachisqanta"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "qusap mamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:28:43.297527121Z",
+  "model": "glm-5.3"
+}

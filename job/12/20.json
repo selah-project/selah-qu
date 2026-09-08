@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 12:20",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Imanasqakunap siminta ch'usaqchanmi, hinaspa machukunapa yachayninta hurqunmi.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "ch'usaqchanmi"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "לנאמנים",
+      "gloss": "imanasqakunap"
+    },
+    {
+      "surface": "וטעם",
+      "gloss": "hinaspa yachayninta"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "machukunapa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "hurqunmi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:01:59.990997338Z",
+  "model": "glm-5.3"
+}

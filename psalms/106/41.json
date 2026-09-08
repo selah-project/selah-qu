@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Hinaspam paykunata goyimkuna makinman qurqan, hinaspampas paykunata ch'ikiyuqkuna kamachirqanku.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "paykunata qurqan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinman"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "goyimkuna"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "kamachirqanku"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paykunata"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "ch'ikiyuqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:15.778768850Z",
+  "model": "glm-5.3"
+}

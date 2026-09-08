@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Ichapas mana llapallataq makinpi qusqa ⟨את⟩ qollqita yupankuchu, imaraykuchus iñiywanmi llamk'anku.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "llapallataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "yupankunchu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "qollqita"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qollqita"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "qusqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "makinpi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "iñiywan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "llamk'anku"
+    }
+  ],
+  "timestamp": "2026-09-08T05:45:38.518573914Z",
+  "model": "glm-5.3"
+}

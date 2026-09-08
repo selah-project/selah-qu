@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Hinaspa ninku: «Imayna El yachanchu? Elyonpi yachay kanmanchu?»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "hinaspa ninku"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yachanchu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "kanmanchu"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "yachay"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "Elyonpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:38.495079359Z",
+  "model": "glm-5.3"
+}

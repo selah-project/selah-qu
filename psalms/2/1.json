@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Imaraykum suyukuna t'aqllakurqanku, hinaspa runa masikunapas ch'usaqta yuyarqanku?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "t'aqllakurqanku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "suyukuna"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "hinaspa runa masikunapas"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "yuyarqanku"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ch'usaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:00.517310093Z",
+  "model": "glm-5.3"
+}

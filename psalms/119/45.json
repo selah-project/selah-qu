@@ -1,0 +1,34 @@
+{
+ "tier": "glm-5.2",
+ "verse": 45,
+ "ref": "psalms 119:45",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 119,
+ "translation": "Hinaspa anchhata pachapi purinqanim, imaraykuchus kamachiykita maskhasqam kani.",
+ "tokens": [
+  {
+   "surface": "ואתהלכה",
+   "gloss": "hinaspa purinqanim"
+  },
+  {
+   "surface": "ברחבה",
+   "gloss": "anchhata pachapi"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "פקדיך",
+   "gloss": "kamachiykita",
+   "marks": "kamachiykita"
+  },
+  {
+   "surface": "דרשתי",
+   "gloss": "maskhasqam kani"
+  }
+ ],
+ "timestamp": "2026-09-08T10:22:45.312880080Z",
+ "model": "glm-5.3"
+}

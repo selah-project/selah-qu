@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspa musuq runata ama llakichiychu; qamkuna-m yachankichik ⟨את⟩ musuq runap Nefeshninta ⟨Nefesh kawsay-siminta⟩, imaraykuchus Mitsrayimpa (Egipto) hallp'api musuq runakuna karqankichik.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "hinaspa musuq runata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "llakichiy"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "yachankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musuq runap Nefeshninta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshnin"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "musuq runap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "musuq runakuna"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "karqankichik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa (Egipto)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:52.594961427Z",
+  "model": "glm-5.3"
+}

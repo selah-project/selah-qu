@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 141,
+  "translation": "Yahwe, churanaway qhawariqta siminaypa ñawpaqninpi; waqaychaway wirp'aykuna punkunta.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "churanaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "qhawariqta"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "siminaypa ñawpaqninpi"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "waqaychaway"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "punkunta"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wirp'ay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:10.995972517Z",
+  "model": "glm-5.3"
+}

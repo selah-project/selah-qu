@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 12:21",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Ama chimpaychu ch'usaq imakunata qatipayaypaq: paykunaqa manam allinchu karqasaqku, manataq hark'awasaqkuchu; imaraykuchus paykunaqa ch'usaqmi kanku.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "chimpaychu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qatipayaypaq"
+    },
+    {
+      "surface": "התהו",
+      "gloss": "ch'usaq imakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "allinchu karqasaqku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "hark'awasaqku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykunaqa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:11:26.329204262Z",
+  "model": "glm-5.3"
+}

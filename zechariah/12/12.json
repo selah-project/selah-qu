@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 12:12",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa hallp'a llakikunqa, ayllukuna ayllukuna sapallanku; Davidpa wasin ayllunqa sapallan, warminkunatawan sapalla; Natanpa wasin ayllunqa sapallan, warminkunatawan sapalla.",
+  "tokens": [
+    {
+      "surface": "וספדה",
+      "gloss": "llakikunqa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ayllukuna"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ayllukuna"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sapallanku"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sapallan"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "warminkunatawan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sapalla"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanpa"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sapallan"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "warminkunatawan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "sapalla"
+    }
+  ],
+  "timestamp": "2026-09-08T09:24:29.760177932Z",
+  "model": "glm-5.3"
+}

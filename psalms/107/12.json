@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Chaymi llank'aywan sunqunkunta p'itiykacharqan; tikrarqakunku, manataq yanapaq karqanchu.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "chaymi p'itiykacharqan"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "llank'aywan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sunqunkunta"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "tikrarqakunku"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manataq karqanchu"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:13.386289394Z",
+  "model": "glm-5.3"
+}

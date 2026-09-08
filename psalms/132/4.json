@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "sichus ñawiykunaman puñuyta qusaq, ñawi palpeykunamanpu ch'uqiy chayqa —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "puñuyta"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ñawiykunaman"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "ñawi palpeykunamanpu"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "ch'uqiy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:26.551487643Z",
+  "model": "glm-5.3"
+}

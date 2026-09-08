@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 11:29",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chay ⟨kanqa⟩mi: Yahwe Elohimniyki qamta chayamuchiptin ⟨את⟩ hallp'aman yaykunki chayman tiyanaykipaq, ⟨את⟩ bendiciónta Gerizim urqupatapi churanki, hinaspa ⟨את⟩ maldicióntata Ebal urqupatapi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Chay kanqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayamuchiptin"
+    },
+    {
+      "surface": "יביאך",
+      "gloss": "qamta chayamun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaykunki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "tiyanaykipaq"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bendiciónta"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bendiciónta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "urqu"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "maldiciónta"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "maldiciónta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "urqu"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ebal"
+    }
+  ],
+  "timestamp": "2026-09-08T02:42:52.420714093Z",
+  "model": "glm-5.3"
+}

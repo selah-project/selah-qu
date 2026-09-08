@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Elohimniy, awqayniykunamanta amiwanawaymi; ñuqaman sayarikuqkunamanta hanaq sayachinawaymi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "amiwanaway"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "awqayniykunamanta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "ñuqaman sayarikuqkunamanta"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "hanaq sayachinaway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:52.104727142Z",
+  "model": "glm-5.3"
+}

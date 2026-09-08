@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaysi Yahwe Elohim Edenpi, anti ladopi, huk huertata tarpurqan; chaypim ⟨את⟩ runata churarqan, pay p'irqasqata.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "tarpurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "huerta"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "Edenpi"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "anti ladopi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pay"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "p'irqasqata"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:16.185900721Z",
+  "model": "glm-5.3"
+}

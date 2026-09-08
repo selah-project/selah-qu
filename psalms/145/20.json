@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Yahweqa waqaychanmi ⟨את⟩ llapa munakuqninkunata, hinaspa ⟨את⟩ llapa resha runakunata chinkachinqa.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "waqaychan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa munakuqninkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "munakuqninkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa resha runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "resha runakunata"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "chinkachinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:26.961561214Z",
+  "model": "glm-5.3"
+}

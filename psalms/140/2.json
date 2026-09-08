@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Amañaway Yahwe mana allin runamanta; nanachiq runamanta amachawaywa.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Amañaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "runamanta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "runamanta"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "nanachiq"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "amachawaywa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:41.190909424Z",
+  "model": "glm-5.3"
+}

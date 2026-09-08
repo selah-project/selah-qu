@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Ñawiy phiñakuymanta ch'uspirqam, llapan awqayniykunamanta maqllakun.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "ch'uspirqam"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "phiñakuymanta"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Ñawiy"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "maqllakun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "awqayniykunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:58.846607204Z",
+  "model": "glm-5.3"
+}

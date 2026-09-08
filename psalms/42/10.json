@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Ninimi Elman, qatq'a waqyayniyta: imarayku ñuqata qonqarwanki? imarayku llakikuspa purini awqap llallayninpi?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ninimi"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elman"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "qatq'a waqyayniyta"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "ñuqata qonqarwanki"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "llakikuspa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "purini"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "llallayninpi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:33.099099168Z",
+  "model": "glm-5.3"
+}

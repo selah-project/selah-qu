@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "David nirqanmi: Yahwe, Israelpa Elohimnin, yanapaqyki cheqta uyarirqani Shaul Qeilaman yaykunanta munasqanta, ñuqap rayku llaqtata wañuchinampaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyarirqani"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "cheqta uyarirqani"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanapaqyki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "munasqanta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yaykunanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "wañuchinampaq"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "llaqtata"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "ñuqap rayku"
+    }
+  ],
+  "timestamp": "2026-09-08T04:22:45.525667509Z",
+  "model": "glm-5.3"
+}

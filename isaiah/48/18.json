@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 48:18",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Ichapas kamachikuykunayta uyaripta, thakikayki mayu hina karqanman, hinaspa cheqnikayki mama quchapa ch'ikikunan hina karqanman.",
+  "tokens": [
+    {
+      "surface": "לוא",
+      "gloss": "Ichapas karqanman"
+    },
+    {
+      "surface": "הקשבת",
+      "gloss": "uyaripta"
+    },
+    {
+      "surface": "למצותי",
+      "gloss": "kamachikuykunayta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqanman"
+    },
+    {
+      "surface": "כנהר",
+      "gloss": "mayu hina"
+    },
+    {
+      "surface": "שלומך",
+      "gloss": "thakikayki"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "hinaspa cheqnikayki"
+    },
+    {
+      "surface": "כגלי",
+      "gloss": "ch'ikikunan hina"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama qucha"
+    }
+  ],
+  "timestamp": "2026-09-08T06:29:12.638993695Z",
+  "model": "glm-5.3"
+}

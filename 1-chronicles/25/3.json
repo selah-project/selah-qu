@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 25:3",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Yedutunpa: Yedutunpa churiykuna Gedalyahu, Tseri, Yeshayahu, Jashavyahu, Mattityahu — suqtam, taytankuna Yedutunpa makinpi, kinorwan naviyarqan, Yahweta yupaychaspataq, hamut'akuspataq.",
+  "tokens": [
+    {
+      "surface": "לידותון",
+      "gloss": "Yedutunpa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiykuna"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutunpa"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu (Godolías)"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "hinaspa Tseri"
+    },
+    {
+      "surface": "וישעיהו",
+      "gloss": "hinaspa Yeshayahu (Isaías)"
+    },
+    {
+      "surface": "חשביהו",
+      "gloss": "hinaspa Jashavyahu"
+    },
+    {
+      "surface": "ומתתיהו",
+      "gloss": "hinaspa Mattityahu"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "suqtam"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makin"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "taytankuna"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinorwan"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "naviyarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "yupaychaspa"
+    },
+    {
+      "surface": "הדות",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "והלל",
+      "gloss": "hamut'akuspataq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "hamut'ay Yahwepaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:49:25.509337495Z",
+  "model": "glm-5.3"
+}

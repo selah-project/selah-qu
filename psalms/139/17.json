@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Ñuqapaqqa, Eloah, ima chaniyuqmi yuyayniyki; ima askhataqmi hunt'anku.",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "ñuqapaqqa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "chaniyuqmi"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "yuyayniyki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "askha"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "hunt'anku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:34.014759839Z",
+  "model": "glm-5.3"
+}

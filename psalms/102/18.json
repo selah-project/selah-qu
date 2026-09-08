@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Waqyasqa ch'usaq runap mañasqanman t'ikrarqanmi, hinaspa ⟨את⟩ paykunap mañasqankutaqa mana p'isiyachirqanchu.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "t'ikrarqanmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "mañasqanman"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "waqyasqa ch'usaq runap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "p'isiyachirqanchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paykunap mañasqankuta"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "paykunap mañasqankuta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:58.336343392Z",
+  "model": "glm-5.3"
+}

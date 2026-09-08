@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Sutiykita riqsiqkuna qampi suyanku, imaraykuchus mana maskaqniykiykunata saqirqankichu, Yahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "suyanku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "riqsiqkuna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiykita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "saqirqankichu"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "maskaqniykiykunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:49.694268178Z",
+  "model": "glm-5.3"
+}

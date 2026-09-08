@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Kunanmi yaykuspa qillqay tablapi ⟨את⟩ paykunawan, hinaspa p'anqapi talluy; qhipaq p'unchawpaq kanqam, wiñaypaq, wiñay wiñaykama.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Kunan"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "yaykuspa"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "qillqay"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tablapi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunawan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa -pi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "p'anqapi"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "talluy"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "kanqam"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "p'unchawpaq"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "qhipaq"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay wiñaykama"
+    }
+  ],
+  "timestamp": "2026-09-08T13:47:22.953507570Z",
+  "model": "glm-5.3"
+}

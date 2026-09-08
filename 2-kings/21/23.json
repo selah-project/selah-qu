@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Amonpa yanasinkunam makikamarqanku payta qatiq, hinaspa wañuchirqanku ⟨את⟩ apunta wasinpi.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "makikamarqanku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanasinkuna"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonpa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "payta qatiq"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "wañuchirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apunta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "wasinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:44:37.541075198Z",
+  "model": "glm-5.3"
+}

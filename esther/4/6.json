@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaysi Hatach lluqsirqan Mordokhayman, llaqta pampaman, mayqinqa apupa punkun ñawpaqninpi karqan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsirqan"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatach"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordokhay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "llaqta pampa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinqa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "punkun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:24:28.165800418Z",
+  "model": "glm-5.3"
+}

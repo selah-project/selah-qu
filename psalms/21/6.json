@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hatunmi k'anchaynin Qamp qispichiykipi; hatun sumayta hinaspa suyaychakuyta churanki paypa.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "k'anchaynin"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "Qamp qispichiykipi"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "hatun sumay"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "hinaspa suyaychakuy"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:41.654655016Z",
+  "model": "glm-5.3"
+}

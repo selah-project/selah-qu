@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Ñuqap qapariyta qhawariy, ñuqap apuy, ñuqap Elohimniy; qammanmi mañakuni.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "qapariyta"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "ñuqap qapariy"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ñuqap apuy"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ñuqap Elohimniy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "mañakuni"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:48.165247494Z",
+  "model": "glm-5.3"
+}

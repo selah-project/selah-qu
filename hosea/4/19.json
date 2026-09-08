@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Wayra ⟨את⟩ payta phawanpi wat'arqanmi; chaymi altar-ninkumanta p'inqakunqaku.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "wat'arqan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ payta",
+      "marks": "phawanpi"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "phawanpi"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "p'inqakunqaku"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "altar-ninkumanta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:43:33.102078906Z",
+  "model": "glm-5.3"
+}

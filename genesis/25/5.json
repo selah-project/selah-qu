@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspam Abraham qurqan ⟨את⟩ tukuy paypa kaqta Itsjakman (Isaac).",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "qurqanm"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy paypa kaqta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa kaqta"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Itsjakman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:01:01.954202112Z",
+  "model": "glm-5.3"
+}

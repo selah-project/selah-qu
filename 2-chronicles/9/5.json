@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chaysi apuman nirqan: «Hallp'aypi uyarisqay willakuqmi chiqaqmi ⟨kan⟩, qampa rimayniykimanta, qampa yachayniykimanta.»",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apuman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chiqaqmi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "willakuq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uyarisqay"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "uyarisqay"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "hallp'aypi"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "rimayniykimanta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "manta"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "yachayniykimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T13:01:12.185958160Z",
+  "model": "glm-5.3"
+}

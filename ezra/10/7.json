@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 10:7",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa willayta pasachirqankum Yehudapi, Yerushalayimpipas, llapa qatikunap wawakunaman, Yerushalayimman huñunakunankupaq.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "pasachirqanku"
+    },
+    {
+      "surface": "קול",
+      "gloss": "willay"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudapi"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayimpipas"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakunap"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "qatikuna"
+    },
+    {
+      "surface": "להקבץ",
+      "gloss": "huñunakunankupaq"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimman"
+    }
+  ],
+  "timestamp": "2026-09-08T14:27:05.908548702Z",
+  "model": "glm-5.3"
+}

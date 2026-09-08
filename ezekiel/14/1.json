@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 14:1",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chaymim Israelpa kurankuna ñuqanman hamurqanku, hinaspa ñuqap ñawpaypi tiyarqanku.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "chaymim ... hamurqanku"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqanman"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "kurankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "hinaspa tiyarqanku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñuqap ñawpaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T08:06:32.862848392Z",
+  "model": "glm-5.3"
+}

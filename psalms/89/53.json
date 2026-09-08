@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Yahweqa wiñaypaqmi bendito ⟨kan⟩. Amin, amin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bendito"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweqa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "amin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:54.001463837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Killap isqay ñiqin p'unchawpin yarqawi llaqtapi sinchiyarqanmi, mana kanchu t'anta hallp'ap runakunapaq.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "isqay ñiqin p'unchawpin"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "killap"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "sinchiyarqan"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "yarqawi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kanchu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "runakunapaq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T05:47:39.279174425Z",
+  "model": "glm-5.3"
+}

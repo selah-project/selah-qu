@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa rikurqanmi Sheba reina ⟨את⟩ Shelomopa llapa yachayninta, hinaspa wasinta ruwasqantawan.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "hinaspa rikurqanmi"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "reina"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomopa llapa yachayninta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "yachaynin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "hinaspa wasin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kayqa"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ruwasqan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:07:15.784230686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "exodus 31:10",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 31,
+ "translation": "hinaspa ⟨את⟩ huiñasqa p'achakunata, hinaspa ⟨את⟩ haqaylla p'achakunata Aharon kohenpaq, hinaspa ⟨את⟩ wawankunap p'achankunata, kohen llamk'anankupaq,",
+ "tokens": [
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "huiñasqa p'achakunata"
+  },
+  {
+   "surface": "בגדי",
+   "gloss": "p'achakuna"
+  },
+  {
+   "surface": "השרד",
+   "gloss": "huiñasqa (saraq p'acha)"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "haqaylla p'achakunata"
+  },
+  {
+   "surface": "בגדי",
+   "gloss": "p'achakuna"
+  },
+  {
+   "surface": "הקדש",
+   "gloss": "haqaylla"
+  },
+  {
+   "surface": "לאהרן",
+   "gloss": "Aharonpaq"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohen"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "wawankunap p'achankunata"
+  },
+  {
+   "surface": "בגדי",
+   "gloss": "p'achakuna"
+  },
+  {
+   "surface": "בניו",
+   "gloss": "wawankuna"
+  },
+  {
+   "surface": "לכהן",
+   "gloss": "kohen llamk'anankupaq"
+  }
+ ],
+ "timestamp": "2026-09-08T00:39:40.079381681Z",
+ "model": "glm-5.3"
+}

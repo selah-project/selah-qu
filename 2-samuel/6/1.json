@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Yapamanta kutiyta Davidmi huñurqan ⟨את⟩ llapan akllasqa runakunata Israelpi, kimsa chunka waranqa.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yapamanta kutiyta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yapamanta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan akllasqa runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "akllasqa runakuna"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:36:37.967329534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 17:1",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Ahaz (Acaz), Yehudap apunpa, iskay chunka iskayniyoq watanpi, Hoshea (Oseas), Elahpa churinmi, Shomronpi Israelpa apun karqan, isqon wata.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "watanpi"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka iskayniyoq"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "Ahaz (Acaz)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun karqan"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea (Oseas)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Elahpa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomronpi"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "isqon"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:46.128249089Z",
+  "model": "glm-5.3"
+}

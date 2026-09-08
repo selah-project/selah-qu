@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chiqaqmi, Yahwe: Ashur (Asiria)pa apkuna ⟨את⟩ nacionkunata, ⟨את⟩ hallp'ankunatapas ch'usaqcharqanku.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "chiqaqmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "ch'usaqcharqanku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apkuna"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nacionkunata"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nacionkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hallp'ankunatapas"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hallp'ankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:45:17.203692828Z",
+  "model": "glm-5.3"
+}

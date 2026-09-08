@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chayhina Bet-El (Bet-El) qamkunaman rurunqakum, millaypa, millayniykichikpa rayku; paqariy p'unchawpi Israelpa qhapaqnin wiñaylla chinkachikunqam.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Chayhina"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurunqakum"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "millaypa"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "millayniykichikpa"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "paqariy p'unchawpi"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "chinkachikunqa"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "wiñaylla"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qhapaqnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:49:16.226426471Z",
+  "model": "glm-5.3"
+}

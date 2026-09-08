@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa Dawid apum ⟨את⟩ chay llapa rimaykunata uyarirqan, hinaspa payqa sinchitam phiñakurqan.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "hinaspa Dawid apum"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa rimaykuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "rimaykuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "phiñakurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchita"
+    }
+  ],
+  "timestamp": "2026-09-08T04:42:43.569923318Z",
+  "model": "glm-5.3"
+}

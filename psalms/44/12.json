@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Michi hina mikhunapaq qarimuwanki, hinaspa mamallaqtakunapi thaltikachimuwanki.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "qarimuwanki"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "michi hina"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "mikhunapaq"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "hinaspa mamallaqtakunapi"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "thaltikachimuwanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:37.191269702Z",
+  "model": "glm-5.3"
+}

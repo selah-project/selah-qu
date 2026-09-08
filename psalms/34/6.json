@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Payman qhawarqanku, k'anchayrikurqankumi; ñawinkupas mana ping'akunqachu.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "qhawarqanku"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "k'anchayrikurqankumi"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "ñawinkupas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "ping'akunqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:51.342749683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Aharonwan Israelpa churinkunallawan ⟨את⟩ Mosheta qhawarqankum; kunanqa uyanpa charan k'anchaykarqanmi, chayrayku payman ñawpaqman chayaytam mancharqanku.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqankum"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonwan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llawan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kunanqa"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "k'anchaykarqan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "charan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uyanpa"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mancharqanku"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "ñawpaqman chayayta"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:47.167437903Z",
+  "model": "glm-5.3"
+}

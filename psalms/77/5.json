@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Ñuqap ñawiykunap waqaychasqankunata ayrurqanki; kuyuykunam karqani, chayrayku mana rimanichu.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "ayrurqanki"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "waqaychasqankuna"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiykunap"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "kuyuykunam karqani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "rimanichu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:27.028730103Z",
+  "model": "glm-5.3"
+}

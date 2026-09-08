@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Hinaspa paykuna ⟨את⟩ rurasqa diosninkunata yupaycharqanku; chaykunaqa paykunaman t'ikrasqa hina tukurqanku.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "yupaycharqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rurasqa diosninkunata"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "rurasqa diosninkunata"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "tukurqanku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "t'ikrasqa hina"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:16.764104886Z",
+  "model": "glm-5.3"
+}

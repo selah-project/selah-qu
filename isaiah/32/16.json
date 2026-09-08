@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Chaninchaytaq sallqa pampapi sayanqam; chiqan kaytaq allin chakrapi tiyanqam.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "sayanqam"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sallqa pampapi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chaninchay"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "chiqan kay"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "allin chakrapi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "tiyanqam"
+    }
+  ],
+  "timestamp": "2026-09-08T06:11:07.337248230Z",
+  "model": "glm-5.3"
+}

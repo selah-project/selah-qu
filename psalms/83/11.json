@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "En-Dorpi chinkachikurqankumi, hallp'apaq wanu hina tukurqanku.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "chinkachikurqanku"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "…pi"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "En-Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tukurqanku"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "wanu hina"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "hallp'apaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:17.573047458Z",
+  "model": "glm-5.3"
+}

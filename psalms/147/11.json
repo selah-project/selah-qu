@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Yahweqa kusikun ⟨את⟩ payta manachikuqkunawan, ⟨את⟩ paypa jesedninta suyanakunawanpas.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "kusikun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "payta manachikuqkunata"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "payta manachikuqkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa jesedninta suyanakunata"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "suyanakuna"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "paypa jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:05.211102754Z",
+  "model": "glm-5.3"
+}

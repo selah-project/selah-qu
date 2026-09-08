@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Wawqenkunañam rikurqanku chayta: taytanku ⟨את⟩ payta tukuy wawqenkunamanta aswanmi khuyan; chaymi millarqanku ⟨את⟩ payta, manataq atirqankuchu paywan thakilla simiwan rimayta.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "rikurqanku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqenkuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "khuyasqa"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "khuyan"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "taytanku"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tukuy…manta aswan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqenkunamanta"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "millarqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "millasqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "atirqankuchu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "thakilla simiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:09:40.200813886Z",
+  "model": "glm-5.3"
+}

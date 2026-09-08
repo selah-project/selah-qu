@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Kimsa watata tiyarqankum, mana mamit'anacharqanchu Aramwan Israelpa muyti'ntinpi.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "tiyarqankum"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "watata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "mamit'anacha"
+    },
+    {
+      "surface": "בין",
+      "gloss": "muyti'npin"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramwan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hinaspa muyti'npin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:41:56.683285301Z",
+  "model": "glm-5.3"
+}

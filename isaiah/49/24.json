@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "¿Sinchi atiyuqpa ch'ampanta qichuswanmanchu? ¿icha justu watasqapas qispichikunmanchu?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "¿qichuswanmanchu"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "sinchi-atiyuqpa"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "ch'ampa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "icha"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "watasqa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "justu"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qispichikunmanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T13:47:17.449192716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 129,
+  "translation": "Askhata ñit'irqanku ñuqata ñawpa wachaymanta; ichapas mana atirqankuchu ñuqata yalliypaq.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "askhata"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ñit'irqanku ñuqata"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ñawpa wachaymanta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ichapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "atirqanku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqata yalliypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:27.482228999Z",
+  "model": "glm-5.3"
+}

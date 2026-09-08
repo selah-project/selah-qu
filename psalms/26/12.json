@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Ñuqap chakinqa chiqan pachapi sayachkanmi; huñunakuykunapitaq Yahweta bendisaqmi.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "ñuqap chakinqa"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "sayachkanmi"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "chiqan pachapi"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "huñunakuykunapitaq"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "bendisaqmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:15.349734493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "hinaspa ⟨את⟩ wasichakuna patapi hanaq pachap awqakunaman inclinakunkuqkunata, hinaspa ⟨את⟩ Yahweman jurakuqkunata, Malkamwan (Milcom) jurakunkuqkunatawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wasichakuna patapi inclinakunkuqkunata"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "inclinakunkuqkunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "wasichakuna"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "awqakunaman"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yahweman jurakuqkunata"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "inclinakunkuqkunata"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "jurakuqkunata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "jurakunkuqkunatawan"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "Malkamwan (Milcom)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:15:38.458642100Z",
+  "model": "glm-5.3"
+}

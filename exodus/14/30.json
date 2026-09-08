@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chay p'unchawmi Yahwem ⟨את⟩ Israelta Mitsrayimpa makimmanta qispichirqan; hinaspa Israel ⟨את⟩ Mitsrayimta wañusqata rikurqanm yuma kinrayninpi.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "qispichirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makimmanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "hinaspa rikurqan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimta"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wañusqata"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pi"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "kinraynin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yuma"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:55.577631386Z",
+  "model": "glm-5.3"
+}

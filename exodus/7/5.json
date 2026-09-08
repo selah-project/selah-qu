@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Mitsrayim runakunam yachanqaku ñuqa Yahwe kasqayta, ⟨את⟩ makiyta Mitsrayimpa pataman churaptiy, hinaspa ⟨את⟩ Israelpa churinkunata paykunap chawpinmanta hurqusaqtiy.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "yachanqaku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim runakuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqayta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "makiyta churaptiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makiyta"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makiy"
+    },
+    {
+      "surface": "על",
+      "gloss": "pataman"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "hurqusaqtiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa churinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "paykunap chawpinmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:50.667763470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Ankalliywan Yahwepa manchariyninpa chaskinanqa qollqe, hatun k'anchay, kawsaypasmi.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "chaskinan"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "ankalliywan"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "manchariynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "qollqe"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "hatun k'anchay"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "kawsaypasmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:48:28.528763056Z",
+  "model": "glm-5.3"
+}

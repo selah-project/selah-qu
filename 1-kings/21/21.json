@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 21,
+ "ref": "1-kings 21:21",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 21,
+ "translation": "Qhawaymi, ñuqam millayta qamman apamusaq, hinaspa qampa qhipaykita pich'usaqmi, hinaspa Ajabmanta qirapi hinarqakuqta, hinaspa wisq'asqata, saqisqata Israelpi ch'usaqch'usaqmi.",
+ "tokens": [
+  {
+   "surface": "הנני",
+   "gloss": "Qhawaymi"
+  },
+  {
+   "surface": "מבי",
+   "gloss": "apamusaq"
+  },
+  {
+   "surface": "אליך",
+   "gloss": "qamman"
+  },
+  {
+   "surface": "רעה",
+   "gloss": "millayta"
+  },
+  {
+   "surface": "ובערתי",
+   "gloss": "hinaspa pich'usaqmi"
+  },
+  {
+   "surface": "אחריך",
+   "gloss": "qampa qhipaykita"
+  },
+  {
+   "surface": "והכרתי",
+   "gloss": "hinaspa ch'usaqch'usaqmi"
+  },
+  {
+   "surface": "לאחאב",
+   "gloss": "Ajabmanta"
+  },
+  {
+   "surface": "משתין",
+   "gloss": "hinarqakuqta"
+  },
+  {
+   "surface": "בקיר",
+   "gloss": "qirapi"
+  },
+  {
+   "surface": "ועצור",
+   "gloss": "hinaspa wisq'asqata"
+  },
+  {
+   "surface": "ועזוב",
+   "gloss": "saqisqata"
+  },
+  {
+   "surface": "בישראל",
+   "gloss": "Israelpi"
+  }
+ ],
+ "timestamp": "2026-09-08T05:21:50.766785605Z",
+ "model": "glm-5.3"
+}

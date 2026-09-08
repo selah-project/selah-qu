@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Chayrayku Yahwem ñuqaman kutichirqan ñuqap allin kasqayhina, ñuqap ch'uyanchasqayhina paypa ñawinkunap ñawpaqenpi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "ñuqap allin kasqayhina"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "ñuqap ch'uyanchasqayhina"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ñawpaqenpi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "paypa ñawinkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T04:53:55.512725511Z",
+  "model": "glm-5.3"
+}

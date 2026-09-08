@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Yachachina qillqa, Asaphpa. Imarayku, Elohim, wiñaypaq mamá saqiranki? Imaraykum aphayki q'añun michiypi, michinaykipa michiyninpi?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "yachachina qillqa"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaphpa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "saqiranki"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "q'añun"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "aphayki"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "michiypi"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "michinaykipa michiyninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:57.499368634Z",
+  "model": "glm-5.3"
+}

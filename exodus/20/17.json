@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Ama masillayki wasinta munakuychu; ama masillayki warminta munakuychu; hinaspa paypa qhari yanapanninta, paypa warmi yanapanninta, paypa wakninta, paypa burrunta, hinaspa imapas masillaykipa kasqanta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "munakuychu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "masillayki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "munakuychu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "warmin"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "masillayki"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "hinaspa paypa qhari yanapannin"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "paypa warmi yanapannin"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "paypa waknin"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "paypa burrun"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "masillaykipa kasqan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:32:27.441425543Z",
+  "model": "glm-5.3"
+}

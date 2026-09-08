@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Wañusqalla runaqa ch'iqa hina p'unchayninkuna; chakrata waytanahina, chaynillataqmi waytanacha.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "wañusqalla runa"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ch'iqa hina"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "p'unchayninkuna"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "waytanahina"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chakrata"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynillataqmi"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "waytanacha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:33.867612374Z",
+  "model": "glm-5.3"
+}

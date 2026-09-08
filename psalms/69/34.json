@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Imarayku Yahwem uyarikunmi waqchakunata, hinaspa ⟨את⟩ wisq'asqa captivonkunata mana p'isiyachikunchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyarikunmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "waqchakunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wisq'asqa captivonkunata"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "wisq'asqa captivonkunata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "p'isiyachikunchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:14.458705674Z",
+  "model": "glm-5.3"
+}

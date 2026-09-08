@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "leviticus 25:17",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 25,
+ "translation": "Manam ⟨את⟩ masinta runa hina waqllankichikchu; Elohimniykimanta mancharinki, chaymi ñuqa Yahwe Elohimniykichik kachkani.",
+ "tokens": [
+  {
+   "surface": "ולא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "תונו",
+   "gloss": "waqllankichik"
+  },
+  {
+   "surface": "איש",
+   "gloss": "runa"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "masinta"
+  },
+  {
+   "surface": "עמיתו",
+   "gloss": "masinta"
+  },
+  {
+   "surface": "ויראת",
+   "gloss": "mancharinki"
+  },
+  {
+   "surface": "מאלהיך",
+   "gloss": "Elohimniykimanta"
+  },
+  {
+   "surface": "כי",
+   "gloss": "chaymi"
+  },
+  {
+   "surface": "אני",
+   "gloss": "ñuqa"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohimniykichik"
+  }
+ ],
+ "timestamp": "2026-09-08T01:09:41.931008079Z",
+ "model": "glm-5.3"
+}

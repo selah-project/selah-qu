@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Waway, ama puriychu ⟨את⟩ paykunawan ñanninpipi; hark'ay chakiniykita ñanpampankumanta.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "waway"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "puriy"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanninpipi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunawan",
+      "marks": "paykunawan ñanninpipi"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "hark'ay"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "chakiniykita"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "ñanpampankumanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:43.640464675Z",
+  "model": "glm-5.3"
+}

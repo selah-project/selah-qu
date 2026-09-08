@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "¿Kanchu llulla ñuqap qallanpi? ¿Manachu ñuqap qallanpa ukhun riqsinqa mana allin imakunata?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "¿Kanchu"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ñuqap qallanpi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "ñuqap qallanpa ukhun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "riqsinqa"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mana allin imakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:59:43.264372941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Ninankum: Yahwepa, taytankunap Elohimninpa berinta saqirqankusqanrayku, maytaq paykunawan watunarqan, ⟨את⟩ paykunata Mitsrayim hallp'amanta hurquspa.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ninankum"
+    },
+    {
+      "surface": "על",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqanrayku"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "saqirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "berita"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimninpa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "taytankunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maytaq"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "watunarqan"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "paykunawan"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "hurquspa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-08T02:57:51.745958988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 31:2",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Runap churin, willay Paro (Faraón)man, Mitsrayim (Egipto)pa apunman, paypa askha runankunamanpash: ¿Pimantzus qan rikch'akunki hatun kayniykipi?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "willay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro (Faraón)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)pa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "manpash"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "paypa askha runankuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "pimanta"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "rikch'akunki"
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": "hatun kayniykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T08:22:04.846872093Z",
+  "model": "glm-5.3"
+}

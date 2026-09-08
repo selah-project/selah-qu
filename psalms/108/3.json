@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 108,
+  "translation": "Tariyariy, nabaltawan kitara; paqaritataq ariycharqasa.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Tariyariy"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nabal"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "kitarawan"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ariycharqasa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "paqarita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:01.198185705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Mañakuyta uyawaqmi; qamman llapan aycha hamunqaku.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "uyawaq"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mañakuy"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hamunqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:46.895351685Z",
+  "model": "glm-5.3"
+}

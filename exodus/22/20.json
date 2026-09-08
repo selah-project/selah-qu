@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa musuq runata ama awqankiychu, hinaspa ama ñit'iychu; imaraykuchus Mitsrayim hallp'api musuq runakuna karqankichikmi.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "hinaspa musuq runata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama...chu"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "awqankiychu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa ama...chu"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "ñit'iychu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "musuq runakuna"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "karqankichikmi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:08.162252315Z",
+  "model": "glm-5.3"
+}

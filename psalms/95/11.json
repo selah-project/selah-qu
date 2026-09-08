@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 95,
+  "translation": "Chaymi lliphipikuspay ñuqa juramenturqani: mana yayamunqankuchu samay wasiyman.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "juramenturqani"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "lliphipikuspay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mana ... kuchu"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "yayamunqankuchu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "samay wasiyman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:21.921309684Z",
+  "model": "glm-5.3"
+}

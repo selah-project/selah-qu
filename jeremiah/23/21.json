@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Manam ⟨את⟩ navikunata apachirqanichu, paykunaqam purirqaku; manam paykunaman rimarqanichu, paykunam navipayarqanku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana-m"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "apachirqani-chu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navikunata"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "navikunata"
+    },
+    {
+      "surface": "והם",
+      "gloss": "paykunaqam"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "purirqaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana-m"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "rimarqani-chu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "והם",
+      "gloss": "paykunam"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "navipayarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T07:12:11.518250472Z",
+  "model": "glm-5.3"
+}

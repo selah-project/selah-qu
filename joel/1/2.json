@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kayta uyariy, kurakuna, ñawiykita churay, kay pachapi tiyaqkuna llapan. ¿Kay hinachu karqan p'unchawkunaykipichus, utaq tayta-kakaykipaq p'unchawkunapipas?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "kurakuna"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ñawiykita churay"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pachapi"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "¿karqanchu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kay hina"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "p'unchawkunaykipi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "tayta-kakaykipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T08:54:42.238064939Z",
+  "model": "glm-5.3"
+}

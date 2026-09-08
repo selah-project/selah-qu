@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 23:13",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Sayarirqanmi David, paypa runankunawan, suqta pachak runa ⟨k'uchuyuq kaqlla⟩; Keilahmanta lluqsirqanku, mayman atisqankumanta purirqanku. Shaulman willasqa karqan David Keilahmanta llamk'apusqanmanta; chaymi lluqsiyta saqirqan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqanmi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "paypa runankunawan"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "lluqsirqanku"
+    },
+    {
+      "surface": "מקעלה",
+      "gloss": "Keilahmanta"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "mayman atisqankumanta"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "purisqanku"
+    },
+    {
+      "surface": "ולשאול",
+      "gloss": "Shaulman"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "willasqa karqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-sqanmanta"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "llamk'apusqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מקעילה",
+      "gloss": "Keilahmanta"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "saqirqan"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "lluqsiyta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:22:59.912216950Z",
+  "model": "glm-5.3"
+}

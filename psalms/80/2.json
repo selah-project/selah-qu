@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Israelpa michiqnin, uyariy; michhuq hina Yosef (José)ta pusaq, kerubinkunap chapanpi tiyaqmi, k'anchariy.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "michiq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "pusaq"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "michhuq hina"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef (José)ta"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "kerubinkunap"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "k'anchariy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:47.957952823Z",
+  "model": "glm-5.3"
+}

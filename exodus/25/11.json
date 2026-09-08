@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa quri ch'uyanchasqawan ⟨את⟩ payta qatachanki, ukhumanta, hawamantawan qatachanki; hinaspa paypa muyuriqninpi quri willkata ruwankim.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "qatachanki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta (sandulata)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ch'uyanchasqawan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ukhumanta"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "hawamantawan"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "qatachanki"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa patapi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "willkata"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:36:36.261124538Z",
+  "model": "glm-5.3"
+}

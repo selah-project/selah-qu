@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "hinaspa ⟨את⟩ Gatta, hinaspa ⟨את⟩ Mareshata, hinaspa ⟨את⟩ Sifta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Gatta"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Mareshata"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Mareshata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Sifta"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Sifta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:58:33.692246310Z",
+  "model": "glm-5.3"
+}

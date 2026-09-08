@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 108,
+  "translation": "Taki, sallana taki, Davidpa.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Taki"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sallana taki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:01.197747005Z",
+  "model": "glm-5.3"
+}

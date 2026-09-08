@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Awqan mana payta wakichinqachu; mana allin churiyqa mana payta much'uchinqachu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "wakichinqachu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "churiyqa"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "payta much'uchinqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:56.586496062Z",
+  "model": "glm-5.3"
+}

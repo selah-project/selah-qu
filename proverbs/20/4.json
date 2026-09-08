@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Qasa raykum qhispiqa manam hallp'anta rawanqachu; poqoy p'unchawpi mañakunqa, ichaqa manam imapas kanqachu.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "qasa raykum"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "qhispiqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "rawanqachu"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "mañakunqa"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "poqoy p'unchawpi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ichaqa manam imapas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:47:46.997991558Z",
+  "model": "glm-5.3"
+}

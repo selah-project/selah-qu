@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Ch'usaqllata ⟨את⟩ wawaykichikta nanarqanim; mana chaskirqankuchu yachachikuyta. Ch'itiq pumahina, churikunaykichik ⟨את⟩ naviykunata micurqan.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "ch'usaqllata"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "nanarqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawaykichikta"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "wawaykichik"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "yachachikuy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "chaskirqankuchu"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "micurqan"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "churikunaykichik"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "naviykuna"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "pumahina"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ch'itiq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:48:25.013179315Z",
+  "model": "glm-5.3"
+}

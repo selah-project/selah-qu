@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Tsipporahm (Séfora) tsilla rumita hurquspam ⟨את⟩ wawankipa orqonta kuchurqan, chakinkinman t'inkachirqan; hinaspa nirqam: \"Sincham qam ñuqapman yawar qusa ⟨kanki⟩.\"",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipporah"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tsilla rumi"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "kuchurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawankipa orqonta"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "orqon"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wawankipa"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "t'inkachirqan"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "chakinkinman"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sincham"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "qusa"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "yawar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:43.810660044Z",
+  "model": "glm-5.3"
+}

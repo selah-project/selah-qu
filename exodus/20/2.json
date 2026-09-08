@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Ñuqam Yahwe, Elohimniyki, qamta Mitsrayimpa hallp'anmanta, qhatiypi wasimanta hurquni.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "qamta hurquni"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'anmanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasimanta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qhatiypi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:58.793612951Z",
+  "model": "glm-5.3"
+}

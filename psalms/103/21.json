@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Bark'uway Yahweta, llapan awqankuna; yanapaninkuna, munasqanta ruraqkuna.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bark'uway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "awqankuna"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "yanapaninkuna"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ruraqkuna"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "munasqanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:26.826970468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Chiqaqta, ch'usaqllata sunquyta p'akirqanim, hinallataq makikunayta llump'aq kaypi maqchiykurqanim.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chiqaqta"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ch'usaqllata"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "p'akirqanim"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "sunquyta"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "maqchiykurqanim"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "llump'aq kaypi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "makikunayta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:00.408377108Z",
+  "model": "glm-5.3"
+}

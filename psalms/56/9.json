@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "Purinakunaytam qam yupawanki; waqaykita ñuqt'iykipi churay; mana-chu qillqaykipichu kachkan?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "purinakunay"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "yupawanki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "churay"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "waqaykita"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "ñuqt'iykipi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mana-chu"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "qillqaykipichu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:49.404121197Z",
+  "model": "glm-5.3"
+}

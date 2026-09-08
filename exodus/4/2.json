@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Yahwem payman nirqan: Imataq makiyki ukhupi? Pay nirqan: Mata.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "makiyki ukhupi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:04.486987884Z",
+  "model": "glm-5.3"
+}

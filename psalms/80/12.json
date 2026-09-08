@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Kachamunki saphinkunata mama quchakama, yawrinkunataq mayukama.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "kachamunki"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "saphinkunata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mama quchakama"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mayukama"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "yawrinkunataq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:03.222390088Z",
+  "model": "glm-5.3"
+}

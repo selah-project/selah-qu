@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Sukotmanta purirqakum, Etanpiña qhawakurqakuchá — ch'usaq pachap ch'ikanpi.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "purirqakum"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukotmanta"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "qhawakurqakuchá"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Etanpiña"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ch'ikanpi"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ch'usaq pachap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:37.718310973Z",
+  "model": "glm-5.3"
+}

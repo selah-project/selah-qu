@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Qampam yanapaq warmiyki iskay churiyuqmi karqan; iskaynin chakrapi maqanakurqankumi, manam pipas ichapaq karqanchu; hukninmi ⟨את⟩ hukninta maqarqan, wañichirqan ⟨את⟩ payta.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "qampam yanapaq warmiyki"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churiyuq"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "maqanakurqankumi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iskaynin"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chakrapi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "pipas ichapaq"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "karqanchu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "maqarqan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hukninmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukninta"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hukninta"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañichirqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:44:38.225914778Z",
+  "model": "glm-5.3"
+}

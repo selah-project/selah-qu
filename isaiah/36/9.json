@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 36:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "¿Imaynañataq atinki apuypa siervokunap aswan huch'uy huk kamachiqpa ⟨את⟩ ñawinta kutichiyta, chaymanta Mitsrayimta suyanki carrokunapaq, caballop nanakunapaq?",
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "imaynañataq"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "kutichiyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawinta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawin"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "kamachiq"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "siervokunap"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apuypa"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "aswan huch'uy"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "suyanki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qam"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimta"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "carrokunapaq"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "caballop nanakunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:20:44.141706952Z",
+  "model": "glm-5.3"
+}

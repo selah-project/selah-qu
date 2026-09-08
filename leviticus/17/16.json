@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Sichus mana maqchinanqa, aychantapas mana mayllanqa chayqa, huchhanta apasqam kanqa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "maqchinanqa"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "aychantapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "mayllanqa"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "huchhanta apasqa"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "huchhanta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:02.048046519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Qamtaq, Adonay, El khuyakuqmi hinaspa ñak'ariyuqmi, phiñakunampaq suni-mi, hatun jesedniyuqmi hinaspa chiqaqyuqmi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Qamtaq"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "khuyakuq"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "hinaspa ñak'ariyuq"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "suni"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "phiñakunampaq"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesedniyuq"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "hinaspa chiqaqyuq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:39.016566711Z",
+  "model": "glm-5.3"
+}

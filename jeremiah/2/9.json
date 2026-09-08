@@ -1,0 +1,55 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "jeremiah 2:9",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Chayrayku, kunanraq ⟨את⟩ qamkunata ariwsakusaq — Yahwepa willakuyninmi — hinaspa ⟨את⟩ wawan wawanaykichikta ariwsakusaq.",
+ "tokens": [
+  {
+   "surface": "לכן",
+   "gloss": "Chayrayku"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kunanraq"
+  },
+  {
+   "surface": "אריב",
+   "gloss": "ariwsakusaq"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ qamkunata",
+   "marks": "qamkunata"
+  },
+  {
+   "surface": "נאם",
+   "gloss": "willakuynin"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "wawan wawanaykichikta"
+  },
+  {
+   "surface": "בני",
+   "gloss": "wawan"
+  },
+  {
+   "surface": "בניכם",
+   "gloss": "wawanaykichik"
+  },
+  {
+   "surface": "אריב",
+   "gloss": "ariwsakusaq"
+  }
+ ],
+ "timestamp": "2026-09-08T06:45:57.280454391Z",
+ "model": "glm-5.3"
+}

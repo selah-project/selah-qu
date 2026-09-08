@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 12:1",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Amartaqm ⟨את⟩ qampa Kamaqaykita (Borae) qampa warma kayniyki p'unchawkunapi, mana ñak'ariy p'unchawkuna chayamunqakuchu kama, hinaspa watakunapas chayamunqaku, maypi ninki: manam ñuqap chaypi kusikuy kanchu.",
+  "tokens": [
+    {
+      "surface": "וזכר",
+      "gloss": "Amartaqm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kamaqaykita"
+    },
+    {
+      "surface": "בוראיך",
+      "gloss": "qampa Kamaqaykita (Borae)"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "בחורתיך",
+      "gloss": "qampa warma kayniyki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "chayamunqakuchu"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ñak'ariy"
+    },
+    {
+      "surface": "והגיעו",
+      "gloss": "hinaspa chayamunqaku"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "watakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ninki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kusikuy"
+    }
+  ],
+  "timestamp": "2026-09-08T11:45:42.251684423Z",
+  "model": "glm-5.3"
+}

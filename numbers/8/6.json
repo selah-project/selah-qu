@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaskiy ⟨את⟩ Leviyta (Leviykunata) Israelpa wawankunap chawpinmanta, hinaspa ⟨את⟩ paykunata llimp'ichiy.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "chaskiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leviykunata"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviykuna"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "chawpinmanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "hinaspa llimp'ichiy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T01:23:38.709046197Z",
+  "model": "glm-5.3"
+}

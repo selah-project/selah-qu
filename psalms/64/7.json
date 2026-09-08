@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 64,
+  "translation": "Maskhankum mana allinkunata; «Lliw maskhasqaykuta hunt'achirqayku» ninku; runap ukhu yuyayninqa, sunquwanmi chuqan.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "maskhanku"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "mana allinkunata"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "hunt'achirqayku"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "maskhasqa"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "lliw maskhasqayku"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "hinallataq ukhu yuyay"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runap"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "hinaspa sunquwan"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "chuqan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:11.871457168Z",
+  "model": "glm-5.3"
+}

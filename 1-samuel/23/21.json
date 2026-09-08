@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Shaulm nirqan: «Yahwepa bendisqa kankichikmi, imarayku ñuqata khuyawarqankichik».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "bendisqa kankichik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "khuyawarqankichik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqata"
+    }
+  ],
+  "timestamp": "2026-09-08T04:24:34.067244496Z",
+  "model": "glm-5.3"
+}

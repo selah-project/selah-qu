@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 115,
+  "translation": "Yahwem yuyawarqanchikmi; bendisiwanchikmi: ⟨את⟩ Israelpa wasinta bendisiwanchikmi, ⟨את⟩ Aharonpa wasintawan bendisiwanchikmi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "yuyawarqanchik"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bendisiwanchikmi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bendisiwanchikmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bendisiwanchikmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonpa wasintawan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasintawan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:44.336237931Z",
+  "model": "glm-5.3"
+}

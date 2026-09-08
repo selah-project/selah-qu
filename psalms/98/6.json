@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 98,
+  "translation": "Q'pillakunawan, shofarpaq taqllinwan, qhaparirqaychik apu Yahwe ñawpaqninpi.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "q'pillakunawan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "hinaspa taqlli"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "qhaparirqaychik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:09.602722678Z",
+  "model": "glm-5.3"
+}

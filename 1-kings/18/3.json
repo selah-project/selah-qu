@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Achabqa wasipata kamachiq Obadyahu (Abdías)man qaywarqanmi; hinaspa Obadyahuqa ⟨את⟩ Yahweta sinchitam mancharqanmi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "qaywarqan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamachiq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "hinaspa Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mancharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchita"
+    }
+  ],
+  "timestamp": "2026-09-08T05:19:18.253474125Z",
+  "model": "glm-5.3"
+}

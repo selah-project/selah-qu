@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa apu hinaspa llapa runa Yahwep ñawpaqenpi korban churarqanku.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "hinaspa apu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "korban churarqanku"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "korban"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqenpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T13:02:15.952271859Z",
+  "model": "glm-5.3"
+}

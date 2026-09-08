@@ -1,0 +1,80 @@
+{
+ "tier": "glm-5.2",
+ "verse": 51,
+ "ref": "genesis 41:51",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 41,
+ "translation": "Chaysim Yosef paqariq wawanpa ⟨את⟩ sutinta Menashe (Manasés) nispa qallarirqan: Elohimmi ⟨את⟩ llapan llamk'ayniyta, hinaspa ⟨את⟩ llapan taytaypa wasinta qunqachirqawanmi.",
+ "tokens": [
+  {
+   "surface": "ויקרא",
+   "gloss": "qallarirqan"
+  },
+  {
+   "surface": "יוסף",
+   "gloss": "Yosef"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "sutinta"
+  },
+  {
+   "surface": "שם",
+   "gloss": "suti"
+  },
+  {
+   "surface": "הבכור",
+   "gloss": "paqariq wawanpa"
+  },
+  {
+   "surface": "מנשה",
+   "gloss": "Menashe"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imarayku"
+  },
+  {
+   "surface": "נשני",
+   "gloss": "qunqachirqawan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "llapan"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "עמלי",
+   "gloss": "llamk'ayniyta"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "llapan"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "בית",
+   "gloss": "wasi"
+  },
+  {
+   "surface": "אבי",
+   "gloss": "taytaypa"
+  }
+ ],
+ "timestamp": "2026-09-08T00:13:21.238029561Z",
+ "model": "glm-5.3"
+}

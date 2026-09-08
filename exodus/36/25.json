@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Mishkanpa iskay ñiqin tarafninpi, chinchay ladopi, iskay chunka q'iruta ruwarqanm.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "tarafninpi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanpa"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ladopi"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "chinchay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "q'irukuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:05.853415690Z",
+  "model": "glm-5.3"
+}

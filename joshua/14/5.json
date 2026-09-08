@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Imayna Yahwem kamachirqan ⟨את⟩ Mosheta (Moshe), chaynollataq Israelpa churinkuna ruwarqankum, hinaspa ⟨את⟩ hallp'ata rakinakurqanku.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta (Moshe)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynollataq"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ruwarqankum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "rakinakurqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:20:24.110253092Z",
+  "model": "glm-5.3"
+}

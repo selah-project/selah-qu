@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Nirqanmi: Riy, qampaq mankuna mañakuy wasiykipa hawamanta, ⟨את⟩ llapan wasi masiykikunamanta, ch'usaq mankuna; ama pisiyachiychu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "riy"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "mañakuy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "mankuna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "wasiykipa hawanmanta"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩manta",
+      "marks": "llapan wasi masiykikuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "wasi masiykikuna"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "mankuna"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "pisiyachiychu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:25:58.090200184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Chaysi Shaul willaqkunnata Yishiman kacharqan, nispa: Ñuqaman kachaway ⟨את⟩ Davidta, churiykita, uwihakunapi kasta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "willaqkunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishi (Jesé)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "kachaway"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "churiyki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasta"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "uwihakunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:14:40.362915488Z",
+  "model": "glm-5.3"
+}

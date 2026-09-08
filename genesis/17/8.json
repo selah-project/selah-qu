@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Hinaspa qamman, qampa muryniykiman qhipanta, ⟨את⟩ hallp'ata sayasqayki hallp'ata, ⟨את⟩ llapan Kanaan hallp'ata, wiñay kapuypaq qusaq; hinaspa paykunamanmi Elohim kanqa.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "hinaspa muryniykiman"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "qhipanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata sayasqayki hallp'ata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "sayasqayki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan Kanaan hallp'ata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "kapuypaq"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-07T23:57:07.240621791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Israelpa apunpaqm lluqsimurqan, ⟨את⟩ sillestawan wancharqan, hinaspa ⟨את⟩ carru-t'aqakunatawan; hinaspa Aramwan hatun nanachikuwanmi wancharqan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsimurqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpaq"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wancharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sillesta"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "sillesta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "carru-t'aqakunata"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "carru-t'aqakunata"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "hinaspa wancharqan"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aramwan"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "nanachikuwan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T05:17:16.881045711Z",
+  "model": "glm-5.3"
+}

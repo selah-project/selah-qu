@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 93,
+  "translation": "Yahwem kamachirqan, hat'un kayta ch'urarqan; Yahwem atiyninta ch'urarqan, k'aspiykawan awaturqan; chaymi kay pachapas sayachisqa kachkan, mana imamanta muyunmanchu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "hat'un kayta"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ch'urarqan"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ch'urarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "עז",
+      "gloss": "atiyninta"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "k'aspiykawan awaturqan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "sayachisqa kachkan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "kay pachapas"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana imamanta"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "munyunmanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:00.366585961Z",
+  "model": "glm-5.3"
+}

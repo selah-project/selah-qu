@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Pay nirqan: Manam risaqchu, siqrisaqmi ñuqap hallp'ayman, ñuqap paqarisqaymanmi risaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "risaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "siqrisaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ñuqap hallp'ay"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa man"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ñuqap paqarisqayman"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "risaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:23:52.742760996Z",
+  "model": "glm-5.3"
+}

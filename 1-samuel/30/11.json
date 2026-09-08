@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Tarirqankum huk Mitsrayim runata chakrapi; ⟨את⟩ payta Davidman aparqanku, payman t'antam qurqanku, mikhurqan, unawan upyachirqanku.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "tarirqanku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runa"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chakrapi"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "aparqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "Mitsrayim runa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidman"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "qurqanku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "mikhurqan"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "upyachirqanku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unawan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:29:05.481601756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa ⟨את⟩ olahta qayllachirqan, kamachikusqan hinam rurirqan.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "qayllachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olahta"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "rurirqan"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kamachikusqan hina"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:30.883715701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Tsorpa llasaqnin: waqaykachaychik, Tarshishpa wamp'unkuna; chinkachikunam, mana wasiyuq, mana hayk'unayuq; Kitim (Chipre) hallp'amanta willasqa karqam paykunaman.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "llasaqnin"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "waqaykachaychik"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "wamp'unkuna"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "chinkachikunam"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "mana wasiyuq"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "mana hayk'unayuq"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "willasqa karqam"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:09:22.728190391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "\"Aharonman (Aarón) rimay, hinaspa kayta ninayki: 'nerotakunata hanaqman churaykuptiyki ⟨את⟩ menora ñawpaqman, qanchis nerotakuna q'anchayninta churankunmi.'\"",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "rimay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonman (Aarón)"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "hinaspa ninayki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "churaykuptiyki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nerotakunata"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "nerotakunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ñawpaqman"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "q'anchayninta churankun"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "nerotakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T01:24:44.975602099Z",
+  "model": "glm-5.3"
+}

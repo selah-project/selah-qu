@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa phatasqata hak'uyta wiñaykunki runakunap ñawpaqenpin, ⟨את⟩ qamwan puriqkunap.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "hinaspa wiñaykunki"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "phatasqata hak'uyta"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ñawpaqenpin"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "puriqkunap"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ qamwan"
+    }
+  ],
+  "timestamp": "2026-09-08T07:06:49.436588674Z",
+  "model": "glm-5.3"
+}

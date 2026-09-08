@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chaymanta ninmi: «¿Manachu ñuqap umalliqniykuna llapan apukuna huklla?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ninmi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "¿manachu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ñuqap umalliqniykuna"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "llapan huklla"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukuna"
+    }
+  ],
+  "timestamp": "2026-09-08T05:57:30.094669909Z",
+  "model": "glm-5.3"
+}

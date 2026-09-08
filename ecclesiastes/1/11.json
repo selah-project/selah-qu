@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ñawpaqkunap yuyayninpaq manam ⟨kan⟩chu; hinaspa qhipaman hamuqkunapas, paykuna qhipa kaqkunawan kaptin, manam paykunap yuyaynin kanqachu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "manam"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "yuyaynin"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "ñawpaqkunap"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinaspa ... pas"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "qhipaman hamuqkunap"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunap"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "yuyaynin"
+    },
+    {
+      "surface": "עם",
+      "gloss": "qhipa kaqkunawan"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "qhipa kaqkunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T14:37:29.471252301Z",
+  "model": "glm-5.3"
+}

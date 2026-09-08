@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Ama sunquykipi ⟨את⟩ wawqeykita ch'ikiychu; cheqas llank'apuni ⟨את⟩ masiykita, hinaspa ama paypa huchanta paypa patapi apaychu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "ch'ikiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawqeykita"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wawqeykiykita"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "sunquykipi"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "llank'ay"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "llank'apuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masiykiykita"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "masiykiykita"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "apay"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa patapi"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "huchanta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:06:34.791334073Z",
+  "model": "glm-5.3"
+}

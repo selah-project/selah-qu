@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Ama masiykiqasqa llulla willakuyta willankichu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "willanki"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "masiykiqasqa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "willakuy"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llula"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:59.023024946Z",
+  "model": "glm-5.3"
+}

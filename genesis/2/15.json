@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Yahwe Elohim ⟨את⟩ runata aparqan, Edén huertapi churarqan, chayta llamk'anampaq, chayta waqaychanampaqpas.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "aparqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "huertapi"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edén"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "llamk'anampaq"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "waqaychanampaqpas"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:39.793865829Z",
+  "model": "glm-5.3"
+}

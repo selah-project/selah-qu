@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Imaraykuchus paykunap wiñan Sedompa wiñanmanta hamun, Amorahpa chakrakunamantawan; paykunap uvankunaqa miyu uvankunam, paykunap huñunkunaqa raramiyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "Sedompa wiñanmanta"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom (Sodoma)"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "paykunap wiñan"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "hinaspa ...chakrakunamanta"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorah (Gomorra)"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "paykunap uvankuna"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "uvankuna"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "miyu"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "huñunkuna"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "raramiyo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:27:13.826506152Z",
+  "model": "glm-5.3"
+}

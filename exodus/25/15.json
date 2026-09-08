@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Sandulap takyakunanpi k'aspikuna kanqa; sandulamanta manam t'eqesqakunqachu.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "takyakunananpi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandulap"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "k'aspikuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "t'eqesqakunqachu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "sandulamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:36:37.375751832Z",
+  "model": "glm-5.3"
+}

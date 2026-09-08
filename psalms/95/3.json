@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 95,
+  "translation": "Yahweqa hatun Elmi, hinaspa hatun apum tukuy dioskunap hawanpim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "hinaspa apu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:32.888160483Z",
+  "model": "glm-5.3"
+}

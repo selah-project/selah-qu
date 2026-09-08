@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Icha shorqa sirwinta utaq sirwiq warminta wantaptinqa, kimsa chunka sheqel qullqitam kamachiqninman qunqa, shorqataq rumiwan wañuchisqa kanqa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "icha"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "sirwinta"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "wantaptinqa"
+    },
+    {
+      "surface": "השור",
+      "gloss": "shorqa"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "sirwiq warminta"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqitam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "sheqel"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qunqa"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "kamachiqninman"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "shorqataq"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "rumiwan wañuchisqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:37.737611614Z",
+  "model": "glm-5.3"
+}

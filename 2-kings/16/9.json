@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Ashur (Asiria) apunm chayta uyaruspa Ashur apun Dameshekman (Damasco) orqomurqanmi, chayta hap'irqanmi, Runakunta Qirman (Kir) qatirqanmi, hinaspa ⟨את⟩ Retsinta wañuchirqanmi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyaruspa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "orqomurqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dameshek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "chayta hap'irqan"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "qatirqan"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Qirman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Retsinta"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsinta"
+    },
+    {
+      "surface": "המית",
+      "gloss": "wañuchirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:39:33.401499876Z",
+  "model": "glm-5.3"
+}

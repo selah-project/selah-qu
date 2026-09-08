@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yahwepa ⟨את⟩ kamachikuyninta, hinaspa ⟨את⟩ paqtachasqankunata waqaychanaykipaqmi — mayqinkunata kay p'unchaw ñuqam qamta kamachini, qampa allinraykiykipaq.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "waqaychanaykipaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamachikuyninta"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kamachikuyninta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paqtachasqankunata"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "paqtachasqankunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "qamta kamachini"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "allinrayki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:26:36.100842584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 57,
+  "translation": "Kamachiqman. Ama chinkachichu. Davidpa miktam ⟨poema qpila qillqa⟩. Shaul (Saúl) ñawpaqenmanta t'uquman chinpikusqanpi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kamachiqman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "chinkachichu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "chinpikusqanpi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqenmanta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "t'uquman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:58.526257627Z",
+  "model": "glm-5.3"
+}

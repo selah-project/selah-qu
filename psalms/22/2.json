@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Elniy, Elniy, imaraykuta saqiwanki? Karqanki qhalliyniymanta, rawqariy rimayniymantawanmi.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Elniy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elniy"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imaraykuta"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "saqiwanki"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "karqanki"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "qhalliyniymanta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimayniymantawan"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "rawqariy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:20.793107247Z",
+  "model": "glm-5.3"
+}

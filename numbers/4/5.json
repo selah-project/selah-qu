@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Mach'ayta astakunaptinmi Aharon churinkunawan hamunqaku, hinaspa ⟨את⟩ paroketata (masakpa awnanta) urmachinqaku, hinaspa chaywan ⟨את⟩ Edut sandillonta wishq'unqaku.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "hamunqaku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "churinkunawan"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "astakunaptin"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "mach'ay"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "urmachinqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paroketata"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "paroketa"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "masakpa awnan"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "wishq'unqaku"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaywan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edut sandillonta"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sandillu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Edut"
+    }
+  ],
+  "timestamp": "2026-09-08T01:16:33.500622338Z",
+  "model": "glm-5.3"
+}

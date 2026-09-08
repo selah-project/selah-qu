@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "⟨את⟩ Tantakuy wasita, hinaspa ⟨את⟩ testigopa arkata, hinaspa ⟨את⟩ kapporeta — paypa patanpi kaqta —, hinaspa ⟨את⟩ wasipa llamk'anankunata llapanta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tantakuy wasita"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Tantakuy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "testigopa arkata"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "testigopa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kapporeta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa patanpi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "llamk'anankuna"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wasipa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:41:41.272271172Z",
+  "model": "glm-5.3"
+}

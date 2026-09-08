@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "psalms 126:6",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 126,
+ "translation": "Purispa purinqa, waqaspa tarpu muruta apa⟨spa⟩; hamuspa hamunqami k'anchay hawariywan, ichha tawqakunata apaspa.",
+ "tokens": [
+  {
+   "surface": "הלוך",
+   "gloss": "purispa"
+  },
+  {
+   "surface": "ילך",
+   "gloss": "purinqa"
+  },
+  {
+   "surface": "ובכה",
+   "gloss": "waqaspa"
+  },
+  {
+   "surface": "נשא",
+   "gloss": "apa"
+  },
+  {
+   "surface": "משך",
+   "gloss": "tarpu muru"
+  },
+  {
+   "surface": "הזרע",
+   "gloss": "⟨chaqru⟩"
+  },
+  {
+   "surface": "בא",
+   "gloss": "hamuspa"
+  },
+  {
+   "surface": "יבוא",
+   "gloss": "hamunqa"
+  },
+  {
+   "surface": "ברנה",
+   "gloss": "k'anchay hawariywan"
+  },
+  {
+   "surface": "נשא",
+   "gloss": "apaspa"
+  },
+  {
+   "surface": "אלמתיו",
+   "gloss": "ichha tawqakunata"
+  }
+ ],
+ "timestamp": "2026-09-08T10:27:18.113243325Z",
+ "model": "glm-5.3"
+}

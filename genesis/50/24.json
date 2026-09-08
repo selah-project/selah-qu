@@ -1,0 +1,103 @@
+{
+ "tier": "glm-5.2",
+ "verse": 24,
+ "ref": "genesis 50:24",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 50,
+ "translation": "Yosefmi wawqenkunaman nirqan: ñuqam wañusaqmi; icha Elohimmi ⟨את⟩ qamkunata yuyasqa yuyanqam, hinaspa ⟨את⟩ qamkunata kay hallp'amanta hurqunqam, chay hallp'aman Abrahamman (Abrahán), Itsjakman (Isaac), Yaakovman (Jacob) chaskisqa vowman.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "יוסף",
+   "gloss": "Yosef"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "אחיו",
+   "gloss": "wawqenkunaman"
+  },
+  {
+   "surface": "אנכי",
+   "gloss": "ñuqa"
+  },
+  {
+   "surface": "מת",
+   "gloss": "wañusaq"
+  },
+  {
+   "surface": "ואלהים",
+   "gloss": "icha Elohim"
+  },
+  {
+   "surface": "פקד",
+   "gloss": "yuyasqa"
+  },
+  {
+   "surface": "יפקד",
+   "gloss": "yuyanqam"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ qamkunata",
+   "marks": "qamkunata"
+  },
+  {
+   "surface": "והעלה",
+   "gloss": "hinaspa hurqunqam"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ qamkunata",
+   "marks": "qamkunata"
+  },
+  {
+   "surface": "מן",
+   "gloss": "qmanta"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "hallp'a"
+  },
+  {
+   "surface": "הזאת",
+   "gloss": "kay"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "hallp'aman"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "chay"
+  },
+  {
+   "surface": "נשבע",
+   "gloss": "chaskisqa vow chaskirqan"
+  },
+  {
+   "surface": "לאברהם",
+   "gloss": "Abrahamman"
+  },
+  {
+   "surface": "ליצחק",
+   "gloss": "Itsjakman"
+  },
+  {
+   "surface": "וליעקב",
+   "gloss": "Yaakovman"
+  }
+ ],
+ "timestamp": "2026-09-08T00:19:37.898547798Z",
+ "model": "glm-5.3"
+}

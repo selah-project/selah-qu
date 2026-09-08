@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Taripariy, imarayku puñunkichik, Adonay? Siriy, ama wiñaypaq ñuqaykuta saqequaykichikchu.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "taripariy"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "puñunkichik"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "siriy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "saqequaykichik"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:40.458459477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Rimaynikiq ñawpaqnpin chiqaqmi; wiñaypak llapan allin kamachiyniki chiqanmi.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ñawpaqnpin"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "rimaynikiq"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chiqaqmi"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "wiñaypak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "allin kamachiyniki"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "chiqanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:59.225222880Z",
+  "model": "glm-5.3"
+}

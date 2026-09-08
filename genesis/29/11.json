@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yaakovqa Rajelta much'arqanmi, hinaspa ⟨את⟩ kunkanta huqarirqan, waqarqan.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "much'arqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rajelta"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "huqarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunkanta"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "kunkan"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "waqarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:08.658839424Z",
+  "model": "glm-5.3"
+}

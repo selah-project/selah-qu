@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Ornanmi kutirirqan, ⟨את⟩ angelta rikhurirqan; pusac churiyinkuna paywan kashaspa pakakurqanku; Ornanmi triguta trillachkarqan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutirirqan"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Ornan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "rikhurirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "angelta"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "angelta"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "pusac"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churiyinkuna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "pakakurqanku"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "Ornanmi"
+    },
+    {
+      "surface": "דש",
+      "gloss": "trillachkarqan"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "triguta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:47:14.620453395Z",
+  "model": "glm-5.3"
+}

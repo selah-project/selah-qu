@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaysi Israelpa apun chayllaman — Elohimpa runan willasqan chayta — runakunata apachirqan hark'anapaq, chaypi waqaychakurqan, mana huk kutillachu, mana iskay kutillachu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "apachirqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "chaylla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinchus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "willasqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "hark'anapaq"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "waqaychakurqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huk kutilla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iskay kutilla"
+    }
+  ],
+  "timestamp": "2026-09-08T05:28:24.732665803Z",
+  "model": "glm-5.3"
+}

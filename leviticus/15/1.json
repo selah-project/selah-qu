@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Hinaspa Yahwem Moshe (Moisés)wan, Aharon (Aarón)wan rimarqan, ninan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…wan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "…wan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Aarón)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ninan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:59:46.475079414Z",
+  "model": "glm-5.3"
+}

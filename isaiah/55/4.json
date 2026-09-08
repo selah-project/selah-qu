@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Qhaway, willakuq hina qoy runakunap ayllunkunaman, umalliq hinaspa kamachiq hina runakunap ayllunkunaman.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "עד",
+      "gloss": "willakuq"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "runakunap ayllunkunaman"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "umalliq"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "kamachiq hina"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "runakunap ayllunkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:35:17.615210620Z",
+  "model": "glm-5.3"
+}

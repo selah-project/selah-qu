@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chaymanta Moshem altarta ruwarqan, chaypa sutinta Yahwe-Nisim nirqan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshem"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:20.966426531Z",
+  "model": "glm-5.3"
+}

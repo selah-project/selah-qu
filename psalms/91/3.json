@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "Paymi qamta illaqpa waska ch'urwanmanta, wañuchiq unqhuymanta qispichinqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "qamta qispichinqa"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "waska ch'urwanmanta"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "illaqpa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "unqhuymanta"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "wañuchiq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:02.841441975Z",
+  "model": "glm-5.3"
+}

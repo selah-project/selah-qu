@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Sayarqankum hinaspa ⟨את⟩ Yerushalayimpi (Jerusalén) kaq altarkunata hurqurqanku; llapan q'uruchina altarkunatam hinaspa ⟨את⟩ hurquspa Qidron wayq'uman wikch'urqanku.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "sayarqanku"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "hurqurqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarkunata"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "altarkuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "q'uruchina altarkuna"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "hurquspa"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "wikch'urqanku"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "wayq'uman"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Qidron"
+    }
+  ],
+  "timestamp": "2026-09-08T13:17:47.918076294Z",
+  "model": "glm-5.3"
+}

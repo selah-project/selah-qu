@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chiqaq runap chiqap kayninmi ñanta chiqanchan; hinaspa paypa haqeqninqa haqe runam urmakun.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "chiqap kaynin"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "chiqaq runap"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "chiqanchan"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ñanta"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "hinaspa paypa haqeqninqa"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "urmakun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haqe runa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:41:10.443378807Z",
+  "model": "glm-5.3"
+}

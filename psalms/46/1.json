@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Willakuqman ⟨churanapaq⟩, Korachpa (Coré) wawankunapaq, Alamotpi, takim.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Willakuqman"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunapaq"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "takim"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:22.065992408Z",
+  "model": "glm-5.3"
+}

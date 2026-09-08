@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 58,
+  "translation": "Kunkawan q'apariy, ama pakaychu; shofar hina kunkaykita hanaqchan, hinaspa willay runaymanqa pisqankunata, Yaakov (Jacob) pa wasinmanpas huchankunata.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "q'apariy"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "kunkawan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "pakaychu"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "shofar hina"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "hanaqchan"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "kunkaykita"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "hinaspa willay"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "runaymanqa"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "pisqankunata"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "wasinmanpas"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "huchankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T06:39:26.904616339Z",
+  "model": "glm-5.3"
+}

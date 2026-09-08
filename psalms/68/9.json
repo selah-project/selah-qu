@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Hallp'a larqarqanmi, chaymantataq hanaq pacham unuta ch'utirqan Elohimpa ñawpaqninmanta — kay Sinaim, Elohimpa ñawpaqninmanta, Israelpa Elohimninpa ñawpaqninmanta.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "larqarqanmi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chaymantataq"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pacham"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "unuta ch'utirqan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqninmanta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqninmanta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimninpa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:00.657525888Z",
+  "model": "glm-5.3"
+}

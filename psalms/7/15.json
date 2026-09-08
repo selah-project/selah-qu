@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Qhawariy: millay ruwaywanmi paqarikun, hinaspa amañata wiksanpi churakurqan, hinaspa llullata wacharqan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "paqarikun"
+    },
+    {
+      "surface": "און",
+      "gloss": "millay ruwaywan"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "hinaspa wiksanpi churakurqan"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "amañata"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "hinaspa wacharqan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llullata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:40.062827117Z",
+  "model": "glm-5.3"
+}

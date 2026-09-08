@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa kohen qhawasqam; kanchaq, charipi yuraq shet ⟨yuraq rikhurimuq⟩ kan, chayqa chukchata yuraqman tikrarqan, hinaspa shetpipas kawsaq aycha kan.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "hinaspa qhawasqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kanchaq"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "shet"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "yuraq"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "charipi"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "tikrarqan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "chukchata"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "yuraqman"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "hinaspa kawsaq aycha rikhurimuynin"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "shetpipas"
+    }
+  ],
+  "timestamp": "2026-09-08T00:58:08.178994993Z",
+  "model": "glm-5.3"
+}

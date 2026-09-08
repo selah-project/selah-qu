@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 52,
+  "translation": "Imaraykuchus kayhinam Adonay Yahwem nirqan: Mitsrayiman (Egipto) ñawpaqta ñuqap runaymi uraykurqan chaypi tiyanapaq; Ashur (Asiria)taq mana imarayku ñak'arichirqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimman"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "uraykurqan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqap runay"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "tiyanapaq"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "Ashurtaq"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "mana imarayku"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "ñak'arichirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:35:06.876713905Z",
+  "model": "glm-5.3"
+}

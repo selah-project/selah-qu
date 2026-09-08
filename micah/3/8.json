@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ñuqataqmi Yahwep ⟨את⟩ Espiritunta, kamachiytawan, atiytawan hunt'asqami kani; Yaakovpa (Jacobpa) llakikachasqanta, Israelpa huchanta willanaypaq.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Ñuqataqmi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "kani"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "hunt'asqami"
+    },
+    {
+      "surface": "כח",
+      "gloss": "atiytawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwep Espiritunta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Espiritunta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kamachiytawan"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "atiytawan"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "willanaypaq"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakovpa (Jacobpa)"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "llakikachasqanta"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "huchanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:04:36.758417955Z",
+  "model": "glm-5.3"
+}

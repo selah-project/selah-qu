@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Kacharqan ⟨את⟩ Elyaqimta (Eliacim), wasin kamachikuqta, hinaspa ⟨את⟩ Shebnata (Sobna) qillqaqta, hinaspa ⟨את⟩ kohenkunap curakunata, saqokunan p'istirikuspa, Yeshayahu (Isaías) Amotspa churin navipaqman.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Kacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyaqimta"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyaqimta (Eliacim)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamachikuqta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shebnata"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Shebnata (Sobna)"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "qillqaqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kohenkunap curakunata"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "curakuna"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkunap"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "p'istirikuspa"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "saqokunan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu (Isaías)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotspa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:21:19.409507281Z",
+  "model": "glm-5.3"
+}

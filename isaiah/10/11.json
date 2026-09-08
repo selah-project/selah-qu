@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Manachu Shomronman, paypa elilninkunaman ruwasqay hina, Yerushalayimmanwan (Jerusalén), paypa rurasqa diosninkunamanwan ruwasaq?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ruwasqay"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Shomronman"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "paypa elilninkunamanwan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chay hina"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ruwasaq"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalayimmanwan (Jerusalén)"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "paypa rurasqa diosninkunamanwan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:56:50.313583147Z",
+  "model": "glm-5.3"
+}

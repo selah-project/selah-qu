@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Paypa tiyana wasinmanta qhawarqan, llapan hallp'api tiyaqkunaman.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "tiyana wasinmanta"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "paypa tiyasqanmanta"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:20.165158816Z",
+  "model": "glm-5.3"
+}

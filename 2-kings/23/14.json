@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspa ⟨את⟩ saywa rumikunata p'akirqan, ⟨את⟩ Asherakunata kuchirqan, ⟨את⟩ chaykunap tiyanankunata runap tullukunawan hunt'arqan.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "hinaspa p'akirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saywa rumikunata"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "saywa rumikunata"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "kuchirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherakunata"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherakunata"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "hunt'arqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiyanankunata"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "tiyanankunata"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tullukunawan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    }
+  ],
+  "timestamp": "2026-09-08T05:48:02.037620842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Musphay hina, huk runa ripuspa hina, Adonay; llaqtapi paykunap rikch'ayninta q'uchachinqaki.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "musphay hina"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "ripuspa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "paykunap rikch'ayninta"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "q'uchachinqaki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:57.617779511Z",
+  "model": "glm-5.3"
+}

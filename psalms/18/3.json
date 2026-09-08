@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Yahwem ñuqap rumi kanmi, ñuqap pukara, ñuqap qispichikuw, ñuqap El, ñuqap rumiy, paypi ñuqa amachakuni; ñuqap rikra, ñuqap qispichiypanpa ch'ikllu, ñuqap hanaq pukaraypas.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "ñuqap rumi"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "ñuqap pukara"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "ñuqap qispichikuw"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqap El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ñuqap rumiy"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "amachakuni"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "ñuqap rikra"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "ñuqap qispichiypanpa"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ch'ikllu"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ñuqap hanaq pukaraypas"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:04.772268730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 33:32",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Qamtaq paykunaman takina hina kanki, munakuq takina, sumaq taqewan, allin waqachiq hina; ⟨את⟩ simikunaykikunata uyarinku, icha ruwaqkuna mana ⟨את⟩ chaykuna kankuchu.",
+  "tokens": [
+    {
+      "surface": "והנך",
+      "gloss": "qamtaq ... kanki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "כשיר",
+      "gloss": "takina hina"
+    },
+    {
+      "surface": "עגבים",
+      "gloss": "munakuq"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "קול",
+      "gloss": "taqe"
+    },
+    {
+      "surface": "ומטב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "waqachiq"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "uyarinku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simikunaykikunata"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "simikunaykikuna"
+    },
+    {
+      "surface": "ועשים",
+      "gloss": "ruwaqkuna"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "mana kankuchu"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ chaykuna",
+      "marks": "chaykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T08:26:22.325135470Z",
+  "model": "glm-5.3"
+}

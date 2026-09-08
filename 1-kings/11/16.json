@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Raykumi suqta killa Yoab hinallataq llapan Israel chaypi tiyarqanku, llapan qharita Edompi tukuchisqankama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "raykumi"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "killa"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyarqanku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinallataq llapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...kama"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "tukuchisqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "qharita"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edompi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:09:30.265724661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 19,
+ "ref": "psalms 9:19",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 9,
+ "translation": "Wakcham wiñaypaq onqochisqa kanqachu; llakikuqkunap suyakuynin wiñaykama chinkanqachum.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "⟨manam⟩"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "לנצח",
+   "gloss": "wiñaypaq"
+  },
+  {
+   "surface": "ישכח",
+   "gloss": "onqochisqa kanqa"
+  },
+  {
+   "surface": "אביון",
+   "gloss": "wakcha"
+  },
+  {
+   "surface": "תקות",
+   "gloss": "suyakuynin"
+  },
+  {
+   "surface": "ענוים",
+   "gloss": "llakikuqkunap"
+  },
+  {
+   "surface": "תאבד",
+   "gloss": "chinkanqa"
+  },
+  {
+   "surface": "לעד",
+   "gloss": "wiñaykama"
+  }
+ ],
+ "timestamp": "2026-09-08T09:32:29.545168273Z",
+ "model": "glm-5.3"
+}

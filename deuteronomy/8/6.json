@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Yahwepa, Elohimniykipa ⟨את⟩ kamachikuykunata waqaychanki, paypa ñanninpi purinaykipaq, hinaspa ⟨את⟩ payta mancharinaykipaq.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "waqaychanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamachikuykunata"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kamachikuykunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniykipa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "purinaykipaq"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "paypa ñanninpi"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "hinaspa mancharinaykipaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:35:53.241635384Z",
+  "model": "glm-5.3"
+}

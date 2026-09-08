@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Pichus ⟨את⟩ chaywan tarikun qampa yanapanaykikunamanta, chayqa wañunmi; hinaspataq ñuqaykupas apuypaq yanapanakunaman tukunqaku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Pichus"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tarikun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chaywan",
+      "marks": "qampa yanapanaykikunamanta"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "qampa yanapanaykikunamanta"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "wañunmi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinaspataq ... pas"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñuqayku"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "tukunqaku"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "apuypaq"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "yanapanakunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:02:40.421129150Z",
+  "model": "glm-5.3"
+}

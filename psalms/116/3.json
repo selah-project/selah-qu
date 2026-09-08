@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Wañuy waskakunam ñuqata muyurparqanku, Sheolpa sayaykunañataq ñuqata tariparqanku; nanay hinaspa llakikuyta tarikunim.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "ñuqata muyurparqanku"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "waskakuna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuy"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "sayaykunaña"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolpa"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "ñuqata tariparqanku"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "nanay"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "llakikuyta"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "tarikunim"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:17.947207203Z",
+  "model": "glm-5.3"
+}

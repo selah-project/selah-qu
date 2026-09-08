@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Bendisisaqmi qamta bendisqaykikunata, qamta millwasqaykikunataq millwasaq; qampi llapa allpa ayllukuna bendisasqa kanqaku.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "bendisisaqmi"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "qamta bendisqaykikunata"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "qamta millwasqaykikunata"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "millwasaq"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "bendisasqa kanqaku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllukuna"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "allpa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:55:13.830275584Z",
+  "model": "glm-5.3"
+}

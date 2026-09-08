@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 87,
+  "translation": "Korachpa churinkunap mizmor, taky. Santo orqokunapim paqarichisqan ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taky"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "paqarichisqan"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "orqokunapi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:05.722847612Z",
+  "model": "glm-5.3"
+}

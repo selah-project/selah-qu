@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 10:7",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa chay unanchakuna qamman chayamuqtinkum, imapas makiyki tarinqanta ruway; Elohim qamwanmi kashan rayku.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "hinaspa chasqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chay"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "chayamuqtinkum"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "unanchakuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruway"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tarinqanta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwanmi kashan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:09:06.074362117Z",
+  "model": "glm-5.3"
+}

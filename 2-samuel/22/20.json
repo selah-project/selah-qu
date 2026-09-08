@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa ⟨את⟩ ñuqata hatun k'itiman lluqsichirqanmi, qispichirqan, ñuqata khusiyasqanrayku.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "hinaspa lluqsichirqan"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "hatun k'itiman"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "qispichirqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "khusiyarqan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqata"
+    }
+  ],
+  "timestamp": "2026-09-08T04:54:38.929078120Z",
+  "model": "glm-5.3"
+}

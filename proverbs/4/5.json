@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaskiy yachayta, chaskiy hamut'ayta; ama qunqaychu, hinaspa ama simiy rimaykunamanta t'ikraychu.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "chaskiy"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "chaskiy"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "hamut'ayta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "qunqaychu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "תט",
+      "gloss": "t'ikraychu"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "rimaykunamanta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simiy"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:52.321019329Z",
+  "model": "glm-5.3"
+}

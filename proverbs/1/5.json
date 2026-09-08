@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yachaq uyarinqam, hinaspa yachachiytam churanqam; hinaspa hap'iq yachaq willakuykunatam chaskinqa.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "uyarinqam"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "hinaspa churanqa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yachachiyta"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "hinaspa hap'iq yachaq"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "willakuykuna"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "chaskinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:57.939068251Z",
+  "model": "glm-5.3"
+}

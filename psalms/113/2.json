@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 113,
+  "translation": "Yahwepa sutinqa bendisqa ⟨kan⟩mi, kunanmanta wiñaykama.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "bendisqa"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kunanmanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:53.928095527Z",
+  "model": "glm-5.3"
+}

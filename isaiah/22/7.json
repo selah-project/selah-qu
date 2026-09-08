@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 22:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Chaymanta aswan allin q'eshwaraykikuna awqanankunamantam hunt'akurqanku, hinaspa kawallurunakuna punkupi sayarichikurqanku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "aswan allin"
+    },
+    {
+      "surface": "עמקיך",
+      "gloss": "q'eshwaraykikuna"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "hunt'akurqanku"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "awqanankunamanta"
+    },
+    {
+      "surface": "והפרשים",
+      "gloss": "hinaspa kawallurunakuna"
+    },
+    {
+      "surface": "שת",
+      "gloss": "sayarichiy"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "sayarichikurqanku"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "punkupi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:06:41.139664141Z",
+  "model": "glm-5.3"
+}

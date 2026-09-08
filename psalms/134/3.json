@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 134,
+  "translation": "Tsiyonmanta Yahwem qanta bendichisqaykim, hanaq pachata, kay pachatawan ruraq.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "qanta bendichisqaykim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyonmanta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "kay pachatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:32.855269278Z",
+  "model": "glm-5.3"
+}

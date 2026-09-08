@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Sapa runa ⟨את⟩ masinta yanaparqanm, hinaspa wawqeyman nirqan: Sinchiyariy.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masinta"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "masinta"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "yanaparqanm"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "wawqeyman"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Sinchiyariy"
+    }
+  ],
+  "timestamp": "2026-09-08T06:22:35.248256712Z",
+  "model": "glm-5.3"
+}

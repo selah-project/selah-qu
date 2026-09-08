@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hinaspa ⟨את⟩ Tsidqiyyahupa ñawinkunata moqochirqan, hinaspa q'illay watarwan watarqan, Babilman ⟨את⟩ payta apusqaku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ñawinkunata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawinkunata"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidqiyyahupa"
+    },
+    {
+      "surface": "עור",
+      "gloss": "moqochirqan"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "hinaspa watarqan"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "q'illay watarwan"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "apusqaku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilman"
+    }
+  ],
+  "timestamp": "2026-09-08T07:30:23.145841664Z",
+  "model": "glm-5.3"
+}

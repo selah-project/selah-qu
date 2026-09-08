@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 54,
+  "translation": "Millaychaqmi ñuqap awqakunaman kutimunqa; cheqan kayniykiwan tukuchinku ⟨qam⟩.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "kutimunqa"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "millaychaq"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "ñuqap awqakunaman"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "cheqan kayniykiwan"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "tukuchinku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:35.733623026Z",
+  "model": "glm-5.3"
+}

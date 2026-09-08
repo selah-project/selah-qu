@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa Achaz ⟨את⟩ qullqita, hinaspa ⟨את⟩ qurita — Yahwepa wasinpipas, apu wasin qullqi wasinkunapipas tarisqata — Ashur apunman kacharqan, suñay hina.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Hinaspa hapirqan"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullqita"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qullqita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qurita"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tarisqata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "qullqi wasinkunapipas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apunman"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "suñayta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:47.471574005Z",
+  "model": "glm-5.3"
+}

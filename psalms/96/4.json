@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "psalms 96:4",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 96,
+ "translation": "Yahweqa hatunmi, sincham yupaychasqa; payqa tukuy dioskunamanta askha hatunmi, mancharikuypuni.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "—"
+  },
+  {
+   "surface": "גדול",
+   "gloss": "hatunmi"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweqa"
+  },
+  {
+   "surface": "ומהלל",
+   "gloss": "yupaychasqa"
+  },
+  {
+   "surface": "מאד",
+   "gloss": "sincham"
+  },
+  {
+   "surface": "נורא",
+   "gloss": "mancharikuypuni"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "payqa"
+  },
+  {
+   "surface": "על",
+   "gloss": "askha hatunmi"
+  },
+  {
+   "surface": "כל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "dioskunamanta"
+  }
+ ],
+ "timestamp": "2026-09-08T10:11:28.350491176Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Chaymi rayku: qammi kanki paykunap kallpanpa sumaq k'anchaynin, qampa munayniykiwanmi waqranchik hananchasqa ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chaymi rayku"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sumaq k'anchaynin"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "paykunap kallpanpa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qammi kanki"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "qampa munayniykiwan"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "hananchasqa"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "waqranchik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:01.156345915Z",
+  "model": "glm-5.3"
+}

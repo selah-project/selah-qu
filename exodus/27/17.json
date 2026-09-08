@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "exodus 27:17",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 27,
+ "translation": "Kanchap llapan saywankuna muyuriqpi qullqiwan ch'antasqa kankum; wiskunkunapas qullqim, chakinkunapas antam.",
+ "tokens": [
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "עמודי",
+   "gloss": "saywankuna"
+  },
+  {
+   "surface": "החצר",
+   "gloss": "kanchap"
+  },
+  {
+   "surface": "סביב",
+   "gloss": "muyuriqpi"
+  },
+  {
+   "surface": "מחשקים",
+   "gloss": "qullqiwan ch'antasqa"
+  },
+  {
+   "surface": "כסף",
+   "gloss": "qullqi"
+  },
+  {
+   "surface": "וויהם",
+   "gloss": "wiskunkunapas"
+  },
+  {
+   "surface": "כסף",
+   "gloss": "qullqi"
+  },
+  {
+   "surface": "ואדניהם",
+   "gloss": "chakinkunapas"
+  },
+  {
+   "surface": "נחשת",
+   "gloss": "anta"
+  }
+ ],
+ "timestamp": "2026-09-08T00:37:30.348273690Z",
+ "model": "glm-5.3"
+}

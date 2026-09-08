@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa Kasdikunap llapa awqan, hayñiq wasi runapaq, ⟨את⟩ Yerushalayimpa muyuriqnin pirqakunata thaqaykurqanmi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "pirqakunata"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "pirqakunata"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqnin"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "thaqaykurqanmi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "awqan"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdikunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hayñiq wasi runa"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "runapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:48:15.604385698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Allin runapa wasinpi achka qollqemi; haqekunapa taripanpintaq llakikuymi.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runapa"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "qollqe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "achka"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "hinaspa haqekunapa taripanpinpi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haqekunapa"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "llakikuymi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:43:38.734382727Z",
+  "model": "glm-5.3"
+}

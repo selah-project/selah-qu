@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Sonqoy qamman nirqanmi: 'Ñuqap uyanita maskaway'; ⟨את⟩ uyaniykita, Yahwe, maskasaqmi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqoy"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "maskaway"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñuqap uyanita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyaniykita"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uyaniykita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "maskasaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:34.650474682Z",
+  "model": "glm-5.3"
+}

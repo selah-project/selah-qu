@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa Yarovamqa Aviyahpa p'unchawkunapipasñataq mana atiyninta kutichirqanchu; Yahwem payta mak'arqan, wañurqanm.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "atiyninta"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovamqa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ñataq"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "p'unchawkunapipas"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Aviyahpa"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "mak'arqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqanm"
+    }
+  ],
+  "timestamp": "2026-09-08T13:04:30.605985022Z",
+  "model": "glm-5.3"
+}

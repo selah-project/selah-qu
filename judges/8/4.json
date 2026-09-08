@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Giddeonqa Yordanman chayarqan; paymi chayarqan, kimsa pachak runakuna ⟨את⟩ paywan kashaspa — sayk'usqas, qatillashaspa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Giddeonqa"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yordanman"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kashaspa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "paywan — H854 preposicional 'paywan'"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "sayk'usqas"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "qatillashaspa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:43:51.062285982Z",
+  "model": "glm-5.3"
+}

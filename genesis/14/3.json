@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Llapanku Siddim wayq'oman hukllakuspa chayarqanku — chayqa kachi qucham.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapanku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "chaykuna"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "hukllakuspa chayarqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "wayq'o"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Siddim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "ים",
+      "gloss": "qucha"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "kachi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:55:12.516501773Z",
+  "model": "glm-5.3"
+}

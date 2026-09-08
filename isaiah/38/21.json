@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 38:21",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Yeshayahu (Isaías)m nirqan: huk debelta te'inimunkunata hapichichichun, hinaspa hashchinpi mast'arichichun, chaymi kawsanqa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu (Isaías)"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "hapichichichun"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "huk debelta"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "te'inimunkuna"
+    },
+    {
+      "surface": "וימרחו",
+      "gloss": "hinaspa mast'arichichun"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "hashchinpi"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "chaymi kawsanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:21:41.503275987Z",
+  "model": "glm-5.3"
+}

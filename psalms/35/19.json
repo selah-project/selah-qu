@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Ama ñuqap awqaykuna llullata kusikuchunchu ñuqap ñakariywan; mana imarayku ñuqata ch'ikikunaqa ñawinkunata p'itinkachunchuchu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kusikuchunchu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap ñakariywan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ñuqap awqaykuna"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llullata"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ñuqata ch'ikikunaqa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mana imarayku"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "p'itinkachunchu"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ñawinkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:24.553104514Z",
+  "model": "glm-5.3"
+}

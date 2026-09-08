@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "2-chronicles 15:14",
+ "book": "2-chronicles",
+ "lang": "qu",
+ "chapter": 15,
+ "translation": "Hinaspa llapan Yahweman jurarqankum hatun ñawpaq klaawanwan, javera-wañariywan, trumpetakunawan, shofarkunawan.",
+ "tokens": [
+  {
+   "surface": "וישבעו",
+   "gloss": "hinaspa llapan ... jurarqankum"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahweman"
+  },
+  {
+   "surface": "בקול",
+   "gloss": "klaawanwan"
+  },
+  {
+   "surface": "גדול",
+   "gloss": "hatun"
+  },
+  {
+   "surface": "ובתרועה",
+   "gloss": "javerawan-wañariywan"
+  },
+  {
+   "surface": "ובחצצרות",
+   "gloss": "trumpetakunawan"
+  },
+  {
+   "surface": "ובשופרות",
+   "gloss": "shofarkunawan"
+  }
+ ],
+ "timestamp": "2026-09-08T14:31:09.954989481Z",
+ "model": "glm-5.3"
+}

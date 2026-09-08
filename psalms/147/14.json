@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "psalms 147:14",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 147,
+ "translation": "Saywaykimanmi shalomta churan, trigupa chiqtanwan hunt'asunki.",
+ "tokens": [
+  {
+   "surface": "השם",
+   "gloss": "churan"
+  },
+  {
+   "surface": "גבולך",
+   "gloss": "saywaykiman"
+  },
+  {
+   "surface": "שלום",
+   "gloss": "shalomta"
+  },
+  {
+   "surface": "חלב",
+   "gloss": "chiqtanwan"
+  },
+  {
+   "surface": "חטים",
+   "gloss": "trigupa"
+  },
+  {
+   "surface": "ישביעך",
+   "gloss": "hunt'asunki"
+  }
+ ],
+ "timestamp": "2026-09-08T10:32:59.695115661Z",
+ "model": "glm-5.3"
+}

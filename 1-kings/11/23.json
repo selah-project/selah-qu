@@ -1,0 +1,75 @@
+{
+ "tier": "glm-5.2",
+ "verse": 23,
+ "ref": "1-kings 11:23",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 11,
+ "translation": "Chaymanta Elohimsi payman huk awqata sayarichirqan ⟨את⟩ Rezonta, Elyadap churinta, mayqen ⟨את⟩ paymanta — Hadadezer, Tsobap apin, paypa apin — ayqirqan.",
+ "tokens": [
+  {
+   "surface": "ויקם",
+   "gloss": "sayarichirqan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "לו",
+   "gloss": "payman"
+  },
+  {
+   "surface": "שטן",
+   "gloss": "awqata"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Rezonta"
+  },
+  {
+   "surface": "רזון",
+   "gloss": "Rezon"
+  },
+  {
+   "surface": "בן",
+   "gloss": "churin"
+  },
+  {
+   "surface": "אלידע",
+   "gloss": "Elyadap"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqen"
+  },
+  {
+   "surface": "ברח",
+   "gloss": "ayqirqan"
+  },
+  {
+   "surface": "מאת",
+   "gloss": "⟨את⟩ paymanta",
+   "marks": "Hadadezer, Tsobap apin"
+  },
+  {
+   "surface": "הדדעזר",
+   "gloss": "Hadadezer"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "apun"
+  },
+  {
+   "surface": "צובה",
+   "gloss": "Tsobap"
+  },
+  {
+   "surface": "אדניו",
+   "gloss": "paypa apin"
+  }
+ ],
+ "timestamp": "2026-09-08T05:09:33.215374707Z",
+ "model": "glm-5.3"
+}

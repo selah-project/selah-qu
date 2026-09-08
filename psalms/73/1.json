@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Asafpa maskaq takan. Chiqapmi allinmi Elohim Israelmanpaq, sunqu ch'uya runakunamanpaq.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "maskaq taki"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafpa"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chiqapmi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelmanpaq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "ch'uya runakunamanpaq"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sunqu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:10.728696883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 54,
+  "translation": "Elohim, mañasqayta uyariy; simiypa rimasqankunaman rinririway.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mañasqayta"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "rinririway"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "simiypa rimasqankunaman"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simiypa (ñuqap simiypa)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:52.614115951Z",
+  "model": "glm-5.3"
+}

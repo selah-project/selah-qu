@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Bendiciychik Yahweta, paypa willaqninkuna, sinchi atiyniyuqkuna, paypa siminta ruwaqkuna, paypa siminpa kunkanta uyarinankupaqmi.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bendiciychik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "paypa willaqninkuna"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "atiyniyuqkuna"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "ruwaqkuna"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "paypa siminta"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "uyarinankupaq"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kunkanpi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "paypa simin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:42.248723416Z",
+  "model": "glm-5.3"
+}

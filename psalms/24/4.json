@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Maki p'ichaqmi, sunqu ch'uyami: mayqen manam Nefeshta ch'usaqman huñarqanchu, manataq llullawan jurarqanchu.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "p'ichaq"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "maki"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "ch'uyami"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "huñarqanchu"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ch'usaqman"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "jurarqanchu"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "llullawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:08.507805899Z",
+  "model": "glm-5.3"
+}

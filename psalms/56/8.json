@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "¿Awqanakuypi qespinkuwankuchu paykuna? Phiñawan runa llaqtakunata uraykachiy, Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "און",
+      "gloss": "awqanakuypi"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "qespinkuwankuchu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "באף",
+      "gloss": "phiñawan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runa llaqtakunata"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "uraykachiy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:28.148255490Z",
+  "model": "glm-5.3"
+}

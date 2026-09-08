@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Elohimmi ⟨את⟩ llank'aysinkunata qawarqa, paykuna mana allin ñansinkumanta tikrasqankuta; chaymi Elohim paykunaman ruwanapaq rimasqan mana allinmanta wiyakurqa, manataq ruwarqachu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qawarqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llank'aysinkunata"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "llank'aysinkunata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaysapa"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "tikrasqanku"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "ñansinkumanta"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "wiyakurqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimasqa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanapaq"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T14:09:21.772275688Z",
+  "model": "glm-5.3"
+}

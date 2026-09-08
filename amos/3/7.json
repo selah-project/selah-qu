@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 3:7",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Imaraykuchus Adonay Yahweqa manam ima rimayta ruwanchu, ñawpaqta pakasqa yachayninta yanapaqninkunaman, navikunaman, rikuchispa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwanchu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ña"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "rikuchispa"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "pakasqa yachayninta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "--man"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapaqninkunaman"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "navikunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T08:55:42.716885370Z",
+  "model": "glm-5.3"
+}

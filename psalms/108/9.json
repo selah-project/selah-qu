@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 108,
+  "translation": "Gilad ñuqapmi, Menashhe ñuqapmi; hinaspa Efrrayim ñuqap umapa sinch'iyninmi, Yehuda ñuqap kamachikuqmi.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ñuqapmi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapmi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "hinaspa Efrrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "sinch'iynin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ñuqap umapa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ñuqap kamachikuqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:37:03.465223346Z",
+  "model": "glm-5.3"
+}

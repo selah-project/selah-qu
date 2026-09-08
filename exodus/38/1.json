@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Chaym ruwarqan ⟨את⟩ olah mizbeajta, shittim sach'akunamanta: pichqa amah suniynin, pichqa amah chhikanynin, t'aslla kasqa, kinsa amah sayayninqa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah mizbeajta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeaj"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'akuna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shittim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "suniynin"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "chhikanynin"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "t'aslla kasqa"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amah"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sayayninqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:05.995245284Z",
+  "model": "glm-5.3"
+}

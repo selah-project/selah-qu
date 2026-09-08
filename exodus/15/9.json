@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Awqam nirqan: «Qatipusaq, chayasqasaq; qollqeta rak'isaq; nefeshniyta hunt'achisaq ⟨paykunawan⟩; churita llut'arichisaq; makiywan paykunata llakikunata apakapusaq».",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqa"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "qatipusaq"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "chayasqasaq"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "rak'isaq"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "qollqeta"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "hunt'achisaq"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "llut'arichisaq"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "churita"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "apakapusaq"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makiywan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:31.391900360Z",
+  "model": "glm-5.3"
+}

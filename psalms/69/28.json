@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Churay hayakuyta hayakunankupaman, hinaspa ama allin kayniykimpi yayamunkuchu.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "churay"
+    },
+    {
+      "surface": "עון",
+      "gloss": "hayakuyta"
+    },
+    {
+      "surface": "על",
+      "gloss": "-man"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "hayakunankupi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "yayamunkuchu"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "allin kayniykimpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:47.406971539Z",
+  "model": "glm-5.3"
+}

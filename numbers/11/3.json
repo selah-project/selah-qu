@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chay llaqtata Tavera (Taberah) suticharqan, imarayku Yahwepa ninam paykunapi rawrarqan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "suticharqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "chay llaqtata"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tavera (Taberah)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "rawrarqan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunapi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:25:46.648907079Z",
+  "model": "glm-5.3"
+}

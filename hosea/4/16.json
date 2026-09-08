@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 4:16",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Israel wakacha hina tinkunqalla kasqanrayku, kunanqa Yahwem uñakunata hina hatun pampapi michunqaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "כפרה",
+      "gloss": "wakacha hina"
+    },
+    {
+      "surface": "סררה",
+      "gloss": "tinkunqalla"
+    },
+    {
+      "surface": "סרר",
+      "gloss": "tinkunqalla kasqa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunanqa"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "michunqaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ככבש",
+      "gloss": "uñakunata hina"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "hatun pampapi"
+    }
+  ],
+  "timestamp": "2026-09-08T08:45:53.645205195Z",
+  "model": "glm-5.3"
+}

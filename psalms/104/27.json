@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Tukuykunaqa qamman suyankum, mikhunankuta qusqaykipaq paqta pachapi.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "tukuykuna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "suyankum"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "qusqaykipaq"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "mikhunankuta"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "paqta pachapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:39.120709817Z",
+  "model": "glm-5.3"
+}

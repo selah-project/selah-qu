@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Abrahamtaqmi payman nirqan: amawariy, ama kutichiychu ⟨את⟩ churiyta chayman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "amawariy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qam"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama...-chu"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "kutichiychu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churiyta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiyta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chayman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:00:04.172001252Z",
+  "model": "glm-5.3"
+}

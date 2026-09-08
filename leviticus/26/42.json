@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Chayqa ñuqa ⟨את⟩ Beritni Yaakovwan (Jacob) yuyariqsaqmi, hinallataqmi ⟨את⟩ Beritni Itsjakwan (Isaac) yuyariqsaq, hinallataqmi ⟨את⟩ Beritni Abrahamtam (Abrahán) yuyariqsaq; hallp'atapas yuyariqsaqmi.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "yuyariqsaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritni"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakovwan (Jacob)"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "hinallataqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritni"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjakwan (Isaac)"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "hinallataqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamtam (Abrahán)"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "yuyariqsaq"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "hallp'atapas"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "yuyariqsaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:13:34.811355768Z",
+  "model": "glm-5.3"
+}

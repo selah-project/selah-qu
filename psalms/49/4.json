@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Simiy yachaykunata rimanmi; sunquyp ñawinchayninqa t'ikraykunawanmi.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Simiy"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "rimanmi"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "yachaykunata"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "ñawinchayninqa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquyp"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "t'ikraykunawanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:10.386419760Z",
+  "model": "glm-5.3"
+}

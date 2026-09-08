@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 141,
+  "translation": "Ama munawaychu sonqoyta mana allin rimanaman, mana allin ruwaykunata ruranaypaq; mana allin ruwaq runakunawan ⟨את⟩; manataq mikhusqaychu kusi mikhuykunninkumanta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תט",
+      "gloss": "munawaychu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqoyta"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimananman"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "ruranaypaq"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "ruwaykunata"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "mana allintawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana allin ruwaq runakunawan"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "און",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "mikhusqaychu"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "kusi mikhuykunninkumanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:10.996147410Z",
+  "model": "glm-5.3"
+}

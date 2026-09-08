@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "hosea 13:1",
+ "book": "hosea",
+ "lang": "qu",
+ "chapter": 13,
+ "translation": "Efrayim rimarqtinmi mancharikuy karqan; payqa Israelpi hanaqman wurqakurqan; hinaspa Baalwan huchayakuspa wañurqan.",
+ "tokens": [
+  {
+   "surface": "כדבר",
+   "gloss": "rimarqtin"
+  },
+  {
+   "surface": "אפרים",
+   "gloss": "Efrayim"
+  },
+  {
+   "surface": "רתת",
+   "gloss": "mancharikuy"
+  },
+  {
+   "surface": "נשא",
+   "gloss": "wurqakurqan"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "pay"
+  },
+  {
+   "surface": "בישראל",
+   "gloss": "Israelpi"
+  },
+  {
+   "surface": "ויאשם",
+   "gloss": "hinaspa huchayakurqan"
+  },
+  {
+   "surface": "בבעל",
+   "gloss": "Baalwan"
+  },
+  {
+   "surface": "וימת",
+   "gloss": ""
+  }
+ ],
+ "timestamp": "2026-09-08T08:50:52.962329638Z",
+ "model": "glm-5.3"
+}

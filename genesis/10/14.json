@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspam ⟨את⟩ Pathrusimta, ⟨את⟩ Kaslukhimta — chaymanta Pelishtimkunam lluqsirqaku — hinallataq ⟨את⟩ Kapthorimta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspam ⟨את⟩",
+      "marks": "Pathrusimta"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Pathrusimta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kaslukhimta"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kaslukhimta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "lluqsirqaku"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtimkunam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinallataq ⟨את⟩",
+      "marks": "Kapthorimta"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kapthorimta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:36.924134905Z",
+  "model": "glm-5.3"
+}

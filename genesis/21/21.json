@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 21:21",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chaym Paran sacha-sach'api tiyarqan, hinaspa paypa mamansi paypaq warmita Mitsrayim (Egipto) hallp'amanta apurqan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sacha-sach'api"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "apurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "paypa maman"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:33.271575415Z",
+  "model": "glm-5.3"
+}

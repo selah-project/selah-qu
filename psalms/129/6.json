@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 129,
+  "translation": "Wasikuna patanpi q'utu yurahina kanmi, manaña hunt'a wiñispa hurqusqaña ch'akipunaku.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "kanmi"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "q'utu yurahina"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "wasikuna patanpi"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "maña hunt'a wiñispa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "hurqusqaña"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ch'akipunaku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:09.537151884Z",
+  "model": "glm-5.3"
+}

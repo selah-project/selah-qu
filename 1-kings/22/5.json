@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Yehoshafatm Israelpa apunman nirqan: «Maskay, icha, kay p'unchawhina ⟨את⟩ Yahwepa siminta».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "maskay"
+    },
+    {
+      "surface": "נא",
+      "gloss": "icha"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kay p'unchawhina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa siminta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T05:22:17.458469309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Hinaspa ⟨את⟩ waranqa, qanchis pachak, pichqawan qanchis chunka shekelwan sayakunapaq ankakunata ruwarqan, umankunata q'omerqan, hinaspa ⟨את⟩ paykunata watarqan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "waranqa qanchis pachak pichqawan qanchis chunka shekelta"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "pichqawan"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "qanchis chunka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "ankakuna"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "sayakunapaq"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "hinaspa q'omerqan"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "umankunata"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "hinaspa watarqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata (ankakuna)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:31.944219608Z",
+  "model": "glm-5.3"
+}

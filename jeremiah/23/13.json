@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Shomeronpa naviykunapim ⟨את⟩ lluta kayta rikurqani: Baalwan naviyarqanku, hinaspa ⟨את⟩ runayta, ⟨את⟩ Israelta pantachirqanku.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "naviykunapim"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeronpa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqani"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "lluta kayta"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "naviyarqanku"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baalwan"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "hinaspa pantachirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runayta (ñuqap runayta)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    }
+  ],
+  "timestamp": "2026-09-08T07:13:23.976424154Z",
+  "model": "glm-5.3"
+}

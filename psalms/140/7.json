@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Yahweman nirqanim: Qammi kanki ñuqap Eliny; rinriykita kichay, Yahwe, ñuqap mañakuykunata uyariy.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "nirqanim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqap Eliny"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "rinriykita kichay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ñuqap mañakuykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:57.071601802Z",
+  "model": "glm-5.3"
+}

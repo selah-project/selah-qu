@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaysi ñanpa k'uchunpipas qatiruspa, warmipa wasinman ñanman chayarqan.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "qatiruspa"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "ñanpa"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "k'uchunpipas"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "k'uchun"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ñanman"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "warmipa wasinman"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "chayarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:37:33.113534727Z",
+  "model": "glm-5.3"
+}

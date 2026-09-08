@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Adonay, ñuqaman khuyakuy; qammanmi tukuy p'unchaw qayakuni.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "khuyakuy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qayakuni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:34.696901039Z",
+  "model": "glm-5.3"
+}

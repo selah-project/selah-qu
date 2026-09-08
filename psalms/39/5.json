@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Rikhuchiwari, Yahwem, tukukuyniyta hinaspa p'unchawkunaypa tupunta — ima ⟨kan⟩; chaymanta yachasaq imata ñuqa ch'usaqlla kaniyta.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "rikhuchiwari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "tukukuyniyta"
+    },
+    {
+      "surface": "ומדת",
+      "gloss": "hinaspa tupunta"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkunaypa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "yachasaq"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imata"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ch'usaqlla kaniyta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:51.763527164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Llapa kamachikuqniykim hukllata arcumanta miquchikurqanku; llapa tarisqaykim hukllata watachikurqanku, karumantami waqyarqanku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "kamachikuqniyki"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "miquchikurqanku"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hukllata"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "arcumanta"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "watachikurqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "tarisqayki"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "watachikurqanku"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hukllata"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "karumanta"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "waqyarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:05:27.883990505Z",
+  "model": "glm-5.3"
+}

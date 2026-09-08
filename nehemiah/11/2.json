@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Runakunataq llapan kikinmunaq runakunata yupaycharqanku Yerushalayimpi tiyanankupaq.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "yupaycharqanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunataq"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "kikinmunaq"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "tiyanankupaq"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:28:09.552315265Z",
+  "model": "glm-5.3"
+}

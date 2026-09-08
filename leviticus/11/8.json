@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Paykunap aychanninmanta mana mikhunkichischu, hinaspa paykunap wañusqa kurkunmanta mana llawankichischu; paykunaqa mana ch'uya kanku qamkunapaq.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "paykunap aychanninmanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhunkichischu"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "hinaspa paykunap wañusqa kurkunmanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "llawankichischu"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "mana ch'uya kana"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykunaqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:10.291803073Z",
+  "model": "glm-5.3"
+}

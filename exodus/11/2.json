@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "«Runakunap rinrinninpi rimay, talli; chaymi qarikuna masinkunap ⟨את⟩-manta, warmikunapas masinkunap ⟨את⟩-manta qollqi wakinkunata, quri wakinkunatapas mañankunam».",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "rimay"
+    },
+    {
+      "surface": "נא",
+      "gloss": "talli"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "rinrinninpi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "mañankunam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qarikuna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-manta",
+      "marks": "masinkunap"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "masinkunap"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "warmikunapas"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-manta",
+      "marks": "masinkunap"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "masinkunap"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "wakinkuna"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qollqi"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "wakinkunata"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:19.713240455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "¿Runam Elohimta suq'awanqachu? Ichaqa qamkunaqa ⟨את⟩ ñuqata suq'awankichikmi. Chaytaq ninkichik: «Imawanmi qamta suq'awarqayku?» Maasinta, terumatawan.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "suq'awanqachu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ichaqa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkunaqa"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "suq'awankichikmi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqata"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "chaytaq ninkichik"
+    },
+    {
+      "surface": "במה",
+      "gloss": "imawan"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "suq'awarqayku"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "maasinta"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "terumatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:45.894684168Z",
+  "model": "glm-5.3"
+}

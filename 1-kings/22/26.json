@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 22:26",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Israelpa apun Mikhayahum nirqan: ⟨את⟩ Mikhayahuta apay, hinaspa Amon llaqta umalliqman, apup waw'an Yoashmanpas kutichiy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "apay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikhayahuta"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayahuta"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "hinaspa kutichiy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "llaqta umalliq"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa …manpas"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "waw'e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:21:29.512949424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 39:6",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Babilpa apum ⟨את⟩ Tsidqiyyahupa churiyinkunata Rivlatapi wanurqan, pay ñawinqan ñawpi; hinaspa Babilpa apum ⟨את⟩ tukuy Yehudap hatun runakunatam wanurqan.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "wanurqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churiyinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiyinkunata"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidqiyyahupa"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Rivlatapi"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "pay ñawinqan ñawpi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tukuy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "hatun runakunata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "wanurqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilpa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:30:23.145659267Z",
+  "model": "glm-5.3"
+}

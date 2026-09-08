@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa ⟨את⟩ Obalta, ⟨את⟩ Abimaelwan, ⟨את⟩ Shebawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Hinaspa ⟨את⟩",
+      "marks": "Obalta"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Obal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Abimaelwan"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Abimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shebawan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:52.750050346Z",
+  "model": "glm-5.3"
+}

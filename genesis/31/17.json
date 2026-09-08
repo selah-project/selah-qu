@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Sayarirqanmi Yaakov (Jacob), hinaspa churarqan ⟨את⟩ wawaninkunatawan, ⟨את⟩ warminkunatawan gamelukuna ⟨hawanpi⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawaninkunata"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "wawaninkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "warminkunata"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "warminkunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "gamelukuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:05:56.848812430Z",
+  "model": "glm-5.3"
+}

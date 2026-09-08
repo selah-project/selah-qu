@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ñawpaqmanmi Yaravam, Nevatpa churinpa, pantasqankunallapim ch'ipaqtakurqan, mayqin Israelta ⟨את⟩ pantachirqan; chaymantam mana chayarqanchu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Ñawpaqmanmi"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "pantasqankunallapim"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinpa"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "pantachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "ch'ipaqtakurqan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "סר",
+      "gloss": "chayarqanchu"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "chaymantam"
+    }
+  ],
+  "timestamp": "2026-09-08T05:24:13.049031535Z",
+  "model": "glm-5.3"
+}

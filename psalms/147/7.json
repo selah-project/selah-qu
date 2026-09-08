@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Yahweman graciaswan takiy, Elohimninchikman kinorwan takiy.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "takiy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "graciaswan"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "takiy"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimninchikman"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinorwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:35.498016462Z",
+  "model": "glm-5.3"
+}

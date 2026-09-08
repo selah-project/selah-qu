@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 76,
+  "translation": "K'anchay k'anchayuqmi qam, sinchi hatunmi urqukunamanta, llasaqyuq urqukunamanta.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "k'anchay k'anchayuq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "sinchi hatun"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "urqukunamanta"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "llasaqyuq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:56.608468033Z",
+  "model": "glm-5.3"
+}

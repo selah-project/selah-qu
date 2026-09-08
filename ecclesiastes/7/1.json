@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Sumaq sutim aswan allinmi hunt'a yarbayasmanta wira (perfume) yupa hina; wañuy p'unchawtapas paqariy p'unchawmanta aswan allinmi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "aswan allin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sumaq suti"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "wira (yarbayas)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "hinaspa p'unchaw"
+    },
+    {
+      "surface": "המות",
+      "gloss": "wañuy"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "p'unchawmanta"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "paqariy"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:35.021172539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 85,
+  "translation": "Chiqaqm payta manchakuqkunaman qispichiynin qayllam; gloriapas tiyanqam hallp'aykupi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Chiqaqm"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "qaylla"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "payta manchakuqkunaman"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "qispichiynin"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "tiyananpaq"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "gloria"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "hallp'aykupi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:17.977089523Z",
+  "model": "glm-5.3"
+}

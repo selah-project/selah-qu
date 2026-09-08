@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Kacharqanmi tuta laqllata, chaymi tutayachirqan; chaypi manam paykuna paypa siminta manarqankuchu ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tuta laqllata"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "tutayachirqan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam ...chu"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "manarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa siminta"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "paypa siminta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:53.044838448Z",
+  "model": "glm-5.3"
+}

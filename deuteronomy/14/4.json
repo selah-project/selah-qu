@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Kaymi uywam, mayqinkunatachus mikhunkichik: waka, qarwa (oveja) wawankuna, hinaspa kawra (cabra) wawankuna.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "uywam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunatachus"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhunkichik"
+    },
+    {
+      "surface": "שור",
+      "gloss": "waka"
+    },
+    {
+      "surface": "שה",
+      "gloss": "uywam wawan"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "qarwa (oveja) wawankuna"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "hinaspa uywam wawan"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "kawra (cabra) wawankuna"
+    }
+  ],
+  "timestamp": "2026-09-08T02:39:23.646766919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Ayunopin nefeshniywan llaqtini, chaytaq q'amin tukurqan ñuqapaq.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "llaqtini"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "ayunopi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniywan"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "q'aminpaq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:01.596660627Z",
+  "model": "glm-5.3"
+}

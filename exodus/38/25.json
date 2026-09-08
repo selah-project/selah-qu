@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Hinaspa qillqasqa ayllup qullqinmi pachak kikar ⟨kan⟩, waranqa, qanchis pachak, pichqawan qanchis chunka shekelwan, santuario shekelpi.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "hinaspa qullqi"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "qillqasqa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ayllup"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "hinaspa waranqa"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "pichqawan"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "qanchis chunka"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shekelpi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santuario"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:31.937244682Z",
+  "model": "glm-5.3"
+}

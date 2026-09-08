@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Kawsarqanmi Mahalalel pichqa wata suqta chunka watanawan; hinaspa ⟨את⟩ Yeredta (Jared) paqarichirqan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqan"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "suqta chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "watanawan"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeredta"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yeredta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:50.620731746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yehoyakim (Joaquín), Yehudap apu, kamachikusqanpa kimsa watanpim Nevukadnetsar (Nabucodonosor), Bavelpa apu, Yerushalayimman hamurqan, hinaspa payta muyurqan.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "watanpi"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "kamachikusqanpa"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavelpa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimman"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "hinaspa muyurqan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:52:28.985317544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Elohim hatun qhapariywan hananman saqirirqanmi, Yahwe shofarpa phukuyninwan.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "hananman saqirirqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "hatun qhapariywan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "phukuyninwan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofarpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:28.699537441Z",
+  "model": "glm-5.3"
+}

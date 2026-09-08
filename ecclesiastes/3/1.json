@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Llapa imapaqmi pacha ⟨kan⟩, hinaspa pacha llapa munasqapaq hanaq pachap ukhunpi.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "llapa imapaq"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa munasqapaq"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "munasqa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:09.459577271Z",
+  "model": "glm-5.3"
+}

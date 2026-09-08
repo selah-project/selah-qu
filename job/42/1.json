@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Iyubm ⟨את⟩ Yahweta kutichirqan, nirqan:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:23:36.526433050Z",
+  "model": "glm-5.3"
+}

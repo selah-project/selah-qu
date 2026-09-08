@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Manam kanchu qamhina dioskunapi, Adonay; hinaspa manam kanchu qampa rurasqaykihina.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "mana kan"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "qamhina"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "dioskunapi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hinaspa mana kan"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "qampa rurasqaykihina"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:22.007223012Z",
+  "model": "glm-5.3"
+}

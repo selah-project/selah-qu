@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Tukuy ñan puriqkuna payta suwakunmi; payqa q'ala hayñisqa karqan wasiychakunanpura.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "payta suwakun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "puriqkuna"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "q'ala hayñisqa"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "wasiychakunanpura"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:26.757872350Z",
+  "model": "glm-5.3"
+}

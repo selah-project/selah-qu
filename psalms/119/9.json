@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Imawanmi huk wayna ⟨את⟩ paynan ñanta ch'uyanchan? Qillqasqaykiman hina waqaychananpaq.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Imawan"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "ch'uyanchan"
+    },
+    {
+      "surface": "נער",
+      "gloss": "huk wayna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paynan ñanta"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "paynan ñanta"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "waqaychananpaq"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "qillqasqaykiman hina"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:55.203999931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Nirqantaq: \"Manam atiwankichu ⟨את⟩ ñawiyta qhawayta; imaraykuchus runam mana qhawasqanchu ñuqata kawsaspa.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqantaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "atiwanki"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "qhawayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawiyta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawiyta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "qhawasqanchu ñuqata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "kawsaspa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:14.668017067Z",
+  "model": "glm-5.3"
+}

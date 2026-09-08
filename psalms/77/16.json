@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Brazowanmi runaykita qispichirqanki — Yaakov (Jacob)pa wawankunatawan, Yosef (José)pa wawankunatawan. Sela.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "qispichirqanki"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "brazowanmi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runaykita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunatawan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov (Jacob)pa"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "Yosef (José)pa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:38.456361951Z",
+  "model": "glm-5.3"
+}

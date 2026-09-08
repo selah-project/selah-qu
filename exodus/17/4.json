@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Mosheqa Yahweman qaparirqan, nispa: Imata rusaq kay runakunawan? Asllaraqmi kachkan, hinaspa rumiwan wañuchiwankuman.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "qaparirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imata"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "rusaq"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "aslla"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "rumiwan wañuchiwankuman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:32:47.530114087Z",
+  "model": "glm-5.3"
+}

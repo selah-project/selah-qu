@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Qammi, adam churi, apay qampaq huk ladrillota; churay ⟨את⟩ chayta ñawpaqykiwan; hirk'uy chaypi huk llaqta: ⟨את⟩ Yerushalayim (Jerusalén).",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "קח",
+      "gloss": "apay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ladrillota"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "churay"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "ladrillota"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ñawpaqykiwan"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "hirk'uy"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalén)"
+    }
+  ],
+  "timestamp": "2026-09-08T07:55:17.995212491Z",
+  "model": "glm-5.3"
+}

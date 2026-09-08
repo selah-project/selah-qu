@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Runakuna kikin uva thansankunap urinpi, kikin tikas thansankunap urinpipis tiyasqakum, manam kanchu p'istikayuq; Yahwe Tsebaotpa siminmi willarqan.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "tiyasqaku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa kikin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "urinpi"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "uva thansan"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "hinaspa urinpi"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "tikas thansan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "p'istikayuq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "willarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:07:22.964986953Z",
+  "model": "glm-5.3"
+}

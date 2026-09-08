@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa Yehudaman nirqan ⟨את⟩ Yahweta maskhanankupaq, paykunap taytakunap Elohimninta, Torata, kamachikuytapas ruwanankupaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudaman"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "maskhanankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "paykunap taytakunap"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ruwanankupaq"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torata"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "kamachikuytapas"
+    }
+  ],
+  "timestamp": "2026-09-08T13:03:56.437753572Z",
+  "model": "glm-5.3"
+}

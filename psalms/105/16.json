@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Hinaspa yarkayta hallp'aman waqyarqan; llapan t'anta sapatan t'ikrarqan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waqyarqan"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "yarkayta"
+    },
+    {
+      "surface": "על",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "t'anta sapatan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "t'ikrarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:35.830681487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "⟨את⟩ Yahweta manchakuspa sirbiychik, hinaspa lat'iykuspa k'usiychik.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "sirbiychik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "manchakuspa"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "k'usiychik"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "lat'iykuspa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:02.709866729Z",
+  "model": "glm-5.3"
+}

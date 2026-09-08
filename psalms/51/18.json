@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Imaraykuchus zevajta (q'urpanata) mana munankichu chayqa, quniymanmi; olah (nina ukhapi haqisqa q'urpana) nisqatawan mana kusikunkichu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "munankichu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zevajta (q'urpanata)"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "quniymanmi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "olah nisqatawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "kusikunkichu"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:15.335511603Z",
+  "model": "glm-5.3"
+}

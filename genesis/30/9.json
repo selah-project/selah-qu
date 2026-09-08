@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Leah (Lea)m rikurqan ñata mana wawachakusqata; chaysi Zilpah, paypa yanasan, akllaspa Yaakovman (Jacob) warmin hina karqan. Chaysi — mana; qillqam sayachispam rimarin: Leahm rikurqan… Hmm, corrected below.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leahm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ñata"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "sayarqan"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "wawachaymanta"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "akllarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpah"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpahta"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "paypa yanasantin"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "payta (Zilpah)"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakovman"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "warmin hina"
+    }
+  ],
+  "timestamp": "2026-09-08T00:02:35.406743718Z",
+  "model": "glm-5.3"
+}

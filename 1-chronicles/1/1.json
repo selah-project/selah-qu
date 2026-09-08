@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Adam (Adán), Shet (Set), Enosh (Enós).",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Adam (Adán)"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet (Set)"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh (Enós)"
+    }
+  ],
+  "timestamp": "2026-09-08T12:28:37.178044457Z",
+  "model": "glm-5.3"
+}

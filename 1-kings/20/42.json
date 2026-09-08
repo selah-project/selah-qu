@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Payman nirqanmi: Kaytam Yahwe nin: qam kacharqanki ⟨את⟩ cherem (wañuchinapaq t'aqasqa) kasqata runata makiykimanta, chayrayku nefeshniyki paypa nefesninpa tikrasmi kanqa, runaykiqtaq paypa runankunap tikrasmi kanqa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "kacharqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runata"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "cherem kasqata"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makiykimanta"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshniyki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tikras"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "paypa nefesninpa"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "runaykiqtaq"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tikras"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runankunapa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:16:31.254437018Z",
+  "model": "glm-5.3"
+}

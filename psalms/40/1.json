@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Umayuqman. Davidpa mizmor (salmo)nin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Umayuqman"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (salmo)"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:24.560143053Z",
+  "model": "glm-5.3"
+}

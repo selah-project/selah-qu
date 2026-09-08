@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Hanamanqa huk iskay-chan partita qarqanmi, imaraykuchus ⟨את⟩ Hanata munarqan; ichataq Yahwem paypa wawa-paq wasinta wichq'arqan.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Hanamanqa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qarqanmi"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "partita"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "iskay-chan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanata"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hanata"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "munarqan"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wichq'arqan"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "wawa-paq wasinta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:01:53.476549833Z",
+  "model": "glm-5.3"
+}

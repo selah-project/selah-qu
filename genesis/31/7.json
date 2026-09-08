@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "genesis 31:7",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 31,
+ "translation": "Taytaykichiktaq ñuqata qatipakurqanmi, hinaspa ⟨את⟩ pagayta chunka kuti tiklarqan; ichaqa Elohimqa manam payta ñuqaman ama allin rurayta saqirqanchu.",
+ "tokens": [
+  {
+   "surface": "ואביכן",
+   "gloss": "taytaykichiktaq"
+  },
+  {
+   "surface": "התל",
+   "gloss": "qatipakurqan"
+  },
+  {
+   "surface": "בי",
+   "gloss": "ñuqata"
+  },
+  {
+   "surface": "והחלף",
+   "gloss": "hinaspa tiklarqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "pagayta"
+  },
+  {
+   "surface": "משכרתי",
+   "gloss": "pagayta"
+  },
+  {
+   "surface": "עשרת",
+   "gloss": "chunka"
+  },
+  {
+   "surface": "מנים",
+   "gloss": "kuti"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "נתנו",
+   "gloss": "saqirqan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "להרע",
+   "gloss": "ama allin rurayta"
+  },
+  {
+   "surface": "עמדי",
+   "gloss": "ñuqaman"
+  }
+ ],
+ "timestamp": "2026-09-08T00:05:32.178850991Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "⟨את⟩ qanchap kinrayninta, ⟨את⟩ saywankunata hinaspa ⟨את⟩ tikrankunata, hinaspa ⟨את⟩ qanchap punkup qatananta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanchap kinrayninta"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "kinrayninta"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "qanchap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saywankunata"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "saywankunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tikrankunata"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "tikrankunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qatananta"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "qatanata"
+    },
+    {
+      "surface": "שער",
+      "gloss": "punkup"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "qanchap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:42:15.208619468Z",
+  "model": "glm-5.3"
+}

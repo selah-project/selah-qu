@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Yahwem Mosheta nirqan: Nillay kohenkunaman, Aharonpa churinkunaman, hinaspa ninanki paykunaman: wañusqanpaq ⟨nefeshpaq⟩ mana millayachikunmanchu, paypa runakunanpi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Nillay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "hinaspa ninanki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "wañusqanpaq nefeshpaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "millayachikunmanchu"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "paypa runakunanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:27.731252416Z",
+  "model": "glm-5.3"
+}

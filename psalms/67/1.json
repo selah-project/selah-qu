@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 67,
+  "translation": "T'aqarikuqmanmi, waqachina watarukunawan, mizmor, shir (taki).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "T'aqarikuqman"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "waqachina watarukunawan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "shir (taki)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:44.982717591Z",
+  "model": "glm-5.3"
+}

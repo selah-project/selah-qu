@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa Lotpasmi, ⟨את⟩ Abramwan puriq, uwijakuna, wakakuna, karpanakuna karqan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Hinaspa ...pas"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abramwan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "uwijakuna"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "wakakuna"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "karpanakuna"
+    }
+  ],
+  "timestamp": "2026-09-07T23:55:04.295228611Z",
+  "model": "glm-5.3"
+}

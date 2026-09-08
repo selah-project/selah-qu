@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Tukuy Mitsrayim runakunam mayu muyuriqninpi unu qhuyarqanku upyanankupaq, imaraykuchus mayu unukunata upyayta mana atisqakunku karqanmi.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "qhuyarqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim runakuna"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "muyuriqninpi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "upyanankupaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "atisqakunku"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "upyayta"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "unukunata"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mayu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:13.285602286Z",
+  "model": "glm-5.3"
+}

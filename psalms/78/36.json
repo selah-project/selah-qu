@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Siminkuwan p'akinchakurqankum ⟨את⟩ Payta, qallunkuwanllataq llullarqanku payman.",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "p'akinchakurqankum Payta",
+      "marks": "Payta"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "siminkuwan"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "qallunkuwanllataq"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "llullarqanku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T15:31:25.432841991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "2-kings 10:11",
+ "book": "2-kings",
+ "lang": "qu",
+ "chapter": 10,
+ "translation": "Hinaspa Yehum ⟨את⟩ llapa Achabpa wasinpa qhipakusqakunata Yizreelpi wanuchirqan, hinaspa llapan hatun runankunata, riasqankunata, kohenninkunata, paypaq mana huk qespichikuqta saqirqa.",
+ "tokens": [
+  {
+   "surface": "ויך",
+   "gloss": "wanuchirqan"
+  },
+  {
+   "surface": "יהוא",
+   "gloss": "Yehum"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "llapata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "הנשארים",
+   "gloss": "qhipakusqakunata"
+  },
+  {
+   "surface": "לבית",
+   "gloss": "wasinpaq"
+  },
+  {
+   "surface": "אחאב",
+   "gloss": "Achabpa"
+  },
+  {
+   "surface": "ביזרעאל",
+   "gloss": "Yizreelpi"
+  },
+  {
+   "surface": "וכל",
+   "gloss": "hinaspa llapan"
+  },
+  {
+   "surface": "גדליו",
+   "gloss": "hatun runankunata"
+  },
+  {
+   "surface": "ומידעיו",
+   "gloss": "riasqankunata"
+  },
+  {
+   "surface": "וכהניו",
+   "gloss": "kohenninkunata"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kama"
+  },
+  {
+   "surface": "בלתי",
+   "gloss": "mana"
+  },
+  {
+   "surface": "השאיר",
+   "gloss": "saqirqa"
+  },
+  {
+   "surface": "לו",
+   "gloss": "paypaq"
+  },
+  {
+   "surface": "שריד",
+   "gloss": "qespichikuq"
+  }
+ ],
+ "timestamp": "2026-09-08T05:30:54.685752778Z",
+ "model": "glm-5.3"
+}

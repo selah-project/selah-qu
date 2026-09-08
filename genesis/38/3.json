@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Wiksayuq karqanmanta churiyta wacharqan; hinaspa paypa ⟨את⟩ sutinta Er nispa sutichirqan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "wiksayuq karqan"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churiyta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "sutichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "paypa sutin"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-08T00:10:41.255961720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 18:6",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Yahwepi chap'akurqan, pay qhipamanta manam t'ikrakurqanchu; Yahwem ⟨את⟩ Moshe (Moisés)ta kamachisqa kamachikuyninkunata waqaychakurqan.",
+  "tokens": [
+    {
+      "surface": "וידבק",
+      "gloss": "chap'akurqan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "סר",
+      "gloss": "t'ikrakurqanchu"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "pay qhipamanta"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "waqaychakurqan"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "kamachikuyninkunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaykunata"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachisqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)ta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:39:23.859430863Z",
+  "model": "glm-5.3"
+}

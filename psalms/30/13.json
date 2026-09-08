@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Chayraykum kabod kayniiy qamta takinchawan, ch'inalla mana kanqachu: Yahwe, Elohimniy, wiñaypaq qamta añuykun.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "chayraykum"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "qamta takinchawan"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabod"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ch'inalla kanqachu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "qamta añuykun"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:21.209192790Z",
+  "model": "glm-5.3"
+}

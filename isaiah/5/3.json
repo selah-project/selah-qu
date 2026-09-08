@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Kunan ñawintaq, tiyaqninkuna Yerushalayimpi (Jerusalén), Yehuda (Judá) runakunapas: i, ñuqawan ñuqap winaywan taripachichis.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunan ñawintaq"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "tiyaqninkuna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpi (Jerusalén)"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda (Judá)"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "taripachichis"
+    },
+    {
+      "surface": "נא",
+      "gloss": "i"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hinaspa ...wan"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ñuqap winaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:55:40.405823056Z",
+  "model": "glm-5.3"
+}

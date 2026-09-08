@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa apum kutirqan, Yardenkama chayarqan; Yehudataq Gilgalman hamurqan, apuwan tupanankupaq, ⟨את⟩ aputa ⟨את⟩ Yardenta pasanankupaq.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Yardenkama"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenkama"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehudataq"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgalman"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "purinankupaq"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tupanankupaq"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apuwan"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "pasanankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aputa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "aputa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardenta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:50:14.444878952Z",
+  "model": "glm-5.3"
+}

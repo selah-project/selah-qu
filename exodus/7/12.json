@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Sapa runa ⟨את⟩ mat'inta wikch'urqanku, tanninkuna hina tukurqankum; ichaqa Aharonpa mat'in ⟨את⟩ mat'inkunata millpurqan.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "wikch'urqankum"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "mat'inta"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "tukurqanku"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "tanninkuna hina"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "millpurqan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mat'i"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mat'inkunata"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "mat'inkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:29.229590510Z",
+  "model": "glm-5.3"
+}

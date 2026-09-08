@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Payqa runakunata huñirqanmi, David ⟨את⟩ paykunata wañuchisqan pachapi awqakutuq umalliq tukurqan; chaysi Dameseqman ripurqanku, chaypi tiyarqanku, Dameseqpipas apukurqanku.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "huñirqan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paytaq"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umalliq"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "awqakutuq"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "wañuchisqan pachapi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "Tsobamanta runakuna"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ripurqanku"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Dameseqman"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "tiyarqanku"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "apukurqanku"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "Dameseqpipas"
+    }
+  ],
+  "timestamp": "2026-09-08T05:09:33.218456658Z",
+  "model": "glm-5.3"
+}

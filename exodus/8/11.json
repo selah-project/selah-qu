@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Paron qhawarqan chayta alivio karqan, hinaspa ⟨את⟩ sunqunta sinchiykurqan, manataq paykunata uyawarqanchu, Yahwem willasqan hina.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "alivio"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "sinchiykurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunqunta"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sunqunta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyawarqanchu"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "willasqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    }
+  ],
+  "timestamp": "2026-09-08T00:24:55.475103377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwem uyarirqan ⟨את⟩ rimasqikichikpa yanganta, chaymi phutikurqan, hinaspa jurarqan nispa:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rimasqikichikpa yanganta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "yanganta"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "rimasqikichikpa"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "chaymi phutikurqan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "hinaspa jurarqan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:25:21.760296239Z",
+  "model": "glm-5.3"
+}

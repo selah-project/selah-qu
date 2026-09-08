@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 31:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Ñawpaway uyaykita ñuqaman; usqhayllañam qispichiway; qam kanay ñuqapaq rumi hina, pukara hina, qispichinaypaq.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "ñawpaway"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uyaykita"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "usqhaylla"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "qispichiway"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kanay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "rumi hina"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "pukara hina"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasin hina"
+    },
+    {
+      "surface": "מצודות",
+      "gloss": "sinchi pukarap"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "qispichinaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:39.477539344Z",
+  "model": "glm-5.3"
+}

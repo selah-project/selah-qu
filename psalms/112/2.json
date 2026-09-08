@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 112,
+  "translation": "Paypa awlankunanqa hallp'api sinchi atiyniyuq kanqa; chaqra runakunap wiñaynintaqa bendisikunqa.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "sinchi atiyniyuq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "paypa awlankunan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "chaqra runakunap"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "bendisikunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:04.362757181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Kaymi minchap Toran: Aharonpa churinkuna ⟨את⟩ payta Yahwep ñawpaqninpi, mizbeajpa ñawpaqninman qayllachinku.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toran"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchap"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "qayllachinku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "payta (minchata)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeajpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:52:43.883249362Z",
+  "model": "glm-5.3"
+}

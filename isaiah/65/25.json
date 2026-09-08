@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 65:25",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Atuqwan qarwa wawawan huk hina michhunqakum; pumam wakata hina chhullata mikhunqam; mach'aqwaypa mikhunanqa aqom. Mana llakichinqakuchu, mana chinkachinqakuchu llapapi santa orqoypi, Yahwem nirqan.",
+  "tokens": [
+    {
+      "surface": "זאב",
+      "gloss": "atuq"
+    },
+    {
+      "surface": "וטלה",
+      "gloss": "hinaspa qarwa wawa"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "michhunqakum"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "huk hina"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "hinaspa puma"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "wakata hina"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhunqam"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "chhullata"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "hinaspa mach'aqway"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "aqo"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "mikhunanqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "llakichinqakuchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "chinkachinqakuchu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapapi"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqopi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "santay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    }
+  ],
+  "timestamp": "2026-09-08T06:43:34.591323743Z",
+  "model": "glm-5.3"
+}

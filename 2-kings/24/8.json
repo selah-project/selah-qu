@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 24:8",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Pusaq chunka pusaqniyoq wata Yehoyakinqa apukasqan pachawan, kimsa killa Yerushalayimpi (Jerusalén) apukarqanmi; paypa mamap sutinqa Nejushtaa, Elnatanpa wawanmi, Yerushalayimmanta.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "wata"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "pusaq chunka"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "pusaqniyoq"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakin"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "apukasqan pachawan"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "killa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apukarqan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "sutinqa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "paypa mamap"
+    },
+    {
+      "surface": "נחשתא",
+      "gloss": "Nejushtaa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "wawanmi"
+    },
+    {
+      "surface": "אלנתן",
+      "gloss": "Elnatanpa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayimmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:48:58.013659329Z",
+  "model": "glm-5.3"
+}

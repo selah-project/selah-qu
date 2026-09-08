@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Yahwepa pikudennin chiqanmi, sunquta kusichiqmi; Yahwepa kamachikuynin p'uchuchaqmi, ñawikunata k'anchachiqmi.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "pikudennin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "chiqanmi"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "kusichiqmi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunquta"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kamachikuynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "p'uchuchaqmi"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "k'anchachiqmi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ñawikunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:43.714277192Z",
+  "model": "glm-5.3"
+}

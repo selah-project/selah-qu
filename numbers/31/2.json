@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Makanakuy Israelpa churinkunapaj Midiankunamanta ⟨את⟩ ukhupi; qhipantataq runaykikunaman huñusqa kanqayki.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "makanakuy"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "makanakuyninta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunapaj"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ukhupi",
+      "marks": "Midiankuna (המדינים)"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midiankuna"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qhipantataq"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "huñusqa kanqayki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "runaykikunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:18:48.802137044Z",
+  "model": "glm-5.3"
+}

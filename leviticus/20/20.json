@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa runa mayqin tiyasinwan puñun — ⟨את⟩ tiyasinwan — tiyunpa ichikusqanta ichikusqam; huchankunta chaskinqakum, churiyuq mana kachkaspawan wañunqakum.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "hinaspa runa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "puñun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ wan",
+      "marks": "tiyasinwan"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "tiyasinta"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ichikusqanta"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "tiyunpa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ichikusqam"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "huchankunta"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "chaskinqakum"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "churiyuq mana kachkaspawan"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "wañunqakum"
+    }
+  ],
+  "timestamp": "2026-09-08T01:07:39.922901050Z",
+  "model": "glm-5.3"
+}

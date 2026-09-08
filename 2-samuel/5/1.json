@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 5:1",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaysi llapan Israelpa ayllukuna Davidman (David) Hevronman (Hebrón) hamurqanku, nispa nirqanku: Qaway, qampa tulluyki, qampa aychaykiwanmi ñuqanchik kanchik.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "hamurqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ayllukuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidman (David)"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Hevronman (Hebrón)"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "הננו",
+      "gloss": "qaway"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "qampa tulluyki"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "qampa aychaykiwan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñuqanchik"
+    }
+  ],
+  "timestamp": "2026-09-08T04:37:38.782903725Z",
+  "model": "glm-5.3"
+}

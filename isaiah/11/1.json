@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Yishaypa (Jesé) kurkunmantam huk chiqan lluqsimunqa, saphinkunamantam huk murq'u wiñarispa phalamunqa.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsimunqa"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "chiqan"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "kurkunmanta"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishaypa (Jesé)"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "murq'u wiñarispa"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "saphinkunamanta"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "phalamunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:44:43.638038121Z",
+  "model": "glm-5.3"
+}

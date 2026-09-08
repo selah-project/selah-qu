@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Uriyahm payman chayamurqan; Davidm Yoabpa allin kawsayninta, runakunap allin kawsayninta, awqanakuypas allin kawsayninta tapurqan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "chayamurqan"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "tapurqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "allin kawsayninta"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabpa"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "allin kawsayninta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "allin kawsayninta"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "awqanakuypas"
+    }
+  ],
+  "timestamp": "2026-09-08T04:40:11.858627906Z",
+  "model": "glm-5.3"
+}

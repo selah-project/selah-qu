@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Chay p'unchawllapi mikhuna kanqam; mana p'unchaw t'ikrasqakama imatapas saqiyunkiichu; ñuqam Yahwem.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chaylla"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhuna kanqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "saqiyunkiichu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chaymanta imatapas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "p'unchaw t'ikrasqa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:45.277556781Z",
+  "model": "glm-5.3"
+}

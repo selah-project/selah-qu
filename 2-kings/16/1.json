@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Pekaj (Peka), Remaljaj churin, qanchis chunka qanchisñiqin watanpi, Ajaz (Acaz), Yotam churin, Yehuda apun, kamachiyta qallarirqan.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "watanpi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis chunka"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "qanchisñiqin"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "watan"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "Pekaj (Peka)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljaj"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kamachiyta qallarirqan"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz (Acaz)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:28.785323948Z",
+  "model": "glm-5.3"
+}

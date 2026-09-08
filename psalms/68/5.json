@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Elohimman takiy, Sutinta takillaspa wiñachiy; ch'usaq pampakunapi puriqta hatalliy, Yahm Sutinmi; ñawpaqninpi k'achata phawkakuychik.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "takiy"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "takillaspa wiñachiy"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Sutinta"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "hatalliy"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "ch'usaq pampakunapi puriqta"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "ch'usaq pampakunapi"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Yahm"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Sutinmi"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "k'achata phawkakuychik"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:08.580374276Z",
+  "model": "glm-5.3"
+}

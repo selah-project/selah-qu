@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 23:30",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Yayin patapi wiñay waqta tiyaqkunam, chaqrusqa yayinta maskhaq yaykuqkunapas.",
+  "tokens": [
+    {
+      "surface": "למאחרים",
+      "gloss": "wiñay waqta tiyaqkunam"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "היין",
+      "gloss": "yayin"
+    },
+    {
+      "surface": "לבאים",
+      "gloss": "yaykuqkunapas"
+    },
+    {
+      "surface": "לחקר",
+      "gloss": "maskhaq"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "chaqrusqa yayinta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:50:56.874851960Z",
+  "model": "glm-5.3"
+}

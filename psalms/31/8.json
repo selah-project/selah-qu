@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "K'uchi kusikusaq jesedniykipim, chaysi ñuqap llakikuypi rikurqanki ⟨את⟩; llaqta llaqtapi ñuqap nefeshniypa sasa pachankunata yacharqanki.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "k'uchi kusikusaq"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "hinaspa kusikusaq"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "jesedniykipi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaysi"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "rikurqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap llakikuymanta"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ñuqap llakikuymanta"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yacharqanki"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "llaqta llaqtapi sasa pachankunata"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap nefeshniy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:25.088708229Z",
+  "model": "glm-5.3"
+}

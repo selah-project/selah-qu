@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 30,
+ "ref": "1-kings 11:30",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 11,
+ "translation": "Hinaspa Ahiyam chay paypi kaq musuq salmanta hap'ispa, iskay chunka k'itikunaman ch'iqirqan.",
+ "tokens": [
+  {
+   "surface": "ויתפש",
+   "gloss": "hap'irqan"
+  },
+  {
+   "surface": "אחיה",
+   "gloss": "Ahiya"
+  },
+  {
+   "surface": "בשלמה",
+   "gloss": "salmanta"
+  },
+  {
+   "surface": "החדשה",
+   "gloss": "musuq"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "chay"
+  },
+  {
+   "surface": "עליו",
+   "gloss": "paypi"
+  },
+  {
+   "surface": "ויקרעה",
+   "gloss": "ch'iqirqan"
+  },
+  {
+   "surface": "שנים",
+   "gloss": "iskay"
+  },
+  {
+   "surface": "עשר",
+   "gloss": "chunka"
+  },
+  {
+   "surface": "קרעים",
+   "gloss": "k'itikuna"
+  }
+ ],
+ "timestamp": "2026-09-08T05:11:05.944205192Z",
+ "model": "glm-5.3"
+}

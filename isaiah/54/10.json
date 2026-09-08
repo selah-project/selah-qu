@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 54,
+  "translation": "Sichusmi orqokuna chiqanchakunqaku, qolqekunataq thaknankuman; ñuqap jesed ⟨את⟩ qammanta mana chinkapunqachu, ñuqap shalompa Beritnintaq mana thakipunqachu, qamta khuyakuq Yahwem nirqanmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "orqokuna"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "chiqanchakunqaku"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "hinaspa qolqekuna"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "thaknankuman"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "hinaspa ñuqap jesed"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ qammanta",
+      "marks": "qammanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "chinkapunqachu"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "hinaspa Berit"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "ñuqap shalompata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "thakipunqachu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "qamta khuyakuq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    }
+  ],
+  "timestamp": "2026-09-08T06:36:55.120394331Z",
+  "model": "glm-5.3"
+}

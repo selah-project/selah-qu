@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Ukhuman ukhum atipanmi para yaku phawayniykip kunkanwan; llapan takachakunaykiwan, chhikayniykiwan ñuqap patapi pasantarqankum.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ukhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ukhuman"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "atipanmi"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "qayllan"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "kunkanwan"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "yaku phawayniykip"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "takachakunaykiwan"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "chhikayniykiwan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap patapi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pasantarqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:26.184087396Z",
+  "model": "glm-5.3"
+}

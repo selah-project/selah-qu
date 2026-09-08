@@ -1,0 +1,60 @@
+{
+ "tier": "glm-5.2",
+ "verse": 33,
+ "ref": "deuteronomy 2:33",
+ "book": "deuteronomy",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Yahwe Elohimninchikmi payta ñawpanchikman qarqan; chaymi payta, churinkunatawan, llapa runankunatawan wañuchirqayku.",
+ "tokens": [
+  {
+   "surface": "ויתנהו",
+   "gloss": "qarqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהינו",
+   "gloss": "Elohimninchik"
+  },
+  {
+   "surface": "לפנינו",
+   "gloss": "ñawpanchikman"
+  },
+  {
+   "surface": "ונך",
+   "gloss": "wañuchirqayku"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ payta",
+   "marks": "payta"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "churinkunata"
+  },
+  {
+   "surface": "בנו",
+   "gloss": "churinkunata"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "llapa runankunata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "עמו",
+   "gloss": "runankunata"
+  }
+ ],
+ "timestamp": "2026-09-08T02:27:46.902634509Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Qayllam ⟨את⟩ ñuqata chiqanchawaq; ¿pitach ⟨את⟩ ñuqawan taripakun? Sayarisunchik huñuspa. ¿Pitach ñuqap taripakuypa awqan? Qayllamun ñuqaman.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "qayllam"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "chiqanchawaq"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pitach"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "taripakun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqawan",
+      "marks": "ñuqawan"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "sayarisunchik"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "huñuspa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pitach"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "awqan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ñuqap taripakuypi"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "qayllamun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:36:56.124433392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 123,
+  "translation": "Ñuqaykuta khuyakuy, Yahwe, ñuqaykuta khuyakuy; askhami ñuqaykuqa ichiquchasqawan hunt'asqa kanchik.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "ñuqaykuta khuyakuy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "ñuqaykuta khuyakuy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-m …rayku"
+    },
+    {
+      "surface": "רב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "hunt'asqa kanchik"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ichiquchasqawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:10.762892806Z",
+  "model": "glm-5.3"
+}

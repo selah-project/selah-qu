@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Musuq ñuqam kay pachapimi kani; ama ñuqamanta pakawaychu kamachikuyniykita.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kay pachapi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "pakawaychu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "kamachikuyniykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:46.527773184Z",
+  "model": "glm-5.3"
+}

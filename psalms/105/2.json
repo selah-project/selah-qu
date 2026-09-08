@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Payman takinkichik, payman harawinkichik; llapan mirachakuyninkunamanta rimankichik.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "takinkichik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "harawinkichik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "rimankichik"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "mirachakuyninkunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:46.847385624Z",
+  "model": "glm-5.3"
+}

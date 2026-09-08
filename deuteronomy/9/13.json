@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yahwem ñuqaman rimarqan, nispa: Rikurqanim ⟨את⟩ kay runakunata; hinaspa qhaway: runakuna sinchi k'inkallayuqmi ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "hinaspa qhaway"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "k'inkallayuq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩"
+    }
+  ],
+  "timestamp": "2026-09-08T02:37:35.549866289Z",
+  "model": "glm-5.3"
+}

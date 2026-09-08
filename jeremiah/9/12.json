@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa Yahwem nirqan: paykunam ⟨את⟩ Torayta saqirqanku — mayta ñawpampi churarqani — mana simiyta uyarqankuchu, manataq chaypi purirqankuchu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Hinaspa nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "על",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "paykunam saqirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torayta"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torayta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "churarqani"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ñawpampi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uyarqankuchu"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "simiyta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "purirqankuchu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:51:48.943136054Z",
+  "model": "glm-5.3"
+}

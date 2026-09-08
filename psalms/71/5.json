@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Chanrayku qammi suyakuyniy ⟨kan⟩, Adonay Yahwe, ñawpa wawakaymanta iñiyniy ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chanrayku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qammi"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "suyakuyniy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "iñiyniy"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ñawpa wawakaymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:53.203541009Z",
+  "model": "glm-5.3"
+}

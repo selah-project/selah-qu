@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Llapa hallp'aqa huk simillayoqmi karqan, rimaykunapas hukllam karqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "simi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "rimaykuna"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "huklla"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:42.399985617Z",
+  "model": "glm-5.3"
+}

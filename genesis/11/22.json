@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Serug (Serug) kimsa chunka watam kawsarqan, hinaspa ⟨את⟩ Najor (Najor) paqarichirqan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqanmi"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Najorta"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Najor"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:36.091780948Z",
+  "model": "glm-5.3"
+}

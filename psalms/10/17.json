@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yahwe, ñit'isqa humildeskunap munayninta uyariwrqankim; sunqunkinta sayachinqankim, rinrinkita ñawpaqman kuchunqankim.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "munayninta"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ñit'isqa humildeskunap"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "uyariwrqanki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "sayachinqanki"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sunqunkinta"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "ñawpaqman kuchunqanki"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "rinrinkita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:01.124042554Z",
+  "model": "glm-5.3"
+}

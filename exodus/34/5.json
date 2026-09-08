@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Chaymi Yahwe phuyupi urmarqan, paywan chaypi sayarikurqan, hinaspa Yahwepa sutinwan qayarqan.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "urmarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "phuyupi"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "sayarikurqan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "qayarqan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sutinwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:42:18.349820299Z",
+  "model": "glm-5.3"
+}

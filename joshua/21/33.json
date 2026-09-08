@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 21:33",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Gershuni ayllukunap llapan llaqtankunam: kinsa chunka kimsa llaqta, michi pampankunawan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "llaqtankuna"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Gershuni"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayllunkunaman"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kinsa chunka"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "ומגרשיהן",
+      "gloss": "michi pampankunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:27:35.446055455Z",
+  "model": "glm-5.3"
+}

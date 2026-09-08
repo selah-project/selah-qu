@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Yupachinmi quyllurkunap yupayninta; llapankunap sutinmi uyarichin.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "yupachin"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "yupayta"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "quyllurkunap"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "llapankunap"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "uyarichin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:12.127985409Z",
+  "model": "glm-5.3"
+}

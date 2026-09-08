@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 39:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hinaspa ⟨את⟩ qurimanta phuyukunata llut'arqanku, hinaspa chaymanta q'aytukunata kuchurqanku, anqaspa ukhunpi, kullipa ukhunpi, kirmachupa ukhunpi, awaypa ukhunpi t'inkichinapaq — yachaysapa ruway.",
+  "tokens": [
+    {
+      "surface": "וירקעו",
+      "gloss": "hinaspa llut'arqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phuyukunata"
+    },
+    {
+      "surface": "פחי",
+      "gloss": "phuyukunata"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qurimanta"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "hinaspa kuchurqanku"
+    },
+    {
+      "surface": "פתילם",
+      "gloss": "q'aytukunata"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "t'inkichinapaq"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "anqaspa"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "kullipa"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kirmachupa"
+    },
+    {
+      "surface": "השני",
+      "gloss": "puka"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "השש",
+      "gloss": "awaypa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ruway"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "yachaysapa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:51.144253968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa ⟨את⟩ turuta, ⟨את⟩ qaranta, ⟨את⟩ aychanta, ⟨את⟩ ichhunta nina wanamanta wasichaspa nanata rupharichirqan, ayllukunap hawanpi, imayna Yahwem Moshe (Moisés)ta kamachisqan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "turuta"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "turuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qaranta"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "qaranta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aychanta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "aychanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ichhunta"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "ichhunta"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "rupharichirqan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "nina wanamanta"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ayllukunap"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachisqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:01.018173105Z",
+  "model": "glm-5.3"
+}

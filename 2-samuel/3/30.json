@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaysi Yoab, Avishay hina paypa wawqin, Avnerta wañuchirqankum, imaraykuchus Givonpi awqanakusqanpi ⟨את⟩ Asahelta — paykuna wawqinta — wañuchirqanmi.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Chaysi Yoab"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "Avishay hina"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "paypa wawqin"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "wañuchirqankum"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avnerta"
+    },
+    {
+      "surface": "על",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "המית",
+      "gloss": "wañuchirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahelta"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahelta"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "paykuna wawqinta"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Givonpi"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "awqanakusqanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:39:18.405962317Z",
+  "model": "glm-5.3"
+}

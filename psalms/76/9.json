@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 76,
+  "translation": "Hanaq pachamanta taripayta uyarchirqanki**m**; hallp'a mancharirqan, hinaspa thakirqan.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "hanaq pachamanta"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "uyarchirqanki"
+    },
+    {
+      "surface": "דין",
+      "gloss": "taripayta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "mancharirqan"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "hinaspa thakirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:35.090523514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+ "tier": "glm-5.2",
+ "verse": 19,
+ "ref": "1-samuel 10:19",
+ "book": "1-samuel",
+ "lang": "qu",
+ "chapter": 10,
+ "translation": "Qamkunam kay p'unchaw ⟨את⟩ Elohimniykichikta miyurqankichik, paymi kikin qamkunata qispichikan tukuy nanasqaykichikmanta, s'iqakunaykichikmantawan; hinaspa payman nirqankichik: «Manam, ichataq aputa churawaq ñuqanchikpa hananpi». Kunantaq Yahwep ñawpaqenpi sayarichikuy ayllukunaykichikmantan, waranqakunaykichikmantawan.",
+ "tokens": [
+  {
+   "surface": "ואתם",
+   "gloss": "qamkunam"
+  },
+  {
+   "surface": "היום",
+   "gloss": "kay p'unchaw"
+  },
+  {
+   "surface": "מאסתם",
+   "gloss": "miyurqankichik"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Elohimniykichikta"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohimniykichikta"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqen"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "paymi kikin"
+  },
+  {
+   "surface": "מושיע",
+   "gloss": "qispichiq"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "qamkunata"
+  },
+  {
+   "surface": "מכל",
+   "gloss": "tukuy ... manta"
+  },
+  {
+   "surface": "רעותיכם",
+   "gloss": "nanasqaykichik"
+  },
+  {
+   "surface": "וצרתיכם",
+   "gloss": "s'iqakunaykichikmantawan"
+  },
+  {
+   "surface": "ותאמרו",
+   "gloss": "hinaspa nirqankichik"
+  },
+  {
+   "surface": "לו",
+   "gloss": "payman"
+  },
+  {
+   "surface": "כי",
+   "gloss": "manam, ichataq"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "aputa"
+  },
+  {
+   "surface": "תשים",
+   "gloss": "churawaq"
+  },
+  {
+   "surface": "עלינו",
+   "gloss": "ñuqanchikpa hananpi"
+  },
+  {
+   "surface": "ועתה",
+   "gloss": "kunantaq"
+  },
+  {
+   "surface": "התיצבו",
+   "gloss": "sayarichikuy"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "ñawpaqenpi"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwep"
+  },
+  {
+   "surface": "לשבטיכם",
+   "gloss": "ayllukunaykichikmanta"
+  },
+  {
+   "surface": "ולאלפיכם",
+   "gloss": "waranqakunaykichikmantawan"
+  }
+ ],
+ "timestamp": "2026-09-08T13:32:46.254302477Z",
+ "model": "glm-5.3"
+}

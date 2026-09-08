@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 21:16",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Karqan, Ahab uyarina p'unchaw Navot wañusqanta; chaymanta Ahab sayarirqanm Navotpa Yizreelipa wiñanman uraykunapaq, hapisqanpaq.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "uyarina p'unchaw"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nisqa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wañusqa"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqanm"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "uraykunapaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "wiñan"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navotpa"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "Yizreelipa"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "hapisqanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:22:13.144570925Z",
+  "model": "glm-5.3"
+}

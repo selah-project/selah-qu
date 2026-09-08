@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Hinaspa ⟨את⟩ huch'uy wawqeykichikta ñuqaman apamuychik, chaysi rimaysiykichik chiqanchakunqam, mana wañunkichikchu. Chaysim chaynata ruwarqanku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawqeykichikta"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "wawqeykichikta"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "huch'uy"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "apamuychik"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "chiqanchakunqa"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "rimaysiykichik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "wañunkichik"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:13:32.384773232Z",
+  "model": "glm-5.3"
+}

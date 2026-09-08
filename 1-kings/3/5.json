@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Giv'onpim Yahwe rikurirqan Shelomoman tuta musqoypi; hinaspa Elohim nirqan: Mañay, imatam qusaq qamman.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Giv'onpi"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "rikurirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoman"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "musqoypi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Mañay"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imata"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:59:46.695081326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Qhaway hinaspa chay qhawasqayki rikch'ayninpi ruray, urqupi qhawachisqayki hinata.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "hinaspa ruray"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "rikch'ayninpi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "qhawachisqayki"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqupi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:36:10.308148301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "hinaspa ⟨את⟩ qatasqanta karnerokuna qarankunap puka t'inqasqa, hinaspa ⟨את⟩ qatasqanta takshi qarankunap, hinaspa ⟨את⟩ p'arakata qatasqap.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qatasqanta"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "qatasqanta"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "qarankunap"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "karnerokuna"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "puka t'inqasqa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qatasqanta"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "qatasqanta"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "qarankunap"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "takshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "p'arakata"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "p'arakata"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "qatasqap"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:49.610957203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Chiqaptaq qamkunam yachanki ⟨את⟩ imata Mitsrayim hallp'api tiyasqanchikta, hinaspa ⟨את⟩ imata runa llaqtakunap chawpinpi pasasqanchikta, mayqinkunata qamkuna pasarqaykichik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chiqaptaq"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "yachanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata Mitsrayim hallp'api tiyasqanchikta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "tiyasqanchik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "imata runa llaqtakunap chawpinpi pasasqanchikta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "pasasqanchik"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "runa llaqtakunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "pasarqaykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T02:56:11.426874451Z",
+  "model": "glm-5.3"
+}

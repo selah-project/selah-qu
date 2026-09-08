@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Kachun paypa churinkuna wakcha ⟨kan⟩mi, hinaspa warminta wira ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "kachun"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "paypa churinkuna"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "hinaspa warminta"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "wira"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:14.599290882Z",
+  "model": "glm-5.3"
+}

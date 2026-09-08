@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 76,
+  "translation": "Kamachiqman togllakunawan; Asafpa (Asaf) mizmor, taki.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "kamachiqman"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "togllakunawan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafpa (Asaf)"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:12.592661228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 126,
+  "translation": "Kutichiy, Yahwe, ⟨את⟩ kutiyniykuta, Negevpi mayukuna hina.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Kutichiy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutiyniykuta"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "kutiyniyku"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "mayukuna hina"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Negevpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:22.032145744Z",
+  "model": "glm-5.3"
+}

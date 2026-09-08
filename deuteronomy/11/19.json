@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa ⟨את⟩ chaykunata ⟨את⟩ wawaykichikman yachachinkichik, wasiykichi ukhupi tiyakuspayki, ñanpi purikuspayki, samakuspayki, hatarikuspaykipas kaykunamanta rimaspa.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "yachachinkichik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chaykunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawaykichikman"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "wawaykichikman"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimaspa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kaykunamanta"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "tiyakuspayki"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "wasiykichi ukhupi"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "purikuspayki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "samakuspayki"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "hatarikuspaykipas"
+    }
+  ],
+  "timestamp": "2026-09-08T02:36:55.245766702Z",
+  "model": "glm-5.3"
+}

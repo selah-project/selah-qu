@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Unukuna puriy kutiymanta hallp'amanta kutirqankumm, pichqa chunka huk pachak p'unchaw puchukasqanpitaq unukuna pisiyarqankum.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "kutirqankum"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unukuna"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'apatan"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "puriy"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "pisiyarqankum"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unukuna"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "puchukasqanpi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pichqa chunka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "huk pachak"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawkuna"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:08.445148497Z",
+  "model": "glm-5.3"
+}

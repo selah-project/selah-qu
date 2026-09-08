@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "Sichus wasiypa toldoman yaykusaq, sichus puñuway catreyman siqarisaq chayqa —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "yaykusaq"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "toldoman"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "wasiypa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "siqarisaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "catrey"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "puñuway"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:26.551360193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Qallariymantam puchukayta willaqmi kaniman, wiñaymantañataq manaraq ruwasqa kakunata; ninqanim: yupayniy sayachikanqam, llapan munasqaytawan rurasaq.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "willaqmi kaniman"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "qallariymanta"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "puchukayta"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "wiñaymantañataq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kakuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ruwasqa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ninqanim"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "yupayniy"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sayachikanqam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "munasqaytawan"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "rurasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:27:29.592143935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Elohim ⟨את⟩ Noahta (Noé), hinaspa ⟨את⟩ churinkunata bendijirqanmi, paykunataq nirqan: Miraykuychik, askhakapuychik, ⟨את⟩ kay pachata hunt'achichik.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "bendijirqanmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noahta"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noahta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "churinkunata"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunataq"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "miraykuychik"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "askhakapuychik"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "hunt'achichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay pachata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pachata"
+    }
+  ],
+  "timestamp": "2026-09-08T02:02:24.783085320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa ⟨את⟩ runaypa p'akiyninta pisillalla hampirqanku, 'Shalom, shalom' nispa; ichaqa shalomqa mana ⟨kan⟩chu.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "hampirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runaypa p'akiyninta"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "p'akiy"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runaypa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pisillalla"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "pisillalla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalomchu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:51:10.417645203Z",
+  "model": "glm-5.3"
+}

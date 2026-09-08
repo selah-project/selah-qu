@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Barikuqmi Yahwe Elohim, Israelpa Elohimnin, payllanmi munaylla rurasqakunata ruwaq.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barikuqmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "munaylla rurasqakunata"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "payllanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:24.957082338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Imaraykuchus q'ochuykachaqkunawan qiñakurqanim, haq'iy runakunap sumaq kawsayninta qhawarqanim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "qiñakurqanim"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "q'ochuykachaqkunawan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sumaq kawsaynin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haq'iy runakunap"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "qhawarqanim"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:10.729038161Z",
+  "model": "glm-5.3"
+}

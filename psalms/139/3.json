@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Ñanniyta hinaspa puñuyniyta waqhurqanki; llapan ñanniykunata riqsisqawankim.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "ñanniy"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "puñuyniy"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "waqhurqanki"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ñanniykuna"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "riqsisqawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:54.723642148Z",
+  "model": "glm-5.3"
+}

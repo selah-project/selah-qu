@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 5:4",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Kaytaqmi shalom ⟨kan⟩ Ashur (Asiria) nunamanta: pay hamuptin hallp'anchikman, wasinchikkunapi saraptin, payman qanchis michiqkunata, pusaq runa umalliqkunatapas sayachisqaykum.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ptin"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hamuptin"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "hallp'anchikman"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "saraptin"
+    },
+    {
+      "surface": "בארמנתינו",
+      "gloss": "wasinchikkunapi"
+    },
+    {
+      "surface": "והקמנו",
+      "gloss": "sayachisqayku"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "michiqkunata"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "pusaqta"
+    },
+    {
+      "surface": "נסיכי",
+      "gloss": "umalliq"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:06:54.463826772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Imaraykuchus mana yuyarqachu jesed (khuyakuy) ruranapaq; wakchata, wakcha-uchhatawan, sunqu-nakusqatawan qatirqan, wañuchinapaq.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yuyarqachu"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ruranapaq"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "qatirqan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runata"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wakchata"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "wakcha-uchhatawan"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "nakusqatawan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "wañuchinapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:13.054525691Z",
+  "model": "glm-5.3"
+}

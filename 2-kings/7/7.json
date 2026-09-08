@@ -1,0 +1,80 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "2-kings 7:7",
+ "book": "2-kings",
+ "lang": "qu",
+ "chapter": 7,
+ "translation": "Chaysi sayarqanku, ch'isi tutapitaram ayqirqanku; saqirqanku ⟨את⟩ toldonkunkunata, hinaspa ⟨את⟩ kawallinkunata, hinaspa ⟨את⟩ burrnkukunata — campamento kikillanlla — kawsayninkupaq ayqispa.",
+ "tokens": [
+  {
+   "surface": "ויקומו",
+   "gloss": "sayarqanku"
+  },
+  {
+   "surface": "וינוסו",
+   "gloss": "ayqirqanku"
+  },
+  {
+   "surface": "בנשף",
+   "gloss": "ch'isi tutapita"
+  },
+  {
+   "surface": "ויעזבו",
+   "gloss": "saqirqanku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "toldonkunkunata"
+  },
+  {
+   "surface": "אהליהם",
+   "gloss": "toldonkunkuna"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "kawallinkunata"
+  },
+  {
+   "surface": "סוסיהם",
+   "gloss": "kawallinkuna"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "burrnkukunata"
+  },
+  {
+   "surface": "חמריהם",
+   "gloss": "burrnkukuna"
+  },
+  {
+   "surface": "המחנה",
+   "gloss": "campamento"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "kikillanlla"
+  },
+  {
+   "surface": "היא",
+   "gloss": "kikillan"
+  },
+  {
+   "surface": "וינסו",
+   "gloss": "ayqispa"
+  },
+  {
+   "surface": "אל",
+   "gloss": "-paq"
+  },
+  {
+   "surface": "נפשם",
+   "gloss": "kawsayninku"
+  }
+ ],
+ "timestamp": "2026-09-08T05:32:25.986791443Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Huk generasyun purinmi, huktaq hamunmi; hallp'aqa wiñaypaqmi sayachkan.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "huk generasyun"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "purinmi"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "huktaq generasyun"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamunmi"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "hallp'aqa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "sayachkan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:31.216296199Z",
+  "model": "glm-5.3"
+}

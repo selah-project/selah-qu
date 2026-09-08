@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaymanta tawa chunka p'unchaw puchukayninpi, Noaj (Noé) ⟨את⟩ arkap teqanta kicharqan, kikin ruwasqanta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chaymanta karqan"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "puchukayninpi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "tawa chunka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "kicharqan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arkap teqanta"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "teqanta"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arkap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kikin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqanta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:34.307949019Z",
+  "model": "glm-5.3"
+}

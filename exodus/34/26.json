@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 34:26",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Allpayki pa ñawpa tarpuyninkunata — chiqap ñawpafrutasninta — Yahwe Elohimniyki wasinman apamuy; ama awayata mamapnin ñuñunpi wayk'unkichu.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "chiqap ñawpa"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ñawpa tarpuyninkuna (ñawpafrutasninkuna)"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "allpayki"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "apamuy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "wayk'unki"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "awaya"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "ñuñunpi"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mamapnin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:41.307588666Z",
+  "model": "glm-5.3"
+}

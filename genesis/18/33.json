@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Yahwem purirqan, Abrahamwan rimasqanta tukuchispa; hinaspa Abraham kutirqan kaynan tiyananman.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…sapa"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tukuchispa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimasqanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamwan"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "hinaspa Abraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kutirqan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "kaynan tiyananman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:58:10.174016885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Tukuy hark'akunanta p'akirqankim; pukarakunanta ch'usaqchasqa churarqankim.",
+  "tokens": [
+    {
+      "surface": "פרצת",
+      "gloss": "p'akirqankim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "גדרתיו",
+      "gloss": "hark'akunanta"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "churarqankim"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "pukarakunanta"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ch'usaqchasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:26.757648292Z",
+  "model": "glm-5.3"
+}

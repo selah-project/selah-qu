@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Kaytawanmi mana allin onqoy hina: hamusqan hina tukuytawan rinqa; wayrawan llamk'aqpaqqa ima chaninmi kanqa?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "kaytawan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "onqoy hina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuytawan"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "hina"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "hamusqan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hina"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "rinqa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "chanin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paqqa"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "llamk'aq"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "wayrawan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:54.172298595Z",
+  "model": "glm-5.3"
+}

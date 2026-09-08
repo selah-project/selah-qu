@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yafetpa churinkunam: Gomer, Magog, Maday, Yawan, Tuwal, Mesheh, Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafetpa"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "hinaspa Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "hinaspa Maday"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "hinaspa Yawan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "hinaspa Tuwal"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "hinaspa Mesheh"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "hinaspa Tiras"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:03.290586570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "ecclesiastes 12:13",
+ "book": "ecclesiastes",
+ "lang": "qu",
+ "chapter": 12,
+ "translation": "Llapa rimasqap puchukaqm: uyarisqañam. ⟨את⟩ Elohimta manakuy, hinaspa ⟨את⟩ kamachiy-ninkunata waqaychay; kaymi runap llapan kawsaynin.",
+ "tokens": [
+  {
+   "surface": "סוף",
+   "gloss": "puchuka"
+  },
+  {
+   "surface": "דבר",
+   "gloss": "rimasqap"
+  },
+  {
+   "surface": "הכל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "נשמע",
+   "gloss": "uyarisqañam"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Elohinta"
+  },
+  {
+   "surface": "האלהים",
+   "gloss": "Elohimta"
+  },
+  {
+   "surface": "ירא",
+   "gloss": "manakuy"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "kamachiy-ninkunata"
+  },
+  {
+   "surface": "מצותיו",
+   "gloss": "kamachiy-ninkunata"
+  },
+  {
+   "surface": "שמור",
+   "gloss": "waqaychay"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kaymi"
+  },
+  {
+   "surface": "זה",
+   "gloss": "kay"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "האדם",
+   "gloss": "runap kawsaynin"
+  }
+ ],
+ "timestamp": "2026-09-08T14:24:42.469509127Z",
+ "model": "glm-5.3"
+}

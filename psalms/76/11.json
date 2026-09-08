@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 76,
+  "translation": "Runap phiñanmi Yupaychana kanqataq; phiñap qhipaqintañataq waqaychanki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "חמת",
+      "gloss": "phiñan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "yupaychana kanqataq"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "qhipaqintañataq"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "phiñap"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "waqaychanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:35.090945901Z",
+  "model": "glm-5.3"
+}

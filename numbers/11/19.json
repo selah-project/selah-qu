@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Manam huk p'unchaw mikushankichikchu, manam iskay p'unchawchu, manam pichqa p'unchawchu, manam chunka p'unchawchu, manam iskay chunka p'unchawchu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "mikushankichikchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "iskay p'unchaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T01:30:10.366086861Z",
+  "model": "glm-5.3"
+}

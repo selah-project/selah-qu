@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "ecclesiastes 12:7",
+ "book": "ecclesiastes",
+ "lang": "qu",
+ "chapter": 12,
+ "translation": "Hinaspa phurusqaqa hallp'aman kutimunqam, ñawpa hinallataq; samaytaq Elohimman kutimunqam, paypa qusqanmanta.",
+ "tokens": [
+  {
+   "surface": "וישב",
+   "gloss": "kutimunqam"
+  },
+  {
+   "surface": "העפר",
+   "gloss": "phurusqa"
+  },
+  {
+   "surface": "על",
+   "gloss": "pataman"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "hallp'a"
+  },
+  {
+   "surface": "כשהיה",
+   "gloss": "ñawpa hinallataq"
+  },
+  {
+   "surface": "והרוח",
+   "gloss": "samaytaq"
+  },
+  {
+   "surface": "תשוב",
+   "gloss": "kutimunqam"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "האלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "paypa"
+  },
+  {
+   "surface": "נתנה",
+   "gloss": "qusqanmanta"
+  }
+ ],
+ "timestamp": "2026-09-08T11:44:52.796486620Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa Eshtonmi ⟨את⟩ Bet Rafata, hinaspa ⟨את⟩ Paseajta, hinaspa ⟨את⟩ Tejinnata wachakurqan, Ir Najashpa taytan; kaykunaqa Rekah runakunam.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "hinaspa Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wachakurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet Rafata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Paseajta"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tejinnata"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tejinna"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Najashpa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykunaqa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekahpa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:34:33.391658844Z",
+  "model": "glm-5.3"
+}

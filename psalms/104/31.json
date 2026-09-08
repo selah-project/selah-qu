@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Yahwepa glorian wiñaypaq kanchunchik; Yahwem rurasqankunanpi kusikunchun.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kanchunchik"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glorian"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kusikunchun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "rurasqankunanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:57.001574450Z",
+  "model": "glm-5.3"
+}

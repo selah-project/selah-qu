@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Llapa ñanniykipi payta riqsiy; payqa ñanniykikunata chiqanchanqa.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ñanniykipi"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "payta riqsiy"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "chiqanchanqa"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ñanniykikunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:00.353493542Z",
+  "model": "glm-5.3"
+}

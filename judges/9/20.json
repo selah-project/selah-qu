@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Mana chayqa, ninam Abimelechmanta lluqsimunqa hinaspa ⟨את⟩ Shekempa kamachiqninkunata, ⟨את⟩ Millo wasitapas mikhunga; hinaspa ninam Shekempa kamachiqninkunamanta, Millo wasimantawan lluqsimunqa, ⟨את⟩ Abimelechtapas mikhunga.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mana chayqa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lluqsimunqa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "Abimelechmanta"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "hinaspa mikhunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekempa kamachiqninkunata"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "kamachiqninkunata"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekempa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Millo wasita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "hinaspa lluqsimunqa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "kamachiqninkunamanta"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekempa"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "wasimantawan"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "hinaspa mikhunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abimelechta"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelechta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:47:11.448292861Z",
+  "model": "glm-5.3"
+}

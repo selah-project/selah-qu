@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Michiqkunam hamurqanku, paykunata qarqurqankum; Mosheqa sayarirqanmi, paykunata hark'arqanmi, hinaspa ⟨את⟩ uywakunata upyachirqan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "hamurqanku"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "michiqkuna"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "paykunata qarqurqanku"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "paykunata hark'arqan"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "upyachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uywakunata"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "uywakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:14.442427188Z",
+  "model": "glm-5.3"
+}

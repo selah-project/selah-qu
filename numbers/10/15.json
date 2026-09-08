@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Yissaskarpa churinkunap mat'ap awqanpataq paymi karqan Netanel (Natanael), Tswarpa churin.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Hinaspa ... pataq"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "awqan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mat'a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskarpa"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tswarpa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:25:16.700972894Z",
+  "model": "glm-5.3"
+}

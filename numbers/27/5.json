@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Chaymanta qatarqanm Moshe (Moisés) ⟨את⟩ mishpantanta Yahwep ñawpanman.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Chaymanta qatarqanm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishpantanta"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "mishpantanta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpanman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T02:14:44.541166543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Imarayku wañuypi manam kanchu qamta yuyariy; Sheolpi pipas qamta much'achawanqa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "במות",
+      "gloss": "wañuypi"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "qamta yuyariy"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Sheolpi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pipas"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "much'achawanqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:58.846332136Z",
+  "model": "glm-5.3"
+}

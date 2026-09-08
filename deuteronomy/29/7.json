@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa ⟨את⟩ paykunap hallp'anta hap'irqaykumi, hinaspa chayta herencia hina qoykurqayku Reuveni (rubenita) runakunaman, Gadi (gadita) runakunaman, Menashe (Manasés) ayllup kuskanmanpas.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "hinaspa hap'irqayku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paykunap hallp'anta"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "paykunap hallp'a"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "qoykurqayku"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "herencia hina"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Reuveni (rubenita) runakunaman"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "Gadi (gadita) runakunaman"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "kuskanmanpas"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ayllup"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Menashe (Manasés)"
+    }
+  ],
+  "timestamp": "2026-09-08T02:55:52.419949388Z",
+  "model": "glm-5.3"
+}

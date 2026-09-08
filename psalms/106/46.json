@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Churarqanmi ⟨את⟩ paykunata khuyapayaypi, llapan paykunata captive apaqkunap ñawpaqninpi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "churarqanmi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "khuyapayaypi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "paykunata captive apaqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:36.252565796Z",
+  "model": "glm-5.3"
+}

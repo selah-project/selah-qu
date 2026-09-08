@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 29:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "T'anta matsawan, aytawan wanqhusqa matsa t'ikrakunawan, aytawan unchusqa matsa llamp'u t'antakunawan: triyu qinchu aqomanta ⟨את⟩ chaykunata ruwanki.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "t'antawan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matsa"
+    },
+    {
+      "surface": "וחלת",
+      "gloss": "matsa t'ikrakunawan"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "matsa"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "wanqhusqa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "aytawan"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "llamp'u t'antakunawan"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matsa"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "unchusqa"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "aytawan"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "qinchu aqota"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "triyu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chaykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:41:19.283293604Z",
+  "model": "glm-5.3"
+}

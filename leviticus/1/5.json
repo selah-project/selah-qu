@@ -1,0 +1,104 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "leviticus 1:5",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Hinaspa ⟨את⟩ waka wawata Yahwep ñawpaqenpi wañuchinqa, hinaspa Aharonpa churinkuna, kohenkuna, ⟨את⟩ yawarta apamunqaku, hinaspa ⟨את⟩ yawarta altarpa muyuriqpi wayt'inqaku, chay altarqa taripay wasip punkunpi kaqmi.",
+ "tokens": [
+  {
+   "surface": "ושחט",
+   "gloss": "wañuchinqa"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "waka wawata"
+  },
+  {
+   "surface": "בן",
+   "gloss": "wawa"
+  },
+  {
+   "surface": "הבקר",
+   "gloss": "waka"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "ñawpaqenpi"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwep"
+  },
+  {
+   "surface": "והקריבו",
+   "gloss": "apamunqaku"
+  },
+  {
+   "surface": "בני",
+   "gloss": "churinkuna"
+  },
+  {
+   "surface": "אהרן",
+   "gloss": "Aharonpa"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "kohenkuna"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "yawarta"
+  },
+  {
+   "surface": "הדם",
+   "gloss": "yawar"
+  },
+  {
+   "surface": "וזרקו",
+   "gloss": "wayt'inqaku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "yawarta"
+  },
+  {
+   "surface": "הדם",
+   "gloss": "yawar"
+  },
+  {
+   "surface": "על",
+   "gloss": "patapi"
+  },
+  {
+   "surface": "המזבח",
+   "gloss": "altarpa"
+  },
+  {
+   "surface": "סביב",
+   "gloss": "muyuriqpi"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "maypikaq"
+  },
+  {
+   "surface": "פתח",
+   "gloss": "punkun"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "wasi"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "taripay"
+  }
+ ],
+ "timestamp": "2026-09-08T00:49:09.041867374Z",
+ "model": "glm-5.3"
+}

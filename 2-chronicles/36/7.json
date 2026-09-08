@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "2-chronicles 36:7",
+ "book": "2-chronicles",
+ "lang": "qu",
+ "chapter": 36,
+ "translation": "Yahwepa wasinpa llamk'anankunamantam Nebukadnetsar Bavelman apakurqan, Bavelpi wasinpa ñawpaq wasinpi churarqan.",
+ "tokens": [
+  {
+   "surface": "ומכלי",
+   "gloss": "llamk'anankunamanta"
+  },
+  {
+   "surface": "בית",
+   "gloss": "wasinpa"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "הביא",
+   "gloss": "apakurqan"
+  },
+  {
+   "surface": "נבוכדנאצר",
+   "gloss": "Nebukadnetsar"
+  },
+  {
+   "surface": "לבבל",
+   "gloss": "Bavelman"
+  },
+  {
+   "surface": "ויתנם",
+   "gloss": "churarqan"
+  },
+  {
+   "surface": "בהיכלו",
+   "gloss": "wasinpa ñawpaq wasinpi"
+  },
+  {
+   "surface": "בבבל",
+   "gloss": "Bavelpi"
+  }
+ ],
+ "timestamp": "2026-09-08T13:20:19.036402447Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymanta apu kutichispa nirqan: Chay warmiman ⟨את⟩ kawsaq wawata quychiy, ama wañuchiychu chayta; paymi chay wawanpa maman.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kutichispa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "quychiy"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chay warmiman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawsaq wawata"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "החי",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "wañuchiy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "ama wañuchiychu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "wawanpa maman"
+    }
+  ],
+  "timestamp": "2026-09-08T13:39:09.622445247Z",
+  "model": "glm-5.3"
+}

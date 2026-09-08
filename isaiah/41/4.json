@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Pitam ruwarqan ima rurarqan, qallariqmanta wirakunata qayarqan? Ñuqam Yahwe ñawpaqmi; hinaspa ⟨את⟩ qhipakunawan ñuqam pay ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ima rurarqan"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "qayarqan"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "wirakunata"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "qallariqmanta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qhipakunawan"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "qhipakuna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-08T13:47:59.948860704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yahwem Moshepaq, hinaspa Ahronpaqwan nirqan: Apariy qampakuna makikichik hunt'a q'oropa ashinta, Moshem chayta hanaq pachaman Paro ñawinchakupi thaqarqachun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...paq"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ...paqwan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "apariy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qampakuna"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "makikichik"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "ashi"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "q'oro"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "thaqarqachun"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshem"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "hanaq pachaman"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ñawinchakupi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:01.674954278Z",
+  "model": "glm-5.3"
+}

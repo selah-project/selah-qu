@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kunantaqmi, Yahwe, qawachariway ⟨את⟩ nefeshniyta ñuqamanta; wañuymi aswan allinmi kawsaymanta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kunantaqmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "qawachariway"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mañakuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshniyta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "aswan allin"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "wañuy"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "kawsay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:04:04.771443321Z",
+  "model": "glm-5.3"
+}

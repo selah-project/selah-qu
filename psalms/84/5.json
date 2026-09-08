@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 84,
+  "translation": "Ima kusim kanku wasiyki ukhupi tiyaqkuna; kunanraqmi Yahweta yallichinku. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ima kusi"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wasiyki ukhupi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kunanraq"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "Yahweta yallichinku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:13.096311072Z",
+  "model": "glm-5.3"
+}

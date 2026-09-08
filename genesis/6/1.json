@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Karqanm: runa hallp'ap uyanpi askhakuspa qallariptin, hinaspa warmichakuna ñuqankunaman paqarikurqanku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chay"
+    },
+    {
+      "surface": "החל",
+      "gloss": "qallaripten"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "askhakuspa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uyan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "hinaspa warmichakuna"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "paqarikurqanku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ñuqankunaman"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:17.972902332Z",
+  "model": "glm-5.3"
+}

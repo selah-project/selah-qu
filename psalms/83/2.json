@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Elohim, ama ch'inlla qam kankichu, ama pakakuychu, ima ama thaknichiychu, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ch'inlla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qam kanki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "pakakuy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ima ama"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "thaknichiychu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:05.584467987Z",
+  "model": "glm-5.3"
+}

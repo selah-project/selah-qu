@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Millay tiyanawan kuskallachu kanki, kamachikuywan millayta kamariq?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "kuskallachu kanki"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tiyana"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "millay"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "kamariq"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "millayta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kamachikuywan"
+    },
+    {
+      "surface": "חק",
+      "gloss": "kamachikuy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:17.137673551Z",
+  "model": "glm-5.3"
+}

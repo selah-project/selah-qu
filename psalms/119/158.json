@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Q'ollakunata rikurqanimi, llakikurqanimi, imaraykuchus rimayniykiwan mana yupaychawarqankuchu.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqanimi"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "q'ollakunata"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "llakikurqanimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "rimayniykiwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "yupaychawarqankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:59.224929145Z",
+  "model": "glm-5.3"
+}

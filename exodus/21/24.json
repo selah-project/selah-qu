@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Ñawi ñawipaq, kiru kirupaq, maki makipaq, chaki chakipaq.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ñawi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ñawipaq"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ñawi"
+    },
+    {
+      "surface": "שן",
+      "gloss": "kiru"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "kirupaq"
+    },
+    {
+      "surface": "שן",
+      "gloss": "kiru"
+    },
+    {
+      "surface": "יד",
+      "gloss": "maki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "makipaq"
+    },
+    {
+      "surface": "יד",
+      "gloss": "maki"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "chaki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "chakipaq"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "chaki"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:25.487271960Z",
+  "model": "glm-5.3"
+}

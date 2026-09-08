@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 1:6",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Paypa awqan warmi anchatam nanachirqan, chay raykum — Yahwem paypa wawa-paq wasinta wichq'asqan rayku.",
+  "tokens": [
+    {
+      "surface": "וכעסתה",
+      "gloss": "anchatam nanachirqan"
+    },
+    {
+      "surface": "צרתה",
+      "gloss": "paypa awqan warmi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "anchata nanachiypi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "chay rayku"
+    },
+    {
+      "surface": "הרעמה",
+      "gloss": "nanachirqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chay"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wichq'arqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "wichq'asqan"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "wawa-paq wasinta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:01:53.478978769Z",
+  "model": "glm-5.3"
+}

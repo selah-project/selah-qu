@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "«Imaraykutá Yahwepa juramentontata, kamachikuynintawan mana waqaychawankichu, mayqinmi qamman churarqani?»",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "imaraykutá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "waqaychawankichu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "juramentonta"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "juramentonta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kamachikuyninta"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "kamachikuyninta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinmi"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "churarqani"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:59:05.929497366Z",
+  "model": "glm-5.3"
+}

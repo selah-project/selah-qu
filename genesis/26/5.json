@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Chay imaraykumi Abraham (Abrahán) ñiwpay simita uyarqan, ñiwpay waqaychasqayta waqaychakurqan: kamachikuysiyta, suyaykamachikuysiyta, hinaspa Torayta.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyarqan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham (Abrahán)"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ñiwpay simita"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "waqaychakurqan"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ñiwpay waqaychasqayta"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kamachikuysiyta"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "suyaykamachikuysiyta"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "hinaspa Torayta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:02:08.277597538Z",
+  "model": "glm-5.3"
+}

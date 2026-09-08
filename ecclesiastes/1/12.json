@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ñuqa, Kohelet (Willakuq), Israelpa apunmi karqani Yerushalayim (Jerusalén)pi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ñuqa"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet (Willakuq)"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "karqani"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "על",
+      "gloss": "pa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayim (Jerusalén)pi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:36:49.729066364Z",
+  "model": "glm-5.3"
+}

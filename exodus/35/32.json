@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Hinaspa yuyaykunata yuyachinanpaq, quriwan, qullqiwanwan, antawan ruwananpaq.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "yuyachinanpaq"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "yuyaykunata"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ruwananpaq"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "quriwan"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "hinaspa qullqiwan"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "hinaspa antawan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:59.826841879Z",
+  "model": "glm-5.3"
+}

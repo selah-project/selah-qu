@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Llapa llaqtakunam, mayqinkunata ruraramunki, hamunqaku hinaspa Adonay ñawpaqyki adorasqaku, Sutiykita hatunchasqaku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "llaqtakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ruraramunki"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "hamunqaku"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "hinaspa adorasqaku"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ñawpaqyki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "hinaspa hatunchasqaku"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Sutiykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:11.145409558Z",
+  "model": "glm-5.3"
+}

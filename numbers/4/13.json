@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa qatinqankum ⟨את⟩ mizbeajta ashkunmanta, chaymanataq mast'arqanku p'achata, argaman p'achata.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "qatinqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mizbeajta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeajta"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "mast'arqanku"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chaymana"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "p'achata"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "argaman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:18:19.248679018Z",
+  "model": "glm-5.3"
+}

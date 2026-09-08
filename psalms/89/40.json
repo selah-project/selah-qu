@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Beritta siwakniykiqa p'istuykuwanki, hallp'aman llawt'uninta llat'iykuwanki.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "p'istuykuwanki"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "beritta"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "siwakniyki"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "llat'iykuwanki"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "llawt'uninta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:52.791251473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Elisham wañurqan, p'ancharqanku. Chay wata yaykuq p'unchawpim Moabpa awqakunan hallp'aman yaykurqanku.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "p'ancharqanku"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "awqakunan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabpa"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "yaykurqanku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaykuq"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:37:33.970390839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "Pay ñuqata qaywanmi, ñuqaqta kutichisaq; ñuqam kachkasaq paywan sasa p'unchawpi, qispichisaq, hatunchachisaqmi.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "pay ñuqata qaywanmi"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "kutichisaq"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "sasa p'unchawpi"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "qispichisaq"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "hatunchachisaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:01.589322066Z",
+  "model": "glm-5.3"
+}

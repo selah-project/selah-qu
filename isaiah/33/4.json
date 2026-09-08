@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Hinaspa suwasqaykichik huñusqa kanqam, langostakunap huñusqan hina; langostakuna phawaylla chaypi phawankum.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "hinaspa huñusqa kanqam"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "suwasqaykichik"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "huñusqan"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "langostakunap"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "hina"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "langostakuna"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "phawaylla"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:15:28.821037611Z",
+  "model": "glm-5.3"
+}

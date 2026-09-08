@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Elohimmi paypa wasichankunanpi rikhurin hark'aq hina.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "paypa wasichankunanpi"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "rikhurin"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "hark'aq hina"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:17.981340197Z",
+  "model": "glm-5.3"
+}

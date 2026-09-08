@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yahwem Moshe (Moisés)man nirqanm: Imarayku ñuqaman qaparisunki? Israelpa churinkunaman rimay, hinaspa purichinku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "qaparisunki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "hinaspa purichinku"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:08.182168751Z",
+  "model": "glm-5.3"
+}

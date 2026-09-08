@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Llapa runakuna, makiykichikta tak'achiy; Elohimman kusilla kunkawan qhapariy.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Llapa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "tak'achiy"
+    },
+    {
+      "surface": "כף",
+      "gloss": "makiykichikta"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "qhapariy"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kunkawan"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kusilla"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:00.958844947Z",
+  "model": "glm-5.3"
+}

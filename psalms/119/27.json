@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Kamachiykunaykipa ñanta hunt'a yachachimuy, hinaspa rikhurichiykunaykimanta yuyaykusaq.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "kamachiykunaykipa"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "hunt'a yachachimuy"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "hinaspa yuyaykusaq"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "rikhurichiykunaykimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:29.973691954Z",
+  "model": "glm-5.3"
+}

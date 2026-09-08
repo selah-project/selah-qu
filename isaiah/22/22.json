@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 22:22",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Davidpa wasinpa llawinta riqranpi churarqani; paqasaqmi, manam pipas wichq'anchu; wichq'asaqmi, manam pipas paqanchu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "churarqani"
+    },
+    {
+      "surface": "מפתח",
+      "gloss": "llawinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinpa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "riqranpi"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "paypa riqranpi"
+    },
+    {
+      "surface": "ופתח",
+      "gloss": "paqasaqmi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam pipas"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wichq'anchu"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "wichq'asaqmi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam pipas"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "paqanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:06:51.996923781Z",
+  "model": "glm-5.3"
+}

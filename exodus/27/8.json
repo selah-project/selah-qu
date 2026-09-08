@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Ch'usaq llut'akunawan ruranki ⟨את⟩ payta; mayqin hina qhawachikurqanki ⟨את⟩ qamwan orqopi, chay hina rurankunqakum.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "llut'akunawan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruranki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mayqin hina"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "qhawachikurqanki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "qamwan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqopi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chay hina"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "rurankunqakum"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:37.030853913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 30,
+ "ref": "leviticus 11:30",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 11,
+ "translation": "Anakah (gecko), Koah (te-monitor), Letaah (lagarto), Homet (skink nina), Tinshemet (camaleón).",
+ "tokens": [
+  {
+   "surface": "והאנקה",
+   "gloss": "Anakah"
+  },
+  {
+   "surface": "והכח",
+   "gloss": "Koah"
+  },
+  {
+   "surface": "והלטאה",
+   "gloss": "Letaah"
+  },
+  {
+   "surface": "והחמט",
+   "gloss": "Homet"
+  },
+  {
+   "surface": "והתנשמת",
+   "gloss": "Tinshemet"
+  }
+ ],
+ "timestamp": "2026-09-08T00:56:16.073480750Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Pipataq ñuqata rikch'achiwankichik, tupachiwankichik, kamachiyman churiwankichik, rikch'akunanchikpaq?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "pipataq"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "ñuqata rikch'achiwankichik"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "tupachiwankichik"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "kamachiyman churiwankichik"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "rikch'akunanchikpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:47:16.503709431Z",
+  "model": "glm-5.3"
+}

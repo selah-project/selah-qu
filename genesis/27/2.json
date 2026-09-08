@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Nirqan: Qhawariy, kunanmi wawqesqañachá kani, wañuypa p'unchawninta manam yachanichu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nan"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "wawqesqa kani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yachani"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "wañuypa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:02:41.527997619Z",
+  "model": "glm-5.3"
+}

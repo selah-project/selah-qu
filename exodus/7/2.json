@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Qammi ⟨את⟩ tukuy kamachisqaykuta rimanki; hinaspa Aharon wawqiykiqa Paropa (Faraón)man rimanqa, hinaspa ⟨את⟩ Israelpa churinkunata hallp'inmanta lluqsichinqa.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "rimanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy kamachisqaykuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamachisqayku"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "kamachisqaykuta"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "hinaspa Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wawqiyki"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "rimanqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "hinaspa lluqsichinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa churinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "hallp'inmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:59:33.858576480Z",
+  "model": "glm-5.3"
+}

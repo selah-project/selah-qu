@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 3:4",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaym karqan: payman willaptinku p'unchaw p'unchawta, manañam uyariptinchu, Hamanman willarqaku, qhawanankupaq Mordekaypa siminkuna sayankuchus; payqa willarqakuñam paykunaman Yehudamanta kasqantam.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Chaym karqan"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "willaptinku"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manaña...chu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyariptin"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "willarqaku"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamanman"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qhawanankupaq"
+    },
+    {
+      "surface": "היעמדו",
+      "gloss": "sayankuchus"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "siminkuna"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekaypa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "willarqakuñam"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "Yehudamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:46:49.895364140Z",
+  "model": "glm-5.3"
+}

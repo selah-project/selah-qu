@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "Sichus wawakiyki beritniyta, edotniytawan — kaytaqmi yachachisaq — waqaychanku, chayqa wawakinkupas wiñay wiñaykama qampaq tiyanapi tiyanqaku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "waqaychanku"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wawakiyki"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beritniyta"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "edotniytawan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kaytaq"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "yachachisaq"
+    },
+    {
+      "surface": "גם",
+      "gloss": "wawakinkupas"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wawakinku"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tiyanqaku"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "tiyanapi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:40.751807972Z",
+  "model": "glm-5.3"
+}

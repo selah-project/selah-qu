@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yahwepa kunkanmi atiywanmi; Yahwepa kunkanmi hatun sumaq kaywanmi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "kunkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "atiywanmi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kunkan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "hatun sumaq kaywanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:10.058939844Z",
+  "model": "glm-5.3"
+}

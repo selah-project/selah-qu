@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 64,
+ "ref": "psalms 78:64",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 78,
+ "translation": "Paypa kohenninkuna espadan urmarqanku, paypa viudankunataq manam waqarqankuchu.",
+ "tokens": [
+  {
+   "surface": "כהניו",
+   "gloss": "paypa kohenninkuna"
+  },
+  {
+   "surface": "בחרב",
+   "gloss": "espadaN"
+  },
+  {
+   "surface": "נפלו",
+   "gloss": "urmarqanku"
+  },
+  {
+   "surface": "ואלמנתיו",
+   "gloss": "paypa viudankunataq"
+  },
+  {
+   "surface": "לא",
+   "gloss": "manam"
+  },
+  {
+   "surface": "תבכינה",
+   "gloss": "waqarqankuchu"
+  }
+ ],
+ "timestamp": "2026-09-08T10:03:51.276319630Z",
+ "model": "glm-5.3"
+}

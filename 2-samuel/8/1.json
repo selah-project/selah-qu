@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaymanta qhipam Davidmi ⟨את⟩ Pelishtimta (filisteokunata) makaspa pinkaspa kamachirqan; hinaspa Davidmi ⟨את⟩ Meteg-ama (ama llaqtap wisq'anan) Pelishtimpip makinmanta hurqurqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "makarqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtimta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtimta"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "pinkarqan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Meteg-amata"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "Meteg-ama (bridle)"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ama llaqtap"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:38:08.624438201Z",
+  "model": "glm-5.3"
+}

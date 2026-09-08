@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 50:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Yosefpa churinkunaqam taytankus wañusqanta rikurqanku, chaymanta willarqanku: ichapas Yosep ch'iqinmanchá ñuqanchikta, ichapas kutichinmanchá llapa mana allinchakunata, ñuqanchik payman ruwasqanchikta.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "rikurqanku"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wañusqa"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "taytankus"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "willarqanku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ichapas"
+    },
+    {
+      "surface": "ישטמנו",
+      "gloss": "ch'iqinmanchá"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosep"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "kutichinmanchá"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "kutichinman"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa mana allinchakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mana allinchakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "גמלנו",
+      "gloss": "ruwasqanchik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta (Yosepta)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:19:56.351113658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Balakqa wakakunata, wiphala uywakunatawan waqrurqan, chaysi Bilamman, paywan kachkaq kurakakunamanwan kachamurqan.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "waqrurqan"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "wakakunata"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "wiphala uywakunatawan"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kachamurqan"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilamman"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "kurakakunamanwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paywan kachkaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "paywan kachkaq kurakakunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:39:06.935934988Z",
+  "model": "glm-5.3"
+}

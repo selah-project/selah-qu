@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "1-chronicles 6:63",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Yarden (Jordán) hawamanta, Jericho ñiqpi, Yardenpa inti lluqsimuy ladunpi, Reuven (Rubén) mat'iymanta: ⟨את⟩ Betser ch'usaq pampapi qachu pampankunawan, hinaspa ⟨את⟩ Yahatsa qachu pampankunawan.",
+  "tokens": [
+    {
+      "surface": "ומעבר",
+      "gloss": "hawamanta hinaspa"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "Yardenman"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jericho"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "inti lluqsimuy ladunman"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenpa"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "mat'iymanta"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betserta"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pampapi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qachu pampankunata"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "qachu pampankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yahatsata"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahatsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qachu pampankunata"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "qachu pampankuna"
+    }
+  ],
+  "timestamp": "2026-09-08T12:36:48.417628390Z",
+  "model": "glm-5.3"
+}

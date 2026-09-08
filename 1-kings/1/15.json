@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi Bath-sheba apuman chayarqan, wasin ukhunman; apuqa sinchim karqan watayuq. Hinaspa Avishag Shunamitam (Shunamemanta warmi) aputa servirqan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bath"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apuman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "wasin ukhunman"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "hinaspa apuqa"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "karqan watayuq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchim"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "hinaspa Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Shunamitam"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "servirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aputa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "aputa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:38:33.365961149Z",
+  "model": "glm-5.3"
+}

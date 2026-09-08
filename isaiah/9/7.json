@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Simitam Adonaym Yaakovman kacharqan, hinaspa Israelpi urmarqan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "simi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaakovman"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "hinaspa urmarqan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:00:12.423162178Z",
+  "model": "glm-5.3"
+}

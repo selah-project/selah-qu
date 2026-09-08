@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "leviticus 11:3",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 11,
+ "translation": "Llapan parsayuq, parsa iskayman t'aqasqa, jerata wicharichiq uywa, chayta ⟨את⟩ mikunkichik.",
+ "tokens": [
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "מפרסת",
+   "gloss": "parsayuq"
+  },
+  {
+   "surface": "פרסה",
+   "gloss": "parsa"
+  },
+  {
+   "surface": "ושסעת",
+   "gloss": "iskayman t'aqasqa"
+  },
+  {
+   "surface": "שסע",
+   "gloss": "t'aqasqa"
+  },
+  {
+   "surface": "פרסת",
+   "gloss": "parsa"
+  },
+  {
+   "surface": "מעלת",
+   "gloss": "wicharichiq"
+  },
+  {
+   "surface": "גרה",
+   "gloss": "jerata"
+  },
+  {
+   "surface": "בבהמה",
+   "gloss": "uywa"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "⟨את⟩",
+   "marks": "chayta (uywata)"
+  },
+  {
+   "surface": "תאכלו",
+   "gloss": "mikunkichik"
+  }
+ ],
+ "timestamp": "2026-09-08T00:55:17.267255160Z",
+ "model": "glm-5.3"
+}

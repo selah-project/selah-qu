@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yahudapi alsaq kusun, llakichisunchik, p'akispa ñuqanchikman churasunchik, huk aputa churasunchik paypa chawpinpi, ⟨את⟩ Tavelpa churinta.",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "alsaq kusun"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahudapi"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "llakichisunchik"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "p'akispa ñuqanchikman churasunchik"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "aputa churasunchik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "paypa chawpinpi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tavelpa churinta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Tavelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:52:16.408973651Z",
+  "model": "glm-5.3"
+}

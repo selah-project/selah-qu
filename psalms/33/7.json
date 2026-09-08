@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Mama quchapa yakunkunata qutu hina huñun; ukhu yakukunata waqaychana wasikunapi churanm.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "huñun"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "qutu hina"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yakunkunata"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama quchapa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churan"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "waqaychana wasikunapi"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ukhu yakukunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:37.469361757Z",
+  "model": "glm-5.3"
+}

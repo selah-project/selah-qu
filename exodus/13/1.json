@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa Yahwem rimarqan Mosheman (Moisésman), nispa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "hinaspa rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:32.427006617Z",
+  "model": "glm-5.3"
+}

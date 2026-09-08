@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspami Shelomo (Salomón) ⟨את⟩ Gezerta, hinaspa ⟨את⟩ Bet-Choron uraynanta wasicharqan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wasicharqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezerta"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Bet-Choron uraynanta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet (wasi)"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Choron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "uraynan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:07:14.216086301Z",
+  "model": "glm-5.3"
+}

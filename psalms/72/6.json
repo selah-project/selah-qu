@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Param hina phallasqa q'omer patan uramanqam, para tamakunahina hallp'ata ch'urawan.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "uramanqa"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "param hina"
+    },
+    {
+      "surface": "על",
+      "gloss": "patan"
+    },
+    {
+      "surface": "גז",
+      "gloss": "phallasqa q'omer"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "para tamakunahina"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "ch'urawan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:43.941733170Z",
+  "model": "glm-5.3"
+}

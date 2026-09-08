@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa Yahwepa willaqnin Hagarman nirqanmi: Askhachasqam askhachasqa ⟨את⟩ musphayki, hinaspa askha kayninta mana yupasqa kanqa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqanmi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "Hagarman"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "willaqnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "askhachasqam"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "askhachasqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musphayki"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "musphayki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "yupasqa kanqa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "askha kayninta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:55:47.385606597Z",
+  "model": "glm-5.3"
+}

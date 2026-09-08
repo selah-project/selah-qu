@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Mach'aqway mana upay kaptin kaninqa, simiyuqpaq atipaynin mana kanchum.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kaptinqa"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "kaninqa"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "mach'aqway"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "upay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "atipaynin"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "yuqpaq"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "simi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:46.896841539Z",
+  "model": "glm-5.3"
+}

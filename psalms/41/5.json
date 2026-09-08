@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "psalms 41:5",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 41,
+ "translation": "Ñuqam nirqani: Yahwe, khuyakuway, Nefeshniyta hampiy, imaraykuchus qamta huchalayarqanimi.",
+ "tokens": [
+  {
+   "surface": "אני",
+   "gloss": "ñuqam"
+  },
+  {
+   "surface": "אמרתי",
+   "gloss": "nirqani"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "חנני",
+   "gloss": "khuyakuway"
+  },
+  {
+   "surface": "רפאה",
+   "gloss": "hampiy"
+  },
+  {
+   "surface": "נפשי",
+   "gloss": "Nefeshniyta"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "חטאתי",
+   "gloss": "huchalayarqanimi"
+  },
+  {
+   "surface": "לך",
+   "gloss": "qamta"
+  }
+ ],
+ "timestamp": "2026-09-08T09:46:31.522757550Z",
+ "model": "glm-5.3"
+}

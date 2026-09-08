@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Pitá kay gloriam apun? Yahwem, sinchi atiyniyuq, sinchim; Yahwem, awqanakuypi sinchim.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Pitá"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "gloriam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "sinchi atiyniyuq"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "hinaspa sinchi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "awqanakuypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:58.088786980Z",
+  "model": "glm-5.3"
+}

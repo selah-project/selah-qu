@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi Elohim nirqan: K'anchay kanqan; hinaspa k'anchay karqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Chaysi nirqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kanqan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchay"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "hinaspa karqan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchay"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:17.439562573Z",
+  "model": "glm-5.3"
+}

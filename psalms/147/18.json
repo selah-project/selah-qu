@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Siminta kacham, chaykunaqa ñawsayachikam; waynantam samachin, unukunataq puriytam qallarinku.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "kacham"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "ñawsayachikam"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "samachin"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "waynanta"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "puriytam qallarinku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unokuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:58.025437186Z",
+  "model": "glm-5.3"
+}

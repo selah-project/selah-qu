@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 1:6",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kayhinam Yahwem nirqan: Aza kimsa p'itiykunata, tawantintaq, manam kutichisaqchu; hunt'alla mitichiyta mitichisqankurayku, Edomman qarasapankupaq.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "p'itiykunata"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa ... rayku"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "tawantin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "kutichisaqchu"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "הגלותם",
+      "gloss": "mitichisqanku"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "mitichiyta"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "hunt'alla"
+    },
+    {
+      "surface": "להסגיר",
+      "gloss": "qarasapankupaq"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "Edomman"
+    }
+  ],
+  "timestamp": "2026-09-08T08:55:37.554890639Z",
+  "model": "glm-5.3"
+}

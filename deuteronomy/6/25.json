@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa cheqan kay ⟨kan⟩mi ñuqanchikpaq, imaraykuchus waqaychaspa ruwanapaq ⟨את⟩ llapa kay kamachikuyta Yahwe Elohimninchikpa ñawpaqpi, hina imayna ñuqanchikta kamachimurqan.",
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "hinaspa cheqan kay"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikpaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "waqaychaspa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa kay kamachikuyta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "kamachikuyta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina imayna"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "kamachimurqan ñuqanchikta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:32:48.041762401Z",
+  "model": "glm-5.3"
+}

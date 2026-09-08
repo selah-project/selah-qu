@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Manam llakichinqakuchu, manataq chinkachinqakuchu Yahwepa llapan willka orqonpi; hunt'asqam hallp'a ⟨את⟩ Yahwepa riqsikuyniwan, imahina unuqa ⟨את⟩ mamakochata p'istun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "llakichinqakuchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "chinkachinqakuchu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqonpi"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "Yahwepa willka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…rayku"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "hunt'asqam"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "riqsikuyniwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa (יהוה)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "imahina unuqa"
+    },
+    {
+      "surface": "לים",
+      "gloss": "mamakochaman"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "p'istun"
+    }
+  ],
+  "timestamp": "2026-09-08T14:35:43.756280711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Kachaychik karnerota, hallp'ap apuqnanpaq, Selamanta ch'usaqman, Tsiyonpa ususinap orqoman.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "kachaychik"
+    },
+    {
+      "surface": "כר",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "משל",
+      "gloss": "apuq"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ch'usaqman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqoman"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususinap"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-08T13:44:24.051775354Z",
+  "model": "glm-5.3"
+}

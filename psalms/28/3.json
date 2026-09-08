@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Ama ñuqata apaychu mana allin runakunawan, mana allinta ruwaqkunanwan; paykuna masinkunawan allin rimayta rimaspa, sonqonkunupitaq millayta walarqankim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "apaychu ñuqata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakuna"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "hinallataq ...-wan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ruwaqkuna"
+    },
+    {
+      "surface": "און",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimaspa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "allin rimayta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "masinkunawan"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "millayta"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "sonqonkunupi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:11.826649927Z",
+  "model": "glm-5.3"
+}

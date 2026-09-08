@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Wasiykimanta Yerushalayim (Jerusalén) patamanta; qampaq apukuna regalokunata apamunqaku**m**.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "wasiykimanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalén)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "apamunqaku"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "שי",
+      "gloss": "regalokunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:32.157862611Z",
+  "model": "glm-5.3"
+}

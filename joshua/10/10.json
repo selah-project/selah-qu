@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 10:10",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yahwem Israel ñawpaqen paykunata thakaytsiykurqan; Giv'onpi (Gabaón) hatun mak'iywan mak'iykurqanku, Beth-Horon (Bet-Horon) orqoman ñanwan qatikurqanku, Azeqa (Azeca) kamawan Makeda (Makeda) kamawan mak'iykurqanku.",
+  "tokens": [
+    {
+      "surface": "ויהמם",
+      "gloss": "thakaytsiykurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "mak'iykurqanku"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mak'iywan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Giv'onpi (Gabaón)"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "qatikurqanku"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanwan"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "orqoman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Horon (Bet-Horon)"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "mak'iykurqanku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeqa (Azeca)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kamawan"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makeda"
+    }
+  ],
+  "timestamp": "2026-09-08T03:17:09.641961182Z",
+  "model": "glm-5.3"
+}

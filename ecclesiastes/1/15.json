@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Wanchusqaqa manam allinchakuyta atinchu; ch'usaq kaqtaq manam yupayta atinchu.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "wanchusqaqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "atinchu"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "allinchayta"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "ch'usaq kaqtaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "atinchu"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "yupayta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:13.526928775Z",
+  "model": "glm-5.3"
+}

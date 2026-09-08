@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Uyariy ñuqap mañasqaykunap ñawinta, Qamman qayarqaypi, makayta huqariptiy qanpa santopa ñawpa wasiykiman.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Uyariy"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ñawinta"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mañasqaykunap"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "qayarqaypi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Qamman"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "huqariptiy"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makayta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ñawpa wasiykiman"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "qanpa santopa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:11.826391452Z",
+  "model": "glm-5.3"
+}

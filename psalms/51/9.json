@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "psalms 51:9",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 51,
+ "translation": "Ezobwan ñuqata pichaway, chaymi pichakusaq; ñuqata maqchhuway, chaymi chiriwmanta yuraq kasaq.",
+ "tokens": [
+  {
+   "surface": "תחטאני",
+   "gloss": "pichaway"
+  },
+  {
+   "surface": "באזוב",
+   "gloss": "ezobwan"
+  },
+  {
+   "surface": "ואטהר",
+   "gloss": "chaymi pichakusaq"
+  },
+  {
+   "surface": "תכבסני",
+   "gloss": "maqchhuway"
+  },
+  {
+   "surface": "ומשלג",
+   "gloss": "chiriwmanta"
+  },
+  {
+   "surface": "אלבין",
+   "gloss": "yuraq kasaq"
+  }
+ ],
+ "timestamp": "2026-09-08T09:51:26.485738031Z",
+ "model": "glm-5.3"
+}

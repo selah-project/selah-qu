@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Payqa runakunap wakchakunata taripanqa, muchusqa wakchakunap churinkunata hinaspa qatipayta qispichinqa, llakichiqta p'akisqachinqawan.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "taripanqa"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "wakchakunata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "qispichinqa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "muchusqa wakchakunap"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "p'akisqachinqawan"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "llakichiqta qatipayta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:33.206542034Z",
+  "model": "glm-5.3"
+}

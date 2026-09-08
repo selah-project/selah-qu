@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 137,
+  "translation": "Yahwem yuyari Edompa wawankunata ⟨את⟩ Yerushalayimp p'unchawta, ñawpaq nisqankuna: Thakychiy, thakychiy tiwankama kaypi.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yuyari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunata"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edompa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'unchawta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimp"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ñawpaq nisqankuna"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "thakychiy"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "thakychiy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tiwankama"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "tiwan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:23.390344290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Nirqanm: Ama manchakichu; achkam ñuqanchikwan ⟨את⟩ kachkaqkuna, paykunawan ⟨את⟩ kachkaqkunamanta aswanmi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nirqanm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "manchakichu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqanmanta"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "achkam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kachkaqkuna"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñuqanchikwan"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunawan",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-08T05:28:01.404564971Z",
+  "model": "glm-5.3"
+}

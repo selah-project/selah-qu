@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Imayna askham allin kayniyki! Chayta qamtata manchariqkunapaq pakarqanki, qampi hark'akusqakunapaq runakunap ñawpaqenpi ruwarqanki.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "רב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "allin kayniyki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "pakarqanki"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "qamtata manchariqkunapaq"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "ruwarqanki"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "hark'akusqakunapaq"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ñawpaqenpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "runakunap churinkuna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:39.814091497Z",
+  "model": "glm-5.3"
+}

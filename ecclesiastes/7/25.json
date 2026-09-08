@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Muyurqani, ñuqa sunquywanllawan, yachanapaq, maskanapaq, yachayta ch'ikuriytawan maskaspa, mana allin kayta, q'omer kayta, huch'uy yachay uywaraynintawan yachanapaq.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "muyurqani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "hinaspa sunquywan"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "yachanapaq"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "hinaspa maskanapaq"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "hinaspa maskaspa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ch'ikuriytawan"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "hinaspa yachanapaq"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin kayta"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "q'omer kayta"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "hinaspa huch'uy yachayta"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "uywarayninta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:25.091719100Z",
+  "model": "glm-5.3"
+}

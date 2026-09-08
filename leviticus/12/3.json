@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa pusaq ñiqin p'unchawpi paypa q'ara qaranta kuchunqa.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "p'unchawpi hinaspa"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "pusaq ñiqin"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "kuchunqa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "qaran"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "paypa q'ara qaranta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:56:14.349663775Z",
+  "model": "glm-5.3"
+}

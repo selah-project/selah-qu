@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Mitsrayimqa ch'usaqmi, mana imapaqpas yanapaspa; chayrayku kayta suticharqani: «Rahab, sayaspa samiq».",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayimqa"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "mana imapaqpas"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "yanapaspa"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "suticharqani"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "pay"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "sayaspa samiq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:47:22.953284053Z",
+  "model": "glm-5.3"
+}

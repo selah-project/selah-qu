@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 97,
+  "translation": "Uyarirqanmi Tsiyon, kusikurqan; Yehudap churiyinkunapas phawakusipakurqanku Yahwepa kamachikuyninkunanta rayku.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "uyarirqanmi"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "kusikurqan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "phawakusipakurqanku"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "churiyinkunapas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "kamachikuyninkunanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:07.988480167Z",
+  "model": "glm-5.3"
+}

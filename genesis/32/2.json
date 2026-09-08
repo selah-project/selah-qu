@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Hinaspa Yaakov ñanpi purirqanmi; Elohimpa willkaqkuna payta qatirirqanku.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "qatirirqanku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "willkaqkuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:06:50.225814001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "1-kings 2:12",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Shelomopis David taytanpa tiyananpi tiyarqanmi; hinaspa paypa kamachikuynin sinchitam sayarirqan.",
+ "tokens": [
+  {
+   "surface": "ושלמה",
+   "gloss": "Shelomopis"
+  },
+  {
+   "surface": "ישב",
+   "gloss": "tiyarqan"
+  },
+  {
+   "surface": "על",
+   "gloss": "patapi"
+  },
+  {
+   "surface": "כסא",
+   "gloss": "tiyananpi"
+  },
+  {
+   "surface": "דוד",
+   "gloss": "David"
+  },
+  {
+   "surface": "אביו",
+   "gloss": "taytanpa"
+  },
+  {
+   "surface": "ותכן",
+   "gloss": "sayarirqan"
+  },
+  {
+   "surface": "מלכתו",
+   "gloss": "kamachikuynin"
+  },
+  {
+   "surface": "מאד",
+   "gloss": "sinchitam"
+  }
+ ],
+ "timestamp": "2026-09-08T04:56:36.148473357Z",
+ "model": "glm-5.3"
+}

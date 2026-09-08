@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Rikurqanimi ⟨את⟩ llapa rurasqakunata maypi rurasqa inti uranpi; hinaspa qhawari: llapanmi hebel ⟨kan⟩, wayra nanachiytawan.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Rikurqanimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa rurasqakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "rurasqakunata"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "rurasqa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uranpi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "hinaspa qhawari"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "llapanmi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel (ch'usaq)"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "hinaspa nanachiy"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:13.526776317Z",
+  "model": "glm-5.3"
+}

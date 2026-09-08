@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 146,
+  "translation": "Yahwem waq llaqtakunata ⟨את⟩ much'asqakunata wañusqa warmiyuq warmakunatapas sayarichinmi; mana allin runakunap ñanntaq sirp'inmi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "waq llaqtakunata much'aspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waq llaqtakunata"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "waq llaqtakuna"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "much'asqa"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "wañusqa warmiyuq warmi"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "sayarichinmi"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "hinaspa ñan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakunap"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "sirp'inmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:42.383881151Z",
+  "model": "glm-5.3"
+}

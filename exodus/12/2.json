@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Kay killa qamkunapaq killakunap umam ⟨kan⟩; payqa qamkunapaq wata killakunamanta ñawpaqmi.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "kay killa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umam"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "killakunap"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "killakunamanta"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:18.095209807Z",
+  "model": "glm-5.3"
+}

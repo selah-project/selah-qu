@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Han wasinkunata unapi k'askachinmi; phuyukunata purinanchan ruwan; wayra phanchanpapi purin.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "han wasinkunata k'askachin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unapi"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "han wasinkunap"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "phuyukunata"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "purinanchan"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "purin"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "phan-chanpapi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:57.313241808Z",
+  "model": "glm-5.3"
+}

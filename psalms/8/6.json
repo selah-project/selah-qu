@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Elohimmanta asllawan pisiyachirqankim, hinaspa k'anchaywan, hatun sumaq kaywan t'ikachirqankim.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "pisiyachirqanki"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "asllawan"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "k'anchaywan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "hatun sumaq kaywan"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "t'ikachirqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:36.804576789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Meribap unayninkunapis Yahweta sinch'i yawarch'akurqankum, chayrayku Moshepaq mana allinmi karqan paykunarayku.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "sinch'i yawarch'akurqanku"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "unayninkunapi"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "mana allinmi karqan"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshepaq"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "paykunarayku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:08.359910861Z",
+  "model": "glm-5.3"
+}

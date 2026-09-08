@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Ñanpi, malonpi tiyaspam Yahwe payta tuparqan, payta wañuchiyta munaspa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "tiyaspam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "malonpi"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "tuparqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "munarqan"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "wañuchiyta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:33.074333194Z",
+  "model": "glm-5.3"
+}

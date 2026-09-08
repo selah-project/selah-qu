@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 123,
+  "translation": "Pichqachunka hanaqman taripaykachay—shirom. Hanaq pachapi tiyaq qamman ⟨את⟩ ñawiykunata halarqanim.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "shirom"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "pichqachunka hanaqman taripaykachay"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "halarqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawiykunata"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiykunata"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanaq pachapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:10.762430921Z",
+  "model": "glm-5.3"
+}

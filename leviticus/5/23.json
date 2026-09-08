@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 5:23",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaym sichus muchun hinaspa anchakun, hinaspa kutichin ⟨את⟩ suwasqanta suwasqan, utaq ⟨את⟩ ñakarichisqanta ñakarichisqan, utaq ⟨את⟩ waqaychasqanta payman waqaycharqasqan ⟨את⟩ paywan, utaq ⟨את⟩ chinkasqanta tarisqan.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "chaym"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "muchun"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "anchakun"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "kutichin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suwasqanta"
+    },
+    {
+      "surface": "הגזלה",
+      "gloss": "suwasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "suwasqan"
+    },
+    {
+      "surface": "גזל",
+      "gloss": "suwarqan"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñakarichisqanta"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ñakarichisqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ñakarichisqan"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ñakarichin"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waqaychasqanta"
+    },
+    {
+      "surface": "הפקדון",
+      "gloss": "waqaychasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waqaychasqa"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "waqaycharqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chinkasqanta"
+    },
+    {
+      "surface": "האבדה",
+      "gloss": "chinkasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tarisqan"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "tarin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:51:18.133526474Z",
+  "model": "glm-5.3"
+}

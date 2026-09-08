@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa huk para-phuyum hallp'amanta wichayqarqan, chaymanta ⟨את⟩ llapan allpap ñawinta unuwan yarqochirqan.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "para-phuyu"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "wichayqarqan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "unuwan yarqochirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawin"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "allpap"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:16.185421711Z",
+  "model": "glm-5.3"
+}

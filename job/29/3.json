@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 29:3",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Paypa k'anchaynin ñuqap umaypi lliphiqtin, paypa k'anchayninwan purini tutapi.",
+  "tokens": [
+    {
+      "surface": "בהלו",
+      "gloss": "lliphiqtin"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "paypa k'anchaynin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ñuqap umay"
+    },
+    {
+      "surface": "לאורו",
+      "gloss": "paypa k'anchayninwan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "purini"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tutapi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:13:45.535523986Z",
+  "model": "glm-5.3"
+}

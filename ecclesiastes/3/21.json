@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Pita yachan runa wawankunap samnin hanaqman riqtinta, hinaspa uywakunap samnin hallp'aman uraymuqtinta?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yachan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "samnin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "hanaqman riq"
+    },
+    {
+      "surface": "היא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "hanaqman"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "hinaspa samnin"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "uywap"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "uraymuq"
+    },
+    {
+      "surface": "היא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "urayman"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'aman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:37:38.823890664Z",
+  "model": "glm-5.3"
+}

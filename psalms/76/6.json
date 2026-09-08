@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 76,
+  "translation": "Suwakusqañam sunqu-sinchiyuqkuna; puñuyta puñurqanku, ichataq mana taripankuchu makiyinkutataq llapan atiy-yuq runakuna.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "suwakusqaña"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "puñuy"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "puñuyta puñurqanku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "taripanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "atiy-yuq"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "makiyinku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:56.608702702Z",
+  "model": "glm-5.3"
+}

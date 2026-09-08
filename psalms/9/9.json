@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Paymi pachata chaninpi taripanqa, llaqtakunatawan chiqan kaywan taripanqa.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Paymi"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "taripanqa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pachata"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "chaninpi"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "taripanqa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "llaqtakunatawan"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "chiqan kaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:49.693812516Z",
+  "model": "glm-5.3"
+}

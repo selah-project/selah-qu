@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Hinaspa Yahwem Mosheman rimarqan, kayta nispam:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mosheman (ñawpaq rimana)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta nispam:"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:07.930976142Z",
+  "model": "glm-5.3"
+}

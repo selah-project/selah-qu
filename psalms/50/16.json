@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Hinaspa haqeman Elohim nirqan: Imataq qampaq kamachikuymi willanaykipaq, hinaspa beritniyta simiykipi apaykunki?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "hinaspa haqeman"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "willanaykipaq"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "kamachikuymi"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "hinaspa apaykunki"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beritniyta"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "simiykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:16.554449587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa nirqan qollananman: Ah, kaspa apuy navi ñawpaqenpi kasqalla kaptin, chaypi Shomronpi, chayqa payta ⟨את⟩ machaqway onqoyninmanta qichunmanmi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "qollananman"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ah, kaspa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apuy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqenpi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqalla"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomronpi"
+    },
+    {
+      "surface": "אז",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "qichunmanmi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta (Naaman)"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "machaqway onqoyninmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:28:12.976531750Z",
+  "model": "glm-5.3"
+}

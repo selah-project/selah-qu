@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Kanqam sichus churiykichik qamkunaman ninanku: Imataq kay llamk'ay qamkunapaq?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kanqam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ninanku"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "churiykichik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "kay llamk'ay"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:15.329930859Z",
+  "model": "glm-5.3"
+}

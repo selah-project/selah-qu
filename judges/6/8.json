@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Yahwem huk runata, navita (profeta), Israelpa churinkunaman kachamurqan; chaymi nirqan paykunaman: Kaytata nin Yahwe, Israelpa Elohimnin: Ñuqam qamkunata ⟨את⟩ Mitsrayimmanta hatarichirqani, hinaspa qamkunata ⟨את⟩ qaranakuna wasimanta hurqurqani.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "hinaspa kachamurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runata"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kaytata"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "hatarichirqani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "hinaspa hurqurqani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "qaranakuna wasimanta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qaranakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T03:39:20.550514343Z",
+  "model": "glm-5.3"
+}

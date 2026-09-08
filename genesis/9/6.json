@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Runap yawarninta wikch'uq runapura, paqta yawarnin wikch'usqa ⟨kan⟩mi kanqa; imaraykuchus Elohimpa rikch'anewan ruwarqan ⟨את⟩ runata.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "wikch'uq"
+    },
+    {
+      "surface": "דם",
+      "gloss": "yawarninta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "runapura"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "paqta yawarnin"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "wikch'usqa kanqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "rikch'anewan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runata"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:42.264189201Z",
+  "model": "glm-5.3"
+}

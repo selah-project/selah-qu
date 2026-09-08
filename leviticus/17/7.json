@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Manataq ñaqallata wañuchinqankuchu ⟨את⟩ korbankunata saqrakunaman, mayqinkunataq paykunata qatikunku; kayqa wiñaypaq kamachikuy kanqa paykunapa, wawankunapa tukuy.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manataq ...chu"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "wañuchinqankuchu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ñaqallata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korbankunata"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "korbankunata"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "saqrakunaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "qatikunku munakuspa"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "paykunata"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "kamachikuy"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapa"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "wawankunapa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:08.838937623Z",
+  "model": "glm-5.3"
+}

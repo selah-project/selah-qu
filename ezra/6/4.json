@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "kimsa hatun rumi q'atakuna, hinaspa huk musuq qiru q'ata; hinaspa ruray-qullqin apupa wasinmanta qusqa kanqam.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "q'atakuna"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "hinaspa huk q'ata"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "אע",
+      "gloss": "qiru"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "hinaspa ruray-qullqin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinmanta"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "qusqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:12:14.538133591Z",
+  "model": "glm-5.3"
+}

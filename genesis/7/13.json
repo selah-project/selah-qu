@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 7:13",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Kay p'unchawpa kikinpi Noach (Noé), Shem, Ham hinaspa Yafet — Noachpa churinkuna — hinaspa Noachpa warmi, churinkunap kimsa warminkuna ⟨את⟩ paykunawan arkaman haykumurqankum.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "kikinpi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchawpa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בא",
+      "gloss": "haykumurqankum"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "hinaspa Shem"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "hinaspa Yafet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachpa"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "hinaspa warmi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachpa"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "hinaspa kimsa"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "warminkuna"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunawan",
+      "marks": "paykunawan — H854 'with them' preposition, not the object marker"
+    },
+    {
+      "surface": "אל",
+      "gloss": "arkaman"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:29.702400969Z",
+  "model": "glm-5.3"
+}

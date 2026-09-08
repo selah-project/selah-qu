@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Sichus qullqi hina maskanki, hinaspa pakasqa qolqekuna hina maska-maskanki.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "maskanki"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "qullqi hina"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "hinaspa pakasqa qolqekuna hina"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "maska-maskanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:23.842980227Z",
+  "model": "glm-5.3"
+}

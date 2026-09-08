@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Qamtaq kutimunki, Yahwepa siminta uyarinki, hinallataq ⟨את⟩ llapa kamachikuykunata ruranki, mayqinatakunata ñuqa kunan p'unchaw kamachiniyki.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "kutimunki"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "uyarinki"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ruranki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa kamachikuykunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "kamachikuykunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinatakunata"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kamachiniyki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T03:02:06.177981497Z",
+  "model": "glm-5.3"
+}

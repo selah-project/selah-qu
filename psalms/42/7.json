@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Elohimniy, ñuqap ukhupi nefeshniymi pakin; chayraykum qamtam yuyasaq Yarden (Jordán) hallp'amanta, Hermonekuna (Hermanes) orqokunamanta, Mitsar orqomanta.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap ukhupi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "pakin"
+    },
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "raykum"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "qamtam yuyasaq"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "Hermonekuna"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "orqomanta"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:26.183952252Z",
+  "model": "glm-5.3"
+}

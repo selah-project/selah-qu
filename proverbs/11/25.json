@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Bendiciónta quyqem nefeshmi wisñunqan, hinaspa unuchaqpas payllam unuchasqa kanqa.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bendiciónta"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "wisñunqan"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "hinaspa unuchaq"
+    },
+    {
+      "surface": "גם",
+      "gloss": "payllataq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "unuchasqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:42:11.746843788Z",
+  "model": "glm-5.3"
+}

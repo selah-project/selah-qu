@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Chaqrakuy ukhumanta hinaspa nanachikuy ukhumanta nefeshninkunata qispichinqam; hinaspa yawarninku chaniyuqmi paypa ñawinpi.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "chaqrakuy ukhumanta"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "hinaspa nanachikuy ukhumanta"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "qispichinqam"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefeshninkunata"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "hinaspa chaniyuqmi"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "yawarninku"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "paypa ñawinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:23.896785722Z",
+  "model": "glm-5.3"
+}

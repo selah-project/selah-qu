@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "psalms 47:9",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 47,
+ "translation": "Elohimmi llaqtakunapatan kamachirqan, Elohimmi santusnin tiyanapi tiyarqan.",
+ "tokens": [
+  {
+   "surface": "מלך",
+   "gloss": "kamachirqan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "על",
+   "gloss": "patan"
+  },
+  {
+   "surface": "גוים",
+   "gloss": "llaqtakuna"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "ישב",
+   "gloss": "tiyarqan"
+  },
+  {
+   "surface": "על",
+   "gloss": "patan"
+  },
+  {
+   "surface": "כסא",
+   "gloss": "tiyana"
+  },
+  {
+   "surface": "קדשו",
+   "gloss": "santusnin"
+  }
+ ],
+ "timestamp": "2026-09-08T09:46:58.161797744Z",
+ "model": "glm-5.3"
+}

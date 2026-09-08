@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ñuqam siq'okurqani hinaspa puñurqani; hinaspa rikurqanimi, imaraykuchus Yahwem ñuqata suyachimuwanmi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "siq'okurqani"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "hinaspa puñurqani"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "hinaspa rikurqani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ñuqata suyachimuwanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:28.061814693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa qanchis ñiqin p'unchawqa Shabatmi Yahwe Elohimniyki: mana llapan llamk'ayta ruwankichu — qam, wawayki, ususiyki, qharayanayki, warmiyanayki, uywaykiwan, musuq hamuqkiwan, mayqin qatunniyki ukhupi kachkan.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "hinaspa p'unchaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "qanchis ñiqin"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwankichu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "wawaykiwan"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "ususiykiwan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qharayanayki"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "warmiyanaykiwan"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "uywaykiwan"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "musuq hamuqkiwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "qatunniyki ukhupi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:33.363908909Z",
+  "model": "glm-5.3"
+}

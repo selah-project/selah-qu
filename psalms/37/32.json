@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Rasham tsaddiqta suwachkan, hinaspa wañuchinanta maskan.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "suwachkan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Rasham"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "tsaddiqta"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "hinaspa maskan"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "wañuchinanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:21.224405768Z",
+  "model": "glm-5.3"
+}

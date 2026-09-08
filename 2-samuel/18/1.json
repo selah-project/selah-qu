@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Davidmi ⟨את⟩ runakunata ⟨את⟩ paywan kasqata hunt'achirqan, chaykunapatan waranqa pushaqkunata, pachak pushaqkunatawan churarqan.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "hunt'achirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "chaykunapatan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "pushaqkuna"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "pushaqkunatawan"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    }
+  ],
+  "timestamp": "2026-09-08T04:49:10.146242186Z",
+  "model": "glm-5.3"
+}

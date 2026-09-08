@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Umalliqman; Yahwepa servinpa, Davidpa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Umalliqman"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "servinpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:35.715541135Z",
+  "model": "glm-5.3"
+}

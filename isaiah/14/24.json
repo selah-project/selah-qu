@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Yahwe Tsebaotpa juramento, nispa: chiqaqmi, imayna yuyarqani chaynalla kanqa; imayna kamayarqani chaynaqa sayakunqam.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "juramento"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chiqaqmi"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "yuyarqani"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynalla"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "kamayarqani"
+    },
+    {
+      "surface": "היא",
+      "gloss": "chaynaqa"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sayakunqam"
+    }
+  ],
+  "timestamp": "2026-09-08T06:01:49.810107384Z",
+  "model": "glm-5.3"
+}

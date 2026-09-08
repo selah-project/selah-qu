@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa wañuchirqanku; chaymanta Moshe (Moisés) ⟨את⟩ yawarta altarpa muyu muyunta ch'utirqan.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "wañuchirqanku"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "ch'utirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yawarta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "yawarta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarpa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyu muyunta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:01.018809854Z",
+  "model": "glm-5.3"
+}

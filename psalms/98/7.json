@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 98,
+  "translation": "Mama qucha ruyrunchun, hunt'asqanwan; llapan hallp'a, chaypi kawsaqkunapas.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "ruyrunchun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama qucha"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "hunt'asqanwan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "llapan hallp'a"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "kawsaqkunapas"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:09.602902169Z",
+  "model": "glm-5.3"
+}

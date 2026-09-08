@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Chaysi pay ruwarqanmi ⟨את⟩ chusanta, yachaysapa ruraywan, epodpa ruraynanman tupaqta: quri, tekhelet (anqas), argaman (morado), tolaat shani (puka) hinaspa shesh mozr (ñañu linu).",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chusanta"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "chusanta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ruraywan"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "yachaysapa"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ruraynanman tupaqta"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "epodpa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet (anqas)"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "argaman (morado)"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani (puka)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "hinaspa shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mozr (ñañu linu)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:55.914572111Z",
+  "model": "glm-5.3"
+}

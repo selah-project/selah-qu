@@ -1,0 +1,95 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "exodus 18:1",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 18,
+ "translation": "Yitrom (Jetro), Midyanpa kohennin, Moshepa (Moisés) mashan, uyari-mi ⟨את⟩ tukuy imata — imata Elohim ruwasqan Moshepaq, hinaspa Israelpaq, paypa runanpaq —, imaraykuchus Yahwem ⟨את⟩ Israelta Mitsrayimmanta (Egipto) hurqurqan.",
+ "tokens": [
+  {
+   "surface": "וישמע",
+   "gloss": "uyari-mi"
+  },
+  {
+   "surface": "יתרו",
+   "gloss": "Yitrom"
+  },
+  {
+   "surface": "כהן",
+   "gloss": "kohen"
+  },
+  {
+   "surface": "מדין",
+   "gloss": "Midyanpa"
+  },
+  {
+   "surface": "חתן",
+   "gloss": "mashan"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshepa"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "tukuy imata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "tukuy imata"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "imata"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "ruwasqan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "למשה",
+   "gloss": "Moshepaq"
+  },
+  {
+   "surface": "ולישראל",
+   "gloss": "hinaspa Israelpaq"
+  },
+  {
+   "surface": "עמו",
+   "gloss": "paypa runanpaq"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "הוציא",
+   "gloss": "hurqurqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Israelta"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israelta"
+  },
+  {
+   "surface": "ממצרים",
+   "gloss": "Mitsrayimmanta"
+  }
+ ],
+ "timestamp": "2026-09-08T00:32:34.831813279Z",
+ "model": "glm-5.3"
+}

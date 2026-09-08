@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Kaymanta kay Elohim, Elohimninchikmi, wiñaymanta wiñaykama; paymi ñuqanchikta wañuykamanpusakunqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaymanta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaymanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ñuqanchikta pusakunqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "…kama"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuykaman"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:16.513677458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "genesis 24:56",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaysi paykunaman nirqanmi: Ama ñuqata ⟨את⟩ hark'ariwaychu; Yahwem ñuqap ñanta allinyachirqanmi. Ñuqata kachariway, ñuqap apuyman ripunaypaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאחרו",
+      "gloss": "hark'ariwaychu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata hark'ariway"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "allinyachirqanmi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ñuqap ñanta"
+    },
+    {
+      "surface": "שלחוני",
+      "gloss": "ñuqata kachariway"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ripunaypaq"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ñuqap apuyman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:01:15.953415396Z",
+  "model": "glm-5.3"
+}

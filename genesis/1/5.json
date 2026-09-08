@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymanta Elohim intiman «p'unchaw» sutinta curqanmi, tutataq «tuta» sutita curqanmi; ch'isim karqan, paqariym karqan, huk p'unchawmi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sutinta curqanmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "intiman"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "tutataq"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sutita curqanmi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ch'isim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "paqariym"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:22.682861496Z",
+  "model": "glm-5.3"
+}

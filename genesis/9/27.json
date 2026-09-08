@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Elohim Yefetta mast'arun, hinaspa Shempa karwakunapi tiyakunqa; hinaspa Kenaan paykunapa yanapaqmi kanqa.",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "mast'arun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "Yefetta"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "hinaspa tiyakunqa"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "karwakunapi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "hinaspa kanqa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanapaq"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunapa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:27.814965932Z",
+  "model": "glm-5.3"
+}

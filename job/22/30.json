@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Mana ch'uya kasqatawan qispichinqa, makiykikunap ch'uya kaynintawan qispichikunqa.",
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "qispichinqa"
+    },
+    {
+      "surface": "אי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ch'uya kasqatawan"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "qispichikunqa"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "ch'uya kaynintawan"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "makiykikunap"
+    }
+  ],
+  "timestamp": "2026-09-08T11:10:06.170299313Z",
+  "model": "glm-5.3"
+}

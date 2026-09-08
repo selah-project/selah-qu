@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "psalms 30:4",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 30,
+ "translation": "Yahwe, nefeshniyta Sheolmanta hanaqman hurquirqanki, purunman uraykuqkunamanta ñuqata kawsachirqanki.",
+ "tokens": [
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "העלית",
+   "gloss": "hanaqman hurquirqanki"
+  },
+  {
+   "surface": "מן",
+   "gloss": "manta"
+  },
+  {
+   "surface": "שאול",
+   "gloss": "Sheol"
+  },
+  {
+   "surface": "נפשי",
+   "gloss": "nefeshniyta"
+  },
+  {
+   "surface": "חייתני",
+   "gloss": "kawsachirqanki"
+  },
+  {
+   "surface": "מיורדי",
+   "gloss": "uraykuqkunamanta"
+  },
+  {
+   "surface": "בור",
+   "gloss": "purunman"
+  }
+ ],
+ "timestamp": "2026-09-08T09:39:15.610017069Z",
+ "model": "glm-5.3"
+}

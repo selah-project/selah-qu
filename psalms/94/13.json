@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "psalms 94:13",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 94,
+ "translation": "Payta mana allin p'unchawkunamanta thakniyachinanpaqmi, juchasqapaq hawata kañusqan kama.",
+ "tokens": [
+  {
+   "surface": "להשקיט",
+   "gloss": "thakniyachinanpaq"
+  },
+  {
+   "surface": "לו",
+   "gloss": "payta"
+  },
+  {
+   "surface": "מימי",
+   "gloss": "p'unchawkunamanta"
+  },
+  {
+   "surface": "רע",
+   "gloss": "mana allin"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kama"
+  },
+  {
+   "surface": "יכרה",
+   "gloss": "kañusqan"
+  },
+  {
+   "surface": "לרשע",
+   "gloss": "juchasqapaq"
+  },
+  {
+   "surface": "שחת",
+   "gloss": "hawata"
+  }
+ ],
+ "timestamp": "2026-09-08T10:11:12.762084642Z",
+ "model": "glm-5.3"
+}

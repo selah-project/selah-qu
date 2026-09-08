@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 125,
+  "translation": "Yerushalayim: urqukunaqa payta muyurin; chay hina Yahwem paypa runankunata muyurinmi, kunanmanta wiñaykama.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "urqukuna"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyurin"
+    },
+    {
+      "surface": "לה",
+      "gloss": "payta"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyurin"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "paypa runankunata"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kunanmanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:28.466695062Z",
+  "model": "glm-5.3"
+}

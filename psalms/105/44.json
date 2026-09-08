@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Hinaspa runakunap hallp'ankunata karqanku paykunaman; llapan runakunap llamk'asqankunatataq chaskirqankum.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "hallp'ankunata"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "llamk'asqankunatataq"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "llapan runakunap"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "chaskirqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:40.958725608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 64,
+  "translation": "Santusqa llaqtaykikunaqa ch'usaq pampam tukurqanku; Tsiyon (Sión)qa ch'usaq pampam tukurqan, Yerushalayim (Jerusalén)qa ch'usaqchasqam tukurqan.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "llaqtaykikuna"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "santusqa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tukurqankum"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ch'usaq pampa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon (Sión)"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ch'usaq pampa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "tukurqanm"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalén)"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ch'usaqchasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:44:04.307725518Z",
+  "model": "glm-5.3"
+}

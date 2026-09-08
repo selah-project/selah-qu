@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yahwem Natan naviypa (profeta) makipi kacharqan, hinaspa ⟨את⟩ sutinta Yedidejah (Yahwepa khuyasqan) nispa suticharqan, Yahwerayku.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makipi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "naviypa (profeta)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "suticharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidejah (Yahwepa khuyasqan)"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwerayku"
+    }
+  ],
+  "timestamp": "2026-09-08T04:40:37.204942281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 55,
+ "ref": "leviticus 25:55",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 25,
+ "translation": "Ñuqapmi Israelpa wawankuna llamk'aqkuna kanku; ñuqap llamk'aqkunañam paykuna, mayqinkunata Mitsrayim hallp'amanta lluqsinirqani. Ñuqam Yahwe, Elohimniykichik.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "—"
+  },
+  {
+   "surface": "לי",
+   "gloss": "Ñuqapmi"
+  },
+  {
+   "surface": "בני",
+   "gloss": "wawankuna"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "עבדים",
+   "gloss": "llamk'aqkuna"
+  },
+  {
+   "surface": "עבדי",
+   "gloss": "ñuqap llamk'aqkuna"
+  },
+  {
+   "surface": "הם",
+   "gloss": "paykuna"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqinkunata"
+  },
+  {
+   "surface": "הוצאתי",
+   "gloss": "lluqsinirqani"
+  },
+  {
+   "surface": "אותם",
+   "gloss": "⟨את⟩ paykunata",
+   "marks": "paykunata (Israel wawankunata)"
+  },
+  {
+   "surface": "מארץ",
+   "gloss": "hallp'amanta"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "Mitsrayim"
+  },
+  {
+   "surface": "אני",
+   "gloss": "Ñuqam"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohimniykichik"
+  }
+ ],
+ "timestamp": "2026-09-08T01:09:32.273965187Z",
+ "model": "glm-5.3"
+}

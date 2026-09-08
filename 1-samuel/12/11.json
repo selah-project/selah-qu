@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yahwem ⟨את⟩ Yerubalta, hinaspa ⟨את⟩ Bedanta, hinaspa ⟨את⟩ Yiftajta, hinaspa ⟨את⟩ Shmuelta kacharqan; paykunam ⟨את⟩ qamkunata muyuriqpacha awqaykikunap makinmanta hawiarqankichik, chaymanta thaknilla tiyarqankichik.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubalta"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubalta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Bedanta"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yiftajta"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftajta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shmuelta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuelta"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "hawiarqankichik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "awqaykikunap"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "muyuriqpacha"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "tiyarqankichik"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "thaknilla"
+    }
+  ],
+  "timestamp": "2026-09-08T04:11:42.208575458Z",
+  "model": "glm-5.3"
+}

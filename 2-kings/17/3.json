@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 17:3",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Payta sayarirqanmi Shalmaneser (Salmanasar), Ashurpa apun; Hosheam servon tukurqan, chayman mincha (tributo) qowarqan.",
+  "tokens": [
+    {
+      "surface": "עליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "שלמנאסר",
+      "gloss": "Shalmaneser (Salmanasar)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurpa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pay"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Hoshea"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servon"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qowarqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha (tributo)"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:46.133429348Z",
+  "model": "glm-5.3"
+}

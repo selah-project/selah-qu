@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa Uzim ⟨את⟩ Zerajyata (Zaraías) paqarichirqanmi; Zerajyam ⟨את⟩ Merayot (Meraiot) paqarichirqanmi.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Uzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerajyata"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerajya"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "Zerajya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayotta"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-09-08T12:33:08.704128922Z",
+  "model": "glm-5.3"
+}

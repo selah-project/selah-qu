@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Urqukuna paqarisqanku ñawpaqtinmi, hallp'atawan pachatawan kamarqaptiyki; wiñaymanta wiñaykama qammi El kanki.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ñawpaqtin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "urqukuna"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "paqarisqanku"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "kamarqaptiyki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "pachatawan"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "wiñaymanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:49.594709947Z",
+  "model": "glm-5.3"
+}

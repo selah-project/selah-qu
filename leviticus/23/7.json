@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Ñawpaq p'unchawpi santa huñunakuy qamkunapaq kanqa; llapa mita llamk'ayta mana ruwankichikchu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "Ñawpaq"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "santa huñunakuy"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "llamk'ayta"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "mita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ruwankichikchu"
+    }
+  ],
+  "timestamp": "2026-09-08T01:07:19.498193486Z",
+  "model": "glm-5.3"
+}

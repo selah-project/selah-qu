@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Saqta p'achallikurqanim, paykunaman ñawpa rimaypas tukurqani.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "p'achallikurqanim"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "p'achayta"
+    },
+    {
+      "surface": "שק",
+      "gloss": "saqta"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "tukurqani"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ñawpa rimay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:01.596754431Z",
+  "model": "glm-5.3"
+}

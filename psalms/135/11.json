@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Sijhonman (Sihón), Emoriykunap apunman, hinaspa Ogman (Og), Bashanpa apunman, hinaspa Kanaanpa llapa mamallaktankunaman.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sijhonman (Sihón)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriykunap"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "hinaspa Ogman (Og)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashanpa"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "hinaspa llapa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mamallaktankunaman"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:17.290775045Z",
+  "model": "glm-5.3"
+}

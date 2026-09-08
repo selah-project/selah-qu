@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Maqa wayñuypi juchakunayta, thakikunayatawan ama yuyariychu; jesedniyki hina yuyariwaymi ñuqata; allin kayniykirayku, qam Yahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "juchakunayta"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "maqa wayñuypi"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "thakikunayatawan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "yuyariychu"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "jesedniyki hina"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yuyariwaymi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "allin kayniyki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:55.440492044Z",
+  "model": "glm-5.3"
+}

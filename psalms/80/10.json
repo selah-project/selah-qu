@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Ñawpanpaq qhasquchirqanki, saphinchakurqanmi saphinkunawan, hallp'ata hunt'arqanmi.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "qhasquchirqanki"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "ñawpanpaq"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "saphinchakurqanmi"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "saphinkunawan"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "hunt'arqanmi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:03.222000035Z",
+  "model": "glm-5.3"
+}

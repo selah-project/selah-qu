@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa qampi ruwasaqmi ⟨את⟩ imata mana ñawpaq ruwarqanichu, hinaspa ⟨את⟩ imata mana chayhina ruwasaqtañataqchu, tukuy millayniykiyarayku.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "hinaspa ruwasaqmi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata mana ruwasqayta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ruwarqanichu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "imata mana ruwasqayta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ruwasaqta"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ñataq"
+    },
+    {
+      "surface": "יען",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "millayniykiyarayku"
+    }
+  ],
+  "timestamp": "2026-09-08T07:54:27.593178505Z",
+  "model": "glm-5.3"
+}

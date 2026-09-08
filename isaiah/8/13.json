@@ -1,0 +1,51 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "isaiah 8:13",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 8,
+ "translation": "⟨את⟩ Yahwe Tsebaotta ⟨את⟩ willkachiy; paymi manchaykichik kanqa, paymi llakikuy hatarichiqkichik kanqa.",
+ "tokens": [
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahwe Tsebaotta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "צבאות",
+   "gloss": "Tsebaot"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩",
+   "marks": "Yahwe Tsebaotta"
+  },
+  {
+   "surface": "תקדישו",
+   "gloss": "willkachiy"
+  },
+  {
+   "surface": "והוא",
+   "gloss": "paymi"
+  },
+  {
+   "surface": "מוראכם",
+   "gloss": "manchaykichik"
+  },
+  {
+   "surface": "והוא",
+   "gloss": "paymi"
+  },
+  {
+   "surface": "מערצכם",
+   "gloss": "llakikuy hatarichiqkichik"
+  }
+ ],
+ "timestamp": "2026-09-08T05:53:29.619066681Z",
+ "model": "glm-5.3"
+}

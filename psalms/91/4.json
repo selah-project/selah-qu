@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "Paypa phawanawanwan qamta qatinqa, paypa phawanakunan ukhunpi hark'akunki; paypa cheqan kayninmi escudo hinaspa rodela ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "paypa phawanawanwan"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "qatinqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "paypa phawanakunan"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "hark'akunki"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "escudo"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "rodela"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "paypa cheqan kayninmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:02.841609363Z",
+  "model": "glm-5.3"
+}

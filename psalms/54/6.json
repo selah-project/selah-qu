@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 54,
+  "translation": "Qhawariy: Elohimmi ñuqap yanapaqniy; Adonaymi nefeshniy sayachiqkunapawan ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yanapaq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "sayachiqkunapawan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:35.733489144Z",
+  "model": "glm-5.3"
+}

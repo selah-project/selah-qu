@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "¿Chaku asno qora patapi hawanqachu? ¿Waka mikhunanpi waqanqachu?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "hawanqachu"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "chaku asno"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "qora"
+    },
+    {
+      "surface": "אם",
+      "gloss": "icha"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "waqanqachu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "waka"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "mikhunanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:59:06.433146814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 1:7",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ninata Aza pirqaman kachasaqmi, chaymi paypa hatun wasinkunata mikhuspa chinkachinqa.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "kachasaqmi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ninata"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "pirqaman"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mikhuspa chinkachinqa"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "paypa hatun wasinkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T08:55:37.555038108Z",
+  "model": "glm-5.3"
+}

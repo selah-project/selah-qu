@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Yaravam (Jeroboam), Israelpa apun, iskay chunka qanchis wata apayachkasqanpim, Azarya (Azarías), Amatsyapa churin, Yehudapa apun, apayakurqan.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "…watapi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "hinaspa qanchis"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Yaravampa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apayakurqan"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsyapa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:37:31.685878121Z",
+  "model": "glm-5.3"
+}

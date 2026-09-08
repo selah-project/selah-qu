@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Yahwepa phiñakuyninmi llapan goimkunap sayan, ch'iqniyninpas llapan awqankunap sayan: cheremman t'urqurqanmi, wañuchinapaq churarqanmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "phiñakuy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "goimkunap"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "ch'iqniy"
+    },
+    {
+      "surface": "על",
+      "gloss": "sayan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "awqankunap"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "cheremman t'urqurqan"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "wañuchinapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:17:17.557347663Z",
+  "model": "glm-5.3"
+}

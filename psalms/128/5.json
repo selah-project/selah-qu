@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 128,
+  "translation": "Yahwem Tsiyonmanta qamta bendisirqanmi, hinaspa Yerushalayimpa allinta qhaway, kawsayniykipi llapan p'unchawkunata.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "qamta bendisirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyonmanta"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "hinaspa qhaway"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "allinpi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkunata"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "kawsayniykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:05.932315848Z",
+  "model": "glm-5.3"
+}

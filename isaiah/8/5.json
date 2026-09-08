@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Yahwem yapaspa ñuqaman rimarqan aswanrataq, willananpaq.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yapaspa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aswanrataq"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "willananpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:55:29.881206959Z",
+  "model": "glm-5.3"
+}

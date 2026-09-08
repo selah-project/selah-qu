@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymi: ñawpaq lluqsinakuqqa Yahwepa millaynanmi; hinaspa ⟨את⟩ chaqrunakunaqa paypa paqta willakuynin ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chaymi"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "millaynan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "ñawpaq lluqsinakuq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chaqrunakuna"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "chaqrunakuna"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "paypa paqta willakuynin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:50.418217541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Paypaq kanqa p'acha hina, payta ch'uyanchanampaq, hinaspa chumpi hina, wiñaypaq wataykananpaq.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "p'acha hina"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "payta ch'uyanchanampaq"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "chumpi hina"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "wataykananpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:57.535035541Z",
+  "model": "glm-5.3"
+}

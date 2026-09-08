@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa ⟨את⟩ Amalekta qhawarqan, hinaspa mashalninta hunt'ichirqan, nispa: Amalekmi nacionkuna ñawpaqnin karqan; puchukaynintaq chinkaymi tukunqa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekta"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "hunt'ichirqan"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "mashalninta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nacionkuna"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "puchukaynintaq"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tukunqa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "chinkaymi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:10:34.021777979Z",
+  "model": "glm-5.3"
+}

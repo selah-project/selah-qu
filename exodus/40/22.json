@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Hinaspa ⟨את⟩ silluta Tupanakuy Wasipi churarqan, Mishkanpa chiqanninpi chinchayman, p'ardapa hawanpi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silluta"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "silluta"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Tupanakuy"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pi"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "chiqanninpi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanpa"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "chinchayman"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "p'ardapa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:24.814820480Z",
+  "model": "glm-5.3"
+}

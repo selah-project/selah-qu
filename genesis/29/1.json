@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yaakov (Jacob) chakinkunata hunyarirqanmi, hinaspa Anti runakunap hallp'anman purirqan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "hunyarirqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "chakinkunata"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "hinaspa purirqan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hallp'anman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Anti"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:56.196636595Z",
+  "model": "glm-5.3"
+}

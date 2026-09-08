@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Mosherqa rikurqan ⟨את⟩ runata, mana kamachisqa kasqantam — Aharonmi payta p'asnarqan, awqaqninkup ñawpaqinpi qhawakunanpaq.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "mana kamachisqa kasqanta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "p'asnarqan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "qhawakunanpaq"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "awqaqninkup ñawpaqinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:42.337850680Z",
+  "model": "glm-5.3"
+}

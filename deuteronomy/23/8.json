@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Mana lanlichinchu Edom runata (edomita), imaraykuchus payqa qamwawqiykim ⟨kan⟩mi; mana lanlichinchu Mitsrayim runata (egipcio), imaraykuchus ayllu karqanki paypa hallp'anpi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "lanlichinchu"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edom runa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qamwawqiykim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨pay⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "lanlichinchu"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrayim runa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ayllu"
+    },
+    {
+      "surface": "היית",
+      "gloss": "karqanki"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "paypa hallp'anpi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:49:43.779868545Z",
+  "model": "glm-5.3"
+}

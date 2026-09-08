@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Ivrimkunaqa Gadpa Gileadpa hallp'anman ⟨את⟩ Yardenta pasurqankum; Shaultaq chiqapchu Gilgalpi karqan, tukuy runakunataq pay qatirqanku temblesqalla.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Ivrimkunaqa"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "pasurqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardenta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'anman"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadpa"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "Gileadpa"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaultaq"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "chiqapchu"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgalpi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunataq"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "temblesqalla"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pay qatirqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T04:11:20.381316568Z",
+  "model": "glm-5.3"
+}

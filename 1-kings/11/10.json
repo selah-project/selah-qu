@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Kamachirqanmi payta kay rimaypi: ama wak dioskunata qatiriychu; ichaqa manam waqaychakurqanchu ⟨את⟩ Yahwepa kamachisqanta.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kay rimay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ama …-chu"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "qatiriychu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qatiy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichaqa manam"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "waqaychakurqanchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa kamachisqanta (אשר-clauselta)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ta"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachisqanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:09:51.148412919Z",
+  "model": "glm-5.3"
+}

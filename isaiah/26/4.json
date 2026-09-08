@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Yahwepi arraykukuychik wiñaykama, chayrayku Yah Yahwem wiñay-wiñaykunaq rumim kan.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "arraykukuychik"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "wiñay-wiñaykunaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:07:35.609027913Z",
+  "model": "glm-5.3"
+}

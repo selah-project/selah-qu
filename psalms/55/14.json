@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Qammi karqanki, runa, ñuqawan kikin: ñuqap masi, ñuqap riqsisqay.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "ñuqawan kikin"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ñuqap masi"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "ñuqap riqsisqay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:20.336267276Z",
+  "model": "glm-5.3"
+}

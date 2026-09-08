@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa ⟨את⟩ qamkunawan kanqaku runa runa — sapa hunuman hina, paypa taytankunap wasinpa umanmi:",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "hinaspa ⟨את⟩ qamkunawan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sapa hunuman"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uman"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinpa"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "taytankunap"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:14:42.966316379Z",
+  "model": "glm-5.3"
+}

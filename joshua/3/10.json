@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yehoshuam nirqan: Kaywanmi yachankichi huk kawsaq El kankichikpa chawpinpi kachkanta, hinaspa qarqunqata ñawpaqykichikmanta ⟨את⟩ Kanaanita, ⟨את⟩ Hitita, ⟨את⟩ Hiwita, ⟨את⟩ Perizita, ⟨את⟩ Girgashita, hinaspa Emoritatawan, Yebusitatawan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuam"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "kaywan"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "yachankichi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "huk kawsaq El kankichikpa chawpinpi kachkanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "kankichikpa chawpinpi"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "hinaspa qarqunqa"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "qarqunqata"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "ñawpaqykichikmanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanita"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hitita"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Hitita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hiwita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Perizita"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perizita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Girgashita"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashita"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Emoritawan"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebusitawan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:06:57.986214545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Qampa munasqaykita rurayta, Elohimniy, munarqanim; Tora qillqasqaykitaqa sunquypa ukhunpin kachkanmi.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "rurayta"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "munasqaykita"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "munarqanim"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "Tora qillqasqaykita"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ukhunpin"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "sunquypa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:29.445454522Z",
+  "model": "glm-5.3"
+}

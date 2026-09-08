@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 37:9",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Wakhinta huk musquyta musqurqanmi, chayta willarqan ⟨את⟩ wayqeykunaman, nirqanmi: Qhawariy, wakhin musquyta musquni; qhawariy, intita, killatawan, chunka huk quyllurkunatawan ñuqaman ñawinchakuspa.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "musqurqan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wakhin"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "musquy"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "huk"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wayqeykunaman"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "wayqeykunaman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "musquni"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "musquy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "wakhin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "killawan"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "quyllurkuna"
+    },
+    {
+      "surface": "משתחוים",
+      "gloss": "ñawinchakuspa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:12.693467989Z",
+  "model": "glm-5.3"
+}

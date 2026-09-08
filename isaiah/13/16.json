@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 13:16",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa ñawpa wawankunam ñawinkunpa ñawpaqninpi t'aqsakapunqaku; wasinkunam suwasqa kanqa, hinaspa warminkunam hut'achisqa kanqaku.",
+  "tokens": [
+    {
+      "surface": "ועלליהם",
+      "gloss": "hinaspa ñawpa wawankuna"
+    },
+    {
+      "surface": "ירטשו",
+      "gloss": "t'aqsakapunqaku"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ñawinkunpa ñawpaqninpi"
+    },
+    {
+      "surface": "ישסו",
+      "gloss": "suwasqa kanqa"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "wasinkuna"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "hinaspa warminkuna"
+    },
+    {
+      "surface": "תשגלנה",
+      "gloss": "hut'achisqa kanqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T05:57:39.725656156Z",
+  "model": "glm-5.3"
+}

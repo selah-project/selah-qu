@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 9:17",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yachaqkunap rimayninkuna ch'inpi uyarikunmi, sach'a runakunap chawpinpi kamakuqpa qaparisqanmanta ⟨aswan⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "rimayninkuna"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "yachaqkunap"
+    },
+    {
+      "surface": "בנחת",
+      "gloss": "ch'inpi"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "uyarikunmi"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "qaparisqanmanta ⟨aswan⟩"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "kamakuqpa"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "sach'a runakunap chawpinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:01.745271239Z",
+  "model": "glm-5.3"
+}

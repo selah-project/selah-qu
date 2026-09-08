@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hamanm ⟨את⟩ p'achatawan hinaspa ⟨את⟩ kawallutawan hap'irqan, ⟨את⟩ Mordejyta churarqan, llaqtap hatun ñanpi kawallupi purichirqan, ñawpaqninpi qaparirqan: kayhinam ruwasqa kanqa chay runapaq mayta apu yupaychaynanpaq munan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achatawan"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "p'achatawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kawallutawan"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kawallutawan"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordejyta"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordejyta"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "purichirqan"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "hatun ñanpi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtap"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "qaparirqan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwasqa kanqa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "runapaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "munan"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "yupaychaynanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:50:40.103211026Z",
+  "model": "glm-5.3"
+}

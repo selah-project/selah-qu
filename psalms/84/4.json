@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 84,
+  "translation": "Chaypas pisquqa wasita tarirqanmi, ch'usiwachapas k'itinta paypaq churarqan, ayllunpa tiyanan — ⟨את⟩ altarkunaykita, Yahwe Tsebaot, apuy, Elohimniy hinallataq.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chaypas"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "pisqu"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "tarirqanmi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "ch'usiwachapas"
+    },
+    {
+      "surface": "קן",
+      "gloss": "k'ita"
+    },
+    {
+      "surface": "לה",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "ayllunpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altarkunaykita"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "altarkunaykita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apuy"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Elohimniy hinallataq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:37.835501031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Kaymi kay generación, payta maskhaqkunam, ñawiykita mañaqkunam; Yaakov (Jacob) ⟨kan⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generación"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "payta maskhaqkuna"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ñawiykita mañaqkuna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiykita"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:58.088550988Z",
+  "model": "glm-5.3"
+}

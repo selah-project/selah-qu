@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Apuman nirqan: hallp'aypi uyarirqani rimayta — cheqaqmi karqan, qampa rimayniykimanta, qampa yachayniykimantawan.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apunta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apuman"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqaqmi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "uyarirqani"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "hallp'aypi"
+    },
+    {
+      "surface": "על",
+      "gloss": "—manta"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "rimayniykimanta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "yachayniykimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:07:19.043919649Z",
+  "model": "glm-5.3"
+}

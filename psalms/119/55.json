@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Tutapim Sutiykita yuyarqani, Yahwe, hinataqmi Tora niykita waqaycharqani.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "yuyarqani"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tutapi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiyki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "hinataq waqaycharqani"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora niyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:24:25.430331681Z",
+  "model": "glm-5.3"
+}

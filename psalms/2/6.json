@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Ñuqataqmi ñuqap apuwayta Tsiyon (Sión) ñuqap hunt'asqa orqoypi churarqani.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ñuqataqmi"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "churarqani"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ñuqap apuwayta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ñuqap hunt'asqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:04.780450895Z",
+  "model": "glm-5.3"
+}

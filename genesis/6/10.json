@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Noachqa kimsa churikunata walachurqan: ⟨את⟩ Shem (Sem)ta, ⟨את⟩ Cham (Cam)ta, hinaspa ⟨את⟩ Yefet (Jafet)ta.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "walachurqan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachqa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churikunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chamta"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Chamta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yefetta"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefetta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:53.381652728Z",
+  "model": "glm-5.3"
+}

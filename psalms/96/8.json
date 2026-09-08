@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 96,
+  "translation": "Qoy Yahweman Sutipa sumaq kayninta; ofrendata apamuy, haykuy wasin patyankunaman.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sumaq kayninta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Sutipa"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "apamuy"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ofrendata"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "haykuy"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "wasin patyankunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:03.824341054Z",
+  "model": "glm-5.3"
+}

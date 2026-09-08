@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspa llapa hallp'apa runan kusikurqankum, llaqtapas hinaspa samirqam; Atalyahutawan (Atalía) ⟨את⟩ killa-waqlliwan wañuchirqanku.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "kusikurqankum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'apa"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "llaqtapas hinaspa"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "samirqam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Atalyahutawan"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahutawan (Atalía)"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "wañuchirqanku"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "killa-waqlliwan"
+    }
+  ],
+  "timestamp": "2026-09-08T13:05:58.262786120Z",
+  "model": "glm-5.3"
+}

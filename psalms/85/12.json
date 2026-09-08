@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 85,
+  "translation": "Cheqtam hallp'amanta wiñarin; cheqkaypas hanaq pachamanta qhawamun.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "cheqta"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "wiñarin"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "hinallataq cheqkay"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "hanaq pachamanta"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "qhawamun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:17.977316497Z",
+  "model": "glm-5.3"
+}

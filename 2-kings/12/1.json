@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Churi qanchis watayuqmi Yehoash (Joás) apu kaspan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "watayuq"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "apu kaspan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:53.726160220Z",
+  "model": "glm-5.3"
+}

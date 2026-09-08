@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Abraham (Abrahán)qa machusqam karqan, p'unchawkunapiña chayarqan; hinaspa Yahwem ⟨את⟩ Abrahamta tukuy imawan bendiciarqan.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "hinaspa Abraham (Abrahán)"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "machusqa karqan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "p'unchawkunapiña"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "hinaspa Yahwem"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bendiciarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamta"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tukuy imawan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:19.979881474Z",
+  "model": "glm-5.3"
+}

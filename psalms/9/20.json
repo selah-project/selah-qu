@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Sayariy, Yahwe; ama runa sinchiyakunchu; nacionkuna qampa ñawpaqpiyki taripakapunqaku.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "sinchiyakunchu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "taripakapunqaku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nacionkuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "ñawpaqpiyki"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "qampa ñawiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:29.545279050Z",
+  "model": "glm-5.3"
+}

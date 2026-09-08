@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa Noach sik'irirqanmi aqhamanta, hinaspa yacharqan ⟨את⟩ imata usaq sullka churin ruwasqanta.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "sik'irirqanmi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "aqhamanta"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "yacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata usaq sullka churin ruwasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqanta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "usaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churin"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "sullka"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:18.002924362Z",
+  "model": "glm-5.3"
+}

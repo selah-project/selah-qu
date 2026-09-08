@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Yahwepa yanapayniy mana kaptinqa, pisillamanta nefeshiy ch'inpi tiyakunan karqan.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "mana kaptinqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "yanapay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "pisillamanta"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "tiyakunan karqan"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "ch'inpi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshiy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:17.137224993Z",
+  "model": "glm-5.3"
+}

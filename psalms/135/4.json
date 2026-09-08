@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Yahm Yaakovta (Jacob) kikinpaq chakurqanmi, Israelta kikinpa sumaq qollqen hina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovta (Jacob)"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "chakurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kikinpaq"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "kikinpa sumaq qollqen hina"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:12.209340996Z",
+  "model": "glm-5.3"
+}

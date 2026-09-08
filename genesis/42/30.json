@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Chay runa, chay hallp'apa apun, ⟨את⟩ ñuqanchikwan sinch'itami rimarqan; ⟨את⟩ ñuqanchikta churarqan espiakuna hina, ⟨את⟩ chay hallp'ata.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "chay runa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "chay hallp'apa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñuqanchikwan"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "sinch'ita"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñuqanchikta"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "espiakuna hina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chay hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "chay hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:46.148434367Z",
+  "model": "glm-5.3"
+}

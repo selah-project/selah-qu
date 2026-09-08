@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "⟨את⟩ killata hinaspa k'anchay-inkakunata tutapi kamachinankupaq; imaraykuchus paypa jesednin wiñaypaqmi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "killata"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "killa"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "hinaspa k'anchay-inkakuna"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "kamachinankupaq"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tutapi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:24.473471900Z",
+  "model": "glm-5.3"
+}

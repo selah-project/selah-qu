@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Wasipykiqa qampas ephawan epha mana kanqanchu, hatunwan huch'uymi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampas"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "wasipyki"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "epha (grain tupuna)"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ephawan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "huch'uy"
+    }
+  ],
+  "timestamp": "2026-09-08T02:49:51.186240185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Ch'unday t'alqata, hinaspa hatun t'alqata; hinaspa sayariy ñuqap yanapaypaq.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "ch'unday"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "t'alqa"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "hinaspa hatun t'alqa"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "hinaspa sayariy"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "ñuqap yanapaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:54.757198203Z",
+  "model": "glm-5.3"
+}

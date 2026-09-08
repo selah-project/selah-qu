@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ama askhata haqellakuychu, ama sankalla kankichu; imarayku mana pachaykipi wañunki?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "haqellakuychu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "askhata"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "kankichu"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "sankalla"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "wañunki"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "pachaykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:42:02.876442099Z",
+  "model": "glm-5.3"
+}

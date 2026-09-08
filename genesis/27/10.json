@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Chayta taytaykiman apamunki, pay mihunqaspa, pay wañuyninmanta ñawpaqmi bendisiónniyki qusunqaykipaq.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "apamunki"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "taytaykiman"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mihunqa"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "...rayku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "bendisiónniyki qusunqayki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "wañuynin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:05.345507170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yehudam sayarirqan, chaysi Yahwem ⟨את⟩ Kanaanitatawan, Perizitatawan paykuna makinpi qoykurqan; Bezekpita chunka waranqa runata makirkanku.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudam"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qoykurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaanitatawan, Perizitatawan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanitatawan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perizitatawan"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "paykuna makinpi"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "makirkanku"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekpita"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:35:27.433727477Z",
+  "model": "glm-5.3"
+}

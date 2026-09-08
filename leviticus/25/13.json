@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Kay yovelpa watanpi sapa runa hap'isqanman kutiy.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "watanpi"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "yovelpa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "hap'isqanman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:09:41.575756492Z",
+  "model": "glm-5.3"
+}

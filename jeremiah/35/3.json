@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 35:3",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Hinaspa ñuqam ⟨את⟩ Yaazanyata apurqani — Yirmeyahupa churin, Javatsanyahupa churin — hinaspa ⟨את⟩ wawqinkunata, hinaspa ⟨את⟩ llapan churinkunata, hinaspa ⟨את⟩ llapan Rekabkunap ayllunta.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "apurqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaazanyata"
+    },
+    {
+      "surface": "יאזניה",
+      "gloss": "Yaazanyata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahupa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "חבצניה",
+      "gloss": "Javatsanyahupa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawqinkunata"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqinkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan churinkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan Rekabkunap ayllunta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ayllunta"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Rekabkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T07:24:58.376330454Z",
+  "model": "glm-5.3"
+}

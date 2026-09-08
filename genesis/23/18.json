@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 23:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Abrahamman rantinapaq, Hetpa churinkuna ñawpaqpi, paypa llaqtanpunku yaykuq llapa runakuna ñawpaqpi.",
+  "tokens": [
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamman"
+    },
+    {
+      "surface": "למקנה",
+      "gloss": "rantinapaq"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetpa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "באי",
+      "gloss": "yaykuq runakuna"
+    },
+    {
+      "surface": "שער",
+      "gloss": "llaqtanpunku"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "paypa llaqtan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:17.068504099Z",
+  "model": "glm-5.3"
+}

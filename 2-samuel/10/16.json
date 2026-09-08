@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chaymi Hadadezer kacharqan, mayu ch'ikanmanta ⟨את⟩ Aramta hurqurqan; Helamman chayamurqanku, Hadadezerpa awqakunap apun Shobaj (Sobac) paykunap ñawpaenpi kaspa.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramta"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kachkaqta"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ch'ikanmanta"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "chayamurqanku"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "Helamman"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "Shobaj (Sobac)"
+    },
+    {
+      "surface": "שר",
+      "gloss": "apun"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "awqakunap"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerpa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "paykunap ñawpaenpi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:40:28.893905252Z",
+  "model": "glm-5.3"
+}

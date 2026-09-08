@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Davidm chalapi pakakurqan; killa musuq p'unchawm chayarqan, hinaspa apum mikhunapi tiyarqan mikhunapaq.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "pakakurqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chalapi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "killa musuq p'unchaw"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pi"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "mikhunapi"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "mikhunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T04:18:09.452048178Z",
+  "model": "glm-5.3"
+}

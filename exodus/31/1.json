@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Yahwem rimarqan Mosheman (Moisés), kayta nispa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mosheman (mayman)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:58.722204529Z",
+  "model": "glm-5.3"
+}

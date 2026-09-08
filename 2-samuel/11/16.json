@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Yoav llaqtata qhawachkaspa karqan; chaysi ⟨את⟩ Uriyahta chay k'itiman churarqan, chaypi sinchi qhari runakuna kaykaspata yacharqanmi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "qhawachkaspa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtata"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyahta"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyahta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "chay k'itiman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yacharqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ta"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sinchi qhari"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kaykaspa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:41:19.441104714Z",
+  "model": "glm-5.3"
+}

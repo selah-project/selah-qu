@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hapirqanmi ⟨את⟩ fortaleesqa llaqtakunata, Yahudapa (Judá) kaqtakunata; chaymanta Yerushalayimkaman chayarqan.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Hapirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fortaleesqa llaqtakunata"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "llaqtakuna"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "fortaleesqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yahudapa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-08T13:04:29.847758502Z",
+  "model": "glm-5.3"
+}

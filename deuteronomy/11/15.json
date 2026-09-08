@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chayqa churasaqmi q'achuta chakraykichikpi uywiykichikpaq; mikhunkichikmi, hunt'allataq kankichik.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "chayqa churasaq"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "q'achuta"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "chakraykichikpi"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "uywiykichikpaq"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "mikhunki"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "hunt'allataq kanki"
+    }
+  ],
+  "timestamp": "2026-09-08T02:37:22.835367607Z",
+  "model": "glm-5.3"
+}

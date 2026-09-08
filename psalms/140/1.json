@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Kamachiqman mizmor, Davidpa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kamachiqman"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:41.190662480Z",
+  "model": "glm-5.3"
+}

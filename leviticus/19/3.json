@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Sapa runa mamanmanta, taytanmanta mancharinqachik; hinaspa ⟨את⟩ Shabatkunayta waqaychaykichikmi — ñuqa kanimi Yahwe, Elohimniykichik.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "maman"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "hinaspa taytan"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "mancharinqachik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shabatkunayta"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabatkunayta"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "waqaychaykichik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:59.054266117Z",
+  "model": "glm-5.3"
+}

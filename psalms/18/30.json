@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chayrayku qanwanmi awqa hunta purini, Elohimniywan wasinta phawaripuni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qanwan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "purini"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "awqa hunta"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "Elohimniywan"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "phawaripuni"
+    },
+    {
+      "surface": "שור",
+      "gloss": "wasinta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:38.119305224Z",
+  "model": "glm-5.3"
+}

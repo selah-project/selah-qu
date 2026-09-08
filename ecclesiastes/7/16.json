@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ama aswan cheqalla kaychu, hinallataq ama aswan yachaq kankichu; ima rayku ñak'arinki?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "kaychu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cheqalla"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinallataq ama"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "yachaq kankichu"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ima rayku"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ñak'arinki"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:06.014928416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Ñuqataq qita ⟨את⟩ qam apuyki wasita qurqani, hinaspa ⟨את⟩ qam apuyki warmikunata wiksaykiman churarqani; ñuqataq qita ⟨את⟩ Israel wasita, Yehudatawan qurqani; aswan pisi kaptinqa, chayninta chaynintawan yapasaq qiman.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ñuqataq qita qurqani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qita... qiman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qam apuyki wasita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "qam apuyki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qam apuyki warmikunata"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "warmikuna"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "qam apuyki"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "wiksaykiman"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ñuqataq qita qurqani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qiman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel wasita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehudatawan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kaptinqa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "aswan pisi"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "yapasaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qiman"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "chayninta"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "chaynintawan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:39:37.364640439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Suyukunata p'inqachiqmi, manachu chiqanchaq? Runata yachaywan yachachiqmi ⟨Yahwe⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "p'inqachiq"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "suyukunata"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "chiqanchaq"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "yachachiq"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "yachaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:57.407029046Z",
+  "model": "glm-5.3"
+}

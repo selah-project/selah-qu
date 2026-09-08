@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Sunquypi**m** pakarqanim rimaykita, chaymi mana qamta huchanaypaq.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "sunquypi"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "pakarqanim"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "rimaykita"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chaymi ... paq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "huchanay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:55.204387491Z",
+  "model": "glm-5.3"
+}

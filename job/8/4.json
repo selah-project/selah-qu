@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Sichus wawakunayki Payman llut'arqanku, Payqa paykunata llapan llut'ayninkuwan saqirqanmi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wawakunayki"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "llut'arqanku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Payman"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "saqirqanmi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "wan"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "llut'ayninkuwan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:00:03.546100949Z",
+  "model": "glm-5.3"
+}

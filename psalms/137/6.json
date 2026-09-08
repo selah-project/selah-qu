@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 137,
+  "translation": "Simiy qhallu ukhunchu ch'akichun, sichus manam qamta yuyasaqchu; sichus manam ⟨את⟩ Yerushalayimta khusiypa uman hatarichisaqchu.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "ch'akichun"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "simiy"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "qhallu ukhunchu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "qamta yuyasaqchu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "hatarichisaqchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayimta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimta"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pa uman"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uma"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "khusiypa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:23.390197642Z",
+  "model": "glm-5.3"
+}

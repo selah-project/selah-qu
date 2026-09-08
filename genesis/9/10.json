@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 9:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa ⟨את⟩ llapan kawsaq nefeshkunapas, mayqinkuna ⟨את⟩ qamkunawan kachkan, phischikunapi, uywakunapi, hinaspa llapan hallp'a uywakunapipas ⟨את⟩ qamkunawan, arka lluqsiqkuna llapamanta, llapan hallp'a uywakunaman.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Hinaspa ⟨את⟩",
+      "marks": "kawsaq nefeshkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunawan"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "phischikunapi"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "uywakunapi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "חית",
+      "gloss": "uywa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunawan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapamanta"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "lluqsiqkuna"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חית",
+      "gloss": "uywa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:32.803183318Z",
+  "model": "glm-5.3"
+}

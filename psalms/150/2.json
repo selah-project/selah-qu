@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 150,
+  "translation": "Payta yupaychaychik atiyninkunapi; payta yupaychaychik hatun kayninpa askha kayninman hina.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "payta yupaychaychik"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "atiyninkunapi"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "payta yupaychaychik"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "...pa askha kayninman hina"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "hatun kayninpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:54.611103176Z",
+  "model": "glm-5.3"
+}

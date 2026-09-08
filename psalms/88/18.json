@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Unu hina ñuqata muyurirqankum tukuy p'unchaw, hukllata ñuqap patapi muyuriptinku.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "ñuqata muyurirqankum"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "unu hina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "muyuriptinku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap patapi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hukllata"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:24.286328959Z",
+  "model": "glm-5.3"
+}

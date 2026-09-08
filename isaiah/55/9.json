@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Imaraykuchus hanaq pacham hallp'amanta hanaqmi kachkan, chaynahinataqmi ñuqap ñanniy qamkunap ñanniykimanta hanaqmi, ñuqap yuyayniytapas qamkunap yuyayniykimanta hanaqmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "hanaqmi kachkan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynahinataqmi"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "hanaqmi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ñuqap ñanniy"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "qamkunap ñanniykimanta"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "ñuqap yuyayniywan"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "qamkunap yuyayniykimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:37:14.586571810Z",
+  "model": "glm-5.3"
+}

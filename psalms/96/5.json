@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 96,
+  "translation": "Imarayku llapa runakunap dioskunaqa rurasqa dioskuna ⟨kan⟩mi; Yahwem hanaq pachata rurarqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "rurasqa dioskuna"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:03.823783332Z",
+  "model": "glm-5.3"
+}

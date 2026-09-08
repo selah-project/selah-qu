@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Hinaspa ninku: «Yahweqa manam qhawanqachu, Yaakovpa Elohimninpas manam hunt'asqata yachanqachu.»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "hinaspa ninku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qhawanqachu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahweqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "yachanqachu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimninpas"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:43.583306355Z",
+  "model": "glm-5.3"
+}

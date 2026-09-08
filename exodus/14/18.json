@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chaymanta Mitsrayim runakunam yachinqaku ñuqam Yahwe kasqayta, Paropi, karrunkunapi hinallataq caballu-puruhkunanpipas hatun sumaqta rikurinusqay qhipanmi.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "yachinqaku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim runakuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñaqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "hatun sumaqta rikurinusqay"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Paropi"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "karrunkunapi"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "caballu-puruhkunanpipas"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:41.980671981Z",
+  "model": "glm-5.3"
+}

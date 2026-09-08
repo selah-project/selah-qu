@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Chaymantam qhipaman kutiykurqanku, kutichirqankupas ⟨את⟩ yanapanakunata, hinaspa ⟨את⟩ warmi yanapanakunata ima qispinta lluqsiyachisqanku ñit'ispa, yanapanakunaman, warmi yanapanakunamanpas t'ikturqanku.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "kutiykurqanku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipaman"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "kutichirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapanakunata"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "yanapanakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "warmi yanapanakunata"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "warmi yanapanakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "lluqsiyachisqanku"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "qispinta"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "ñit'irqanku"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "yanapanakunaman"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "warmi yanapanakunamanpas"
+    }
+  ],
+  "timestamp": "2026-09-08T07:26:04.565737456Z",
+  "model": "glm-5.3"
+}

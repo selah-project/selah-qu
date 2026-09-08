@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Abrahammi Elohimman mañakurqan; chaysi Elohimmi ⟨את⟩ Avimeleqta, hinaspa ⟨את⟩ warminta, akllasipanintawan hampirqan; chaysi wawakunata paqarichirqanku.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "mañakurqan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "hampirqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleqta"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "warminta"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "akllasipanintawan"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "wawakunata paqarichirqanku"
+    }
+  ],
+  "timestamp": "2026-09-07T23:57:54.379224195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chaymanta kurakakunap yuyasqankunata saqirqan, paykunam yuyasqanmanta; chaywanmi wachakusqan waynakunawan masinchakurqan, pay ñawpaqninpi sayaqkunawan.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "saqirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurakakunap yuyayninta"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "yuyayninta"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "kurakakunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "yuyarqanku"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "masinchakurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waynakunata"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "waynakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "wachakurqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sayaq"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:02:14.166726840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "P'inqachiywan sonqoyta p'akiyarqanmi, chaymi ñak'ariykuni; umanta siq'iqta suyakurqani, mana pipas karqanchu, parispaqkunatapas mana tarirqanichu.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "p'inqachiywan"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "p'akiyarqan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqoyta"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "ñak'ariykuni"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "suyakurqani"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "umanta siq'iqta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana pipas karqanchu"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "parispaqkunatapas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "tarirqani"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:55.718017787Z",
+  "model": "glm-5.3"
+}

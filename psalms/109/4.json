@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Munakuyniyqampa rantin ñuqata sitt'irqankum, ñuqataq mañakuy ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "qampa rantin"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "munakuyniyqampa"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ñuqata sitt'irqankum"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mañakuy ⟨kan⟩mi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:20.494589990Z",
+  "model": "glm-5.3"
+}

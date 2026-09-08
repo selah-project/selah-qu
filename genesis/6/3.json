@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 6:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Yahwem nirqan: ñuqap samayqa runapi wiñaykama mana atipaykachakunqachu ⟨kan⟩, payqa aycham kasqanrayku; p'unchawkunan pachak iskay chunka watam kanqaku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "ידון",
+      "gloss": "atipaykachakunqachu"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ñuqap samayqa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "runapi"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "בשגם",
+      "gloss": "kasqanrayku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ayyam"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "p'unchawkunan"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:17.973552537Z",
+  "model": "glm-5.3"
+}

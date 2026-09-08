@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspam Yahwe Mosheman rimarqan kayta nispa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moshe...-man ñawpaq rimana t'aqa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:51:53.259033970Z",
+  "model": "glm-5.3"
+}

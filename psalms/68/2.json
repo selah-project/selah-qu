@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Sayarisunmi Elohim; auntisqankuna t'aqasqam kanqanku, hinaspa payta p'iñakuqkuna ñawpaqmanta ayqenqanku.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "sayarisunmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "t'aqasqam kanqanku"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "auntisqankuna"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "hinaspa ayqenqanku"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "payta p'iñakuqkuna"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ñawpaqmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:58.725088081Z",
+  "model": "glm-5.3"
+}

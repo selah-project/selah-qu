@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaymanta Shmuel (Samuel) nirqanm: Huñuy ⟨את⟩ llapan Israelta Mitspaman (Mizpa), ñuqaq qamkunapaq Yahweman ñawpakushaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanm"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "huñuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan Israelta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Mitspaman"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "ñawpakushaq"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T04:06:14.400306994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yehoshuam Israelpa wawankunaman nirqan: Qayllamuykay kayman, hinaspa ⟨את⟩ Yahwe Elohimniykipa siminkunata uyariy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "qayllamuykay"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kayman"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "hinaspa uyariy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohimniykipa siminkunata"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "siminkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T03:06:57.983140340Z",
+  "model": "glm-5.3"
+}

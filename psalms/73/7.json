@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Paykunap ñawinku qhipimantam lluqsimun; sunqunpa yuyayninku sayayninkuta atiparqankumi.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "lluqsimun"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "qhipimanta"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "paykunap ñawinku"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "atiparqanku"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "yuyayninku"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sunqunpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:28.929986888Z",
+  "model": "glm-5.3"
+}

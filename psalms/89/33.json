@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 33,
+ "ref": "psalms 89:33",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 89,
+ "translation": "Hinaspa t'aqllawan paykunap hiñichikuskanta, nanachiykunawanpas paykunap llut'ariyninkuta qhawarqasaq.",
+ "tokens": [
+  {
+   "surface": "ופקדתי",
+   "gloss": "hinaspa qhawarqasaq"
+  },
+  {
+   "surface": "בשבט",
+   "gloss": "t'aqllawan"
+  },
+  {
+   "surface": "פשעם",
+   "gloss": "paykunap hiñichikuskanta"
+  },
+  {
+   "surface": "ובנגעים",
+   "gloss": "nanachiykunawanpas"
+  },
+  {
+   "surface": "עונם",
+   "gloss": "paykunap llut'ariyninkunta"
+  }
+ ],
+ "timestamp": "2026-09-08T10:08:24.540691216Z",
+ "model": "glm-5.3"
+}

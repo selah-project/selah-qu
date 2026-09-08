@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaym Moshe urqumanta runakunaman urmarqan, ⟨את⟩ runakunata sumaqchakuchirqan; chaym p'achankunata mayllarqanku.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "urmarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "urqu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "sumaqchakuchirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "mayllarqanku"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "p'achankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:13.677591699Z",
+  "model": "glm-5.3"
+}

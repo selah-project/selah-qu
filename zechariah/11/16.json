@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 11:16",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Imaraykuchus qhawariy: ñuqam huk michiqta hallp'api sayarichini; chinkasqakunataqa mana qawanqachu, wawataqa mana maskanqachu, p'akisqataqa mana hampinqachu, sayasqataqa mana uywanqachu; wirasqa aychantam mikhunqa, hinaspa chakinkunata t'aqllaysinqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imaraykuchus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "sayarichini"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "michiqta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "הנכחדות",
+      "gloss": "chinkasqakunata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "qawanqachu"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wawata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "maskanqachu"
+    },
+    {
+      "surface": "והנשברת",
+      "gloss": "p'akisqata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "hampinqachu"
+    },
+    {
+      "surface": "הנצבה",
+      "gloss": "sayasqata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "uywanqachu"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "aychantam"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "wirasqa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhunqa"
+    },
+    {
+      "surface": "ופרסיהן",
+      "gloss": "chakinkunata"
+    },
+    {
+      "surface": "יפרק",
+      "gloss": "t'aqllaysinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:23:53.697552239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Imaraykuchus paypi sunqunchik kusikunmi, imaraykuchus santo sutinpi enqanchikmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kusikunmi"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "sunqunchik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "sutinpi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santo"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "enqanchikmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:02.640050919Z",
+  "model": "glm-5.3"
+}

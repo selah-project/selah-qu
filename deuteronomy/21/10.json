@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "deuteronomy 21:10",
+ "book": "deuteronomy",
+ "lang": "qu",
+ "chapter": 21,
+ "translation": "Mayk'ataq awqaykikunawan awqanakuyman lluqsiptiyki, hinaspa Yahwe Elohimniyki paykunata makiykiypi churanptiyki, paykunata awqanakusqa hina hap'iwankim.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "mayk'ataq"
+  },
+  {
+   "surface": "תצא",
+   "gloss": "lluqsiptiyki"
+  },
+  {
+   "surface": "למלחמה",
+   "gloss": "awqanakuyman"
+  },
+  {
+   "surface": "על",
+   "gloss": "wan (pati)"
+  },
+  {
+   "surface": "איביך",
+   "gloss": "awqaykikunawan"
+  },
+  {
+   "surface": "ונתנו",
+   "gloss": "hinaspa churanptiyki"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיך",
+   "gloss": "Elohimniyki"
+  },
+  {
+   "surface": "בידך",
+   "gloss": "makiykiypi"
+  },
+  {
+   "surface": "ושבית",
+   "gloss": "hinaspa hap'iwankim"
+  },
+  {
+   "surface": "שביו",
+   "gloss": "awqanakusqa hina"
+  }
+ ],
+ "timestamp": "2026-09-08T02:46:46.927656387Z",
+ "model": "glm-5.3"
+}

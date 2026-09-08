@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 122,
+  "translation": "Wawqiykunapaq, masniykunapaqmi qamwan willasaqta: sumaq kawsay qampi ⟨kachun⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "wawqiykuna"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "masniykuna"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "willasaqta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "yaw"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sumaq kawsay"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:17.135727328Z",
+  "model": "glm-5.3"
+}

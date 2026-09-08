@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Ñawpaq hatun orqokunap umanmanta, hinaspa wiñay chiqchakunap ch'ikasqanmanta.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "umanmanta"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "hatun orqokunap"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "ch'ikasqanmanta"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "chiqchakunap"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T03:00:04.261084812Z",
+  "model": "glm-5.3"
+}

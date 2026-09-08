@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Ama unu phawkawan hunt'achimuwaychu, ama ukhu miyu millpuwawaychu, ama ñawpaqta punkunki ñuqapata wichq'aychu ch'in p'ukru siminta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "phawkawan hunt'achimuwaychu"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "phawka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "ukhu miyu millpuwawaychu"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ukhu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "wichq'aychu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqapata"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ch'in p'ukru"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "siminta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:32.407336601Z",
+  "model": "glm-5.3"
+}

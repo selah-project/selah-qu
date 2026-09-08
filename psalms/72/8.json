@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Hinaspa ⟨kamachispa⟩ uraykunm mama quchamanta mama quchakama, mayumanta hallp'ap puchukayninkama.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "hinaspa uraykun"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mama quchamanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mama qucha"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "hinaspa mayumanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "puchukayninkama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:43.942021474Z",
+  "model": "glm-5.3"
+}

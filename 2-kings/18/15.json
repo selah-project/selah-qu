@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hinaspa Khizkiyam ⟨את⟩ tukuy qullqita tarikusqata qarqan, Yahwepa wasinpi, apunpa wasin waqaychanakunapipas.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "qarqan"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy qullqita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qullqita"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tarikusqata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "hinaspa waqaychanakunapi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apunpa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:44.506341320Z",
+  "model": "glm-5.3"
+}

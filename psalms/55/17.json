@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Ñuqam Elman qayarqasaq, hinaspa Yahwe ñuqata hark'awanqam.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "El"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qayarqasaq"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "hinaspa Yahwe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "ñuqata hark'awanqam"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:58.988147433Z",
+  "model": "glm-5.3"
+}

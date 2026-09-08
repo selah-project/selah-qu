@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yachaq runam upa runawan ⟨את⟩ rimanakun; payqa phinakunmi, asinmipas, samayqa mana ⟨kan⟩chu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "rimanakun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "upa runa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "upa"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "hinaspa phinakun"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "hinaspa asin"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "samay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:52:03.328324292Z",
+  "model": "glm-5.3"
+}

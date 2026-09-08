@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 149,
+  "translation": "Apunkunata q'illay silkukunawan, hatun runankunata q'illay waskakunawanpas watunanpaq.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "watunanpaq"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "apunkunata"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "q'illay silkukunawan"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "hatun runankunata"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "q'illay waskakunawan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "q'illay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:48.263051773Z",
+  "model": "glm-5.3"
+}

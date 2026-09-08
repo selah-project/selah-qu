@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspam sutiywan llullaspa ama jurankichikchu, chaywanmi ⟨את⟩ Elohimniykipa sutinta millaytachinkichik. Ñuqam Yahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hinaspam mana"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "ama jurankichikchu"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "sutiywan"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "llullaspa"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "hinaspa millaytachinki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suta"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniykipa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:45.128762241Z",
+  "model": "glm-5.3"
+}

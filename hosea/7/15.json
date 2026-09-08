@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ñuqataqmi paykunata yachachirqani, makinkunata sinchichirqani; paykunaqa ñuqapata millayta yuyarqankum.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "yachachirqani"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "sinchichirqani"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "makinkunata"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "ñuqapata"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "yuyarqanku"
+    },
+    {
+      "surface": "רע",
+      "gloss": "millayta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:49:22.548384177Z",
+  "model": "glm-5.3"
+}

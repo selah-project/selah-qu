@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 18:30",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hinallataq ama Hizkiyahu ⟨את⟩ qamkunata Yahwepi chinkachunchu, nispa: Yahwem liberawasqawanqa, hinaspa ⟨את⟩ kay llaqtata Ashur (Asiria) apupa makunman mana qasakunqachu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Hinallataq ama"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "chinkachunchu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "הצל",
+      "gloss": "liberawa"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "liberawasqawanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "qasakunqachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay llaqtata"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kay llaqtata"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makunman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur (Asiria)"
+    }
+  ],
+  "timestamp": "2026-09-08T05:43:22.957887690Z",
+  "model": "glm-5.3"
+}

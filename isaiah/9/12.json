@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Ichataq runakunaqa manam payta mak'aqman kutirqankuchu, hinaspa ⟨את⟩ Yahwe Tsebaotta manam maskhakurqankuchu.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "Ichataq runakunaqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kutirqanku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "manan"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "payta mak'aqman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yahwe Tsebaotta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "maskhakurqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T05:58:07.759780343Z",
+  "model": "glm-5.3"
+}

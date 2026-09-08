@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 129,
+  "translation": "Yahweqa chiqanmi; haq'iyuqkunap watukunatan t'ikrarqan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "chiqanmi"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "t'ikrarqan"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "watukunata"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haq'iyuqkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:27.482512435Z",
+  "model": "glm-5.3"
+}

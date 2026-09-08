@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Sayachinankupaq paykunapi, hunts'ispa ruranankupaq ⟨את⟩ chunka tawayuq p'unchawta Adar killapa, hinaspa ⟨את⟩ chunka pichqayuq p'unchawta chaypi, sapa wata watawann",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "sayachinankupaq"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunapi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "hunts'ispa"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ruranankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chunka tawayuq p'unchawta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "chunka tawa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "yuq"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "killapa"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chunka pichqayuq p'unchawta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "chunka pichqa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "yuq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "watawan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:51:29.364237150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Payqa runaykikunata chiqan kaywan taripanqa, wakcha askillasqaykikunatawan taripanakuywan.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "taripanqa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runaykikunata"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "chiqan kaywan"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "wakcha askillasqaykikunatawan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "taripanakuywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:33.206320431Z",
+  "model": "glm-5.3"
+}

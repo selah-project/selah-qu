@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa karpaykichikpi llakikuy rimaywan rimarqankichiksi, nispa: Yahwepa ñuqanchikta ch'ikiyninmanta ⟨את⟩ ñuqanchikta Mitsrayim (Egipto) hallp'amanta hurqurqan, haEmoripa makiman ⟨את⟩ ñuqanchikta churaypaq, ñuqanchikta chinkachiyta.",
+  "tokens": [
+    {
+      "surface": "ותרגנו",
+      "gloss": "llakikuy rimaywan rimarqankichik"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "karpaykichikpi"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "ch'ikiyninmanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqanchikta"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "ñuqanchikta hurqurqan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "churaypaq"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqanchikta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makiman"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "haEmoripa"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "ñuqanchikta chinkachiyta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:26:48.537309016Z",
+  "model": "glm-5.3"
+}

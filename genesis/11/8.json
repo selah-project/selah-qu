@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chaymi Yahwem ⟨את⟩ paykunata chaymanta tukuy kay pachapa uyanpi mast'arqan, chaymi llaqta wasichayta saqirpuqllarqanku.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "mast'arqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uyanpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pachapa"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "saqirpuqllarqanku"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "wasichayta"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:45.725466633Z",
+  "model": "glm-5.3"
+}

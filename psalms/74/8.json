@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Sunqunku ukhupi ninkus: llapanhuntalla ch'usaqchapusunchik; llapan Elpa tandananchik wasinkunata hallp'api rupharqanku.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ninkus"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sunqunku ukhupi"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "ch'usaqchapusunchik"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "llapanhuntalla"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "rupharqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "tandananchik wasinkunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:08.803981949Z",
+  "model": "glm-5.3"
+}

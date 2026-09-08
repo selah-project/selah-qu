@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Masihina, ñuqap wawqeyhina purirqani; mamanta llakikuq hina, yanayarquspa chinakurqani.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Masihina"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "wawqeyhina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "purirqani"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "llakikuq hina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mamanta"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "yanayarquspa"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "chinakurqani"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:47.848994246Z",
+  "model": "glm-5.3"
+}

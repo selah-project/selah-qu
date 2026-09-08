@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "Tukuy p'unchawm ñuqap simiykunata muyuchikunku; tukuy yuyayninkum mana allinpaqmi ñuqap hayun.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchawm"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "simiykunata"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "muyuchikunku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap hayun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "yuyayninkum"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "mana allinpaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:28.147955012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "psalms 83:18",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 83,
+ "translation": "P'inqakuchá hinaspa mancharikuchá wiñay kamasqa, hinaspa p'inqayllamanta chinkapuchá.",
+ "tokens": [
+  {
+   "surface": "יבשו",
+   "gloss": "P'inqakuchá"
+  },
+  {
+   "surface": "ויבהלו",
+   "gloss": "hinaspa mancharikuchá"
+  },
+  {
+   "surface": "עדי",
+   "gloss": "wiñay"
+  },
+  {
+   "surface": "עד",
+   "gloss": "kamasqa"
+  },
+  {
+   "surface": "ויחפרו",
+   "gloss": "hinaspa p'inqayllamanta"
+  },
+  {
+   "surface": "ויאבדו",
+   "gloss": "chinkapuchá"
+  }
+ ],
+ "timestamp": "2026-09-08T14:14:52.464896519Z",
+ "model": "glm-5.3"
+}

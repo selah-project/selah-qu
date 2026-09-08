@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yahweqa Yahudawan rimanakunanmi tiyan, hinaspa Yaakovta kamachinqa ñanninman hina, rurasqanman hina kutichinqa.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "rimanakunan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudawan"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "kamachinqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovta"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ñanninman hina"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "rurasqanman hina"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "kutichinqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:26.714204440Z",
+  "model": "glm-5.3"
+}

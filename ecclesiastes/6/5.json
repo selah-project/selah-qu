@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinallataq intita mana rikurqanchu, manataq yacharqanchu; kayqa chaymanta aswan samiymi kachkan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Hinallataq"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rikurqanchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yacharqanchu"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "samiy"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "kayqa"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "chaymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:40.865182690Z",
+  "model": "glm-5.3"
+}

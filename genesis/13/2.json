@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa Abramqa michikunawan, qullqiwan, quriwan sinchi llasaqmi ⟨karqan⟩.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Abramqa"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "llasaqmi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "michikunawan"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "qullqiwan"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "quriwan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:51.862841931Z",
+  "model": "glm-5.3"
+}

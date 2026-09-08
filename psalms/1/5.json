@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chayrayku haq'allokuna mana sayankuchu kamachikuypi, huchalikunapas mana allin runakunap huñunakuyninpi ⟨sayankuchu⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chayrayku (upa)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "sayankuchu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haq'allokuna"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kamachikuypi"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "hinaspa huchalikuna"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "huñunakuyninpi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "allin runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:11.972724424Z",
+  "model": "glm-5.3"
+}

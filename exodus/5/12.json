@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaysi runakunaqa Mitsrayimpa tukuy hallp'anpi ichhupaq qash qashyaspa tarpanakurqanku.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "tarpanakurqanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaqa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'anpi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "qashyaspa"
+    },
+    {
+      "surface": "קש",
+      "gloss": "qash"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "ichhupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:45.686925894Z",
+  "model": "glm-5.3"
+}

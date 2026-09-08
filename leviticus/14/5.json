@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chaysi kohenm kamachinqa, hinaspa ⟨את⟩ huk pisquta wañuchinqa, huk chaqrusqa misk'iman, kawsaq unap patanpi.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "kamachinqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "wañuchinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huk pisquta"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "pisqu"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "misk'i"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "chaqrusqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "una"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:59:53.443643604Z",
+  "model": "glm-5.3"
+}

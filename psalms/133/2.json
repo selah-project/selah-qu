@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 133,
+  "translation": "Allin wirahina — umanpi uraykuspa, sankhaman chayaqta, Aharonpa (Aarón) sankhanman, paypa p'achankunap hawanman chayaqta hina.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "wirahina"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "uman"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "uraykun"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "sankha"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "sankha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa (Aarón)"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "uraykuq"
+    },
+    {
+      "surface": "על",
+      "gloss": "man"
+    },
+    {
+      "surface": "פי",
+      "gloss": "p'achankunap hawan"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "paypa p'achankunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:31.136223354Z",
+  "model": "glm-5.3"
+}

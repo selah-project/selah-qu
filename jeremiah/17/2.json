@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 17:2",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Hiwakunan hinam altarninkunata, Asherakunantawan yuyanku, yura sach'akunapi, hatun orqokunapi.",
+  "tokens": [
+    {
+      "surface": "כזכר",
+      "gloss": "hiwakunan hinam"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "yuyanku"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "altarninkunata"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "Asherakunantawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yura"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "orqokuna"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T07:08:30.729809373Z",
+  "model": "glm-5.3"
+}

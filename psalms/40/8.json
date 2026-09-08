@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Chaypacha ñuqam nirqani: Qhawariy, hamuni; qillqa wira (rollo) kitipi ñuqamanta qillqasqam.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "chaypacha"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ñuqam nirqani"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "hamuni"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "qillqa wira (rollo) kitipi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "qillqa kiti"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "qillqasqa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:54.615693021Z",
+  "model": "glm-5.3"
+}

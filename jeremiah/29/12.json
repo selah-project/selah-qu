@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Chaymanta qamkuna ⟨את⟩ ñuqata qayarankichik, purinkichik, ñuqaman mañankichik, chaymi ñuqa qamkunata uyarisaq.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "qayarankichik"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "purinkichik"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "mañankichik"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "uyarisaq"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "qamkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T07:17:53.404145902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 115,
+  "translation": "Imarayku llawk'akunam nanku: «Maypinachá Elohimninku?»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "nanku"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "llawk'akuna"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Maypina"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chá"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimninku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:52.802113261Z",
+  "model": "glm-5.3"
+}

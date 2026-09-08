@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 26:20",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Riy, pueblo ñuqap: wasiykikunaman haykuy, punkuykikikunata qikipa qhipan wisq'ay; huk pisi pachallapakipakuy, chay phiñakuy t'ikruykamam.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "riy"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "pueblo ñuqap"
+    },
+    {
+      "surface": "בא",
+      "gloss": "haykuy"
+    },
+    {
+      "surface": "בחדריך",
+      "gloss": "wasiykikunaman"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "wisq'ay"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "punkuykikikunata"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "qikipa qhipan"
+    },
+    {
+      "surface": "חבי",
+      "gloss": "pakipakuy"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "huk pisi"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "pachalla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "t'ikruykama"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "phiñakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T06:08:14.674666771Z",
+  "model": "glm-5.3"
+}

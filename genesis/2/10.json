@@ -1,0 +1,58 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "genesis 2:10",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Huk mayuqa Edenmanta lluqsirqanmi ⟨את⟩ huertata upyanapaq; chaymantataq t'aqakurqan, tawa umaman tukurqan.",
+ "tokens": [
+  {
+   "surface": "ונהר",
+   "gloss": "huk mayu"
+  },
+  {
+   "surface": "יצא",
+   "gloss": ""
+  },
+  {
+   "surface": "מעדן",
+   "gloss": "Edenmanta"
+  },
+  {
+   "surface": "להשקות",
+   "gloss": "upyanapaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "huertata"
+  },
+  {
+   "surface": "הגן",
+   "gloss": "huerta"
+  },
+  {
+   "surface": "ומשם",
+   "gloss": "chaymanta"
+  },
+  {
+   "surface": "יפרד",
+   "gloss": "t'aqakurqan"
+  },
+  {
+   "surface": "והיה",
+   "gloss": "tukurqan"
+  },
+  {
+   "surface": "לארבעה",
+   "gloss": "tawa"
+  },
+  {
+   "surface": "ראשים",
+   "gloss": "umakunaman"
+  }
+ ],
+ "timestamp": "2026-09-08T02:01:09.088107131Z",
+ "model": "glm-5.3"
+}

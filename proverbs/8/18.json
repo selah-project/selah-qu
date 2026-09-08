@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Qollqe, hatun yupaychay ⟨את⟩ ñuqawanmi kachkan; wiñay qollqepas, cheqnanpaq kaypas.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Qollqe"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "hatun yupaychay"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqawanmi kachkan",
+      "marks": "qollqe, hatun yupaychay"
+    },
+    {
+      "surface": "הון",
+      "gloss": "qollqe"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "cheqnanpaq kaypas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:38:54.326675254Z",
+  "model": "glm-5.3"
+}

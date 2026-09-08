@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Paymi ñawpa ñaqay pachanpa masinta saqin, hinaspa ⟨את⟩ Elohimninpa Berinta qonqan.",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "saqin"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "masinta"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "ñawpa ñaqay pachanpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Berinta"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Berit"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "qonqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:35:54.714600662Z",
+  "model": "glm-5.3"
+}

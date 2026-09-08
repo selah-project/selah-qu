@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Runa ⟨את⟩ yanapakuqninta utaq ⟨את⟩ warmi yanapakuqninta varawan maqaspa, makiypi wañuqtinmi, sarqusqam sarqusqa kanqa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "maqaspa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapakuqninta"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "yanapakuqninta"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warmi yanapakuqninta"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "warmi yanapakuqninta"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "varawan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "wañuqtinmi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makiypi"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "sarqusqam"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "sarqusqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:35.745020475Z",
+  "model": "glm-5.3"
+}

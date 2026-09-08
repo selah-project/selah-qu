@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chay warmi rirqan, Eliyahup willasqanman hina ruwarqan; Eliyahupas, paypas, wasinpas mikurqankummi p'unchawkunata.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "willasqanmanhina"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mikurqanku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Eliyahupas"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "paypas"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "wasinpas"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:15:56.014675724Z",
+  "model": "glm-5.3"
+}

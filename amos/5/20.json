@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Manachu Yahwep p'unchawqa tutam, manam k'anchaychu; q'añay tutam, manam paypi lliphipiychu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchaychu"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "q'añay tuta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "lliphipiychu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypi"
+    }
+  ],
+  "timestamp": "2026-09-08T08:58:47.811525934Z",
+  "model": "glm-5.3"
+}

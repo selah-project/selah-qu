@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Ch'usaqchasqa kanqa, hunt'ata ch'usaqchasqa kanqa hallp'a; waqaych'usqaspaq kanqa, hunt'ata waqaych'usqaspaq kanqa; imaraykuchus Yahwem ⟨את⟩ kay rimayta nirqanmi.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "ch'usaqchaspa"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "hunt'ata ch'usaqchasqa kanqa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "waqaych'usqaspaq"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "hunt'ata waqaych'usqaspaq kanqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay rimayta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kay rimayta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T06:09:19.792010892Z",
+  "model": "glm-5.3"
+}

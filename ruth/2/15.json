@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Sayarirqanmi pallananpaq; Boazqa kamachirqan ⟨את⟩ wayninkunata nispa: «Huk illwakunap chawpinpipas pallachun, mana payta p'inqachichiychischu.»",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "pallananpaq"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayninkunata"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "wayninkunata"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pipas"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "illwakunap"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "pallachun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "p'inqachichiychischu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:29:47.849386072Z",
+  "model": "glm-5.3"
+}

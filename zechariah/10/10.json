@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Mitsrayim (Egipto) hallp'amantam paykunata kutichisaq, Ashur (Asiria) suyumantataq huñusaqku; hinaspa Gilad (Galaad) hallq'aman, Levanon (Líbano)manmi apamusaqku; manam paykunapaq hallp'a tarikunqachu.",
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "paykunata kutichisaq"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "Ashur (Asiria) suyumantataq"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "huñusaqku"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ... man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad (Galaad)"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "Levanon (Líbano)man"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "apamusaqku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tarikunqachu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:22:08.006261079Z",
+  "model": "glm-5.3"
+}

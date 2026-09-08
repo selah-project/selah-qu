@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Musiqa kamariqman, Korachpa churinkunap, mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "musiqa kamariqman"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:10.385812922Z",
+  "model": "glm-5.3"
+}

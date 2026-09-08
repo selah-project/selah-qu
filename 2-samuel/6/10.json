@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Manam David munarqanchu Yahwepa arcan ⟨את⟩ payman Davidpa llaqtanman apaykunapaq; Davidqa Obet-Edom Gititapa wasiman apaykurqan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "munarqanchu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "apaykunapaq"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arcan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arca"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "על",
+      "gloss": "man"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "apaykurqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obet-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Gitita"
+    }
+  ],
+  "timestamp": "2026-09-08T04:36:54.046899240Z",
+  "model": "glm-5.3"
+}

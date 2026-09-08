@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Qelallawan p'achallikurqanmi, hina p'achan hina; chayqa unu hina paypa ukhunman yaykurqan, hinaspa wira hina paypa tullunkunaman.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "p'achallikurqan"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "qelallawan"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "hina p'achan hina"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "yaykurqan"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "unu hina"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "paypa ukhunman"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "hinaspa wira hina"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "paypa tullunkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:57.534781894Z",
+  "model": "glm-5.3"
+}

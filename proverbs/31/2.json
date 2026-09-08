@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Ima, churiy? Ima, wiksaypa churiy? Ima, nirqayniyopa churiy?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ima"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "churiy"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ima"
+    },
+    {
+      "surface": "בר",
+      "gloss": "churiy"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "wiksaypa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Ima"
+    },
+    {
+      "surface": "בר",
+      "gloss": "churiy"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "nirqayniyopa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:55:46.759008091Z",
+  "model": "glm-5.3"
+}

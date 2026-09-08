@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Phutukuykunata q'ochakunaman kachaqmi, urqukunap chawpinpi purinku.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "kachaqmi"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "phutukuykuna"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "q'ochakunaman"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "urqukunap"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "purinku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:29.065866759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Llapan mamata mik'unkichikchuchu; llapin tiyay wasiykichikpi matstakunatam mik'unkichik.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Llapan"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "mamata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mik'unkichikchuchu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapin"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "tiyay wasiykichikpi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mik'unkichik"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matstakunatam"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:17.875276491Z",
+  "model": "glm-5.3"
+}

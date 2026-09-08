@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 4:2",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "¿Huk runa rimayta qamwan yanapaptin, llakikunki-chu? Icha rimanakunapi ¿pipas hark'ayta atinman?",
+  "tokens": [
+    {
+      "surface": "הנסה",
+      "gloss": "yanapaptin"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "תלאה",
+      "gloss": "llakikunki-chu"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "hark'ayta"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "rimanakunapi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pipas"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "atinman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:56:43.655198950Z",
+  "model": "glm-5.3"
+}

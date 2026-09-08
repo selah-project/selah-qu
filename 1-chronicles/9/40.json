@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa Yehonatanpa churinqa Meriv-Baal karqan; hinaspa Meriv-Baalm ⟨את⟩ Mikha (Miqueas) paqarirqan.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "hinaspa churin"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanpa"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "hinaspa Meriv-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baalm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikhata"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mikha (Miqueas)"
+    }
+  ],
+  "timestamp": "2026-09-08T12:37:53.448511662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa ⟨את⟩ Chiwita (hivita), hinaspa ⟨את⟩ Arqita (arqita), hinaspa ⟨את⟩ Sinita (sinita).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Chiwita"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Chiwita (hivita)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Arqita"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arqita (arqita)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Sinita"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sinita (sinita)"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:40.854810456Z",
+  "model": "glm-5.3"
+}

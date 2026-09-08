@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "psalms 46:4",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 46,
+ "translation": "Paypa unankuna rawrakashpa phusphunku; paypa hatun kayninwanmi urqukuna ch'itiykapunku. Selah.",
+ "tokens": [
+  {
+   "surface": "יהמו",
+   "gloss": "rawrakashpa"
+  },
+  {
+   "surface": "יחמרו",
+   "gloss": "phusphunku"
+  },
+  {
+   "surface": "מימיו",
+   "gloss": "paypa unankuna"
+  },
+  {
+   "surface": "ירעשו",
+   "gloss": "ch'itiykapunku"
+  },
+  {
+   "surface": "הרים",
+   "gloss": "urqukuna"
+  },
+  {
+   "surface": "בגאותו",
+   "gloss": "paypa hatun kayninwan"
+  },
+  {
+   "surface": "סלה",
+   "gloss": "Selah"
+  }
+ ],
+ "timestamp": "2026-09-08T09:48:22.066451747Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Qhawariy: cheqata sunqup ukhunpi munankim; hinaspa pakasqa rurapi yachayta yachachiwankim.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqata"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "munankim"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "sunqup ukhunpi"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "hinaspa pakasqa rurapi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "yachachiwankim"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:31.203967207Z",
+  "model": "glm-5.3"
+}

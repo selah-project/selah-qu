@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 45:19",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Qamtaq kamachisqa kanki: kayta ruway — Mask'akuy Mitsrayim hallp'amanta qhatat'inkikunata wawqeykichikpa, warmiykichikkunapaq; hinaspa ⟨את⟩ taytaykichikta apamuy, haykuy.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "kamachisqa kanki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ruway"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "mask'akuy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "qhatat'inkikunata"
+    },
+    {
+      "surface": "לטפכם",
+      "gloss": "wawqeykichikpa"
+    },
+    {
+      "surface": "ולנשיכם",
+      "gloss": "warmiykichikkunapaq"
+    },
+    {
+      "surface": "ונשאתם",
+      "gloss": "apamuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytaykichikta"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "taytaykichikta"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "haykuy"
+    }
+  ],
+  "timestamp": "2026-09-08T00:17:37.581455039Z",
+  "model": "glm-5.3"
+}

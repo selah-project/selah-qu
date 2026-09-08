@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Ñuqap juchakunayta yachanimi, hinaspa juchay ñawpaypi tiyallanmi llapan p'unchaw.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "juchakunayta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "yachanimi"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "juchay"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ñawpaypi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "llapan p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:31.203395529Z",
+  "model": "glm-5.3"
+}

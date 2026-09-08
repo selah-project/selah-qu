@@ -1,0 +1,29 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "psalms 126:5",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 126,
+ "translation": "Wa qaspa tarpuqkunam k'anchay hawariywan ⟨ichhakunqaku⟩.",
+ "tokens": [
+  {
+   "surface": "הזרעים",
+   "gloss": "tarpuqkuna"
+  },
+  {
+   "surface": "בדמעה",
+   "gloss": "wa qaspa"
+  },
+  {
+   "surface": "ברנה",
+   "gloss": "k'anchay hawariywan"
+  },
+  {
+   "surface": "יקצרו",
+   "gloss": "ichhakunqaku"
+  }
+ ],
+ "timestamp": "2026-09-08T10:27:18.112923398Z",
+ "model": "glm-5.3"
+}

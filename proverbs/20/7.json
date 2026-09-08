@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 20:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Chiqalla puriq chaqnan runam; pay qhipanqa wawankuna kusikuyllayuqmi kanqaku.",
+  "tokens": [
+    {
+      "surface": "מתהלך",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "chiqalla"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "chaqnan runa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "kusikuyllayuq"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "pay wawankuna"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pay qhipanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:46:38.171528698Z",
+  "model": "glm-5.3"
+}

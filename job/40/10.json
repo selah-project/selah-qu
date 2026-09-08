@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Kunan, sapaq kayta churakuy, hatun kaytawan; sumaq k'anchaywan, wiñay chaninwan p'achallakuy.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "churakuy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "sapaq kayta"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "hatun kaytawan"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "sumaq k'anchaywan"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "wiñay chaninwan"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "p'achallakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T11:21:13.673839257Z",
+  "model": "glm-5.3"
+}

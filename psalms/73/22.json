@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Ñuqataq wakcha karqanim, manam yachanichu; llam'a hina karqanim qampawan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ñuqataq"
+    },
+    {
+      "surface": "בער",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "yachani"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "llam'a hina"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "karqanim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qampawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:56.278457336Z",
+  "model": "glm-5.3"
+}

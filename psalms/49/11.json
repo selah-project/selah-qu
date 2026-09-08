@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Chaymanta rikunmi: yachaqkunapas wañunku, willkakunapas, mana yachaqkunapas kusata chinkankum, qullqinkutaq wak runakunaman saqinku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "rikunmi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "yachaqkunapas"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "wañunku"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kusata"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "willkakunapas"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "mana yachaqkunapas"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "chinkankum"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "saqinkutaq"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "wak runakunaman"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "qullqinkuta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:23.694226713Z",
+  "model": "glm-5.3"
+}

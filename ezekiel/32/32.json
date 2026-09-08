@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 32:32",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Imataqmi ñuqam ⟨את⟩ paypa mancharichiyninta kawsaq pachapi churasaq; hinallataq q'ala horqosqakunap chawpinpi ⟨את⟩ ch'akiwan wañusqakunawan puyuchikunqa: Paro hinallataq llapan muchuynin; Adonay Yahwep willakuyninmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imataqmi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "churasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa mancharichiyninta"
+    },
+    {
+      "surface": "חתיתו",
+      "gloss": "paypa mancharichiyninta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "והשכב",
+      "gloss": "hinallataq puyuchikunqa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "ערלים",
+      "gloss": "q'ala horqosqakunap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wañusqakuna"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "wañusqakuna"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ch'aki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinallataq llapan"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "muchuynin"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "willakuynin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T08:26:31.856923970Z",
+  "model": "glm-5.3"
+}

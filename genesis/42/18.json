@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Chaysim Yosef paykunaman kimsa ñiqin p'unchawpi nirqan: Kayta ruwaychik, kawsankichik; ⟨את⟩ Elohimta ñuqam manani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kimsa ñiqin"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ruwaychik"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "kawsankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "manani"
+    }
+  ],
+  "timestamp": "2026-09-08T00:13:32.384266283Z",
+  "model": "glm-5.3"
+}

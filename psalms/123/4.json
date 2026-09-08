@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 123,
+  "translation": "Askhami Nefeshniyku hunt'asqa kanchik kusillaqllakusqawan, jayllakuqkunap ichiquchasqanwan.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "askhami"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "hunt'asqa"
+    },
+    {
+      "surface": "לה",
+      "gloss": "chaywan"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefeshniyku"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "kusillaqllakusqa"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "kusillaqllaqkuna"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "ichiquchasqa"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "jayllakuqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:10.763065434Z",
+  "model": "glm-5.3"
+}

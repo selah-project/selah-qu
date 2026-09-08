@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Puriy ⟨את⟩ yachaqkunawan, chayqa yachaqmi kanqa; llullukunawan watakasqaqataqmi nanachikusqa kanqa.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "puriy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yachaqkunata"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "yachaqkuna"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "hinaspa yachaq"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "hinaspa watakasqa"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "llullukuna"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "nanachikusqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:41:58.420187157Z",
+  "model": "glm-5.3"
+}

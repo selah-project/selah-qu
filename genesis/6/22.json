@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaysi Noaj tukuyta ruwarqan, imata Elohim ⟨את⟩ payta kamachisqanman hina; chaynata ruwarqanmi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Chaysi ruwarqan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noaj"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tukuyta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachisqanman hina"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta (Noajta)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqanmi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:24.938155081Z",
+  "model": "glm-5.3"
+}

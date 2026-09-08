@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yahweqa llapa runakunata taripanmi; ñuqata taripariway, Yahwe, ñuqap allin kayniyman hina, ñuqap chiqan kayniyman hina, ñuqapi kayta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "taripanmi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "llapa runakunata"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "ñuqata taripariway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ñuqap allin kayniyman hina"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "ñuqap chiqan kayniyman hina"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:53.078435255Z",
+  "model": "glm-5.3"
+}

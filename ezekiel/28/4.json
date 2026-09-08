@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Yachayniykiwan, hamut'ayniykiwan, qampaq chaninta rumirurqanki, hinaspa qurita, qullqitawan qullqiy wasiykikunapi ruranki.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "Yachayniykiwan"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "hamut'ayniykiwan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ruwarqanki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chaninta"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "hinaspa ruranki"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qurita"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "qullqitawan"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "qullqiy wasiykikunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T08:21:25.809918803Z",
+  "model": "glm-5.3"
+}

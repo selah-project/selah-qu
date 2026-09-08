@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Ñataqmi hebelmi adampa wawankuna, kazavmi kuraj runakunap wawankuna; pinkullakunapi wichananpaq churaspa, paykuna llapan kuska hebelmanta aswan llamp'u kankumi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ñataq"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "kazav"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kuraj runa"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "pinkullakunapi"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "wichananpaq"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "hebelmanta"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "llapan kuska"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:12.881149447Z",
+  "model": "glm-5.3"
+}

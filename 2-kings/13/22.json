@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Jazaeltam, Arampa apun, ⟨את⟩ Israelta llakichirqan Yehoajazpa tukuy p'unchawinkunapi.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Jazaeltam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arampa"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "llakichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawinkunapi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoajazpa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:51.431570166Z",
+  "model": "glm-5.3"
+}

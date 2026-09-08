@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 1:8",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymanta Yahwem Hasatanta nirqan: Ñawiywan qawarqankichu Iyob (Job) ñuqap yanawayta? Manam payhina kaq kanchu hallp'api: runa llamp'u sunquyoq, cheqan, Elohimta manchariq, millaymantapaceq kanmanta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Hasatanta"
+    },
+    {
+      "surface": "השמת",
+      "gloss": "qawarqankichu"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sunquykiwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ñuqap yanawayta"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobta (Job)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam …kanchu"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "payhina kaq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "תם",
+      "gloss": "llamp'u sunquyoq"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "cheqan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "manchariq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ceq kanmanta"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "millaymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:19:44.918094964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaymanta kunan, Yahwepi ñuqapaq juramentuwaq: ama ⟨את⟩ muxsaykita ñuqap qatipaspa kuchunaykichu, hinallataq ama ⟨את⟩ sutiyta taytay wasinmanta qullunaykichu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Chaymanta kunan"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "juramentuwaq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "kuchunaykichu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muxsaykita"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "muxsaykita"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ñuqap qatipaspa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hinallataq ama"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "qullunaykichu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutiyta"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sutiyta"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasinmanta"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytay"
+    }
+  ],
+  "timestamp": "2026-09-08T04:22:04.427704041Z",
+  "model": "glm-5.3"
+}

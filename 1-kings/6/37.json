@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Tawa ñiqin watapi Yahwepa wasin tiyasqa karqan, Ziv killapi.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "watapi"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "tawa ñiqin"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "tiyasqa karqan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "killapi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Ziv"
+    }
+  ],
+  "timestamp": "2026-09-08T05:00:18.335594058Z",
+  "model": "glm-5.3"
+}

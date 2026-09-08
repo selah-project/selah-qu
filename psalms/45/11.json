@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Uyariy, ususi; qhaway, rinraykita ñawpaqman t'iqiy; hutiyta qunqay, taytaykipa wasintawan.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususi"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "hinaspa qhaway"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "rinraykita ñawpaqman t'iqiy"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "rinraykita"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "hinaspa qunqay"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "hutiyta"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytaykipa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:41.107229012Z",
+  "model": "glm-5.3"
+}

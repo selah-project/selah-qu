@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Kohenqa ⟨את⟩ payta qayllachimunqa, hinaspa Yahwep ñawpanpi sayarichinqa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "qayllachimunqa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenqa"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "sayarichinqa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpanpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T01:21:44.263850279Z",
+  "model": "glm-5.3"
+}

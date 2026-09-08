@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Mana siminwan qatintaspa, mana masinman llakita ruwaspa, mana ñawpaq masinmanta p'inqachinata chaskispa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "qatintaspa"
+    },
+    {
+      "surface": "על",
+      "gloss": "wan"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "simin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaspa"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "masinman"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "llakita"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "p'inqachinata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "chaskispa"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ñawpaq masin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:53.501849828Z",
+  "model": "glm-5.3"
+}

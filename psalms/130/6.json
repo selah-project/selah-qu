@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 130,
+  "translation": "Nefeshniymi Adonayta suyakun, pacarita qhawaqkunamanta aswan — pacarita qhawaqkunaqa pacarita qhawanku.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniymi"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonayta"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "pacarita qhawaqkunamanta aswan"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "pacarita"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "pacarita qhawaqkunaqa"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "pacarita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:05.969561194Z",
+  "model": "glm-5.3"
+}

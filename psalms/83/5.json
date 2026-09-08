@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Nirqankum: «Hamuychik, hinaspa suyu hina chinkayachisunchik ⟨Israelpa sutinta⟩, manataq aswan yuyasqachu kanqa.»",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "nirqankum"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hamuychik"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "hinaspa chinkayachisunchik"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "suyu hina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "yuyasqachu kanqa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aswan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:05.901772592Z",
+  "model": "glm-5.3"
+}

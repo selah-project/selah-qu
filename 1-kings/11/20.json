@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Tahpenespa pan'inmi payman wawata wachakurqan: ⟨את⟩ Genubatta, churiyinta; Tahpenesmi payta Parop wasinpi wiñachirqan; Genubatqa Parop wasinpi karqanmi, Paro churinkunap chawpinpi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "wachakurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "pan'in"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Tahpenespa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubatta"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churiyin"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "wiñachirqan"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tahpenesmi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parop"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubatqa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parop"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-08T05:11:19.216200751Z",
+  "model": "glm-5.3"
+}

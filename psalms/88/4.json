@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Chayrayku ñuqap Nefeshniy llakikunawanmi hunt'akusqa; ñuqap kawsaymi Sheolman chayarqun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "hunt'akusqa"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "llakikunawan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap Nefeshniy"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "ñuqap kawsay"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheolman"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "chayarqun"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:52.154897320Z",
+  "model": "glm-5.3"
+}

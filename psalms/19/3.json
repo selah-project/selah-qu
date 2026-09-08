@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "P'unchaw p'unchawman rimata phaqchaykun; tuta tutaman yachayta rikuchin.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "p'unchawman"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "phaqchaykun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rima"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "hinallataq tuta"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "tutaman"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "rikuchin"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "yachay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:22.038695065Z",
+  "model": "glm-5.3"
+}

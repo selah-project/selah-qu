@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa Israelpa wawankunam Gilgalpi utirirqanku, hinaspa ⟨את⟩ Pesajta ruwarqanku killap chunka tawayuq p'unchawnin, chisisilla, Yerijo (Jericó) pampankunapi.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "utirirqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgalpi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesajta"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesajta"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "tawayuq"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawnin"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "killap"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "chisisilla"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "pampankunapi"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerijo"
+    }
+  ],
+  "timestamp": "2026-09-08T03:06:41.120813162Z",
+  "model": "glm-5.3"
+}

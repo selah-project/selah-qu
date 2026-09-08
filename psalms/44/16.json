@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Tukuy p'unchawmi p'inqaykay ñuqap ñawpaypi kachkan, ñawiypa p'inqaynintaq ñuqata llusichin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "p'inqaykay"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ñuqap ñawpaypi"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "p'inqaynintaq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawiypa"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "ñuqata llusichin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:16.806129910Z",
+  "model": "glm-5.3"
+}

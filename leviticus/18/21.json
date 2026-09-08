@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hinallataq murunykimanta mana qunki Molechman (Moloch) pasachinapaq; ama millachiychu ⟨את⟩ Sutinta Elohimniykip — ñuqam Yahwe.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "murunykimanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qunki"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "pasachinapaq"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molechman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "millachiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sutinta (Elohimniykip Sutin)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sutin"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniykip"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:18.578503412Z",
+  "model": "glm-5.3"
+}

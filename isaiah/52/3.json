@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 52,
+  "translation": "Imaraykuchus kayhinam Yahwem nirqan: chaninnin rantichikurqankichik, manataq qullqiwanmi qespichikunqakichikchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "chaninnin"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "rantichikurqankichik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "qullqiwan"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "qespichikunqakichik"
+    }
+  ],
+  "timestamp": "2026-09-08T06:35:06.875042231Z",
+  "model": "glm-5.3"
+}

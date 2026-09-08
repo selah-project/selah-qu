@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 89:51",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Yuyariy, Adonay, willaq runaykikunap p'inqachikusqanta; llapa achka llaqtakunap p'inqachikusqantam sunquypi apakuni.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Yuyariy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "p'inqachikusqanta"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "willaq runaykikunap"
+    },
+    {
+      "surface": "שאתי",
+      "gloss": "apakuni"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "sunquypi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "achka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "llaqtakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:54.721014011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chay p'unchawpim Adonay ⟨את⟩ sumaq t'ikachakunata hurqunqa: ch'akichakunata, uma watarakunatawan, killa rikch'aq unanchakunatawan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "hurqunqa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sumaq t'ikachakunata"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sumaq t'ikachakunata"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "ch'akichakunata"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "uma watarakunatawan"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "killa rikch'aq unanchakunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:51:39.626740680Z",
+  "model": "glm-5.3"
+}

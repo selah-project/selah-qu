@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Arampa apunmi ⟨את⟩ karrukunap umalliqninkunata — paypa kaqtinkunata — kamachirqan, nispa: Ama ⟨את⟩ uchuywan, ⟨את⟩ hatunwan awqanakuychichu; aswanpataq ⟨את⟩ Israelpa apunllawanniykichikmi.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "Apaun"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arampa"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karrukunap umalliqninkunata"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "karrukunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paypa kaqtin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "awqanakuychichu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uchuywan"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "uchuywan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatunwan"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "hatunwan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aswanpataq"
+    },
+    {
+      "surface": "אם",
+      "gloss": "(-chu t'aqawan)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa apun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "llawanñiykichikmi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:07:25.655749842Z",
+  "model": "glm-5.3"
+}

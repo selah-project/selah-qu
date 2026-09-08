@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 96,
+  "translation": "Much'akuychik Yahweman, qodespa sumaqninpi; llapa kay pacham Pay ñawpaqenpi lat'akuchun.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "much'akuychik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "sumaqninpi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodes"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "lat'akuchun"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "Pay ñawpaqenpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:51.159782823Z",
+  "model": "glm-5.3"
+}

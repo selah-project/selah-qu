@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 23:22",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Elmi paykunata Mitsrayimmanta lluqchirqan; sallqa turuka hina sunk'ayuqmi paypa.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מוציאם",
+      "gloss": "paykunata lluqchirqan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "כתועפת",
+      "gloss": "sunk'ayuq hina"
+    },
+    {
+      "surface": "ראם",
+      "gloss": "sallqa turuka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:40:30.211464169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 11:4",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Davidtaq chaskikunata kacharqan, payta apamurqan; payqa payman chayarqan, paywan puñurqan — payqa q'uchu kayninmanta pichakusha karqanmi; chaymantataq wasinman kutirqan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidtaq"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "chaskikuna"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "apamurqan"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "puñurqan"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "מתקדשת",
+      "gloss": "pichakusha"
+    },
+    {
+      "surface": "מטמאתה",
+      "gloss": "q'uchu kayninmanta"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "kutirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "wasinman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:42:11.350269319Z",
+  "model": "glm-5.3"
+}

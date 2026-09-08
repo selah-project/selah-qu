@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Qamtaq, Yahwe, ama karqaykachawaychu; atiyniy, yanapayman ñuqata utqaylla.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Qamtaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "karqaykachawaychu"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "atiyniy"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "yanapayman ñuqata"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "utqaylla"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:49.849758205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Qollqeyqa manam atipanchu p'iñay p'unchawpi; hinaspa chaninchayqa wañuymanta hich'anmi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "atipan"
+    },
+    {
+      "surface": "הון",
+      "gloss": "qollqey"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "p'iñay"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "hinaspa chaninchay"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "hich'an"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "wañuymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:42:10.455457443Z",
+  "model": "glm-5.3"
+}

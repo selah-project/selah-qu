@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Kawallupa atiyninwanmi mana munanchu, runapa chakinkunawanpas mana kusikunchu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "atiyninwan"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "kawallu"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "munanchu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "chakinkunawanpas"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "kusikunchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:05.210984672Z",
+  "model": "glm-5.3"
+}

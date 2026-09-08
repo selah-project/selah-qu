@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Unakuna ñit'iqninkunata llapanwan wataykurqanmi; paykunamanta hukllapas mana qhipakurqanchu.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "llapanwan wataykurqan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unakuna"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ñit'iqninkunata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukllapas"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "qhipakurqanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:35.265881834Z",
+  "model": "glm-5.3"
+}

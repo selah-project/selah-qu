@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa michun — sipaspa taytan — payta sinch'ipayurqan; hinaspa paywan ⟨את⟩ kimsa p'unchaw tiyarqan; mikhurqankum, upyurqankum, chaypipas puñurqankum.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "sinch'ipayurqan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "michun"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "sipaspa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "paywan ⟨את⟩",
+      "marks": "paywan (tiyasqan)"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mikhurqankum"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "upyurqankum"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "puñurqankum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:57:44.531142204Z",
+  "model": "glm-5.3"
+}

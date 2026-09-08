@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "genesis 31:46",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Yaakov wayqenkunaman nirqan: rumikunata huñiychik; chaymanta rumikunata hap'irqankum, huk rumi qututa ruwarqankum, chaypi qutup patapi mikhurqankum.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "wayqenkunaman"
+    },
+    {
+      "surface": "לקטו",
+      "gloss": "huñiychik"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "rumikunata"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "hap'irqankum"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "rumikunata"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqankum"
+    },
+    {
+      "surface": "גל",
+      "gloss": "huk rumi qututa"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mikhurqankum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "qutup"
+    }
+  ],
+  "timestamp": "2026-09-08T00:06:35.467851129Z",
+  "model": "glm-5.3"
+}

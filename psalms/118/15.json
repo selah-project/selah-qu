@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 118:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 118,
+  "translation": "Chana runakunap chanakunapi rinakuyta, qispichiytawanpa ñanpa qhapariyninmi kachkan; Yahwep paña makinmi sinchita ruraq.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "qhapariyninmi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "rinakuyta"
+    },
+    {
+      "surface": "וישועה",
+      "gloss": "qispichiytawan"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "chanakunapi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "chana runakunap"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "paña maki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sinchita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:44.818822902Z",
+  "model": "glm-5.3"
+}

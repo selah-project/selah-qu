@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Awqankunata qhipaman ñit'irqanmi; paykunaman wiñaypaq p'inqachikuyta churarqan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ñit'irqan"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "awqankunata"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "qhipaman"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "p'inqachikuyta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:28.382421179Z",
+  "model": "glm-5.3"
+}

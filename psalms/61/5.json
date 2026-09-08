@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 61,
+  "translation": "Wasipykipi wiñaypaq tiyasa, wiksaipykipi pakaypi p'ampachakusa. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "tiyasa"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "wasipykipi"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "p'ampachakusa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "pakaypi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "wiksaipykipi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:55.287926467Z",
+  "model": "glm-5.3"
+}

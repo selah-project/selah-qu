@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Chaysi apukaq Elohimpi kusikunmi; paypi juramentakuq llapam Yahwepi hatallispa takinqaku, imaraykuchus llulla rimaqkunaq simin wichq'asqa kanqam.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "apukaq"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kusikunmi"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimpi"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "hatallispa takinqaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapam"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "juramentakuq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "wichq'asqa kanqa"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simin"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "rimaqkunaq"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:09.750794993Z",
+  "model": "glm-5.3"
+}

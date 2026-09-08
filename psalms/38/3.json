@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Imaraykumi flechaykikuna ñuqap ukhuyman urmaykurqanku, hinaspa makiyki ñuqap patallanman ñit'irpurqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykumi"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "flechaykikuna"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "urmaykurqanku"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqap ukhuyman"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "hinaspa ñit'irpurqan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap patallanman"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:10.442969854Z",
+  "model": "glm-5.3"
+}

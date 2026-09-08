@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "psalms 104:14",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 104,
+ "translation": "Wiñachin quruta uywakunapaq, hinaspa qurata runap llamk'ayninpaq, hallp'amanta t'antata hurqunapaq.",
+ "tokens": [
+  {
+   "surface": "מצמיח",
+   "gloss": "wiñachin"
+  },
+  {
+   "surface": "חציר",
+   "gloss": "quru"
+  },
+  {
+   "surface": "לבהמה",
+   "gloss": "uywakunapaq"
+  },
+  {
+   "surface": "ועשב",
+   "gloss": "hinaspa qura"
+  },
+  {
+   "surface": "לעבדת",
+   "gloss": "llamk'ayninpaq"
+  },
+  {
+   "surface": "האדם",
+   "gloss": "runap"
+  },
+  {
+   "surface": "להוציא",
+   "gloss": "hurqunapaq"
+  },
+  {
+   "surface": "לחם",
+   "gloss": "t'anta"
+  },
+  {
+   "surface": "מן",
+   "gloss": "manta"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "hallp'a"
+  }
+ ],
+ "timestamp": "2026-09-08T10:14:56.137976118Z",
+ "model": "glm-5.3"
+}

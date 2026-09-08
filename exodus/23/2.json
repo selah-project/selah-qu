@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 23:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Ama achka runakunata qatipaychu mana allin ruranaykipaq; mana rimarichu ch'iqninta, achka runakunata qatipaspa kamachikuyta t'ikrachinaykipaq.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanaykichu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qatipay"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "achka runakunata"
+    },
+    {
+      "surface": "לרעת",
+      "gloss": "mana allin ruranaykipaq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "rimarichu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ch'iqninta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "manauchiypi"
+    },
+    {
+      "surface": "לנטת",
+      "gloss": "t'ikrachinaykipaq"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qatipaspa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "achka runakunata"
+    },
+    {
+      "surface": "להטת",
+      "gloss": "kamachikuyta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:57.758207312Z",
+  "model": "glm-5.3"
+}

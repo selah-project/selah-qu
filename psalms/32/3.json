@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Imaraykuchus upallaykarqanimi, tulluykuna huqarikapuymanta llapantin p'unchaw chakiyarqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "upallaykarqanimi"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "chakiyarqan"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulluykuna"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "huqarikapuymanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapantin"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:07.022640113Z",
+  "model": "glm-5.3"
+}

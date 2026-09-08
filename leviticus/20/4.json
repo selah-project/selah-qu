@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa sichus hallp'ap runakuna chay runamanta — wawan Molechman qamusqanpi — ⟨את⟩ ñawinkunta pakanku, payta mana wañuchinankupaq,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa sichus"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "pakaspa"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "pakanku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawinkunta"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ñawinkunta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "qamusqanpi"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molechman"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mana…-chu"
+    },
+    {
+      "surface": "המית",
+      "gloss": "wañuchinankupaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:06:55.041915115Z",
+  "model": "glm-5.3"
+}

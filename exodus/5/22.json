@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Moshe (Moisés) Yahweman kutimurqan, nispam nirqan: «Adonay, imarayku kay runakunata llakichirqanki? Imarayku kayta ñuqata kachawanki?»",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutimurqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "llakichirqanki"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "ñuqata kachawanki"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:40.388671151Z",
+  "model": "glm-5.3"
+}

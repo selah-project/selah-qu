@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "proverbs 19:16",
+ "book": "proverbs",
+ "lang": "qu",
+ "chapter": 19,
+ "translation": "Kamachiyta waqaychaqmi nefeshninta waqaychan; ñanninta pisichaqqa wañunqam.",
+ "tokens": [
+  {
+   "surface": "שמר",
+   "gloss": "waqaychaq"
+  },
+  {
+   "surface": "מצוה",
+   "gloss": "kamachiyta"
+  },
+  {
+   "surface": "שמר",
+   "gloss": "waqaychan"
+  },
+  {
+   "surface": "נפשו",
+   "gloss": "nefeshninta"
+  },
+  {
+   "surface": "בוזה",
+   "gloss": "pisichaq"
+  },
+  {
+   "surface": "דרכיו",
+   "gloss": "ñanninta"
+  },
+  {
+   "surface": "יומת",
+   "gloss": "wañunqa"
+  }
+ ],
+ "timestamp": "2026-09-08T10:46:41.210827409Z",
+ "model": "glm-5.3"
+}

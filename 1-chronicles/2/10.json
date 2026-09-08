@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Ramm ⟨את⟩ Aminadabta wacharqan; hinaspa Aminadabm ⟨את⟩ Najshonta wacharqan, Yehudap (Judá) wawankunap apun.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Hinaspa Ramm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadabta"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadabta"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "hinaspa Aminadabm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Najshonta"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Najshonta"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "apun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    }
+  ],
+  "timestamp": "2026-09-08T12:29:51.483167698Z",
+  "model": "glm-5.3"
+}

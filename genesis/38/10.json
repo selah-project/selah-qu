@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Yahwep ñawinpiqa mana allinmi karqan Onanpa ruwasqan; chayrayku Yahwem ⟨את⟩ paytapas wañuchirqan.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "mana allinmi karqan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ruwasqan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:10:45.043257139Z",
+  "model": "glm-5.3"
+}

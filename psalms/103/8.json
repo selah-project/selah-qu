@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Khuyakuq, rakhuyuqmi Yahwe: suni phiñananpaq, hatun jesedniyuq.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "khuyakuq"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "hinaspa rakhuyuq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "suni"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "phiñananpaq"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "hinaspa hatun"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesed"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:19.026120250Z",
+  "model": "glm-5.3"
+}

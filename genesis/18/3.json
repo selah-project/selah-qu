@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Nirqan: Adonay, si ñuqa khaninaykiwan ñawiykikunapi tarikuni, ama mañakuspa ñuqap servidayniymanta karuman pasaychu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "si"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mañakuspa"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "tarikuni"
+    },
+    {
+      "surface": "חן",
+      "gloss": "khaninaykiwan"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ñawiykikunapi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mañakuspa"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "pasaychu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "karuman"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ñuqap servidayniymanta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:56:56.068252833Z",
+  "model": "glm-5.3"
+}

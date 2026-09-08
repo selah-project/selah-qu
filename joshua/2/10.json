@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 2:10",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chiqaqta uyarirqayku ⟨את⟩ imata Yahwem qamkunap ñawpaqenmanta ⟨את⟩ Qocha Sufpa ununta ch'akichisqa, qamkuna Mitsrayimmanta lluqsiykichikpti; hinallataq imata qamkuna iskaynan Emorripa apukunaman ruwarqaykichik, Yardenpa hawapi kaqta, Sijonman hinaspa Ogman, kaykunata cheremta churarqaykichik ⟨את⟩ paykunata.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chiqaqta"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "uyarirqayku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata (אשר nisqata)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "ch'akichisqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ununta (Qocha Sufpa ununta)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ununta"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Qocha"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "qamkunap ñawpaqenmanta"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "lluqsiykichikpti"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "hinallataq imata"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ruwarqaykichik"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "iskaynan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorripa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "hawapi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenpa"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "Sijonman"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "hinaspa Ogman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaykunata"
+    },
+    {
+      "surface": "החרמתם",
+      "gloss": "cheremta churarqaykichik"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:10:04.082452737Z",
+  "model": "glm-5.3"
+}

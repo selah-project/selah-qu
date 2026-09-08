@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Manañachu wiñaypaq tukurqun paypa jesednin? Wata-wata rimasqanta puchukarqunmanchá?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "Manañachu tukurqun"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "paypa jesednin"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "puchukarqunmanchá"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rimasqanta"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "wata-wata"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "wata-wataman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:54.768688396Z",
+  "model": "glm-5.3"
+}

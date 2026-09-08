@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Hunt'a sunquyoq puriq, cheqan ruwaq, sunqunpi cheqatataq rimaqmi.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hunt'a sunquyoq"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "cheqan ruwaq"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cheqan"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "rimaq"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqata"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "sunqunpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:53.501683152Z",
+  "model": "glm-5.3"
+}

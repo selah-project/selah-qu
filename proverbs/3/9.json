@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yupaychay ⟨את⟩ Yahweta qollqiykiwan, hinaspa llapa chacrayki rurasqap qallariyninwanmi.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Yupaychay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "qollqiykiwan"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "hinaspa qallariyninwan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "chacrayki rurasqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:35:41.752043737Z",
+  "model": "glm-5.3"
+}

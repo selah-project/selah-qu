@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Amañataq ñawpaq qhawariykiya servuykimanta pakaychu; imaraykuchus ñuqa llakipi kanimi; utqaylla ñuqawan rimay.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Amañataq ... chu"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "pakaychu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawpaq qhawariykiya"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "servuykimanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "צר",
+      "gloss": "llakipi kanimi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "utqaylla"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ñuqawan rimay"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:20.458042501Z",
+  "model": "glm-5.3"
+}

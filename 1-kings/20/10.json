@@ -1,0 +1,93 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "1-kings 20:10",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 20,
+ "translation": "Chaym Ben-Hadam payman willaqta kacharqan, nispa: «Kayhina dioskunam ruwawanqaku ñuqawan, kayhina yapawanqakupas, Shomron hallp'aqa tukuy ñuqap chakikunaypi kaj runakunapaq chaki-makikunaman mana atinqachu chayqa».",
+ "tokens": [
+  {
+   "surface": "וישלח",
+   "gloss": "kacharqan"
+  },
+  {
+   "surface": "אליו",
+   "gloss": "payman"
+  },
+  {
+   "surface": "בן",
+   "gloss": "Ben"
+  },
+  {
+   "surface": "הדד",
+   "gloss": "Hadad"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "כה",
+   "gloss": "kayhina"
+  },
+  {
+   "surface": "יעשון",
+   "gloss": "ruwawanqaku"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqawan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "dioskuna"
+  },
+  {
+   "surface": "וכה",
+   "gloss": "kayhina"
+  },
+  {
+   "surface": "יוספו",
+   "gloss": "yapawanqaku"
+  },
+  {
+   "surface": "אם",
+   "gloss": "chayqa"
+  },
+  {
+   "surface": "ישפק",
+   "gloss": "makillawan t'aqaspa"
+  },
+  {
+   "surface": "עפר",
+   "gloss": "hallp'a"
+  },
+  {
+   "surface": "שמרון",
+   "gloss": "Shomron"
+  },
+  {
+   "surface": "לשעלים",
+   "gloss": "chaki-makikunaman"
+  },
+  {
+   "surface": "לכל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "העם",
+   "gloss": "runakunapaq"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kaj"
+  },
+  {
+   "surface": "ברגלי",
+   "gloss": "ñuqap chakikunaypi"
+  }
+ ],
+ "timestamp": "2026-09-08T05:17:37.429186790Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Yahwem lliphiq runa hina lluqsimunqa, maqanakuq runa hina phiñakuyta uyariyanqa; qaparinqa, chaymanta waqaykamunqa, awqankunap patanpi atipasqam kanqa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "lliphiq runa hina"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsimunqa"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "maqanakuq runa hina"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "awqanakuy"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "uyariyanqa"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "phiñakuy"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "qaparinqa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "waqaykamunqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "awqankunap"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "atipasqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:24:48.748310913Z",
+  "model": "glm-5.3"
+}

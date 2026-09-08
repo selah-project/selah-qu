@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Tsaddiqpa siminmi yachayta llamk'achin, hinaspa qallun mishpat (taripachiy) riman.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "simin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsaddiqpa"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "llamk'achin"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "hinaspa qallun"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "riman"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishpat"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:21.224105761Z",
+  "model": "glm-5.3"
+}

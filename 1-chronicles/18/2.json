@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hinaspa ⟨את⟩ Moavta ñak'arqan; chaymanta Moav runakuna Davidpa qhachurunakunan tukurqanku, minchata apaqkunas.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ñak'arqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moavta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavta"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "tukurqanku"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav runakuna"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qhachurunakuna"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "apaq"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchata"
+    }
+  ],
+  "timestamp": "2026-09-08T12:45:12.452390299Z",
+  "model": "glm-5.3"
+}

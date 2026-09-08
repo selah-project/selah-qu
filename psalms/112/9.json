@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 112,
+  "translation": "Wakchakunaman llusp'ichispa qarqanmi, paypa tsedeqninqa wiñaypaqmi sayachkan, paypa raranta sumaq kinhinwan hanaqcharqapunqa.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "llusp'ichispa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qarqanmi"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "wakchakunaman"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "paypa tsedeqninqa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "sayachkan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "wiñaypaqmi"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "paypa raranta"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "hanaqcharqapunqa"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "sumaq kinhinwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:30.182357696Z",
+  "model": "glm-5.3"
+}

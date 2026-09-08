@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Kamachikuyniykiwan pusawankim, qhipataq kabodta (sumaq k'anchayta) chaskiwankim.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "kamachikuyniykiwan"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "pusawanki"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "qhipataq"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabodta"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "chaskiwanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:56.278758575Z",
+  "model": "glm-5.3"
+}

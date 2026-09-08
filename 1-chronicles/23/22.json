@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 23:22",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspa Elazar wañurqan, churikunaqa mana karqanchu paypa, churiy warmillataq karqanmi; hinaspa Kishpa churinkuna — paykunap wawqinkuna — chay warmikunatawan warmichikurqanku.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "hinaspa wañurqan"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqanchu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "churikuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sino"
+    },
+    {
+      "surface": "אם",
+      "gloss": "churiy warmillataq"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "warmi wawakuna"
+    },
+    {
+      "surface": "וישאום",
+      "gloss": "warmichikurqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kishpa"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "paykunap wawqinkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T12:48:39.062099527Z",
+  "model": "glm-5.3"
+}

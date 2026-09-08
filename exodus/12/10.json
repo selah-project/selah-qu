@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa ama chaymanta imatapas paqarikama saqiykachichunkichikchu; chaymanta paqarikama saqisqataqa ninapi ruphachinkichik.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "saqiykachichunkichikchu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "paqariy"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "hinaspa saqisqa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "paqariy"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninapi"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ruphachinkichik"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:57.510597075Z",
+  "model": "glm-5.3"
+}

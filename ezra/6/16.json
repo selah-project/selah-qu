@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Israelpa churinkunaqa — kohenkuna, Lewikuna, illaqta kutimuq wak churinkunapas — kay Elahapa wasin p'unchawta hunt'achirqanku, k'usikuypim.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "hunt'achirqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunaqa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "Lewikuna"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "wak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunapas"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "illaqta kutimuq"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elahapa"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "k'usikuypim"
+    }
+  ],
+  "timestamp": "2026-09-08T12:11:11.935898111Z",
+  "model": "glm-5.3"
+}

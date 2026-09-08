@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "P'achallawayta qheparqani-m; imataq kuti churakusaq? Nanayta arqhirqani-m; imataq chankunata ch'uskichisaq?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "qheparqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achallawayta"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "p'achallawayta"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "kuti churakusaq"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "arqhirqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanayta"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "nanayta"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "ch'uskichisaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:28:10.017052534Z",
+  "model": "glm-5.3"
+}

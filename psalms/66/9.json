@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Kawsaypi nefeshninchikta churan, chakinchikta surqananpaqta mana parionchu.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "churan"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefeshninchikta"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "kawsaypi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "parion"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "surqananpaqta"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "chakinchikta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:20.021432805Z",
+  "model": "glm-5.3"
+}

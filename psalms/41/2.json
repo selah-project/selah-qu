@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "psalms 41:2",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 41,
+ "translation": "Ima kusi kachun manchakuspa allin yachaq runam wakcha manchakuspa yachaq; paq llasaq p'unchawpi Yahwem payta qespichinqa.",
+ "tokens": [
+  {
+   "surface": "אשרי",
+   "gloss": "ima kusi"
+  },
+  {
+   "surface": "משכיל",
+   "gloss": "manchakuspa allin yachaq"
+  },
+  {
+   "surface": "אל",
+   "gloss": "⟨manchakuspa⟩"
+  },
+  {
+   "surface": "דל",
+   "gloss": "wakcha"
+  },
+  {
+   "surface": "ביום",
+   "gloss": "paq p'unchawpi"
+  },
+  {
+   "surface": "רעה",
+   "gloss": "llasaq"
+  },
+  {
+   "surface": "ימלטהו",
+   "gloss": "payta qespichinqa"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  }
+ ],
+ "timestamp": "2026-09-08T09:46:06.579332916Z",
+ "model": "glm-5.3"
+}

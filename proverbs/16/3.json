@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Yahweman llank'aykikunata watarpuway, hinaspa yuyaykikunan sayasqa kanqakum.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "watarpuway"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "llank'aykikunata"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "hinaspa sayasqa kanqaku"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "yuyaykikunan"
+    }
+  ],
+  "timestamp": "2026-09-08T15:31:25.431217307Z",
+  "model": "glm-5.3"
+}

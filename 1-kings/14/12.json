@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Qamtaq sayariy, wasiykiman riy; chakiykim llaqtaman chayarqaptiy, wawaqa wañunqam.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "sayariy"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "riy"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "wasiykiman"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "chayarqaptiy"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "chakiyki"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "llaqtaman"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "wañunqa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wawa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:13:57.052124948Z",
+  "model": "glm-5.3"
+}

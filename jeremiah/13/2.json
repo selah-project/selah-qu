@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chaskirqanim ⟨את⟩ winchata, Yahwepa siminman hina, hinaspa churarqani hunt'aypi.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Chaskirqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "winchata"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "winchata"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "siminman hina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "hinaspa churarqani"
+    },
+    {
+      "surface": "על",
+      "gloss": "hunt'ay"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "-ypi"
+    }
+  ],
+  "timestamp": "2026-09-08T07:02:45.900492867Z",
+  "model": "glm-5.3"
+}

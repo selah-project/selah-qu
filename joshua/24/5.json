@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "⟨את⟩ Mosheta hinaspa ⟨את⟩ Aharonta kacharqanim, ⟨את⟩ Mitsrayimta nanachirqanim, paypa chawpinpi imaynata rurasqayhina, chaymanta qhipata ⟨את⟩ qamkunata hawaman hurqurqanim.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "kacharqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "nanachirqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imaynata"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "rurasqay"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "paypa chawpinpi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "chaymanta qhipata"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "hurqurqanim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:33:07.137909098Z",
+  "model": "glm-5.3"
+}

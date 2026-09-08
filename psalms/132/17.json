@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "Chaypim Davidpaq q'aytunta saminqasaq; Mashiajniypaq k'anchayta allichasqay kachkan.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Chaypi"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "saminqasaq"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "q'aytunta"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpaq"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "allichasqay kachkan"
+    },
+    {
+      "surface": "נר",
+      "gloss": "k'anchayta"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "Mashiajniypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:11.737964694Z",
+  "model": "glm-5.3"
+}

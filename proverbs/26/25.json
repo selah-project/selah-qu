@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Kunkan allinchaq kaptinqa, ama paypi imañakunkichu; paypa sunqunpi qanchis millay kasarakuna kaptinmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaptinqa"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "allinchan"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "kunkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "imañakunkichu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaptinmi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "millay kasarakuna"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "paypa sunqunpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:51:49.166033490Z",
+  "model": "glm-5.3"
+}

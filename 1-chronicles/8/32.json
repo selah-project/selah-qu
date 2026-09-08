@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 8:32",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Miklotqa ⟨את⟩ Shimata wachachirqanmi; kaykunaqas awqankunap ñawpaqninpi Yerushalayimpi awqankunanwan tiyarqanku.",
+  "tokens": [
+    {
+      "surface": "ומקלות",
+      "gloss": "Miklotqa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wachachirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimata"
+    },
+    {
+      "surface": "שמאה",
+      "gloss": "Shimata"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "kaykunaqas"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "awqankunap"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tiyarqanku"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "awqankunawan"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "awqankunawan tiyarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T12:37:14.588367393Z",
+  "model": "glm-5.3"
+}

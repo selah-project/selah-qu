@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Ch'uwakunap, ñuñuq wawakunap siminmanta sayarichirqankim kallpata, awqaykikunarayku, awqata hinallataq makiwan qatinaqta ch'inchiyachynaykipaq.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "siminmanta"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ch'uwakunap"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "ñuñuq wawakunap"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "sayarichirqanki"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kallpata"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "awqaykikuna"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "ch'inchiyachynaykipaq"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqata"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "hinallataq makiwan qatinaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:28.845365521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Paymanmi rimanki, hinaspa ⟨את⟩ rimaykunata paypa siminpi churanki; ñuqataqmi kanqa simiykiwan, paypa siminwanwan; hinataqmi ⟨את⟩ qamkunata yachachini ⟨את⟩ imata ruwankichikta.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "rimanki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rimaykunata"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "rimaykunata"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "paypa siminpi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "simiyki"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "paypa siminwan"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "yachachini"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata ruwankichikta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ruwankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:32.203190913Z",
+  "model": "glm-5.3"
+}

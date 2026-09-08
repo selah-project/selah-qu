@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Sayariy, k'anchariy, imarayku hamunmi k'anchayki; hinaspataq Yahwepa hatun k'anchaynin qam patayki lluqsimunmi.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "k'anchariy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamunmi"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "k'anchayki"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "hinaspataq hatun k'anchaynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qam patayki"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "lluqsimunmi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:50:00.297615374Z",
+  "model": "glm-5.3"
+}

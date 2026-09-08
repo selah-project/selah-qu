@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa Cham (Cam), Kenaanpa taytan, qawarqanmi ⟨את⟩ taytampa q'ala kayninta, hinaspa willarqan iskay wawqinkunaman hawk'api.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qawarqanmi"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytampa q'ala kayninta"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "q'ala kayninta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytampa"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqinkunaman"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "hawk'api"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:18.002505350Z",
+  "model": "glm-5.3"
+}

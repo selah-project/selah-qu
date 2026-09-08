@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Yehudimmanmi k'anchay, kusikuy, hayllikuy, hinaspa qhapaq kay karqan.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "Yehudimman"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "k'anchay"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "kusikuy"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "hayllikuy"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "qhapaq kay"
+    }
+  ],
+  "timestamp": "2026-09-08T11:49:22.019085196Z",
+  "model": "glm-5.3"
+}

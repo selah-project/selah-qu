@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Manam apu achka awqawan amachasqa kanchu; sinchi runapas mana achka atiywan qespichikunchu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "manam ... kanchu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "amachasqa kan"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "achka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "awqawan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sinchi runapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "qespichikunchu"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "achka"
+    },
+    {
+      "surface": "כח",
+      "gloss": "atiywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:20.165385219Z",
+  "model": "glm-5.3"
+}

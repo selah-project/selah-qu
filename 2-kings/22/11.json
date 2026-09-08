@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Karqanmi: apu Torap p'anqap ⟨את⟩ rimayninta uyarispa, ⟨את⟩ p'achankunata ch'iqirqanmi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "uyarispa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rimayninta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimayninta"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "p'anqap"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torap"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ch'iqirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achankunata"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "p'achankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:44:44.613999588Z",
+  "model": "glm-5.3"
+}

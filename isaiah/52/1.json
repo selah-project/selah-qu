@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 52:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 52,
+  "translation": "Siriy, siriy, churakuy qampa atiyniykita, Tsiyon (Sión); churakuy qampa sumaq k'anchay p'achaykikita, Yerushalayim (Jerusalén), willka llaqta: imaraykuchus manam qamman ñawpataqta yaykamunqachu mana ñak'asqa runa mana ichusqa runapas.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "Siriy"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "siriy"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "churakuy"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "atiyniykita"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "churakuy"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "p'achaykikita"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "sumaq k'anchayniykita"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "willka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "yapamunqa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yaykamunqa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ñawpataqta"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "mana ñak'asqa runa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "mana ichusqa runapas"
+    }
+  ],
+  "timestamp": "2026-09-08T06:35:06.870585534Z",
+  "model": "glm-5.3"
+}

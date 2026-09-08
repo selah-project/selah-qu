@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwem qamkunaman qoyta munani, hinaspa samayta tarinqankichik, sapa warmi qhariypa wasinpi. ⟨Pay⟩ paykunata much'arqan; paykuna kunkankunta huq'arirqankum, hinaspa waqarqankum.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "qoyta munani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "hinaspa tarinqankichik"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "samayta"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "qhariykip"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "much'arqan"
+    },
+    {
+      "surface": "להן",
+      "gloss": "paykunata"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "huq'arirqanku"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "kunkankunta"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "waqarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T11:29:09.082605016Z",
+  "model": "glm-5.3"
+}

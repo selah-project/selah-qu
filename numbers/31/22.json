@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Asllataq ⟨את⟩ qurita, hinaspa ⟨את⟩ qullqita, ⟨את⟩ antakita, ⟨את⟩ killayta, ⟨את⟩ chayantata, hinaspa ⟨את⟩ ch'antata.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "asllataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurita"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qullqita"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "antakita"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "antaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "killayta"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "killay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chayantata"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "chayanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ch'antata"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ch'anta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:18:50.754373179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 40:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Qamta maskaq llapanmi qampi kusikunqaku, kusillakunqaku; qampaq qespichiyniykita munaqkuna wiñaymi ninqaku: Yahwem hat'unyarichikachun.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "kusikunqaku"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "hinaspa kusillakunqaku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "qamta maskaq"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ninqaku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "hat'unyarichikachun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "munaqkuna"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "qampaq qespichiyniykita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:51.799435513Z",
+  "model": "glm-5.3"
+}

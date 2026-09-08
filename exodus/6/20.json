@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Amramqa ⟨את⟩ Yokhevedta warmi hina hap'irqan, isipa paninta; chayqa payman ⟨את⟩ Aharonwan (Aarón) hinaspa ⟨את⟩ Moshewan (Moisés) wacharqan. Amrampa kawsayninpa watakunaqa qanchis chunka kimsa, pachak watawanmi karqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amramqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokhevedta"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokhevedta"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "isipa paninta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "warmi hina"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonwan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshewan"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "watakunaqa"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kawsayninpa"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "chunka kimsa"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:08.631594696Z",
+  "model": "glm-5.3"
+}

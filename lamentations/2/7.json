@@ -1,0 +1,77 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "lamentations 2:7",
+ "book": "lamentations",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Adonaym saqirqan mizbeajninta, p'unkuchirqan mikdashninta; awqap makinman hark'arqan armonninkunap saywanpakunata. Yahwepa wasinpi hatun takinchakuyta ruwarqanku, mit'a punchaw hina.",
+ "tokens": [
+  {
+   "surface": "זנח",
+   "gloss": "saqirqan"
+  },
+  {
+   "surface": "אדני",
+   "gloss": "Adonay"
+  },
+  {
+   "surface": "מזבחו",
+   "gloss": "mizbeajninta"
+  },
+  {
+   "surface": "נאר",
+   "gloss": "p'unkuchirqan"
+  },
+  {
+   "surface": "מקדשו",
+   "gloss": "mikdashninta"
+  },
+  {
+   "surface": "הסגיר",
+   "gloss": "hark'arqan"
+  },
+  {
+   "surface": "ביד",
+   "gloss": "makinman"
+  },
+  {
+   "surface": "אויב",
+   "gloss": "awqap"
+  },
+  {
+   "surface": "חומת",
+   "gloss": "saywanpakunata"
+  },
+  {
+   "surface": "ארמנותיה",
+   "gloss": "armonninkunap"
+  },
+  {
+   "surface": "קול",
+   "gloss": "hatun takinchakuyta"
+  },
+  {
+   "surface": "נתנו",
+   "gloss": "ruwarqanku"
+  },
+  {
+   "surface": "בבית",
+   "gloss": "wasinpi"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "כיום",
+   "gloss": "punchaw hina"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "mit'a"
+  }
+ ],
+ "timestamp": "2026-09-08T14:38:00.311851363Z",
+ "model": "glm-5.3"
+}

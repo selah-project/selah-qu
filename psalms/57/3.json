@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 57,
+  "translation": "Qayarqasaq Elohimman Elyonman, Elman ñuqapaq hunt'aqta.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "qayarqasaq"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elman"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "hunt'aq"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:58.526772253Z",
+  "model": "glm-5.3"
+}

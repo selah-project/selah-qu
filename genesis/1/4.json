@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi Elohim ⟨את⟩ k'anchayta qhawarqan, allin kasqantam; hinaspa Elohim k'anchayta lautamanta t'aqarqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Chaysi qhawarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'anchayta"
+    },
+    {
+      "surface": "האור",
+      "gloss": "k'anchayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqantam"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "hinaspa t'aqarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "t'aqay"
+    },
+    {
+      "surface": "האור",
+      "gloss": "k'anchayta"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hinaspa lautamanta"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "lautamanta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:17.440043259Z",
+  "model": "glm-5.3"
+}

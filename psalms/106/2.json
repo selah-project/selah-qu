@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "psalms 106:2",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 106,
+ "translation": "Pitataq Yahwepa atiyninkunata willayta atinqa? Pitataq llapan alabraninta uyachiyta atinqa?",
+ "tokens": [
+  {
+   "surface": "מי",
+   "gloss": "Pitataq"
+  },
+  {
+   "surface": "ימלל",
+   "gloss": "willayta atinqa"
+  },
+  {
+   "surface": "גבורות",
+   "gloss": "atiyninkunata"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "ישמיע",
+   "gloss": "uyachiyta atinqa"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "תהלתו",
+   "gloss": "alabraninta"
+  }
+ ],
+ "timestamp": "2026-09-08T10:17:21.661042286Z",
+ "model": "glm-5.3"
+}

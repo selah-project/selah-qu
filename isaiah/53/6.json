@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 53:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 53,
+  "translation": "Llapanchikmi michi hina chakirqanchik, sapa runa kikin ñanman t'ikrasqanchik; chaymi Yahwem paypi urmachirqan ⟨את⟩ llapanchikpa huchanchikta.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "llapanchik"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "michi hina"
+    },
+    {
+      "surface": "תעינו",
+      "gloss": "chakirqanchik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "kikin ñanman"
+    },
+    {
+      "surface": "פנינו",
+      "gloss": "t'ikrasqanchik"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "chaymi Yahwem"
+    },
+    {
+      "surface": "הפגיע",
+      "gloss": "urmachirqan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapanchikpa huchanchikta"
+    },
+    {
+      "surface": "עון",
+      "gloss": "hucha"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "llapanchikpa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:38:36.078738168Z",
+  "model": "glm-5.3"
+}

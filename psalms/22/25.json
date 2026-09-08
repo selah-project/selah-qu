@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Yahwem manam q'awasqachu, manam iñiqnimanta chiqtasqachu llakikuq llakikuyninta, manam ñawpanta paymanta pakasqachu; pay qayaruptinqa, uyariqmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "(imaraykuchus)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "q'awasqachu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "iñiqnimanta chiqtasqachu"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "llakikuyninta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "llakikuq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "pakasqachu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ñawpanta"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "pay qayaruptinqa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyariqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:09.926156251Z",
+  "model": "glm-5.3"
+}

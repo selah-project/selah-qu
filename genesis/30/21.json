@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Chaymantaqa Leam huk churiyantam wacharqan, hinaspa ⟨את⟩ shutinta Dinah nispa suticharqan.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "churiyanta"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "suticharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shutinta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "shutinta"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinah"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:22.335295307Z",
+  "model": "glm-5.3"
+}

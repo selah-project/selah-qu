@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Avana ruraqkunamanta amiwanawaymi; yawar runakunamanta qispichiwawaymi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "amiwanaway"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "ruraqkunamanta"
+    },
+    {
+      "surface": "און",
+      "gloss": "avana"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "hinaspa runakunamanta"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "yawar"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "qispichiwaway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:52.104889950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Manam qawankichu ⟨את⟩ wawqeykipa wakata utaq ⟨את⟩ uywanta chayasqata, chaymanta pakakunkichu; kutichiyta kutichinki wawqeykiman.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "qawanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawqeykipa wakata"
+    },
+    {
+      "surface": "שור",
+      "gloss": "waka"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wawqeykipa"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uywanta"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "uywa"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "chayasqata"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "pakakunki"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "השב",
+      "gloss": "kutichiy"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "kutichinki"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "wawqeykiman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:51:45.872555085Z",
+  "model": "glm-5.3"
+}

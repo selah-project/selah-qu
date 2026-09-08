@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa Aharon ⟨את⟩ paypa wakata, hucha korban kaqta, apamunqa; paypaqpa hinaspa wasinpaqpa pampachakunqa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "apamunqa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa waka"
+    },
+    {
+      "surface": "פר",
+      "gloss": "waka"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hucha korban"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "pampachakunqa"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "paypaqpa"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "hinaspa ...paq"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasinpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:54.137941599Z",
+  "model": "glm-5.3"
+}

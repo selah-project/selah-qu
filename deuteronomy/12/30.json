@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 12:30",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Qamta amachakuy, ama paykuna qhipanwan watasqa chinkapuychu ñawpaqkimanta chinkachisqa kasqanku qhipan; ama paykunaq diosninkunata maskhaychu, kayta nispa: «Imaynataq kay mamallaqtakuna ⟨את⟩ paykunaq diosninkunata servin?» — chaynatam ñuqapas ruwasaq.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "amachakuy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama … -chu"
+    },
+    {
+      "surface": "תנקש",
+      "gloss": "watasqa chinkapuy"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "paykuna qhipanwan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipanta"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "chinkachisqa kasqanku"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ñawpaqkimanta"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "hinaspa ama … -chu"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "maskhay"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "paykunaq diosninkunamanta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "imaynataq"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "servinku"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "mamallaqtakuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paykunaq diosninkunata"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "diosninkunata"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ruwasaq"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "גם",
+      "gloss": "takin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqapas"
+    }
+  ],
+  "timestamp": "2026-09-08T02:39:06.005018440Z",
+  "model": "glm-5.3"
+}

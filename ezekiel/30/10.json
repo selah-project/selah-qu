@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "ezekiel 30:10",
+ "book": "ezekiel",
+ "lang": "qu",
+ "chapter": 30,
+ "translation": "Kayhina Adonay Yahwem nirqan: ñuqam ⟨את⟩ Mitsrayimpa askhayninta p'uchukachisaq Nebukadnetsar (Nabucodonosor), Bavel apupa makinwan.",
+ "tokens": [
+  {
+   "surface": "כה",
+   "gloss": "Kayhina"
+  },
+  {
+   "surface": "אמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "אדני",
+   "gloss": "Adonay"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "והשבתי",
+   "gloss": "p'uchukachisaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Mitsrayimpa askhaynin"
+  },
+  {
+   "surface": "המון",
+   "gloss": "askhaynin"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "Mitsrayimpa"
+  },
+  {
+   "surface": "ביד",
+   "gloss": "makinwan"
+  },
+  {
+   "surface": "נבוכדראצר",
+   "gloss": "Nebukadnetsar"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "apu"
+  },
+  {
+   "surface": "בבל",
+   "gloss": "Bavelpa"
+  }
+ ],
+ "timestamp": "2026-09-08T08:22:50.535649054Z",
+ "model": "glm-5.3"
+}

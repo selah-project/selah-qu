@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Chaymanta Davidpas, ⟨את⟩ paywan kaq runakunapas ⟨את⟩ kukinkunata huqarirqaku, waqarqankum; waqanankupaq atiyninkuña chinkaruspa karqan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "huqarirqaku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpas"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "runakunapas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paywan kaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kukinkunata"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "kukinkunata"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "waqarqankum"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaykama"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manaña"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paykunapi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "atiy"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "waqanankupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T04:30:59.680230187Z",
+  "model": "glm-5.3"
+}

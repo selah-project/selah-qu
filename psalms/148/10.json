@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 148,
+  "translation": "Sallqa uywakuna hinaspa llapa wasi uywakuna, willalakunapas, hinaspa phawaykuna chhikakunayuq ⟨mi⟩.",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "sallqa uywakuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "wasi uywakuna"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "willalakuna"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "hinaspa phawaykuna"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "chhikakunayuq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:21.928055989Z",
+  "model": "glm-5.3"
+}

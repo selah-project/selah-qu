@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Kayhina waynaqa betulawan baronakunmi, chayhina wawaykikuna qantawan baronakunkum; hatun'aqpa p'away warmimanta kusikuynin hina, Elohimniykiqa qanmanta kusikunmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "baronakun"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "wayna"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "betulawan"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "baronakunku"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wawaykikuna"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "kusikuynin"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "hatun'aqpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "p'away warmi"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "kusikun"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qanmanta"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T06:42:41.084002668Z",
+  "model": "glm-5.3"
+}

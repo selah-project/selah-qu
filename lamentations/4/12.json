@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Manam iñirqanchu hallp'ap apunkuna, tikraq pachapi tiyaqkuna llapankuna: awqa, ayquripas Yerushalayimp punkunkunaman chayamunqata.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "iñirqanchu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apunkuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinallataq llapan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tikraq pachapi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "chayamunqata"
+    },
+    {
+      "surface": "צר",
+      "gloss": "awqa"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "ayquripas"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "punkunkunaman"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimp"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:03.952897898Z",
+  "model": "glm-5.3"
+}

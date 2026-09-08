@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Sichus paypa churinkuna Torayta saqinqa, chaynaspa kamachikuqniymanpipas mana purinqa chayqa —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "saqinqa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "paypa churinkuna"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torayta"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "kamachikuqniymanpipas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "purinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:39.765137240Z",
+  "model": "glm-5.3"
+}

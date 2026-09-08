@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 57,
+  "translation": "Ñankunamanpi waytata watarqankum; nefeshniy q'alam karqanmi. Ñawpaqpi wayra t'uquta qhorqunku, chay ukhullanmi paykunam urmarqanku. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "waytata"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "watarqankum"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "Ñankunamanpi"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "q'alam"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "qhorqunku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "Ñawpaqpi"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "wayra t'uquta"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "urmarqanku"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "chay ukhullanmi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:02.283926651Z",
+  "model": "glm-5.3"
+}

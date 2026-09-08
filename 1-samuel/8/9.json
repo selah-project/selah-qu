@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Kunantaq uyariy kunkankuta; ichaqa willaspa willanki paykunaman, hinaspam paykunaman willanki apupa kamachikuyninta, mayqen paykunapawan apukanqata.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunantaq"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "kunkankuta"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ichaqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cheqas"
+    },
+    {
+      "surface": "העד",
+      "gloss": "willaspa"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "willanki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "hinaspam willanki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kamachikuyninta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "apukanqa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunapawan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:05:35.149510012Z",
+  "model": "glm-5.3"
+}

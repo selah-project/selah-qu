@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Shadday apukunata chaypi t'aqarqan; Tsalmonpi qasa urmuy hina yuraq karqanm.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "t'aqarqaptin"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukunata"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "qasa urmun hina"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "Tsalmonpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:07.019299111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Paypi qusanpa sunqun suyakunmi, hinaspa manam qollqemanta chusaq kanqachu.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "suyakun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqun"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "qusanpa"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "hinaspa qollqemanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "chusaq kanqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:55:20.041251217Z",
+  "model": "glm-5.3"
+}

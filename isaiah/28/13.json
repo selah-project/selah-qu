@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 28:13",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Paykunapaq Yahwepa siminmi kanqa: kamachiy kamachiywan, kamachiy kamachiywan, siq'i siq'iwan, siq'i siq'iwan, pisi kaypi, pisi chaypi — chayrayku purinankupaq, qipaman tardespa p'akispa, wataspa hap'ikunankupaq.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "צו",
+      "gloss": "kamachiy"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "kamachiywan"
+    },
+    {
+      "surface": "צו",
+      "gloss": "kamachiy"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "kamachiywan"
+    },
+    {
+      "surface": "קו",
+      "gloss": "siq'i"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "siq'iwan"
+    },
+    {
+      "surface": "קו",
+      "gloss": "siq'i"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "siq'iwan"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kaypi"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "purinankupaq"
+    },
+    {
+      "surface": "וכשלו",
+      "gloss": "tardenkumku"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "qipaman"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "p'akinkumku"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "watankumku"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "hap'inkumku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:11:32.002301691Z",
+  "model": "glm-5.3"
+}

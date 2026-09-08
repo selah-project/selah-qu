@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 16:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Israelpa wawankuna chaynata ruwarqankum, pallarqankum: askha pallaqpas, pisi pallaqpas.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וילקטו",
+      "gloss": "pallarqanku"
+    },
+    {
+      "surface": "המרבה",
+      "gloss": "askha pallaq"
+    },
+    {
+      "surface": "והממעיט",
+      "gloss": "pisi pallaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:03:49.218869522Z",
+  "model": "glm-5.3"
+}

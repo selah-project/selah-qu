@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 52,
+  "translation": "Imataq qan, hatun atuchaq runa, mana allinwan kikunki? Elpa jesednin (khuyakuynin) tukuy p'unchawmi ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Imataq"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "kikunki"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "mana allinwan"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "hatun atuchaq runa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesednin (khuyakuynin)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elpa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:58.901744672Z",
+  "model": "glm-5.3"
+}

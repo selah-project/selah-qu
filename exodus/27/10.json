@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "exodus 27:10",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 27,
+ "translation": "Saywankunantaq iskay chunka, tiyanankunantaq iskay chunka broncemanta; saywakunap wankankuna, ch'ikanankunañataq qullqimanta.",
+ "tokens": [
+  {
+   "surface": "ועמדיו",
+   "gloss": "saywankunanta"
+  },
+  {
+   "surface": "עשרים",
+   "gloss": "iskay chunka"
+  },
+  {
+   "surface": "ואדניהם",
+   "gloss": "tiyanankunanta"
+  },
+  {
+   "surface": "עשרים",
+   "gloss": "iskay chunka"
+  },
+  {
+   "surface": "נחשת",
+   "gloss": "bronce"
+  },
+  {
+   "surface": "ווי",
+   "gloss": "wankakuna"
+  },
+  {
+   "surface": "העמדים",
+   "gloss": "saywakunap"
+  },
+  {
+   "surface": "וחשקיהם",
+   "gloss": "ch'ikanankuna"
+  },
+  {
+   "surface": "כסף",
+   "gloss": "qullqi"
+  }
+ ],
+ "timestamp": "2026-09-08T00:36:21.610212438Z",
+ "model": "glm-5.3"
+}

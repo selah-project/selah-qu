@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "2-chronicles 17:3",
+ "book": "2-chronicles",
+ "lang": "qu",
+ "chapter": 17,
+ "translation": "Yahwem Yehoshafatwan karqanmi, imaraykuchus tayta Davidep ñawpaq ñanninkunapi purirqanmi, Baalim (Balekuna) sutiyuq dioskunataq manam ñawinchakurqanchu.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "karqanmi"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "עם",
+   "gloss": "-wan"
+  },
+  {
+   "surface": "יהושפט",
+   "gloss": "Yehoshafatwan"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "הלך",
+   "gloss": "purirqanmi"
+  },
+  {
+   "surface": "בדרכי",
+   "gloss": "ñanninkunapi"
+  },
+  {
+   "surface": "דויד",
+   "gloss": "Davidep"
+  },
+  {
+   "surface": "אביו",
+   "gloss": "tayta"
+  },
+  {
+   "surface": "הראשנים",
+   "gloss": "ñawpaq"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "manam"
+  },
+  {
+   "surface": "דרש",
+   "gloss": "ñawinchakurqanchu"
+  },
+  {
+   "surface": "לבעלים",
+   "gloss": "Baalim (Balekuna) dioskunataq"
+  }
+ ],
+ "timestamp": "2026-09-08T13:03:03.491632451Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chaymi ⟨את⟩ yawarichiykichikta, nefeshniykichikpaq, qatisaq: llapa kawsaqpa makinmanta qatisaqta, runap makinmantapas, huk runap wawqenpa makinmanta qatisaq ⟨את⟩ runap nefeshta.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yawarichiykichikta"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "yawarichiykichikta"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "nefeshniykichikpaq"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "qatisaq"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kawsaqpa"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "qatisaqta"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "makinmantapas"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runap"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqenpa"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "qatisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runap nefeshta"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runap"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:42.263707607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Makirmanmi ⟨את⟩ Gileadta qurqani.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Makirmanmi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qurqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gileadta"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileadta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:28:25.248752816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Ashalla, tsivim, tarukam hina mikhusqam; chaynintam mikunki: mana ch'uyawan, ch'uyawanpas kuskalla mikunku.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ashalla"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhusqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsivi"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "tsivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "taruka"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "taruka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayninta"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "mikunki"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "mana ch'uya"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "hinaspa ch'uya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kuskalla"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "mikunku"
+    }
+  ],
+  "timestamp": "2026-09-08T02:38:12.030758588Z",
+  "model": "glm-5.3"
+}

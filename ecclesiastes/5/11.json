@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Miskumi llamk'aqpa puñuynin, aslla mikhun utaq askha mikhun; qapaqpa hunt'akayninwanqa mana saqinchu payta puñunanta.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "misku"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "puñuynin"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "llamk'aqpa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aslla"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "—"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "utaq askha"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "—"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhun"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "hunt'akayninwan"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "qapaqpa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "saqinchu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "puñunanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:57.667549510Z",
+  "model": "glm-5.3"
+}

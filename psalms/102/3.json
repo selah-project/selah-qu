@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Ama ñawipaykita ñuqamanta pakawaychu llaki p'unchawpi, ñuqap; rinraykiyta ñuqaman t'ikray, mañaq p'unchawpi qaylla kutichiwaway.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "pakawaychu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawipaykita"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "llaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "t'ikray"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "rinraykiyta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "mañaq(ti)"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "qaylla"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "kutichiwaway"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:12.800810842Z",
+  "model": "glm-5.3"
+}

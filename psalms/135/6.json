@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Yahwem munasqanta hunt'achin hanaq pachapipas, kay pachapipas, mamakochapipas, llapan ukhu yakukunapipas.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(nisqata)"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "munasqanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hunt'achin"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanaq pachapipas"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "kay pachapipas"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "mamakochapipas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ukhu yakukuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:13.264363068Z",
+  "model": "glm-5.3"
+}

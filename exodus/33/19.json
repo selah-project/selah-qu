@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Nirqan: \"Ñuqam llapa allin kayniyta ñawiypan pasarichisaq, hinaspa Yahwep Sutinwan qayarisaq ñawiypa ñawpaqninpi; khuyasaqmi ⟨את⟩ mayqinta khuyasaq, hinaspa khuyawasaqmi ⟨את⟩ mayqinta khuyawasaq.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "pasarichisaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "allin kayniyta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ñawiypan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiypan"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "qayarisaq"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Sutinwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ñawiypa ñawpaqninpi"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "khuyasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayqinta khuyasaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "khuyasaq"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "khuyawasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayqinta khuyawasaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "khuyawasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:14.665189937Z",
+  "model": "glm-5.3"
+}

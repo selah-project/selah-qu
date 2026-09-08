@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Manam waqaychasqankuchu Elohimpa berinta, paypa Toranpi purinatawan mana munarqankuchu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam ... chu"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "waqaychasqanku"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berinta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "paypa Toranpiwan"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "mana munarqanku"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "purina"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:41.098310140Z",
+  "model": "glm-5.3"
+}

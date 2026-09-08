@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Zabadm ⟨את⟩ Eflalta wawacharqan, hinaspa Eflalm ⟨את⟩ Ovedta wawacharqan.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "hinaspa Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflalta"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "hinaspa Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ovedta"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Oved"
+    }
+  ],
+  "timestamp": "2026-09-08T12:30:21.501336798Z",
+  "model": "glm-5.3"
+}

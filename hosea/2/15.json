@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 2:15",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Payta Baal-kunap p'unchawkunampi taripasaqmi, mayqinkunaman q'urpu aysarqa; sinqa chukunwan, allicha qurinwan sumyakurqan, munaraqninkanta qatirqa, ñuqataq qonqarqan — Yahwepa willakuyninmi.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "taripasaqmi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "payta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'unchawkunata"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkunampi"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baal-kuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunaman"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "q'urpu aysarqa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ותעד",
+      "gloss": "sumyakurqan"
+    },
+    {
+      "surface": "נזמה",
+      "gloss": "sinqa chukunta"
+    },
+    {
+      "surface": "וחליתה",
+      "gloss": "allicha qurinta"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "purirqa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qati"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "munaraqninkan"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "hinaspa ⟨את⟩ ñuqata"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "qonqarqan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "willakuynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T08:45:43.730433795Z",
+  "model": "glm-5.3"
+}

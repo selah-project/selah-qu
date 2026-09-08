@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "Chaypacham awqayniy kutinqaku qayarqani p'unchawpi; kayta riqsinim: Elohim ñuqapaqmi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "chaypacha"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "kutinqaku"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "awqayniy"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "qipa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qayarqani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "riqsinim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:49.404374101Z",
+  "model": "glm-5.3"
+}

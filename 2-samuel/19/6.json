@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaymanta Yoav apuman wasiman haykurqan, nispa: Kay p'unchawm ⟨את⟩ llapan yanapaqniykikunap uyan waqllirqanki, paykunam kay p'unchaw ⟨את⟩ kawsaykiyta hark'arqanku, hinaspa ⟨את⟩ churiykikunap kawsayninta, ususiykikunap kawsaynintawan, warmiykikunap kawsayninta, pilagshaykikunap kawsaynintawan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "haykurqan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasiman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanm"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "uyan waqllirqanki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchawm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uyan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "yanapaqniykikunap"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "hark'aqkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawsaykiyta"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "kawsaykiyta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kawsay"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kawsay"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "churiykikunap"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "ususiykikunap"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "kawsayninta"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "warmiykikunap"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "kawsayninta"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "pilagshaykikunap"
+    }
+  ],
+  "timestamp": "2026-09-08T04:53:12.830096759Z",
+  "model": "glm-5.3"
+}

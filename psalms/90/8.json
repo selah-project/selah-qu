@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Huchaykuta qayllaykipi churarqankim, pakasqaykutapas ñawiykipa k'anchayninpi.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "churarqanki"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "huchaykuta"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "qayllaykipi"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "pakasqaykuta"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "k'anchayninpi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiykipa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:54.750110760Z",
+  "model": "glm-5.3"
+}

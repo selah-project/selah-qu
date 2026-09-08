@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kamachiynin kimsa watanm tukuy apinkunanman, yanapaqninkunanmanpas mishita ruwarqan; Paraspa Madaypa awqakuna, partemimkuna, suyukunap apinkunapas ñawpaqninpi karqan.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "watanpi"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "kamachiynin"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mishita"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tukuyman"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "apinkunanman"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "hinaspa yanapaqninkunanman"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "awqakuna"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "hinaspa Maday"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "partemimkuna"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "hinaspa apinkuna"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "suyukunap"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:24:36.594150311Z",
+  "model": "glm-5.3"
+}

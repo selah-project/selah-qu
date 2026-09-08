@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Mayqinpa makipin llapan kawsaqpa nefeshnin ⟨kan⟩, hinaspa llapan runa aychapa samaynin ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "makipin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshnin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "hinaspa samaynin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:01:41.168824918Z",
+  "model": "glm-5.3"
+}

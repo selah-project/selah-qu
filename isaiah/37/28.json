@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Tiyariykimta, lluqsiykimta, yaykuykimtañam yachani; hinaspa ⟨את⟩ ñuqaman chiqtiriykimtapas.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "tiyariyki"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "lluqsiyki"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "yaykuyki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yachani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chiqtiriykimta"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "chiqtiriyki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:18:24.591504767Z",
+  "model": "glm-5.3"
+}

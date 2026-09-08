@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "K'illika wasiykipiqa qampas rumiwan rumi mana kanqanchu, hatunwan huch'uymi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampas"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "k'illika wasiykipi"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "rumiwan"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "huch'uy"
+    }
+  ],
+  "timestamp": "2026-09-08T02:49:51.185974640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Yahwe wiñaypaq, wiñaytaraqmi apu kaspa kamachinqa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "apu kaspa kamachinqa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hinaspa wiñaytaraq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:47.493264383Z",
+  "model": "glm-5.3"
+}

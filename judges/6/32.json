@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 6:32",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chay p'unchawmi payta Yerubbaal suticharqanku, nispa: «Baal paywan rimanqa, paypa ⟨את⟩ altarninta thunirqanrayku».",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "suticharqanku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "rimanqa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "thunirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa altarninta"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "paypa altarninta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:42:11.236649331Z",
+  "model": "glm-5.3"
+}

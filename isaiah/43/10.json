@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 43:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Qamkuna ñuqap willakuqniykim kanki, Yahwem nispa, ñuqap llamk'aqniykipas, akllasqaykim. Chaymanta yachanki, ñuqaman iñinkichikmi, chayta hawarikunkichikmi: ñuqam kanimi. Ñuqap ñawpaqniypi mana El rurasqa karqanchu, ñuqap qhipaqniypi mana kanqachu.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ñuqap willakuqniykim"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ñuqap llamk'aqniykipas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chasqa"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "akllasqaykim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "yachanki"
+    },
+    {
+      "surface": "ותאמינו",
+      "gloss": "iñinkichikmi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ותבינו",
+      "gloss": "hawarikunkichikmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaspa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanimi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñuqap ñawpaqniypi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נוצר",
+      "gloss": "rurasqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ñuqap qhipaqniypi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:23:12.084404194Z",
+  "model": "glm-5.3"
+}

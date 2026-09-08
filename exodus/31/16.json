@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Chayrayku Israelpa churinkuna ⟨את⟩ Shabatta waqaychanku, wawakunanpi ⟨את⟩ Shabatta ruwanankupaq, wiñaypaq Berit hina.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Chayrayku waqaychanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabatta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabatta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabatta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabatta"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "wawakunanpi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Berit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:40:51.638456206Z",
+  "model": "glm-5.3"
+}

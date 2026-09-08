@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 129,
+  "translation": "T'ikasqakunap takin. Askhata ñit'irqankum ñuqata ñawpa wachaymanta; nillantaq Israel ⟨kunan⟩:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "takin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "t'ikasqakunap"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "askhata"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ñit'irqanku ñuqata"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ñawpa wachaymanta"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nillantaq"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨kunan⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:27.481899043Z",
+  "model": "glm-5.3"
+}

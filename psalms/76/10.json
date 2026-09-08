@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 76,
+  "translation": "Elohim sayarirqanmi taripaypa, hallp'ap llapan humildekunata hinarqanpaq. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "taripaypa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "hinarqanpaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "humildekuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:35.090807831Z",
+  "model": "glm-5.3"
+}

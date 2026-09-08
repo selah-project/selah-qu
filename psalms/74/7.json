@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Ninawan Mikdashnikita churanku; hallp'aman churaspam Mishkan Sutikipaq millaychanku.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "churanku"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninawan"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "Mikdashnikita"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "millaychanku"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutikipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:08.803823579Z",
+  "model": "glm-5.3"
+}

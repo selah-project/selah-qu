@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Shaulm Yehonatanpa siminta uyarirqan, hinaspa Shaul jururqan: «Yahwe kawsanmi hina, payqa mana wañuchinqachu.»",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulm"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanpa"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "jururqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañuchinqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T04:18:33.872799309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Yarqarqankum ⟨את⟩ tukuy Emorikunap saywanta, Arnonmanta Yabboqkama, ch'usaq pachamanta Yardenkama.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Yarqarqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy Emorikunap saywanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "saywanta"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorikunap"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "Arnonmanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabboq"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ch'usaq pacha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-08T13:32:38.384678410Z",
+  "model": "glm-5.3"
+}

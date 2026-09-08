@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspam paqanpa sutinmi Yubal (Jubal); paymi tukuy kinor-ta, ugab-ta t'ikraqkunap taytan karqan.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "hinaspam sutin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "paqanpa"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yubal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "t'ikraqkunap"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinor"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ugab-tawan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:34.649380142Z",
+  "model": "glm-5.3"
+}

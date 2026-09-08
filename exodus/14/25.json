@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chaymanta Yahwem ⟨את⟩ markavninkunapa chukukunata hurqurqan, chaymi llasa-llasallata purichirqanku. Chaymi Mitsrayim runakunam nirqaku: «Israelmanta ayqsun, imaraykuchus Yahwem paykunapaq Mitsrayimwan awqanakushanmi».",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "markavninkunapa chukukunata"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "chuku"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "markavninkunapa"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "purichirqanku"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "llasa-llasallata"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqaku"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim runakunam"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "ayqsun"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "manta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "awqanakushanmi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:55.524639463Z",
+  "model": "glm-5.3"
+}

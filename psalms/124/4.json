@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 124,
+  "translation": "chaymi unakuna ñuqanchikta lavasqanman karqan, mayu ñuqanchikpa kawsayninchikta patan purisqanman karqan:",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unakuna"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "ñuqanchikta lavasqanman karqan"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "patan purisqanman karqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patan"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "kawsayninchikta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:33.560105427Z",
+  "model": "glm-5.3"
+}

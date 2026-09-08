@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "joshua 15:47",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Ashdod, llaqtankunawan, chakrakunanwanpas; Aza (Gaza), llaqtankunawan, chakrakunanwanpas; Mitsrayim (Egipto) mayu-k'ikillukama; chay ancha hatun mamakucham saywanmi.",
+  "tokens": [
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "llaqtankunawan"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "chakrakunanwanpas"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "בנותיה",
+      "gloss": "llaqtankunawan"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "chakrakunanwanpas"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "mayu-k'ikillu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "והים",
+      "gloss": "chay ancha hatun mamakucham"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "saywanmi"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "saywa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:23:45.632173067Z",
+  "model": "glm-5.3"
+}

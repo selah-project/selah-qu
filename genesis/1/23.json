@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chisim karqan, tutamantam karqan — phisqa ñiqin p'unchaw.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "chisi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "phisqa ñiqin"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:31.077622260Z",
+  "model": "glm-5.3"
+}

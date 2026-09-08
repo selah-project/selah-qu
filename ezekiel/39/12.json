@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Israelpa wasinmi paykunata kabranqa, hallp'ata ⟨את⟩ p'ichanankupaq, qanchis killa ⟨m⟩.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "paykunata kabranqa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ankupaq"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "p'ichanankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "killa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:33:34.407566271Z",
+  "model": "glm-5.3"
+}

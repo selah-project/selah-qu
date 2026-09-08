@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Runa amalpim paykuna mana kachkankuchu; runaman rikusqahina mana llamk'apunichu kanku.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "runa amalpi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "mana kachkankuchu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "runawan kuska"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runaman rikusqahina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "llamk'apunichu kanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:28.929491368Z",
+  "model": "glm-5.3"
+}

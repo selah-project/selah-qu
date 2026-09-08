@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "hosea 10:6",
+ "book": "hosea",
+ "lang": "qu",
+ "chapter": 10,
+ "translation": "Chaypas ⟨את⟩ Ashurman apasqa kanqam, mincha hina Yarev apuman; Efraym p'inqaywanmi chaskinqa, Israelpas paypa yuyayninmanta p'inqakunqam.",
+ "tokens": [
+  {
+   "surface": "גם",
+   "gloss": "chaypas"
+  },
+  {
+   "surface": "אותו",
+   "gloss": "⟨את⟩",
+   "marks": "Ashurta"
+  },
+  {
+   "surface": "לאשור",
+   "gloss": "Ashurman"
+  },
+  {
+   "surface": "יובל",
+   "gloss": "apasqa kanqa"
+  },
+  {
+   "surface": "מנחה",
+   "gloss": "mincha"
+  },
+  {
+   "surface": "למלך",
+   "gloss": "apuman"
+  },
+  {
+   "surface": "ירב",
+   "gloss": "Yarev"
+  },
+  {
+   "surface": "בשנה",
+   "gloss": "p'inqaywan"
+  },
+  {
+   "surface": "אפרים",
+   "gloss": "Efraym"
+  },
+  {
+   "surface": "יקח",
+   "gloss": "chaskinqa"
+  },
+  {
+   "surface": "ויבוש",
+   "gloss": "hinaspa p'inqakunqa"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "מעצתו",
+   "gloss": "paypa yuyayninmanta"
+  }
+ ],
+ "timestamp": "2026-09-08T14:07:08.114305885Z",
+ "model": "glm-5.3"
+}

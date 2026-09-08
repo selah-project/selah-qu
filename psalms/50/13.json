@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Mikhunichu ⟨nuqam⟩ sinchi wakrakunap aychanta? Hinaspa machu kaurikunap yawarnintawan upyasaqchu?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "mikhunichu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aychanta"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "sinchi wakrakunap"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "hinaspa yawarninta"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "machu kaurikunap"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "upyasaqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:16.553984978Z",
+  "model": "glm-5.3"
+}

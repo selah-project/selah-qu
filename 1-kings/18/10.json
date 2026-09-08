@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Yahwe Elohimniyki kawsanm ⟨hina⟩: mana kan llaqta utaq mamallaqta maypi apuy mana qampata mask'ananpaq kacharqan; hinaspa ninkus: mana kanchu; chaymanta ⟨את⟩ mamallaqtatawan hinaspa ⟨את⟩ llaqtatawan jurachirqan mana tarikunkichu kasqanta.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "kawsanm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "יש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "utaq mamallaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apuy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "qampata mask'ananpaq"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "hinaspa ninkus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "jurachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mamallaqtata"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mamallaqtatawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "llaqtatawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "tarikunkichu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:18:10.315515094Z",
+  "model": "glm-5.3"
+}

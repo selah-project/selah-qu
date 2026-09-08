@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Hinaspa runakunata ñuqap sonqo phiyniwan sarurqani, ñuqap ch'akiywan machachirqani, hinaspa paykunapa yawnchankunata hallp'aman urmachirqani.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "sarurqani"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ñuqap sonqo phiyniwan"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "machachirqani"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "ñuqap ch'akiywan"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "urmachirqani"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "paykunapa yawnchankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T06:41:41.620889774Z",
+  "model": "glm-5.3"
+}

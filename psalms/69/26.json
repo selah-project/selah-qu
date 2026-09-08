@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Ch'usaq tukuchun paykunap pirqasqa wasin; wasikunankupi ama tiyaq tiyachunchu.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "tukuchun"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "paykunap pirqasqa wasin"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "wasikunankupi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "tiyachunchu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:47.406665079Z",
+  "model": "glm-5.3"
+}

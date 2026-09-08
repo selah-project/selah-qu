@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Yehudapa (Judá) churinkunam: Perets, Chetsron, Karmi, Chur, Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa (Judá)"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "Shoval"
+    }
+  ],
+  "timestamp": "2026-09-08T12:34:10.798770705Z",
+  "model": "glm-5.3"
+}

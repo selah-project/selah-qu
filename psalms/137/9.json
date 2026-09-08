@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 137,
+  "translation": "Kusi kashaqmi pay, may hap'in hinaspa ⟨את⟩ ñuñuq wawaykikunata hatun rumiman thuqun.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kusi kashaq"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "may hap'in"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "hinaspa thuqun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuñuq wawaykikunata"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ñuñuq wawaykikunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "hatun rumi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:57.390905362Z",
+  "model": "glm-5.3"
+}

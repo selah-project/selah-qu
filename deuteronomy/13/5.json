@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Yahwe Elohimniykichik qhipanta puriychik, hinaspa ⟨את⟩ payta manchariychik, hinaspa ⟨את⟩ kamachikuyninkunata waqaychaychik, hinaspa paypa kunkanpi uyariychik, hinaspa ⟨את⟩ payta sirviychik, hinaspa payman ch'akaykachaychik.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "qhipanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "puriychik"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "hinaspa ⟨את⟩ payta",
+      "marks": "payta"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "manchariychik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kamachikuyninkunata"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "kamachikuyninkunata"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "waqaychaychik"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "hinaspa paypa kunkanpi"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "uyariychik"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "hinaspa ⟨את⟩ payta",
+      "marks": "payta"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "sirviychik"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "hinaspa payman"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "ch'akaykachaychik"
+    }
+  ],
+  "timestamp": "2026-09-08T02:42:08.842419843Z",
+  "model": "glm-5.3"
+}

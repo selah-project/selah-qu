@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Miktam (qillqa unancha) Davidpa (Davidpa): El, ñuqata waqaychaway, ñuqam qampi amachakurqanim.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "ñuqata waqaychaway"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "amachakurqanim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:58.143609231Z",
+  "model": "glm-5.3"
+}

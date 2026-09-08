@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 70,
+  "translation": "Ñuqataq wakcha kani, mana imayuqpas kani; Elohim, ñuqaman utqaykullamuy. Qammi ñuqap yanapaq, ñuqap qispichiq kanki; Yahwe, ama hayuychu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "hinaspa mana imayuq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "utqaykullamuy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ñuqap yanapaq"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "hinaspa ñuqap qispichiq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "hayuychu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:38.067198345Z",
+  "model": "glm-5.3"
+}

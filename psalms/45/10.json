@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Apukunap ususinkuna chaninchasqaykikunapim ⟨kachkanku⟩; qoyan paña makinkipi sayarqan, Ophirpa quriwan ⟨llachapasqa⟩.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "ususinkuna"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukunap"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "chaninchasqaykikunapi"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "sayarqan"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "qoyan"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "paña makinkipi"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "quriwan"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ophirpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:41.107079209Z",
+  "model": "glm-5.3"
+}

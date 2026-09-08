@@ -1,0 +1,86 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "joshua 23:3",
+ "book": "joshua",
+ "lang": "qu",
+ "chapter": 23,
+ "translation": "«Qamkunam rikurqankichik ⟨את⟩ llapanta ima Yahwe Elohimniykichik kay gentekunaman ruwasqanta, qamkuna ñawpaqmanta; imaraykuchus Yahwe Elohimniykichikmi payllam qamkunapaq awqananku».",
+ "tokens": [
+  {
+   "surface": "ואתם",
+   "gloss": "qamkuna"
+  },
+  {
+   "surface": "ראיתם",
+   "gloss": "rikurqankichik"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "llapanta"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapanta"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "ima"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "ruwasqanta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohimniykichik"
+  },
+  {
+   "surface": "לכל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "הגוים",
+   "gloss": "gentekuna"
+  },
+  {
+   "surface": "האלה",
+   "gloss": "kay"
+  },
+  {
+   "surface": "מפניכם",
+   "gloss": "qamkuna ñawpaqmanta"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohimniykichik"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "paylla"
+  },
+  {
+   "surface": "הנלחם",
+   "gloss": "awqananku"
+  },
+  {
+   "surface": "לכם",
+   "gloss": "qamkunapaq"
+  }
+ ],
+ "timestamp": "2026-09-08T03:31:12.105247064Z",
+ "model": "glm-5.3"
+}

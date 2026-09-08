@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Q'aytullanta, k'ita q'aytullantawan qampaq wiñachinqa; hinaspa ⟨את⟩ chakrata chakrankunatam mikhunki.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "q'aytullanta"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "k'ita q'aytullantawan"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "wiñachinqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "mikhunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakrata chakrankunata"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "chakra chakrankuna"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chakrap"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:27.539478499Z",
+  "model": "glm-5.3"
+}

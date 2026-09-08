@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa llakichirqankum ⟨את⟩ kawsayninkunata sinchi llamk'aywan, arcowan, ladrillowampas, chakrapi llapa llamk'aywanpas; ⟨את⟩ llapa llamk'ayninkutapas, mayqinta paykunapi llamk'achisqanku chayta, sinchi kasqawan.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "llakichirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawsayninkunata"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "kawsayninkuta"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "llamk'aywan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "arcowan"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "ladrillowampas"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chakrapi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa llamk'ayninkuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "llamk'ayninkuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "llamk'achisqanku"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paykunapi"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "sinchi kasqawan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:47.709616241Z",
+  "model": "glm-5.3"
+}

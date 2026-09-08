@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 144,
+  "translation": "Torunchikmi llasa llasa apaykachanku; manam p'akikuy kanchu, manam lluqsinakuy kanchu, manam waqaykachay kanchu plazanchikchikpi.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "torunchik"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "llasa apaykachanku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "p'akikuy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "lluqsinakuy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "waqaykachay"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "plazanchikpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:27.583569535Z",
+  "model": "glm-5.3"
+}

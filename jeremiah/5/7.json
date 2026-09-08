@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 5:7",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Imataq kayrayku perdonasaq qamta? Wawakunaykiqa saqirqankum ñuqata, hinaspa mana dioskuna kaptinmi jurarqanku; ñuqa ⟨את⟩ paykunata mikuchirqanim, paykunaqtaq wanturqankum, hinaspa prostituta warmi wasinpi huñukunku.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "kayrayku"
+    },
+    {
+      "surface": "אסלוח",
+      "gloss": "perdonasaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wawakunayki"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "saqirqanku ñuqata"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "hinaspa jurarqanku"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "ואשבע",
+      "gloss": "mikuchirqanim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "wanturqankum"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "prostituta warmi"
+    },
+    {
+      "surface": "יתגדדו",
+      "gloss": "huñukunku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:51:49.169126298Z",
+  "model": "glm-5.3"
+}

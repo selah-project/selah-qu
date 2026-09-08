@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chay rimayqa Adonaypa ñawipin allinmi karqan, imaraykuchus Shelomo (Salomón) ⟨את⟩ kay rimayta kayta mañakurqan.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "allinmi karqan"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rimayqa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawipin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaypa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "mañakurqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo (Salomón)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay rimayta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kay rimayta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kayta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:58:36.367689546Z",
+  "model": "glm-5.3"
+}

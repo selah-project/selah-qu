@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yachaqkuna sunqunqa llaki wasipim; yuyaq mana yachaqkuna sunquntaq kusi wasipim.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "yachaqkuna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "llaki"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "hinaspa sunqu"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "yuyaq mana yachaqkuna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "kusi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:35.021689270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Hinaspa nirqanimi: kaymi ñuqap ñak'ariy; Elyonpa paña makinqa watakuna ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Hinaspa nirqanimi"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "ñuqap ñak'ariy"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "watakuna"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "paña makinqa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:54.769337857Z",
+  "model": "glm-5.3"
+}

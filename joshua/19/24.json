@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 19:24",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa pichqa ñiqin suyu t'aqakuqqa Asherpa wawankunap mat'apaq lluqsimurqanmi, ayllunkunaman.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsimurqanmi"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "suyu t'aqakuq"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "pichqa ñiqin"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "mat'apaq"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "למשפחותם",
+      "gloss": "ayllunkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T03:26:02.843416764Z",
+  "model": "glm-5.3"
+}

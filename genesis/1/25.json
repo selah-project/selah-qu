@@ -1,0 +1,88 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "genesis 1:25",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Elohim rurarqanmi ⟨את⟩ hallp'ap kawsaqninta kikin layninpi, hinaspa ⟨את⟩ wakakunata kikin layninpi, hinaspa ⟨את⟩ llapan hallp'ap qatiq kawsaqninta kikin layninpi; hinaspa Elohimmi rikurqan chay allin kasqanta.",
+ "tokens": [
+  {
+   "surface": "ויעש",
+   "gloss": "rurarqanmi"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "hallp'ap kawsaqninta"
+  },
+  {
+   "surface": "חית",
+   "gloss": "kawsaqnin"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "hallp'ap"
+  },
+  {
+   "surface": "למינה",
+   "gloss": "kikin layninpi"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "wakakunata"
+  },
+  {
+   "surface": "הבהמה",
+   "gloss": "wakakunata"
+  },
+  {
+   "surface": "למינה",
+   "gloss": "kikin layninpi"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "llapan qatiq kawsaqninta"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "רמש",
+   "gloss": "qatiq kawsaqnin"
+  },
+  {
+   "surface": "האדמה",
+   "gloss": "hallp'ap"
+  },
+  {
+   "surface": "למינהו",
+   "gloss": "kikin layninpi"
+  },
+  {
+   "surface": "וירא",
+   "gloss": "rikurqanmi"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "כי",
+   "gloss": "chasqa"
+  },
+  {
+   "surface": "טוב",
+   "gloss": "allinmi"
+  }
+ ],
+ "timestamp": "2026-09-07T23:50:16.653295155Z",
+ "model": "glm-5.3"
+}

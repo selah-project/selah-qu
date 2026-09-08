@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Llamk'aykunata hatalliyaqta ruwarqani; ñuqapaq wasikunata saywarchirqani, ñuqapaq viñakunatam chakrarqani.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "hatalliyaqta ruwarqani"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "llamk'aykunata"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "saywarchirqani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "wasikunata"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "chakrarqani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "viñakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:23.031191434Z",
+  "model": "glm-5.3"
+}

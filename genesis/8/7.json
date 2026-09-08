@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa ⟨את⟩ wanturta (cuervo) kacharqan; chayqa lluqsiy kutiyllatam lluqsirqan, unukuna hallp'ap hawanmanta ch'akikusqankama.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wanturta"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "wanturta"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsirqan"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "lluqsiy"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "ch'akikusqan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unukuna"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hawanmanta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:34.308160725Z",
+  "model": "glm-5.3"
+}

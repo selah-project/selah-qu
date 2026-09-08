@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa ⟨את⟩ Parshandatata, hinaspa ⟨את⟩ Dalfonta, hinaspa ⟨את⟩ Aspatata",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Parshandatata"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parshandatata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Dalfonta"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalfonta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Aspatata"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Aspatata"
+    }
+  ],
+  "timestamp": "2026-09-08T11:48:34.140654269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Hinaspa ñuqata qayariy llaki p'unchawpi: ñuqam qispichisaykiykichik, hinaspa ñuqata yupaychankichik.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "hinaspa ñuqata qayariy"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "llaki"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "qispichisaykiykichik"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "hinaspa ñuqata yupaychankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:16.554301508Z",
+  "model": "glm-5.3"
+}

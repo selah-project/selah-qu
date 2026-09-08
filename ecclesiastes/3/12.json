@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yachanimi mana allin kaqta kananchu icha khusikuylla, allintawan ruwana kawsasqanpi.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "yachanimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana ... kananchu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin kaq"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "icha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "lla"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "khusikuy"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ruwana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allintawan"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "kawsasqanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:05.159962280Z",
+  "model": "glm-5.3"
+}

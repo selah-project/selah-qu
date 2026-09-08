@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 5:24",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chirammi Shelomoman cedro sach'akunata, berosh sach'akunatawan qarqan, llapan munasqanman hina.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "חירום",
+      "gloss": "Chiram"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qarqan"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomoman"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'akuna"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedrokuna"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "hinaspa sach'akuna"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "beroshkuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "munasqanman"
+    }
+  ],
+  "timestamp": "2026-09-08T05:02:10.012927207Z",
+  "model": "glm-5.3"
+}

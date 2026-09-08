@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yerushalayimpa (Jerusalén) apun hukmi; Jevronpa (Hebrón) apun hukmi.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Jevronpa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:16:30.687537061Z",
+  "model": "glm-5.3"
+}

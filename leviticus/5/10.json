@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa ⟨את⟩ iskay ñiqinta olah hina ruwanqa kamachiyninmanhina; kohenmi paypaq pampachakuyta ruwanqa chatatninmanta, imata juchasqanmanta; hinaspa pampachasqa kanqami.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "iskay ñiqinta"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay ñiqinta"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwanqa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olah hina"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kamachiyninmanhina"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "hinaspa pampachakuyta ruwanqa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenmi"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "chatatninmanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "juchasqanmanta"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "hinaspa pampachasqa kanqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payqa…mi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:52:20.997643578Z",
+  "model": "glm-5.3"
+}

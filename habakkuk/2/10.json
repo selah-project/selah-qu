@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "habakkuk 2:10",
+  "book": "habakkuk",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "P'inqayta wasiykipaq yuyarqankim, achka runakunata t'aqaspa, huchawantaq nefeshniyki muchirqankim.",
+  "tokens": [
+    {
+      "surface": "יעצת",
+      "gloss": "yuyarqanki"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "p'inqayta"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "wasiykipaq"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "t'aqaspa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "achka"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "huchawantaq"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:12:06.812380853Z",
+  "model": "glm-5.3"
+}

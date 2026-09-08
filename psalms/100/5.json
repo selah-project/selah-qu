@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 100,
+  "translation": "Yahweqa allinmi; jesednin (khuyakuy) wiñay kaman, hinaspa sukuta sukukama iñiynin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kama"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hinaspa sukuta"
+    },
+    {
+      "surface": "דר",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "sukukama"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "iñiynin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:21.388018833Z",
+  "model": "glm-5.3"
+}

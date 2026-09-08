@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "psalms 9:17",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 9,
+ "translation": "Yahwem kamachiyta ruwasqanwan riqsisqa kachkanm; haqeqqa paypa makiwan rurasqanpi t'ikasqa kachkan. Higayon. Selah.",
+ "tokens": [
+  {
+   "surface": "נודע",
+   "gloss": "riqsisqa kachkan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "משפט",
+   "gloss": "kamachiyta"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "ruwasqanwan"
+  },
+  {
+   "surface": "בפעל",
+   "gloss": "rurasqanpi"
+  },
+  {
+   "surface": "כפיו",
+   "gloss": "paypa makiwan"
+  },
+  {
+   "surface": "נוקש",
+   "gloss": "t'ikasqa kachkan"
+  },
+  {
+   "surface": "רשע",
+   "gloss": "haqeq"
+  },
+  {
+   "surface": "הגיון",
+   "gloss": "Higayon"
+  },
+  {
+   "surface": "סלה",
+   "gloss": "Selah"
+  }
+ ],
+ "timestamp": "2026-09-08T09:32:29.544811916Z",
+ "model": "glm-5.3"
+}

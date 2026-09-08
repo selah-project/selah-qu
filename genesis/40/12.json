@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Hinaspa Yosef payman nirqan: kaymi paypa musqo paqtachaynin: kimsa ch'ikanmi kay — kimsa p'unchawmi paykuna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "musqo paqtachaynin"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ch'ikan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:10:09.855963572Z",
+  "model": "glm-5.3"
+}

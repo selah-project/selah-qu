@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 18:16",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chay p'unchawmi Khizkiyam ⟨את⟩ Yahwepa hatun wasin punkukunata kuchurqan, hinaspa ⟨את⟩ sayakunata — Khizkiya, Yehudapa apun, quriwan qatasqata — hinaspa Ashurpa apunman qarqan.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "chay p'unchaw"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "kuchurqan"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punkukunata"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "punkukunata"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hatun wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sayakunata"
+    },
+    {
+      "surface": "האמנות",
+      "gloss": "sayakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "quriwan qatasqa"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Khizkiyapa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "hinaspa qarqan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apunman"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurpa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:44.508599390Z",
+  "model": "glm-5.3"
+}

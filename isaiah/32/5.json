@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Manam yatunman aswan sumaq sunquyuq sutichasqa kanqa; chayllataq killkallaqman manam apu nisqa kanqachu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Manam"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sutichasqa kanqa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "yatunman"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "sumaq sunquyuq"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "chayllataq killkallaqman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nisqa kanqa"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "apu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:11:51.072501421Z",
+  "model": "glm-5.3"
+}

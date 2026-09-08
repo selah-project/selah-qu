@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "Qhawariy: Efratapi uyarirqaykumi, Yaarpa salankunapi tarirqaykumi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "uyarirqaykumi"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "Efratapi"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "tarirqaykumi"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "salankunapi"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Yaarpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:58.200811229Z",
+  "model": "glm-5.3"
+}

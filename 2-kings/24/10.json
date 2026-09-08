@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "2-kings 24:10",
+ "book": "2-kings",
+ "lang": "qu",
+ "chapter": 24,
+ "translation": "Chay pacham Bavel apun Nevukhadnetsar (Nabucodonosor)pa kamachisqankuna Yerushalayim (Jerusalén)man rqarikurqanku; llaqtapas sat'isqa ukhupim yaykarqan.",
+ "tokens": [
+  {
+   "surface": "בעת",
+   "gloss": "Chay pacha"
+  },
+  {
+   "surface": "ההיא",
+   "gloss": "chay"
+  },
+  {
+   "surface": "עלה",
+   "gloss": "rqarikurqanku"
+  },
+  {
+   "surface": "עבדי",
+   "gloss": "kamachisqankuna"
+  },
+  {
+   "surface": "נבכדנאצר",
+   "gloss": "Nevukhadnetsar"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "apun"
+  },
+  {
+   "surface": "בבל",
+   "gloss": "Bavel"
+  },
+  {
+   "surface": "ירושלם",
+   "gloss": "Yerushalayim"
+  },
+  {
+   "surface": "ותבא",
+   "gloss": "yaykarqan"
+  },
+  {
+   "surface": "העיר",
+   "gloss": "llaqta"
+  },
+  {
+   "surface": "במצור",
+   "gloss": "sat'isqa ukhupi"
+  }
+ ],
+ "timestamp": "2026-09-08T05:47:26.856263363Z",
+ "model": "glm-5.3"
+}

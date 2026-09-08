@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Yaqmi awqaykikuna, Yahwe; yaqmi awqaykikuna chinkanqaku; llapa lluta ruraqkuna t'aqakunqakum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yaqmi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaykikuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "yaqmi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaykikuna"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "chinkanqaku"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "t'aqakunqaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ruraqkuna"
+    },
+    {
+      "surface": "און",
+      "gloss": "lluta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:35.774309065Z",
+  "model": "glm-5.3"
+}

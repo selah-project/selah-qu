@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Mayqan kamanmi Yahwe, ñuqata qonqawanki wiñaykama? Mayqan kamanmi ⟨את⟩ ñawiykita ñuqamanta pakanki?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mayqan kaman"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨mayqan kama⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ñuqata qonqawanki"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mayqan kaman"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨mayqan kama⟩"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "pakanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawiykita"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiykita"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:36.552182448Z",
+  "model": "glm-5.3"
+}

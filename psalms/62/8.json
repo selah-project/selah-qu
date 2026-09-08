@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Elohimpatapim qispichikuyniy, sumaq kayniypas; kallpa rumiy, amparayniy — Elohimpi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "qispichikuyniy"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "sumaq kayniypas"
+    },
+    {
+      "surface": "צור",
+      "gloss": "kallpa rumi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "kallpaniy"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "amparayniy"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:22.403127756Z",
+  "model": "glm-5.3"
+}

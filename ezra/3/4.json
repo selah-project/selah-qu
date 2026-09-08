@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa ⟨את⟩ Sukot (Cabañakunap) rayminta qillqasqa hina ruwarqanku, hinaspa sapa p'unchaw uchhusqa ofrendata yupaywan qatarqanku, kamachiq hina — sapa p'unchawpa llamk'ayninta p'unchawninpi.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukot rayminta"
+    },
+    {
+      "surface": "חג",
+      "gloss": "raymi"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "qillqasqa hina"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "uchhusqa ofrendata qatarqanku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sapa p'unchaw"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "yupaywan"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "kamachiq hina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "llamk'ayninta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawpa"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "p'unchawninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:25:10.488962301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 17:5",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chaymanta Ashur apu llapa hallp'api purirqanmi, Shomronman haywarqanmi, chaypi kimsa watata hark'arqan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "haywarqan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomronman"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "hark'arqan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "watata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:45.379805150Z",
+  "model": "glm-5.3"
+}

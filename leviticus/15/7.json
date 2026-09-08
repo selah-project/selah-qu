@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Hinaspataq runa mayqinqa zavpa aychanta lluspa, p'achankunata mayllanqam, hinaspa unuwan arawanqam, hinaspa ch'isi chayamunankama manam ch'uyachu kanqam.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "hinaspataq runa mayqinqa lluspa"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "aychanta"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "zavpa"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "p'achankunata mayllanqam"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "p'achankunata"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "hinaspa unuwan arawanqam"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unuwan"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "hinaspa manam ch'uyachu kanqam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "chayamunankama"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ch'isi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:50.499753358Z",
+  "model": "glm-5.3"
+}

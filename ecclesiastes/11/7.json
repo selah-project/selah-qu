@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "K'anchayqa misk'imi, ñawikunapaq allinmi ⟨את⟩ intita qhawanapaq.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "misk'imi"
+    },
+    {
+      "surface": "האור",
+      "gloss": "k'anchayqa"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ñawikunapaq"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qhawanapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intita"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "intita"
+    }
+  ],
+  "timestamp": "2026-09-08T11:46:14.863144140Z",
+  "model": "glm-5.3"
+}

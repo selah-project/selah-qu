@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Qhari qollqeyuqqa kikin ñawinpi yachaqmi; wakcha yachaqtaq payta ñawinchayta atinmi.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "kikin ñawinpi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "qollqeyuq"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "wakchataq"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "payta ñawinchayta atinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:52:22.388573640Z",
+  "model": "glm-5.3"
+}

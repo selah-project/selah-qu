@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Kamachikuykunaykimanta yachanitamuni, chayrayku llapa llulla ñanta ikllirqani.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "Kamachikuykunaykimanta"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "yachanitamuni"
+    },
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ikllirqani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:59.187228692Z",
+  "model": "glm-5.3"
+}

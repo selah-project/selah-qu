@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Qamkunataq ⟨את⟩ payta — Sutiyta — millachinkichik, kayta nispa: «Adonaypa mesanqa millasqam ⟨kan⟩, paqarinqataq, mikhunanpas q'ala kasqam» ninkichik.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Qamkunataq"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "millachinkichik"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "Sutiyta (Yahwepa Sutin, versiculo 11 ukhumanta)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "kayta nispa"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaypa"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "millasqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "paqarinqataq"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "q'ala kasqa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mikhunan"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:26.705203986Z",
+  "model": "glm-5.3"
+}

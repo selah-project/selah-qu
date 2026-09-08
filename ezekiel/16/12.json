@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa senq'alita senq'aykipi, rinri alikunata rinriykipi, hinaspa sumaq coronata umaykipi churaykurqaykim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "churaykurqayki"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "senq'alita"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "senq'ayki"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "rinri alikunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "rinriyki"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "hinaspa coronata"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "umaykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T08:03:30.338638789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "psalms 98:2",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 98,
+ "translation": "Yahwem qespichikuyninta musichirqanmi; nacionkunap ñawinkunupi chiqan kayninta rikuchirqan.",
+ "tokens": [
+  {
+   "surface": "הודיע",
+   "gloss": "musichirqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "ישועתו",
+   "gloss": "qespichikuyninta"
+  },
+  {
+   "surface": "לעיני",
+   "gloss": "ñawinkunupi"
+  },
+  {
+   "surface": "הגוים",
+   "gloss": "nacionkunap"
+  },
+  {
+   "surface": "גלה",
+   "gloss": "rikuchirqan"
+  },
+  {
+   "surface": "צדקתו",
+   "gloss": "chiqan kayninta"
+  }
+ ],
+ "timestamp": "2026-09-08T10:14:00.426111378Z",
+ "model": "glm-5.3"
+}

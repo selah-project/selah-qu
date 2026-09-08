@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Simparaymi qamta takispa kusilla qaparinqa, Nefeshniytaq — qammi parqarwanki.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "qusilla qaparinqa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "simparay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…spa"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "takispa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "Nefeshniytaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "parqarwanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:45.685630128Z",
+  "model": "glm-5.3"
+}

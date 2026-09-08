@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Mitsrayimpa apunman willasqa karqansi runakuna ayqisqankumanta; hinaspa Parohpa, servinkunappas sonqon runakunaman tikrarqan; nirqakumi: «Imatam kayta ruwarqayku, chayta ⟨את⟩ Israelta servikuyninchikmanta saqirqayku?»",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "willasqa karqan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apunman"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chasqa"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ayqirqan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "tikrarqan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sonqon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohpa"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "servinkunappas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqaku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imata"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "ruwarqayku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "saqirqayku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "servikuyninchikmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:07.991163929Z",
+  "model": "glm-5.3"
+}

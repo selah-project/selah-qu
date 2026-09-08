@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Rumiman haykuy, q'uyurpi pakakuy, Yahwepa manchayninmanta, hatun uyanchayninmanta.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "haykuy"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "rumiman"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "pakakuy"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "q'uyurpi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "manta"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "manchaynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "uyanchayninmanta"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T05:47:26.931261226Z",
+  "model": "glm-5.3"
+}

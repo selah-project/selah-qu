@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Mayukunata ch'usaq pachamanmi churarqan, hinaspa unu lluqsinakunatawan ch'aki pachaman.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mayukunata"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ch'usaq pachaman"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "hinaspa unu lluqsinakunatawan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "ch'aki pachaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:57.976578207Z",
+  "model": "glm-5.3"
+}

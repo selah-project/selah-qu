@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Kutimurqankum hinaspa En-Mishpatman chayamurqanku — chaymi Kadesh — hinaspa ⟨את⟩ Amaleq runap tukuy chakratawan maqanakurqanku, hinallataq ⟨את⟩ Hatzetson-Tamarpi tiyaq Emorita.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "kutimurqankum"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "chayamurqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Mishpat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "maqanakurqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy chakratawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "chakra"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "Amaleq runap"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorita"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "Hatzetson-"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamarpi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:22.091894562Z",
+  "model": "glm-5.3"
+}

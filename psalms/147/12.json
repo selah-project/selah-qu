@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Yerushalayim, ⟨את⟩ Yahweta sumaqchay; Tsiyon, Elohimniykita alawichay.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "sumaqchay"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "alawichay"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniykita"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:05.211217208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Qamtaq, Yahwe, wiñaypaq tiyankim; willakusqaykiqa generationmanta generationmanam.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Qamtaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "tiyankim"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "willakusqaykiqa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "generationmanta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "generationmanam"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:28.542459710Z",
+  "model": "glm-5.3"
+}

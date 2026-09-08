@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Punkukunap chekanpi, llaqta haykunanpi, punku haykunapi qayarikunmi.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "chekanpi"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "punkukunap"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "haykunanpi"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "haykunanpi"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "punku"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "qayarikunmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:09.448347526Z",
+  "model": "glm-5.3"
+}

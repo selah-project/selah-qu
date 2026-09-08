@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Siminwan haq'echaq runaqa hallp'apipas mana sayachikunqachu; ch'aqway runataqa llakiqmi añasunqa, chinkachinanpaq.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "siminwan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "sayachikunqachu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'apipas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ch'aqway"
+    },
+    {
+      "surface": "רע",
+      "gloss": "llakiq"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "añasunqa"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "chinkachinanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:52.666888Z",
+  "model": "glm-5.3"
+}

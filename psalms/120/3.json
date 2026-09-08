@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 120,
+  "translation": "Imata chaskinqanki, imatachá yapasqanki, llullaq shimi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "chaskinqanki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "hinaspa ima"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "yapasqanki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "shimi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "llullaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:01.066690630Z",
+  "model": "glm-5.3"
+}

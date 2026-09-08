@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Uyariy tahalla; ñuqaqa rimasaq, tapusaqta, riqsichiwankitaq.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tahalla"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ñuqaqa"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "rimasaq"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "tapusaqta"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "riqsichiwanki"
+    }
+  ],
+  "timestamp": "2026-09-08T11:23:36.527009439Z",
+  "model": "glm-5.3"
+}

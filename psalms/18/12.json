@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Laqhata pakay wasinman churarqan; paypa muyuriyninpi carpa karqan — unu laqhakuna, pacha phuyu ataskakuna.",
+  "tokens": [
+    {
+      "surface": "יָשֶת",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "laqhata"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "pakay wasinman"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "paypa muyuriyninpi"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "carpa"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "laqhakuna"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "phuyu ataskakuna"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "pacha"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:10.015716898Z",
+  "model": "glm-5.3"
+}

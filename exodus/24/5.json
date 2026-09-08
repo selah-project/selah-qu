@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaymanta Moshe ⟨את⟩ Israelpa wawankunap huk'uchaq runakunata kachamurqan; chaykuna olah ofrendakunata wichayachirqanku, hinaspa Yahwepaq shelamim zevajimta torokunawan wanucharqanku.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kachamurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa wawankunap huk'uchaq runakunata"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "huk'uchaq runakunap"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "wichayachirqanku"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olah ofrendakunata"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "wanucharqanku"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "zevajimta"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "torokuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:35:22.655607172Z",
+  "model": "glm-5.3"
+}

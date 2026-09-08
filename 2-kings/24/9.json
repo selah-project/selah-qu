@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 24:9",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Payqa Yahwep ñawinpi mana allin kaqta ruwarqanmi, tatan ruwasqan tukuy hinallata.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mana allin kaqta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tukuy hinallata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:47:26.854075235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Manam yuyarqankuchu ⟨את⟩ makin, p'unchawta mayqin awqamanta kacharirqan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "yuyarqankuchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makin (paypa makin)"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "kacharirqan"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manta"
+    },
+    {
+      "surface": "צר",
+      "gloss": "awqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:52.881932934Z",
+  "model": "glm-5.3"
+}

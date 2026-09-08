@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Munaycha yapayta qhawallay, chaymanta rikullay: Yahweqa allinmi kasqanta; ¿imatachus paypi ñawpaq ñawinchan, chay runa allin kawsayniyuqmi.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "Munaycha yapayta qhawallay"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "chaymanta rikullay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweqa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "allin kawsayniyuqmi"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "chay runa"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "paypi ñawpaq ñawinchan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:53.990931650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Aharonpa churinkunapaq t'aqakuna karqanmi: Aharonpa churinkunam Nadab, Abihu, Elazar, Itamar (Aarón) karqan.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "churinkunapaq"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "t'aqakuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "hinaspa Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "hinaspa Itamar"
+    }
+  ],
+  "timestamp": "2026-09-08T12:48:39.390423642Z",
+  "model": "glm-5.3"
+}

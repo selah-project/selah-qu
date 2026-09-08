@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chaymata ⟨את⟩ kañina korbanda wañuchirqan; Aharonpa churinkunam payman ⟨את⟩ yawarta apamurqan, chaytawan altarnin muyuriqninpi t'aqsurqan.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kañina korbanda"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kañina korbanda"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "apamurqan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunam"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yawarta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "yawarta"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "t'aqsurqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarnin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:31.985233505Z",
+  "model": "glm-5.3"
+}

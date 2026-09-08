@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Israelqa Yahwepaq santom karqan, paypa rurunkunap ñawqan; llapa mikhukuqninku huchayuq kanqam; millay kaqmi paykunaman chayamunqa, Yahwepa nisqanmi.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ñawqa"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "rurunkuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "mikhukuqninku"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "huchayuq kanqa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "millay kaq"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "chayamunqa"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nisqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T13:51:17.876261415Z",
+  "model": "glm-5.3"
+}

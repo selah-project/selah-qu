@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "psalms 50:5",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 50,
+ "translation": "Huñuy ñuqapman hasidniyta (khuyakuq runakunata) — zavcha patapi Beritniyta k'utukuqkunata.",
+ "tokens": [
+  {
+   "surface": "אספו",
+   "gloss": "Huñuy"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqapman"
+  },
+  {
+   "surface": "חסידי",
+   "gloss": "hasidniyta (khuyakuq runakunata)"
+  },
+  {
+   "surface": "כרתי",
+   "gloss": "k'utukuq"
+  },
+  {
+   "surface": "בריתי",
+   "gloss": "Beritniyta"
+  },
+  {
+   "surface": "עלי",
+   "gloss": "patapi"
+  },
+  {
+   "surface": "זבח",
+   "gloss": "zavcha"
+  }
+ ],
+ "timestamp": "2026-09-08T09:49:53.862089051Z",
+ "model": "glm-5.3"
+}

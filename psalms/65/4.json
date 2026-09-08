@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Haqakuna ñuqata yallirqanmi; saruchikusqanchikkunataq qammi p'ampawanki.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "haqakunap rimaynin"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "haqa"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "yallirqan"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "saruchikusqanchik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "p'ampawanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:46.895456901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 79,
+  "translation": "Ama ñawpaq huchakunata ñuqaykumanta yuyariwankichu; utqaylla khuyapakayniyki ñawpaqchata chayamuchun; imarayku ñuqayku ancha pisi kashayku ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "yuyariwanki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykumanta"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "huchakunata"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "utqaylla"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "ñawpaqchata chayamuchun"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "khuyapakayniyki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "pisi kashayku"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ancha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:20.347548933Z",
+  "model": "glm-5.3"
+}

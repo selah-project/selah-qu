@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Elohimniy jesedniywan ñawpaqta taripawanqa; Elohimqa awqakunayta qhawachinwanqa.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesedniywan"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "ñawpaqta taripawanqa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "qhawachinwanqa"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "awqakunayta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:18.102776976Z",
+  "model": "glm-5.3"
+}

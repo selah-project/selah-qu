@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Paro**m** paykunaman nirqan: chayhina Yahwe qamkunawan kachun, imayna ⟨את⟩ qamkunata hinaspa ⟨את⟩ wawa qamkunakunatapas kachasaq; qhawariy — millaymi qamkunap ñawpaqykichikpi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kachun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "qamkunawan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "kachasaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawa qamkunakunatapas"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "wawa qamkunakunatapas"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "millay"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "ñawiykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:43.678928656Z",
+  "model": "glm-5.3"
+}

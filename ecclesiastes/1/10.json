@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kanraqchu imata ninapaq: Qhawariy, kayqa musuq? Ñawpaq pachakunapiraq karqanmi, mayqin karqan ñuqanchik ñawpaqmanta.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kanraqchu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "ninapaq"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ña ñawpaqta"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "pachakunapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "ñuqanchik ñawpaqmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:24:15.603366958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Yahwe qodeshnan templonpi ⟨kan⟩mi; Yahwepa tiyanan hanaq pachapim ⟨kan⟩. Ñawinkunam qhawanku, ñawi qhaprannintam proban runa wawakunata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "templonpi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "qodeshnan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tiyanan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ñawinkuna"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "qhawankum"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "ñawi qhaprannin"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "probankum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "runa wawa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:04.693716208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 128,
+  "translation": "Makikipa llank'aynintam mikhuwanki; kusillaqmi kanki, allinmi kanqa qampaq.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "llank'aynin"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "makikipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mikhuwanki"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "kusillaqmi"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:23.974713855Z",
+  "model": "glm-5.3"
+}

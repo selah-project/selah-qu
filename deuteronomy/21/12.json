@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Payta wasiykipa chawpinman apuramunki; chay warmiqa ⟨את⟩ umanta llawch'inta kuchunga, ⟨את⟩ sillunkunatapas allichanqam.",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "apuramunki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "chawpin"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wasiykipa"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "hinaspa kuchunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umanta"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "umanta"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "hinaspa allichanqam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sillunkunatapas"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "sillunkunatapas"
+    }
+  ],
+  "timestamp": "2026-09-08T02:46:46.928006848Z",
+  "model": "glm-5.3"
+}

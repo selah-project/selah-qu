@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Israelpa churinkunapimanta qhipakurqan qanchis ayllukuna, mayqinkuna mana ⟨karqanku⟩ rakinakusqachu ⟨את⟩ chayanankunata.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "qhipakurqan"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "churinkunapimanta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "rakinakurqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chayanankunata"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "chayanankunata"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "ayllukuna"
+    }
+  ],
+  "timestamp": "2026-09-08T03:25:01.608568705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "psalms 107:25",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 107,
+ "translation": "Nimirqanm, hinaspa sinchi wayrata sayarichirqan; chaymi unupa galikunanta huqarirqan.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nimirqanm"
+  },
+  {
+   "surface": "ויעמד",
+   "gloss": "sayarichirqan"
+  },
+  {
+   "surface": "רוח",
+   "gloss": "wayra"
+  },
+  {
+   "surface": "סערה",
+   "gloss": "sinchi"
+  },
+  {
+   "surface": "ותרומם",
+   "gloss": "huqarirqan"
+  },
+  {
+   "surface": "גליו",
+   "gloss": "unupa galikunanta"
+  }
+ ],
+ "timestamp": "2026-09-08T10:18:50.109400035Z",
+ "model": "glm-5.3"
+}

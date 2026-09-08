@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Moshem ⟨את⟩ Israelpa churinkunata Yahwep siminman hina kamachirqan, ninpa: allintam Yosefpa churinkunap ayllun rimashan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa churinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "hina"
+    },
+    {
+      "surface": "פי",
+      "gloss": "siminman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ninpa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "allintam"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ayllun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "rimashan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:24:56.193136418Z",
+  "model": "glm-5.3"
+}

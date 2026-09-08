@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa llapan runakuna, sapa runa wasinman, rirqanku; hinaspa David kutirqan ⟨את⟩ wasinta bendecinanpaq.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "rirqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "kutirqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "bendecinanpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasinta"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasinta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:43:57.548778715Z",
+  "model": "glm-5.3"
+}

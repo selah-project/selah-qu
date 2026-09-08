@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Moshe hinaspa Aharon rirqankum, hinaspa ⟨את⟩ Israelpa churinkunap kurakankunata llapanta huñirqankum.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "rirqankum"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "hinaspa Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "huñirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapanta Israelpa churinkunap kurakankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kurakankuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:37.287870363Z",
+  "model": "glm-5.3"
+}

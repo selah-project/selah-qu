@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Chaytaq ninkichik: «Qanchis ñiqin watapi imataq mikhunchik? Qhaway, manam tarpunchikchu, manataq ⟨את⟩ rurunchikkunata huñunchikchu.»",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "chaytaq"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ninkichik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "mikhunchik"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "qanchis ñiqin"
+    },
+    {
+      "surface": "הן",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "tarpunchik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "huñunchik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rurunchikkunata"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "rurunchikkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T01:09:41.931661219Z",
+  "model": "glm-5.3"
+}

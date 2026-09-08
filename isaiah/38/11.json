@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 38:11",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Nirqanim: manañam Yahta rikusaqchu, Yahta kawsaqkuna hallp'api; manañam runata qhawasaqchu, sayaq chinkaqkunawan.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "nirqanim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "rikusaqchu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahta"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kawsaqkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "qhawasaqchu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ña"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "sayaq"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "chinkaqkunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:16:42.316965844Z",
+  "model": "glm-5.3"
+}

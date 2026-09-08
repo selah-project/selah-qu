@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "psalms 57:4",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 57,
+ "translation": "Hanaq pachamanta kachamunqawanmi, hinaspa qispichimuwanqawanmi: ñuqata aysaspa much'unayta munawqa k'amiwanqawanmi. Sela. Elohim kachamunqami jesedninta, cheqasntawanpas.",
+ "tokens": [
+  {
+   "surface": "ישלח",
+   "gloss": "kachamunqa"
+  },
+  {
+   "surface": "משמים",
+   "gloss": "hanaq pachamanta"
+  },
+  {
+   "surface": "ויושיעני",
+   "gloss": "hinaspa qispichimuwanqa"
+  },
+  {
+   "surface": "חרף",
+   "gloss": "k'amiwanqa"
+  },
+  {
+   "surface": "שאפי",
+   "gloss": "ñuqata aysaspa much'unayta munawqa"
+  },
+  {
+   "surface": "סלה",
+   "gloss": "Sela"
+  },
+  {
+   "surface": "ישלח",
+   "gloss": "kachamunqa"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "חסדו",
+   "gloss": "jesedninta"
+  },
+  {
+   "surface": "ואמתו",
+   "gloss": "cheqasntawanpas"
+  }
+ ],
+ "timestamp": "2026-09-08T09:53:58.527023054Z",
+ "model": "glm-5.3"
+}

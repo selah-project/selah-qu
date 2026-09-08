@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Musiqkunap umalliqninman. Davidpa mizmor (salmo). Taki.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "musiqkunap umalliqninman"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (salmo)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:46.894996690Z",
+  "model": "glm-5.3"
+}

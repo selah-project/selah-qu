@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Nefeshniy llakikuptinmi, ⟨את⟩ Yahweta yuyarirqanim; mañasqay qammanmi chayamurqan, hatun wasiyki santoman.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "llakikuptin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "yuyarirqanim"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "chayamurqan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "mañasqay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hatun wasiyki"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "santo"
+    }
+  ],
+  "timestamp": "2026-09-08T09:03:12.465900035Z",
+  "model": "glm-5.3"
+}

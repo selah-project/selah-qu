@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Wasikimpa qarayninmanta hunt'akunqakum, hinaspa llapan kusiyniykimanta mayunta ukyachinki.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "hunt'akunqaku"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "qarayninmanta"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wasikimpa"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "hinaspa mayun"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "llapan kusiyniykimanta"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "ukyachinki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:57.803863563Z",
+  "model": "glm-5.3"
+}

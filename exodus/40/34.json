@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Phuyumi ⟨את⟩ tantachakuq wasita p'isturarqan, hinaspa Yahwepa sumaq k'anchayninqa ⟨את⟩ Mishkhanta hunt'arqanmi.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "p'isturarqan"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "phuyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tantachakuq wasita"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tantachakuy"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "sumaq k'anchaynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'arqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkhanta"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkhanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:45.403457243Z",
+  "model": "glm-5.3"
+}

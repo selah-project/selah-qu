@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chaysi Mitsrayimpa ayllunwan Israelpa ayllunwan chawpinman chayarqan; chay phuyuqa tuta laqha karqan, icha tutata k'anchaykacharqan ⟨את⟩; chay tukuy tutamantam kay wakinqa wakinman mana chayamurqankuchu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinman"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ayllu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "wan"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ayllun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "chay phuyuqa"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "tuta laqha"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "k'anchaykacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuta"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tutata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "chayamurqankuchu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay wakinqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wakinman"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wakin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tutamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:41.981043638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Qampa cheqa kawsayniykiqa mana pakirqanimchu sunquy ukhupi; qampa chiqaq kuyuriyta, qampa qispichiyniykita willirqanim; jesedniykiwan cheqayniykiwanqa mana pakirqanichu achka ayllu ñawpaqpi.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "qampa cheqa kawsayniyki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "pakirqanimchu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ukhupi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquy"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "qampa chiqaq kuyuriyta"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "qampa qispichiyniykita"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "willirqanim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "pakirqanichu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniykiwan"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "cheqayniykiwan"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "ayllu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "achka ñawpaqpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:29.445823444Z",
+  "model": "glm-5.3"
+}

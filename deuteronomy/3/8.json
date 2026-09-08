@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chay p'unchawtaqmi ⟨את⟩ hallp'ata hapirqayku iskay Emoripa apinkuna makiyunmanta, maypi Yardenpa chay kinrayninpi karqan, Arnon mayumanta Chermon orqokama.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "hapirqayku"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makiyunmanta"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apinkuna"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "chay kinrayninpi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenpa"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "mayumanta"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermon"
+    }
+  ],
+  "timestamp": "2026-09-08T02:27:52.824312555Z",
+  "model": "glm-5.3"
+}

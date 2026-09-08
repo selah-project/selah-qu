@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa Baalpaq mizbeajta sayarichirqanmi, Baalpa wasinpi, Shomronpi pay ruwasqanpi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarichirqanmi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeajta"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalpaq"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pay ruwasqanpi"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ruwasqan"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomronpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:15:41.961413244Z",
+  "model": "glm-5.3"
+}

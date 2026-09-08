@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Qhipa p'unchawpim karqan: Moshem tiyarqan ⟨את⟩ runakunata taripanampaq; runakunaq Mosheman ñawpaqenpi sayarqanku, paqariy p'unchawmanta chisiykama.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "qhipa p'unchawpi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshem"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "taripanampaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarqanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "ñawpaqenpi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "paqariy p'unchaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "chisiy"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:14.721423175Z",
+  "model": "glm-5.3"
+}

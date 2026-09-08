@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "ezekiel 31:7",
+ "book": "ezekiel",
+ "lang": "qu",
+ "chapter": 31,
+ "translation": "Payqa hatun kayninpi sumaqmi karqan, paypa armakunap suni kayninpi; paypa saphinmi askha unukunap chayninpi karqan.",
+ "tokens": [
+  {
+   "surface": "וייף",
+   "gloss": "sumaqmi karqan"
+  },
+  {
+   "surface": "בגדלו",
+   "gloss": "hatun kayninpi"
+  },
+  {
+   "surface": "בארך",
+   "gloss": "suni kayninpi"
+  },
+  {
+   "surface": "דליותיו",
+   "gloss": "paypa armakunap"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "היה",
+   "gloss": "karqan"
+  },
+  {
+   "surface": "שרשו",
+   "gloss": "paypa saphin"
+  },
+  {
+   "surface": "אל",
+   "gloss": "chayninpi"
+  },
+  {
+   "surface": "מים",
+   "gloss": "unukunap"
+  },
+  {
+   "surface": "רבים",
+   "gloss": "askha"
+  }
+ ],
+ "timestamp": "2026-09-08T08:25:04.366654345Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Uñanchawan uñan Yahwem qamkunawan rimarqan, urqupi, ninap chaupinmanta.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "uñanchawan"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "uñan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "qamkunawan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqupi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "chaupinmanta"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ninap"
+    }
+  ],
+  "timestamp": "2026-09-08T02:30:34.647128483Z",
+  "model": "glm-5.3"
+}

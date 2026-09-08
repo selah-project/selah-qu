@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Chaysi Yaakovm uyarirqan Shekem ⟨את⟩ Dinata, paypa ususinta, millachisqantam; paypa churinkunaqtaq ⟨את⟩ uywakunanwan chakratapi karqanku; Yaakovm ch'inllam karqan paykuna chayamunankama.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "millachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinata"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinata"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "paypa ususinta"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "paypa churinkunaqtaq"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uywakunanwan"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "uywakunanwan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chakratapi"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "ch'inllam karqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "באם",
+      "gloss": "paykuna chayamunankama"
+    }
+  ],
+  "timestamp": "2026-09-08T00:09:22.676626956Z",
+  "model": "glm-5.3"
+}

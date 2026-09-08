@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Chaymanta Moshe (Moisés) ruwarqanmi tukuy imata Yahwem ⟨את⟩ payta kamachirqanta; chayhinam ruwarqan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqanmi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "tukuy imata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:23.696599702Z",
+  "model": "glm-5.3"
+}

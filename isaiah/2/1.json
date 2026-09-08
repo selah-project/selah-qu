@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Kaymi simi, Yeshayahu (Isaías)pa, Amots (Amós)pa churi, ñawinwan qhawasqa: Yehuda (Judá)pa, hinaspa Yerushalayim (Jerusalén)pa patanpi.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "simi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ñawinwan qhawasqa"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "hinaspa Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-08T05:51:19.063028726Z",
+  "model": "glm-5.3"
+}

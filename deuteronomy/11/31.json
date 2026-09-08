@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 11:31",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Qamkunam ⟨את⟩ Yardenta pasanki yaykunaykichikpaq, ⟨את⟩ hallp'anta tiyanaykichikpaq, mayqenta Yahwe Elohimniykichik qamkunaman quyasunki; ⟨את⟩ chayta tiyachinkichik, chaypipas tiyankichik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "pasanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardenta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenta"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "yaykunaykichikpaq"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "tiyanaykichikpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'anta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'anta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "quyasunki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "tiyachinkichik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ chayta"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "chaypipas tiyankichik"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:42:52.421465412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Elohimqa tukuy hallp'ap apunmi kaptinmi, yachaq takichiy maskiyniywan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaptinmi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimqa"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "takichiy"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yachaq maskiyniywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:28.699771839Z",
+  "model": "glm-5.3"
+}

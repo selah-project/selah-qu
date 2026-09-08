@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Tarpusqaykichikta, wiñakunaykichiktawan chunkamanta hukta apunqa, sariskunaman, yanpanankunamanwan qunqa.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "tarpusqaykichikta"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "wiñakunaykichikta"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "chunkamanta hukta apunqa"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "qunqa"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "sariskunaman"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "yanpanankunamanwan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:05:23.928549717Z",
+  "model": "glm-5.3"
+}

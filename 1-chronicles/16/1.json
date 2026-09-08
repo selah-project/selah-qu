@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Chaym Elohimpa arcanta apamurqankum ⟨את⟩, David paypaq mast'asqan wasin chawpinpi ⟨את⟩ payta sayachirqanku, Elohimpa ñawpaqninpi ollatakunatawan, shelamintakunatawan qatarqankum.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "apamurqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimpa arcanta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arca"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "sayachirqankum"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "mast'arqam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "qatarqankum"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ollatakuna"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "shelamintakuna"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:43:39.925681908Z",
+  "model": "glm-5.3"
+}

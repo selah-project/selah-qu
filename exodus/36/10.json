@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Hinaspa ⟨את⟩ pichqa cortinata huk hukwan t'inkirqanmi, huk pichqa cortinatastawan huk hukwan t'inkirqan.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "hinaspa t'inkirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pichqa cortinata"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "cortinata"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hukwan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "huk pichqa"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "cortinatastawan"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "t'inkirqan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hukwan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-08T02:06:26.728721841Z",
+  "model": "glm-5.3"
+}

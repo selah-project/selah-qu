@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 96,
+  "translation": "Ninchik runakunap chawpinpi: Yahwem apu kaspa kamachinmi; chaymantapas kay pacham sayachisqa kanmi, mana mit'asqa kanqachu; runakunata chiqan kamachiwanmi kamachinqa.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ninchik"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "runakunap chawpinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu kaspa kamachinmi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chaymantapas"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "sayachisqa kanmi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "kay pacha"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana ... kanqachu"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "mit'asqa"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "kamachinqa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "chiqan kamachiwanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:51.160040397Z",
+  "model": "glm-5.3"
+}

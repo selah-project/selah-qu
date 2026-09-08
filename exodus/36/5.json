@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Hinaspa Mosheman nirqankum, nispam: «Runakunaqa Yahwepa kamachisqan chay llamk'anata ruranapaq yalli askhata apamuykunku».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "hinaspa nirqankum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "aswan askhata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaqa"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "apamuykunku"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "yalli"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "llamk'anamanta"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "llamk'anapaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ruranapaq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chay llamk'anata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:51.679060313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 144,
+  "translation": "Runaqa ch'usaqman rikch'akunmi; p'unchawkunaqa utqaylla chinkaq llanthu hina.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Runaqa"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ch'usaqman"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "rikch'akunmi"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "p'unchawkunaqa"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "llanthu hina"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "utqaylla chinkaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:35.942217923Z",
+  "model": "glm-5.3"
+}

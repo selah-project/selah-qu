@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Ñuqam rimayniykiwan kusikuni, hina imayna hatun chaskisqata taripaq.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "kusikuni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ñuqam"
+    },
+    {
+      "surface": "על",
+      "gloss": "-wan (sobre)"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "rimayniyki"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "hina imayna ... taripaq"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "chaskisqa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:55.240795265Z",
+  "model": "glm-5.3"
+}

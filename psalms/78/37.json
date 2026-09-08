@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Sonqonkuqa mana paywan sayasqa ⟨karqan⟩, Beritninpipas mana iñirqankuchu.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "sonqonkuqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sayasqa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "iñirqankuchu"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "Beritninpipas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:47.259872946Z",
+  "model": "glm-5.3"
+}

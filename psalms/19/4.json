@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Manam rimay kanchu, manam rimanakunapas kanchu; paykunap kunkan mana uyakusqachu.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "rimay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "rimanakuna"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "uyakusqa"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "paykunap kunka"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:22.038863043Z",
+  "model": "glm-5.3"
+}

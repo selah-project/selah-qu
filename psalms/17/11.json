@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Kunan ñawpaq chakikunanchikpi ñuqata muyurqankum; ñawinkuta churanku hallp'aman urmayachinapaq.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "ñawpaq chakikunanchikpi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "ñuqata muyurqanku"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ñawinkuta"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "churanku"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "urmayachinapaq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'aman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:33.913077965Z",
+  "model": "glm-5.3"
+}

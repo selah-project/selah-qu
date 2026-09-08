@@ -1,0 +1,64 @@
+{
+ "tier": "glm-5.2",
+ "verse": 28,
+ "ref": "exodus 25:28",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 25,
+ "translation": "Hinaspa ⟨את⟩ wasqakunata shitim sach'akunamanta ruwanki, hinaspa ⟨את⟩ quriwan qhatachanki, chaywanmi ⟨את⟩ mesnata apakusqa kanqa.",
+ "tokens": [
+  {
+   "surface": "ועשית",
+   "gloss": "hinaspa ruwanki"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "wasqakunata"
+  },
+  {
+   "surface": "הבדים",
+   "gloss": "wasqakunata"
+  },
+  {
+   "surface": "עצי",
+   "gloss": "sach'akunamanta"
+  },
+  {
+   "surface": "שטים",
+   "gloss": "shitim"
+  },
+  {
+   "surface": "וצפית",
+   "gloss": "hinaspa qhatachanki"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩",
+   "marks": "quriwan qhata"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "quriwan"
+  },
+  {
+   "surface": "ונשא",
+   "gloss": "hinaspa apakusqa"
+  },
+  {
+   "surface": "בם",
+   "gloss": "chaywan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "mesnata"
+  },
+  {
+   "surface": "השלחן",
+   "gloss": "mesnata"
+  }
+ ],
+ "timestamp": "2026-09-08T00:36:37.000170307Z",
+ "model": "glm-5.3"
+}

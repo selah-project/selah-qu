@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 36:16",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Hinaspa Elohimpa willaqninkunata riwirqankum, paypa siminkunata pisichirqanku, paypa navinkunawan chicanakurqanku, kama Yahwepa ph'iñakuynin paypa runanpi witch'usqan, kama mana hampiy kanan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "מלעבים",
+      "gloss": "riwirqanku"
+    },
+    {
+      "surface": "במלאכי",
+      "gloss": "willaqninkunata"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ובוזים",
+      "gloss": "pisichirqanku"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "siminkunata"
+    },
+    {
+      "surface": "ומתעתעים",
+      "gloss": "chicanakurqanku"
+    },
+    {
+      "surface": "בנבאיו",
+      "gloss": "navinkunawan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "witch'usqan"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ph'iñakuynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "paypa runanpi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "mana kanan"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "hampiy"
+    }
+  ],
+  "timestamp": "2026-09-08T13:21:45.489545461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Kasukuqwan kasukunki, hunt'alla runawan hunt'allalla kanki.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "kasukuq"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "kasukunki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "hunt'alla runa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hunt'alla"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "hunt'allalla kanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:28.119129659Z",
+  "model": "glm-5.3"
+}

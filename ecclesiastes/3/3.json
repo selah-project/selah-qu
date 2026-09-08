@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Pacham wañuchiyta, hinaspa pacha hampiypaq; pacha thuniyta, hinaspa pacha wasichaypaq.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "wañuchiyta"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacha"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "hampiypaq"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "thuniyta"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacha"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "wasichaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:09.460028784Z",
+  "model": "glm-5.3"
+}

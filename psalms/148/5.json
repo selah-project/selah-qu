@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 148,
+  "translation": "Yahwepa sutinta yupaychachun ⟨את⟩, imaraykuchus paymi kamachirqan, chaymanta kamarisqa karqanku.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "yupaychachun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa sutinta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "chaymanta kamarisqa karqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:47.495903910Z",
+  "model": "glm-5.3"
+}

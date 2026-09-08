@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 6:14",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaymanta q'imachinqam ⟨את⟩ korbaninta Yahweman: huk cordero, wata churi, ch'usaqllaña, olapaq; huk cordera, wata ususi, ch'usaqllaña, jatatpaq; huk carnero, ch'usaqllaña, shelamimpaq.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "q'imachinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korbaninta"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korbaninta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "cordero"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ch'usaqllaña"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "olapaq"
+    },
+    {
+      "surface": "וכבשה",
+      "gloss": "cordera"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususi"
+    },
+    {
+      "surface": "שנתה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "ch'usaqllaña"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "jatatpaq"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "carnero"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ch'usaqllaña"
+    },
+    {
+      "surface": "לשלמים",
+      "gloss": "shelamimpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:19:29.796568350Z",
+  "model": "glm-5.3"
+}

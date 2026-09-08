@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Hosheapa isqon kaq watanpi Ashur apu ⟨את⟩ Shomronta hap'irqanmi, hinaspa ⟨את⟩ Israelta Ashurman aysarqan, ⟨את⟩ paykunata Halajpi, Jawor mayupi — Gowsan mayu — Medi llaqtakunapipis tiyarqan.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "watanpi"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "isqon kaq"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hosheapa"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomronta"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomronta"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "aysarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Ashurman"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Halajpi"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "Jaworpiwan"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gowsan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "llaqtakunapiwan"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Medi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:45.383519289Z",
+  "model": "glm-5.3"
+}

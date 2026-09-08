@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Maskawankichikmi ⟨את⟩ ñuqata, hinaspa taripawankichikmi, imaraykuchus hunt'a sonqoykichikwanmi ñuqata maskawankichik.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "maskawankichikmi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqata",
+      "marks": "ñuqata (Yahweta)"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "hinaspa taripawankichikmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "ñuqata maskawankichikmi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sonqoykichikwan"
+    }
+  ],
+  "timestamp": "2026-09-08T07:21:50.018391899Z",
+  "model": "glm-5.3"
+}

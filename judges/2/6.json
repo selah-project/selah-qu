@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Yehoshua (Josué) ⟨את⟩ runakunata kacharqan; chaymi Israelpa wawankin, sapa runa hayñinman, ⟨את⟩ hallp'ata hap'inankupaq rirqanku.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "rirqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "hayñinman"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "hap'inankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:32:32.487801786Z",
+  "model": "glm-5.3"
+}

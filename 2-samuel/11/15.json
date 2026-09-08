@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Qillqapipas kayta qillqarqan: ⟨את⟩ Uriyahta maqanakup sinchi kaq ñawpaqninman churaychis, pay qhipamantaq kutiychis, t'aqllasqa kanqawanmi, wañunqawan.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "qillqarqan"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "qillqapipas"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "churaychis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyahta"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyahta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "maqanakup"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "sinchi kaq"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "kutiychis"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "pay qhipamantaq"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "t'aqllasqa kanqawan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "wañunqawan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:41:19.439324052Z",
+  "model": "glm-5.3"
+}

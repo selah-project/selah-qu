@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Sichus kikillanmam yaykimun, kikillanmam lluqsinmi; sichus warmiyuq kaptinmi, paypa warmimpas paywan lluqsinqa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "kikillanmam"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yaykimun"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "kikillanmam"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsinmi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "warmiyuq"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kaptinmi"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "lluqsinqa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "paypa warmimpas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:30.208024321Z",
+  "model": "glm-5.3"
+}

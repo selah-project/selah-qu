@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Sapra runapaqqa mana allinmi yachaysapa simi; aswanpis apu runapaqqa llulla simi mana allinmi ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "sapra-runapaq"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "simi"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "yachaysapa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "pis"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "apu-runapaq"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "simi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    }
+  ],
+  "timestamp": "2026-09-08T10:45:11.160722890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Imaraykuchusm haq'a runap siminwan, llulla qatuqpa siminwan ñuqaman kicharqanku, llulla qeqewan ⟨את⟩wan rimarqanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haq'a runap"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "hinaspa siminwan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "llulla qatuqpa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "kicharqanku"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "rimarqanku"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩wan",
+      "marks": "ñuqawan (rimasqapi ñuqawan)"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "qeqewan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:20.494373255Z",
+  "model": "glm-5.3"
+}

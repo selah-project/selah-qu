@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chaysi llapan huñusqa runakuna kutichirqanku, hatun rimaywan nispa: Chiqaqmi, rimasqaykihina, ñuqanchik ruranakuwaqku.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "kutichirqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "huñusqa runakuna"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rimaywan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Chiqaqmi"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "rimasqaykihina"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqanchik"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruranakuwaqku"
+    }
+  ],
+  "timestamp": "2026-09-08T12:13:40.250521475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Yahwepa rimasqanwan hanaq pacham rurasqa karqan; paypa siminpa samayninwan llapan awqankuna.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "rimasqanwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "rurasqa karqan"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "hinaspa samayninwan"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "paypa simin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "awqankuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:37.469223496Z",
+  "model": "glm-5.3"
+}

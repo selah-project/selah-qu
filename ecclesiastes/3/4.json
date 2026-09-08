@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Pacham waqayta, hinaspa pacha asiypaq; pacham llaqipaq, hinaspa pacha tusuypaq.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "waqayta"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacha"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "asiypaq"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "llaqipaq"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacha"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "tusuypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:09.460152737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "«Apuy, uyariway: chakracha tawa pachak shekel qullqycha ⟨kan⟩mi — ñuqawan qamwan chawpipi imataq chaymi — chayrayku hinaspa ⟨את⟩ wañusqaykita p'anqay».",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Apuy"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "uyariway"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "chakra"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqy"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "hinaspa qamwan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wañusqaykita"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "wañusqayki"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "p'anqay"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:05.667574540Z",
+  "model": "glm-5.3"
+}

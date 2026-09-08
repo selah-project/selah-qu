@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Hark'arankichikmi Israelpa wawankunata ⟨את⟩ paykunaqa paykunaqa ichiyninmanta, manañá wañunkuchu paykuna ichi kayninkupi, paykuna Mishkanyta ⟨את⟩ ichichkaspa, mayqin paykuna chawpinpi kachkan.",
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "hark'arankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa wawankunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "ichiyninmanta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "wañunkuchu"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "ichi kayninkupi"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "ichichkaspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanyta"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mishkany"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "paykuna chawpinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:02:48.327023271Z",
+  "model": "glm-5.3"
+}

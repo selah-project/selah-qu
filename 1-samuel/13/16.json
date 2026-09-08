@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "1-samuel 13:16",
+ "book": "1-samuel",
+ "lang": "qu",
+ "chapter": 13,
+ "translation": "Shaultaq, paypa churin Yonatanwan (Jonatán), paywan kachkaq runakunawanpas Binyaminpa Giv'apim tiyarqanku; Palishtinakunataq (filisteos) Mijmaspi (Micmás) kampacharqanku.",
+ "tokens": [
+  {
+   "surface": "ושאול",
+   "gloss": "Shaultaq"
+  },
+  {
+   "surface": "ויונתן",
+   "gloss": "Yonatan"
+  },
+  {
+   "surface": "בנו",
+   "gloss": "paypa churin"
+  },
+  {
+   "surface": "והעם",
+   "gloss": "runakunataq"
+  },
+  {
+   "surface": "הנמצא",
+   "gloss": "kachkaq"
+  },
+  {
+   "surface": "עמם",
+   "gloss": "paywan"
+  },
+  {
+   "surface": "ישבים",
+   "gloss": "tiyarqanku"
+  },
+  {
+   "surface": "בגבע",
+   "gloss": "Giv'api"
+  },
+  {
+   "surface": "בנימן",
+   "gloss": "Binyamin"
+  },
+  {
+   "surface": "ופלשתים",
+   "gloss": "Palishtinakunataq"
+  },
+  {
+   "surface": "חנו",
+   "gloss": "kampacharqanku"
+  },
+  {
+   "surface": "במכמש",
+   "gloss": "Mijmaspi"
+  }
+ ],
+ "timestamp": "2026-09-08T04:11:28.638655131Z",
+ "model": "glm-5.3"
+}

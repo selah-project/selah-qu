@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Chaymi pay qusanman ⟨את⟩ Bilhahta, yananta, warmi hina qurqan; Yaacobmi payman yaykurqan.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "qurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman (qusanman)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilhahta"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilhahta"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "yananta"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "warmi hina"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yaykurqan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaacob"
+    }
+  ],
+  "timestamp": "2026-09-08T00:04:40.477869228Z",
+  "model": "glm-5.3"
+}

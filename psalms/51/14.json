@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Kutichiwawaymi ñuqman qispichiykikta khusiyta; munakuq samaywanmi ñuqta sayachiwaway.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "kutichiwaway"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqman"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "khusiy"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "qispichiyki"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "samaywan"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "munakuq"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "ñuqta sayachiwaway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:34.346399688Z",
+  "model": "glm-5.3"
+}

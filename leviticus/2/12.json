@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Ñawpaq rurukunamanta korban hina ⟨את⟩ Yahweman apamushpa quyankichik; ichaqa altarman manam sanq'arimunkuchu samikunaq samipaq.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ñawpaq rurukunamanta"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "apamushpa quyankichik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweman"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ichaqa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "sanq'arimunkuchu"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "samikunaq samipaq"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "samikunaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:28.024691904Z",
+  "model": "glm-5.3"
+}

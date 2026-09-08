@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Qamllamanmi juchallirqani, mana allinta qam ñawiykipi ruwarqani; chayrayku rimaspa allinmi kanki, kamachispa p'inchaymi kanki.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "qamlla"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "juchallirqani"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "hinaspa mana allinta"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ñawiykipi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ruwarqani"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "allin kanki"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "rimaspa"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "p'inchay kanki"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "kamachispa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:31.203649385Z",
+  "model": "glm-5.3"
+}

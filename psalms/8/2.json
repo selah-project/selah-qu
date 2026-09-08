@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Yahwe, Adonayninchik, may hayallataq Sutiykiqa llapan hallp'api! Hawanchanki sumaq atiyniykita hanaq pachapi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonayninchik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "may hayallataq"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiyki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "hawanchanki"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "sumaq atiyniykita"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:28.845214566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chaymi Elohimqa ⟨את⟩ runata muyurichirqan ch'usaq pacha ñanninwan, Qochap qinchankunampi; Israelpa wawankunataq awqanakuywan munaakuspa Mitsrayim hallp'amanta saqirparirqaku.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "muyurichirqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanninwan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ch'usaq pacha"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Qochap"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "qinchankunampi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "awqanakuywan munaakuspa"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "saqirparirqaku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunataq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:37.717860529Z",
+  "model": "glm-5.3"
+}

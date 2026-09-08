@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Yachachisaqkimí qamta, purichisaqkimí kay ñanpi purinaykipaq; ñawiywan qamta yuyaysaqmi.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "yachachisaqki"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "purichisaqki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "purinayki"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "yuyaysaq"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:43:32.898968573Z",
+  "model": "glm-5.3"
+}

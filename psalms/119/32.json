@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Mitswayki ñanta kallpanaqasaq, ñuqap sunquyta anchhachinki raykum.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Mitswayki"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "kallpanaqasaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "anchhachinki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ñuqap sunquy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:08.893121601Z",
+  "model": "glm-5.3"
+}

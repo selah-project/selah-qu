@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Llapa pisikunaymanta qispichiwaway; ama yuyaynintin mana runap ñak'ariyninmanchu churawankichu.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Llapa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "pisikunaymanta"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "qispichiwaway"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ñak'ariyninta"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "yuyaynintin mana runap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "churawankichu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:35.745315573Z",
+  "model": "glm-5.3"
+}

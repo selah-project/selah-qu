@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Yarqasqam, chaymanta ch'akisqataq; nefeshninku paykunap ukhupi sayk'urqan.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Yarqasqa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chaymanta ...taq"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "ch'akisqa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefeshninku"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paykunap ukhupi"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "sayk'urqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:38.387345804Z",
+  "model": "glm-5.3"
+}

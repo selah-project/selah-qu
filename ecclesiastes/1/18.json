@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "ecclesiastes 1:18",
+ "book": "ecclesiastes",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Imaraykuchus hatun yachaypi askha piñakuy ⟨kan⟩mi; yachayta yapaptinqa nanachiyta yapam.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "ברב",
+   "gloss": "askhapi"
+  },
+  {
+   "surface": "חכמה",
+   "gloss": "hatun yachay"
+  },
+  {
+   "surface": "רב",
+   "gloss": "askha"
+  },
+  {
+   "surface": "כעס",
+   "gloss": "piñakuy"
+  },
+  {
+   "surface": "ויוסיף",
+   "gloss": "yapam"
+  },
+  {
+   "surface": "דעת",
+   "gloss": "yachayta"
+  },
+  {
+   "surface": "יוסיף",
+   "gloss": "yapam"
+  },
+  {
+   "surface": "מכאוב",
+   "gloss": "nanachiyta"
+  }
+ ],
+ "timestamp": "2026-09-08T11:36:47.990763222Z",
+ "model": "glm-5.3"
+}

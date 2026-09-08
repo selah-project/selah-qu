@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "May kama, Elohim, awqam p'inqachinqa? Awqam sutiykita sarunqachu wiñaypaq?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "may"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "p'inqachinqa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "awqam"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "sarunqachu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sutiykita"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:49.612637998Z",
+  "model": "glm-5.3"
+}

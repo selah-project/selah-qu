@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaymantaqa Davidpa sunqun ⟨את⟩ payta llakichirqan, Shaulpa chusanpa larphunta ⟨את⟩ ullqusqanrayku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chay"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "llakichirqan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "Davidta"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ullqusqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "larphunta"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "larphunta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulpa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:23:42.909285405Z",
+  "model": "glm-5.3"
+}

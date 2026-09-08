@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Bavel (Babilonia) paq llasaq willakuym — may Yesha'yahu (Isaías), Amots (Amós) churi, ñawinwan rikurqan.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "llasaq willakuy"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "may"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ñawinwan rikurqan"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesha'yahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-09-08T06:00:00.696963431Z",
+  "model": "glm-5.3"
+}

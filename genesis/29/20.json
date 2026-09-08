@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yaakovmi Rajelpaq qanchis wata llamk'arqan; payta khuyasqanraykumi chay watakuna paypa ñawinpi huk p'unchawkuna hina karqanku.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "llamk'arqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Rajelpaq"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "paypa ñawinpi"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "p'unchawkuna hina"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "huk"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "khuyasqanrayku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:42.398639981Z",
+  "model": "glm-5.3"
+}

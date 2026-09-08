@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Wiñaypaqchu Adonay saqinqa? Manañachu aswan chaskiyqa?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "wiñaypaqchu"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "saqinqa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "yapinqachu"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "chaskiyta"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aswan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:27.029264920Z",
+  "model": "glm-5.3"
+}

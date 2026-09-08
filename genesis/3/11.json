@@ -1,0 +1,73 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "genesis 3:11",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 3,
+ "translation": "Nirqan: ¿Pim qamman willarqan q'alalla kasqaykita? ¿Chay sach'amantachu — ñuqap kamachisqayta ama mikhunaykipaq — chaymantam mikhurqanki?",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "מי",
+   "gloss": "pi"
+  },
+  {
+   "surface": "הגיד",
+   "gloss": "willarqan"
+  },
+  {
+   "surface": "לך",
+   "gloss": "qamman"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kasqaykita"
+  },
+  {
+   "surface": "עירם",
+   "gloss": "q'alalla"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "qam"
+  },
+  {
+   "surface": "המן",
+   "gloss": "¿chaymanta…chu?"
+  },
+  {
+   "surface": "העץ",
+   "gloss": "sach'amanta"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "(imata)"
+  },
+  {
+   "surface": "צויתיך",
+   "gloss": "kamachirqanim qamta"
+  },
+  {
+   "surface": "לבלתי",
+   "gloss": "ama … -chu"
+  },
+  {
+   "surface": "אכל",
+   "gloss": "mikhunaykipaq"
+  },
+  {
+   "surface": "ממנו",
+   "gloss": "chaymanta"
+  },
+  {
+   "surface": "אכלת",
+   "gloss": "mikhurqanki"
+  }
+ ],
+ "timestamp": "2026-09-07T23:49:33.467281149Z",
+ "model": "glm-5.3"
+}

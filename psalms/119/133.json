@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 133,
+  "ref": "psalms 119:133",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Ñuqap ñawpaq ñankunata imiraykiwan sayachiymi; ama llapan mana allin kay ñuqawan kamachichu.",
+  "tokens": [
+    {
+      "surface": "פעמי",
+      "gloss": "ñuqap ñawpaq ñankunata"
+    },
+    {
+      "surface": "הכן",
+      "gloss": "sayachiy"
+    },
+    {
+      "surface": "באמרתך",
+      "gloss": "imiraykiwan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תשלט",
+      "gloss": "kamachi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "און",
+      "gloss": "mana allin kay"
+    }
+  ],
+  "timestamp": "2026-09-08T14:52:23.111781480Z",
+  "model": "glm-5.3"
+}

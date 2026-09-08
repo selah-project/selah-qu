@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Parom kay rimayta uyarirqan ⟨את⟩, Moshe hunt'anampaq munarqan ⟨את⟩ Mosheta; chaymi Moshe Paropa ñawpaqmanta ayqirqan, Midyan hallp'api tiyarqan, hinaspa p'uytu patapi tiyarqan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay rimayta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "munarqan"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "wañuchinampaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ayqirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqmanta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "p'uytu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:56.774495433Z",
+  "model": "glm-5.3"
+}

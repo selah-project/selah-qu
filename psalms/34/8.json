@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Yahwepa willkaqen sayachikunmi payta manaqkunap muyuriqninpi, hinaspam qespichinku.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "sayachikunmi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "willkaqen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqninpi"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "payta manaqkunap"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "qespichinku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:51.342991816Z",
+  "model": "glm-5.3"
+}

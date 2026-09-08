@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "psalms 99:6",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 99,
+ "translation": "Moshe (Moisés) hinaspa Aharon (Aarón) paypa kohenninkunamanta karqanmi, Shmuel (Samuel) paypa Sutinta q'atakuqkunamanta; paykuna Yahweman qayarqankum, paytaq kutichirqankum.",
+ "tokens": [
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "ואהרן",
+   "gloss": "hinaspa Aharon"
+  },
+  {
+   "surface": "בכהניו",
+   "gloss": "paypa kohenninkunamanta"
+  },
+  {
+   "surface": "ושמואל",
+   "gloss": "Shmuel"
+  },
+  {
+   "surface": "בקראי",
+   "gloss": "q'atakuqkunamanta"
+  },
+  {
+   "surface": "שמו",
+   "gloss": "paypa Sutinta"
+  },
+  {
+   "surface": "קראים",
+   "gloss": "qayarqankum"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweman"
+  },
+  {
+   "surface": "והוא",
+   "gloss": "paytaq"
+  },
+  {
+   "surface": "יענם",
+   "gloss": "kutichirqankum"
+  }
+ ],
+ "timestamp": "2026-09-08T10:14:19.263558325Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hoshenpa patapi lluqlusqa silk'ukunata ruwarqankumi, q'aytu ruway hina, quri p'achamanta.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hoshen"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "silk'ukunata"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "lluqlusqa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ruway"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "q'aytu hina"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "p'achamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:32.414589862Z",
+  "model": "glm-5.3"
+}

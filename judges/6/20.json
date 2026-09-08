@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Elohimpa willkaqninmi payman nirqan: ⟨את⟩ aychatawan ⟨את⟩ mana ch'allina t'antakunata chayqa churay kay rumi patapi, hinaspa ⟨את⟩ laqunta t'inkyachiy. Chaysi chaynata ruwarqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "willkaq"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "chaskiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aychatawan"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "aychatawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "mana ch'allina t'antakunata"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mana ch'allina t'antakunata"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "chayqa churay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "laqunta"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "laqunta"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "t'inkyachiy"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:42:01.302585468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "isaiah 43:2",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 43,
+ "translation": "Unu chawpinta chiqanaykikipi ⟨את⟩ qamwan kanimi; mayukunapipas mana qamta boyrqasunkichu. Nina chawpinta puriykuptiyki mana k'ajaykunkichu; sonqoy nina rawichiywanpas mana qamta nanichinqachu.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "kunataq"
+  },
+  {
+   "surface": "תעבר",
+   "gloss": "chiqanaykikipi"
+  },
+  {
+   "surface": "במים",
+   "gloss": "unu chawpinta"
+  },
+  {
+   "surface": "אתך",
+   "gloss": "⟨את⟩ qamwan",
+   "marks": "qamwan"
+  },
+  {
+   "surface": "אני",
+   "gloss": "ñuqa"
+  },
+  {
+   "surface": "ובנהרות",
+   "gloss": "mayukunapipas"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "ישטפוך",
+   "gloss": "qamta boyrqasunkichu"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kunataq"
+  },
+  {
+   "surface": "תלך",
+   "gloss": "puriykuptiyki"
+  },
+  {
+   "surface": "במו",
+   "gloss": "chawpinta"
+  },
+  {
+   "surface": "אש",
+   "gloss": "nina"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "תכוה",
+   "gloss": "k'ajaykunkichu"
+  },
+  {
+   "surface": "ולהבה",
+   "gloss": "sonqoy nina rawichiywanpas"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "תבער",
+   "gloss": "qamta nanichinqachu"
+  },
+  {
+   "surface": "בך",
+   "gloss": "qamta"
+  }
+ ],
+ "timestamp": "2026-09-08T06:26:10.301491216Z",
+ "model": "glm-5.3"
+}

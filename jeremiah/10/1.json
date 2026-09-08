@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Uyariychik ⟨את⟩ simita, chaymanta Yahwem qamkunaman riman, Israel wasi:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Uyariychik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simita"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "simi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "riman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T06:58:17.268683260Z",
+  "model": "glm-5.3"
+}

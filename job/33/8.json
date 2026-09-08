@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 33:8",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Chiqaqtak qam ñuqap ñawiqkunapi nirqanki, hinaspa simanakunap ovsakunatan uyanim.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Chiqaqtak"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "nirqanki"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ñuqap ñawiqkunapi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "hinaspa ... ovsakunatan"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "simanakunap"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "uyanim"
+    }
+  ],
+  "timestamp": "2026-09-08T11:16:33.073484698Z",
+  "model": "glm-5.3"
+}

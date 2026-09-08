@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Ñinkichiktaqmi: «Adonaypa ñanman manam t'upusqachu kanchu.» Sapa runata ñanninman hina taripasaq ⟨את⟩ qamkunata, Israelpa wasin.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Ñinkichiktaqmi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "t'upusqachu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaypa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runata"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ñanninman hina"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "taripasaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata (Israelpa wasin)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:22:09.230220519Z",
+  "model": "glm-5.3"
+}

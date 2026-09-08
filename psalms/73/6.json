@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Chayraykum paykunap wankan k'ayaruyawan hunt'as; khari p'acha hina paykunata chhurancha.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "wankan... hunt'as"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "k'ayaruyawan"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "chhurancha"
+    },
+    {
+      "surface": "שית",
+      "gloss": "p'acha hina"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "khari"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:28.929715156Z",
+  "model": "glm-5.3"
+}

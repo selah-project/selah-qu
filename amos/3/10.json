@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Manam yachankuchu cheqallata rurayta, Yahwepa nisqanmi; paykunaqa hatunnanata hinaspa suwakusqata pukarakunankupi wisñunku.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "yachankuchu"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "rurayta"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "cheqallata"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nisqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "wisñunku"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "hatunnanata"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "suwakusqata"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "pukarakunankupi"
+    }
+  ],
+  "timestamp": "2026-09-08T08:54:31.879754029Z",
+  "model": "glm-5.3"
+}

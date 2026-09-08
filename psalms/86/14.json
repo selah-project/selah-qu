@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Elohim, zawallikuqkunaqa ñuqata sayarqankumi, hinaspa tunas runakunap huñusqan nefeshniyta maskharqanku, manaq qamta ñawpaqenku churasqaykuchu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "zawallikuqkuna"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "sayarqanku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "hinaspa huñusqan"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "tunas runakunap"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "maskharqanku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manaq"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "churasqaykuchu"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "ñawpaqenku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:39.016334366Z",
+  "model": "glm-5.3"
+}

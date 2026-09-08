@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "⟨את⟩ Yahweta k'uyaway, hasidninkuna llapanmi; iñiyniyuqkunata Yahwem waqaychan, hinaspam k'araq ruwaqman askha pagawan.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "k'uyaway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hasidninkuna"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "iñiyniyuqkunata"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "waqaychan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "hinaspam pagawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man (ataq)"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "askha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "k'araq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:05.782507977Z",
+  "model": "glm-5.3"
+}

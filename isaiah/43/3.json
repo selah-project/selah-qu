@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Ñuqataqmi Yahwe, Elohimniyki, Israelpa munay k'achaq, qispichiqniyki kayani; Mitsrayimta (Egipto) qispichiy-qullqiyki hina kurqanimi, Kushwan (Etiopía), Seba (Seba)wan qam rantikipi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "munay k'achaq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "qispichiqniyki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "kurqanimi"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "qispichiy-qullqiyki hina"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimta"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushwan"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "Sebawan"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "qam rantikipi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:26:10.301660528Z",
+  "model": "glm-5.3"
+}

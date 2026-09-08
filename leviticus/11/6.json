@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa ⟨את⟩ harnevetta (qowi): imaraykuchus paymi gerata hawaman pusawan, icha parsa ufariyta mana ruranchu; paymi mana ch'uyachu qamkunapaq.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "harnevetta"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "harnevet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "hawaman pusawan"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "icha parsata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "ufaykachisqanchu"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "mana ch'uya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:10.290756625Z",
+  "model": "glm-5.3"
+}

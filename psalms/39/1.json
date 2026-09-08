@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Umaq ñawpaq ñawpaq: Yedutunpaq. Davidpa mizmornin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "umaq ñawpaq"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Yedutunpaq"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmornin"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:06.729272135Z",
+  "model": "glm-5.3"
+}

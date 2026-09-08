@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Elohimqa ⟨את⟩ hallp'ata qhawarqan, hinaspa qhawaspaqa ch'usaqyasqa ⟨kan⟩mi karqan, imaraykuchus tukuy aycha ⟨את⟩ ñaninta hallp'api ch'usaqyachirqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "hinaspa qhawaspaqa"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "ch'usaqyasqa ⟨kan⟩ karqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "ch'usaqyachirqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñaninta"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ñaninta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:53.382159467Z",
+  "model": "glm-5.3"
+}

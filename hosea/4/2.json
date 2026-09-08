@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Laruta hinaspa llullaqta, wañuchiqta, suwaqta, hinaspa runahuninta — llapanpacham p'akiykachanmi, yawartaq yawarella t'aqaspa ñawpaqman chayanmi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Laruta"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "hinaspa llullaqta"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "wañuchiqta"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "suwaqta"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "hinaspa runahuninta"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "p'akiykachanmi"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "yawartaq"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "yawarella"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "t'aqaspa ñawpaqman chayanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T08:46:32.133500223Z",
+  "model": "glm-5.3"
+}

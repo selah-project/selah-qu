@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Wakchapi waklla ñak'aqpi llakikunqam, hinaspa waklla ñak'akunap nefeshninkunata qispichinqam.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "llakikunqam"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "waklla ñak'aqpi"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "hinaspa nefeshninkunata"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "waklla ñak'akunap"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "qispichinqam"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:23.896556353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "isaiah 59:7",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 59,
+ "translation": "Haykunkuqa llakikupaqm purillankum, hinaspa utqallankum ch'uya yawar ch'ullaqpaq; yuyayninkuqa awqan yuyaymi, ch'itiy chiqnantaq ñanninkupim kachkan.",
+ "tokens": [
+  {
+   "surface": "רגליהם",
+   "gloss": "haykunku"
+  },
+  {
+   "surface": "לרע",
+   "gloss": "llakikupaq"
+  },
+  {
+   "surface": "ירצו",
+   "gloss": "purillankum"
+  },
+  {
+   "surface": "וימהרו",
+   "gloss": "hinaspa utqallankum"
+  },
+  {
+   "surface": "לשפך",
+   "gloss": "ch'ullaqpaq"
+  },
+  {
+   "surface": "דם",
+   "gloss": "yawar"
+  },
+  {
+   "surface": "נקי",
+   "gloss": "ch'uya"
+  },
+  {
+   "surface": "מחשבותיהם",
+   "gloss": "yuyayninkuqa"
+  },
+  {
+   "surface": "מחשבות",
+   "gloss": "yuyay"
+  },
+  {
+   "surface": "און",
+   "gloss": "awqan"
+  },
+  {
+   "surface": "שד",
+   "gloss": "ch'itiy"
+  },
+  {
+   "surface": "ושבר",
+   "gloss": "chiqnantaq"
+  },
+  {
+   "surface": "במסלותם",
+   "gloss": "ñanninkupi"
+  }
+ ],
+ "timestamp": "2026-09-08T06:42:18.694944124Z",
+ "model": "glm-5.3"
+}

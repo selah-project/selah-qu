@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Chayrayku, kay pacha tikrakuptinpas, urqukuna mama quchap sonqonpi k'ikluqtitinpas, manam manchakunchikchu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Chayrayku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "manchakunchikchu"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "tikrakuptinpas"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kay pacha"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "k'ikluqtitinpas"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "urqukuna"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sonqonpi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mama quchap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:22.066337744Z",
+  "model": "glm-5.3"
+}

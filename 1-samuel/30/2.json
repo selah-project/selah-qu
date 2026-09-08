@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Chaypi kaq ⟨את⟩ warmikunata huch'uymanta hatunkama mana wañuchispachu apurqaku, pusarqakuspa ñanninkuman purirqakum.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "apurqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warmikunata"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "warmikunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi kaq"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "huch'uymanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "wañuchispachu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "pipas"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "pusarqaku"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "purirqaku"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "ñanninkuman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:30:59.672597543Z",
+  "model": "glm-5.3"
+}

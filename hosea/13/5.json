@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Ñuqam kanratami ichhu pampapi riqsirqani, ch'usaq q'una hallp'api.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ñuqam"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "kanrata riqsirqani"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ichhu pampapi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "ch'usaq q'una"
+    }
+  ],
+  "timestamp": "2026-09-08T08:49:58.391920720Z",
+  "model": "glm-5.3"
+}

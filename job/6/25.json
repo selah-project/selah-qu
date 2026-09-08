@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 6:25",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Ima sinchim ⟨kaqmi⟩ cheqaq rimaykuna; imataq qamkunamanta kamachiy kamachin?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "נמרצו",
+      "gloss": "sinchim"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "rimaykuna"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "cheqaq"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "kamachin"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "kamachiy"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "qamkunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:00:05.399938706Z",
+  "model": "glm-5.3"
+}

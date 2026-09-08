@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Chaysqa ñuqam ⟨את⟩ hallp'ata ch'usaqchasaq, hinaspa chaypi kawsaq awqaykichikmanta haymaykukunqakumi.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "ch'usaqchasaq"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "haymaykukunqaku"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "awqaykichikmanta"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:12:53.756011214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Yahweman rulloy ⟨payta⟩ nirqaku, qispichinqa**si** payta, hark'anqapus payta, imaraykuchus khuska munasqan**si**.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "rulloy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "qispichinqa payta"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "hark'anqapus payta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "khuska munasqan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:35.471065236Z",
+  "model": "glm-5.3"
+}

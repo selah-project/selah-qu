@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 144,
+  "translation": "Davidpa ⟨salmo⟩. Yahwem, ñuqap rumiy, bendisqa kanqa; paymi ñuqap makiykunata maqanakuyman yachachin, ruk'anaykunata awqanakuyman.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "bendisqa kanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ñuqap rumiy"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "paymi yachachin"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ñuqap makiykunata"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "maqanakuyman"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "ruk'anaykunata"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "awqanakuyman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:35.941460069Z",
+  "model": "glm-5.3"
+}

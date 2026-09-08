@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Mishkanpaqmi ⟨את⟩ tablakunata ruwankim, shita yurawan, sayasqa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ruwankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tablakunata"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "tablakuna"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkanpaq"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yura"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shita"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "sayasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:10.504082903Z",
+  "model": "glm-5.3"
+}

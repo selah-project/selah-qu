@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Arpakshadqa pichqa kimsa chunka watakawsarqan, hinaspa ⟨את⟩ Shelaj (Salaj)ta pañarqan.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Arpakshadqa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsarqan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "pañarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelajta"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelajta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:01:30.840231601Z",
+  "model": "glm-5.3"
+}

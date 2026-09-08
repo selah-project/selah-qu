@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Imaraykuchus Azzah (Gaza) saqisqa kanqa, hinaspa Ashqelon (Ascalón) ch'usaq kananpaq; Ashdodta (Asdod) chawpi p'unchawpi qarqunqaku, hinaspa Ekronta (Ecrón) saphinmanta hurqunqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzah"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "saqisqa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "hinaspa Ashqelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ch'usaq kananpaq"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdodta"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "chawpi p'unchawpi"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "qarqunqaku"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "hinaspa Ekronta"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "saphinmanta hurqunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:15:11.465826689Z",
+  "model": "glm-5.3"
+}

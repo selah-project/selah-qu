@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa sichus runa ⟨את⟩ yanakunanpa ñawinta utaq ⟨את⟩ warmi yanakunanpa ñawinta t'aqwan, chinkachiptinmi, qispi kachachinqa chayta ñawinpaq.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "hinaspa sichus"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "t'aqwan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanakunanpa ñawinta"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ñawin"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "yanakunanpa"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warmi yanakunanpa ñawinta"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ñawin"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "warmi yanakunanpa"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "chinkachiptinmi"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "qispi"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "kachachinqa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "paq"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "ñawin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:31.269871308Z",
+  "model": "glm-5.3"
+}

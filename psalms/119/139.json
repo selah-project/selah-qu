@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Sinchi yarqayniy ñuqata ch'utiyurqanmi, ñawpaq awqayki rimaynikita onqochisqankurayku.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "ñuqata ch'utiyurqanmi"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "sinchi yarqayniy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "onqochisqanku"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "rimaynikita"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ñawpaq awqayki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:08.452682690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Shomeronman (Samaria) chayamuptinmi, ⟨את⟩ Ajabpa (Acab) Shomeronpi qhipakusqankunata llapantam wañuchirqan, llapan chinkachikamusqankama, Yahwepa siminman hina, Eliyahu (Elías)man willasqa hina.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "chayamuptin"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron (Samaria)man"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajabpa qhipakusqankunata llapanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "qhipakusqankuna"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ajab (Acab)pa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomeronpi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "llapan chinkachikamusqankanta"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "siminman hina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chasqa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "willasqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu (Elías)"
+    }
+  ],
+  "timestamp": "2026-09-08T05:30:37.830248281Z",
+  "model": "glm-5.3"
+}

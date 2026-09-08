@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 84,
+  "translation": "Yahwe Elohim Tsebaot, ñuqap mañakuymanta uyariy; Yaakovpa Elohimnin, rinriytawan kichariy. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ñuqap mañakuymanta"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "rinriytawan kichariy"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:38.208475942Z",
+  "model": "glm-5.3"
+}

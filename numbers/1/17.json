@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Moshewan (Moiséswan) Aharonwanm chay runakunata hap'irqanku ⟨את⟩, mayqinkunatachus sutikunawan sic'asqa karqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqanku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshewan"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharonwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chay runakunata"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunatachus"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "sic'asqa karqan"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "sutikunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T01:14:54.769579584Z",
+  "model": "glm-5.3"
+}

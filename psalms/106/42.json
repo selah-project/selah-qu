@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Paykunap awqankuna ñak'arichirqankum paykunata, chaysi paykuna chay awqankuna makinkuran pampalla t'iktikurqanku.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "ñak'arichirqankum paykunata"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "awqankuna"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "pampalla t'iktikurqanku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "makinkuran ukhupi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "awqankuna makin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:15.779086433Z",
+  "model": "glm-5.3"
+}

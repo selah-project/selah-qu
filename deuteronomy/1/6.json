@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwem Elohimninchik Chunkabpi (Horeb) ñuqanchikman rimarqan, nispa: «Qamkunapaq askhañam kay urqupi tiyay.»",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Chunkabpi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "askhañam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "tiyay"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqupi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T02:26:20.559618728Z",
+  "model": "glm-5.3"
+}

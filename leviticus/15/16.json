@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Hinas runam paymanta yu lluqsichi rikhuriptin, unowan ⟨את⟩ tukuy ayyanta armanqam, ch'iqim kanqam tutayayukama.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Hinas runam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lluqsinaptin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "lluqsichiypa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "yunta"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "armanqam"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unowan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy ayyanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ayyanta"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ch'iqim kanqam"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "tutayayu"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:33.592547899Z",
+  "model": "glm-5.3"
+}

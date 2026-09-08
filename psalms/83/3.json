@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Qhawariymi: qampana awqaykikuna haywachkanmi, qamta p'iñakuqkunatawan umanta huqarirqanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "qhawariymi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "qampana awqaykikuna"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "haywachkanmi"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "qamta p'iñakuqkunatawan"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "umanta huqarirqanku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uma"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:05.584609704Z",
+  "model": "glm-5.3"
+}

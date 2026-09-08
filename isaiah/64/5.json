@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 64:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 64,
+  "translation": "Llapaykum llaqlla hinam tukurqayku, hinaspa chiqan ruwayñiqiyku llapanqa khichki p'acha hinam; llapaykum raphi hina chinkayku, hinaspa huchaykuqa wayra hina apaykuwarqan.",
+  "tokens": [
+    {
+      "surface": "ונהי",
+      "gloss": "tukurqayku"
+    },
+    {
+      "surface": "כטמא",
+      "gloss": "llaqlla hina"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "llapayku"
+    },
+    {
+      "surface": "וכבגד",
+      "gloss": "p'acha hina"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "khichki (k'ikuy p'unchawkuna)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "צדקתינו",
+      "gloss": "chiqan ruwayñiqiyku"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "chinkayku"
+    },
+    {
+      "surface": "כעלה",
+      "gloss": "raphi hina"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "llapayku"
+    },
+    {
+      "surface": "ועוננו",
+      "gloss": "huchayku"
+    },
+    {
+      "surface": "כרוח",
+      "gloss": "wayra hina"
+    },
+    {
+      "surface": "ישאנו",
+      "gloss": "apaykuwarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:45:10.554157774Z",
+  "model": "glm-5.3"
+}

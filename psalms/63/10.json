@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Chaysi ñuqap nefesh-yta ch'usaqyachinapaq mask'anku; hallp'ap ukhunman yaykunkum.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "ch'usaqyachinapaq"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "mask'anku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap nefesh-yta"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "yaykunku"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ukhunman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:09.750557077Z",
+  "model": "glm-5.3"
+}

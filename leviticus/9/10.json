@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa ⟨את⟩ wiraqta, ⟨את⟩ rurikunatawan, ⟨את⟩ higadopa rawnanmantawan — juchapa korbanmanta — altarnin q'osan karqan, Yahwem ⟨את⟩ Mosheta kamachisqan hina.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wiraqta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "wiraqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "rurikunatawan"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "rurikunatawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "higadopa rawnanmanta"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "higadopa rawnanmanta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "higadopa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "juchapa korbanmanta"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "q'osirqan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarnin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachisqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:31.980721249Z",
+  "model": "glm-5.3"
+}

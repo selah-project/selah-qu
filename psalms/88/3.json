@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Ñuqap mañakuy qampa ñawpaqeykiman chayamunmi; rinriyikita ñuqap waqayman hinarpuway.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "chayamunmi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qampa ñawpaqeykiman"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ñuqap mañakuy"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "hinarpuway"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "rinriyikita"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ñuqap waqayman"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:52.154689062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Yahwem ⟨את⟩ runakunata unawan llakichirqan, imaraykuchus ⟨את⟩ waka wawatan rurarqanku, Aharonpa (Aarón) rurasqanta.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "unawan llakichirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "rurarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "waka wawata"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "waka wawata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurasqanta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Aarón)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:42:17.183483685Z",
+  "model": "glm-5.3"
+}

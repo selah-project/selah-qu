@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa ⟨את⟩ neziriykunata aqhawan ukyachirqankichik, naviykunapataq kamachirqankichik: ama willakunkichikchu, nispam.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "ukyachirqankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neziriykunata"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "neziriykunata"
+    },
+    {
+      "surface": "יין",
+      "gloss": "aqhawan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa...pata"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "naviykunapa"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "kamachirqankichik"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama...chu"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "willakunkichik"
+    }
+  ],
+  "timestamp": "2026-09-08T08:52:57.430787787Z",
+  "model": "glm-5.3"
+}

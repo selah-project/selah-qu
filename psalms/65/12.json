@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Allin kayniykiwan watata much'arqankim; hinaspa ñanniyki wira barzachayta para hina ch'itikunmi.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "much'arqankim (coronata hina)"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "watata"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "allin kayniykiwan"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "hinaspa ñanniyki"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "ch'itikunmi"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "wira barzachayta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:59.363764578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa paykunaman apachisaq ⟨את⟩ espadata, ⟨את⟩ yarqayta, hinaspa ⟨את⟩ unquyta, chinkakusqankama hallp'ap patanmanta, mayta ñuqa paykunaman hinaspa taytankunaman qurqanimi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "hinaspa apachisaq"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "espadata"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "espadata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yarqayta"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "yarqayta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "unquyta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "unquyta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…kama"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "chinkakusqankama"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "patanmanta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qurqani"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "hinaspa taytankunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T07:11:38.502585931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Pacha pasaspa, Amonpa wawankunam Israelawan awqanakurqanku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "pacha pasaspa"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "awqanakurqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonpa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelawan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:50:04.007377072Z",
+  "model": "glm-5.3"
+}

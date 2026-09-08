@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Manam kanqachu Mitsrayimpaq ima ruwaypas mayqen ruwananpaq — umapas chupapas, palma panapas totorapas.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqachu"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayimpaq"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ima ruwaypas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwananpaq"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umapas"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "chupapas"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "palma panapas"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "totorapas"
+    }
+  ],
+  "timestamp": "2026-09-08T06:03:59.622733859Z",
+  "model": "glm-5.3"
+}

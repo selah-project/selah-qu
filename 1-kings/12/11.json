@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Kunanqa ñuqap yayayki qamkunaman llasaq wipallata churarqan, ñuqaqtaq qamkunap wipallaykikunaman yapasaq; ñuqap yayayki ⟨את⟩ qamkunata q’aytukunawan karqarqan, ñuqaqtaq ⟨את⟩ qamkunata aqoramurukunawan karqasaq».",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunanqa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ñuqap yayayki"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "wipallata"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "llasaq"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqaqtaq"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "yapasaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "-man"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "wipallaykikunaman"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ñuqap yayayki"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "karqarqan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "q’aytukunawan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqaqtaq"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "karqasaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "aqoramurukunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:11:39.135133746Z",
+  "model": "glm-5.3"
+}

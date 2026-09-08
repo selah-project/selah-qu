@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Pichqa chunkap umalliqninta, respetasqa ñawiyuqta, amawta-yuqta, chasqa llamk'aq yachaqta, susupay-yachaqtawan.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "umalliqninta"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "pichqa chunkap"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "respetasqatawan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawiyuq"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "amawta-yuqta"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "yachaqta"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "chasqa llamk'aq"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "yachaqtawan"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "susupay"
+    }
+  ],
+  "timestamp": "2026-09-08T05:52:31.823156301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Hinaspam runanta oveja hina lluqsichirqan, qutu hina ch'usaq pampapim pusarqan.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "lluqsichirqan"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "oveja hina"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "runanta"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "pusarqan"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "qutu hina"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pampapim"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:26.687722650Z",
+  "model": "glm-5.3"
+}

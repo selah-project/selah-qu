@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Qantaqmi santu ⟨kanki⟩, Israelpa much'aykunapi tiyaq.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Qantaqmi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "much'aykunapi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:20.793407735Z",
+  "model": "glm-5.3"
+}

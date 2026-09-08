@@ -1,0 +1,98 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "isaiah 27:1",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 27,
+ "translation": "Chay p'unchawm Yahwem paypa sinch'i, hatun, kallpaq sawruwan ⟨את⟩ Liwiyatan milq'u mach'aqwayta, hinallataq ⟨את⟩ Liwiyatan q'ata-wata mach'aqwayta taripanqa; wañuchirqasaqtaq ⟨את⟩ mama quchapi kaq dragonta.",
+ "tokens": [
+  {
+   "surface": "ביום",
+   "gloss": "Chay p'unchawpi"
+  },
+  {
+   "surface": "ההוא",
+   "gloss": "chaymanta"
+  },
+  {
+   "surface": "יפקד",
+   "gloss": "taripanqa"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "בחרבו",
+   "gloss": "paypa sawruwan"
+  },
+  {
+   "surface": "הקשה",
+   "gloss": "sinch'i"
+  },
+  {
+   "surface": "והגדולה",
+   "gloss": "hatun"
+  },
+  {
+   "surface": "והחזקה",
+   "gloss": "kallpaq"
+  },
+  {
+   "surface": "על",
+   "gloss": "patapi"
+  },
+  {
+   "surface": "לויתן",
+   "gloss": "Liwiyatan"
+  },
+  {
+   "surface": "נחש",
+   "gloss": "mach'aqway"
+  },
+  {
+   "surface": "ברח",
+   "gloss": "milq'u"
+  },
+  {
+   "surface": "ועל",
+   "gloss": "hinallataq patapi"
+  },
+  {
+   "surface": "לויתן",
+   "gloss": "Liwiyatan"
+  },
+  {
+   "surface": "נחש",
+   "gloss": "mach'aqway"
+  },
+  {
+   "surface": "עקלתון",
+   "gloss": "q'ata-wata"
+  },
+  {
+   "surface": "והרג",
+   "gloss": "wañuchirqasaqtaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "dragonta"
+  },
+  {
+   "surface": "התנין",
+   "gloss": "dragonta"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kaqta"
+  },
+  {
+   "surface": "בים",
+   "gloss": "mama quchapi"
+  }
+ ],
+ "timestamp": "2026-09-08T06:08:59.010405207Z",
+ "model": "glm-5.3"
+}

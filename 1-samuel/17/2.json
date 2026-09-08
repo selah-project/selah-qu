@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 17:2",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Shaul (Saúl) hinaspa Israel runakunam huñukurqanku, Elah wayq'opi sayaysiyarqanku, Peleshtikunaman awqanakuyta ch'anqarqanku.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Shaul (Saúl)"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "runakuna hinaspa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "huñukurqanku"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "sayaysiyarqanku"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "wayq'opi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "ch'anqarqanku"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "awqanakuyta"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "Peleshtikunaman"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Peleshtikunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:16:50.771061466Z",
+  "model": "glm-5.3"
+}

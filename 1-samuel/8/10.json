@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Shemuelmi Yahwepa ⟨את⟩ tukuy shiminkunata willarqan runakunaman, paymanta ⟨את⟩ aputa mañakuq runakunaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy shiminkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "shiminkunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "mañakuqkunaman"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "paymanta ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "aputa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:05:35.151476917Z",
+  "model": "glm-5.3"
+}

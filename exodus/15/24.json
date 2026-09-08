@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Chaysi runa llonqam Moshetawan llakikuyta rimarqan, nispa: — Imataq upyasunchik?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "llakikuyta rimarqan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runa llonqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "tawan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "upyasunchik"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:05.381958424Z",
+  "model": "glm-5.3"
+}

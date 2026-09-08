@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Ñuqaykum Elohimniykuman mañakurqayku, hinaspa paykunamanta qhawaqkunatam p'unchaw, tutallata churaykurqayku, paykuna rayku.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "mañakurqayku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimniyku"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "churaykurqayku"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "qhawaqkunata"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "hinaspa tuta"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "paykuna rayku"
+    }
+  ],
+  "timestamp": "2026-09-08T12:18:50.142345164Z",
+  "model": "glm-5.3"
+}

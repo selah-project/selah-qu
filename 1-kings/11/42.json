@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 42,
+ "ref": "1-kings 11:42",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 11,
+ "translation": "Shelomopa (Salomón) Yerushalayimpi (Jerusalén) tukuy Israelpaq apukasqan p'unchawkunaqa tawa chunka watam karqan.",
+ "tokens": [
+  {
+   "surface": "והימים",
+   "gloss": "p'unchawkunaqa"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqin"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "apukasqan"
+  },
+  {
+   "surface": "שלמה",
+   "gloss": "Shelomo"
+  },
+  {
+   "surface": "בירושלם",
+   "gloss": "Yerushalayimpi"
+  },
+  {
+   "surface": "על",
+   "gloss": "paqta"
+  },
+  {
+   "surface": "כל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "ארבעים",
+   "gloss": "tawa chunka"
+  },
+  {
+   "surface": "שנה",
+   "gloss": "wata"
+  }
+ ],
+ "timestamp": "2026-09-08T05:08:40.490438867Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 54,
+  "translation": "Maytachata kamachiqman, tugukunawan, yachachiq qillqa Davidpa (Davidpa).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "maytachata kamachiqman"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "tugukunawan"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yachachiq qillqa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa (Davidpa)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:52.613699336Z",
+  "model": "glm-5.3"
+}

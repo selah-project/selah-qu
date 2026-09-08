@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Warmim kaptinqa, chaninniykiqa kimsa chunka shekelmi kanqa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kaptinqa"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "chaninniyki"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    }
+  ],
+  "timestamp": "2026-09-08T01:13:46.931624103Z",
+  "model": "glm-5.3"
+}

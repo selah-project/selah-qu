@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Elohimpa sutinta takipi yupaychasaqmi, hinallataq payta añaywan hat'alichisaq.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "yupaychasaq"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "takipi"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "hat'alichisaq"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "añaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:44.565997671Z",
+  "model": "glm-5.3"
+}

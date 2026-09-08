@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Runaypa jutinta mikhunkum, hinaspa nefeshninta jutinkunaman hatarichinku.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "jutinta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runaypa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhunkum"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ... man"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "jutinkunaman"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "hatarichinku"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshninta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:45:45.575267776Z",
+  "model": "glm-5.3"
+}

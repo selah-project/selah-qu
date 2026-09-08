@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 148,
+  "translation": "Haylliykichik payta, hanaq pachap hanaq pachankuna, hinaspa unakuna, mayqinkuna hanaq pachap hawanpi kachkan.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Haylliykichik payta"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachankuna"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "hinaspa unakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:27.699397264Z",
+  "model": "glm-5.3"
+}

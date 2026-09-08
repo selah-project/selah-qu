@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa pichqam pichqantinkichikmanta pachakmantam qatinqaku, hinaspa pachakmanta pichqantinkichikmanta waranqa waranqam qatinqaku; hinaspa awqaqkichik espadaman ñawpaqenkichikman urmakunqaku.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "hinaspa qatinqaku"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "pichqantinkichikmanta"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "pachakmantam"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "hinaspa pachakmanta"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "pichqantinkichikmanta"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "waranqa waranqa"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "qatinqaku"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "hinaspa urmakunqaku"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "awqaqkichik"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ñawpaqenkichikman"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "espadaman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:41.211994512Z",
+  "model": "glm-5.3"
+}

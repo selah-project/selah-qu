@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Paykunaqa q'umir hina utqaylla kuchusqa kanqakum, hinaspa q'umir yura hina chakinqakum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "paykunaqa"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "q'umir hina"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "utqaylla"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "kuchusqa kanqakum"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "hinaspa q'umir yura hina"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "q'umir chakruqamanta"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "chakinqakum"
+    }
+  ],
+  "timestamp": "2026-09-08T09:43:23.931460899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Yahwe, atiykiwan apu kusikunmi; qespichiynikkiwanpas imata anchata phanqarikun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "atiykiwan"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kusikun"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "qespichiynikkiwanpas"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imata"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "phanqarikun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "anchata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:00.026284795Z",
+  "model": "glm-5.3"
+}

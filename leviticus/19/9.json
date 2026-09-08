@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Qhuyuypi ⟨את⟩ hallp'aykiq qhuyusqanta, ama chakraykikta kinranta q'etunchu qhuyunki, hinaspam qhuyusqaykiq q'etunta ama pallankichikchu.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "qhuyuypi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'aykiq qhuyusqanta"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "qhuyusqanta"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "hallp'aykiq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "ama q'etunchu"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "kinran"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "chakrayki"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "qhuyuypaq"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "hinaspam q'etu"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "qhuyusqaykiq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "ama pallankichikchu"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:45.127368094Z",
+  "model": "glm-5.3"
+}

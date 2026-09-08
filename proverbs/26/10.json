@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hatun ⟨wanachaq⟩ tukuyta hina; mana yachakuqta watayuq, chaynataq ñawpaqkunata watayuq.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "wanachaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuyta"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "hinaspa watayuq"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mana yachakuqta"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "hinaspa watayuq"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ñawpaqkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:51:45.573644888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "1-samuel 4:14",
+ "book": "1-samuel",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Elim uyarqan ⟨את⟩ waqyata, hinallataq nirqan: ima kay hap'akuyqa? Chay runa utqaylla chayamurqan, Eliman willarqan.",
+ "tokens": [
+  {
+   "surface": "וישמע",
+   "gloss": "uyarqan"
+  },
+  {
+   "surface": "עלי",
+   "gloss": "Elim"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "waqyata"
+  },
+  {
+   "surface": "קול",
+   "gloss": "waqyata"
+  },
+  {
+   "surface": "הצעקה",
+   "gloss": "waqyap"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "מה",
+   "gloss": "ima"
+  },
+  {
+   "surface": "קול",
+   "gloss": "hap'akuy"
+  },
+  {
+   "surface": "ההמון",
+   "gloss": "p'ulinchikunap"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "kay"
+  },
+  {
+   "surface": "והאיש",
+   "gloss": "chay runa"
+  },
+  {
+   "surface": "מהר",
+   "gloss": "utqaylla"
+  },
+  {
+   "surface": "ויבא",
+   "gloss": "chayamurqan"
+  },
+  {
+   "surface": "ויגד",
+   "gloss": "willarqan"
+  },
+  {
+   "surface": "לעלי",
+   "gloss": "Eliman"
+  }
+ ],
+ "timestamp": "2026-09-08T04:04:21.501616214Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yoktanm ⟨את⟩ Almodadta, ⟨את⟩ Shelefta, ⟨את⟩ Hatsarmawetta, ⟨את⟩ Yerajta wacharqan.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Yoktanm"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodadta"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodadta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shelefta"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hatsarmawetta"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmawetta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yerajta"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerajta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:29:14.826028351Z",
+  "model": "glm-5.3"
+}

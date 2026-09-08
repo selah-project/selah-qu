@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 110,
+  "translation": "Davidpa mizmor. Yahwepa willakuyninmi Adonayman: Tiyaq ñuqap pañapiy, awqaynikunata chakikaykip hampiñanman churaykama.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "willakuyninmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonayman"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Tiyaq"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "ñaqap pañapiy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "churaykama"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaynikunata"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "hampiñan"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "chakikaykipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:06.537567049Z",
+  "model": "glm-5.3"
+}

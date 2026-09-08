@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Naftali (Neftalí)pa churinkunam, paqariyninkuna ayllunkunallawan, taytankunap wasinkunallawan, sutinkuna yupaywan, iskay chunka watayuqmanta hipaqtam, awqanakuyman lluqsiq llapam.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "paqariyninkuna"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayllunkunallawan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinkunallawan"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "taytankunap"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "yupaywan"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "sutinkuna"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "yuqmanta"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "hipaqtam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsiq"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "awqanakuyman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:13:05.273073294Z",
+  "model": "glm-5.3"
+}

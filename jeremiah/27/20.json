@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 27:20",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Chaykunataqa Nebukadnetsar, Babil apu, manam apakusqanku karqan, pay Yehuda apu Yehoyakimpa churin ⟨את⟩ Yekonyata Yerushalayimmanta Babilman qosqanpacha, hinaspa ⟨את⟩ tukuy Yehuda Yerushalayimpas hatun runakunata.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "chaykunataqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לקחם",
+      "gloss": "apakusqanku"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babil"
+    },
+    {
+      "surface": "בגלותו",
+      "gloss": "qosqanpacha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekonyata"
+    },
+    {
+      "surface": "יכוניה",
+      "gloss": "Yekonyata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakimpa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayimmanta"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tukuy hatun runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "hatun runakuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayimpas"
+    }
+  ],
+  "timestamp": "2026-09-08T07:19:31.844301272Z",
+  "model": "glm-5.3"
+}

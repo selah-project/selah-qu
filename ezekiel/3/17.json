@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 3:17",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Adam churi, qhawaqta churasaqkim Israel wasiman; hinaspa ñuqap simimanta simita uyariwanki, hinaspa ⟨את⟩ paykunata ñuqamanta willawanki.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "qhawaqta"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "churasaqki"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasiman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "hinaspa uyariwanki"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ñuqap simimanta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simita"
+    },
+    {
+      "surface": "והזהרת",
+      "gloss": "hinaspa willawanki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykuna — Israel wasi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T07:55:01.091917349Z",
+  "model": "glm-5.3"
+}

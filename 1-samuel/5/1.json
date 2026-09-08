@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa Plishtikuna (Filisteos) Elohimpa ⟨את⟩ sandulinta apuspa Eben-ha-Ezer (Eben-ezer) llaqtamanta Ashdod (Asdod) llaqtaman apamurqanku.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "hinaspa Plishtikuna"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "apuruspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimpa sandulinta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandulinta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "apamurqanku"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "Eben llaqtamanta"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdod llaqtaman"
+    }
+  ],
+  "timestamp": "2026-09-08T13:33:16.259203080Z",
+  "model": "glm-5.3"
+}

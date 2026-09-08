@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa Elohimpa arcan Oved Edompa wasinwan, paypa wasinpi, kimsa killa tiyarqanmi; hinaspa Yahwem ⟨את⟩ Oved Edompa wasinta, hinaspa ⟨את⟩ tukuy paypa kaqta bendiciarqan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqanmi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arcan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edompa"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "paypa wasinpi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "killa"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "bendiciarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved Edompa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edompa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tukuy paypa kaqta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paypa kaqta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:40:06.309430949Z",
+  "model": "glm-5.3"
+}

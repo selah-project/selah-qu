@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chayrayku kayhina Yahwe Tsebaotm nin: huk kutillam, asllam pay — ñuqataq ⟨את⟩ hanaq pachata, hinaspa ⟨את⟩ kay pachata, hinaspa ⟨את⟩ quchata, hinaspa ⟨את⟩ ch'aki hallp'ata thaltirachisaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huk kutilla"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "aslla"
+    },
+    {
+      "surface": "היא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "thaltirachisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanaq pacha"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kay pacha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qucha"
+    },
+    {
+      "surface": "הים",
+      "gloss": "qucha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ch'aki hallp'a"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "ch'aki hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T09:14:57.803974999Z",
+  "model": "glm-5.3"
+}

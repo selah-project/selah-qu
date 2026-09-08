@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 22,
+ "ref": "genesis 2:22",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Hinaspa Yahwe Elohimmi ⟨את⟩ runamanta hurqasqa costillata warmiman ruwarqan, hinaspa payta runaman apamurqan.",
+ "tokens": [
+  {
+   "surface": "ויבן",
+   "gloss": "ruwarqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "costillata"
+  },
+  {
+   "surface": "הצלע",
+   "gloss": "costillata"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "hurqasqa"
+  },
+  {
+   "surface": "לקח",
+   "gloss": "hurqasqa"
+  },
+  {
+   "surface": "מן",
+   "gloss": "manta"
+  },
+  {
+   "surface": "האדם",
+   "gloss": "runa"
+  },
+  {
+   "surface": "לאשה",
+   "gloss": "warmiman"
+  },
+  {
+   "surface": "ויבאה",
+   "gloss": "apamurqan"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "האדם",
+   "gloss": "runa"
+  }
+ ],
+ "timestamp": "2026-09-07T23:50:22.209714346Z",
+ "model": "glm-5.3"
+}

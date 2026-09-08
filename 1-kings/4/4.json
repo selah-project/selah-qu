@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "1-kings 4:4",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Hinaspa Yehoyadaqpa churin Benayahu awqakunap umalliqninmi karqan; Tsadoq hinaspa Evyatar kohenninkunam karqanku.",
+ "tokens": [
+  {
+   "surface": "ובניהו",
+   "gloss": "Hinaspa Benayahu"
+  },
+  {
+   "surface": "בן",
+   "gloss": "churin"
+  },
+  {
+   "surface": "יהוידע",
+   "gloss": "Yehoyadaqpa"
+  },
+  {
+   "surface": "על",
+   "gloss": "umalliqnin"
+  },
+  {
+   "surface": "הצבא",
+   "gloss": "awqakunap"
+  },
+  {
+   "surface": "וצדוק",
+   "gloss": "hinaspa Tsadoq"
+  },
+  {
+   "surface": "ואביתר",
+   "gloss": "hinaspa Evyatar"
+  },
+  {
+   "surface": "כהנים",
+   "gloss": "kohenninkuna"
+  }
+ ],
+ "timestamp": "2026-09-08T04:59:48.471967245Z",
+ "model": "glm-5.3"
+}

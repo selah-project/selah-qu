@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Qam ⟨את⟩ makiykita kichanki, hinaspataq llapa kawsaqkunaman munay hunt'achinki.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "kichanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makiykita"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "hinaspataq hunt'achinki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsaqkunaman"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "munay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:01.950287280Z",
+  "model": "glm-5.3"
+}

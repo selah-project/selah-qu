@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Ichaq aychata Nefeshninwan — yawarninwan — ama mikhunkichikchu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ichaq"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aychata"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "Nefeshninwan"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "yawarninwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhunkichikchu"
+    }
+  ],
+  "timestamp": "2026-09-08T02:02:24.783970332Z",
+  "model": "glm-5.3"
+}

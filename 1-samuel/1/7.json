@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chay hinatam wata wata ruwarqanmi; pay Yahwepa wasinman sayaq sapa kuti, chaynintam nanachirqanmi; chaysi waqarqan, manam mikhurqanchu.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "chay hinata"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwarqanmi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "wata wata"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "sapa kuti"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "sayaq"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Yahwepa wasinman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayninta"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "nanachirqanmi"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "waqarqan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mikhurqanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T04:01:53.481373818Z",
+  "model": "glm-5.3"
+}

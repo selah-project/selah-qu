@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Elohim, ñuqalla runaykimmanta ñawpaqpi lluqsiykuqtin, ch'usaq pampapi chakita surquykuqtin — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "lluqsiykuqtin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runaykimmanta"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "chakita surquykuqtin"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ch'usaq pampapi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:08.580810099Z",
+  "model": "glm-5.3"
+}

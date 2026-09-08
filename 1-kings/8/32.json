@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Qamtq hanaq pachapi uyariy, ruray, hinaspa ⟨את⟩ llamk'ayniykichikta taripay: millay runata millay nispa paypa ñanta paypa umanpi churanampaq, allin runata allin nispa payman paypa cheqnan hina quinampaq.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "qamtq"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruray"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "taripay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llamk'ayniykichikta"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "llamk'ayniykichik"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "millay nispa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "millay runa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "churanampaq"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ñanpa"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "umanpi"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "allin nispa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runa"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "quinampaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "cheqnan hina"
+    }
+  ],
+  "timestamp": "2026-09-08T05:06:21.853240219Z",
+  "model": "glm-5.3"
+}

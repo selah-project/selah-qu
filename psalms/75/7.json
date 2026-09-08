@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 75,
+  "translation": "Imaraykuchus hanaq kayqa manam anti inti lluqsimuymantachu, manataq inti chinkaymantachu, manataq ch'usak pampamantachu hamun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "anti inti lluqsimuymantachu"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "inti chinkaymantachu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ch'usak pampamantachu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "hanaq kay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:27.588154140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Imaraykuchus paykunap chakninku mana allinmanmi p'itkachkanku, yawarta mast'ariymanpas utqhaylla kachkanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "paykunap chakninku"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "mana allinman"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "p'itkachkanku"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "utqhaylla kachkanku"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "mast'ariyman"
+    },
+    {
+      "surface": "דם",
+      "gloss": "yawar"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:43.640602124Z",
+  "model": "glm-5.3"
+}

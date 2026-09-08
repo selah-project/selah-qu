@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 130,
+  "translation": "Suyakunim Yahweta, suyakun nefeshniy, hinaspa paypa siminmanta suyakuni.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "suyakunim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "suyakun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "hinaspa paypa siminmanta"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "suyakuni"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:05.969219975Z",
+  "model": "glm-5.3"
+}

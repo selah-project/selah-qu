@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "genesis 3:9",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 3,
+ "translation": "Hinaspa Yahwe Elohim runata qayarqan, payman nispataq nirqan: ¿Maypi kanki?",
+ "tokens": [
+  {
+   "surface": "ויקרא",
+   "gloss": "qayarqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "האדם",
+   "gloss": "runata"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "לו",
+   "gloss": "payman"
+  },
+  {
+   "surface": "איכה",
+   "gloss": "¿Maypi (kanki)?"
+  }
+ ],
+ "timestamp": "2026-09-07T23:49:33.466489365Z",
+ "model": "glm-5.3"
+}

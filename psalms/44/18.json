@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Tukuy kaymi ñuqaykuntam chayamurqan, ichataq mana qamta paskirqaykuchu, mana Beritniykiwan (pacto) llullarqaykuchu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "ñuqaykuntam chayamurqan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichataq mana"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "qamta paskirqaykuchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "llullarqaykuchu"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "Beritniykiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:35.792370480Z",
+  "model": "glm-5.3"
+}

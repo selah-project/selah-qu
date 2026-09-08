@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa sapa runa kikin awqanta llallirqan; hinaspa Aram (Siria) ayqirqanmi, hinaspa Israel paykunata qatirqan; hinaspa Ben Hadad (Benadad), Arampa apun, huk kavallupi kavallu-warmi awqakunawanñataq hark'akuspa ayqirqan.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "hinaspa ... llallirqan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "kikin awqanta"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "hinaspa ayqirqanmi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "hinaspa qatirqan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel paykunata"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "hinaspa hark'akuspa ayqirqan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arampa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "huk kavallu"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "kavallu-warmi awqakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T05:16:46.496447325Z",
+  "model": "glm-5.3"
+}

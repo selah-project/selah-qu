@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Israelpa wawanakuna hamuqkunap chawpinpim hamurqanku mikhuyta rantinanpaq, imaraykuchus Kenaan (Canaán) hallp'apim yarqaym karqan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "hamurqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawanakuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "mikhuyta rantinanpaq"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "hamuqkunap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqa"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "yarqay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:00.137594686Z",
+  "model": "glm-5.3"
+}

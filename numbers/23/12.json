@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Kutirqan nispa: ¿Manachu ⟨את⟩ imata Yahwe simiypi churan, ⟨את⟩ chayta waqaychaspa rimasaq?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kutirqan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata (Yahwepa simiypi churasqanta)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "churan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "simiypi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chayta (waqaychaspa rimasqayta)"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "waqaychaspa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:40:20.158534616Z",
+  "model": "glm-5.3"
+}

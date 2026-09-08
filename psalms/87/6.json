@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 87,
+  "translation": "Yahwem yupachinqa, runa llaqtakunata qillqaspa: kay runa chaypi paqarirqanmi. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "yupachinqa"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "qillqaspa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runa llaqtakunata"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay runa"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:20.791341656Z",
+  "model": "glm-5.3"
+}

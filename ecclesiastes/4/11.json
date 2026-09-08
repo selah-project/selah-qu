@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaynataqmi sichus iskaynin kuskalla puñukunku, q'uñitaq kan paykunaman; hukllapaqtaq, imaynataq q'uñikunqa?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "chaynataqmi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "puñukunku"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iskaynin"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "q'uñitaq"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "hukllapaqtaq"
+    },
+    {
+      "surface": "איך",
+      "gloss": "imaynataq"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "q'uñikunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:42.560534316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 13:4",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa Aviyaj Saymarayim orqopi sayarirqanm, Efrayim orqopim, hinaspa nirqanm: Uyariykuway, Yaravam, tukuy Israelpas.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqanm"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviyaj"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "להר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "צמרים",
+      "gloss": "Saymarayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypichus"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqopim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqanm"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Uyariykuway"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa tukuy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpas"
+    }
+  ],
+  "timestamp": "2026-09-08T13:05:06.749259952Z",
+  "model": "glm-5.3"
+}

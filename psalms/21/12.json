@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Imaraykuchus paykuna qamta millaywan k'askaykurqanku, huk millay yuyayta yuyarqanku, mana atinkuchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "k'askaykurqanku"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "millaywan"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "yuyarqanku"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "huk millay yuyayta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "atinkuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:39.629129080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Sichus puñunaypi qamta yuyarini, tuta waqaychaqkunanpipas qamta sunquwan ñawinchaykuni.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "qamta yuyarini"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "puñunay"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "tuta waqaychaqkunanpipas"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "sunquwan ñawinchaykuni"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qamta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:28.975339402Z",
+  "model": "glm-5.3"
+}

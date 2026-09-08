@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 5:10",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Malkata apup rimasqanmanta, hatun runankunapipas willakuyninmanta mishitary wasiman chayarqanmi. Malkatan kutichirqan: Apu, qam wiñaymi kawsaylla. Ama yuyaykikuna qamta manchachichunchu, ama iñawaykiki tikrachunchu.",
+  "tokens": [
+    {
+      "surface": "מלכתא",
+      "gloss": "malkata"
+    },
+    {
+      "surface": "לקבל",
+      "gloss": "raykun"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "rimasqanmanta"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "apup"
+    },
+    {
+      "surface": "ורברבנוהי",
+      "gloss": "hatun runankunapipas"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasiman"
+    },
+    {
+      "surface": "משתיא",
+      "gloss": "mishitary"
+    },
+    {
+      "surface": "עללת",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "ענת",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "מלכתא",
+      "gloss": "malkatan"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "nin"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "apu"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kawsaylla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama … chu"
+    },
+    {
+      "surface": "יבהלוך",
+      "gloss": "manchachichun"
+    },
+    {
+      "surface": "רעיונך",
+      "gloss": "yuyaykikuna"
+    },
+    {
+      "surface": "וזיויך",
+      "gloss": "iñawaykiki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama … chu"
+    },
+    {
+      "surface": "ישתנו",
+      "gloss": "tikrachunchu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:57:11.885139230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 27:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Itsjakmi (Isaac) wawqesqa karqan, ñawinkunaqam qhawayta wisq'akurqan; chaysi Itsjak ⟨את⟩ Esawta (Esaú), hatun churinta, qayarqan; nirqan: Churiy. Payqa nirqan: Kaypim kani.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chay"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wawqesqa"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjak"
+    },
+    {
+      "surface": "ותכהין",
+      "gloss": "wisq'akurqanku"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ñawinkuna"
+    },
+    {
+      "surface": "מראת",
+      "gloss": "qhawaymanta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "qayarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esawta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churin"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kaypi kani"
+    }
+  ],
+  "timestamp": "2026-09-08T00:02:41.527721793Z",
+  "model": "glm-5.3"
+}

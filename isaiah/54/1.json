@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 54:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 54,
+  "translation": "Ranumuy, usqhusqa, manaraq wachaq; k'ajachiy ranuta, sach'ariy, manaraq nanaspa wachakusqa — askhammi ch'usaq warmi wawankuna, wata kasqa warmi wawanmanta aswanmi, Yahwem nirqan.",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "ranumuy"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "usqhusqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wachaq"
+    },
+    {
+      "surface": "פצחי",
+      "gloss": "k'ajachiy"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ranuta"
+    },
+    {
+      "surface": "וצהלי",
+      "gloss": "sach'ariy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "nanaspa wachakusqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askham"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "שוממה",
+      "gloss": "ch'usaq warmi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "wawanmanta"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "wata kasqa warmi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T06:37:31.586982869Z",
+  "model": "glm-5.3"
+}

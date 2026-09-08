@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hinaspa waqaychankichik ⟨את⟩ qollqepa waqaykachayta, hinaspa ⟨את⟩ altelpa waqaykachayta; chaymanta manañachu Israelpa churinkunapatan ch'akiy kanqa.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "waqaychankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishmerta — waqaykachayta"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "waqaykachayta"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qollqepa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "mishmerta — waqaykachayta"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "waqaykachayta"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altelpa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manañachu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ch'akiy"
+    },
+    {
+      "surface": "על",
+      "gloss": "paykunapatan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T01:34:22.946426457Z",
+  "model": "glm-5.3"
+}

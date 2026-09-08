@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Rinriwan uyarispa qamta uyarirqanimi, icha kunan ñawiy qamta rikunmi.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "uyarispa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "rinriwan"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "qamta uyarirqanimi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "icha kunan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiy"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "qamta rikunmi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:22:58.164084637Z",
+  "model": "glm-5.3"
+}

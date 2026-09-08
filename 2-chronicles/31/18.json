@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 31:18",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Hinallataqm ayllu-qillqakuykurqanku llapan wawankunawan, warminkunawan, churinkunawan, usinkunawan, llapan ayllu-masintinpaq; imaraykuchus iñikuyninwanmi santakuna kasqankurqan.",
+  "tokens": [
+    {
+      "surface": "ולהתיחש",
+      "gloss": "ayllu-qillqakuykurqanku"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "warminkuna"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "usinkuna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ayllu-masintin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "באמונתם",
+      "gloss": "iñikuyninwan"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "santakuna kasqanku"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:18:47.171596582Z",
+  "model": "glm-5.3"
+}

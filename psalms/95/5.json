@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 95,
+  "translation": "Mayqinpa: qucham paypa, paymi rurarqan; ch'aki hallp'ataq paypa makinkunam t'ikrarqanku.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mayqinpa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "qucha"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "paytaq"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "paymi rurarqan"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "ch'aki hallp'a"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "paypa makinkuna"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "t'ikrarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:57.440541619Z",
+  "model": "glm-5.3"
+}

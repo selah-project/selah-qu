@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Nefeshniy hallp'aman chapaqmi; rimayniykimanta kawsarichimuy.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "chapaqmi"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "kawsarichimuy"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "rimayniykimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:29.973406164Z",
+  "model": "glm-5.3"
+}

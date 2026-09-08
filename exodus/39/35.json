@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "⟨את⟩ Aranta testimonio, hinaspa ⟨את⟩ sirwinkunanta, hinaspa ⟨את⟩ Kaporetta (perdonata kachaq tiyana).",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aranta"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Aranta"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "testimonio"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sirwinkunanta"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sirwinkunanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kaporetta"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporetta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:49.611202993Z",
+  "model": "glm-5.3"
+}

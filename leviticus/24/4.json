@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Q'immer qhapaq k'anchay-sayawanpi ⟨את⟩ nerkunata Yahwep ñawpaqninpi wiñaymanta ñawpaqchannga.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "k'anchay-sayawanpi"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "Q'immer qhapaq"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ñawpaqchannga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nerkunata"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "nerkunata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñaymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:27.703306301Z",
+  "model": "glm-5.3"
+}

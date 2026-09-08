@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Yachanankupaqmi sina qam Sutiykiqa Yahwem, qamllataqmi tukuy hallp'ap hanan kaq kasqayki.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Yachanankupaqmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiyki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "qamllataq"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "hanan kaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:22.000181489Z",
+  "model": "glm-5.3"
+}

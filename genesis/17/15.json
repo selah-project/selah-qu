@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "genesis 17:15",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 17,
+ "translation": "Hinaspa Elohimmi Abrahamta nirqan: Saray, warmiyki, ⟨את⟩ sutinta mana Saray ninki; Saray sutintaqa tikrarqunki, Sarahtam sutin.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "אל",
+   "gloss": "–"
+  },
+  {
+   "surface": "אברהם",
+   "gloss": "Abrahamta"
+  },
+  {
+   "surface": "שרי",
+   "gloss": "Saray"
+  },
+  {
+   "surface": "אשתך",
+   "gloss": "warmiyki"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "תקרא",
+   "gloss": "ninki"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "sutinta"
+  },
+  {
+   "surface": "שמה",
+   "gloss": "sutinta"
+  },
+  {
+   "surface": "שרי",
+   "gloss": "Saray"
+  },
+  {
+   "surface": "כי",
+   "gloss": "sutiqa"
+  },
+  {
+   "surface": "שרה",
+   "gloss": "Sarah"
+  },
+  {
+   "surface": "שמה",
+   "gloss": "sutin"
+  }
+ ],
+ "timestamp": "2026-09-07T23:57:11.879472657Z",
+ "model": "glm-5.3"
+}

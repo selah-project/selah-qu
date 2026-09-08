@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Kimsa ñiqin watapim Yehoshafat (Josafat), Yehudapa apun, Israelpa apunman uraykamurqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "watapi"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "kimsa ñiqin"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "uraykamurqan"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:41:56.683489871Z",
+  "model": "glm-5.3"
+}

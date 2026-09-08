@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Erqusqa dioskunatam mana ruwankichu qampaq.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "erqusqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwankichu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:19.249427185Z",
+  "model": "glm-5.3"
+}

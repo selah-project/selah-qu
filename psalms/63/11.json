@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Chiqap-tsuqriykunawan qhipaman t'ikraqankum, atuqkunap mikunanmi kanqaku.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "t'ikraqanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "chiqap-"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "tsuqriykunawan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tsuqri"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "mikunan"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "atuqkunap"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:09.750676220Z",
+  "model": "glm-5.3"
+}

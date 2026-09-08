@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Nikiykimanmi shofarta churay; k'illuspa hina Yahwepa wasinpa patapi hamun, imaraykuchus beritniyta llal'irqanku, Toraymanpas ankallikurqanku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "nikiykiman"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "shofarta"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "k'illuspa hina"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "llal'irqankumi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beritniyta"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa ... patapi"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torayta"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ankallikurqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:11.047159955Z",
+  "model": "glm-5.3"
+}

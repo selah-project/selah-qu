@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yarden ⟨את⟩ chayarqasaqchikmi, hallp'api tiyankichik mayqintataq Yahwe Elohimnikichik ⟨את⟩ qamkunaman rakininta churanqa, hinaspa qamkunata llapan muyuriq awqaykichikmanta samachinqa, chaytaq amachasqapi tiyankichik.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "chayarqasaqchik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yardenta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "tiyankichik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqintataq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimnikichik"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "rakininta churanqa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunaman"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "hinaspa samachinqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunata"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapan manta"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "awqaykichik"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "muyuriq"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "tiyankichik"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "amachasqapi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:41:50.898135587Z",
+  "model": "glm-5.3"
+}

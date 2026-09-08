@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Qayllakurqankum, hinaspam kuto inkunapi aparqanku awqakunap kitin hawaman, hina imayna Moshe (Moisés) nirqan.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "qayllakurqanku"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "aparqanku"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "kuto inkunapi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hawaman"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "awqakunap kitin"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina imayna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:44.935843879Z",
+  "model": "glm-5.3"
+}

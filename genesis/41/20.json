@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "genesis 41:20",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 41,
+ "translation": "Chay llasayuq mana kaptin hina, mana allin wakakunaqa ⟨את⟩ ñawpaq qanchis mirusqa wakakunata mikhurqanku.",
+ "tokens": [
+  {
+   "surface": "ותאכלנה",
+   "gloss": "mikhurqanku"
+  },
+  {
+   "surface": "הפרות",
+   "gloss": "wakakunaqa"
+  },
+  {
+   "surface": "הרקות",
+   "gloss": "llasayuq mana kaptin hina"
+  },
+  {
+   "surface": "והרעות",
+   "gloss": "mana allin"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "qanchis mirusqa wakakunata"
+  },
+  {
+   "surface": "שבע",
+   "gloss": "qanchis"
+  },
+  {
+   "surface": "הפרות",
+   "gloss": "wakakunata"
+  },
+  {
+   "surface": "הראשנות",
+   "gloss": "ñawpaq"
+  },
+  {
+   "surface": "הבריאת",
+   "gloss": "mirusqa"
+  }
+ ],
+ "timestamp": "2026-09-08T00:11:44.043329647Z",
+ "model": "glm-5.3"
+}

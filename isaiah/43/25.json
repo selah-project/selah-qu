@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Ñuqam, ñuqallam pay ⟨kan⟩, pichasqayki willakusqaykikunata, ñuqap raykullapaqmi; hinaspa huchhaykikunataqa manam yuyasaqchu.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "pichasaq"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "willakusqaykikunata"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "ñuqap raykullapaq"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "hinaspa huchhaykikunataqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "yuyasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:27:13.365684353Z",
+  "model": "glm-5.3"
+}

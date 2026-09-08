@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Elohim, ñuqaykupa rinranchikkunallawanmi uyariyku; ñuqaykupa taytakunam willawarqanku imata rurayta rurasqayki kikin p'unchawkunapi, ñawpa pachapipas.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ñuqaykupa rinranchikkunallawan"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "uyariyku"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ñuqaykupa taytakuna"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "willawarqanku"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykuman"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "imata rurayta"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "rurasqayki"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "kikin p'unchawkunapi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ñawpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:28.917983659Z",
+  "model": "glm-5.3"
+}

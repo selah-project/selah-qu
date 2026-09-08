@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "psalms 137:1",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 137,
+ "translation": "Bavel mayukunap patapi chaypi tiyarqaykumi, ⟨את⟩ Tsiyonta yuyariykuqtinqa waqarqaykutpis.",
+ "tokens": [
+  {
+   "surface": "על",
+   "gloss": "patapi"
+  },
+  {
+   "surface": "נהרות",
+   "gloss": "mayukuna"
+  },
+  {
+   "surface": "בבל",
+   "gloss": "Bavel"
+  },
+  {
+   "surface": "שם",
+   "gloss": "chaypi"
+  },
+  {
+   "surface": "ישבנו",
+   "gloss": "tiyarqayku"
+  },
+  {
+   "surface": "גם",
+   "gloss": "pis"
+  },
+  {
+   "surface": "בכינו",
+   "gloss": "waqarqayku"
+  },
+  {
+   "surface": "בזכרנו",
+   "gloss": "yuyariykuqtin"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Tsiyonta"
+  },
+  {
+   "surface": "ציון",
+   "gloss": "Tsiyon"
+  }
+ ],
+ "timestamp": "2026-09-08T10:30:02.677235417Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Llapan sunquywan maskharaqkiku ⟨qamta⟩; ama kamachiykunaqmanta pantawachuwankichu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "llapanwan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquywan"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "maskharaqkiku qamta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "pantawachuwanki"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "kamachiykunaqmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:55.204240783Z",
+  "model": "glm-5.3"
+}

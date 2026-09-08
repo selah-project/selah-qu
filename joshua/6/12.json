@@ -1,0 +1,46 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "joshua 6:12",
+ "book": "joshua",
+ "lang": "qu",
+ "chapter": 6,
+ "translation": "Hinaspa Yehoshuas tutamanta sayarirqanmi; kohenkunataqsi Yahwepa ⟨את⟩ Arkanta hap'irqanku.",
+ "tokens": [
+  {
+   "surface": "וישכם",
+   "gloss": "tutamanta sayarirqan"
+  },
+  {
+   "surface": "יהושע",
+   "gloss": "Yehoshuas"
+  },
+  {
+   "surface": "בבקר",
+   "gloss": "tutamanta"
+  },
+  {
+   "surface": "וישאו",
+   "gloss": "hap'irqanku"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "kohenkunataq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahwepa Arkanta"
+  },
+  {
+   "surface": "ארון",
+   "gloss": "Arkan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  }
+ ],
+ "timestamp": "2026-09-08T03:11:12.937801298Z",
+ "model": "glm-5.3"
+}

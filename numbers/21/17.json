@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chay pacham Israel ⟨את⟩ kay takita takirqan: «Wichariy, puqu; takichik payta».",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Chay pacha"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "takirqan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay takita"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "taki"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Wichariy"
+    },
+    {
+      "surface": "באר",
+      "gloss": "puqu"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "takichik"
+    },
+    {
+      "surface": "לה",
+      "gloss": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:35:37.003307334Z",
+  "model": "glm-5.3"
+}

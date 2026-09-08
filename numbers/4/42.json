@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa Meraripa wawakunap ayllunkunap yupasqankuna, ayllunkunnintin, taytankunap wasinkunnintin.",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Hinaspa yupasqankuna"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllunkunap"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakunap"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Meraripa"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayllunkunnintin"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinkunnintin"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "taytankunap"
+    }
+  ],
+  "timestamp": "2026-09-08T01:16:33.609213715Z",
+  "model": "glm-5.3"
+}

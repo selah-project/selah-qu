@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 15:12",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Sichus qhari masiyki, Ivri qari utaq Ivri warmi, qamman ranqhasqa kanman hinaspa suqta wata qamta llamk'anqa; qanchis kaq watapitaq qispi kachariy payta qampamanta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ranqhasqa kanman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qhari masiyki"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "Ivri qari"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "העבריה",
+      "gloss": "Ivri warmi"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "llamk'anqa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ובשנה",
+      "gloss": "hinaspa watapi"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "qanchis kaq"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "kachariy payta"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "qispi"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "qampamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:43:04.484593229Z",
+  "model": "glm-5.3"
+}

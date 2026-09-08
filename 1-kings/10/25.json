@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 10:25",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Paykunam sapa runa minchan apamunku: qullqi vasijakunata, qori vasijakunatawan, p'achakunata, armakunatawan, q'apachakunatawan, kawallukunata, mulakunatawan — sapa wata, wata watapi.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "paykunam"
+    },
+    {
+      "surface": "מבאים",
+      "gloss": "apamunku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "minchan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vasijakuna"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "hinaspa vasijakuna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qori"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "p'achakuna"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "armakuna"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "q'apachakuna"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kawallukuna"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "mulakuna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "wata watapi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:11:20.312036318Z",
+  "model": "glm-5.3"
+}

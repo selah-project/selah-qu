@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Paykunap kurakankunata Oreb hinaman, Zeeb hinaman churay; Zebah hinaman, Tsalmunna hinamanpas llapan umalliqninkunata.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "churay"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "kurakankunata"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "Oreb hinaman"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "Zeeb hinaman"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "Zebah hinaman"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "Tsalmunna hinamanpas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "umalliqninkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:17.573179145Z",
+  "model": "glm-5.3"
+}

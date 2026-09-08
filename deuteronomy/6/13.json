@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yahweta, Elohimniykita manch'akunki, hinaspa ⟨את⟩ payta qimunki, hinaspa Sutinwanmi juranki.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "manch'akunki"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "hinaspa ⟨את⟩ payta",
+      "marks": "qimunki (payta)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "qimunki"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "hinaspa Sutinwan"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "juranki"
+    }
+  ],
+  "timestamp": "2026-09-08T02:32:32.665366692Z",
+  "model": "glm-5.3"
+}

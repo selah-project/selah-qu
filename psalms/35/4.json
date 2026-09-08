@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Ch'akichikuchun hinaspa p'inqakuchun ñuqap nefesh maskaqkuna; qhipaman kutipuchun hinaspa huyuchikuchun ñuqap llakichiyta yuyaqkuna.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ch'akichikuchun"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "hinaspa p'inqakuchun"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "maskaqkuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap nefesh"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "kutipuchun"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "qhipaman"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "hinaspa huyuchikuchun"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "yuyaqkuna"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ñuqap llakichiy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:54.757443763Z",
+  "model": "glm-5.3"
+}

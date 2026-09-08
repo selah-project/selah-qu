@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yanam kani, icha sumaqmi, Yerushalayim (Jerusalén)pa warmi wawakuna; Kedarpa wasichakunahina, Shelomo (Salomón)pa p'acha-waskakunahina.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "yana"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kani"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "icha sumaqmi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "warmi wawakuna"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "wasichakunahina"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "p'acha-waskakunahina"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-08T14:23:53.095094008Z",
+  "model": "glm-5.3"
+}

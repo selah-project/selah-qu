@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa taytanta utaq mamanta takaykuq runaqa wañuchisqam kanqa.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "hinaspa takaykuq runaqa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanta"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "utaq mamanta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuchisqa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:53.547650278Z",
+  "model": "glm-5.3"
+}

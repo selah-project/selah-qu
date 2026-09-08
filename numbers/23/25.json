@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Balakm Bilamman nirqan: «Ampas mana saqrata rimankichu paymanta, ampas mana bendinikichu payta».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ampas"
+    },
+    {
+      "surface": "קב",
+      "gloss": "saqrata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "rimankichu paymanta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ampas"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "bendi-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "bendinikichu payta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:09:53.548656896Z",
+  "model": "glm-5.3"
+}

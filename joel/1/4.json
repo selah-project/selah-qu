@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Gazampa saqisqantan arbeh mikurqanmi, arbehtaq saqisqantan yeleq mikurqanmi, yeleqtaq saqisqantan chasil mikurqanmi.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "saqisqanta"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "gazampa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikurqanmi"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "arbehtaq saqisqanta"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikurqanmi"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yeleq"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "yeleqtaq saqisqanta"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yeleq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikurqanmi"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "chasil"
+    }
+  ],
+  "timestamp": "2026-09-08T08:54:42.238302684Z",
+  "model": "glm-5.3"
+}

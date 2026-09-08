@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Sichus thaqwasqata thaqwasqa kaptinqa, thaqwasqata wityu hina apamunqa; thaqwasqapaqqa pagankachunñachu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus...kaptinqa"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "thaqwasqata"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "thaqwasqa"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "apamunqa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wityu hina"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "thaqwasqata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ñachu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "pagankachun"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:29.814977179Z",
+  "model": "glm-5.3"
+}

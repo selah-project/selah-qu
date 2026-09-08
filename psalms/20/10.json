@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Yahwe, qispichiy; apu kutichiwanchikyku qayakusqaykup p'unchawpi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "kutichiwanchikyku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "qayakusqayku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:18.281674405Z",
+  "model": "glm-5.3"
+}

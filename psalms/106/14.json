@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Ch'akipi munarqanku askha munayta, hinaspa Elta wallparqanku ch'akipi.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "munarqanku"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "askha munayta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'akipi"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "hinaspa wallparqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elta"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ch'akipi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:37.949776785Z",
+  "model": "glm-5.3"
+}

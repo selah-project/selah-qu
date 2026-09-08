@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Hinallataq kamachirqan ⟨את⟩ iskay ñiqinta, hinallataq ⟨את⟩ kimsa ñiqinta, hinallataq ⟨את⟩ llapan micha huñukuna qhipanpi puriqkunata, nispa: Kay siminallata rimankichik Esavman, ⟨את⟩ payta taripaspaqtinchi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "hinallataq kamachirqan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iskay ñiqinta"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay ñiqinta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimsa ñiqinta"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "kimsa ñiqinta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapanta puriqkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "puriqkunata"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipanpi"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "micha huñukuna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kay simi hina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "rimankichik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavman"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "payta taripaspaqtinchi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:07:33.075027859Z",
+  "model": "glm-5.3"
+}

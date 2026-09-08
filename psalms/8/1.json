@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Kamachiqman, Gittithpi, Davidpa mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kamachiqman"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:28.844879820Z",
+  "model": "glm-5.3"
+}

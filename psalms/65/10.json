@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Qhawamuyta munaspa kay pachaman chayarqankim, hinaspa unowan hunt'arqanki; askhata walichirqanki. Elohimpa jawillunm unuwan hunt'am. Sarata allichirqanki, chaynallaraqmi chay pachata allichirqanki.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "qhawamuyta munaspa chayarqankim"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pachaman"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "hinaspa unowan hunt'arqanki"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "askhata"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "walichirqanki"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "jawillun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'am"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unuwan"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "allichirqanki"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "sarata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynallaraqmi"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "chay pachata allichirqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:59.363529568Z",
+  "model": "glm-5.3"
+}

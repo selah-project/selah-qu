@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Willka kaqniykita milluyarqankim, hinaspa ⟨את⟩ Shabatniykita milluchirqankim.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "willka kaqniykita"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "milluyarqanki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shabatniykita"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabatniykita"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "milluchirqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T08:13:14.309407372Z",
+  "model": "glm-5.3"
+}

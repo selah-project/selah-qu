@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Ama wakcha runata suwaychu, wakcha kasqanrayku; hinallataq ama punkupi llamañaqta t'aqllaychu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "suwaychu"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wakcha runata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanrayku"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨pay⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinallataq ama"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "t'aqllaychu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "llamañaqta"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "punkupi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:48:49.923941873Z",
+  "model": "glm-5.3"
+}

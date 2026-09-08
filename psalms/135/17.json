@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Rinrikuna ⟨kan⟩mi paykunap, icha manam uyankuchu; hinallataq manam sami ⟨kan⟩ siminpi.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "rinrikuna"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha mana"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "uyankuchu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sami"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "siminpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:29.282034539Z",
+  "model": "glm-5.3"
+}

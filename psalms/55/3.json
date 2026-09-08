@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Qawaychaway ñuqata, hinaspa kutichiwachay; llakikuni yuyayniiwan, hinaspa waqaykachanim.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Qawaychaway"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "hinaspa kutichiwachay"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "llakikuni"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "yuyayniiwan"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "hinaspa waqaykachanim"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:43.891312300Z",
+  "model": "glm-5.3"
+}

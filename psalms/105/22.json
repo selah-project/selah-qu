@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Sapankunata munayninwan watananpaq, kurakunatawan yachayman churananpaq.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "watananpaq"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sapankunata"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "munayninwan"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "kurakunatawan"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "yachayman churananpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:47.448491336Z",
+  "model": "glm-5.3"
+}

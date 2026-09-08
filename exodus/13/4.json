@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Kay p'unchawmi Aviv killapi lluqsinkichik.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "lluqsinkichik"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "killapi"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:32.427729186Z",
+  "model": "glm-5.3"
+}

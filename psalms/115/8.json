@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 115,
+  "translation": "Chayhina tukunqakum ruraqninkuna; llapanpas chaykunapi suyakuqkuna.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "tukunqakum"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ruraqninkuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanpas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בטח",
+      "gloss": "suyakuqkuna"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaykunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:54.275487280Z",
+  "model": "glm-5.3"
+}

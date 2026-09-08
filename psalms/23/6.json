@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Chiqapmi allin kaywan jesedwan ñuqata qatinqaku kawsay p'unchawykunapi llapanpi; hinaspam Yahwepa wasinpi tiyasaq unay p'unchawkunakama.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chiqapmi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin kay"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "jesedwan"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "ñuqata qatinqaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanpi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawykunapi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kawsay"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "tiyasaq"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "unay"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkunakama"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:44.891600368Z",
+  "model": "glm-5.3"
+}

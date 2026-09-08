@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Llapa ima mana aetayuq, mana chaska yawriyuq unu ukhpi kaqtaqa — payqa millaymi qamkunapaq.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima kaq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pay"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "aeta"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "hinaspa chaska yawri"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unu ukhpi"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "millay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:26.785687022Z",
+  "model": "glm-5.3"
+}

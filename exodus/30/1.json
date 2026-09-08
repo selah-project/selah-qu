@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Hinaspa q'urpana altarta ruwanki, q'urpa altarninta; shitim sach'akunamantam ⟨את⟩ chayta ruwanki.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Hinaspa ruwanki"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "q'urpana"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "q'urpa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'akuna"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chayta",
+      "marks": "chayta (altar)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:40:33.652075734Z",
+  "model": "glm-5.3"
+}

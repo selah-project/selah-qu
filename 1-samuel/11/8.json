@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chaykunata Bezekpi yuparqanmi: Israelpa wawankuna kimsa pachak waranqa karqan, Yehudap runankunaqtaq kimsa chunka waranqa karqan.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "yuparqan"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekpi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "runankuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:34:18.131804661Z",
+  "model": "glm-5.3"
+}

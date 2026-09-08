@@ -1,0 +1,54 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "1-samuel 16:14",
+ "book": "1-samuel",
+ "lang": "qu",
+ "chapter": 16,
+ "translation": "Chaysi Yahwepa ruhuynin Shaulmantan (Saúlmanta) karuman t'ikrarqan, hinaspa Yahwemanta ⟨את⟩ huk mana allin ruhuynin payta mancharichirqan.",
+ "tokens": [
+  {
+   "surface": "ורוח",
+   "gloss": "ruhuynin"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "סרה",
+   "gloss": "karuman t'ikrarqan"
+  },
+  {
+   "surface": "מעם",
+   "gloss": "manta"
+  },
+  {
+   "surface": "שאול",
+   "gloss": "Shaulmanta"
+  },
+  {
+   "surface": "ובעתתו",
+   "gloss": "mancharichirqan"
+  },
+  {
+   "surface": "רוח",
+   "gloss": "ruhuy"
+  },
+  {
+   "surface": "רעה",
+   "gloss": "mana allin"
+  },
+  {
+   "surface": "מאת",
+   "gloss": "Yahwemanta ⟨את⟩",
+   "marks": "mana allin ruhuyninta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  }
+ ],
+ "timestamp": "2026-09-08T04:15:06.414577266Z",
+ "model": "glm-5.3"
+}

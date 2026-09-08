@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Israelmi khuyarqan ⟨את⟩ Yosefta tukuy churinkunamanta aswan, imaraykuchus paymi karqan kuraq kayninpi paqarisqa churi; churinpaqta ruwarqan pasi kutunta.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "khuyarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefta"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "tukuy…manta aswan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunamanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "kuraq kayninpi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kutun"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "pasi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:09:40.200643460Z",
+  "model": "glm-5.3"
+}

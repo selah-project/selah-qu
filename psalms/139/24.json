@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Hinaspa qhaway, sichus llakiy ñan kachkan ñuqapi; hinaspa pusaway wiñay ñanpi.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "hinaspa qhaway"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "llakiy"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqapi"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "hinaspa pusaway"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:17.028069974Z",
+  "model": "glm-5.3"
+}

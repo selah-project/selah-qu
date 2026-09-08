@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Lliwduraman, Davidpa. Yalm sonqonpi nirqan: «Elohim manam kanchu». Llut'arqankum, millay ruwayninkunata ruwarqanku; allin ruwaq manam kanchu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Lliwduraman"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "yal"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sonqonpi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "llut'arqankum"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "millay ruwayninkunata ruwarqanku"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ruwayninkunata"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:55.475855135Z",
+  "model": "glm-5.3"
+}

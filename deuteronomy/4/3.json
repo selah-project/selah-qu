@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 4:3",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Ñawiykikunam rikunku ⟨את⟩ imata rurarqan Yahwe Baal Peorpi: tukuy runata, mayqin Baal Peorta qatin, Yahwe Elohimniyki illachirqanmi qampa chawpinmanta.",
+  "tokens": [
+    {
+      "surface": "עיניכם",
+      "gloss": "ñawiykikuna"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "rikunku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa rurasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peorpi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "qatin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qatilla"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peorta"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "illachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "qampa chawpinmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:32:18.576677475Z",
+  "model": "glm-5.3"
+}

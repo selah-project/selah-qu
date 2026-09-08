@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 2:13",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Iskay ñiqin p'unchawpim lluqsurqan, hinasqa rikurqan iskay Ibri runakuna maqanakuspa; mana allin ruwaqman nirqan: imarayku masniykita makanki?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsurqan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "hinasqa rikurqan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "Ibri"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "maqanakuspa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "mana allin ruwaqman"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "makanki"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "masniykita"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:56.773957049Z",
+  "model": "glm-5.3"
+}

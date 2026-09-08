@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinaspa taripa kamachiypa sonqoman, taripa kamachiq tiyaqman, atiypaqtaq awqakunata punkuman kutichiqkunaman.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "hinaspa sonqoman"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "taripa kamachiy"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "tiyaqman"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "taripa kamachiy"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "hinaspa atiypaqtaq"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "kutichiqkuna"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "awqakunata"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "punkuman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:08:51.540127445Z",
+  "model": "glm-5.3"
+}

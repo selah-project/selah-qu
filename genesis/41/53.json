@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Chaymanta qanchis haq'iy watam tukurirqakun, Mitsrayimpi (Egipto) karqankun.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "tukurirqakun"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "שני",
+      "gloss": "wata"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "haq'iy watakunapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:15:34.922536723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Kamachiqman, Shoshannim (suyullakuna) sutiyuq takiman; Eduth (qanchis k'anchay) suti, Asaf (Asaf)pa, mizmor (taki).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kamachiqman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man, …paq"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim (suyullakuna) sutiyuq takiman"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth (qanchis k'anchay) suti"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf (Asaf)pa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (taki)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:47.957740888Z",
+  "model": "glm-5.3"
+}

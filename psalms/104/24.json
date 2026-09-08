@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Imayna askha rurasqaykikuna, Yahwe! Llapantam yachaywan kamarkanki; hallp'aqa hunt'am kamarisqaykiwan.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "askha"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "rurasqaykikuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "yachaywan"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "kamarkanki"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "kamarisqaykiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:51.887316261Z",
+  "model": "glm-5.3"
+}

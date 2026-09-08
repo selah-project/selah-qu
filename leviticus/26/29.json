@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa churiykichikpa aychanta mikhuwankim, hinaspa ususiykichikpa aychantawan mikhusqaykichikmi.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "mikhuwankim"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "churiykichikpa"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "hinaspa aychanta"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ususiykichikpa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhusqaykichikmi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:12:53.747726030Z",
+  "model": "glm-5.3"
+}

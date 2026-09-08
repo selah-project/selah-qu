@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Ch'eqan kaym paypa chumpin kanqa, ha munakuq cheqanchis (emuna) paypa wiksan chumpin kanqa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ch'eqan kay"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "chumpin"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "paypa wiksan"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "ha munakuq cheqanchis"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "chumpin"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "paypa wiksan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:58:44.318259475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Wiñachiqman, Shoshannim (sancheqkunapi), Korachpa wawankunap, yachachiq, khuyasqakunap takin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Wiñachiqman"
+    },
+    {
+      "surface": "על",
+      "gloss": "sancheqkunapi"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yachachiq"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "takin"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "khuyasqakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:22.624291388Z",
+  "model": "glm-5.3"
+}

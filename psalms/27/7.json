@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Uyariy, Yahwe, ñuqap ñakawrayta ñuqam qaylliptiy; khuyapakawaway, kutichiwaway.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Uyariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ñuqap ñakawrayta"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ñuqam qaylliptiy"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "khuyapakawaway"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "kutichiwaway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:34.650340970Z",
+  "model": "glm-5.3"
+}

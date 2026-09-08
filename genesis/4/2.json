@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaymanta wachariyta yaparqan, ⟨את⟩ wawqeyninta, ⟨את⟩ Hebeltam (Abel); Hebelqa michiqmi karqan, Kayintaq hallp'a llamk'aq karqan.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "yaparqan"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "wachariyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawqeyninta"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqeynin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebelta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebeltam (Abel)"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebelqa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "michiqmi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "michikunata"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "Kayintaq"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "llamk'aq"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "hallp'ata"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:03.089295837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Simiykik kichakuynin k'anchaytam quwan, pisi yachaqkunatawan yachachinmi.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "kichakuynin"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "simiykik"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "k'anchayta quwan"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "yachachin"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "pisi yachaqkunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:11.933191670Z",
+  "model": "glm-5.3"
+}

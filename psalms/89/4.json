@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Berit kurqani akllasqaywan, jurarqani Davidman, yanapayniyman.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "kurqani"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "akllasqaywan"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "jurarqani"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapayniyman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:38.054292341Z",
+  "model": "glm-5.3"
+}

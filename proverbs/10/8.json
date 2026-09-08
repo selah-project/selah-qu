@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Sunqu yachaqqa kamachikuykunta chaskinmi; icha wirpaha sapallan willaq huch'uyuqqa urmakunmi.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "chaskin"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kamachikuykunta"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "icha huch'uyuq"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "wirpaha sapallan willaq"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "urmakun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:35.940284480Z",
+  "model": "glm-5.3"
+}

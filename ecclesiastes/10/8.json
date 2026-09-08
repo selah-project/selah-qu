@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Qhorata qhoreq runaqa chaypi urmakunmi; hark'ata p'aqiqtaq mach'aqway kaninmi.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "qhoreq"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "qhora"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "urmakunmi"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "p'aqiqtaq"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "hark'a"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "kaninmi"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "mach'aqway"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:09.867591878Z",
+  "model": "glm-5.3"
+}

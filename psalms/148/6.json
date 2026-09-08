@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 148,
+  "translation": "Paymi chaykunata wiñaypa wiñaynanpaq sayarichirqan; chiqan kamachiyta churarqan, manam chayta pasanqachu.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "sayarichirqan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaynanpaq"
+    },
+    {
+      "surface": "חק",
+      "gloss": "chiqan kamachiyta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "pasanqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:47.496141195Z",
+  "model": "glm-5.3"
+}

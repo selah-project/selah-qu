@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Hinaspa llapan suwasqata ⟨את⟩, llapan apamusqatawan ⟨את⟩ chaskirqankum — runakunamantawan, uywakunamantawan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "chaskirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan suwasqata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "suwasqata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan apamusqata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "apamusqata"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "runakunamanta"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "uywakunamantawan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:19:40.974890429Z",
+  "model": "glm-5.3"
+}

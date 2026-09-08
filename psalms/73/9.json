@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "psalms 73:9",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 73,
+ "translation": "Churarqankumi hanaq pachapi siminkuta, qallunkutaq kay pachapi puriykun.",
+ "tokens": [
+  {
+   "surface": "שתו",
+   "gloss": "churarqanku"
+  },
+  {
+   "surface": "בשמים",
+   "gloss": "hanaq pachapi"
+  },
+  {
+   "surface": "פיהם",
+   "gloss": "siminkuta"
+  },
+  {
+   "surface": "ולשונם",
+   "gloss": "qallunkutaq"
+  },
+  {
+   "surface": "תהלך",
+   "gloss": "puriykun"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "kay pachapi"
+  }
+ ],
+ "timestamp": "2026-09-08T10:00:38.494593920Z",
+ "model": "glm-5.3"
+}

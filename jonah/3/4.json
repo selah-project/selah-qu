@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yonahm llaqtaman yaykuyta qallarirqan huk p'unchaw purinata; qaparirqan, nirqan:raq tawa chunka p'unchaw, chayqa Ninwe t'ikrasqa kanqa.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "qallarirqan"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yaykuyta"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtaman"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "purina"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "qaparirqan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "tawa chunka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "Ninweqa"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "t'ikrasqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:03:29.508535041Z",
+  "model": "glm-5.3"
+}

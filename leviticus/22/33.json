@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 22:33",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Qamkunata Mitsrayim hallp'amanta lluqsichiq, qamkunapaq Elohim kanaypaq — ñuqam Yahwe.",
+  "tokens": [
+    {
+      "surface": "המוציא",
+      "gloss": "lluqsichiq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "Mitsrayim hallp'amanta"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kanaypaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:52.472529802Z",
+  "model": "glm-5.3"
+}

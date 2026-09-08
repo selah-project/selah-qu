@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa chaskirqankum ⟨את⟩ tanqhana q'isninta, Paropa ñawpaqninpi sayarqankum; hinaspa sparirqanm chayta hanaq pachaman, hinaspa phutun unquym tukurqan, p'uku-p'uku yapaq spa, runakunapi, uywakunapipas.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "chaskirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanqhana q'isninta"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "tanqhana"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "q'isninta"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "sayarqankum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "sparirqanm"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩payta",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "hanaq pachaman"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "phutun unquym"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "p'uku-p'uku"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "yapaq spa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "runakunapi"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "uywakunapipas"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:02.869926652Z",
+  "model": "glm-5.3"
+}

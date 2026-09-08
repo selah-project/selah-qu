@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa Efrajimpa umanninqa Shomronmi, Shomronpa umannintaq Remaljajpa churinmi. Sichus mana iñinkichik chayqa, mana sayarqankichikchu.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "hinaspa ... uman"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "hinaspa ... uman"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljaj"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "iñinkichik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "sayarqankichikchu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:52:01.307982503Z",
+  "model": "glm-5.3"
+}

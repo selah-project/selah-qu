@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Davidtaq Shaulmanta kutimurqanmi, Bet-lechempi taytanpa ⟨את⟩ michinta michinapaq.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Davidtaq"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kutimurqan"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "michinapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "michinta"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "michin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanpa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lechem"
+    }
+  ],
+  "timestamp": "2026-09-08T04:17:07.766237368Z",
+  "model": "glm-5.3"
+}

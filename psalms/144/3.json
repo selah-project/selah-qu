@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 144,
+  "translation": "Yahwe, runa imam, riqsiwankitaq; wañuq churi, yuyariwankitaq?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "riqsiwankitaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "wañuq"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "yuyariwankitaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:35.942017941Z",
+  "model": "glm-5.3"
+}

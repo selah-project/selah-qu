@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Yosef (José) musqoqta musqorqan, wawqeyninkunaman willarqan; hinaspa ⟨את⟩ payta aswanraq ch'ikiykurqanku.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "musqorqan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "musqoqta"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "wawqeyninkunaman"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "yaparqanku"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aswanraq"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ch'ikiy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:09:30.278786234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Chaysi paykuna ruwarqankumi ⟨את⟩ shoham rumikunata, quri wasichaypi wasqasqata, unancha (sello) hina llut'asqata, Israelpa churinkunap sutinkunallawan.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoham rumikuna"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "rumikuna"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "wasqasqa"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "quri wasichaypi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "llut'asqa"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "llut'ay"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "unancha (sello)"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sutinkunawan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:55.909240267Z",
+  "model": "glm-5.3"
+}

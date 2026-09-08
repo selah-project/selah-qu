@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Payqa hamunqam, hinaspa ⟨את⟩ Mitsrayimpa hallp'ata nanachinqa: mayqinqa wañunapaq, wañunanmanmi; mayqinqa qatisqa kananpaq, qatisqa kananmanmi; mayqinqa espadapaq, espadamanmi.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "hamunqam"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "hinaspa nanachinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimpa hallp'ata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "למות",
+      "gloss": "wañunapaq"
+    },
+    {
+      "surface": "למות",
+      "gloss": "wañunanman"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mayqintaq"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "qatisqa kananpaq"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "qatisqa kananman"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mayqintaq"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "espadapaq"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "espadaman"
+    }
+  ],
+  "timestamp": "2026-09-08T07:38:58.364064582Z",
+  "model": "glm-5.3"
+}

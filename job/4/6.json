@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "¿Manachu qampa manaykilla qampa yakuykin, qampa suyayki, ñankiykip sunqu ch'uskan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "¿Manachu"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "qampa manayki"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "qampa yakuyki"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "qampa suyayki"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "sunqu ch'uskan"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ñankiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:56:14.319637223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Huk sinchi kallpayuq apina sayaspa kanqa, hatun kamachikuwan kamachinqa, munasqanman hina ruwanqami.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "sayaspa kanqa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apina"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sinchi kallpayuq"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "kamachinqa"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "kamachikuwan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ruwanqa"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "munasqanman hina"
+    }
+  ],
+  "timestamp": "2026-09-08T12:08:02.574232858Z",
+  "model": "glm-5.3"
+}

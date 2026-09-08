@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kaqlam ⟨את⟩ makinta marq'akun, hinaspa ⟨את⟩ aychantam mikhun.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "kaqlla"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "marq'akun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makinta"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "makinta"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "hinaspa mikhun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aychantan"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "aychantan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:52.712320389Z",
+  "model": "glm-5.3"
+}

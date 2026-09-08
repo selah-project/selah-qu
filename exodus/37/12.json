@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 37:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chaymantam paypaq huk maki k'inray muyuriq saywata ruwarqan, hinaspa zer qurimanta chay saywantaqpaq muyuriqta ruwarqan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "muyuriq saywata"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "huk maki k'inray"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriq"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zer"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "saywantaqpaq"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:50.230828951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 113,
+  "translation": "Inti lluqsinqanmanta chayanankama, Yahwepa sutinqa yupaychasqa ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "lluqsinqanmanta"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "chayanankama"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "yupaychasqa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:53.928228878Z",
+  "model": "glm-5.3"
+}

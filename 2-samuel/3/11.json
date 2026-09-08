@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Manam ñas ⟨את⟩ Avnerta huk rimayta kutichiyta atirqachu, ⟨את⟩ payta mancharispanmi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "atirqachu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ñas"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "kutichiyta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnerta"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "huk rimayta"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "payta mancharispan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:33:40.221111600Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Ñawpaq killapi, killap chunka tawa p'unchawninpi, iskay ch'isikunap chawpinpi, Pesachmi Yahwepaq ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Ñawpaq killapi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "chunka tawa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "killap"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "iskay ch'isikunap"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesach"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:07:19.497725581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Imaraykuchus wayratan t'akunku, wayra michatawiñata hinaspa aysankunqaku; mana ch'usaqtaq saphilla, t'ika mana mut'uta ruwanqachu; ichapas ruwanqachá, wak runakuna ch'unqachinkunqakutá.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayratan"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "t'akunku"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "wayra michatawiñata"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "aysankunqaku"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "saphilla"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kananchu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "t'ika"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwanqachu"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "mut'uta"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ichapas"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwanqachá"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "wak runakuna"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "ch'unqachinkunqakutá"
+    }
+  ],
+  "timestamp": "2026-09-08T08:51:02.769907157Z",
+  "model": "glm-5.3"
+}

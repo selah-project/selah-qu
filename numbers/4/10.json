@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Churanku ⟨את⟩ payta hinaspa ⟨את⟩ llapan llamk'anankunata tajas qara p'istanapi ukhun, chaymanta k'aspipim churanku.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "churanku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ payta",
+      "marks": "Menorata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan llamk'anankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "llamk'anankuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ukhun"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "p'istanapi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "qara"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tajas"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "churanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "k'aspi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:18:18.893969430Z",
+  "model": "glm-5.3"
+}

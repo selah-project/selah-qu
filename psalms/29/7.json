@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "psalms 29:7",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 29,
+ "translation": "Yahwepa kunkanmi nina llapllakunatawan t'aqtawan.",
+ "tokens": [
+  {
+   "surface": "קול",
+   "gloss": "kunka"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "חצב",
+   "gloss": "t'aqtawan"
+  },
+  {
+   "surface": "להבות",
+   "gloss": "llapllakunata"
+  },
+  {
+   "surface": "אש",
+   "gloss": "nina"
+  }
+ ],
+ "timestamp": "2026-09-08T09:38:35.037592814Z",
+ "model": "glm-5.3"
+}

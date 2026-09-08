@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Elohim, ⟨את⟩ Israelta llapa sasa pachankunamanta qispichiy.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapa ...manta"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "sasa pachankunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:34.883771952Z",
+  "model": "glm-5.3"
+}

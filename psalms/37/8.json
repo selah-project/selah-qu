@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chilliy phiñamanta, hinaspa saqiy q'aparayta; ama phiñakuychu — chayqa millayllapaqmi.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Chilliy"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "phiñamanta"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "hinaspa saqiy"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "q'aparayta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "phiñakuychu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "millayllapaq"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "millayta ruranaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:41.609793644Z",
+  "model": "glm-5.3"
+}

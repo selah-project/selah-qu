@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chay p'unchawm David ⟨את⟩ Elohimta mancharirqan, nispam: Imaynata ñuqaman apamusaq ⟨את⟩ Elohimpa arkata?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "mancharirqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay p'unchawm"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispam"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Imaynata"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "apamusaq"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimpa arkata"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "arkata"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:41:35.912958991Z",
+  "model": "glm-5.3"
+}

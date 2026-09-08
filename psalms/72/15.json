@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Kawsuchunmi pay; Shebamanta qurita payman qonqaku; hinaspa wiñaypaq paypaq mañakunqaku, llapan p'unchaw payta bendecinqaku.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsuchunmi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qonqaku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "qurita"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shebamanta"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "hinaspa mañakunqaku"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "payta bendecinqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:04.129047436Z",
+  "model": "glm-5.3"
+}

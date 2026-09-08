@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Pitataq qamchikkimanta kayta uyarinqa, qhawarinqa hinaspa qhipaman uyarinqa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "qamchikkimanta"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "uyarinqa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "qhawarinqa"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "hinaspa uyarinqa"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "qhipaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:23:55.246345237Z",
+  "model": "glm-5.3"
+}

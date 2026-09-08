@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Ama ⟨את⟩ ususiykita llut'arichiychu zonah kananpaq; manataq hallp'a zonah kachunchu, manaraq hallp'a llank'iwan hunt'akunchu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "llut'arichiychu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ususiyki"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "ususiyki"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "zonah kananpaq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "zonah kachunchu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "hunt'akunchu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "llank'iwan"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:19.586484367Z",
+  "model": "glm-5.3"
+}

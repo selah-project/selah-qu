@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Imaraykum haq'iykachaqkuna chinkanqaku; Yahwepa awqankunataqmi carneroskunap k'anchayninkuna hina tukunqaku — asnuqpi chinkanqaku, chinkanqaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haq'iykachaqkuna"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "chinkanqaku"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "hinaspa awqankuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "hina k'anchaynin"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "carneroskuna"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tukunqaku"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "asnuqpi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "chinkanqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:33.793963715Z",
+  "model": "glm-5.3"
+}

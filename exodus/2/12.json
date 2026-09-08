@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "exodus 2:12",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Kayman, chayman qawarirqan, manam runa kachkaptin qhawarqan; chaymi ⟨את⟩ Mitsrayim runata wañuchirqan, aqopi pakarqan.",
+ "tokens": [
+  {
+   "surface": "ויפן",
+   "gloss": "qawarirqan"
+  },
+  {
+   "surface": "כה",
+   "gloss": "kayman"
+  },
+  {
+   "surface": "וכה",
+   "gloss": "chayman"
+  },
+  {
+   "surface": "וירא",
+   "gloss": "qhawarqan"
+  },
+  {
+   "surface": "כי",
+   "gloss": "chaspa"
+  },
+  {
+   "surface": "אין",
+   "gloss": "manam"
+  },
+  {
+   "surface": "איש",
+   "gloss": "runa"
+  },
+  {
+   "surface": "ויך",
+   "gloss": "wañuchirqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Mitsrayim runata"
+  },
+  {
+   "surface": "המצרי",
+   "gloss": "Mitsrayim runata"
+  },
+  {
+   "surface": "ויטמנהו",
+   "gloss": "pakarqan"
+  },
+  {
+   "surface": "בחול",
+   "gloss": "aqopi"
+  }
+ ],
+ "timestamp": "2026-09-08T02:00:16.808877043Z",
+ "model": "glm-5.3"
+}

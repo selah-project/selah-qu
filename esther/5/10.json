@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Haman ñak'ariykuspa wasinman chayarqan; apachirqan chayanachinankupaq ⟨את⟩ masinkunatawan, hinaspa ⟨את⟩ warmi Zeresnatawan.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "ñak'ariykuspa"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "apachirqan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayanachinankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masinkunata"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "masinkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Zeresnatawan"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeres"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "warmin"
+    }
+  ],
+  "timestamp": "2026-09-08T11:48:05.436467720Z",
+  "model": "glm-5.3"
+}

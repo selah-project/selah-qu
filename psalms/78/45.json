@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Paykunamanmi ch'uspi huñuta kacharqan, chaykuna paykunata mikhurqan; hamp'atukunatawan, chaykunataq paykunata chinkachirqan.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ch'uspi huñu"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "mikhurqan"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "hamp'atukunatawan"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "chinkachirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:39.974216523Z",
+  "model": "glm-5.3"
+}

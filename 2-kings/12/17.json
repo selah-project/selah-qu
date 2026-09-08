@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Asham qullqi hinaspa jata'o qullqiqa manam Yahwepa wasinman apakasqa kanqachu; kohenkunapmi kanqa.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "hinaspa qullqi"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "jata'o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "apakasqa kanqa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "kohenkunap"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:18.030222765Z",
+  "model": "glm-5.3"
+}

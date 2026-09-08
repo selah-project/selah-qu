@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa ⟨את⟩ Adorajimta (Adoraim), hinaspa ⟨את⟩ Lakishta (Laquis), hinaspa ⟨את⟩ Azeqata (Azeca).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Adorajimta"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Adorajimta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Lakishta"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Lakishta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Azeqata"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeqata"
+    }
+  ],
+  "timestamp": "2026-09-08T12:58:38.400392782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 8:14",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Payqa santuario kanqam, hinaspa sirkanakuy rumim, hinaspa t'aqanan rumim, Israelpa iskay wasinpaq, p'uytum, trampam Yerushalayimpi kawsaqkunapaq.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kanqam"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "santuario"
+    },
+    {
+      "surface": "ולאבן",
+      "gloss": "hinaspa rumi"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "sirkanakuy"
+    },
+    {
+      "surface": "ולצור",
+      "gloss": "hinaspa t'aqanan rumi"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "t'aqanaku"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "p'uytu"
+    },
+    {
+      "surface": "ולמוקש",
+      "gloss": "hinaspa trampa"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    }
+  ],
+  "timestamp": "2026-09-08T05:53:29.619413489Z",
+  "model": "glm-5.3"
+}

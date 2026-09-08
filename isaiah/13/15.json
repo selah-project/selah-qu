@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Tariqsqa tukuy runam chuqichisqa kanqa; hinaspa hap'isqa tukuy runam chimpuwan wañunqa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "tariqsqa runa"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "chuqichisqa kanqa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa tukuy"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "hap'isqa runa"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "wañunqa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "chimpuwan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:57:39.725371509Z",
+  "model": "glm-5.3"
+}

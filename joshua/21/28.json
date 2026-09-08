@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa Yissaskar (Isacar) ayllumantam ⟨את⟩ Kishyonta, ⟨את⟩ wayllakunantinwan, ⟨את⟩ Dabratta, ⟨את⟩ wayllakunantinwan qurqanku.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "hinaspa ayllumanta"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishyonta"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wayllakunantin"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "wayllakunan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dabratta"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dabrath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wayllakunantin"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "wayllakunan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:28:28.910787476Z",
+  "model": "glm-5.3"
+}

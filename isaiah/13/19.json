@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 13:19",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chaymanta Bavelm — mama llaqtakunap k'anchaynin, Kasdikunap sankayninpa sumaq kaynin — Elohimpa ⟨את⟩ Sedomta, hinaspa ⟨את⟩ Amorahta t'ikrasqan hina kanqa.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "chaymanta kanqa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "k'anchaynin"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mama llaqtakunap"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "sumaq kaynin"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "sankayninpa"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdikunap"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "t'ikrasqan hina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedomta"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Amorahta"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorahta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:57:28.961500691Z",
+  "model": "glm-5.3"
+}

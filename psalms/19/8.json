@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Yahwepa Toraqa hunt'ami, nefeshta kutichiq; Yahwepa willakuyninqa cheqniyuqmi, mana yachaqta yachachiq.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "kutichiq"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "willakuynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "cheqniyuq"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "yachachiq"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "mana yachaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:48.797947972Z",
+  "model": "glm-5.3"
+}

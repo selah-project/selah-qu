@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "psalms 44:13",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 44,
+ "translation": "Qamqa runaykita mana qullqiyuqraq rantikunki, manataq paykunaqa rantinankunawan askha yachiykunki-chu.",
+ "tokens": [
+  {
+   "surface": "תמכר",
+   "gloss": "rantikunki"
+  },
+  {
+   "surface": "עמך",
+   "gloss": "runaykita"
+  },
+  {
+   "surface": "בלא",
+   "gloss": "mana qullqiyuqraq"
+  },
+  {
+   "surface": "הון",
+   "gloss": "qullqiyuq"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "manataq"
+  },
+  {
+   "surface": "רבית",
+   "gloss": "askha yachiykunki-chu"
+  },
+  {
+   "surface": "במחיריהם",
+   "gloss": "rantinankunawan"
+  }
+ ],
+ "timestamp": "2026-09-08T09:48:16.805701131Z",
+ "model": "glm-5.3"
+}

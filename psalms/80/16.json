@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "hinaspa saphita mayqinta paña makiniki tarpurqanki, hinaspa churitataq kikinpaq sinch'ichirqanki.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "hinaspa saphita"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "tarpurqanki"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "paña makiniki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churita"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "sinch'ichirqanki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kikinpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:05.388773346Z",
+  "model": "glm-5.3"
+}

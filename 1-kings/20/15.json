@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Chaymanta yupaykurqan ⟨את⟩ suyukunap umalliqkunap waynakunata; iskay pachak kimsa chunkawan karqanku; chay qhipantinkutawan yupaykurqan ⟨את⟩ llapa runakunata, llapa Israelpa churinkunata, qanchis waranqata.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "yupaykurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suyukunap umalliqkunap waynakunata"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "waynakuna"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqkuna"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "suyukunap"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "kimsa chunkawan"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "chay qhipantinkutawan"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yupaykurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "waranqa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:18:41.804333225Z",
+  "model": "glm-5.3"
+}

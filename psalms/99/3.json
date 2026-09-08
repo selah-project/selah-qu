@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 99,
+  "translation": "Qampa Sutikita yupaychachun — hatun, mancharichiq; pay willka ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "yupaychachun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutikita"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "mancharichiq"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "willka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:29.614616089Z",
+  "model": "glm-5.3"
+}

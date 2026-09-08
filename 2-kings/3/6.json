@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chay p'unchawllami Yehoram apun Shomronmanta lluqsirqan, hinaspa ⟨את⟩ llapa Israelta walqancharqan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomronmanta"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "walqancharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa Israelta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:25:23.791294990Z",
+  "model": "glm-5.3"
+}

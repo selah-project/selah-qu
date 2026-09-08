@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa ⟨את⟩ paykunan purirqan, Yardenman chayarqanku, sach'akunata t'aqwarqankum.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "chayarqanku"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Yardenman"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "t'aqwarqanku"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "sach'akunata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:26:58.695434056Z",
+  "model": "glm-5.3"
+}

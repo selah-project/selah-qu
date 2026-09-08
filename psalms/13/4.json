@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Qhawariway, kutipayway Yahwe, Elohimniy; ñawiyta k'anchariy, ama wañuypa puñunay kachunchu.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "qhawariway"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "kutipayway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "k'anchariy"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiyta"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "puñunay"
+    },
+    {
+      "surface": "המות",
+      "gloss": "wañuypa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:36.552510610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 110,
+  "translation": "Ñanpi mayu ch'ustamanta upyanmi; chayrayku umanta hawarichinmi.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "mayu ch'ustamanta"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "upyan"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "hawarichin"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:40.171304692Z",
+  "model": "glm-5.3"
+}

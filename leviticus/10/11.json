@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Israelpa wawankunata ⟨את⟩ yachachinankupaqmi, llapan kamachikuykunatawan ⟨את⟩ — Yahwem paykunaman willarqanmi Moshepa makinwan.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "hinaspa yachachinankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa wawankunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan kamachikuykunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "kamachikuykuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imakunata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinwan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:21.281237839Z",
+  "model": "glm-5.3"
+}

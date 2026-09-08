@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Runata wañuchiptin, wañuchisqam wañuchisqa kanqa.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "wañuchiptin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runata"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "wañuptin"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuchisqam"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañuchisqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:19.668571713Z",
+  "model": "glm-5.3"
+}

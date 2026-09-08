@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Yahwem payman nirqan: Chiqam ñuqam qamwanmi kasaq, hinaspa ⟨את⟩ Midyanta huk runa hina maqanqayki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqam"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "kasaq"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "maqanqayki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyanta"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyanta"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "runa hina"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-08T03:41:09.100654998Z",
+  "model": "glm-5.3"
+}

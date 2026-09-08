@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Yahwem ⟨את⟩ Paropa sonqonta sinchichirqanmi, hinaspa Paro mana munarqanchu paykunata kachapuwanankupaq.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "hinaspa sinchichirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paropa sonqonta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sonqonta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "munarqanchu"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "kachapuwanankupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:25:50.766845594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ama qamkuna ichariychu llulla rimaykunaman, nispa: Yahwepa hatun wasin, Yahwepa hatun wasin, Yahwepa hatun wasin — kaykunam.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "ichariychu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimaykunaman"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hatun wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hatun wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hatun wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "kaykunam"
+    }
+  ],
+  "timestamp": "2026-09-08T06:53:19.644797265Z",
+  "model": "glm-5.3"
+}

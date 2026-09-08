@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Paypa ñan llapa pachapi sayachikunmi; qampa kamachikuyniyki hanaqpi sayasqa, paymanta karum; llapan awqankunamanmi wayran qarpan.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "sayachikunmi"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "paypa ñan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hanaqpi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "qampa kamachikuyniyki"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "paymanta karu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "awqankuna"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "wayran qarpan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:40.311763569Z",
+  "model": "glm-5.3"
+}

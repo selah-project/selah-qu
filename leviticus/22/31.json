@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa kamachikuymiinta waqaychiikki, hinallataq ⟨את⟩ chakunata ruraankiichik; ñuqam Yahwem.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "hinaspa waqaychiikki"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "kamachikuymiinta"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "hinallataq ruraankiichik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chakunata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:45.277714705Z",
+  "model": "glm-5.3"
+}

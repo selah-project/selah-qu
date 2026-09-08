@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Hinaspa runakunam uyariptinku ⟨את⟩ kay mana allin rimasqata, chaymanta llakikurqankum; manam huk runapas paypa sumaqchanankunata paypa churarqanchu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyariptinku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay mana allin rimasqata"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rimasqata"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "llakikurqankum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "churarqanchu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runapas"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "sumaqchanankunata"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:30.146689248Z",
+  "model": "glm-5.3"
+}

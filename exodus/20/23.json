@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Mana ruwankichikchu ⟨את⟩ ñuqawan qullqi dioskunata, hinaspa quri dioskunata; mana ruwankichikchu qamkunapaq.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "ruwankichikchu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqawan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "hinaspa dioskuna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ruwankichikchu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:15.868688817Z",
+  "model": "glm-5.3"
+}

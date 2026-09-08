@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Warmiqa mach'aqwayman nirqan: Huertapi sach'akunap rurunmanta mikhunchik.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Warmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "mach'aqway"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "rurunmanta"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "huertapi"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "mikhunchik"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:40.820353161Z",
+  "model": "glm-5.3"
+}

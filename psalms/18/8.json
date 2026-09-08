@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chaymanta hallp'a t'ikt'irqakum llakikurqakum, orqokunap sayayninkunapas narq'akurqankum, t'ikt'ikapakurqankum, payqa phiñasqa kasqanrayku.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "t'ikt'irqaku"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "llakikurqaku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "sayayninkunapas"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "orqokunap"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "narq'akurqanku"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "t'ikt'ikapakurqanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanrayku"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "phiñasqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payqa... kasqan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:27.854081496Z",
+  "model": "glm-5.3"
+}

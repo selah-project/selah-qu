@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Yahwepa wakichikuyninmi wiñaypaq sayan, paypa sunqunpa yuyayninkunataq tukuy wata-watakunapi.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "wakichikuynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "sayan"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "yuyayninkuna"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "paypa sunqunpa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "wata-watakunapi"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tukuy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:09.608296008Z",
+  "model": "glm-5.3"
+}

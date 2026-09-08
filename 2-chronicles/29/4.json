@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa ⟨את⟩ kohenkunatawan hinaspa ⟨את⟩ Levitakunatawan hamurqan, hinaspa inti lluqsimuy ladopi anchasqaman huñirqan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hinaspa hamurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohenkunata"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Levitakunatawan"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levitakuna"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "hinaspa huñirqan"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "anchasqaman"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "inti lluqsimuy ladopi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:14:47.517030934Z",
+  "model": "glm-5.3"
+}

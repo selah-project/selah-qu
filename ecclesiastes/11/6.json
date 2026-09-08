@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Tutamanta tarpuy ⟨את⟩ muruykita, ch'isiyamaqtaq ama hark'aychu makiykita; imaraykuchus mana yachankichu mayqin allin kanqata — kay utaq chay — utaq iskaynintin huk hina allin kankuchus.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "tarpuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muruykita"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "muruykita"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ch'isiyamaqtaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "hark'aychu"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yachanki"
+    },
+    {
+      "surface": "אי",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "allin kanqa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "זה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iskaynintin"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "huk hina"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "allin"
+    }
+  ],
+  "timestamp": "2026-09-08T11:46:14.863018554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Mikhunqakum, icha manam sakisaqkuchu; q'uminchakunqakum, icha manam atarikunqakuchu, imaraykuchus ⟨את⟩ Yahweta saqispa waqaychayta saqirqanku.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "mikhunqakum"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha mana"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "sakisaqku"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "q'uminchakunqaku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha mana"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "atarikunqaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "saqirqanku"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "waqaychayta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:44:12.006106390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 95,
+  "translation": "Tawa chunka wata ñuqa q'oñirqani kay wata-wata runakunawan, nirqanimi: runa runa sunqu pantaqmi kan, ñañawpa ñanniytaqa mana yachakunchu.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "tawa chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "q'oñirqani"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "kay wata-wata runakunawan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nirqanimi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runa runa"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "sunqu pantaq"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "kan"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ñañawpa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "yachakunchu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ñanniytaqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:21.921170391Z",
+  "model": "glm-5.3"
+}

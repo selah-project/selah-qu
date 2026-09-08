@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 108,
+  "translation": "¿Pitachu muroyuq llaqtaman apamunqa ñuqata? ¿Pitachu Edomkama pusamunqa ñuqata?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pitachu"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "apamunqa ñuqata"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqtaman"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "muroyuq"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pitachu"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "pusamunqa ñuqata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:47.063216144Z",
+  "model": "glm-5.3"
+}

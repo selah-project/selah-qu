@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Haqe runakuna wata churarqanku ñuqapaq; ichataq pikudoykimanta mana pantarqanichu.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "churarqanku"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haqe runakuna"
+    },
+    {
+      "surface": "פח",
+      "gloss": "wata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ichataq pikudoykimanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "pantarqanichu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:16.789176547Z",
+  "model": "glm-5.3"
+}

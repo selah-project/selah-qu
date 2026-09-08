@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ama kusiychu ñuqap awqay, imaraykuchus ñuqa urmarqanim, sayarqanim; imaraykuchus tutapi tiyaqtin, Yahweqa ñuqap k'anchaymi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "kusiychu"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "ñuqap awqay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "urmarqanim"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "sayarqanim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "tiyaqtin"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "tutapi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:09:28.810781001Z",
+  "model": "glm-5.3"
+}

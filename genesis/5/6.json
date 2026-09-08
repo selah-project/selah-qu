@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa Shet kawsarqan pichqa wata pachak wata; hinaspa ⟨את⟩ Enoshta (Enos) paqarirqan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqan"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoshta"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:04.114320037Z",
+  "model": "glm-5.3"
+}

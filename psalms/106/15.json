@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Chaymanta mañasqankunata qoykurqan, ichataq llakawiyta kacharqan nefeshninkuman.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "qoykurqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "(paykunaman)"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "mañasqankunata"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "llakawiyta"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "nefeshninkuman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:37.949923122Z",
+  "model": "glm-5.3"
+}

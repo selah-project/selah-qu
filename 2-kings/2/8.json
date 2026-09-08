@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaysi Eliyahu ⟨את⟩ p'achanta tusurqanm, watukurqan, ⟨את⟩ unuta mak'arqan; chaysi unukaq iskayman t'aqakurqankum, kayman hinaspa chayman, hinaspa iskaynin ch'akipi pasrqankum.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "tusurqanm"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achanta"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "p'achanta"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "watukurqan"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "mak'arqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unuta"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unuta"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "iskayman t'aqakurqankum"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kayman"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "pasrqankum"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iskaynin"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "ch'akipi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:24:16.745978615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 9:23",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa wawankunatawan askhachimurqankim hanaq pacha quyllurkunahina; hinaspam chay hallp'iman chayamachirqanki paykunata, mayqinta taytankunaman nirqanki chayman yaykunanpaq, hap'inanpaq.",
+  "tokens": [
+    {
+      "surface": "ובניהם",
+      "gloss": "wawankunatawan"
+    },
+    {
+      "surface": "הרבית",
+      "gloss": "askhachimurqankim"
+    },
+    {
+      "surface": "כככבי",
+      "gloss": "quyllurkunahina"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "ותביאם",
+      "gloss": "chayamachirqanki paykunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'i"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "nirqanki"
+    },
+    {
+      "surface": "לאבתיהם",
+      "gloss": "taytankunaman"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yaykunanpaq"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "hap'inanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:24:03.719514292Z",
+  "model": "glm-5.3"
+}

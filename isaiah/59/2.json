@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Ñawpaqta qamkunap awqallakiykichikmi t'aqawan qamkuna hinaspa Elohimniykichikta; qamkunap huchaykichikmi ñawikunata pakurqan qamkunamanta, manam uyariqchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "icha ⟨manam⟩"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "qamkunap awqallakiykichik"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "t'aqaq"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "qamkuna hinaspa"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "...wan"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "qamkunap huchaykichik"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "pakurqan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawikunata"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "qamkunamanta"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "uyarikuymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:39:14.857784776Z",
+  "model": "glm-5.3"
+}

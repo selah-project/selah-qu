@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Llaqtapi ch'usaq saqisqa karqanmi, punkutaq wakchaywan thakisqa karqan.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "saqisqa karqan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "wakchaywan"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "thakisqa karqan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "punku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:06:26.620979059Z",
+  "model": "glm-5.3"
+}

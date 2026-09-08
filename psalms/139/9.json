@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Paqariy wetranta apasaqmi, mama quchap tukupayninpi tiyasaq.",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "apasaq"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "wetranta"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "paqariy"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "tiyasaq"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "tukupayninpi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mama qucha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:53.111301380Z",
+  "model": "glm-5.3"
+}

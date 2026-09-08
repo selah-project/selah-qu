@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 27:8",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Davidmi runankunawan sayarirqanku, hinaspa Gueshurita (guesurita), Gircita, Amalekita (amalekita)kunamanlla atiparqanku; paykuna ñawpa pachamantam chay hallp'api tiyaqkuna karqan, Sur (Sur)man yaykuspa Mitsrayim (Egipto) hallp'akama.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "sayarirqanku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidmi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "runankunawan"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "atiparqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Gueshurita (guesurita)"
+    },
+    {
+      "surface": "והגרזי",
+      "gloss": "hinaspa Gircita"
+    },
+    {
+      "surface": "והעמלקי",
+      "gloss": "hinaspa Amalekita (amalekita)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "chay hallp'api"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ñawpa pachamanta"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "yaykuspa"
+    },
+    {
+      "surface": "שורה",
+      "gloss": "Sur (Sur)man"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hinaspa...-kama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    }
+  ],
+  "timestamp": "2026-09-08T04:27:39.616403719Z",
+  "model": "glm-5.3"
+}

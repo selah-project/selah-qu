@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "«Qam kunan p'unchaw ⟨את⟩ imata ñuqa kamachisqayta waqaychay; rikch'aku, ñuqam ñawpaqenkumanta ⟨את⟩ Emoreokunata qarqasaq, hinaspa Kanaankunata, Jetakunata, Perizikunata, Jiwikunata, Yebuskunatawan».",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "waqaychay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata ñuqa kamachisqayta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "kamachisqayta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "rikch'aku ñuqa"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "qarqasaq"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ñawpaqenkumanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emoreokunata"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoreokunata"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "hinaspa Kanaankunata"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "hinaspa Jetakunata"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "hinaspa Perizikunata"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "hinaspa Jiwikunata"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "hinaspa Yebuskunatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:16.352407367Z",
+  "model": "glm-5.3"
+}

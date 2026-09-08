@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Yahwe Elohimniyki qamta apamunqam hallp'aman, mayqin hallp'ata taytakunayki ñawpa hap'irqanku chayman; qampas chayta hap'inki; qamta allinwachasqam, taytakunaykimanta aswan askhachasqam.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "apamunqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin…chay"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "hap'irqanku"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "taytakunayki"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "chayta hap'inki"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "allinwachasqam"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "askhachasqam"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "taytakunaykimanta aswan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:02:06.177014609Z",
+  "model": "glm-5.3"
+}

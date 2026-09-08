@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "lamentations 4:16",
+ "book": "lamentations",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Yahwep ñawinmi paykunata t'aqakurqan, manaña qhawasqankuchu; kohenkunap (sacerdotekunap) ñawinta mana hach'arqankuchu, machulakunataqa mana khuyarqankuchu.",
+ "tokens": [
+  {
+   "surface": "פני",
+   "gloss": "ñawin"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwep"
+  },
+  {
+   "surface": "חלקם",
+   "gloss": "t'aqakurqan"
+  },
+  {
+   "surface": "לא",
+   "gloss": "manaña"
+  },
+  {
+   "surface": "יוסיף",
+   "gloss": "qhawasqankuchu"
+  },
+  {
+   "surface": "להביטם",
+   "gloss": "(paykunata qhawayta)"
+  },
+  {
+   "surface": "פני",
+   "gloss": "ñawinta"
+  },
+  {
+   "surface": "כהנים",
+   "gloss": "kohenkunap"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "נשאו",
+   "gloss": "hach'arqankuchu"
+  },
+  {
+   "surface": "זקנים",
+   "gloss": "machulakunataqa"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "חננו",
+   "gloss": "khuyarqankuchu"
+  }
+ ],
+ "timestamp": "2026-09-08T11:38:08.775122642Z",
+ "model": "glm-5.3"
+}

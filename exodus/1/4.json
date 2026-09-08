@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Dan, hinaspa Naftali, Gad, hinaspa Asher.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "hinaspa Naftali"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "hinaspa Asher"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:29.431468163Z",
+  "model": "glm-5.3"
+}

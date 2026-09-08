@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Wayqeykunaqa ripurqankumi taytinkup michinta michinaypaq ⟨את⟩, Shkhem (Siquem)pi.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ripurqanku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wayqeykuna"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "michinaypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "michinta"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "michinta"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "taytinkup"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Shkhem (Siquem)pi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:12.694353229Z",
+  "model": "glm-5.3"
+}

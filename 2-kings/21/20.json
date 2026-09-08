@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Yahwep ñawinpi mana allinta ruwarqanmi, taytan Menashhe ruwasqan hinam.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqanmi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqan"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:43:55.281119667Z",
+  "model": "glm-5.3"
+}

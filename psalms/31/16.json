@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Qampa makipi pachakunaymi kachkan; qispichiwaway awqaqniykimakunamanta, qatiquqniykimantawan.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Qampa makipi"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "pachakunay"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "qispichiwaway"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makumanta"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "awqaqniykimakuna"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "qatiquqniykimantawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:39.429634825Z",
+  "model": "glm-5.3"
+}

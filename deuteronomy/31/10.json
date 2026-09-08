@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Moshe ⟨את⟩ paykunata kamachirqanmi, nispa: qanchis wata tukukaptin, shemita wata p'unchawninpi, Sukkot (Cabañaskuna) raymipi —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "kohinakunata, machu runakunata"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "tukukaptin"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "p'unchawninpi"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "wata"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "shemita"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "raymipi"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukkot"
+    }
+  ],
+  "timestamp": "2026-09-08T03:04:07.780370284Z",
+  "model": "glm-5.3"
+}

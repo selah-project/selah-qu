@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 5:25",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Paymi hamurqan, hinaspa apun ñawpaqninpi sayarqanmi. Elisha (Eliseo) payman nirqan: «Maymantataq hamurqanki, Gechazi (Giezi)?» Paytaq nirqan: «Mana maymanpas purirqanichu ñuqap yanqayki.»",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarqanmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "maymantataq"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "purirqanichu"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ñuqap yanqayki"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kaymanpas"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "utaq chaymanpas"
+    }
+  ],
+  "timestamp": "2026-09-08T05:26:21.210443199Z",
+  "model": "glm-5.3"
+}

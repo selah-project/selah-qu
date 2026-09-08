@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Qarqarqanmi mama quchata ch'aki hallp'aman; mayutam chakikunawan chayarqanku; chaypi paymanta k'uchi kanchikmi.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "qarqarqanmi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mama quchata"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ch'aki hallp'aman"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "mayutam"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "chakikunawan chayarqanku"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "chakikunawan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "k'uchi kanchikmi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:54.769673631Z",
+  "model": "glm-5.3"
+}

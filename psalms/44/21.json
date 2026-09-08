@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Sichus Elohimninchikpa sutinta paskirqayku, makiyukutawan huk rurasqa diosman k'ajachirqayku chayqa,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "paskirqayku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "k'ajachirqayku hinaspa"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "makiyku"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "diosman"
+    },
+    {
+      "surface": "זר",
+      "gloss": "rurasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:40.457942286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 87,
+  "translation": "Hinaspa takuqkunapas, phiskuqkunahina: llapan pukyuykuna qampi kachkan.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "hinaspa takuqkunapas"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "phiskuqkunahina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "pukyuykuna"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:20.791479356Z",
+  "model": "glm-5.3"
+}

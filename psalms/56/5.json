@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "Elohimpim siminta yupaychasaq, Elohimpi confia-kurqanimi; imatataq aycha ruwanman ñuqaman? Mana mancharisaqchu.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimpim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "yupaychasaq"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimpi"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "confia-kurqanimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mancharisaqchu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imatataq"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwanman"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:28.147685535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspapunim Isabelmanta Yahwem rimarqanmi, nispa: alqokunam ⟨את⟩ Isabelta Yizre'elpa qirap patanpi mikhunqaku.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "hinaspapunim"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Isabelmanta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "alqokunam"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhunqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isabelta"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isabelta"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "qirap patanpi"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizre'elpa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:21:50.777515979Z",
+  "model": "glm-5.3"
+}

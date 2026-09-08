@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Shushan (Susa) llaqtap hatun wasinpi Yahudiykuna pichqa pachak waririta wañuchirqankum, chinkachirqankutawan.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Shushan (Susa) llaqtap"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "hatun wasinpi"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "wañuchirqanku"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudiykuna"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "chinkachirqankutawan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "waririta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:48:34.140481732Z",
+  "model": "glm-5.3"
+}

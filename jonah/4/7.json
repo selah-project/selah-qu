@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Elohimmi k'uruta kamachirqan, qhipaq p'unchawpa paqariynin wayt'ariyninpi; k'urumi ⟨את⟩ qiqayonta k'anarqan, chaytaq ch'akirirqanmi.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "k'uruta"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "wayt'ariyninpi"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "paqariypa"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "qhipaq p'unchawpi"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "k'anarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiqayonta"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qiqayon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ch'akirirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:06:46.015774129Z",
+  "model": "glm-5.3"
+}

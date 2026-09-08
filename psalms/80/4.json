@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Elohim, ñuqaykuta kutichiy, hinaspa ñawiykita k'anchachiy, chaysi qispisqaykumi kanqa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "ñuqaykuta kutichiy"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "hinaspa k'anchachiy"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiykita"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "qispisqaykumi kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:47.958215006Z",
+  "model": "glm-5.3"
+}

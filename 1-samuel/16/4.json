@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Shemuelm Yahwepa rimasqantam hunt'arqan ⟨את⟩, chaymantam Bet Lejemma chayarqan. Llaqtap kuraqninkuna paywan tariykuspa mancharirqanku; ninku: ¿Allinchu hamunki?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "hunt'arqan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuelm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa rimasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rimasqanta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimasqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lejemma"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "mancharirqanku"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kuraqninkuna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtap"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "paywan tariykuspa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ninku"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "¿Allinchu"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "hamunki?"
+    }
+  ],
+  "timestamp": "2026-09-08T04:16:00.135880358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Yahwepa sodin (pakasqa huñunakuy) payta manachaqkunapaqmi, paypa Beritintawan willakunqam.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "sodin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "payta manachaqkunapaq"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "paypa Beritintawan"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "willakunqam"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:27.914326059Z",
+  "model": "glm-5.3"
+}

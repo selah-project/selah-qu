@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 4:11",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kunanmi qam hallp'amanta saqrachasqa kanki, chaymi pay ⟨את⟩ sinkanta kichaspa ⟨את⟩ wawqiykip yawarninta qampa makiykiwan chaskinapaq kachkan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "saqrachasqa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "פצתה",
+      "gloss": "sinkanta kichaspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sinkanta"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "sinkan"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "chaskinapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yawarninta"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "yawarnin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wawqiykip"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "qampa makiykiwan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:09.669045082Z",
+  "model": "glm-5.3"
+}

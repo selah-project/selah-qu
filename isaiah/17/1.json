@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Damasqemanta q'ipi: Qhawariy, Damasqem llaptamanta t'ikrasqa kanqa, chuntur sayayuq wañusqa rurakunaman tukunqam.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "q'ipi"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasqemanta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasqem"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "t'ikrasqa"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "llaptamanta"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "chuntur sayayuq wañusqa rurakunaman"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "tukunqam"
+    }
+  ],
+  "timestamp": "2026-09-08T06:05:05.298897283Z",
+  "model": "glm-5.3"
+}

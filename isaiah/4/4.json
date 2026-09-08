@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Sichus Adonaym ⟨את⟩ Tsiyon ususikunap q'atanta mayllum, hinaspa ⟨את⟩ Yerushalayim yawrinta chawpinninmanta taripanakuy wayrawan, nina wayrawan ch'usaqchinqa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "mayllum"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon ususikunap q'ata"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "q'ata"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ususikuna"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yerushalayim yawri"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "yawri"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "ch'usaqchinqa"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "chawpinninmanta"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "wayrawan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "taripanakuy"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "hinaspa wayrawan"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nina"
+    }
+  ],
+  "timestamp": "2026-09-08T05:53:33.892685271Z",
+  "model": "glm-5.3"
+}

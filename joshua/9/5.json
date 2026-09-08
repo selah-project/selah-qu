@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "joshua 9:5",
+ "book": "joshua",
+ "lang": "qu",
+ "chapter": 9,
+ "translation": "Chakinkupi willkhu, llant'asqa isañukunawan, kurkinkupi willkhu p'achakunawan; tukuy t'anta mikhunankunapas ch'aki, uchhu-uchhum karqan.",
+ "tokens": [
+  {
+   "surface": "ונעלות",
+   "gloss": "isañukunawan"
+  },
+  {
+   "surface": "בלות",
+   "gloss": "willkhu"
+  },
+  {
+   "surface": "ומטלאות",
+   "gloss": "llant'asqa"
+  },
+  {
+   "surface": "ברגליהם",
+   "gloss": "chakinkupi"
+  },
+  {
+   "surface": "ושלמות",
+   "gloss": "p'achakunawan"
+  },
+  {
+   "surface": "בלות",
+   "gloss": "willkhu"
+  },
+  {
+   "surface": "עליהם",
+   "gloss": "kurkinkupi"
+  },
+  {
+   "surface": "וכל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "לחם",
+   "gloss": "t'anta"
+  },
+  {
+   "surface": "צידם",
+   "gloss": "mikhunankunapas"
+  },
+  {
+   "surface": "יבש",
+   "gloss": "ch'aki"
+  },
+  {
+   "surface": "היה",
+   "gloss": "karqan"
+  },
+  {
+   "surface": "נקדים",
+   "gloss": "uchhu-uchhu"
+  }
+ ],
+ "timestamp": "2026-09-08T03:16:55.135405527Z",
+ "model": "glm-5.3"
+}

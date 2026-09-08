@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "Chaymi paykunata sunqunkup sinchi munayninkuman saqerqani, kikin yuyayninkupim purinqaku.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "chaymi paykunata saqerqani"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "sinchi munayninkuman"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sunqunkup"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "purinqaku"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "kikin yuyayninkupim"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:59.460428125Z",
+  "model": "glm-5.3"
+}

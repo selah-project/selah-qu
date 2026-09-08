@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinaspa sichus ⟨את⟩ chakrata mana qispichinmanchu, utaq ⟨את⟩ chakrata wak runaman qhatasqa kaptin, ña mana aswan qispichikunqachu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa sichus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "qispichinmanchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakrata"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chakrata"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "utaq sichus"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "qhatasqa kaptin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chakrata"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chakrata"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "runaman"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "qispichikunqachu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ña aswan"
+    }
+  ],
+  "timestamp": "2026-09-08T01:14:21.724699472Z",
+  "model": "glm-5.3"
+}

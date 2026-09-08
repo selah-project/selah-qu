@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 8:9",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa qam ⟨את⟩ Leviyakunata (Levitas) Ohel Moedpa (taripay wasi) ñawpaqninpi churankim, hinaspa ⟨את⟩ Israel wawakunap llapan huñunakuyninta huñunki.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "hinaspa qam ... churankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leviyakunata"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviyakunata (Levitas)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel Moedpa ... wasi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Ohel Moedpa (taripay wasi)"
+    },
+    {
+      "surface": "והקהלת",
+      "gloss": "hinaspa ... huñunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huñunakuyninta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "huñunakuyninta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T13:25:13.993303680Z",
+  "model": "glm-5.3"
+}

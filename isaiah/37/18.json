@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 37:18",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chiqaqcham ⟨kan⟩, Yahwe: Ashurpa apukuna chusaqcharqanku ⟨את⟩ llapa hallp'akunata, hinaspa ⟨את⟩ paykunaq hallp'ankutawan.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "chiqaqcham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "chusaqcharqanku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa hallp'akunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "hallp'akunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "paykunaq hallp'ankuta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:20:37.805815709Z",
+  "model": "glm-5.3"
+}

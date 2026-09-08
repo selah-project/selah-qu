@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yahwem Mosheman nirqan: Paropa sonqonmi llasaq, runakunata lluqsichinanta mana munanchu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "llasaq"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sonqon"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "mana munanchu"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "lluqsichinanta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T02:00:37.474534249Z",
+  "model": "glm-5.3"
+}

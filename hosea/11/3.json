@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Ñuqataqmi Efrayimta purichirqani, makinkunapatan aparqani; ichaqa manam yacharqankuchu ñuqam paykunata hampirqani kasqanta.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ñuqataqmi"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "purichirqani"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrayimta"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "paykunata aparqani"
+    },
+    {
+      "surface": "על",
+      "gloss": "patan"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "makinkunapi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichaqa manam"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "yacharqankuchu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "hampirqani"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:20.567614702Z",
+  "model": "glm-5.3"
+}

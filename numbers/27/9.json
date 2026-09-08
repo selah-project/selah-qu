@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinaspam sichus paypa ususin mana kanchu, chayqa ⟨את⟩ paypa herencianta paypa wawqenkunaman qunkichikmi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Hinaspam sichus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususin"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "qunkichikmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa herencianta"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "paypa herencianta"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "paypa wawqenkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:14:33.955419213Z",
+  "model": "glm-5.3"
+}

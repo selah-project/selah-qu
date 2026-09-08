@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa nacionkuna ukhupi chinkankichikm, hinaspa awqaykikkuna hallp'am ⟨את⟩ qamkunata mikhunqam.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "chinkankichikm"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "nacionkuna ukhupi"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mikhunqam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "hallp'a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "awqaykikkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T01:12:54.792629519Z",
+  "model": "glm-5.3"
+}

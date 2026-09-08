@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Israelpa llapa ayllunmi ⟨את⟩ chayta ruranka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ayllu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ruranka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chayta (Pesajta)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:45.163427135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 107:41",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Waqchata llakikunamanta hawanman hatarichirqanmi, hinaspa ayllukunatawi michikunaman hina churarqan.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "hawanman hatarichirqanmi"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "waqchata"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "llakikunamanta"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "michikunaman hina"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ayllukunatawi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:41.467442899Z",
+  "model": "glm-5.3"
+}

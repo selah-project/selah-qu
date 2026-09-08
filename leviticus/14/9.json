@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 14:9",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chaymanta qanchis ñiqin p'unchawpim chay ruway kanqa: ⟨את⟩ llapa chukanchanta aysachinqa — ⟨את⟩ umanta, hinaspa ⟨את⟩ sankhanta, hinaspa ⟨את⟩ ñawinkunap patanta —, hinaspa ⟨את⟩ llapa chukanchanta aysachinqa; hinaspa ⟨את⟩ p'achankunata mayunqa, hinaspa ⟨את⟩ aychanta unuwan arunqa, chaymanta pichikunqam.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "chaymanta ... kanqa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "qanchis ñiqin"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "aysachinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa chukanchanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "chukanchan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umanta"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "uman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sankhanta"
+    },
+    {
+      "surface": "זקנו",
+      "gloss": "sankhan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ñawinkunap patanta"
+    },
+    {
+      "surface": "גבת",
+      "gloss": "patan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ñawinkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa chukanchanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "chukanchan"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "aysachinqa"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "hinaspa mayunqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achankunata"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "p'achankuna"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "hinaspa arunqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aychanta"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "aychan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unuwan"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "pichikunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:59:10.918554004Z",
+  "model": "glm-5.3"
+}

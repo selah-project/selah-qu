@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Ñuqata waqaychaway, ñawip usin hina; phawaykikunaykip llanthunpi ñuqata pakaway.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ñuqata waqaychaway"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "hinalla"
+    },
+    {
+      "surface": "בת",
+      "gloss": "usin"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ñawip"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "llanthunpi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "phawaykikunaykip"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "ñuqata pakaway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:37.194835267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 18:3",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hinaspa Davidmi ⟨את⟩ Hadadezerta, Tsovapa apunta, Hamatkama ñak'arqan, pay makinta Hatun Mayu Peratpi sayachinayman riptin.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ñak'arqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezerta"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsovapa"
+    },
+    {
+      "surface": "חמתה",
+      "gloss": "Hamatkama"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "riptin"
+    },
+    {
+      "surface": "להציב",
+      "gloss": "sayachinaypaq"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makinta"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "mayupi"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    }
+  ],
+  "timestamp": "2026-09-08T12:45:12.452570222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chay tutapim karqan, Elohimpa simin Nataman chayarqan, nispataq.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tutapi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispataq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:45:37.780465181Z",
+  "model": "glm-5.3"
+}

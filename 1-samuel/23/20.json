@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Kunantaq, apu, nefeshniykiypa llapan munayninman uraykamunaykipaq, uraykamuy; ñuqanchikmantaqmi payta apup makinman qoykusunchik.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunantaq"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אות",
+      "gloss": "munayninman"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshniykiy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "uraykamunaykipaq"
+    },
+    {
+      "surface": "רד",
+      "gloss": "uraykamuy"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "ñuqanchikmantaq"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "qoykusunchik"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apup"
+    }
+  ],
+  "timestamp": "2026-09-08T04:25:16.252182953Z",
+  "model": "glm-5.3"
+}

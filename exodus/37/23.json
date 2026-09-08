@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chaymanta ⟨את⟩ paypa lamparankunata qanchisnitam ruwarqan, paypa malqachakunatawan, paypa q'onchakunatawan, quri thañuwan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa lamparankunata"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "paypa lamparankunata"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "qanchisnita"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "paypa malqachakunatawan"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "paypa q'onchakunatawan"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "thañu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:37.079653467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 11:24",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Maypis maypi qamkunap chakikuna ch'allanku chaypi, chay llapan qamkunap kanqam: ch'usaq pachamanta Libanokama, mayumanta — Perat mayu — qhipa mamakochakama chaymi sayaq qamkunap saywan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lugar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypis"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ch'allanku"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ch'alla"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "chakiniykichikpa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunap"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ch'usaq pacha"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "Libano"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Perat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mamakocha"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "qhipa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kafka sayaq"
+    },
+    {
+      "surface": "גבלכם",
+      "gloss": "saywaniykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T02:38:51.264195956Z",
+  "model": "glm-5.3"
+}

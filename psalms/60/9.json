@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Gilad ñuqapmi, Menashsheh (Manasés) ñuqapmi, Efrayim ñuqap umaypa sinchinmi, Yehudah (Judá) ñuqap kamachikuqmi.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ñuqapmi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "hinaspa ñuqapmi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "hinaspa Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "sinchi (fortaleza)"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ñuqap umaypa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ñuqap kamachikuqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:12.334032013Z",
+  "model": "glm-5.3"
+}

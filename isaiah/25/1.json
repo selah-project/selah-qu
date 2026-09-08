@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Yahwe, Elohimniy, qam ⟨kan⟩mi kanki: qamta hanqarachisaq, sutiykita yupaychasaq; imaraykuchus milagrota rurarasqanki — ñawpaqmanta yuyaykuna, cheqan kachaywan, cheqaq kaqwan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "qamta hanqarachisaq"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "yupaychasaq"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sutiykita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rurarasqanki"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "milagrota"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "yuyaykuna"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ñawpaqmanta"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "cheqan kachaywan"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "cheqaq kaqwan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:09:17.852120003Z",
+  "model": "glm-5.3"
+}

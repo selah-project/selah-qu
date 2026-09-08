@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa kaykunata ⟨את⟩ pisqukuna ukhumanta ikakinki; mana mikhuwachunkuchu, sheqetsmi paykuna: ⟨את⟩ nesherta, hinaspa ⟨את⟩ peresta, hinaspa ⟨את⟩ azniyata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kaykuna"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "ikakinki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ukhumanta"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "pisqukuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhuwachunkuchu"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sheqets"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neshér"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "neshér"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "perés"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "perés"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "azniya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "azniya"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:31.278769852Z",
+  "model": "glm-5.3"
+}

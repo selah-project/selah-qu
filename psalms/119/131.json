@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Simik'uchuyta kicharkuni, samaysiytapuni; imaraykuchus mitzkunaykiwan munakuni.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "simik'uchuyta"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "kicharkuni"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "samaysiytapuni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "mitzkunaykiwan"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "munakuni"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:11.933387724Z",
+  "model": "glm-5.3"
+}

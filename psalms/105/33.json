@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Hinaspa Parisqaku t'ikrasqankuta wayrurukunata, hinaspa intinkunata; hinaspa t'aqarqaku sach'akunata saywa hallmarkankunapi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "hinaspa t'aqarqaku"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "wayrurukunankuta"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "hinaspa intinkunata"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "hinaspa p'akiyarqaku"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sach'akunata"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "saywa hallmarkankunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:11.260447444Z",
+  "model": "glm-5.3"
+}

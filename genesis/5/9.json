@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa Enosh (Enós) pichqa chunka wata kawsarqanmi, hinaspa ⟨את⟩ Kenanta (Cainán) paqarichirqan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqanmi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "pichqa chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenanta"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:52.226831573Z",
+  "model": "glm-5.3"
+}

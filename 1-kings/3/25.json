@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa apunmi nirqan: ⟨את⟩ kawsaq wawata iskayman kuchiy, hinaspa ⟨את⟩ chiyanta huk warmiman quy, hinaspa ⟨את⟩ chiyanta huk warmiman quy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "kuchiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawsaq wawata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "החי",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "iskayman"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "hinaspa quy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiyanta"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "chiyan"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "huk warmiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chiyanta"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "chiyan"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "huk warmiman"
+    }
+  ],
+  "timestamp": "2026-09-08T13:39:21.944067765Z",
+  "model": "glm-5.3"
+}

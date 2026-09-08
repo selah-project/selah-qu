@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Qaparispa sayk'uniq; ñuqap kunkay rawarparqanmi, ñawiykunam tukurqanku Elohimniyta suyaspa.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "sayk'uniq"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "qaparispa"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "rawarparqanmi"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "kunkay"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tukurqanku"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiykuna"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "suyaspa"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:12.965975595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 84,
+  "translation": "Chiqam aswan allinmi huk p'unchaw wasiykik patapi, waranqa ⟨p'unchawkunamanta⟩; punku ch'eknillapi tiyayta akllarqanimi Elohimniy wasipi, mana allin runakunap karpa wasinkunapi kawsaymanta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chiqam"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "aswan allinmi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "huk p'unchaw"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "wasiykik patapi"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "akllarqanimi"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "puerta ch'eknillapi tiyayta"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "kawsaymanta"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "karpa wasinkunapi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:38.208861536Z",
+  "model": "glm-5.3"
+}

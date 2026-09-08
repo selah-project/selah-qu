@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Kawsayta mañakurqanmi Qammanta; Qam qurqanki payman, p'unchawkunapa suninta, wiñayta wiñaykama.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "kawsayta"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "mañakurqan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Qammanta"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "qurqanki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "sunin"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkunapa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñayta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñaykama"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:41.654306614Z",
+  "model": "glm-5.3"
+}

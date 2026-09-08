@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Yahwe Tsebaot, Israelpa Elohimnin, kerubimkunap tiyaq: qamllam kanki Elohim, qam sapallayki llapa hallp'ap suyukunap; qammi ⟨את⟩ hanaq pachata, hinaspa ⟨את⟩ kay pachata rurqanki.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Israelpa Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerubimkunap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qamllam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "qam sapallayki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "suyukunap"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qammi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "rurqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanaq pachata"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kay pachata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pachata"
+    }
+  ],
+  "timestamp": "2026-09-08T06:19:31.613189777Z",
+  "model": "glm-5.3"
+}

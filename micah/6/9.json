@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Yahwep qolninmi llaqtaman qayanmi; tushiyallawanmi sutiykita manchanapaq. Uyariy t'aqtata, hinaspa pipas churarusqanta.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "qolnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "llaqtaman"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "qayanmi"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "tushiyallawanmi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "manchanapaq"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sutiykita"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Uyariy"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "t'aqtata"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "hinaspa pi"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "churarusqanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:07:45.729030039Z",
+  "model": "glm-5.3"
+}

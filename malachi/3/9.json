@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Malqiraywanmi malqisqa kankichik, hinaspa ⟨את⟩ ñuqata qamkuna qichuachkankichik — kay llaqtam llapan.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "malqiraywan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "malqisqa kankichik"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "hinaspa ⟨את⟩ ñuqata",
+      "marks": "ñuqata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "qichuachkankichik"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "kay llaqta"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "llapan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:28.813650001Z",
+  "model": "glm-5.3"
+}

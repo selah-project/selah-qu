@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Simiypi musuq takita churarqawankim, Elohimninchikpa yupaychayta; askha runakuna qhawaspa manchakunqakum, hinaspa Yahwepi sunqu churakunqakum.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "churarqawankim"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "simiypi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "yupaychay"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimninchikpaq"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "qhawaqaku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha runakuna"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "manchakunqaku"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "sunqu churakunqaku"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:13.590505115Z",
+  "model": "glm-5.3"
+}

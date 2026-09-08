@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hallp'aqa millaychasqa karqanmi, chaymi hallucinata paypi tarirqani, hinaspam hallp'aqa ⟨את⟩ kawsaqninkunata hiq'irparqan.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "millaychasqa karqan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "tarirqani"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "halluy"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "hiq'irparqan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawsaqninkunata"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "kawsaqninkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:32.348811848Z",
+  "model": "glm-5.3"
+}

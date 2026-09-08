@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 108,
+  "translation": "Elohimwanmi ch'iklli ruwasaqku; paytaqmi llusinqa ñuqaykupa awqakunata.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimwan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ruwasaqku"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ch'iklli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "paytaq"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "llusinqa"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ñuqaykupa awqakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:02.318394628Z",
+  "model": "glm-5.3"
+}

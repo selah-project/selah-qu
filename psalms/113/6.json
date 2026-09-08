@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 113,
+  "translation": "Paymi hanaq pachapi, hallp'apiwan imapas kasqanta qhawananpaq ñawinchakuq.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "ñawinchakuq"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qhawanapaq"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "hallp'apiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:03.506198844Z",
+  "model": "glm-5.3"
+}

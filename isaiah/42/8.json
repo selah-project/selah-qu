@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Ñuqam Yahwe, chaymi sutiy; sumaq kayniytaqa wakta mana qusaqchu, yupaychayniytaq rurasqa dioskunamanpas.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "sutiy"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "sumaq kayniy"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "wakta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "qusaqchu"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "yupaychayniy"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "rurasqa dioskunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:22:27.722574259Z",
+  "model": "glm-5.3"
+}

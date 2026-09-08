@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Hinaspa paykuna hallp'anta chaskichiranmi herenciata hina, herenciata Israelman, paypa runankunaman.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "hinaspa qurqanmi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "paykuna hallp'anta"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "herenciata"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "herenciata"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelman"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runankunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:17.290907464Z",
+  "model": "glm-5.3"
+}

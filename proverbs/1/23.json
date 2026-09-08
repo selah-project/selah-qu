@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kutiychik ñuqap markayniymanmi; qawaychik, ñuqpa samayta sikllanchikman spilluni, ñuqpa rimaykunatataj ñuqanchikman riqsichini ⟨את⟩ qamkunata.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "Kutiychik"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "ñuqap markayniymanmi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qawaychik"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "spilluni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ñuqpa samayta"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "riqsichini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ñuqpa rimaykunatataj"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "qamkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:45.814912320Z",
+  "model": "glm-5.3"
+}

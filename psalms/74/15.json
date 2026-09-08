@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Qammi ⟨את⟩ pukyuta, ⟨את⟩ mayutawan kicharirqanki; Qammi wiñay mayukunata ch'akichirqanki.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "kicharirqanki"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "pukyuta"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "mayutawan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "ch'akichirqanki"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mayukunata"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:38.120081294Z",
+  "model": "glm-5.3"
+}

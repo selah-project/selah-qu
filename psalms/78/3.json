@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Imatam uyariyku, imatam yachayku; taytaykukunapas ñuqaykuman willawarqankum.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "uyariyku"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "yachayku"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "taytaykukunapas"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "willawarqankum"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykuman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:52.211130003Z",
+  "model": "glm-5.3"
+}

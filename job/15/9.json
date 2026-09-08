@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "¿Imatam riqsinki, ñuqanchiktaq mana riqsinchikchu? ¿Imatam hamut'anki, chayqa ñuqanchikwan mana kanchischu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Imata"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "riqsinki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "riqsinchikchu"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "hamut'anki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ñuqanchikwan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kachkan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:05:13.134943865Z",
+  "model": "glm-5.3"
+}

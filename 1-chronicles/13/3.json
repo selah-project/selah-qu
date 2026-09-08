@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chaymanta apamusun ⟨את⟩ Elohimninchikpa aronta ñuqanchikman, imaraykuchus Shaulpa p'unchawkunapi mana tapukurqankuchu.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "apamusun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimninchikpa aronta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aronta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "tapukurqankuchu"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulpa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:29:30.418685405Z",
+  "model": "glm-5.3"
+}

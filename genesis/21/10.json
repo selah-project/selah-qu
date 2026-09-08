@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Abrahamman nirqan: Qarquy kay yanawarminta hinaspa ⟨את⟩ paypa churintawan; imarayku kay yanawarmi churiqa manam ñuqap churiywan, Itsjawan (Isaac), chaniyuq kanqachu.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamman"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "qarquy"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "yanawarmi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa churinta"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "paypa churi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "chaniyuq kanqa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "yanawarmip"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ñuqap churiy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjak (Isaac)"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:34.343778938Z",
+  "model": "glm-5.3"
+}

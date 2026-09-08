@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Kaykunata ruranki, ñuqaqtaq ch'inlla karqani; ñuqa qamhina kanipayta yuyarqanki; kunantaq qamta wanichisaqmi, ñawikillapi llapanmi churasaq.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kaykunata"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ruranki"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "ñuqaqtaq ch'inlla karqani"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "yuyarqanki"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kanipayta"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "qamhina"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "qamta wanichisaqmi"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "churasaqmi"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ñawikillapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:09.445503086Z",
+  "model": "glm-5.3"
+}

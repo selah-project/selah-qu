@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Qallariypi⟨m⟩ Elohim ⟨את⟩ hanaq pachata, ⟨את⟩ kay pachatawan kamarqan.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Qallariypim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kamarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanaq pachata"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kay pachatawan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pachatawan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:17.438013437Z",
+  "model": "glm-5.3"
+}

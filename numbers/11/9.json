@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa ch'uqllapi chawpi tutapi chhulli uraymuqtin, manam chay qhipanpin uraymunmi.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "uraymuqtin"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "chhulli"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ch'uqllapi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "chawpi tutapi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "uraymunmi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "manam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chay qhipanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:30:28.567028611Z",
+  "model": "glm-5.3"
+}

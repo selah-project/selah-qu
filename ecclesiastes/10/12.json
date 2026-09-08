@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yachaqpa siminmanta rimaykuna khuyaymi; yuyaqmanapa wirp'ankunataq ch'unchulta ch'unqachin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "rimaykuna"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simin"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "חן",
+      "gloss": "khuyay"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "hinaspa wirp'ankuna"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "yuyaqmana"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ch'unqachin"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:46.896961134Z",
+  "model": "glm-5.3"
+}

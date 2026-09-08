@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Hinaspa Yahwem yanaparqanku, qispichirqanku; millay runakunamanta qispichikunqaku, hinaspa hark'awakunqaku, imarayku Paypi amachakurqanku.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "Hinaspa ... yanaparqanku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "qispichirqanku"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "qispichikunqaku"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "millay runakunamanta"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "hinaspa hark'awakunqaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "amachakurqanku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Paypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:26.748077319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "«Manachu kay rimaymi Mitsrayimpi qamwan rimarqayku: ‘Saqrariy ñanchikmanta, ⟨את⟩ Mitsrayimkunata yanapasunchik’ nispa? Allinmi ñanchikpaq ⟨את⟩ Mitsrayimkunata yanapay, chakalla pampapi wañusqanchikmanta.»",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rimay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "rimarqayku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimpi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "saqrariy"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ñanchikmanta"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "yanapasunchik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimkunata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimkunata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñanchikpaq"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanapay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimkunata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimkunata"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "wañusqanchikmanta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "chakalla pampapi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:14.302311774Z",
+  "model": "glm-5.3"
+}

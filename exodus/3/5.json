@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Nirqanm: ama kayman qayllamuychu; chakikunaykipi chhuhuykikunata qichuy, imaraykuchus kay pacha, maypi sayachkanki, muqutsa hallp'a ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "qayllamuychu"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "kayman"
+    },
+    {
+      "surface": "של",
+      "gloss": "qichuy"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "chhuhuykikunata"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "patanmanta"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "chakikunayki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "kay pacha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "sayachkanki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "muqutsa hallp'a"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqutsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩mi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:29.870570451Z",
+  "model": "glm-5.3"
+}

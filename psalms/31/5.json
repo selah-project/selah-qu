@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Qatasqamanta hawanman wikch'uwaway kay marrassimanta, chaymi ñuqapaq pakasqaku, qanmi kanki ñuqap sayay wasiy.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "hawanman wikch'uwaway"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "marrassi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kay"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "pakasqaku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qan"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "ñuqap sayay wasiy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:25.088078396Z",
+  "model": "glm-5.3"
+}

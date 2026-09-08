@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Apum willarqan: Wañuyta wañunki, Ahimelek, qam hinallataq taytaykupa wasin llapampas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuyta"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "wañunki"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinallataq llapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytaykupa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:24:02.364221326Z",
+  "model": "glm-5.3"
+}

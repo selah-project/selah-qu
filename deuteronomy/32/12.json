@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Yahwem sapallan pusarqan, mana wak dios paywan kachkanchu ⟨karqanchu⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "sapallan"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "pusarqan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dios"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wak"
+    }
+  ],
+  "timestamp": "2026-09-08T13:26:40.372262280Z",
+  "model": "glm-5.3"
+}

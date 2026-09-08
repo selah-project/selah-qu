@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinaspa ringkunaman churasqa kanqa ⟨את⟩ saratakunata, hinaspa saratakunaqa altap iskay larunpi kanqanku, ⟨את⟩ payta apanapaq.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "churasqa kanqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saratakunata"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "saratakunata"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ringkunaman"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "hinaspa kanqanku"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "saratakunaqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "larunpi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altap"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "apanapaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:37.030671682Z",
+  "model": "glm-5.3"
+}

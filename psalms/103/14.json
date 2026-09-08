@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Imaraykuchus paymi yachan ñuqanchikpa qillqasqanchikta; yuyarillawanchikmi ñuqanchikqa phurusqa hallp'a kasqanchikta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yachan"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ñuqanchikpa qillqasqanchikta"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "yuyarillawanchikmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanchikta"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "phurusqa hallp'a"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ñuqanchikqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:33.867472891Z",
+  "model": "glm-5.3"
+}

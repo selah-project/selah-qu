@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 97,
+  "translation": "Yahwem kamachirqanmi; hallp'a kusikuchun, askha chalakuna phawakusichunkuchá.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kamachirqanmi"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "kusikuchun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "phawakusichunku"
+    },
+    {
+      "surface": "איים",
+      "gloss": "chalakuna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:49.188896278Z",
+  "model": "glm-5.3"
+}

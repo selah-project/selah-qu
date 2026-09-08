@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Runataqa ñit'inqam: runa runawan, sapa runa masiñiwan; waynaqa machulawan sarupayakunqam, ichisqa runataq hatun runawan.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "ñit'inqam"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "runawan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "masiñiwan"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "sarupayakunqam"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "waynaqa"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "machulawan"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "ichisqa runataq"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "hatun runawan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:51:55.088772064Z",
+  "model": "glm-5.3"
+}

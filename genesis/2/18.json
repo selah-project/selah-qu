@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaymanta Yahwe Elohim nirqanmi: runa sapallan kaptinqa mana allinchu; ruwasqaymi paypaq yanapakuqta, paypa qamllanpi kaqta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "chaymanta nirqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "alli"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kaptinqa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "sapallan"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ruwasqaymi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yanapakuqta"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "paypa qamllanpi kaqta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:23.657355081Z",
+  "model": "glm-5.3"
+}

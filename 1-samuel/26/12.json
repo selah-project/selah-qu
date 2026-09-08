@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 26:12",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Davidm ⟨את⟩ q'oreruta hinaspa ⟨את⟩ unu q'apata Shaulpa umanmanta hurqurqan, chaymanta ripurqanku; manam pipas rikurqanchu, manam pipas yacharqanchu, manam pipas parirqanchu — imarayku llapankum puñuchkanku, imarayku Yahwepa sinchi puñuynin paykunapaman urmarqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "q'oreruta"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "q'oreruta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "unu q'apata"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "q'apata"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "מראשתי",
+      "gloss": "umanmanta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulpa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ripurqanku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨ñawpaqman⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam pipas"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rikurqanchu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam pipas"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yacharqanchu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam pipas"
+    },
+    {
+      "surface": "מקיץ",
+      "gloss": "parirqanchu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "llapankum"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "puñuchkanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "תרדמת",
+      "gloss": "sinchi puñuynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "urmarqan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunapaman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:29:48.837427232Z",
+  "model": "glm-5.3"
+}

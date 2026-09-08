@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chayrayku pi-taq El kachkan Yahwemanta pachawan? Hinaspa pi-taq qarata kachkan Elohimninchikmanta pachawan?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi-taq"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "manta pachawan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "hinaspa pi-taq"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qarata"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "manta pachawan"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:38.119559272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Sonqoypi ninirqanimi: Elohimmi ⟨את⟩ allin runata, ⟨את⟩ millay runatapas taripanqa; imaraykuchus sapa munakuypaq pacham ⟨kan⟩, sapa rurasqapaqpas chaypi.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ninirqanimi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sonqoypi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allin runata"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "allin runa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "millay runata"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "millay runa"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "taripanqa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pacha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sapa munakuypaq"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "munakuy"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "sapa rurasqapaqpas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "rurasqa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:06.077427772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "chaymi Yahwe Elohimniyki ⟨את⟩ kutiyniykita kutichinqa, hinaspa qamta khuyakunqa; kutimunqataq qamta huñunqa llapa runa llaqtakunamanta, mayqinkunaman Yahwe Elohimniyki qamta ch'usaqachisqan chaymanta.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "kutichinqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutiyniykita"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "kutiyniykita"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "hinaspa qamta khuyakunqa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "kutimunqa"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "qamta huñunqa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapa...manta"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "runa llaqtakunamanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunaman"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "qamta ch'usaqachisqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chaymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:59:03.788970014Z",
+  "model": "glm-5.3"
+}

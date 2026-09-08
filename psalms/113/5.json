@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 113,
+  "translation": "Pitachus Yahwe Elohimninchikhina — hanaq pachapi tiyanapaq hatunyachikuq?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahwehina"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "hatunyachikuq"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "tiyanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:03.505998290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yahwe, Elohimniy, kayta ruraptiy chayqa, makiyipi llulla kay kaptiy chayqa;",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "אם",
+      "gloss": "... chayqa"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ruraptiy"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "... chayqa"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kay kaptiy"
+    },
+    {
+      "surface": "עול",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "makiyipi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:49.317655534Z",
+  "model": "glm-5.3"
+}

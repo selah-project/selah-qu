@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Nirqanku paymanmi: Musphayta musphayku, mana pipas sut'ichakuq ⟨את⟩ kachkan. Hinaspa Yosef (José) nirqaku paykunaman: Manachu Elohimpimi sut'ichaykuna kanku? Willawankichikmi ñuqaman, iy.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "paymanmi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "musphayta"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "musphayku"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "sut'ichakuq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana pipas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "paywan (mana pipas sut'ichakuq)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqaku"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef (José)"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimpimi"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "sut'ichaykuna"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "willawankichikmi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:10:15.469822489Z",
+  "model": "glm-5.3"
+}

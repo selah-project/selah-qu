@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Ama kawallu hina, mulo hina kaychuchu — mana t'aqllayniyuq ⟨kanchuchu⟩; mat'inawan, riendawan, t'ikasqanwan hark'anapaq, ama qamman chayanankupaq.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "kaychuchu"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "kawallu hina"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "mulo hina"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "t'aqllayniyuq"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "mat'inawan"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "riendawan"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "t'ikasqanwan"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "hark'anapaq"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "chayanankupaq"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:00.152513635Z",
+  "model": "glm-5.3"
+}

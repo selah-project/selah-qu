@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 66:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Yahwepa siminta uyariyichik, paypa siminta lat'anakuqkuna: wawqiykichik, chikniqkuqkuna, qarqokuqkuna, ñuqap Sutipay rayku, nirqanku: Yahwem wiñaykachun, hinaspa qanchik kusikuqaykichikpi rikunchik; chaymi paykuna map'akunqaku.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "uyariyichik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "החרדים",
+      "gloss": "lat'anakuqkuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "wawqiykichik"
+    },
+    {
+      "surface": "שנאיכם",
+      "gloss": "chikniqkuqkuna"
+    },
+    {
+      "surface": "מנדיכם",
+      "gloss": "qarqokuqkuna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ñuqap Sutipa"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "wiñaykachun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "hinaspa rikunchik"
+    },
+    {
+      "surface": "בשמחתכם",
+      "gloss": "kusikuqaykichikpi"
+    },
+    {
+      "surface": "והם",
+      "gloss": "chaymi paykuna"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "map'akunqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:44:53.773047276Z",
+  "model": "glm-5.3"
+}

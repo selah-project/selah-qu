@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 18:10",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Yehoshuam paykunapaq goral (suysuna rumi) Shilohpi Yahwep ñawpaq wisq'arqan; chaypillataqmi Yehoshuam ⟨את⟩ hallp'ata Israelp churinkunaman t'aqarqan, paykuna t'aqasqankama.",
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "wisq'arqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "goral"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "Shilohpi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויחלק",
+      "gloss": "t'aqarqan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "churinkunaman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "paykuna t'aqasqankama"
+    }
+  ],
+  "timestamp": "2026-09-08T03:24:39.244045240Z",
+  "model": "glm-5.3"
+}

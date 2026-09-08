@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Shaultaq qanchis p'unchaw suyakurqanm, Shmuela churasqan p'unchawman; Shmueltaq mana Gilgalman chayamurqanchu, chaymi runakuna paymanta ch'itikurqanku.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "suyakurqanm"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "p'unchawman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "churasqan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayamurqanchu"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmueltaq"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgalman"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "ch'itikurqanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "paymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:11:20.381540931Z",
+  "model": "glm-5.3"
+}

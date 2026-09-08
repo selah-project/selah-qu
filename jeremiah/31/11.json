@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Imaraykuchus Yahwem ⟨את⟩ Yaakovta qispichirqan, paytaq aswan sinchi maqanamanta qispichirqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imaraykuchus"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "qispichirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovta"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "paytaq qispichirqan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "maqanamanta"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "aswan sinchi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T07:17:41.563047729Z",
+  "model": "glm-5.3"
+}

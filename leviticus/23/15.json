@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 23:15",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Chaysi qamkuna yupankichikmi Shabatpa qhipan p'unchawmanta, ⟨את⟩ omer t'ikrasqata apamusqaykichik p'unchawmanta: qanchis Shabat hunt'a tukukunqami.",
+  "tokens": [
+    {
+      "surface": "וספרתם",
+      "gloss": "yupankichik"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "qhipan p'unchawmanta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabatpa"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "p'unchawmanta"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "apamusqaykichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "t'ikrasqa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "שבתות",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "תמימת",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "tukukunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:09:58.275812094Z",
+  "model": "glm-5.3"
+}

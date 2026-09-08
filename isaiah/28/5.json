@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Chay p'unchawmi Yahwe Tsebaotqa sumaq sunk'acham kanqa, k'anchaylla diademam kanqa, paypa runan qhipaqkunapaq.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "sunk'achaman"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "sumaq k'anchay"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "hinaspa diademaman"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "k'anchaylla"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "qhipaqkunapaq"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:08:51.539697634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 146,
+  "translation": "Yahwem wiñay kaman apullanmi, Tsiyon, Elohimniyki; wiñay watawata kamakamalla. Yahta yupaychaychik.",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "apullanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kaman"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "wiñay watawata"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kamakamalla"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:42.384248972Z",
+  "model": "glm-5.3"
+}

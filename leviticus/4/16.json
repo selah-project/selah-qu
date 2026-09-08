@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "leviticus 4:16",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Chaysi willchasqa kohenqa turupa yawarmantam tinkunakupa toldonman apamun.",
+ "tokens": [
+  {
+   "surface": "והביא",
+   "gloss": "apamun"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohenqa"
+  },
+  {
+   "surface": "המשיח",
+   "gloss": "willchasqa"
+  },
+  {
+   "surface": "מדם",
+   "gloss": "yawarmanta"
+  },
+  {
+   "surface": "הפר",
+   "gloss": "turupa"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "toldonman"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "tinkunakupa"
+  }
+ ],
+ "timestamp": "2026-09-08T00:52:18.781237518Z",
+ "model": "glm-5.3"
+}

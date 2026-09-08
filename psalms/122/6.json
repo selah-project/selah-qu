@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 122,
+  "translation": "Mañakuychik Yerushalayimpa (Jerusalén) sumaq kawsayninta; qanta kuyaqkunam allin kawsanqaku.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "mañakuychik"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sumaq kawsayninta"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpa"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "allin kawsanqaku"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "qanta kuyaqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:17.135452600Z",
+  "model": "glm-5.3"
+}

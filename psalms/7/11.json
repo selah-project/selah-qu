@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ñuqap away-chanam Elohimpi tiyan, chiqan sunquyuqkunata qispichaqmi.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "ñuqap away-chanam"
+    },
+    {
+      "surface": "על",
+      "gloss": "Elohimpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "qispichaqmi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "chiqan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunquyuqkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:53.078849436Z",
+  "model": "glm-5.3"
+}

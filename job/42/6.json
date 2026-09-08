@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Chayraykumi ⟨ñuqata⟩ qonakuni, hinaspa aqchupi q'onchawanpi sunquyarquni.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "⟨ñuqata⟩ qonakuni"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "hinaspa sunquyarquni"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "aqchu"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "hinaspa q'onchawan"
+    }
+  ],
+  "timestamp": "2026-09-08T14:22:58.164309287Z",
+  "model": "glm-5.3"
+}

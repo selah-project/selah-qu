@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Chaytam quri chaninwan lluthasqayki, hinaspa ruranki paypaq quri saywata muyuriqta.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "lluthasqayki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "mesata quriwan lluthanata"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "chanin"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruranki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "זר",
+      "gloss": "saywata"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:32.251115390Z",
+  "model": "glm-5.3"
+}

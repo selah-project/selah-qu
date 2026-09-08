@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "micah 7:20",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Cheqata qunki Yaakovman (Jacob), jesedta Abrahamman (Abrahán), imata ñawpa p'unchawkunamanta ñuqaykupa taytaykuman jurarqanki.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "qunki"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqata"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakovman (Jacob)"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesedta"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamman (Abrahán)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "jurarqanki"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "ñuqaykupa taytaykuman"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "p'unchawkunamanta"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ñawpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:10:33.534935966Z",
+  "model": "glm-5.3"
+}

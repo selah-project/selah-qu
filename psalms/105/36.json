@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Hinaspa t'aqarqan llapa lluqspa kawsaqkunata hallp'inkupi, ñawpaqpaq llapan kallpankuhina.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "hinaspa t'aqarqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "lluqspa kawsaqkuna"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "hallp'inkupi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ñawpaqpaq"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "kallpanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:11.260994056Z",
+  "model": "glm-5.3"
+}

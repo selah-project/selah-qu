@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Chaymantataqmi ⟨את⟩ Bené Ammonpa sarusqankunata kutichisaq, Yahwepa nisqanhinam.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Chaymantataq"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayna"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "kutichisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bené Ammonpa sarusqankunata"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "sarusqankunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bené"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonpa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nisqanhinam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:41:02.049767291Z",
+  "model": "glm-5.3"
+}

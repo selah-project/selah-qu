@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Yahwem runap yuyayninkunata riqsinmi, ch'usaq kasqankuta.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "riqsinmi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "yuyayninkunata"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqankuta"
+    },
+    {
+      "surface": "המה",
+      "gloss": ""
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ch'usaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:57.407135264Z",
+  "model": "glm-5.3"
+}

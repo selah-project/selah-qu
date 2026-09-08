@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwe Elohimniykichik, qamkunap ñawpaqninkipi puriq, paym qamkunapaq awqanqam, Mitsrayimpi (Egipto) ñawiykichik ñawpaqta ⟨את⟩ qamkunawan rurasqan llapanta hina.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "qamkunap ñawpaqninkipi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "awqanqam"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "llapanta hina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurasqan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunawan"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimpi"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "ñawiykichik ñawpaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:25:35.811305828Z",
+  "model": "glm-5.3"
+}

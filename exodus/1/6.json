@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yosef wañurqanmi, hinaspa llapan wawqinkuna, chay wata kawsaq runakuna llapanpas wañurqanku.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqinkuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapanpas"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "chay wata kawsaq runakuna"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    }
+  ],
+  "timestamp": "2026-09-08T00:19:03.725970417Z",
+  "model": "glm-5.3"
+}

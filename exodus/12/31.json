@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Qayarqanmi Mosheta, hinaspa Aharenta chay tutapi, hinaspa nirqan: Sayariy, lluqsiy runaypa chawninmanta, qamkunapas, Israelpa wawakunapas; riy, ⟨את⟩ Yahweta serviy, qamkuna rimasqaykichik hina.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Qayarqanmi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "hinaspa Aharenta"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tutapi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "lluqsiy"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "chawninmanta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runaypa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "qamkunapas"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "riy"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "serviy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "qamkuna rimasqaykichik hina"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:10.871432515Z",
+  "model": "glm-5.3"
+}

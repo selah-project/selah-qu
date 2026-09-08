@@ -1,0 +1,76 @@
+{
+ "tier": "glm-5.2",
+ "verse": 30,
+ "ref": "leviticus 26:30",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 26,
+ "translation": "Ñuqam ⟨את⟩ hanan muchana wasiykichikta chinkachisaq, hinaspa ⟨את⟩ inti unanchakunaykichikta kuch'usaq, hinaspa ⟨את⟩ wañusqaykichikta rurasqa dioskunaykichik wañusqankap ukhanpi churasaq, hinaspa Nefeshniym ⟨את⟩ qamkunata millwasaq.",
+ "tokens": [
+  {
+   "surface": "והשמדתי",
+   "gloss": "ñuqam chinkachisaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "janan muchana wasiykichikta"
+  },
+  {
+   "surface": "במתיכם",
+   "gloss": "hanan muchana wasiykichikta"
+  },
+  {
+   "surface": "והכרתי",
+   "gloss": "kuch'usaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "inti unanchakunaykichikta"
+  },
+  {
+   "surface": "חמניכם",
+   "gloss": "inti unanchakunaykichikta"
+  },
+  {
+   "surface": "ונתתי",
+   "gloss": "churasaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "wañusqaykichikta"
+  },
+  {
+   "surface": "פגריכם",
+   "gloss": "wañusqaykichikta"
+  },
+  {
+   "surface": "על",
+   "gloss": "ukhanpi"
+  },
+  {
+   "surface": "פגרי",
+   "gloss": "wañusqankap"
+  },
+  {
+   "surface": "גלוליכם",
+   "gloss": "rurasqa dioskunaykichik"
+  },
+  {
+   "surface": "וגעלה",
+   "gloss": "millwasaq"
+  },
+  {
+   "surface": "נפשי",
+   "gloss": "Nefeshniym"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ qamkunata"
+  }
+ ],
+ "timestamp": "2026-09-08T01:12:53.751323501Z",
+ "model": "glm-5.3"
+}

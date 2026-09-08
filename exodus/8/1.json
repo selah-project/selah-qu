@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Yahwem Mosheman nirqan: Aharonman ni: churay ⟨את⟩ makiykita t'ikraychanaykiwan mayukuna patapi, jirca mayukuna patapiwan, quchakuna patapipas; hawarichiy ⟨את⟩ hamp'atukunata Mitsrayimpa hallp'anpati.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman (Moisés)"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonman (Aarón)"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "churay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makiykita"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykita"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "t'ikraychanaykiwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "mayukuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "jirca mayukuna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa patapi"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "quchakuna"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "hawarichiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamp'atukunata"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "hamp'atukunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "pati"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'an"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa (Egipto)"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:09.502373351Z",
+  "model": "glm-5.3"
+}

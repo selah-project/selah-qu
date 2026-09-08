@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Niy Zerubabelman (Zorobabel), Yehudahpa umalliqninman, niyta: ñuqam ⟨את⟩ hanaq pachata, hinaspa ⟨את⟩ kay pachata t'akishani.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Niy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "umalliqnin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudahpa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "niyta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "t'akishani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hanaq pachata"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kay pachata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacha"
+    }
+  ],
+  "timestamp": "2026-09-08T09:15:01.900002913Z",
+  "model": "glm-5.3"
+}

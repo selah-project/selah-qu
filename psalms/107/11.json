@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Imaraykum Elpa rimasqankunata qatinakurqanku, hinaspa Elyonpa yuyayninta muchurqankum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "qatinakurqanku"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "rimasqankunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elpa"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "hinaspa yuyayninta"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonpa"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "muchurqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:13.386049935Z",
+  "model": "glm-5.3"
+}

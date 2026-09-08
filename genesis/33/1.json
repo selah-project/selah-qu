@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 33:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Yaakov (Jacob) ñawinkunata huqarirqanmi, qhawarqanmi; chayqa Esaw (Esaú) hamusharqanmi, paywan tawa pachak runakuna. Wawakunata Leaman (Lía), Rajelman (Raquel), iskay yanakunamanpas t'aqarqan.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "huqarirqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ñawinkunata"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamusharqan"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "t'aqarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawakunata"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "wawakunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "-man"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "-manwan"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "-manwan"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "yanakunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:07:43.635233044Z",
+  "model": "glm-5.3"
+}

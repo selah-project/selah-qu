@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 8:8",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaymantam chaymanta Penuelman (Penuel) siqarqan, paykunaman chaynintam willarqan; Pnuel runakunam ⟨את⟩ payta kutichirqan, Sukotpa (Succoth) runakuna kutichisqankuman hina.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "siqarqan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Pnuelman"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "chayninta"
+    },
+    {
+      "surface": "ויענו",
+      "gloss": "kutichirqanku"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Pnuelpa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "kutichisqanku"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukotpa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:32:37.275957365Z",
+  "model": "glm-5.3"
+}

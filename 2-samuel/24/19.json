@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Gadpa siminman hina David sayarirqan, Yahwepa kamachisqan hina.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "siminman hina"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadpa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachisqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:55:28.045653684Z",
+  "model": "glm-5.3"
+}

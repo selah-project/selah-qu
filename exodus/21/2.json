@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Sichus huk ebreo yanata rantinkim, suxta watam llank'asqam; qanchis kaq watapis pay q'ala ch'usaqta lliphipiysi lluqsinqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "rantinkim"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanata"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ebreo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "suxta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "watam"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "llank'asqam"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "qanchis kaq watapis"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsinqa"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "lliphipiysi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "q'ala ch'usaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:30.207850891Z",
+  "model": "glm-5.3"
+}

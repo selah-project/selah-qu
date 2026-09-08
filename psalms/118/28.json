@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 118,
+  "translation": "Qanmi Elniy kanki; hinaspam añaychayki. Elohimniy, hat'alleyki.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Elniy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "hinaspam añaychayki"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "hat'alleyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:12.844473264Z",
+  "model": "glm-5.3"
+}

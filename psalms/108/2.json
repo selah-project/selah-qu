@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 108,
+  "translation": "Sayachisqañam sunquy, Elohim; takiyta willani, takinipunitaq chaninniywanpas.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "Sayachisqañam"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "takiyta willani"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "takinipunitaq"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pas"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "chaninniywan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:01.198046792Z",
+  "model": "glm-5.3"
+}

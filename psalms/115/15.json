@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 115,
+  "translation": "Qamkunaqa Yahwepa bendisqam kankichik, hanaq pachata, kay pachatawan ruraq.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "bendisqam"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkunaqa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "kay pachatawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:19.124546551Z",
+  "model": "glm-5.3"
+}

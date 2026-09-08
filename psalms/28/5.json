@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Imaraykuchus Yahwepa llamk'asqankunata manam yachanku, manataq paypa makinpa rurasqankunatachu; paymi paykunata chakmachinqa, manataq tikraqkuwachinqachu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "yachanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨manam ...chu-ta⟩"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "llamk'asqankunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rurasqankunata"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "paypa makinpa"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "paykunata chakmachinqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "tikraqkuwachinqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:21.856423570Z",
+  "model": "glm-5.3"
+}

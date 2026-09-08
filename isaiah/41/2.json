@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 41:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Pita inti paqariy ladumanta huk cheqalla runata sayarichirqan, qayarqanmi payta chakinninman? Qunmi runa llaqtakunata paypa ñawpaqnen, hinaspa apukunata ñit'in; qunmi tuqya hina espadanwan, paja wayra qatisqa hina warakanwan.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pita"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sayarichirqan"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "inti paqariy ladumanta"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cheqalla"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "qayarqan payta"
+    },
+    {
+      "surface": "לרגלו",
+      "gloss": "chakinninman"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qun"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "paypa ñawpaqnen"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "runa llaqtakunata"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "hinaspa apukunata"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ñit'in"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qun"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "tuqya hina"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "espadanwan"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "paja hina"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "wayra qatisqa"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "warakanwan"
+    }
+  ],
+  "timestamp": "2026-09-08T13:48:21.042498011Z",
+  "model": "glm-5.3"
+}

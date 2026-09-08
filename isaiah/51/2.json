@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Qhawaychik Abrahamta (Abrahán) taytaykichikta, hinallataq Sarahta (Sara), kankichikta wachaqta: hukllata ñuqam qayarqani, ñuqam bendisirqanim, ñuqam askhacharqanim.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Qhawaychik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamta"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "taytaykichikta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinallataq man"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahta"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "kankichikta wachaqta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "hukllata (chaqru)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huklla"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "qayarqani"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "bendisirqanim"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "askhacharqanim"
+    }
+  ],
+  "timestamp": "2026-09-08T06:37:37.583976756Z",
+  "model": "glm-5.3"
+}

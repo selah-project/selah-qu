@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hanaq pachapas kay pachapas tukuchikurqankum, llapan awqankunatawan.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "tukuchikurqanku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachapas"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kay pachapas"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "awqankunatawan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:06.867074030Z",
+  "model": "glm-5.3"
+}

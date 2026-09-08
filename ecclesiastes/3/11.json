@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 3:11",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Tukuytam sumaq ruwarqan paypa pachanpi; wiñaytawan churarqan sunk'inchikpi, mana imapas ñawpaqmanta yachaspa, runa mana tarinanku atiptin ⟨את⟩ ruwayta mayta Elohim ruwarqan, qallarimantataq puchukaynikama.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuyta"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "paypa pachanpi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wiñayta"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "sunk'inchikpi"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "mana imapas ñawpaqmanta yachaspa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tarinanku atiptin"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruwayta"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ruway"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "qallarimanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "-taq"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "puchukaynikama"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:05.159811374Z",
+  "model": "glm-5.3"
+}

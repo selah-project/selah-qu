@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Uyariy Yahwepa rimayta, Sodompa kamachikuqninkuna; allinta uyariyichik Elohimninchikpa Toranta, Amorapa runakuna.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Uyariy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "kamachikuqninkuna"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodompa"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "allinta uyariyichik"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Toranta"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorapa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:49:37.547595763Z",
+  "model": "glm-5.3"
+}

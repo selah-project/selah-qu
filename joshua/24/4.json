@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa Itsjakman (Isaac) ⟨את⟩ Yaakovta (Jacob) hinaspa ⟨את⟩ Esawta (Esaú) qarqanim; hinaspa Esawman ⟨את⟩ Seir orquta qarqanim ⟨את⟩ payta hap'inanpaq; hinaspa Yaakovpa wawankunawan Mitsrayinman (Egipto) urmayurqankum.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "hinaspa qarqanim"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Itsjakman (Isaac)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovta (Jacob)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Esawta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawta (Esaú)"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "hinaspa qarqanim"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esawman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seir orquta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orquta"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "hap'inanpaq"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ payta"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "hinaspa Yaakovpa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "wawankunawan"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "urmayurqankum"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayinman (Egipto)"
+    }
+  ],
+  "timestamp": "2026-09-08T13:33:27.847227524Z",
+  "model": "glm-5.3"
+}

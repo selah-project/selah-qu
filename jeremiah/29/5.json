@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Wasikunata ruwaychik, chaypi tiyaychik; muyukunata chakraychik, ⟨את⟩ phalantawan mikhuychik.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "ruwaychik"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "wasikunata"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "chaypi tiyaychik"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "chakraychik"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "muyukunata"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mikhuychik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phalantawan"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "phalantawan"
+    }
+  ],
+  "timestamp": "2026-09-08T13:54:00.012244368Z",
+  "model": "glm-5.3"
+}

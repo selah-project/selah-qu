@@ -1,0 +1,63 @@
+{
+ "tier": "glm-5.2",
+ "verse": 32,
+ "ref": "numbers 21:32",
+ "book": "numbers",
+ "lang": "qu",
+ "chapter": 21,
+ "translation": "Moshem watiqakunata kacharqan ⟨את⟩ Yazerta; llaqtankunata hap'irqanku, ⟨את⟩ chaypi kaq emoritakunata qarqurqanku.",
+ "tokens": [
+  {
+   "surface": "וישלח",
+   "gloss": "kacharqan"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshe"
+  },
+  {
+   "surface": "לרגל",
+   "gloss": "watiqakunata"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yazerta"
+  },
+  {
+   "surface": "יעזר",
+   "gloss": "Yazer"
+  },
+  {
+   "surface": "וילכדו",
+   "gloss": "hap'irqanku"
+  },
+  {
+   "surface": "בנתיה",
+   "gloss": "llaqtankunata"
+  },
+  {
+   "surface": "ויירש",
+   "gloss": "qarqurqanku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "emoritakunata"
+  },
+  {
+   "surface": "האמרי",
+   "gloss": "emoritakunata"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqin"
+  },
+  {
+   "surface": "שם",
+   "gloss": "chaypi"
+  }
+ ],
+ "timestamp": "2026-09-08T01:36:47.320527443Z",
+ "model": "glm-5.3"
+}

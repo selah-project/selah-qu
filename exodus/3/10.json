@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Kunanqa hamuy; qamta Paro (Faraón)man apachisayki, ⟨את⟩ runayta, Israelpa churinkunata, Mitsrayimmanta hatarichinaykipaq.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kunanqa"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hamuy"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "qamta apachisayki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroman"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "hatarichinaykipaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runayta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runayta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:31.190505405Z",
+  "model": "glm-5.3"
+}

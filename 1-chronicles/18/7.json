@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chaym David ⟨את⟩ qori escudokunata hap'irqan, mayqinkuna Hadadezerva yanakunap patapi karqan, chayta Yerushalayimman apamurqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qori escudokunata"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "escudokuna"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanakunap"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerva"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "apamurqan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimman"
+    }
+  ],
+  "timestamp": "2026-09-08T12:46:18.816963967Z",
+  "model": "glm-5.3"
+}

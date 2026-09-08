@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Yarqunmi: wasi Israelwan wasi Yehudahwan llulla llullakurqanku ñuqata, Yahwepa nisqanmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "yarqunmi"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "llullakurqanku"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "wasitaq"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nisqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:50:03.889781116Z",
+  "model": "glm-5.3"
+}

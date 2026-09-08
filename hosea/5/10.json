@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Yehudahpa kurakakunaqa saywa qatisqakuna hina karqanm; paykunapaman unu hina phiñakuyta tumbarqasaqm.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "karqanm"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kurakakuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudahpa"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "saywa qatisqakuna hina"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "saywa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunapaman"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "tumbarqasaqm"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "unu hina"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "phiñakuyta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:44:00.039163042Z",
+  "model": "glm-5.3"
+}

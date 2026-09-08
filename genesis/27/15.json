@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 27:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Chaysim Rivkah (Rebeca) ⟨את⟩ paypa hatun wawan Esawpa (Esaú) wasipi paywan ⟨את⟩ kachkaq sumaq p'achakunata aparqan; hinaspa ⟨את⟩ huch'uy wawan Yaakovta (Jacob) churarqan.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "aparqan"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivkah (Rebeca)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achakunata"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "p'achakunata"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawpa (Esaú)"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "paypa wawan"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "החמדת",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kachkaq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "paywan ⟨את⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovta (Jacob)"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "paypa wawan"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "huch'uy"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:27.880421942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Qampas, Yahwe, ñuqap escudoy kanki ⟨kan⟩mi; ñuqap k'anchayniy hinaspa ñuqap umayta hanaqchaqmi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Qampas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "escudoy"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ñuqap k'anchayniy"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "hanaqchaq"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ñuqap umayta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:41.259026901Z",
+  "model": "glm-5.3"
+}

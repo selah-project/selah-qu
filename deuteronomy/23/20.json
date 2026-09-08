@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Ama ñawpaqninta churankichu wawqiykiwan: qullqep ñawpaqnin, mihunap ñawpaqnin, llapan imappas ñawpaqnin, ima ñawpaqninta churasqa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ñawpaqninta churankichu"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "wawqiykiwan"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqep"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mihunap"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "imappas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ñawpaqninta churasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:50:17.224464063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Waskachaypa qayllanpin karqanmi ⟨את⟩ anillokuna, palanakunapa tiyana hina, mesata apunapaq.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "qayllanpin"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "waskachaypa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "anillokuna"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "tiyana hina"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "palanakunapa"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "apunapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesata"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:04.213251513Z",
+  "model": "glm-5.3"
+}

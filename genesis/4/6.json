@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Yahwem Kayinman nirqanmi: ¿Imarayku phiñakusqayki, imaraykutawan ñawiyki urmaykan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "phiñakusqayki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yki"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "imaraykutawan"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "urmaykan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiyki"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:02.973733610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Runakunam iñirqanku; Yahwem ⟨את⟩ Israelpa churinkunata qawasqanta, hinaspa ⟨את⟩ llakikusqankunata rikusqantawan uyarirqankum; humiykukurqanku hinaspa p'ampachakurqanku.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "iñirqankum"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "uyarirqankum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chasqa"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "qawasqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa churinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "hinaspa chasqa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rikusqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llakikusqankunata"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "llakikusqankunata"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "humiykukurqanku"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "p'ampachakurqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:37.288334848Z",
+  "model": "glm-5.3"
+}

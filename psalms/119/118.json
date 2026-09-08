@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Sayachikurqankimi llapan pantaqkunata kamachiykuniykimanta; imaraykuchus llulla kanmi paykunap q'atipakuynin.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "sayachikurqankimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "pantaqkunata"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "kamachiykuniykimanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "paykunap q'atipakuynin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:46.376392658Z",
+  "model": "glm-5.3"
+}

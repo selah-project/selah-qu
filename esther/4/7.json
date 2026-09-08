@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa Mordecai (Mardoqueo) payman willarqan ⟨את⟩ tukuy imas karqantam, hinaspa ⟨את⟩ qullqipa chaninnintam Haman (Amán) apu qullqi wasiman churanapaq nisqanta, Yehudi runakunata chinkachinapaq.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai (Mardoqueo)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy imas karqanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imas"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "karqanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qullqipa chaninninta"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "chaninnin"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qullqipa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nisqanta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nisqanta"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman (Amán)"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "churanapaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "man"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "qullqi wasi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "Yehudi runakunata"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "chinkachinapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:25:01.039595098Z",
+  "model": "glm-5.3"
+}

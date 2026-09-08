@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Adadmi ayqirqan — pay hinaspa huk Edomi runakuna, taytan yanapaqkunamanta, ⟨את⟩ paywan — Mitsrayim (Egipto)man yaykunankupaq; Hadadqa huch'uy wawas karqanmi.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "ayqirqan"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "hinaspa huk runakuna"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "yanapaqkunamanta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "paywan (H854 'with him', preposición)"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yaykunankupaq"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimman"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "Hadadqa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "huch'uy"
+    }
+  ],
+  "timestamp": "2026-09-08T05:11:19.206084099Z",
+  "model": "glm-5.3"
+}

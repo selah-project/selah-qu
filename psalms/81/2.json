@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "Takichiy Elohimman, atiyninchikta; qapariy Yaakovpa Elohimninman.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Takichiy"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "atiyninchikta"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "qapariy"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimninman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:26.178121858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Kaykunam Shelomoh sayarichirqan ⟨את⟩ Elohimpa wasinta wasichaypaq: sunjin, ama tupuwan, ñawpa tupuwan suqta chunka ama; anchantaq iskay chunka ama.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "sayarichirqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "wasichaypaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimpa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "sunjin"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama tupuwan"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "tupuwan"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "ñawpa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "suqta chunka"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "anchantaq"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    }
+  ],
+  "timestamp": "2026-09-08T12:56:27.371737283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa ⟨את⟩ Baalpa sayaq rumita thaqaykuchispa, ⟨את⟩ Baalpa wasintapas thaqaykuchirqankum; hinaspa chayta hispana wasi t'ikrarqanku, kay p'unchawkamam.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "thaqaykuchispa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayaq rumita"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "sayaq rumi"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalpa"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "thaqaykuchirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalpa"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "t'ikrarqanku"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "hispana wasi hina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kamam"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T05:31:14.327236007Z",
+  "model": "glm-5.3"
+}

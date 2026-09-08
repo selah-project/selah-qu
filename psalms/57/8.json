@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 57,
+  "translation": "Sonqolluymi, Elohim, sonqolluymi sayasqa; takisaqmi, takimanmi qhawarisaq.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "sayasqa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Sonqolluymi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sayasqa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqolluymi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "takisaqmi"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "takimanmi qhawarisaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:02.284032258Z",
+  "model": "glm-5.3"
+}

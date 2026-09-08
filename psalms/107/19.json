@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Chaymanta Yahweman qaparqankum llakikusqankupi; llakikusqankumanta qespichirqankum.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "qaparqankum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "llakikusqankupi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunap"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "llakikusqankumanta"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "qespichirqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:19.688946366Z",
+  "model": "glm-5.3"
+}

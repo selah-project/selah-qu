@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Paykunahina kanqakum ruraqninku; llapanmi paykunapi hark'akun.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "paykunahina"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ruraqninku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ima⟩"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "hark'akun"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paykunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:29.282242496Z",
+  "model": "glm-5.3"
+}

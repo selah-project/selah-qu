@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Huk kutillam santus kayniyman tajyaspa: Davidmanqa manam llullasaqchu.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "huk kutilla"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "tajyaspa"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "santus kayniyman"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨mana nispa⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidman"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "llullasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:24.541393651Z",
+  "model": "glm-5.3"
+}

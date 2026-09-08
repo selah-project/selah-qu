@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Qhawaspa karqanim: chay rawk'anam qadishinkunawan maqanakuyta ruwarqan, paykunatataq atirqan.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "karqanim"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "chay rawk'ana"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "chay"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "maqanakuy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "qadishinkuna"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "atirqan"
+    },
+    {
+      "surface": "להון",
+      "gloss": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T12:00:34.443974577Z",
+  "model": "glm-5.3"
+}

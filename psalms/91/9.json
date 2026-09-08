@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "Chayrayku qam, Yahwe, chupanaymi kanki; Elyonta (hanaq kaq) wasiyki hina churanki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "chupanay"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "wasiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:54.878959065Z",
+  "model": "glm-5.3"
+}

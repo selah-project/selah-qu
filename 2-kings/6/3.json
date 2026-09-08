@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa huknin nirqan: «Samiy, munaspayki, hinaspa ⟨את⟩ yanqaykikunawan puriy.» Hinaspa pay nirqan: «Ñuqam risaq.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huknin"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "samiy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "munaspayki"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "puriy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanqaykikunawan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "yanqaykikuna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "risaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:26:58.694197957Z",
+  "model": "glm-5.3"
+}

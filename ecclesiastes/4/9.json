@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Iskayninmi hukmanta aswan allin, imaraykuchus paykunamanqa ñak'ariyninkupi allin pagota ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "allin"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "iskaynin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunamanqa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "pago"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ñak'ariyninkupi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:42.560075698Z",
+  "model": "glm-5.3"
+}

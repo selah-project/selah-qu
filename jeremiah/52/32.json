@@ -1,0 +1,64 @@
+{
+ "tier": "glm-5.2",
+ "verse": 32,
+ "ref": "jeremiah 52:32",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 52,
+ "translation": "Hinaspa ⟨את⟩ paywan allin rimakuykunata rimarqan, hinaspa ⟨את⟩ tiyananta Bavelpi ⟨את⟩ paywan kashaq apukunap tiyanankunap hawanpi churarqan.",
+ "tokens": [
+  {
+   "surface": "וידבר",
+   "gloss": "hinaspa rimarqan"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ paywan",
+   "marks": "paywan"
+  },
+  {
+   "surface": "טבות",
+   "gloss": "allin rimakuykunata"
+  },
+  {
+   "surface": "ויתן",
+   "gloss": "hinaspa churarqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "tiyananta"
+  },
+  {
+   "surface": "כסאו",
+   "gloss": "tiynan"
+  },
+  {
+   "surface": "ממעל",
+   "gloss": "hawanpi"
+  },
+  {
+   "surface": "לכסא",
+   "gloss": "tiyanankunap"
+  },
+  {
+   "surface": "מלכים",
+   "gloss": "apukuna"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kashaq"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "⟨את⟩ paywan",
+   "marks": "paywan"
+  },
+  {
+   "surface": "בבבל",
+   "gloss": "Bavelpi"
+  }
+ ],
+ "timestamp": "2026-09-08T07:50:50.253874681Z",
+ "model": "glm-5.3"
+}

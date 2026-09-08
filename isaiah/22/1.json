@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Gei Jizonpa (qhawariy qhichwa) masanmi. Imataq qamwan karqan, kunantaq, chaymi tukuy kikiyki wasikunap hawanman riyrqanki?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "masa (carga, profecia)"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "gei (qhichwa)"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "Jizon (qhawariy)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "riyrqanki"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "tukuy kikiyki"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "wasikunap hawanman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:05:27.883517449Z",
+  "model": "glm-5.3"
+}

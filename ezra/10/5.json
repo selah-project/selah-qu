@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "ezra 10:5",
+ "book": "ezra",
+ "lang": "qu",
+ "chapter": 10,
+ "translation": "Chaymanta Ezra sayarirqanm, hinaspa ⟨את⟩ kohenkunap umalliqninkunata, Leviykunatawan, llapan Israeltawan kay rimanahina ruwanankupaq juramentota churarirqan; chaysi llapanm juramentota ruwarqanku.",
+ "tokens": [
+  {
+   "surface": "ויקם",
+   "gloss": "sayarirqan"
+  },
+  {
+   "surface": "עזרא",
+   "gloss": "Ezra"
+  },
+  {
+   "surface": "וישבע",
+   "gloss": "hinaspa juramentota churarirqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "kohanakunap umalliqninkunata, Leviykunatawan, llapan Israeltawan"
+  },
+  {
+   "surface": "שרי",
+   "gloss": "umalliqninkuna"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "kohenkunap"
+  },
+  {
+   "surface": "הלוים",
+   "gloss": "Leviykuna"
+  },
+  {
+   "surface": "וכל",
+   "gloss": "hinaspa llapan"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "לעשות",
+   "gloss": "ruwanankupaq"
+  },
+  {
+   "surface": "כדבר",
+   "gloss": "rimanahina"
+  },
+  {
+   "surface": "הזה",
+   "gloss": "kay"
+  },
+  {
+   "surface": "וישבעו",
+   "gloss": "juramentota ruwarqanku"
+  }
+ ],
+ "timestamp": "2026-09-08T14:27:34.355036928Z",
+ "model": "glm-5.3"
+}

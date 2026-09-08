@@ -1,0 +1,69 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "ezekiel 7:15",
+ "book": "ezekiel",
+ "lang": "qu",
+ "chapter": 7,
+ "translation": "Churikaqmi wasin hawanpi kachkan; unuchiq hinaspa yarqachuqtaq wasin ukhunpi. Maypichus hallp'apichus kachkan, churikaqwanmi wañunqa; maypichus llaqtapichus kachkan, chayta yarqachuqwan unuchiqwan mikhusqakaq.",
+ "tokens": [
+  {
+   "surface": "החרב",
+   "gloss": "churikaq"
+  },
+  {
+   "surface": "בחוץ",
+   "gloss": "wasin hawanpi"
+  },
+  {
+   "surface": "והדבר",
+   "gloss": "hinaspa unuchiq"
+  },
+  {
+   "surface": "והרעב",
+   "gloss": "yarqachuqtaq"
+  },
+  {
+   "surface": "מבית",
+   "gloss": "wasin ukhunpi"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "maypichus"
+  },
+  {
+   "surface": "בשדה",
+   "gloss": "hallp'api"
+  },
+  {
+   "surface": "בחרב",
+   "gloss": "churikaqwan"
+  },
+  {
+   "surface": "ימות",
+   "gloss": "wañunqa"
+  },
+  {
+   "surface": "ואשר",
+   "gloss": "maypichus"
+  },
+  {
+   "surface": "בעיר",
+   "gloss": "llaqtapi"
+  },
+  {
+   "surface": "רעב",
+   "gloss": "yarqachuqwan"
+  },
+  {
+   "surface": "ודבר",
+   "gloss": "unuchiqwan"
+  },
+  {
+   "surface": "יאכלנו",
+   "gloss": "mikhusqakaq"
+  }
+ ],
+ "timestamp": "2026-09-08T07:52:09.783607451Z",
+ "model": "glm-5.3"
+}

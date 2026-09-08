@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Wata kutimuqtinmi Ben Hadad ⟨את⟩ Aramta (Siria) yupaykurqan, hinaspa Afeqaman siqarqan Israelwan maqanakunapaq.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "kutimuqtin"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "yupaykurqan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramta"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramta (Siria)"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "siqarqan"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeqaman"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "maqanakunapaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelwan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:20:27.713904143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 19:20",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaymanta Yeshayahu (Isaías), Amotspa churin, Hizkiyahu (Ezequías)man kachamurqa kayta ninampaq: Kayta nim Yahwe, Israelpa Elohimnin: Sancherib (Senaquerib), Ashurpa apin, rayku ñuqaman mañakusqaykimwan uyarinim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kachamurqa"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta ninampaq"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "התפללת",
+      "gloss": "mañakusqaykim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manta"
+    },
+    {
+      "surface": "סנחרב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurpa"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "uyarinim"
+    }
+  ],
+  "timestamp": "2026-09-08T05:45:17.211067493Z",
+  "model": "glm-5.3"
+}

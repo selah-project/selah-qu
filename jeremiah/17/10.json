@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 17:10",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Ñuqam Yahwe: sunquta maskhakuni, rurakunata awaychakuni, huk runaman pay ñanninman, pay ruraskankunap frutinman hina qunanpaq.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "maskhakuni"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "awaychakuni"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "rurakuna"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "hinaspa qunanpaq"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "huk runaman"
+    },
+    {
+      "surface": "כדרכו",
+      "gloss": "pay ñanninman"
+    },
+    {
+      "surface": "כפרי",
+      "gloss": "pay ruraskankunap frutinman hina"
+    },
+    {
+      "surface": "מעלליו",
+      "gloss": "pay ruraskankuna"
+    }
+  ],
+  "timestamp": "2026-09-08T07:05:40.144504398Z",
+  "model": "glm-5.3"
+}

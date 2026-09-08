@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Edotyki (testimoniykip) ñanninpi kusikurqanim, llapan qollqeyuq kayman hina.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "ñanninpi"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "edotyki"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "kusikurqanim"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "hina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הון",
+      "gloss": "qollqeyuq kayman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:34.653989230Z",
+  "model": "glm-5.3"
+}

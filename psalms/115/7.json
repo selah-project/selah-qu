@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 115,
+  "translation": "Makikuna paykunapmi, icha manam llawanmuchu; chakikuna paykunapmi, icha manam purinkuchu; kunkanpipas manam rimarikunkuchu.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "makikuna paykunap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha manam"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "llawanmuchu"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "chakikuna paykunap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha manam"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "purinkuchu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "rimarikunkuchu"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "kunkanpipas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:54.275358829Z",
+  "model": "glm-5.3"
+}

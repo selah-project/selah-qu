@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "«Ahabpa wasin llapanmi chinkanqa; Ahabmanta q'iripi q'iritakuqta, watasqatawan, saqisqatawan Israelpi kuchunqani».",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "chinkanqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabpa"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kuchunqani"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahabmanta"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "q'iritakuq"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "q'iripi"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "watasqa"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "saqisqa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:29:31.599543021Z",
+  "model": "glm-5.3"
+}

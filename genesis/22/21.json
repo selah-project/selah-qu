@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "⟨את⟩ Utsta (Uts), paqariq wawankunam, hinaspa ⟨את⟩ Butsta (Buz), wawqenpa, hinaspa ⟨את⟩ Kemuelta (Kemuel), Arampa taytan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Utsta"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uts"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "paqariq wawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Butsta"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kemuelta"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Kemuel"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:13.906520341Z",
+  "model": "glm-5.3"
+}

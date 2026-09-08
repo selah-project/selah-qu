@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 22:21",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Yahwem ñuqap allin kayniyman hina ñuqata qatirqan, makikunap ch'uya kayninman hina ñuqaman kutichirqan.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "ñuqata qatirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "ñuqap allin kayniyman hina"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ch'uya kayninman hina"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makikunap"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:53:55.892047903Z",
+  "model": "glm-5.3"
+}

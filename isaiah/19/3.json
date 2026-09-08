@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa Mitsrayimpa samayninta kay ukhupi ch'usaqchanmi, hunt'a yuyaynintataq ch'unqanmi; chaysi rurasqa dioskunaman, aklla-rimaqkunaMAN, aya rimaqkunaman, pacha yachaqkunaman tapukunqakumi.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "ch'usaqchanmi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "samaynin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "kay ukhupi"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "hunt'a yuyayninta"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ch'unqanmi"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "tapukunqaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "rurasqa dioskunaman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "man"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "aklla-rimaqkunaman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "man"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "aya rimaqkunaman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "pacha yachaqkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:05:22.133150814Z",
+  "model": "glm-5.3"
+}

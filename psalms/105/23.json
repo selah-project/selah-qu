@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 23,
+ "ref": "psalms 105:23",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 105,
+ "translation": "Israelpas Mitsrayimman chayarqanm, Yaakovtaq Cham hallp'api tiyaq karqan.",
+ "tokens": [
+  {
+   "surface": "ויבא",
+   "gloss": "chayarqan"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "Mitsrayim"
+  },
+  {
+   "surface": "ויעקב",
+   "gloss": "Yaakovtaq"
+  },
+  {
+   "surface": "גר",
+   "gloss": "tiyaq"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "hallp'api"
+  },
+  {
+   "surface": "חם",
+   "gloss": "Cham"
+  }
+ ],
+ "timestamp": "2026-09-08T10:15:47.448656721Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Ñuqam Yahwe, Elohimniykichik, mayqinmischus ñuqam ⟨את⟩ qamkunata Mitsrayim (Egipto) hallp'amanta lluqsichirqayki, qamkunaman ⟨את⟩ Kanaan hallp'ata qusqaykichikpaq, qamkunapaq Elohim kanaykichikpaq.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ñuqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinmis"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "lluqsichirqayki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "Mitsrayim hallp'amanta lluqsichisqa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "qusqaykichikpaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaan hallp'ata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kanaykichikpaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-08T01:08:41.397651620Z",
+  "model": "glm-5.3"
+}

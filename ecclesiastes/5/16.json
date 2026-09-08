@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Tukuy p'unchawninkunapiqa llanthupi mikhuqmi; sinchi phiñakuywan, onqoywanwan, chiriyawanwan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "-wanmi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "p'unchawninkunapiqa"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "llanthupi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhuq"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "phiñakuywan"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "onqoywanwan"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "chiriyawanwan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:54.172436946Z",
+  "model": "glm-5.3"
+}

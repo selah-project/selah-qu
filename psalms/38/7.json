@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Q'iwisqa karqanim, p'allasqa karqanim aswankama; tukuy p'unchawta llakikuspa purirqanim.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "q'iwisqa karqanim"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "p'allasqa karqanim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "llakikuspa"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "purirqanim"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:23.247430300Z",
+  "model": "glm-5.3"
+}

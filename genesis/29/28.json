@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yaakovm chayhina ruwarqan, kay qanchis-p'unchawta hunt'arqan; chaysi qurqan payman ⟨את⟩ Rajelta, paypa churinta, payman warminta.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "hunt'arqan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis-p'unchawta"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rajelta"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajelta"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "paypa churinta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "warminta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:39.920656669Z",
+  "model": "glm-5.3"
+}

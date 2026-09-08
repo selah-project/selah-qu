@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Hinaspa Elohim, ñuqap apuy, qallarimantapacham qispichiykunata ruwaq hallp'ap ukhunpi.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Hinaspa Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ñuqap apuy"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "qallarimantapacha"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "qispichiykuna"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:49.612923076Z",
+  "model": "glm-5.3"
+}

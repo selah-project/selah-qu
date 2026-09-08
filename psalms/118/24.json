@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 118,
+  "translation": "Kay p'unchawta Yahwem rurarqan; kusikusunchik, k'ancharisunchik chaypi.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "kusikusunchik"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "k'ancharisunchik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:59.413594026Z",
+  "model": "glm-5.3"
+}

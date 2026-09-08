@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Israelpa churiykuq chimpa rantinmanta — mayqinta Moshem awqapura runakunamanta rakirqan —",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "chimpa rantinmanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiykuq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "rakirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "runakunamanta"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "awqapura"
+    }
+  ],
+  "timestamp": "2026-09-08T02:20:11.576287269Z",
+  "model": "glm-5.3"
+}

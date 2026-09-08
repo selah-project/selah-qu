@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaqapmi sichus t'ikrayta qaparinki, t'ikraymanmi waqaykita wikch'unki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chaqapmi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "t'ikrayta"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "qaparinki"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "t'ikrayman"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wikch'unki"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "waqaykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:23.842861064Z",
+  "model": "glm-5.3"
+}

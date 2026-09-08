@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Ñuqataq k'ikam kanim, mana runachu; runakunapa q'awachasqanmi, llaqta runakunapa ch'iquisqanpas.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ñuqataq"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "k'ikam kanim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "q'awachasqan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runakunapa"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "ch'iquisqanpas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "llaqta runakunapa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:35.590229870Z",
+  "model": "glm-5.3"
+}

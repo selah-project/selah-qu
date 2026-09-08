@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Kusa runam Yahwepa takinqa runakuna; Ñawiykipa k'anchayninpin purinku.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runam"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "...pa takinqa runakuna"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "takinqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "באור",
+      "gloss": "k'anchayninpin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Ñawiykipa"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "purinku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:47.531768064Z",
+  "model": "glm-5.3"
+}

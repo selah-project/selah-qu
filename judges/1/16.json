@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Moshepa (Moisés) masinmi Keni churinkunapas, palma llaqtamanta lluqsispa, ⟨את⟩ Yehudap (Judá) churinkunawan haykurqanku Yehudap ch'usaq pachanman, Aradpa Néguebpin kasqanman; chaysi purirqanku, ⟨את⟩ runakunapi tiyarqanku.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "Keni"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "masin"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "haykurqanku"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "llaqtamanta"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "palmakuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ kuska",
+      "marks": "Yehudap churinkuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ch'usaq pacha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqan"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Néguebpi"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "Arad"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakuna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:36:20.394123933Z",
+  "model": "glm-5.3"
+}

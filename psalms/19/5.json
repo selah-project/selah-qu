@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Llapan hallp'api watan lluqsimunmi, pachap chakananmanmi rimayninkuna; intipaq chaypi wasita churarqan.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "llapanpi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsimun"
+    },
+    {
+      "surface": "קום",
+      "gloss": "watan"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "chakananman"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pachap"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "rimayninkuna"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "intipaq"
+    },
+    {
+      "surface": "שם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:48.797426371Z",
+  "model": "glm-5.3"
+}

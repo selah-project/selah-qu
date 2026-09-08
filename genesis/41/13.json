@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Imata pht'irqasqanman hina karqanmi: ñuqata tiyanayman kutichirqan, paytaqta churqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "pht'irqasqanman"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hina"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "tiyanayman"
+    },
+    {
+      "surface": "כני",
+      "gloss": "tiyanay"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "churqan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:12:07.816026987Z",
+  "model": "glm-5.3"
+}

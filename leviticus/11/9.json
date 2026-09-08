@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "⟨את⟩ kayta llapa unu ukhpi kaqmanta mikhuwankichik: llapa aletayuq, chaska yawriyuq unu ukhpi, qochakunapipas, mayukunapipas, ⟨את⟩ paykunata mikhuwankichik.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kayta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhuwankichik"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapamanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima kaq"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unu ukhpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima kaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pay"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "aleta"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "hinaspa chaska yawri"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unu ukhpi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "qochakunapi"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "hinaspa mayukunapi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhuwankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:26.776236583Z",
+  "model": "glm-5.3"
+}

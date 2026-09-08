@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 35:30",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Mayqin runapas nefeshta wañuchiptin, willakuqkunaq siminwanmi wañuchinqa ⟨את⟩ wañuchiqta; huk willakuqllam mana runap kawsayninmanta rimanqachu, wañuchinapaq.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mayqin runapas"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "wañuchiq"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh (kawsay)"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "siminwan"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "willakuqkuna"
+    },
+    {
+      "surface": "ירצח",
+      "gloss": "wañuchinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wañuchiqta"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "wañuchiq"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hinaspa willakuq"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "rimanqachu"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "runap kawsayninmanta"
+    },
+    {
+      "surface": "למות",
+      "gloss": "wañuchinapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:24:33.826572912Z",
+  "model": "glm-5.3"
+}

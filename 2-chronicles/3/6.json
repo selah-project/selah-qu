@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymanta ⟨את⟩ wasita q'apari rumikunawan sumaqchan karqanmi; chay quriqa Parvaim quri karqanmi.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "sumaqchan karqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasita"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "q'apari"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "sumaq kayninpaq"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "chay quriqa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvaim"
+    }
+  ],
+  "timestamp": "2026-09-08T12:55:47.832745456Z",
+  "model": "glm-5.3"
+}

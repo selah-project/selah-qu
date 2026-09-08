@@ -1,0 +1,78 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "exodus 37:25",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 37,
+ "translation": "Chaymi ruwarqan ⟨את⟩ q'urpana altarta shuti sach'akunawan: huk amam sunqun, hinaspa huk ama chiqan kaynin — tawa k'uchuyuqmi —, hinaspa iskay ama sayaynin; chaymantam karqan t'uqrukunan.",
+ "tokens": [
+  {
+   "surface": "ויעש",
+   "gloss": "ruwarqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "q'urpana altarta"
+  },
+  {
+   "surface": "מזבח",
+   "gloss": "altar"
+  },
+  {
+   "surface": "הקטרת",
+   "gloss": "q'urpana"
+  },
+  {
+   "surface": "עצי",
+   "gloss": "sach'a"
+  },
+  {
+   "surface": "שטים",
+   "gloss": "shuti"
+  },
+  {
+   "surface": "אמה",
+   "gloss": "ama"
+  },
+  {
+   "surface": "ארכו",
+   "gloss": "sunqun"
+  },
+  {
+   "surface": "ואמה",
+   "gloss": "hinaspa ama"
+  },
+  {
+   "surface": "רחבו",
+   "gloss": "chiqan kaynin"
+  },
+  {
+   "surface": "רבוע",
+   "gloss": "tawa k'uchuyuq"
+  },
+  {
+   "surface": "ואמתים",
+   "gloss": "hinaspa iskay ama"
+  },
+  {
+   "surface": "קמתו",
+   "gloss": "sayaynin"
+  },
+  {
+   "surface": "ממנו",
+   "gloss": "chaymanta"
+  },
+  {
+   "surface": "היו",
+   "gloss": "karqan"
+  },
+  {
+   "surface": "קרנתיו",
+   "gloss": "t'uqrukunan"
+  }
+ ],
+ "timestamp": "2026-09-08T00:46:31.975242534Z",
+ "model": "glm-5.3"
+}

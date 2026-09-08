@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Ñuqap sasa p'unchawpi qamta qarqasaqki, imarayku qammi ñuqata kutichiwanki.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ñuqap sasa kawsayninpi"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "qamta qarqasaqki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ñuqata kutichiwanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:22.007075503Z",
+  "model": "glm-5.3"
+}

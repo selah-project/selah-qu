@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Beritninta churasaqm ñuqawan qampawan, hinaspa ⟨את⟩ qamta askhalla askha mirachisaqm.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "churasaqm"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "beritninta"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "qampawan"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "mirachisaqm"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ qamta",
+      "marks": "qamta"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "askhalla"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "askha"
+    }
+  ],
+  "timestamp": "2026-09-07T23:57:31.810696032Z",
+  "model": "glm-5.3"
+}

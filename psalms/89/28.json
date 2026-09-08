@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Ñuqataqmi payta ñawpaq wawanmi ruwasaq, hallp'ap apukunamanta aswan hanakmi kanqa.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ñuqataqmi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ñawpaq wawan"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "payta ruwasaq"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "aswan hanak"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "apukunamanta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:47.394187333Z",
+  "model": "glm-5.3"
+}

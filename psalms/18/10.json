@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hanaq pachata ñit'urqan hinaspa urayarqan; ch'iqir pacham chakanpa uranpi karqan.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "ñit'urqan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "urayarqan"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "ch'iqir pacha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uranpi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "chakanpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:10.015465085Z",
+  "model": "glm-5.3"
+}

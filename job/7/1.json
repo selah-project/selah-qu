@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Manachu tsabam (sinchi llamk'ay) enoshman ⟨arupi⟩ hallp'api? Paypa punchawkunaqam sicha llamk'aqpa punchawkuna hina.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "tsaba"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "enoshman"
+    },
+    {
+      "surface": "על",
+      "gloss": "aru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "hina"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "sicha llamk'aqpa punchawkuna"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "paypa punchawkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T14:20:12.055104360Z",
+  "model": "glm-5.3"
+}

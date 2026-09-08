@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Nirqataq: Qamchu kay, waway Esav? Chaysi nirqa: Nuqam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Nirqataq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qamchu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "waway"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nuqam"
+    }
+  ],
+  "timestamp": "2026-09-08T00:02:22.282010882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Elohim kamaykurqanmi ⟨את⟩ runata kikinpa rikch'ayninpi; Elohimpa rikch'ayninpi kamaykurqan ⟨את⟩ payta; qhariwan warmiwan kamaykurqan ⟨את⟩ paykunta.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "kamaykurqanmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runata"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runata"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "kikinpa rikch'ayninpi"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "rikch'ayninpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kamaykurqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "qhariwan warmiwan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "qhariwan"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "warmiwan"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kamaykurqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunta",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:16.653962403Z",
+  "model": "glm-5.3"
+}

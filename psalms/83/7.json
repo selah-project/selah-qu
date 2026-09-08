@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Edompa wasinkuna, hinaspa Yishmaelikuna (ismaelitas), Moab, hinaspa Hagari runakuna.",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "wasinkuna"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edompa"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "hinaspa Yishmaelikuna"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "hinaspa Hagari runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:05.902118779Z",
+  "model": "glm-5.3"
+}

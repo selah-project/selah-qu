@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Allin runaman niychik: qampaq allinmi kanqa, imaraykuchus ruwasqankuphalanmikhuwankichik.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "niychik"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinmi kanqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "phalan"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ruwasqanku"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhuwankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T13:43:35.212313499Z",
+  "model": "glm-5.3"
+}

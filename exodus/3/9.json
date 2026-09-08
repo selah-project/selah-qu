@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Kunanqa, qhaway, Israelpa churinkunap waqaynin ñuqamanmi chayamun; hinallataq rikurqanim ⟨את⟩ ñiqhipayasqanta, mayqinta Mitsrayim (Egipto) runakunam ⟨את⟩ chaykunata ñiqhipayanku.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kunanqa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "waqaynin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "באה",
+      "gloss": "chayamun"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqamanmi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñiqhipayasqanta"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "ñiqhipayasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim runakunam"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "ñiqhipayanku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chaykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:31.190219800Z",
+  "model": "glm-5.3"
+}

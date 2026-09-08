@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Runam Elkanah (Elcana) wasinwan llapanwan wichaykurqanku, Yahwepaq ⟨את⟩ wata ofrendata churananpaq, ⟨את⟩ sanaynintawan hunt'achinanpaq.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wichaykurqanku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapanwan"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ofrendata churananpaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wata ofrendata"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ofrenda"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sanayninta"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "sanaynin"
+    }
+  ],
+  "timestamp": "2026-09-08T13:33:07.436198285Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Manachu paypa hatun kaynin ⟨את⟩ qamtakunata manchachinqa, hinaspa paypa mancharikuynin qamtakunapaj urmunqa?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "paypa hatun kaynin"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "manchachinqa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamtakunata",
+      "marks": "qamtakuna (qamkunap)"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "hinaspa paypa mancharikuynin"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "urmunqa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "qamtakunapaj"
+    }
+  ],
+  "timestamp": "2026-09-08T11:03:14.169282683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Hinaspa Israelpa churinkuna Midyanpa warmikunata ⟨את⟩ apurqankum, wawankunatawan ⟨את⟩, llapan uywankunatawan ⟨את⟩, llapan michinkunatawan ⟨את⟩, llapan qollqeninkutawan ⟨את⟩ suwarqankum.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "apurqankum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyanpa warmikunata"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "warmikunata"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawankunata"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "wawankunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan uywankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "uywankunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan michinkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "michinkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan qollqeninkutata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "qollqeninkutata"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "suwarqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T02:19:40.974433047Z",
+  "model": "glm-5.3"
+}

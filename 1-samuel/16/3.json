@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Korbanapi Yishayta waqyanki; ñuqataq ⟨את⟩ imata ruwanayki kanqanta willasqaykim. Chaymantataq ⟨את⟩ ñuqam qamman nisqaykimanta — chay runatam ñuqapaq mushanki.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "waqyanki"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishayta"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "korbanapi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "willasqaykim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata ruwanayki kanqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanayki"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mushanki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqam qamman nisqaykimanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nisqayki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:16:00.135653241Z",
+  "model": "glm-5.3"
+}

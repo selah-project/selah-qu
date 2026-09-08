@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 43:28",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Chayraykum kodespa umalliqninkunata llut'anichini, hinaspa Yaakovta ch'usaqchanapaq saqini, Israeltaq q'inchikunapaq.",
+  "tokens": [
+    {
+      "surface": "ואחלל",
+      "gloss": "chayraykum llut'anichini"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kodes"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "hinaspa saqini"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "ch'usaqchanapaq"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov (Jacob)"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "hinaspa Israel"
+    },
+    {
+      "surface": "לגדופים",
+      "gloss": "q'inchikunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:27:13.366185635Z",
+  "model": "glm-5.3"
+}

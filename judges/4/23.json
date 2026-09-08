@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chay p'unchawmi Elohim ⟨את⟩ Yavin, Kanaanpa apunta, Israelpa wawank ñawpaqninpi pisiyachirqan.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "pisiyachirqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yavin, Kanaanpa apunta"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yavin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaanpa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T03:40:17.487716487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Runakunata umanchikpa patanpi purichirqanki; ninaman, unaman yaykurqayku; hinaspa ñuqanchikta hunt'a kaqman hawarichimurqanki.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "purichirqanki"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "umanchikpa patanpi"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "yaykurqayku"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninaman"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "unaman"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "hawarichimurqanki"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "hunt'a kaqman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:20.022195007Z",
+  "model": "glm-5.3"
+}

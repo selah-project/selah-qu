@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Wakichiqman, Shoshannim ⟨sanci p'anqakuna⟩ patapi, Davidpa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "wakichiqman"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshannim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:12.965457161Z",
+  "model": "glm-5.3"
+}

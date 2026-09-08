@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Yosef ⟨את⟩ wawqenkunata qhawarqan, hinaspa ⟨את⟩ paykunata riqsirqan, ichaqa ñawpaq mana riqsisqa hina kuskan purirqan; hinaspa ⟨את⟩ paykunawan sinchita rimarqan: «Maymantataq hamurqankichi?» Paykunan nirqanku: «Kenaan hallp'amanta, mikhuyta rantinanpaqmi».",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawqenkunata"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqenkunata"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "riqsirqan"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "ñaq mana riqsisqa hina kuskan purirqan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunawan"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "sinchita"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "maymantataq"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "hamurqankichi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "mikhuyta rantinanpaq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhuyta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:00.138349102Z",
+  "model": "glm-5.3"
+}

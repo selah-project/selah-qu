@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 9:5",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Adonay Yahwe Tsebaotmi hallp'ata llawk'achiptin, chayqa thakim; llapan chaypi tiyaqkuna ch'akiykunqam; llapanmi mayu hina sanqarinqa, Mitsrayimpa mayun hina chinkapunqam.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "הנוגע",
+      "gloss": "llawk'achiq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "ותמוג",
+      "gloss": "thakim"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ch'akiykunqam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "sanqarinqa"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "mayu hina"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ושקעה",
+      "gloss": "chinkapunqam"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "mayu hina"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:02:04.949627021Z",
+  "model": "glm-5.3"
+}

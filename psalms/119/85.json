@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Mana p'inqayuqkuna ñuqapaq juqharikunata k'allmurqankum, chaykunaqa mana Toraykiq hina⟨kan⟩chu.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "k'allmurqanku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "mana p'inqayuqkuna"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "juqharikunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaykunaqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "Toraykiq hina"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:07.469933244Z",
+  "model": "glm-5.3"
+}

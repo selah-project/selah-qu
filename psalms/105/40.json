@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Mañakurqanku; selavta apamurqanmi; hanaq pachap t'antawanmi sayaq'achirqan paykunta.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "mañakurqanku"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "apamurqan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "selav"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "sayaq'achirqan paykunta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:47.622854149Z",
+  "model": "glm-5.3"
+}

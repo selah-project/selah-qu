@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Mayqenmi Mitsrayim (Egipto) ñawpaq paqarisqakunata wañuchirqan, runamanta uywakunakama.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "mayqenmi...wañuchirqan"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ñawpaq paqarisqakunata"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "runamanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "uywakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:13.264588349Z",
+  "model": "glm-5.3"
+}

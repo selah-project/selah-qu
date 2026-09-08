@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Noach (Noé)qa suqta pachak watayuqmi karqan, hinaspa Mabulm ⟨kan⟩ unum hallp'ap patanpi.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Noachqa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi... yuq"
+    },
+    {
+      "surface": "שש",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "hinaspa Mabul"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:52.361114588Z",
+  "model": "glm-5.3"
+}

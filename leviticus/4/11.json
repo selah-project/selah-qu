@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspam ⟨את⟩ toropa charinta, ⟨את⟩ llapa aychanta umanwan, chakikunanwanpas, ch'unchulninta, ichhintawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "toropa charinta"
+    },
+    {
+      "surface": "עור",
+      "gloss": "chari"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "toro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa aychanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ayyanin"
+    },
+    {
+      "surface": "על",
+      "gloss": "wan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "uman"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "wanpas"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "chakikunan"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "ch'unchulnin"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "ichhin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:50:51.592233055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Ñuqap patapi sayanmi phinayki, hinaspa llapan unu t'ikrakunaykiwan ñuqata nanachiwanki. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap patapi"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "sayan"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "phinayki"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "unu t'ikrakunayki"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "nanachiwanki"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:53.520145970Z",
+  "model": "glm-5.3"
+}

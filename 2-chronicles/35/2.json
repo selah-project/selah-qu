@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 35:2",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Kohenkunata qhawaq tiyanankunapi sayarichirqan, Yahwepa wasin llamk'ayninpi sinchichirqanm.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarichirqan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "משמרותם",
+      "gloss": "qhawaq tiyanankunapi"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "sinchichirqan"
+    },
+    {
+      "surface": "לעבודת",
+      "gloss": "llamk'ayninpi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:21:00.910286085Z",
+  "model": "glm-5.3"
+}

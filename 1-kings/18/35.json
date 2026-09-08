@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chaysi unum altarpa muyuriqninman purirqanmi; chayllasi ⟨את⟩ pit'apas unuwan hunt'akarqanmi.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "purirqanmi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unum"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqninman"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altarpa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "chayllapas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pit'a"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "pit'a"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'akarqanmi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unuwan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:17:16.279002628Z",
+  "model": "glm-5.3"
+}

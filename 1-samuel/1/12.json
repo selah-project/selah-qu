@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Karqanmi Yahwepa ñawpaqenpi askha kutita mañakuspa, Elitaq ⟨את⟩ siminta qhawachkarqan.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "askha kutita"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "mañakuspa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqenpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "Elitaq"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "qhawachkarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siminta"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "siminta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:00:47.093786880Z",
+  "model": "glm-5.3"
+}

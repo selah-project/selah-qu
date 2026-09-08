@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 85,
+  "translation": "¿Wiñaypaqchu ñuqanchikwan phiñakunki? ¿phiñaykiykita wataqmanta wataqman sut'ichinki?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "¿Wiñaypaqchu"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "phiñakunki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ñuqanchikwan"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "sut'ichinki"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "phiñaykiykita"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "wataqmanta"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "wataqman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:58.567691460Z",
+  "model": "glm-5.3"
+}

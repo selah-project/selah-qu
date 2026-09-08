@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Apaspa mamanman apamurqanmi, maman chakinkunapi tiyarqan punchaw chawpikama, chaymantam wañurqan.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "apaspa"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "apamurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mamanman"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "chakinkunapi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "punchaw chawpikama"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:25:47.473137579Z",
+  "model": "glm-5.3"
+}

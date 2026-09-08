@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Sinchi runakunap archunkunaqa p'akisqa kankum; llusp'ikuqkunataqmi sinchiwan watarikunku.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "archunkuna"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "sinchi runakunap"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "p'akisqa kankum"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "llusp'ikuqkunataqmi"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "watarikunku"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sinchiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:04:12.167582885Z",
+  "model": "glm-5.3"
+}

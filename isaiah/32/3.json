@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Manañam qhawaqkunap ñawinkuna ch'iqichakunqachu, uyariqkunaptaq rinrinkuna chanintawanqa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Manañam"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "ch'iqichakunqachu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawinkuna"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "qhawaqkunap"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "rinrinkunataq"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "uyariqkunap"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "chanintawanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:10:17.638350660Z",
+  "model": "glm-5.3"
+}

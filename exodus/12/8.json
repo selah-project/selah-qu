@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinantam ⟨את⟩ aychata mikhunqaku kay tutapi, nina wanqasqata; mana wayaq t'antawan ch'aqru qorakunawanmi mikhunqaku.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "hinantam mikhunqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aychata"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tutapi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "wanqasqa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "hinallataq mana wayaq t'anta"
+    },
+    {
+      "surface": "על",
+      "gloss": "wan"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "ch'aqru qorakuna"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "mikhunqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:50.871104820Z",
+  "model": "glm-5.3"
+}

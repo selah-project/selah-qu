@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Gadpa churiykunam ⟨את⟩ Dibonta, hinaspa ⟨את⟩ Atarotta, hinaspa ⟨את⟩ Aroerta wasicharqanku.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "wasicharqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiykuna"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibonta"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Atarotta"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Aroerta"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroer"
+    }
+  ],
+  "timestamp": "2026-09-08T02:21:34.777666495Z",
+  "model": "glm-5.3"
+}

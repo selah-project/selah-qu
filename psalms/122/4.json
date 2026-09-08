@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 122,
+  "translation": "Chaymim ayllukunakuna — Yahpa ayllukunakuna — Israelpa testigo kasqanman hina, Yahwepa sutinpaq gracias ninkupaq taripanku.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Chaymim"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "taripanku"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "ayllukunakuna"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ayllukunakuna"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahpa"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "testigo kasqanman"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "gracias ninkupaq"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "sutinpaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:42.518218423Z",
+  "model": "glm-5.3"
+}

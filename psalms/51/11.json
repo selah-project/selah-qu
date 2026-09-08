@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Juchaykunamanta ñawiykita pakaway; llapa llutasqaykunta qulluchiy.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "pakaway"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiykita"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "juchaykunamanta"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "llutasqaykunta"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "qulluchiy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:26.486087535Z",
+  "model": "glm-5.3"
+}

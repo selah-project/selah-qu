@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edomta (Edom), hinaspa ⟨את⟩ Moabta (Moab), hinaspa ⟨את⟩ Amonpa churinkunata (ammonitas).",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomta"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom (Edom)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Moabta"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab (Moab)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Amonpa churinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon (Amón)"
+    }
+  ],
+  "timestamp": "2026-09-08T07:10:52.068533664Z",
+  "model": "glm-5.3"
+}

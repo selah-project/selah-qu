@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Willakusaq Sutiykita wawqeykunaman; ayllup chawpinpi Sutiykita yupaychasaq.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "willakusaq"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiykita"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "wawqeykunaman"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ayllup"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "yupaychasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:55.164592775Z",
+  "model": "glm-5.3"
+}

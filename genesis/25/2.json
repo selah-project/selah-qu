@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa paymi wawantaraq paqarirqan: ⟨את⟩ Zimran-ta, hinaspa ⟨את⟩ Yokshán-ta, hinaspa ⟨את⟩ Medan-ta, hinaspa ⟨את⟩ Midian-ta, hinaspa ⟨את⟩ Yishbak-ta, hinaspa ⟨את⟩ Shuaj-ta.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paytaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran-ta"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yokshán-ta"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshán"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Medan-ta"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Midian-ta"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yishbak-ta"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shuaj-ta"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuaj"
+    }
+  ],
+  "timestamp": "2026-09-08T00:01:50.903869773Z",
+  "model": "glm-5.3"
+}

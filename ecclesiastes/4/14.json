@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Qamusqam wisq'asqa wasimanta lluqsispa apunan tukurqanmi; pay apuna wasinpiña wakchata paqarirqanmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Qamusqam"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasimanta"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "wisq'asqa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsispa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apunan tukurqanmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chay"
+    },
+    {
+      "surface": "גם",
+      "gloss": "piña"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "apuna wasinpi"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "paqarirqanmi"
+    },
+    {
+      "surface": "רש",
+      "gloss": "wakchata"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:25.294337817Z",
+  "model": "glm-5.3"
+}

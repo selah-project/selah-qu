@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Qampa yanapaqniyki kanimi; ñuqata yachachiway, edotniykita riqsinaypaq.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "qampa yanapaqniyki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kanimi"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "yachachiway"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "riqsinaypaq"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "edotniykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:24:39.091068415Z",
+  "model": "glm-5.3"
+}

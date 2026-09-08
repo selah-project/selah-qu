@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspapas panan Hammoleket ⟨את⟩ Ishodta, hinaspa ⟨את⟩ Abieserta, hinaspa ⟨את⟩ Mahlata wacharqan.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "hinaspapas panan"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hammoleket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishodta"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishodta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Abieserta"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abieserta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Mahlata"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahlata"
+    }
+  ],
+  "timestamp": "2026-09-08T12:36:02.676252503Z",
+  "model": "glm-5.3"
+}

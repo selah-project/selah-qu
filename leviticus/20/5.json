@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Chaymanta ñuqam ⟨את⟩ ñawiykita chakichisaq chay runaman, paypa ayllunmanpas; hinaspa ⟨את⟩ payta kuchusaq, hinaspa ⟨את⟩ llapan zina-qatiqkunata, Molech qatilla zina-qatikunanpaq, runakunap chawpinmanta.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "chakichisaq"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawiykita"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawiykita"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "runaman"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "ayllunmanpas"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kuchusaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan zina-qatiqkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "zina-qatiqkunata"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "pay qatiqnin"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "zina-qatikunanpaq"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qatilla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molech"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "chawpinmanta"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:05.160153764Z",
+  "model": "glm-5.3"
+}

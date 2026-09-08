@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Imaraykuchus niqanim: ama paykuna ñuqawan kusikunkuchá; chakiy sarusqapi, paykuna ñuqapawanmi jat'unyakurqanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "niqanim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama ⟨…⟩chá"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kusikunkuchá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "sarusqapi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "chakiy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqapawan"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "jat'unyakurqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:34.075435599Z",
+  "model": "glm-5.3"
+}

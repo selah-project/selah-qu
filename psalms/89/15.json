@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Cheqan kaywan kamachikuywanmi q'itorisayki sayan; jesed (khuyakuy) hinaspa cheqan willakuy ñawpaq purin ñawiykita.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "cheqan kaywan"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "kamachikuywan"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "sayan"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "q'itorisayki"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesed (khuyakuy)"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "hinaspa cheqan willakuy"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "ñawpaq purin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:47.531606247Z",
+  "model": "glm-5.3"
+}

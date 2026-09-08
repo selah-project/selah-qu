@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Nefeshninchikmi Yahweta suyarqan; paymi yanapanchikta, watanchikta hina.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Nefeshninchik"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "suyarqan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "yanapanchikta"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "watanchikta hina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:25.840755204Z",
+  "model": "glm-5.3"
+}

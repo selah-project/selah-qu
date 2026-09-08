@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Elohimninpa t'antanmanta, hatun qanchis qanchisqa'manta hinaspa qanchisqamantam mik'unqa.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "t'antanmanta"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimninpa"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "hatun qanchis"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qanchisqa'manta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hinaspa qanchisqamanta"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "qanchisqa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mik'unqa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:13.468301720Z",
+  "model": "glm-5.3"
+}

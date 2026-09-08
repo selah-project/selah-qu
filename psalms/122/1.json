@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 122,
+  "translation": "Taripay pacha takim, Davidpa. Kusikuni paykuna ñuqaman willaptinku: Yahwepa wasinman risunchik.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "takim"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Taripay pacha"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Kusikuni"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "willaptinku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "risunchik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:42.517785023Z",
+  "model": "glm-5.3"
+}

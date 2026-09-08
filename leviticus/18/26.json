@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Qamkuna ⟨את⟩ kamachikuykunayta, hinaspa ⟨את⟩ taripanakuykunaytawan waqaychankichikmi, manataq kay millay rurasqakunamanta willkata rurankichikchu — paqarisqa runapas, qamkuna chawpinpi kawsaq hamusqa runapas.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "waqaychankichik"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamachikuykunayta"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "kamachikuykunay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "taripanakuykunayta"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "taripanakuykunay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "rurankichik"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapamanta"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "millay rurasqakuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "paqarisqa runa"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "hinaspa hamusqa runa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "hamusqa"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "qamkuna chawpinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:32.349454930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 26,
+ "ref": "genesis 5:26",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 5,
+ "translation": "Hinaspa Metushelajmi, ⟨את⟩ Lemekta wachachisqan qhipa, iskay chunka pusaq wata, qanchis pachak watawan kawsarqan, hinaspa churiykunata, ususiykunatawan wachachirqan.",
+ "tokens": [
+  {
+   "surface": "ויחי",
+   "gloss": "kawsarqan"
+  },
+  {
+   "surface": "מתושלח",
+   "gloss": "Metushelaj"
+  },
+  {
+   "surface": "אחרי",
+   "gloss": "qhipa"
+  },
+  {
+   "surface": "הולידו",
+   "gloss": "wachachisqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Lemekta"
+  },
+  {
+   "surface": "למך",
+   "gloss": "Lemek"
+  },
+  {
+   "surface": "שתים",
+   "gloss": "iskay"
+  },
+  {
+   "surface": "ושמונים",
+   "gloss": "chunka pusaq"
+  },
+  {
+   "surface": "שנה",
+   "gloss": "wata"
+  },
+  {
+   "surface": "ושבע",
+   "gloss": "hinaspa qanchis"
+  },
+  {
+   "surface": "מאות",
+   "gloss": "pachak"
+  },
+  {
+   "surface": "שנה",
+   "gloss": "wata"
+  },
+  {
+   "surface": "ויולד",
+   "gloss": "wachachirqan"
+  },
+  {
+   "surface": "בנים",
+   "gloss": "churiykuna"
+  },
+  {
+   "surface": "ובנות",
+   "gloss": "ususiykuna"
+  }
+ ],
+ "timestamp": "2026-09-07T23:51:42.596174116Z",
+ "model": "glm-5.3"
+}

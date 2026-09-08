@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Yahwem nefesh muchusqata hunt'achin, hinaspa yarqasqa nefeshta allinwan hunt'achinmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "hunt'achin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "muchusqata"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "hinaspa nefesh"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "yarqasqa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'achinmi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinwan"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:56.672726795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Yahwe, ama phinayniykiwan muchuchiwawankichu, manaraq ch'akiyniykiwan ama yachachiwawankichu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "phinayniykiwan"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "muchuchiwawanki"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ch'akiyniykiwan"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "yachachiwawanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:10.442817706Z",
+  "model": "glm-5.3"
+}

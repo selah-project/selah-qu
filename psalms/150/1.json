@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 150,
+  "translation": "Yahpaq takichik! Qodqopi Elta yupaychaychik; payta rakiyapi, atiyninpi yupaychaychik.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahpaq takichik"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elta"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "qodqopi (paypa santuarioypi)"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "payta yupaychaychik"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "rakiyapi"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "atiyninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:54.610913584Z",
+  "model": "glm-5.3"
+}

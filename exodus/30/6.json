@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Hinaspa ⟨את⟩ payta churanki paroketpa ñawpaqninpi, edut sandirun hanaqninpi, kaporetpa ñawpaqninpi, chaypi Yahwem qampawan tupanakunmi.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "hinaspa churanki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "paroketpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "על",
+      "gloss": "hanaqninpi"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sandirun"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "edut"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporetpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "על",
+      "gloss": "hanaqnin"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "edut"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "tupanakunmi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampawan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:18.084249119Z",
+  "model": "glm-5.3"
+}

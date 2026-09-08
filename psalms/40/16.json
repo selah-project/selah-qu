@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Paykunap p'inqayninpa qatiqninwanmi ch'inrakuchun, ñuqaman '¡Aha, aha!' niqkuna.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "ch'inrakuchun"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "qatiqninwan"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "paykunap p'inqaynin"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "niqkuna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:08.135142145Z",
+  "model": "glm-5.3"
+}

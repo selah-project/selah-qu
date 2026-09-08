@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Qammi, Yahwe, paykunata waqaychanki; kay winamanta payta hark'anki, wiñay kama.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "paykunata waqaychanki"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "payta hark'anki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "kay wina"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kama"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:54.203841904Z",
+  "model": "glm-5.3"
+}

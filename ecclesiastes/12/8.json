@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Ch'usaqkuna ch'usaq, Koheletpa nirqanmi: llapanmi ch'usaq.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Ch'usaq"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ch'usaqkuna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "llapanmi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ch'usaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:44:52.796630050Z",
+  "model": "glm-5.3"
+}

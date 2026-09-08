@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Lluqsispam Plishtimkunawan (filisteokunawan) awqanakurqan, hinaspa ⟨את⟩ Gatpa hark'ata, hinaspa ⟨את⟩ Yabnehpa hark'ata, hinaspa ⟨את⟩ Ashdodpa hark'ata thunirqan; Ashdodpi llaqtakunatam ruwarqan, Plishtimkunapipas.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsispa"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "awqanakurqan"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Plishtimkunawan"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "thunirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gatpa hark'ata"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "hark'a"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yabnehpa hark'ata"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "hark'a"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yabneh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Ashdodpa hark'ata"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "hark'a"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdodpi"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "Plishtimkunapipas"
+    }
+  ],
+  "timestamp": "2026-09-08T13:12:06.963451718Z",
+  "model": "glm-5.3"
+}

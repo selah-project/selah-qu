@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspam Kanaan (Canaán) ⟨את⟩ Tsidontawan — ñawpaq wachakuqnin — ⟨את⟩ Khetta wachakurqan.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "hinaspam Kanaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wachakurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidontawan"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidontawan"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ñawpaq wachakuqnin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Khetta"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Khetta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:36.924354294Z",
+  "model": "glm-5.3"
+}

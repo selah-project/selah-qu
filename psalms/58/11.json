@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 58,
+  "translation": "Allin runa k'ojallikunqami ñawinwan rikuspa kutichiyaq chiqanmanta; chakanpata malvado runap yawarwan mayllasunqa.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "k'ojallikunqami"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rikuspa"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ñawinwan rikuspa"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kutichiyaq chiqan"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "chakanpata"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "mayllasunqa"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "yawarwan"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "malvado runap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:25.308073154Z",
+  "model": "glm-5.3"
+}

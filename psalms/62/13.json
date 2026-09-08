@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Hinaspa qammanmi, Adonay, jesed kan; imaraykuchus qam sapa runaman ruwasqanman hina paganki.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "hinaspa qamman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "paganki"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sapa runaman"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "ruwasqanman hina"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:11.254437862Z",
+  "model": "glm-5.3"
+}

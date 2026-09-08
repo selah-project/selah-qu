@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chaypas sirwiqm ninqa: Khuyanim apuyta, warmiyta, churiykunatawan; manam qispilla lluq'isaqchu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "chaypas"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nitam"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ninqa"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "sirwiq"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "khuyanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apuyta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apuy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warmiyta"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "warmiy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "churiykunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiykuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "lluq'isaq"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "qispilla"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:23.414760706Z",
+  "model": "glm-5.3"
+}

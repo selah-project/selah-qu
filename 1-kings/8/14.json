@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa apukaqm ⟨את⟩ uyanta kutichirqan, hinaspa bendecirqan ⟨את⟩ tukuy Israelpa ayllunta; hinaspa tukuy Israelpa ayllum sayachkanmi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "hinaspa kutichirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apukaqm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyanta"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uyanta"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "hinaspa bendecirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy Israelpa ayllunta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ayllunta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa tukuy"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ayllum"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "sayachkanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:41:51.414708669Z",
+  "model": "glm-5.3"
+}

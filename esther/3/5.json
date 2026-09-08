@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Haman rikurqanmi Mordecai mana chinkakusqantachu, mana payman yupaychasqantachu; chaymanta Haman phiñiwanmi hunt'akurqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "chinkakusqanta"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "mana yupaychasqantachu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "hunt'akurqan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "phiñiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:48:10.065417487Z",
+  "model": "glm-5.3"
+}

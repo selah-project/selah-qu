@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Chaymantam Abimelekm ⟨את⟩ tukuy runakunata kamachirqan kayta nispa: “Kay runawan utaq warmiwan llawanqaqa wañuspa wañunqam.”",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta nispa"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "llawanqa"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "runawan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "warmiwan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuspa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañunqam"
+    }
+  ],
+  "timestamp": "2026-09-08T00:01:49.134064956Z",
+  "model": "glm-5.3"
+}

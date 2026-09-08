@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Karqan, tutap ukhumanta ⟨את⟩ kunkanta uyariqtaykichik, urqu ninawan rawachkasqaptin, chaymanta llapan aylluykikunap umalliqninkuna, kuraq runaykikunawanpas, ñuqaman qayllaykurqankichik.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Karqan"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "uyariqtaykichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunkanta"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "kunkanta"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ukhumanta"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "tutap"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "urqu"
+    },
+    {
+      "surface": "בער",
+      "gloss": "rawachkasqaptin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninawan"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "qayllaykurqankichik"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "aylluykikunap"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "kuraq runaykikunawanpas"
+    }
+  ],
+  "timestamp": "2026-09-08T02:32:35.387406407Z",
+  "model": "glm-5.3"
+}

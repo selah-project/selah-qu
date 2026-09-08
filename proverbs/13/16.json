@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Llapa yuyaysapa runam yachaywan ruran; hinaspa samqa q'ala yuyayta paskan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "yuyaysapa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruran"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "yachaywan"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "samqa"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "paskan"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "q'ala yuyayta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:41:51.506686632Z",
+  "model": "glm-5.3"
+}

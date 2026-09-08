@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chay pacham kamachirqani ⟨את⟩ qankunap taripakuqnikunaykichikta, nispa: Uyariy wawqeykichikkunap munanakusqankuta, chaypitaq taripaychichik cheqanmanta, runap, wawqenpa, wak llaqtamanta hamuqpa chawpinpipas.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "kamachirqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qankunap taripakuqnikunaykichikta"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "qankunap taripakuqnikunaykichikta"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "chay pacha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Uyariy"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "wawqeykichikkunap"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "taripaychichik"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cheqanmanta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runap"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "chawpinpiwan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqenpa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "chawpinpipas"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "wak llaqtamanta hamuqpa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:26:42.765922326Z",
+  "model": "glm-5.3"
+}

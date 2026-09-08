@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 11:5",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Intin apuqa sinchiyakunqam, hinallataq paypa umalliqninkunamanta huknin; chayqa paypa hawanpis sinchiyakunqam, kamachinqataq; kamachiyninqa hatun kamachiy kanqam.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "sinchiyakunqam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "intin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hinallataq ... manta"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "umalliqninkunamanta huknin"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "sinchiyakunqam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa hawanpi"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "kamachinqa"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "kamachiy"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "kamachiynin"
+    }
+  ],
+  "timestamp": "2026-09-08T12:06:18.054608973Z",
+  "model": "glm-5.3"
+}

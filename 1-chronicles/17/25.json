@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 17:25",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chaymi qan, Elohimniy, ⟨את⟩ qhawaqniykiyta rinrinta paskarqanki, paypaq wasita ruwanapaq; chayrayku qhawaqniykiy qayllaykipi mañakunapaq ch'anqarqanim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "paskarqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qhawaqniykiyta rinrin"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "rinrin"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qhawaqniykiy"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ruwanapaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ch'anqarqani"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qhawaqniykiy"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "mañakunapaq"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qayllaykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:45:11.152471151Z",
+  "model": "glm-5.3"
+}

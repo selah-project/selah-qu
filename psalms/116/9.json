@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Yahwep ñawpaqninpi purini, kawsaqkuna ⟨hallp'akunapi⟩.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "purini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "hallp'akunapi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kawsaqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:58.969623250Z",
+  "model": "glm-5.3"
+}

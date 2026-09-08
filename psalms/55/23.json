@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 55:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Yahwepi churay Yahwe qusqaykita; paymi samichasqayki. Haqe runataqa manam wiñaypaq sarunchayninta churanqa.",
+  "tokens": [
+    {
+      "surface": "השלך",
+      "gloss": "churay"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "יהבך",
+      "gloss": "Yahwe qusqaykita"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "יכלכלך",
+      "gloss": "samichasqayki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "churanqa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "sarunchayninta"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "haqe runata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:17.541208646Z",
+  "model": "glm-5.3"
+}

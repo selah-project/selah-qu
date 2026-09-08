@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 3:9",
+  "book": "nahum",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Kush (Etiopía)qa sinchi achka kallpayuqmi karqan, Mitsrayim (Egipto)pas; mana tukukuyniyoqchu karqanmi; Put (Libia)wan Lubimpas yanapaynikiyuqmi karqan.",
+  "tokens": [
+    {
+      "surface": "כוש",
+      "gloss": "Kush (Etiopía)"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "sinchi achka kallpayuq"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayim (Egipto)pas"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "tukukuyni"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Put (Libia)"
+    },
+    {
+      "surface": "ולובים",
+      "gloss": "Lubimpas"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בעזרתך",
+      "gloss": "yanapaynikiyuq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:09:09.122266292Z",
+  "model": "glm-5.3"
+}

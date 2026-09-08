@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Churikunawanmi urmakankichik; Israelpa saywanpi juicioninkichikta ruwasaq; chaymanta yachankichikmi ñuqa Yahwe kasqayta.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "churikunawan"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "urmakankichik"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "saywanpi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "juicioninkichikta ruwasaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "juicioninkichikta ruwasqa"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "yachankichikmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T07:57:23.890460937Z",
+  "model": "glm-5.3"
+}

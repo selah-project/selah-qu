@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chaysi kohenqa pachak umalliqkunaman ⟨את⟩ chukitawan ⟨את⟩ amachanakunatam qurqan, Davidpa apupaq kasqankunata, Yahwepa wasipi waqaychasqa kasqankunata.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "qurqan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "umalliqkunaman"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "pachakkunap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chukita"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "chukita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "amachanakunata"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "amachanakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imas"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Davidpa apupaq"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:08.797246757Z",
+  "model": "glm-5.3"
+}

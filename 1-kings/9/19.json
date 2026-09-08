@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 9:19",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspataqmi ⟨את⟩ tukuy Shelomopa waqaychana llaqtakunata, karqanku chayna; ⟨את⟩ ruedakunap llaqtankunata, ⟨את⟩ caballo puriqkunap llaqtankunata, hinaspa ⟨את⟩ Shelomopa munasqantam — imatam munasqa ruwananpaq — Yerushalayimpi (Jerusalén), Lebanonpi, hinallataq tukuy kamachisqan hallp'api wasichananpaq.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspataq ⟨את⟩",
+      "marks": "tukuy waqaychana llaqtakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "llaqtakuna"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "waqaychana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomopa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ruedakunap llaqtankunata"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "llaqtakuna"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ruedakunap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "caballo puriqkunap llaqtankunata"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "llaqtakuna"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "caballo puriqkunap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "munasqanta"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "munasqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomopa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imatam"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "munasqa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "wasichananpaq ruwananpaq"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "ובלבנון",
+      "gloss": "Lebanonpi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hinallataq tukuy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "kamachisqanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:07:14.220777831Z",
+  "model": "glm-5.3"
+}

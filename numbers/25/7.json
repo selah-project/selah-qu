@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 25:7",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Chayta Pinjasm ri rqan, Elazarpa churin, Aharonpa churin, kohen kaspa; chaymanta ayllup chawpinmanta sayarirqan, hinaspa makiyninpi huk chukita hap'irqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ri rqan"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinjas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazarpa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen kaspa"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "chawpinmanta"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ayllup"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "רמח",
+      "gloss": "chukita"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "makiyninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:10:38.177049871Z",
+  "model": "glm-5.3"
+}

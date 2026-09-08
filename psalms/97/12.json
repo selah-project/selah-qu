@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 97,
+  "translation": "Khusikuychik, chiqap runakuna, Yahwepi; hinaspa paypa qodeshninta yuyaspataq yupaychaychik.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "khusikuychik"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "chiqap runakuna"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "hinaspa yupaychaychik"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "yuyaspataq"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "paypa qodeshninta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:00.401784680Z",
+  "model": "glm-5.3"
+}

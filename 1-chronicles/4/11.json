@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kelubmi Shuja (Súa)pa panin ⟨את⟩ Merirta (Mejir) wachakurqan; payqa Eshtonpa taytan.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "Kelubmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "panin"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Shujapa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wachakurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merirta"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Merir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Eshtonpa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:34:33.391506916Z",
+  "model": "glm-5.3"
+}

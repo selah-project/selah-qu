@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 17:20",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Hinaspa mast'asaqmi chillkaniyta paypa patan, sayt'anaypi sayt'akunqami; hinaspa apamusaqmi Bavelman (Babilonia), chaypipas paywan ⟨את⟩ taripakusaq paypa llulla-kayninmanta, mayta ñuqap contranpi llulla hina ruwarqan.",
+  "tokens": [
+    {
+      "surface": "ופרשתי",
+      "gloss": "hinaspa mast'asaq"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa patan"
+    },
+    {
+      "surface": "רשתי",
+      "gloss": "chillkaniyta"
+    },
+    {
+      "surface": "ונתפש",
+      "gloss": "sayt'akunqa"
+    },
+    {
+      "surface": "במצודתי",
+      "gloss": "sayt'anaypi"
+    },
+    {
+      "surface": "והביאותיהו",
+      "gloss": "apamusaq payta"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bavelman"
+    },
+    {
+      "surface": "ונשפטתי",
+      "gloss": "taripakusaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "paywan (paywan taripakusqay rayku)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypipas"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "paypa llulla-kayninmanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "llulla hina ruwarqan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqap contranpi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:59:38.164904833Z",
+  "model": "glm-5.3"
+}

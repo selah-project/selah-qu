@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 48:19",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Karqanman muruyniyki aqo hina, hinaspa wiksaykimanta wawakunayki aqo huch'uynin hina; sutin mana kuchusqa kanqachu, mana chinkachisqa kanqachu ñawpaqmanta.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Karqanman"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "aqo hina"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "muruyniyki"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "hinaspa wawakunayki"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "wiksaykimanta"
+    },
+    {
+      "surface": "כמעתיו",
+      "gloss": "aqo huch'uynin hina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "kuchusqa kanqachu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "chinkachisqa kanqachu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sutin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:29:12.639173387Z",
+  "model": "glm-5.3"
+}

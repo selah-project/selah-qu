@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 7:5",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ch'isi tutapi**m** sayarqanku Arampa campamentonman chayanankupaq; chayarqanku Aram campamentonpa ukhunkama; chayqa, chaypi manam runachu ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "sayarqanku"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "ch'isi tutapim"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "chayanankupaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "campamenton"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arampa"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "chayarqanku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "ukhun"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "campamentonpa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam ... chu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:32:25.981953455Z",
+  "model": "glm-5.3"
+}

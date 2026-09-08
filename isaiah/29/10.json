@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Chayraykumi Yahwem wiqch'urqan qamkunapatan huk puñuq samayta, hinaspa wisq'arqan ⟨את⟩ ñawiykikunta, ⟨את⟩ navikunatawan, hinaspa ⟨את⟩ qamkunap umaykikunta, hawakuykunata pakarqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "wiqch'urqan"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "qamkunapatan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "samay"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "puñuq"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "hinaspa wisq'arqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawiykikunta"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ñawiykikunta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navikunata"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "navikunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "umaykikunta"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "qamkunap umaykikunta"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "hawakuykunata"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "pakarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:12:08.045063845Z",
+  "model": "glm-5.3"
+}

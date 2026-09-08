@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Kusikurqankum thakiptinku, hinaspa pusarqankum paykunap munasqan puertoman.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "kusikurqanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "thakirqanku"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "pusarqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "puerto"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "paykunap munasqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:16.218539552Z",
+  "model": "glm-5.3"
+}

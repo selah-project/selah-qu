@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Adonaytaq Yahwem ñuqata yanapanqa; chayraykum mana pisiyakurqanimchu; chayraykum uyayta ch'akihina churirqanim, hinaspa yachanim: mana pisiyasaqchu.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Adonaytaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "yanapanqa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "raykum"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "pisiyakurqanimchu"
+    },
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "raykum"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "churirqanim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uyayta"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "ch'akihina"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "hinaspa yachanim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "pisiyasaqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:36:56.122987531Z",
+  "model": "glm-5.3"
+}

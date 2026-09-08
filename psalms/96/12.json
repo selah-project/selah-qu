@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 96,
+  "translation": "Phawarisun chakra, chaypi kaq llapanninwan; chay pacha llapa sach'a-sach'ap sach'akunam kusilla takinqa.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "phawarisun"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "chakra"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapanninwan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "אז",
+      "gloss": "chay pacha"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "kusilla takinqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'akuna"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sach'a-sach'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:51.160268784Z",
+  "model": "glm-5.3"
+}

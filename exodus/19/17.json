@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Moshe (Moisés)qa ⟨את⟩ runakunata campumanta Elohimpa wasinman t'ikrarqan; chaymi Sinai urqupa uriñanpi sayarqanku.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "t'ikrarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tupanapaq"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "campumanta"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "sayarqanku"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "uriñanpi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "urqupa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:44.000459617Z",
+  "model": "glm-5.3"
+}

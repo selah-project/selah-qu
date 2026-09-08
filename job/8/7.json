@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 8:7",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Qallariyniyki huch'uymi kanqa, hinaspa puchukayniyki ancha hatunmi kanqa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "ראשיתך",
+      "gloss": "qallariyniyki"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "huch'uy"
+    },
+    {
+      "surface": "ואחריתך",
+      "gloss": "hinaspa puchukayniyki"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "ancha hatun kanqa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ancha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:58:35.520795250Z",
+  "model": "glm-5.3"
+}

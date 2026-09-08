@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymanta apum Shadrakhta, Meshakhta, hinaspa Abed-Negota Bavel (Babilonia) suyupi hatallirqan.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Chaymanta"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "apu"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "hatallirqan"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "Shadrakhta"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshakhta"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "hinaspa Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Negota"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "suyupi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-09-08T11:55:02.168808918Z",
+  "model": "glm-5.3"
+}

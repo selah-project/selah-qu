@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Yehoshua (Josué) paykunaman Yahwem willasqanman hina ruwarqanmi: ⟨את⟩ suysinkunata ñak'arirqan, ⟨את⟩ markuwankunatawan ninawan rawarqan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "willasqanman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "pay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suysinkunata"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "suysinkunata"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "ñak'arirqan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "markuwankunatawan"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "markuwankunatawan"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "rawarqan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninawan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:18:25.753095359Z",
+  "model": "glm-5.3"
+}

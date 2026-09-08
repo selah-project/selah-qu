@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Yonatanmi (Jonatán) ⟨את⟩ Pelishtikunap sayaqta Gewapi yarqarqan; Pelishtikunam uyarqanku; hinaspa Shaulmi shoforman llapa hallp'api takurqan, kayta ninpa: «Uyariychik, Iwrim».",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "yarqarqan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtikunap sayaqta"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "sayaq"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtikunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaypi kaqta"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "Gewapi"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "uyarqankum"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtikunam"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "hinaspa Shaulmi"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "takurqan"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shoforman"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta ninpa"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "uyariychik"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Iwrim"
+    }
+  ],
+  "timestamp": "2026-09-08T13:36:24.287311428Z",
+  "model": "glm-5.3"
+}

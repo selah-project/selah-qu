@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Yahwem qamta llakhichinqam: aycha phusiywan, ruphay nanaywan, nanarichiywan, sinchi ruphaywan, chukiwan, sur'u phutiywan, q'omer p'ochrawan; chaykuna qamta qatipaqanku, qam chinkaykikamam.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "llakhichinqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "aycha phusiywan"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "ruphay nanaywan"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "nanarichiywan"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "sinchi ruphaywan"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "chukiwan"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "sur'u phutiywan"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "q'omer p'ochrawan"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "qamta qatipaqanku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "qam chinkaykikamam"
+    }
+  ],
+  "timestamp": "2026-09-08T02:55:26.456151642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Paym qhawaspa sayarirqan, nefeshninmanmi purirqan; chayarqan Beer Shebaman, Yehudap kaqman, chaypis ⟨את⟩ yanapaqninta saqirqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshnin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "saqirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapaqninta"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "yanapaqnin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:20:16.581117878Z",
+  "model": "glm-5.3"
+}

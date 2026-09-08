@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chaymantapas, Kohelet yachayniyuq karqanmi, chayrayku ñawpaqmantaraq ⟨את⟩ runakunata yachayman yachachirqan; hinaspa uyachakurqanmi, hinaspa maskharqanmi, achka eqllakunata allinchaspa t'aqnarqan.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Chaymantapas"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yachayniyuq"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ñawpaqmantaraq"
+    },
+    {
+      "surface": "למד",
+      "gloss": "yachachirqan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "yachayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "hinaspa uyachakurqan"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "hinaspa maskharqan"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "allinchaspa t'aqnarqan"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "eqllakunata"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "achka"
+    }
+  ],
+  "timestamp": "2026-09-08T11:44:49.022557847Z",
+  "model": "glm-5.3"
+}

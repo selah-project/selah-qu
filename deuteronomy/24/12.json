@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa wakcha runa kaptinqa, paypa préstamo-ninwan mana puñunkiñachu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa kaptinqa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "puñunkiñachu"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "paypa préstamo-ninwan"
+    }
+  ],
+  "timestamp": "2026-09-08T02:48:49.014391130Z",
+  "model": "glm-5.3"
+}

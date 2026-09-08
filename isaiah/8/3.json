@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaysi navi warmiman qayllakurqani; payqa wiksayurqan, churita wawachakurqan. Hinaspa Yahwem ñuqaman nirqan: Sutichay paypa sutinta Maher Shalal Chash Baz.",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "qayllakurqani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "navi warmi"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wiksayurqan"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wawachakurqan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sutichay"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "paypa sutinta"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Maher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Chash"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-09-08T05:54:42.728172162Z",
+  "model": "glm-5.3"
+}

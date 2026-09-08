@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Runakunanm Shemuelman (Samuel) nirqanku: «Pim nispa nirqan: Shaulmi ñuqanchikpi apukanqataq? Chay runakunata qoykichik, wañuchisqaykum».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqankum"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuelman (Samuel)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "nispa nisqa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulpa"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "apukanqa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqanchikpi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "qoykichik"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "chay runakunata"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "wañuchisqayku"
+    }
+  ],
+  "timestamp": "2026-09-08T04:09:36.348568640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa Jushimnmanta payaqarqan ⟨את⟩ Avituvta, hinaspa ⟨את⟩ Elpaalta.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "Jushimnmanta"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "payaqarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avituvta"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Avituvta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Elpaalta"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaalta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:07.834328717Z",
+  "model": "glm-5.3"
+}

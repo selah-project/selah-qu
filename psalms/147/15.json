@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Hallp'amanmi kamachikuyninta kachan, paypa siminta utqaylla pawayan.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "kachan"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "kamachikuyninta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "עד",
+      "gloss": ""
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "utqaylla"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "pawayan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "paypa siminta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:59.695255976Z",
+  "model": "glm-5.3"
+}

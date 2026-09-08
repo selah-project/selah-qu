@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaymanta yachaykuichij: Yahwem khasidad runata paypaq akllarqanmi; Yahwe ñuqap qayakuypi payman qayarqapti, uyariwanqam.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "yachaykuichij"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "akllarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "khasidad runata"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uyariwanqa"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ñuqap qayakuypi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:29.454423965Z",
+  "model": "glm-5.3"
+}

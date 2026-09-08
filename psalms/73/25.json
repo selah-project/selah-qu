@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Pi hanaq pachapi kachkan ñuqapaq? Qamwan kachkaspa, mana hallp'api imatapas munarqanichu.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "qamwan kachkaspa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "munarqanichu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:00.476100994Z",
+  "model": "glm-5.3"
+}

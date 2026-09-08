@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Yahwem Yaakovta nirqan: Kutiy taytaykichikpa hallp'anman, paqarisqaykichik llaqtaman; ñuqam qampi kasaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–man"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovta"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'anman"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "taytaykichikpa"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "paqarisqaykichik llaqtamanwan"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "kasaqm"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qampi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:06:13.395514018Z",
+  "model": "glm-5.3"
+}

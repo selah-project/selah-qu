@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Mana allin rimaywan amautakunqachu, hinaspa rimanakunapas mana imatapas apunqachu?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "amautakunqa"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "rimaywan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "allinchu kanqa"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "hinaspa rimanakuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "apunqa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:06:24.625449094Z",
+  "model": "glm-5.3"
+}

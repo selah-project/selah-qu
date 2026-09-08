@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 14:8",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Llanthinkunapi tiyaqkuna kutinqaku; tunata kawsachinqaku, hinaspa burq'in hina phanchallanku, sut'inqa Libanon aqan hina kanqam.",
+  "tokens": [
+    {
+      "surface": "ישבו",
+      "gloss": "kutinqaku"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "llanthinkunapi"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "kawsachinqaku"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "tunata"
+    },
+    {
+      "surface": "ויפרחו",
+      "gloss": "hinaspa panchallanku"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "burq'in hina"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "sut'inqa"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "aqan hina"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:31.428802871Z",
+  "model": "glm-5.3"
+}

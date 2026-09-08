@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Yahwepaq sichay allinmi tukuchun; ñuqataqmi Yahwepi kusan kawsasaq.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "allinmi tukuchun"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "sichay"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "kusan kawsasaq"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:31.790246815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Ashshurpa apun ⟨את⟩ Israelta Ashshurman aparuspa, Chalachpi, Jawor mayupi, Gozanpi, hinaspa Medipa llaqtankunapipim churarqanmi.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "aparuspa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshurpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Ashshurman"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Chalachpi"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "Jaworpipas"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mayupi"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozanpi"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "llaqtankunapipas"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Medipa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:39:21.614081175Z",
+  "model": "glm-5.3"
+}

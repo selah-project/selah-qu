@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Kaymi ñuqap chiqnichikuqkunapa llamk'asqan ⟨את⟩ Yahwemanta, hinaspam mana allinta rimakuqkunam ñuqap nefeshmanta.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "llamk'asqan"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ñuqap chiqnichikuqkunapa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwemanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "hinaspam rimakuqkuna"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "על",
+      "gloss": "contra"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap nefesh"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:57.535203069Z",
+  "model": "glm-5.3"
+}

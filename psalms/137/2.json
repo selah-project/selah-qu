@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 137,
+  "translation": "Chaypa chawpinpi kaq sawsikunapim kinnorlanchikta watarqayku.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "sawsikuna"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "watarqayku"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "kinnorlanchikta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:02.677414187Z",
+  "model": "glm-5.3"
+}

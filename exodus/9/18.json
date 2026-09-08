@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 9:18",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Qaway, ñuqam paqarin kay pachapi aswan llasaq chullunkata paramurqasaq, mayqin Mitsrayimpi manam karqanchu chayhina, p'unchawmanta sayarichisqa karqanmanta, kunankama.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Qaway, ñuqam"
+    },
+    {
+      "surface": "ממטיר",
+      "gloss": "paramurqasaq"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "kay pachapi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "paqarin"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "chullunka"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "llasaq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimpi"
+    },
+    {
+      "surface": "למן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchawmanta"
+    },
+    {
+      "surface": "הוסדה",
+      "gloss": "sayarichisqa karqan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:48.000599845Z",
+  "model": "glm-5.3"
+}

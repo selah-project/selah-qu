@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Yahwem ⟨את⟩ runakunap khuyayninta Mitsrayim runakunap ñawinkuninpi churqan; Moshe runataq Mitsrayim hallp'apin sinchi hatunmi karqan — Paropa yanapaqninkunap ñawinkuninpipas, runakunap ñawinkuninpipas.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "churqanm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khuyay"
+    },
+    {
+      "surface": "חן",
+      "gloss": "khuyay"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinkuninpi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim runakunap"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatunmi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'apin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinkuninpi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapaqninkunap"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ñawinkuninpipas"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:19.713488617Z",
+  "model": "glm-5.3"
+}

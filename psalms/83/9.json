@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Ashshur (Asiria)wanmi paykunawan hukllakurqa; Lawt (Lot)pa wawankunapaq maqanaku-yanapaq karqanku. Sela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ñawpaqtaqtin"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur (Asiria)"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "hukllakurqa"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "paykunawan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "maqanaku-yanapaq"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunapaq"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lawt (Lot)"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:17.572687213Z",
+  "model": "glm-5.3"
+}

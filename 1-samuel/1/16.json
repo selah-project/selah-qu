@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ama ⟨את⟩ yanaykita Belialpa wawan hina churariwankichu; askha llakikuyrayku, phiñarayrayku, kaykama rimanimi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "churariwankichu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanaykita"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "yanayki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "בת",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belialpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "llakikuy"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "phiñaray"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "rimani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kay-"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kaykama"
+    }
+  ],
+  "timestamp": "2026-09-08T04:02:19.239057008Z",
+  "model": "glm-5.3"
+}

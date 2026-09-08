@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Sunquyta manyarqani juqyoykita ruwanaykipaq, wiñaypaq, puchukaqkama.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "manyarqani"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquyta"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanaykipaq"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "juqyoykita"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "puchukaqkama"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:16.789503628Z",
+  "model": "glm-5.3"
+}

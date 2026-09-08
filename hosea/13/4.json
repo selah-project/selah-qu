@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Ñuqataqmi Yahwe, kantaqpa Elohimniyki, Mitsrayim hallp'amanta; ñuqap hinaqa wak dioskunata mana riqsinkichu, hinaspa qispichiq ñuqap hinaqallanmanta mana ⟨kanchu⟩.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Ñuqataqmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "hinaspa wak dioskunata"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ñuqap hinaqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "riqsinkichu"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "hinaspa qispichiq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana ⟨kanchu⟩"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ñuqap hinaqallanmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:05:57.609256972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Kedesh apun, hukmi; Yokneam Karmelpa apun, hukmi.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Yokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "Karmelpa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:16:15.108271525Z",
+  "model": "glm-5.3"
+}

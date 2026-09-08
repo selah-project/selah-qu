@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Ch'eki hallp'aman chayamushanta qhawaspa, shofarpi phajtan, ⟨את⟩ runakunata amachakunapaq willakunmi.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ch'ekita"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ch'eki"
+    },
+    {
+      "surface": "באה",
+      "gloss": "chayamushanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "sayapi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "phajtan"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofarpi"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "amachakunapaq willakunmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T14:03:54.807977766Z",
+  "model": "glm-5.3"
+}

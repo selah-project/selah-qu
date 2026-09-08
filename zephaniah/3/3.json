@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Paypa apunkuna ukhunpi puma qapariqkuna; paypa taripakuqninkunaqa chisi ateqkuna, paqarinkama tulluta saqirqankuchu.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "paypa apunkuna"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "puma"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "qapariqkuna"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "paypa taripakuqninkuna"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "ateqkuna"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "chisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "tulluta saqirqanku"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "paqarinkama"
+    }
+  ],
+  "timestamp": "2026-09-08T09:14:54.525379317Z",
+  "model": "glm-5.3"
+}

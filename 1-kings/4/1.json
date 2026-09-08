@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa apu Shelomo (Salomón) tukuy Israelpa apunmi karqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "hinaspa … karqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "על",
+      "gloss": "umalliq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:59:48.466438001Z",
+  "model": "glm-5.3"
+}

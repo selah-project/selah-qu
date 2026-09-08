@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa ⟨את⟩ Qochata churarqanmi paña ñiq'epi, ñawpaqman, qulla ñiq'eman qayllanpi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Qochata"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Qocha"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churarqanmi"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "aña ñiq'epi"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "paña"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ñawpaqman"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "qayllanpi"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "qulla ñiq'eman"
+    }
+  ],
+  "timestamp": "2026-09-08T12:55:25.323782827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Sayachiy rimayniyki yanapayniykiqpaq, chayta manchariykimanmi.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Sayachiy"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "yanapayniykiqpaq"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "rimayniyki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "manchariykimanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:10.526556032Z",
+  "model": "glm-5.3"
+}

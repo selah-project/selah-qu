@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Yahwem payman nirqan: Ri, ñanpiykiman kutiy, Damasqo (Damasco) ch'usaqman; chayaspa ⟨את⟩ Hazaelta (Hazael) Arampa apun kananpaq unsuchiy.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ri"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "ñanpiykiman"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ch'usaqman"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasqo"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "chayaspa"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "unsuchiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazaelta"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaelta"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apu kananpaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-08T05:18:49.839477556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa paymi Yahwepa manachiyninpi thantiykunqa; manam ñawinkunap qhawasqanwan taripakunqachu, manataq rinrinkunap uyarikusqanwan chiqanchakunqachu.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "thantiykunqa"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "manachiyninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "qhawasqanwan"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ñawinkunap"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "taripakunqachu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "uyarikusqanwan"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "rinrinkunap"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "chiqanchakunqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T13:43:43.067361647Z",
+  "model": "glm-5.3"
+}

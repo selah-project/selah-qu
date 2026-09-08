@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Imata ruwankichik churamusqa p'unchawpi, hinaspa p'unchawpi Yahwepa raymipi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Imata"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ruwankichik"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "churamusqa"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "hinaspa p'unchawpi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "raymipi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:51:44.151396876Z",
+  "model": "glm-5.3"
+}

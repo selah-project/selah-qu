@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 64,
+  "translation": "Pakasqa ukhupi allin runata saqenankupaq; phistasqalla saqerqanku, manam mancharikunchu.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "saqenankupaq"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "pakasqa ukhupi"
+    },
+    {
+      "surface": "תם",
+      "gloss": "allin runata"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "phistasqalla"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "saqerqanku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "mancharikunchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:11.871061674Z",
+  "model": "glm-5.3"
+}

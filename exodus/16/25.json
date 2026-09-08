@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Hinaspa Moshem (Moshe) nirqan: Kunan p'unchawta mik'uychik, imaraykuchus kay p'unchawqa Shabatmi Yahwepaq; kay p'unchaw chayta chaqrapi mana tarinkichikchu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshem"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "mik'uychik chayta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kay p'unchaw"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ...chu"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "tarinkichik chayta"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chaqrapi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:02.290773823Z",
+  "model": "glm-5.3"
+}

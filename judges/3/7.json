@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa Israelpa churinkuna Yahwep ñawinpi ⟨את⟩ mana allinta rurqanku, hinaspa ⟨את⟩ Yahweta, Elohimninkuta qonqarqanku, hinaspa ⟨את⟩ Baalkunata hinaspa ⟨את⟩ Asherakunata qatirqanku.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "rurqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Israelpa churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana allinta"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "qonqarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimninkuta"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "qatirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalkunata"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Asherakunata"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "Asherakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:39:01.141595418Z",
+  "model": "glm-5.3"
+}

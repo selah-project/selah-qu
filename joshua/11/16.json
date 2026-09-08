@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chaymanta Yehoshuam hap'irqan ⟨את⟩ llapan kay hallp'ata: orqokunata, hinaspa ⟨את⟩ llapan Urin llaqtata, hinaspa ⟨את⟩ llapan Goshen hallp'ata, hinaspa ⟨את⟩ uray hallp'ata, hinaspa ⟨את⟩ Araba pampata, hinaspa ⟨את⟩ Israel orqota, paypa uray hallp'anwan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan kay hallp'ata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "orqokuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Urin llaqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "uray hallp'a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba pampa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "paypa uray hallp'anwan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:19:42.949605509Z",
+  "model": "glm-5.3"
+}

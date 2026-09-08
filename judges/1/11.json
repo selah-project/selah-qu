@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymanta chaymantam Debirpi tiyaqkunaman rirqan — Debirpa suti ñawpaqta Kiryat Sefer ⟨karqan⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kunaman"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debirpi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debirpa"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sefer"
+    }
+  ],
+  "timestamp": "2026-09-08T03:32:14.990249380Z",
+  "model": "glm-5.3"
+}

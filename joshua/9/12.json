@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "«Kay t'antaykuqa q'uñi karqan: ⟨את⟩ kayta wasiykumanta apanakurqayku, qamkunaman rinapaq lluqsirqayku p'unchawpi; kunantaq qhaway: ch'akirusqaña, hinaspa phatasqa uchhukunam tukuruspa.»",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "t'antayku"
+    },
+    {
+      "surface": "חם",
+      "gloss": "q'uñi"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "apanakurqayku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kayta"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "wasiykumanta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "lluqsirqayku"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "rinapaq"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "hinaspa kunantaq"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ch'akirusqaña"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "hinaspa tukuruspa"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "phatasqa uchhukuna"
+    }
+  ],
+  "timestamp": "2026-09-08T03:17:23.428140052Z",
+  "model": "glm-5.3"
+}

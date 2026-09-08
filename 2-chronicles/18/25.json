@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Israelpa apun Mikhayehuta nirqan: Chaskiy ⟨את⟩ Mikhayehuta, hinaspa payta kutichiy Amonman, llaqtapa kamachikuqninman, hinaspa Yoashman, apup churinman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Chaskiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikhayehuta"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikhayehuta"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "hinaspa payta kutichiy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amonman"
+    },
+    {
+      "surface": "שר",
+      "gloss": "kamachikuqninman"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtapa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ... man"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoashman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apup"
+    }
+  ],
+  "timestamp": "2026-09-08T13:06:41.187356510Z",
+  "model": "glm-5.3"
+}

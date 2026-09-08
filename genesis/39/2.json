@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hinaspa Yahwem ⟨את⟩ Yosefwan karqan; hinaspa payqa chaniyuq runam karqan; hinaspa payqa karqan paypa apuwan, Mitsrayim runapa, wasinpi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "hinaspa ... karqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefwan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefwan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "hinaspa payqa ... karqan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runam"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "chaniyuq"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "hinaspa payqa karqan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "paypa apuwan"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mitsrayim runapa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:11:55.150076790Z",
+  "model": "glm-5.3"
+}

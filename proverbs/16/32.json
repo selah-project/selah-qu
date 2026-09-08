@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Ph'inqay tinkilla kaqmi sinchi runamanta aswan allin; kikin sonqonta kamachiqmi llaqta hap'iqmanta aswan allin.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "aswan allin"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "tinkilla"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ph'inqay"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "sinchi runamanta"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "hinaspa kamachiq"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "kikin sonqonta"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "hap'iqmanta"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:45:18.047056325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Imaraykuchus p'unchaw hinaspa tuta makiyki ñuqap patapi llasaq karqanmi, kallpanchakuyqa ch'aki qarpa pachaman tikrarqan. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "hinaspa tuta"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "llasaq karqan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap patapi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "tikrarqan"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "kallpanchakuy"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "ch'akiyachkuwan"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "qarpa pacha"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:07.022920050Z",
+  "model": "glm-5.3"
+}

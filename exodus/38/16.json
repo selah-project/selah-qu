@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "P'asñap llapa q'espiynin muyuriqninpiqa away q'aytu pachamanta karqanmi — shesh mashzar (alli away q'aytu llinphi).",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "q'espiynin"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "p'asñap"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqninpi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "shesh (away q'aytu pacha)"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mashzar (alli away)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:20.262038647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Yahweqa paypa yanapaqninkunap Nefeshninta (kawsayninta) qispichinmi; paypi haylliqkuna llapanku mana huchanchasqa ⟨kan⟩qakuchu.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "qispichin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefeshninta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "paypa yanapaqninkunap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "huchanchasqa kanqaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanku"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "haylliqkuna"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:13.642959557Z",
+  "model": "glm-5.3"
+}

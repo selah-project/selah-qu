@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa chay michi chipata tawan kutitam kutichinqa, kay rurayta ruraykasqanrayku, llakikuyñawan mana llakikuspas.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chay michi chipata"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "chay michi chipa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kutichinqa"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "tawan kutita"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "rurayta ruraq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay rurayta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kay ruray"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa...rayku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqanrayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "llakikuspas"
+    }
+  ],
+  "timestamp": "2026-09-08T04:39:37.360220620Z",
+  "model": "glm-5.3"
+}

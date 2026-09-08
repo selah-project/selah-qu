@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Ch'usaqyarqankum ⟨את⟩ llapata ima llaqtapi kaqta: qharimanta warmikama, wawamanta machukama, wakakama, uwijakama, burrukamanapas — chunka p'inqanwan.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "ch'usaqyarqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi kaqta"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "qharimanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "warmikama"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "wawamanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "machukama"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "machu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wakakama"
+    },
+    {
+      "surface": "שור",
+      "gloss": "waka"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "uwija"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "burru"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "p'inqanwan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "chunka"
+    }
+  ],
+  "timestamp": "2026-09-08T03:12:18.527148011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 117,
+  "translation": "Yupaychaychik ⟨את⟩ Yahweta, llapa mamallaqtakuna; sumaq yupaychaychik payta, llapa runa llaqtakuna.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Yupaychaychik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "mamallaqtakuna"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "sumaq yupaychaychik payta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "runa llaqtakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:54.156730779Z",
+  "model": "glm-5.3"
+}

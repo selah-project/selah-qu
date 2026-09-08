@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Yachachiq qillqa Asafpaq. Uyariy, runay, Torayta; ñawpaq ñiqin kuti: Asaf (Asaf). Ringrinkichikta simip rimasqanman churaychik.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "yachachiq qillqa"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafpaq"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runay"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torayta"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "churaychik"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ringrinkichikta"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "rimasqanman"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simip"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:52.210704761Z",
+  "model": "glm-5.3"
+}

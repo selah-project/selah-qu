@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 82,
+  "translation": "Qispichiy wakchata, mana imayuqtawan; millay runakunap makinmanta hark'aychik.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Qispichiy"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wakchata"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mana imayuqtawan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "millay runakunap"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "hark'aychik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:00.085089678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 79,
+  "translation": "Wiqtay phiñaykita mana qamta riqsikusqanku runakunaman, hinallataq mana qampa Sutiykiwan qayarqakusqanku mamallaktakunaman.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "wiqtay"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "phiñaykita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "qamta riqsikunki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinallataq …-man"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mamallaktakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "qampa Sutiykiwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "qayarqakunki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:20.347187024Z",
+  "model": "glm-5.3"
+}

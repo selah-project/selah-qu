@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Chaymanta sayarichinki ⟨את⟩ Mishkanta paqtasqanman hina, chayta urqupi rikuchirqayki.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "sayarichinki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkanta"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanta"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "paqtasqanman hina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "rikuchirqayki"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqupi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:16.232851327Z",
+  "model": "glm-5.3"
+}

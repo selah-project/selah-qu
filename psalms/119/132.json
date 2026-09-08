@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Ñuqaman qaway, ñuqata khuyapuriway, hina ñawpaq munakuqkunaman Sutiykipaq.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "qaway"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ñuqata khuyapuriway"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "hina ñawpaq"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "munakuqkunaman"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiykipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:11.933554461Z",
+  "model": "glm-5.3"
+}

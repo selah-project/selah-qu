@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Riqsisqa karqanmi hanaqman apaq hina, sach'a-sach'a chakanpi hachakunata.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "riqsisqa karqanmi"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "hanaqman apaq hina"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "hanaqman"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "sach'a-sach'a chakanpi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hachakunata"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "hachakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:08.803466560Z",
+  "model": "glm-5.3"
+}

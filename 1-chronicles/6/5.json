@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Gershompam: Libni churinmi, Yachat churinmi, Zimmah churinmi.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Gershompam"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinmi"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yachat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinmi"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zimmah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:22.870899949Z",
+  "model": "glm-5.3"
+}

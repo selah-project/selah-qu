@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kaymi chay runakunap sutinkuna, mayqinkunachus qamkunawan ⟨את⟩ hatarinqaku: Reuvenpaq (Rubén) — Elitsur, Shedejurpa churin.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kaymi chay"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sutinkuna"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunachus"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "hatarinqaku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunawan",
+      "marks": "qamkunawan"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "Reuvenpaq (Rubén)"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedejurpa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:12:38.118693496Z",
+  "model": "glm-5.3"
+}

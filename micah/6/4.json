@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Imataqrayku Mitsrayim (Egipto) hallp'amanta pusarqaniyki upachaspa, mita runakunap wasimanta qispichirqaniyki; qampa ñawpaqpi hinaspa ⟨את⟩ Moshe (Moisés), Aharon (Aarón) hinaspa Miryam (María) kacharqanim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imataqrayku"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "pusarqaniyki upachaspa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "hinaspa ... wasimanta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mita runakunap"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "qispichirqaniyki"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "hinaspa kacharqani"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qampa ñawpaqpi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe (Moisés)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Aarón)"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "hinaspa Miryam (María)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:11:00.251337278Z",
+  "model": "glm-5.3"
+}

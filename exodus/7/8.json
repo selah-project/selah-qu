@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaymi Yahwe Moshe (Moisés)man hinaspa Aharon (Aarón)manwan rimarqan, nispam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa...manwan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispam"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:50.668340828Z",
+  "model": "glm-5.3"
+}

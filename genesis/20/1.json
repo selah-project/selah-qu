@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa Abraham chaymanta Négev hallp'aman purirqan, Qadeshwan Shurwan chawpipin tiyarqan, hinaspa Gerarpi runa hut'asqa hina kawsarqan.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham (Abrahán)"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Négev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpipin"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "…wan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shurwan"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "runa hut'asqa hina kawsarqan"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "Gerarpi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:00.163298135Z",
+  "model": "glm-5.3"
+}

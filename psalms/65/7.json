@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Sayarichiqmi urqukunata atiyninwan, sinchi atiypi chumpisqa.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "sayarichiq"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "urqukunata"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "atiyninwan"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "chumpisqa"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "sinchi atiypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:21.875315471Z",
+  "model": "glm-5.3"
+}

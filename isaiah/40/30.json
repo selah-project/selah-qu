@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Ñañu waynakunam ch'akiruspa amañanqaku, sumaq wayna hatunmakunataq t'ikraspa urmaykunqaku.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "ch'akiruspa"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ñañu waynakuna"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "amañanqaku"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "sumaq wayna hatunmakunataq"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "t'ikraspa"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "urmaykunqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:23:49.014129212Z",
+  "model": "glm-5.3"
+}

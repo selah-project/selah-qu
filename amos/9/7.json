@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Manachu Kushi wawaykuna hina kankichik ñuqap ñawinchikpi, Israel wawaykuna? Yahwem willanmi. Manachu ⟨את⟩ Israelta Mitsrayim hallp'amanta hatarichirqani, filisteqtakunataq Kaphtormanta, aramtaq Qirmanta?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "wawaykuna hina"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "kankichik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap ñawinchikpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawaykuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "willanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "hatarichirqani"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "filisteqtakunataq"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "Kaphtormanta"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "aramtaq"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "Qirmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:02:04.950091901Z",
+  "model": "glm-5.3"
+}

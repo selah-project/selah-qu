@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Ñuqam Yahwe kani, qampa Elohimniyki, mayqenm qamta Mitsrayim (Egipto) hallp'amanta, mita wasimanta hurquarqani.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "qamta hurquarqani"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasimanta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "mita"
+    }
+  ],
+  "timestamp": "2026-09-08T02:29:39.006385033Z",
+  "model": "glm-5.3"
+}

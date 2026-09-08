@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Machkaspaq ñawpaqmantam huk t'antata teruma hina hark'ankichik; irana teruma hina chaynata hark'ankichik ⟨את⟩ chayta.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ñawpaqmantam"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "machkaspaq"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "t'antata"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "hark'ankichik"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma hina"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "teruma hina"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "irana"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "hark'ankichik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chayta (huk t'anta)"
+    }
+  ],
+  "timestamp": "2026-09-08T01:31:00.147134505Z",
+  "model": "glm-5.3"
+}

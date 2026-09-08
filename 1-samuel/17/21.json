@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Hinaspam Israelpas Phelishtimpas maqanakuy-siq'ita huk maqanakuy-siq'imanmi ñawpaqman sayachirqanku.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "sayachirqanku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpas"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "Phelishtimpas"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "maqanakuy-siq'ita"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ñawpaqman"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "huk maqanakuy-siq'imanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:17:27.229203217Z",
+  "model": "glm-5.3"
+}

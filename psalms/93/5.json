@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 93,
+  "translation": "Willakuykunayki askhamanta chiqapmi ⟨kachkanku⟩; wasiykikipaq sumaqmi qodesh, Yahwe, wiñay p'unchawkunakama.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "willakuykunayki"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "chiqapmi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "askhamanta"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "wasiykikipaq"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "sumaqmi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "wiñay kaman"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkunakama"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:13.513078452Z",
+  "model": "glm-5.3"
+}

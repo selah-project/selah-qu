@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Maypin kachkanchu Chamathpa apun, hinaspa Arpadpa apun, hinaspa Sepharvajim llaqtap apun, Hena, hinaspa Ivah?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "maypin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamathpa"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "hinaspa ... apun"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpadpa"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "hinaspa ... apun"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "llaqtap"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sepharvajim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "hinaspa Ivah"
+    }
+  ],
+  "timestamp": "2026-09-08T06:19:31.612667944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Wasip kirnin patanmanta Shelomom huk wasichata muyuriptin ruwarqan, ⟨את⟩ wasip kirinkunata muyuripta, heikhalpaq, Debirpaqpas; hinataqmi tsalaokunata muyuriptin ruwarqan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanmanta"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "kirnin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasip"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "wasichata"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriptin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasip kirinkunata"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "kirinkunata"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasip"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuripta"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "heikhalpaq"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "Debirpaqpas"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "tsalaokunata"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriptin"
+    }
+  ],
+  "timestamp": "2026-09-08T05:02:33.378651455Z",
+  "model": "glm-5.3"
+}

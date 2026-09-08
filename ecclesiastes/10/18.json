@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Qilla raykumi techoqa urmakun, makikunap mana llamk'ayninwan wasiqa thultunmi.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "qilla rayku"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "urmakun"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "techo"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "mana llamk'ayninwan"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "makikuna"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "thultun"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:44:26.088118126Z",
+  "model": "glm-5.3"
+}

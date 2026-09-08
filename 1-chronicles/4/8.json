@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kotsmi ⟨את⟩ Anubta, ⟨את⟩ Tzobebehtawan paqarichirqan, hinaspa Ajarjel, Harumpa churin, ayllukunawanpas.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Kots"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anubta"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tzobebehtawan"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Tzobebah"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "ayllukunawanpas"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Ajarjel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Harumpa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:32:44.030387312Z",
+  "model": "glm-5.3"
+}

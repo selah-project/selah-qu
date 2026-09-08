@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Ñuqawpaq runaman imatapas manata qaraptiyki, wasinman mana yaykunkichu, préstamo-ninta huñunaykipaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaptiyki"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "manata qaraptiyki"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ñuqawpaq runaman"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "imatapas"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "mana imapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "yaykunkichu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "préstamo-ninta huñunaykipaq"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "préstamo-nin"
+    }
+  ],
+  "timestamp": "2026-09-08T02:48:49.014025600Z",
+  "model": "glm-5.3"
+}

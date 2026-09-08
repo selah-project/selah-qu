@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Kunkaymi Elohimman chayan, hinaspa waqaykachani; kunkaymi Elohimman chayan, ñuqaman rinri churaykunanpaq.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "kunkaymi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "hinaspa waqaykachani"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "kunkaymi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "hinaspa rinri churaykunan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:36.323271990Z",
+  "model": "glm-5.3"
+}

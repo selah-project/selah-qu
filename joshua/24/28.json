@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaymanta Yehoshua ⟨את⟩ runakunata kacharqan, sapa runa kikin churananman.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "kikin churananman"
+    }
+  ],
+  "timestamp": "2026-09-08T03:32:58.090191197Z",
+  "model": "glm-5.3"
+}

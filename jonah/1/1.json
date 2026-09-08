@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Karqanm Yahwepa simin Yonahman — Amittaypa churinman — kayta nispa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Karqanm"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yonah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amittaypa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:04:57.442112384Z",
+  "model": "glm-5.3"
+}

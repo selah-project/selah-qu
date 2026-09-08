@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 6:45",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Binjamin (Benjamín) ayllunmantam: ⟨את⟩ Gebawan michinapappanninta, ⟨את⟩ Alemetwan michinapappanninta, ⟨את⟩ Anatotwan michinapappanninta; llapan llaqtankuna chunka kimsa llaqta ayllunkunapi.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ayllunmanta"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gebawan"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michinapappanninta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "michinapappanninta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Alemetwan"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michinapappanninta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "michinapappanninta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Anatotwan"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michinapappanninta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "michinapappanninta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "llaqtankuna"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "במשפחותיהם",
+      "gloss": "ayllunkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:28.114508493Z",
+  "model": "glm-5.3"
+}

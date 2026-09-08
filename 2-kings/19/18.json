@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa ⟨את⟩ diosninkunta ninapi churarqanku, imaraykuchus manam paykuna dioskuna ⟨kanchu⟩, aswanraq runap makinp rurasqanmi — sach'a, rumiwan; chayrayku chinkachirqanku.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "churarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diosninkunta"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "diosninkunta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninapi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aswanraq"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aswanraq"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rurasqa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makinp"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "rumiwan"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "chinkachirqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T05:45:17.206429678Z",
+  "model": "glm-5.3"
+}

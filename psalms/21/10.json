@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chaytata Yahwep ñawpaqninpi nina q'onchatupuhina churankim; Yahwepa phiñakuyninwan miqt'unkam, ninapas chaytata mikhuwankam.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "chaytata churankim"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "q'onchatupuhina"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "phiñakuyninwan"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "miqt'unkam"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "mikhuwankam"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ninapas"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:17.178760562Z",
+  "model": "glm-5.3"
+}

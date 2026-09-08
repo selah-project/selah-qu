@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Mikhuchkaqqa huchhanta apamunqam, imarayku Yahwepa kodeshta ⟨את⟩ ch'usaqchirqan; chay nefeshqa runan pura kuchusqa kanqa.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "mikhuchkaqqa"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "huchhanta"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "apamunqam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa kodeshta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kodesh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ch'usaqchirqan"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "kuchusqa kanqa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "runan pura"
+    }
+  ],
+  "timestamp": "2026-09-08T01:03:19.142047336Z",
+  "model": "glm-5.3"
+}

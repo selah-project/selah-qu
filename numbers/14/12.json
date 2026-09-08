@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Ñuqam paykunata unquywan maqasaq hinaspa chinkachisaq; hinaspa ⟨את⟩ qamta hatun, paykunamanta aswan atiyniyuq llaqtaman ruwasaq.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "paykunata maqasaq"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "unquywan"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "chinkachisaq"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ruwasaq"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "qamta hatun llaqtaman"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "llaqtaman"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "aswan atiyniyuq"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paykunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:27:51.199876188Z",
+  "model": "glm-5.3"
+}

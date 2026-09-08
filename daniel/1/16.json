@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chay kamachiqmi paykunap ⟨את⟩ mikhunninkunta apaqurqan, paykunap vinu upyayninkuntawan; chaymanta tarpusqa murukunatam qoyrqan paykunaman.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "chay kamachiq"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "apaqurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikhunninkunta"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "mikhunninkun"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "vinu"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "upyayninkun"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "qoyrqanmi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "tarpusqa murukuna"
+    }
+  ],
+  "timestamp": "2026-09-08T11:49:52.178044839Z",
+  "model": "glm-5.3"
+}

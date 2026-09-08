@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Kohenm ⟨את⟩ chayta chaninchangam, allin utaq mana allin chuspa; qampa chaninchaykiykim kohen hinam kanqa.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "chaninchangam"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chayta (allin utaq mana allin chusqa)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "allin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "qampa chaninchaykiykim hina"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hinam"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:14:23.376828536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Kuyasqaykikuna qispichikunanpaqmi; paña makiykiwan qispichiy, ñuqanchikta kutichiy.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "nanpaq"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "qispichikunan"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "kuyasqaykikuna"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "pañamakiyki"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "hinaspa ñuqanchikta kutichiy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:14.122969639Z",
+  "model": "glm-5.3"
+}

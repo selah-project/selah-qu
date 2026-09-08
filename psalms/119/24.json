@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Willakuyniykiqa kusi kayniymi, ñuqap yuyayniykipas masinkunam.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "willakuyniykiqa"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "kusi kayniymi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "masinkuna"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "yuyayniykipa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:10.872557233Z",
+  "model": "glm-5.3"
+}

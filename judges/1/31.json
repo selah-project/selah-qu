@@ -1,0 +1,96 @@
+{
+ "tier": "glm-5.2",
+ "verse": 31,
+ "ref": "judges 1:31",
+ "book": "judges",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Asherqa manam ⟨את⟩ Akko tiyaqkunata, hinaspa ⟨את⟩ Tsidon tiyaqkunata, hinaspa ⟨את⟩ Ahlabta, hinaspa ⟨את⟩ Ajzibta, hinaspa ⟨את⟩ Helbahta, hinaspa ⟨את⟩ Afeqta, hinaspa ⟨את⟩ Rejovta qarqurqanchu.",
+ "tokens": [
+  {
+   "surface": "אשר",
+   "gloss": "Asher"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "הוריש",
+   "gloss": "qarqurqanchu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Akko tiyaqkunata"
+  },
+  {
+   "surface": "ישבי",
+   "gloss": "tiyaqkunata"
+  },
+  {
+   "surface": "עכו",
+   "gloss": "Akko"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Tsidon tiyaqkunata"
+  },
+  {
+   "surface": "יושבי",
+   "gloss": "tiyaqkunata"
+  },
+  {
+   "surface": "צידון",
+   "gloss": "Tsidon"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Ahlabta"
+  },
+  {
+   "surface": "אחלב",
+   "gloss": "Ahlab"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Ajzibta"
+  },
+  {
+   "surface": "אכזיב",
+   "gloss": "Ajzib"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Helbah"
+  },
+  {
+   "surface": "חלבה",
+   "gloss": "Helbah"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Afeqta"
+  },
+  {
+   "surface": "אפיק",
+   "gloss": "Afeq"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Rejov"
+  },
+  {
+   "surface": "רחב",
+   "gloss": "Rejov"
+  }
+ ],
+ "timestamp": "2026-09-08T03:34:03.842423301Z",
+ "model": "glm-5.3"
+}

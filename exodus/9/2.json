@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Sichus qam kachariyta mana munanki chayqa, hinaspas kunanraq paykunata maqlliykachanki mañakuspaqa,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "אם",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "mana munanki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kachariyta"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "kunanraq"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "maqlliykachanki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:56.880988971Z",
+  "model": "glm-5.3"
+}

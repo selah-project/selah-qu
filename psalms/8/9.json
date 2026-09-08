@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hanaq pachap ch'usinmi, hatun mammap challwanwan, mamanpa sapa ñanknata chikachaqkuna.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "ch'usin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "challwanwan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hatun mammap"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "chikachaqkuna"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "sapa ñanknata"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mamanpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:30:54.000528942Z",
+  "model": "glm-5.3"
+}

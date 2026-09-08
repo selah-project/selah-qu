@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yahwem qhawarqanmi chayta t'ikrarqan qhawananpaq; hinaspa Elohimmi payta thula ukhumanta qaywarqan, nispa: Moshe, Moshe. Pay nirqan: Ñuqam kaypi kani.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "סר",
+      "gloss": "t'ikrarqan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qhawananpaq"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "qaywarqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ukhumanta"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "thula"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ñuqam kaypi kani"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:16.967617852Z",
+  "model": "glm-5.3"
+}

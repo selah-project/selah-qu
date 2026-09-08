@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Taytakunanchik Mitsrayimpi munawqaykikunata manam yacharqankuchu, ⟨את⟩ jesedniyki achka kayninta manam yuyarqankuchu, chaymi quchapi awqanakurqanku, Suf quchapim.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "taytakunanchik"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimpi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam ...chu"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "yacharqanku"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "munawqaykikunata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam ...chu"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "yuyarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jesedniyki achka kayninta"
+    },
+    {
+      "surface": "רב",
+      "gloss": "achka kaynin"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "awqanakurqanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "quchapi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "quchapi"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf quchapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:10.490053858Z",
+  "model": "glm-5.3"
+}

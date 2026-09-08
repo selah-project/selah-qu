@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "1-kings 8:11",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 8,
+ "translation": "Chaymi kohenkuna mana atikurqakuchu sayarispa llamk'anankupaq phuyu ñawpanmanta, imaraykuchus Yahwepa k'anchaynin ⟨את⟩ Yahwepa wasinta hunt'arqan.",
+ "tokens": [
+  {
+   "surface": "ולא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "יכלו",
+   "gloss": "atikurqakuchu"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "kohenkuna"
+  },
+  {
+   "surface": "לעמד",
+   "gloss": "sayarispa"
+  },
+  {
+   "surface": "לשרת",
+   "gloss": "llamk'anankupaq"
+  },
+  {
+   "surface": "מפני",
+   "gloss": "ñawpanmanta"
+  },
+  {
+   "surface": "הענן",
+   "gloss": "phuyu"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "מלא",
+   "gloss": "hunt'arqan"
+  },
+  {
+   "surface": "כבוד",
+   "gloss": "k'anchaynin"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahwepa wasinta"
+  },
+  {
+   "surface": "בית",
+   "gloss": "wasinta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  }
+ ],
+ "timestamp": "2026-09-08T05:04:52.924470784Z",
+ "model": "glm-5.3"
+}

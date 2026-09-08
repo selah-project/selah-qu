@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Ama wak runakunaman sayniykita qonaykichu, hinallataq watakunaykita llakilla runaman.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qonayki"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "wak runakunaman"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "sayniykita"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "watakunaykita"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "llakilla runaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:10.039735517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chaysi ⟨את⟩ hukta Bet-Elpi churarqan, ⟨את⟩ huktawan Danpi churarqan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukta"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "hukta"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet-Elpi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Bet-El)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hukta"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huktawan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Danpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:12:01.844992992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Yahweqa paykunap kallpanmi; paymi paypa Mashiajpa qespichikuy wit'innin ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kallpa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "wit'innin"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "qespichikuy"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "paypa Mashiajpa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:21.856970140Z",
+  "model": "glm-5.3"
+}

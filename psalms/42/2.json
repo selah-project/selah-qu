@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Taruka unu wayqokunaman shaqenqanta hina, chayhinam nefeshniy qamman shaqen, Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "taruka hina"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "shaqen"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "wayqokuna"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "shaqen"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:09.950950431Z",
+  "model": "glm-5.3"
+}

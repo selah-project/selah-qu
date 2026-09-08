@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "P'unchawkuna tukukuspa, wayllaqa ch'akirirqanmi, imaraykuchus hallp'api para manam karqanchu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "puchukayninpi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ch'akirirqan"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "wayllaqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqanchu"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "para"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T05:14:23.523055104Z",
+  "model": "glm-5.3"
+}

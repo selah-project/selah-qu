@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Khuyaway, Yahwe, ñak'ariypi kani rayku: ñawiy, nefeshniy, wiksaypas llakikuywan chinkachkanmi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "khuyaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ñak'ariypi kani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "chinkachkan"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "llakikuywan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "wiksaypas"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:25.124759692Z",
+  "model": "glm-5.3"
+}

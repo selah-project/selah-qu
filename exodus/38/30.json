@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Chaywanmi ⟨את⟩ Tupanakuy Carpitap punkunpa tiyanakunata ruwarqan, hinaspa ⟨את⟩ bronce altarta, hinaspa ⟨את⟩ paypa kaq bronce rejillata, hinaspa ⟨את⟩ altarpa llapa llamk'anakunatawan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaywan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiyanakunata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tiyanakunata"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "carpita"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tupanakuy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "bronce altarta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarta"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "bronce"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "rejillata"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "rejillata"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "bronce"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa llamk'anakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "llamk'anakunata"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarpa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:12.406564179Z",
+  "model": "glm-5.3"
+}

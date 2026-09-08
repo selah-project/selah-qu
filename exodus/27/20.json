@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Qampas kamachinki ⟨את⟩ Israelpa wawankunata; qammanmi apamunqaku p'ichaq, sarusqa oliva wirata lliptanaqpaq, wiñayta nina hunt'ichinankupaq.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "qampas"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "kamachinki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa wawankunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "apamunqaku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wira"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliva"
+    },
+    {
+      "surface": "זך",
+      "gloss": "p'ichaq"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "sarusqa"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "lliptanaqpaq"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "hunt'ichinankupaq"
+    },
+    {
+      "surface": "נר",
+      "gloss": "nina"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñayta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:30.348846506Z",
+  "model": "glm-5.3"
+}

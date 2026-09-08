@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "P'inqakunqaku, mancharikunqaku askwan, llapan awqaykuna; kutimunqaku, p'inqakunqaku huk kutillapi.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "p'inqakunqaku"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "mancharikunqaku"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "askwan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqaykuna"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "kutimunqaku"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "p'inqakunqaku"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "huk kutillapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:34.022613635Z",
+  "model": "glm-5.3"
+}

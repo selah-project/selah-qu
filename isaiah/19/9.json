@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Linuta llamk'aqkunam, sirikot (añusqa linu) hinaspa yuraq linu awaqkuna p'inqakunqaku.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "p'inqakunqaku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "llamk'aqkuna"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "linu"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "sirikot (añusqa)"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "awaqkunapas"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "yuraq linu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:02:44.980850844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "¿Qampa p'unchawkunaykiqa enosh runap p'unchawnin hina kankichu, icha watakunaykiqa geber runap p'unchawnin hina kankichu?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "hinapi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enosh runap"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "p'unchawkunayki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "icha"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "watakunayki"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "hinapi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "geber runap"
+    }
+  ],
+  "timestamp": "2026-09-08T11:02:29.693881905Z",
+  "model": "glm-5.3"
+}

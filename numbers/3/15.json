@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yupay ⟨את⟩ Levipa churinkunata taytankunap wasinkunawan, ayllunkunawan: llapan qhari, killa wawamanta hananman, chaykunata yupaykanki.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "yupay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levipa churinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "taytankunap"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayllunkunawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "wawamanta"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "killa"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "hananman"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "chaykunata yupaykanki"
+    }
+  ],
+  "timestamp": "2026-09-08T01:16:47.886593287Z",
+  "model": "glm-5.3"
+}

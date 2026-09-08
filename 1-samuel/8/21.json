@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Shemuel ⟨את⟩ runakunap llapa rimasqankunata uyarinmi, chaykunatawan Yahwepa rinrinninpi rimarin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyarinmi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa rimasqankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimasqankunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "chaykunatawan rimarin"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "rinrinninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:07:53.602110867Z",
+  "model": "glm-5.3"
+}

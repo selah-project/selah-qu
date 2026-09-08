@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Ñiwaqkuna ⟨את⟩ llapan kay llaqtapi kawsaq runakunata hoq'ewan wañuchirqankum, heremta ruwaspa; manam huk samayniyuq saqirikurqanchu; hinaspa ⟨את⟩ Hatsorta ninawan rawarqan.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "wañuchirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan runakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kay llaqtapi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "wan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "hoq'e"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "heremta ruwaspa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "saqirikurqanchu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "huk"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "samayniyuq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hatsorta"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsorta"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "rawarqan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninawan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:18:25.753560396Z",
+  "model": "glm-5.3"
+}

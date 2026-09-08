@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "Yahwepa ch'ikikunaqa payman q'otekuq karqankuman; pacha tiempunkunaqa wiñay kama hukllam karqanman.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "ch'ikikuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "payman q'otekuq karqankuman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqanman"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "pacha tiempunkunaqa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kama"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:59.461058608Z",
+  "model": "glm-5.3"
+}

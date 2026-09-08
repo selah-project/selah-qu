@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "joshua 3:14",
+ "book": "joshua",
+ "lang": "qu",
+ "chapter": 3,
+ "translation": "Karqanmí: runakuna wasinkunamanta yarqhaspa ⟨את⟩ Yarden chiruman chayanankupaq, kohenkunataq Beritpa aronta apaspa runakunap ñawpaqen purirqaku.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "karqanmí"
+  },
+  {
+   "surface": "בנסע",
+   "gloss": "yarqhasptinku"
+  },
+  {
+   "surface": "העם",
+   "gloss": "runakuna"
+  },
+  {
+   "surface": "מאהליהם",
+   "gloss": "wasinkunamanta"
+  },
+  {
+   "surface": "לעבר",
+   "gloss": "chayanankupaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yarden chiruman"
+  },
+  {
+   "surface": "הירדן",
+   "gloss": "Yarden"
+  },
+  {
+   "surface": "והכהנים",
+   "gloss": "kohenkunataq"
+  },
+  {
+   "surface": "נשאי",
+   "gloss": "apaspa"
+  },
+  {
+   "surface": "הארון",
+   "gloss": "aronta"
+  },
+  {
+   "surface": "הברית",
+   "gloss": "Beritpa"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "ñawpaqen"
+  },
+  {
+   "surface": "העם",
+   "gloss": "runakunap"
+  }
+ ],
+ "timestamp": "2026-09-08T03:07:20.187196639Z",
+ "model": "glm-5.3"
+}

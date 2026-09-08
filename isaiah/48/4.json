@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Yachasqayraykum chayta qam sinchim kanki, hinaspa kunkaykiqa qillay hunk'um, hinaspa mat'iykiqa antam.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Yachasqayrayku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "sinchim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "hinaspa hunk'u"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "qillay"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "kunkayki"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "hinaspa mat'iyki"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "anta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:29:11.326182018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Paymi llapan pantasqaykita pampachaq, paymi llapan onqoykikita hampiq.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "pampachaqmi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "pantasqaykita"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "hampiqmi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "onqoykikita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:20.373190935Z",
+  "model": "glm-5.3"
+}

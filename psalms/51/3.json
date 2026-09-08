@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Khuyawaymi Elohim, jesedniykiyman hina; achka khuyakuyniykiyman hina pichuway juchayta.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "khuyaway"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "jesedniykiyman hina"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "achka"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "khuyakuyniykiyman hina"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "pichuway"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "juchayta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:13.066946416Z",
+  "model": "glm-5.3"
+}

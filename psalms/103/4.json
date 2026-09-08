@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Paymi kawsayniykita shimimanta qispichiq, paymi qamta jeedwan, rikhuraykunawan tumiwan churan.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "qispichiqmi"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "shimimanta"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "kawsayniykita"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "tumiwan churanmi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jeedwan"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "rikhuaykunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:20.373297464Z",
+  "model": "glm-5.3"
+}

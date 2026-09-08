@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Qammi makiykiwan runakunata karqarqanki, chaynata wayllusqaykikunata; llaqtakunata nanachirqanki, chaynata kacharparirqanki.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qam"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykiwan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "karqarqanki"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "wayllusqaykikunata"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "nanachirqanki"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "kacharparirqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:28.918154774Z",
+  "model": "glm-5.3"
+}

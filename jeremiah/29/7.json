@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 29:7",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Llaqtap shalomninta maskankichik ⟨את⟩, maypi qamkunata ⟨את⟩ qarqarqani chayman; hinaspa paypaq Yahweman mañakunkichik, imaraykuchus paypa shalomninpi qamkunapaq shalom ⟨kan⟩mi kanqa.",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "maskankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llaqtap shalomninta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "הגליתי",
+      "gloss": "qarqarqani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "mañakunkichik"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בשלומה",
+      "gloss": "paypa shalomninpi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-09-08T13:54:17.515960289Z",
+  "model": "glm-5.3"
+}

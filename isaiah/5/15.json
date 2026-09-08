@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaymanta runam warq'akurqan, qharim ullp'ichikurqan; sayasqa runakunpa ñawinkunapas ullp'ichikurqankumi.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "warq'akurqan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runam"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ullp'ichikurqan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qharim"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "ñawinkunapas"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "sayasqa runakunpa"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "ullp'ichikurqankumi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:54:02.676187804Z",
+  "model": "glm-5.3"
+}

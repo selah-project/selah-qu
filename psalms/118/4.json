@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 118,
+  "translation": "Ninchunku kunan Yahweta manachiqkuna: wiñaykama jesedninmi.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ninchunku"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "manachiqkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesedninmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:35.299935647Z",
+  "model": "glm-5.3"
+}

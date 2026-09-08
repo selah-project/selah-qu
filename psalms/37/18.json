@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Yahwem sunqu hunt'a runakunap p'unchawkunata riqsinmi; chaykunap rakinkunataq wiñaypaq kanqa.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "riqsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkunata"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "sunqu hunt'a runakunap"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "chaykunap rakinkunataq"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:33.793665702Z",
+  "model": "glm-5.3"
+}

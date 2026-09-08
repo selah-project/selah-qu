@@ -1,0 +1,122 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "exodus 20:11",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 20,
+ "translation": "Imarayku suqta p'unchawpi Yahwem ⟨את⟩ hanaq pachata, hinaspa ⟨את⟩ kay pachatawan, ⟨את⟩ mamakuchata, hinaspa ⟨את⟩ llapata imatapas chaypi kasqanta rurqan; qanchis ñiqin p'unchawpitaq samirqan. Chayrayku Yahwem ⟨את⟩ Shabat p'unchawta bendecirqan, hinaspa santoroncharqan.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "Imarayku"
+  },
+  {
+   "surface": "ששת",
+   "gloss": "suqta"
+  },
+  {
+   "surface": "ימים",
+   "gloss": "p'unchawkuna"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "rurqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "hanaq pachata"
+  },
+  {
+   "surface": "השמים",
+   "gloss": "hanaq pacha"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "kay pachatawan"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "kay pacha"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "mamakuchata"
+  },
+  {
+   "surface": "הים",
+   "gloss": "mamakucha"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "llapata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "imatapas"
+  },
+  {
+   "surface": "בם",
+   "gloss": "chaypi"
+  },
+  {
+   "surface": "וינח",
+   "gloss": "samirqan"
+  },
+  {
+   "surface": "ביום",
+   "gloss": "p'unchawpi"
+  },
+  {
+   "surface": "השביעי",
+   "gloss": "qanchis ñiqin"
+  },
+  {
+   "surface": "על",
+   "gloss": "chay"
+  },
+  {
+   "surface": "כן",
+   "gloss": "rayku"
+  },
+  {
+   "surface": "ברך",
+   "gloss": "bendecirqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Shabat p'unchawta"
+  },
+  {
+   "surface": "יום",
+   "gloss": "p'unchaw"
+  },
+  {
+   "surface": "השבת",
+   "gloss": "Shabat"
+  },
+  {
+   "surface": "ויקדשהו",
+   "gloss": "hinaspa santoroncharqan"
+  }
+ ],
+ "timestamp": "2026-09-08T00:31:33.364167414Z",
+ "model": "glm-5.3"
+}

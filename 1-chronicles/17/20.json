@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Yahwe, qam hinayuqmana kanchu; manataqmi kanchu Elohim qampamanta lawpi, llapan uyarqayku rinrichikpi imakunata.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "qam hinayuq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "qampamanta lawpi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imakunata"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "uyarqayku"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "rinrichikpi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:45:24.581060247Z",
+  "model": "glm-5.3"
+}

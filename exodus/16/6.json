@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Moshewan Aharonwan tukuy Israel wawankunaman nirqankumi: «Chisi chayamuptiykichikqa Yahwem Mitsrayim hallp'amanta ⟨את⟩ qamkunata hurqusqanmanta yachasqaykichikmi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharonwan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "chisi"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "yachasqaykichikqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "hurqusqan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:32:26.378942779Z",
+  "model": "glm-5.3"
+}

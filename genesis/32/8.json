@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Chaymi Yaakovqa sinchiyachispa mancharirqan, sinchilla llakikurqan; hinaspa ⟨את⟩ runakunata paywan ⟨את⟩ kaqtinta, ⟨את⟩ michi ñuñu uywakunatawan, ⟨את⟩ wakakunatawan, wenakunatawan iskay machanaman t'aqarqan.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "mancharirqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "sinchiyachispa"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "sinchilla llakikurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "t'aqarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michi ñuñu uywakunata"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "michi ñuñu uywakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wakakunata"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "wakakunata"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "wenakunatawan"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "machanaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:07:04.445968958Z",
+  "model": "glm-5.3"
+}

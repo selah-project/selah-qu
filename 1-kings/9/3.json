@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 9:3",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yahwem nirqan payman: Uyarinim ⟨את⟩ mañasqaykiwan, ⟨את⟩ ñak'ariy yawariykita, mayqinta ñak'arirqanki ñuqap ñawpaypi; willkacharinim ⟨את⟩ kay wasita, mayqinta rurawayki, chaypi Sutiyta churanaypaq wiñaykama; ñawiypas sunquypas chaymi kanqa tukuy p'unchawkunapi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "uyarinim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mañasqayki"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "mañasqaykiwan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ñak'ariy yawariyki"
+    },
+    {
+      "surface": "תחנתך",
+      "gloss": "ñak'ariy yawariykimanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "התחננתה",
+      "gloss": "ñak'arirqanki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñuqap ñawpaypi"
+    },
+    {
+      "surface": "הקדשתי",
+      "gloss": "willkacharinim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay wasi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kay wasimanta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "rurawayki"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "churanaypaq"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Sutiyta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiypas"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "sunquypas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "p'unchawkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:41:49.091966964Z",
+  "model": "glm-5.3"
+}

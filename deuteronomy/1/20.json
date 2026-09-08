@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ñuqaqtaq qamkunaman nirqim: «Chayarqaykichikmi Emori runakunap urqunman, mayqintaq Yahwe Elohimninchik ñuqanchikman qusaq».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ñuqaqtaq nirqim"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "chayarqaykichik"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-man"
+    },
+    {
+      "surface": "הר",
+      "gloss": "urqunman"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori runakunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqintaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:27:03.520638821Z",
+  "model": "glm-5.3"
+}

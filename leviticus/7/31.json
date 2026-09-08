@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa kohenqa ⟨את⟩ q'arita altarrupi q'enantinqam; chuymaqa Aharonpa wawankunampaq kanqa.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "hinaspa q'enantinqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "q'arita"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "q'arita"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarrupi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "chuyma"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonpaq"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "wawankunampaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:51:11.837785028Z",
+  "model": "glm-5.3"
+}

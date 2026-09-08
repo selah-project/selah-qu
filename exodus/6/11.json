@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Yaykuy, Paro (Faraón) — Mitsrayimpa apun —man rimay, chaymi ⟨את⟩ Israelpa wawankunata paypa hallp'inmanta wiñachinqa.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Yaykuy"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wiñachinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa wawankunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "paypa hallp'inmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:58:48.824438640Z",
+  "model": "glm-5.3"
+}

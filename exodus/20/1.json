@@ -1,0 +1,42 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "exodus 20:1",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 20,
+ "translation": "Hinaspa Elohimmi ⟨את⟩ tukuy kay rimaykunata rimarqan, nispa:",
+ "tokens": [
+  {
+   "surface": "וידבר",
+   "gloss": "hinaspa rimarqan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "tukuy kay rimaykunata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "הדברים",
+   "gloss": "rimaykunata"
+  },
+  {
+   "surface": "האלה",
+   "gloss": "kay"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "nispa"
+  }
+ ],
+ "timestamp": "2026-09-08T00:31:58.793342922Z",
+ "model": "glm-5.3"
+}

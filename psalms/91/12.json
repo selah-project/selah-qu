@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "Makikunapim qamta ollachanku, ama rumiwan chakiyki makunkichá.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "makikuna"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "qamta ollachanku"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama … -chá"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "makunki"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "rumiwan"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "chakiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:54.879573808Z",
+  "model": "glm-5.3"
+}

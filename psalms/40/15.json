@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Ñuqap kawsayta maskaqkuna, ch'usaqchanapaq, llapan hukllaman p'inqakuchun, amillakuchun; ñuqap allin manan kamanakuqkunataq qhipaman kutichikuchun, p'inqachikuchun.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "p'inqakuchun"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "hinaspa amillakuchun"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "llapan hukllaman"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "maskaqkuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap kawsayta"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "ch'usaqchanapaq"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "kutichikuchun"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "qhipaman"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "hinaspa p'inqachikuchun"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "kamanakuqkuna"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "ñuqap allin manan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:08.135017661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Taripaway tsedeqniykiwan, Yahwe Elohimniy; ama paykun ñuqawan kusiychankuchu.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Taripaway"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "tsedeqniykiwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama ⟨chu⟩"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kusiychanku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:30.924021367Z",
+  "model": "glm-5.3"
+}

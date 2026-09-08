@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Runa hina karqanim, mana uyaq hina; paypa siminpi ñitisqa rimaykuna manam kanchu.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "karqanim"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "runa hina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyaq"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "paypa siminpi"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ñitisqa rimaykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:42.713300853Z",
+  "model": "glm-5.3"
+}

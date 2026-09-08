@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 96,
+  "translation": "Takiychik Yahweman musuq takita; takiychik Yahweman, llapa kay pacha.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "takiychik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "takita"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "takiychik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:28.350052186Z",
+  "model": "glm-5.3"
+}

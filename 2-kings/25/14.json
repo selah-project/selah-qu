@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 25:14",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa ⟨את⟩ mankarakunata, hinaspa ⟨את⟩ palanakunata, hinaspa ⟨את⟩ kuchunakunata, hinaspa ⟨את⟩ qirukunata, hinaspa ⟨את⟩ tukuy antaki llamk'anakunata — maypi yanaparqanku — aparqankum.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "mankarakunata"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "mankarakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "palanakunata"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "palanakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kuchunakunata"
+    },
+    {
+      "surface": "המזמרות",
+      "gloss": "kuchunakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qirukunata"
+    },
+    {
+      "surface": "הכפות",
+      "gloss": "qirukunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tukuy antaki llamk'anakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "llamk'anakunata"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "antaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "ישרתו",
+      "gloss": "yanaparqanku"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "aparqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T05:50:12.973719638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa apu Shelomo (Salomón)m Yehoyada (Joiada)pa churin Benajah (Benaía)ta makinwan kacharqan; chayqa payta haywarqanmi, wañurqan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinwan"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyadapa"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "haywarqan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:59:56.705558292Z",
+  "model": "glm-5.3"
+}

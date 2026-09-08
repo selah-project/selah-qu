@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 52,
+  "translation": "Chayta rikuspa chaniyuqkuna mancharinqakum, paypa patapitaq asirqaku.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "rikuspa"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "chaniyuqkuna"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mancharinqaku"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "paypa patapi"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "asirqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:49.544493633Z",
+  "model": "glm-5.3"
+}

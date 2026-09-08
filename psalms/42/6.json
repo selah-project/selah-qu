@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Imarayku ñawpaman pakinki, nefeshniy, imarayku ñuqap ukhupi untataykachariwanki? Elohimpata suyariy: imaraykuchus raqmi payta yupaychasaq, paypa ñawpa qespichiykunamanta.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ñawpaman pakinki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "untataykachariwanki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap ukhupi"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "suyariy"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimpata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "payta yupaychasaqmi"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "qespichiykuna"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "paypa ñawpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:26.183804493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Rikra p'achakunawan apusqam apuman; pay qatiquq pasñas, pay masinkuna, qampaman apakusqam.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "rikra p'achakunawan"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "apusqam"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apuman"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "pasñas"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "pay qatiquq"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "pay masinkuna"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "apakusqam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:05.432368145Z",
+  "model": "glm-5.3"
+}

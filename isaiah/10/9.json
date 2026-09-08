@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Manachu Karkemish hina Kalno (Calne)? Manachu Arpad hina Hamat? Manachu Dameshek (Damasco) hina Shomron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "Karkemish hina"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno (Calne)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "Arpad hina"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "Dameshek (Damasco) hina"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-09-08T05:56:50.313141122Z",
+  "model": "glm-5.3"
+}

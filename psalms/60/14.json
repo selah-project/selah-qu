@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Elohimwan sinchita ruwasaqku; paymi sarunqa awqaykukunata.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimwan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ruwasaqku"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sinchita"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "sarunqa"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "awqaykukunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:36.150047269Z",
+  "model": "glm-5.3"
+}

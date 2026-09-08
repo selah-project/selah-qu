@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Yahwe, mana allin runap makimanta ñuqata waqaychaway; ch'iqi runamanta ñuqata amachaway — paykuna ñuqap ñak'akunata sarunankupaq yuyarisqankum.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "ñuqata waqaychaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "makimanta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin runa"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "runamanta"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ch'iqi runamanta"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ñuqata amachaway"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "yuyarisqanku"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "sarunankupaq"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ñuqap ñak'akunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:57.071197790Z",
+  "model": "glm-5.3"
+}

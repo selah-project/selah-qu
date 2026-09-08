@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Yupaychasqa churikunap yayam, warmi saqisqakunap kamachiqninpas, Elohimmi, willka wasinpi.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "yayam"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yupaychasqa churikunap"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "kamachiqninpas"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "warmi saqisqakunap"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimmi"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "willka wasinpi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "willka wasinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:08.580578446Z",
+  "model": "glm-5.3"
+}

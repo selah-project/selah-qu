@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa Azarjahm ⟨את⟩ Serayata wawacharqan, hinaspa Serayam ⟨את⟩ Yehotsadaqta wawacharqan.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "hinaspa Azarjahm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayata"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayata"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "hinaspa Serayam"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadaqta"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:32:33.001046887Z",
+  "model": "glm-5.3"
+}

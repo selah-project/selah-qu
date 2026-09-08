@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa paypa hallp'an rurasqa dioskunawan hunt'akunmi; paykuna paykunap makinpa rurasqanman ch'akinku, paykunap ch'ukunan rurasqanman.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "hunt'akunmi"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "paypa hallp'an"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "rurasqa dioskunawan"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "rurasqanman"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "makinpa"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ch'akinku"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשו",
+      "gloss": "rurasqanman"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "ch'ukunan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:50:41.646946510Z",
+  "model": "glm-5.3"
+}

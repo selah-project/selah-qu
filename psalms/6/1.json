@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Wakichiqpaq cuerda instrumentokunawan, pusaq ñiqinpi; mizmor Davidpa (Salomónpa? mana: Davidpa).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Wakichiqpaq"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "cuerda instrumentokunawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "pusaq ñiqinpi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:08.425405513Z",
+  "model": "glm-5.3"
+}

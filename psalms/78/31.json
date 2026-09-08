@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Chaymanta Elohimpawan phiñan paykunaman phawarirqan; michhuqninkunatam wañuchirqan, Israelpa wayninkunatataq tikrarqan.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "chaymanta phiñanwan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "phawarirqan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "michhuqninkunata"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "wayninkunatataq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "tikrarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:49.693972170Z",
+  "model": "glm-5.3"
+}

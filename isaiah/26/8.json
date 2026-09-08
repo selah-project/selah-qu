@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinallataqmi, Yahwe, kamachikuyniykipi ñanpi suyarkayku; Sutiykiman hinaspa yuyariykykiman nefeshpa munaynin.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "kamachikuyniykipi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "suyarkayku"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Sutiykiman"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "hinaspa yuyariykykiman"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "munaynin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-09-08T06:06:58.169819171Z",
+  "model": "glm-5.3"
+}

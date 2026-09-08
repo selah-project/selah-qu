@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 57,
+ "ref": "psalms 78:57",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 78,
+ "translation": "Kutiykurqankum, taytankunahina hinakurqanku; llulla wach'ihina t'ikrakurqankum.",
+ "tokens": [
+  {
+   "surface": "ויסגו",
+   "gloss": "kutiykurqanku"
+  },
+  {
+   "surface": "ויבגדו",
+   "gloss": "hinakurqanku"
+  },
+  {
+   "surface": "כאבותם",
+   "gloss": "taytankunahina"
+  },
+  {
+   "surface": "נהפכו",
+   "gloss": "t'ikrakurqanku"
+  },
+  {
+   "surface": "כקשת",
+   "gloss": "wach'ihina"
+  },
+  {
+   "surface": "רמיה",
+   "gloss": "llulla"
+  }
+ ],
+ "timestamp": "2026-09-08T10:04:22.187690887Z",
+ "model": "glm-5.3"
+}

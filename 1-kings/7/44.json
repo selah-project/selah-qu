@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspataq ⟨את⟩ huk qochata, hinaspataq ⟨את⟩ iskay chunka wakakunata qochap uranpi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspataq ⟨את⟩",
+      "marks": "huk qochata"
+    },
+    {
+      "surface": "הים",
+      "gloss": "qocha"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspataq ⟨את⟩",
+      "marks": "iskay chunka wakakunata"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "wakakuna"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uranpi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "qochap"
+    }
+  ],
+  "timestamp": "2026-09-08T05:04:45.947426502Z",
+  "model": "glm-5.3"
+}

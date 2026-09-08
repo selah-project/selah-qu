@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chayrayku, qawa, ñuqam ⟨את⟩ ñanaykita kichka t'ikasqakunawan hark'asaq, hinaspa ⟨את⟩ wasinta wasichasaq, chaymi pay ñankunata mana tarinqachu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "qawa, ñuqam"
+    },
+    {
+      "surface": "שך",
+      "gloss": "hark'asaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñanaykita"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ñanaykita"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "kichka t'ikasqakunawan"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "wasichasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasinta"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "ñankunata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ...chu"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tarinqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T08:45:42.160361564Z",
+  "model": "glm-5.3"
+}

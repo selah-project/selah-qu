@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Utqay munaqkunap sunqunninchik yachayta hunt'ajinata yachaqanqa, mut'urikuq simillataq utqaylla sut'ita rimanqa.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "sunqunninchik"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "utqay munaqkunap"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "yachaqanqa"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "yachayta hunt'ajinata"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "simillataq"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "mut'urikuq"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "utqaylla"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimanqa"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "sut'ita"
+    }
+  ],
+  "timestamp": "2026-09-08T06:10:17.638497457Z",
+  "model": "glm-5.3"
+}

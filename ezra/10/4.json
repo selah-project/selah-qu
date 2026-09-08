@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Sayariy, kay rurayqa qampam; ñuqanchiktaq qamwanmi kanchik; sinchiykay, kayta ruway.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "sayariy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qampam"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kay rurayqa"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ñuqanchiktaq"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sinchiykay"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ruway"
+    }
+  ],
+  "timestamp": "2026-09-08T12:13:51.584521072Z",
+  "model": "glm-5.3"
+}

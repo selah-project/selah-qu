@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Millaymi chay runa, taytayman ⟨את⟩ willaq kayta nispa: qampaq qhari churi paqarirqan — hunt'ata kusichispa.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Millaymi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "chay runa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-q"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "willaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytayman"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "taytayman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kayta nispa"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "kusichispa"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "hunt'ata kusichispa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:53:55.425766989Z",
+  "model": "glm-5.3"
+}

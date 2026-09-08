@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 23:30",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Chayrayku qhawaymi: ñuqam navikunaq contran kashani, Yahwepa willakusqan — simiyta oqhuriqkuna, sapa runa ⟨את⟩ masinmanta.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "qhawaymi ñuqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "contran"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "navikuna"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "willakusqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "מגנבי",
+      "gloss": "oqhuriqkuna"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "simiyta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ...manta",
+      "marks": "masinmanta (sapa runa masinmanta oqhurin)"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "masinpa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:52:50.621911040Z",
+  "model": "glm-5.3"
+}

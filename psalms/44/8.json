@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Qispichiwarqankim awqaykunamanta; hinaspa cheqnakuqninchikta p'inqachiwarqanki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "Qispichiwarqanki"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "awqaykunamanta"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "hinaspa cheqnakuqninchikta"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "p'inqachiwarqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:43.778291509Z",
+  "model": "glm-5.3"
+}

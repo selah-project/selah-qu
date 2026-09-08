@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Bela churikunataqmi Ard Naaman karqan: Ard-paq Ard ayllu, Naaman-paq Naaman ayllu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churikuna"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Ard"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllu"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "Ard"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "Naaman-paq"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllu"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "Naaman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:12:36.004933680Z",
+  "model": "glm-5.3"
+}

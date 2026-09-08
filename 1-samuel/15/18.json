@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Hinaspa Yahwem qamta ñanman kacharqan, nispam: Ri, hinaspa ⟨את⟩ huch'aq runakunata, ⟨את⟩ Amalekta ch'usaqchanayki, hinaspa paywan awqanakunayki tukupunan kama ⟨את⟩ paykunata.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "kacharqan qamta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ri"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "ch'usaqchanayki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "huch'aq runakunata"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "huch'aq runakunata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekta"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekta"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "hinaspa awqanakunayki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "tukupunan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T13:35:07.349690436Z",
+  "model": "glm-5.3"
+}

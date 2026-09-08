@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Avimelekhtaq manam chaynan chayamurqanchu; nirqantaq: «Adonay, ¿runa llaqta allin kaqtapas wañuchinqawankichu?»",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "Avimelekhtaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "chayamurqanchu"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "chaynan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqantaq"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "¿runa llaqta"
+    },
+    {
+      "surface": "גם",
+      "gloss": "…tapas"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin kaqtapas"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "wañuchinqawankichu?"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:00.164014904Z",
+  "model": "glm-5.3"
+}

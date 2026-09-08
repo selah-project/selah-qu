@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa ⟨את⟩ paykunata churanki iskay siq'ikunapi, sapa siq'ipi suqta, ch'uya tiyanapi, Yahwep ñawpaqninpi.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata (t'antakunata)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "siq'ikuna"
+    },
+    {
+      "surface": "שש",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "sapa siq'i"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tiyana"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "ch'uya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T01:08:47.197743659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Qatirpachanku, mana p'inqayniyuq rimakunata rimanku; llapan awqanakuyna ruraqkuna humarikunku.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Qatirpachanku"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "rimanku"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "mana p'inqayniyuq rimakunata"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "humarikunku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ruraqkuna"
+    },
+    {
+      "surface": "און",
+      "gloss": "awqanakuyna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:19.565433347Z",
+  "model": "glm-5.3"
+}

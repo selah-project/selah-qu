@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "psalms 9:18",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 9,
+ "translation": "Haqeckunam Sheolman kutinku; tukuy Elohimta onqochiq nacionkunam.",
+ "tokens": [
+  {
+   "surface": "ישובו",
+   "gloss": "kutinku"
+  },
+  {
+   "surface": "רשעים",
+   "gloss": "haqeckuna"
+  },
+  {
+   "surface": "לשאולה",
+   "gloss": "Sheolman"
+  },
+  {
+   "surface": "כל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "גוים",
+   "gloss": "nacionkuna"
+  },
+  {
+   "surface": "שכחי",
+   "gloss": "onqochiq"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimta"
+  }
+ ],
+ "timestamp": "2026-09-08T09:32:29.545042838Z",
+ "model": "glm-5.3"
+}

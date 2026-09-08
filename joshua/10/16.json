@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Kay pichqantin apukunataq ayqirqankumi, Maqedahpi mach'aypi pakakurqanku.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ayqirqankumi"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "pichqantin"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "pakakurqanku"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mach'aypi"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "Maqedahpi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:15:24.847957560Z",
+  "model": "glm-5.3"
+}

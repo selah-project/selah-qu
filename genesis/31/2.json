@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Yaakovm qhawarirqan ⟨את⟩ Lavanpa ñawinta, hinaspa rikurqan: manañam ñawpaq p'unchawkuna hina kachkanchu paywan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qhawarirqanm"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawinta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "hinaspa rikurqan"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "manam kachkanchu"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "ñawpaq p'unchawkuna hina"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "p'unchawkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:06:13.395367619Z",
+  "model": "glm-5.3"
+}

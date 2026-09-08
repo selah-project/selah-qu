@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaymi Moshe (Moisés) hinaspa Aharon (Aarón), Yahwepa kamachisqan hinata, ⟨את⟩ paykunata ruwarqanku; chaynillata ruwarqankum.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "hinaspa Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hinata"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachisqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "Moshe hinaspa Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynillata"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ruwarqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:50.668033011Z",
+  "model": "glm-5.3"
+}

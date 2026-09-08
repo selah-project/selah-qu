@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Cheqaptinmi hallp'api manam kanchu allin runa, mayqen allinta ruwan mana qellakuspa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "cheqaptinmi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "qellakuspa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:42:02.877298456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 118,
+  "translation": "⟨את⟩ kayta Yahwemanta rurasqam karqan; kayqa ñawanchikkunapim musphachikuqmi.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kayta Yahwemanta",
+      "marks": "kayta ('this', the thing Yahwe did)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwemanta"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kayqa"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "musphachikuqmi"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "ñawanchikkunapim"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:59.413486054Z",
+  "model": "glm-5.3"
+}

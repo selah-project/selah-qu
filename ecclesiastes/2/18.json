@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaymi ñuqa llapa inti uraypi llamk'aq llamk'ayniytawan ⟨את⟩ ikharqani, imaraykuchus chakrata saqisaq runaman, ñuqap qhipaman kanqaman.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ikharqani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa llamk'ayniyta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "llamk'ayniyta"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "llamk'aq"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uraypi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "saqisaqta"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "runaman"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "kanqaman"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ñuqap qhipaman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:03.724332134Z",
+  "model": "glm-5.3"
+}

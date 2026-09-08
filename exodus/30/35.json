@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Hinaspa ⟨את⟩ q'uchuta ruwanki: ch'antusqa, roqeachaq llamk'ay, kachiyosqa, p'acha, santo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "q'uchuta"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "q'uchu"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ch'antusqa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "roqeachaq"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "kachiyosqa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "p'acha"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    }
+  ],
+  "timestamp": "2026-09-08T00:40:12.099327028Z",
+  "model": "glm-5.3"
+}

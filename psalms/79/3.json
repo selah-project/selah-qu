@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 79,
+  "translation": "Yawarnta unu hina Yerushalayimpa muyuriqninpi wit'urqankum, manataq p'anqakuq kanchu.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "wit'urqankum"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "Yawarnta"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "unu hina"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "muyuriqninpi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "p'anqakuq kanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:45.066740246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 117,
+  "translation": "Jesedninmi ñuqanchikpa uqanpi atipun, hinaspa Yahwepa cheqan kayninmi wiñaypaq kanqa; yupaychaychik Yahta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "(imataqrayku)"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "atipun"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqanchikpa uqanpi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Jesednin"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "hinaspa cheqan kaynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:54.157058552Z",
+  "model": "glm-5.3"
+}

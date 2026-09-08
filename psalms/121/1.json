@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 121,
+  "translation": "Hatun orqokunaman saqanapaq takim. Ñawiykunata urqukunaman huñini: maymantataq ñuqap yanapayway shamunqa?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "hatun orqokunaman saqanapaq"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "huñini"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiykunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "urqukunaman"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "urqukuna"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "maymantataq"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "shamunqa"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ñuqap yanapayway"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:27.149574409Z",
+  "model": "glm-5.3"
+}

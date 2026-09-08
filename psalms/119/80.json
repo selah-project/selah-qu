@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Sunchiy hunt'allam kanan chayasqaykikunapi, chayrayku mana map'achakusaqchu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kanan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunchiy"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "hunt'alla"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "chayasqaykikunapi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "map'achakusaqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:40.896534030Z",
+  "model": "glm-5.3"
+}

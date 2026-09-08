@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 18:47",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Kawsanmi Yahwe; haywillisqa kan ñuqap rumi, hat'unqanmi ñuqap qispichiypa Eloah.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "kawsanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "hinaspa haywillisqa"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ñuqap rumi"
+    },
+    {
+      "surface": "וירום",
+      "gloss": "hinaspa hat'unqan"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloah ñuqap"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ñuqap qispichiy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:47.532034169Z",
+  "model": "glm-5.3"
+}

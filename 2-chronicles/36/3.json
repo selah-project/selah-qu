@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Mitsrayim (Egipto)pa apunmi payta Yerushalayimpi apun kaymanta hurqurqan, hinaspa ⟨את⟩ hallp'ata pachak qullqi kikarta, huk quri kikartawan sasiyarqan.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "hurqurqan payta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "sasiyarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "huk kikarta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    }
+  ],
+  "timestamp": "2026-09-08T13:22:10.313668207Z",
+  "model": "glm-5.3"
+}

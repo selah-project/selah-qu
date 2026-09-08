@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Nirqanmi: Kayqa haqeqyarikuymi. Chayaspa ⟨את⟩ payta efa chawpinman wisch'urqan, hinaspa ⟨את⟩ plomo ruminta siminman wisch'urqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "haqeqyarikuy"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "wisch'urqan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ payta",
+      "marks": "warmi \/ haqeqyarikuy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "chawpin"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "wisch'urqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "plomo ruminta"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "plomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "siminman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:19:19.231022210Z",
+  "model": "glm-5.3"
+}

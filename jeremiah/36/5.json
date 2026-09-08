@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Hinaspa Yirmejahum ⟨את⟩ Baruj (Baruc) kamachirqan, nispa: ñuqaqa watarqasqami kani, mana atinimi Yahwepa wasinman yaykuyta.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmejahum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Barujta"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barujta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqaqa"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "watarqasqami kani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "atini"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yaykuyta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:31:19.805275948Z",
+  "model": "glm-5.3"
+}

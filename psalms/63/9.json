@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Ñuqap nefesh-yqa qamman ch'itikunmi; ñuqata qampa paña makin kiñenmi.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ch'itikun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap nefesh-y"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "kiñen"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "qampa paña makin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:09.750278061Z",
+  "model": "glm-5.3"
+}

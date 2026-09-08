@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Payqa unusqanpi millayta yuyarqanmi; mana allin ñanpi sayarikunmi; millaytaqa mana ch'iqiykunchu.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "millayta"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "yuyarqanmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "unusqanpi"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "sayarikunmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "רע",
+      "gloss": "millaytaqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "ch'iqiykunchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:26.772587507Z",
+  "model": "glm-5.3"
+}

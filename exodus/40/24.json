@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Hinaspa ⟨את⟩ k'anchanata Tupanakuy Wasipi churarqan, sillupa qayllapi, Mishkanpa chiqanninpi uthinsaman.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'anchanata"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "k'anchanata"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Tupanakuy"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "qayllapi"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "sillupa"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pi"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "chiqanninpi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanpa"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "uthinsaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:24.820395811Z",
+  "model": "glm-5.3"
+}

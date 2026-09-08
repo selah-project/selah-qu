@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chaymanta apum nirqan: «Wayllaruspa kaypi sayariy». Chaymi pay wayllaruspa sayarqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "chaymanta nirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "סב",
+      "gloss": "wayllaruspa"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "sayariy"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kaypi"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "wayllarqan"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "sayarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:50:27.208081527Z",
+  "model": "glm-5.3"
+}

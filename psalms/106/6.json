@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Taytakunanchikwan huchallikurqanchikmi, q'umiyku karqanchikmi, mana allinta ruwarqanchikmi.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "huchallikurqanchikmi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "taytakunanchikwan"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "q'umiyku karqanchikmi"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "mana allinta ruwarqanchikmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:10.489865799Z",
+  "model": "glm-5.3"
+}

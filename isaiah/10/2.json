@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Wakcha k'ara runakunata chaninchaymanta wakichinankupaq, hinaspa runaykup llakikapusqakunap chaninchayninta suñunankupaq — chusaq warmikuna suwasqanku hina kanankupaq, hinaspa ⟨את⟩ wakcha urpakunata suwaspa qhatinkupaq.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "wakichinankupaq"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "chaninchaymanta"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "wakcha k'ara runakunata"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "hinaspa suñunankupaq"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chaninchayninta"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "llakikapusqakunap"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runaykup"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kanankupaq"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "chusaq warmikuna"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "suwasqanku hina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wakcha urpakunata"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "wakcha urpakuna"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "suwaspa qhatinkupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:59:15.596162180Z",
+  "model": "glm-5.3"
+}

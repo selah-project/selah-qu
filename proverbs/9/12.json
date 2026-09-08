@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Sichus yachaq kanki chayqa, qampallapunimi; sichus qhochallakunki chayqa, kikillalla chaskinki.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "yachaq kanki"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "yachaq kanki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampallapuni"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "qhochallakunki"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kikillalla"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "chaskinki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:37:19.537772629Z",
+  "model": "glm-5.3"
+}

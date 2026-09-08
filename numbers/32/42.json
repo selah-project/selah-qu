@@ -1,0 +1,59 @@
+{
+ "tier": "glm-5.2",
+ "verse": 42,
+ "ref": "numbers 32:42",
+ "book": "numbers",
+ "lang": "qu",
+ "chapter": 32,
+ "translation": "Hinaspa Novajmi purirqan, hinaspa ⟨את⟩ Kenatta hap'irqan, hinaspa ⟨את⟩ paqarikunantawan; hinaspa chayman Novaj nispa, kikin sutiwan, suticharqan.",
+ "tokens": [
+  {
+   "surface": "ונבח",
+   "gloss": "Novaj"
+  },
+  {
+   "surface": "הלך",
+   "gloss": "purirqan"
+  },
+  {
+   "surface": "וילכד",
+   "gloss": "hinaspa hap'irqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Kenatta"
+  },
+  {
+   "surface": "קנת",
+   "gloss": "Kenatta"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "paqarikunantawan"
+  },
+  {
+   "surface": "בנתיה",
+   "gloss": "paqarikunantawan"
+  },
+  {
+   "surface": "ויקרא",
+   "gloss": "hinaspa suticharqan"
+  },
+  {
+   "surface": "לה",
+   "gloss": "chayman"
+  },
+  {
+   "surface": "נבח",
+   "gloss": "Novaj"
+  },
+  {
+   "surface": "בשמו",
+   "gloss": "kikin sutiwan"
+  }
+ ],
+ "timestamp": "2026-09-08T02:21:26.591998971Z",
+ "model": "glm-5.3"
+}

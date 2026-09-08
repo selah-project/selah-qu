@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 5:23",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Davidmi Yahweta tapurqan, hinaspa Yahwem nirqan: Ama wesiychu; paykunap qhipanmanta muyuriy, hinaspa Baka sach'akunap ñawpaqninman chayamunki.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "tapurqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "wesiy"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "muyuriy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "paykunap qhipanmanta"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "chayamunki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunap"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ñawpaqninman"
+    },
+    {
+      "surface": "בכאים",
+      "gloss": "Baka sach'akunap"
+    }
+  ],
+  "timestamp": "2026-09-08T04:35:33.389435645Z",
+  "model": "glm-5.3"
+}

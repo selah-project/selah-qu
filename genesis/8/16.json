@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Lluqsiy arkamanta: qam, warmiyki, churiyikikuna, churiyikippa warminkuna ⟨את⟩ qamwan.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Lluqsiy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "warmiykiwan"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "churiyikikuna"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "warminkuna"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "churiyikippa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:23.586963605Z",
+  "model": "glm-5.3"
+}

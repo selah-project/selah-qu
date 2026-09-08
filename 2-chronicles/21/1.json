@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Yehoshafat (Josafat)mi taytakunampiwan puñurqan, hinaspa taytakunampiwan Davidpa llaqtanpi llipt'akurqan; paypa churin Yehorammi paypa tiyananpi kamachirqan.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "puñurqan"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "taytakunampi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "llipt'akurqan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "taytakunampi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "paypa tiyananpi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:09:12.631306619Z",
+  "model": "glm-5.3"
+}

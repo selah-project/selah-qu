@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 12:40",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Israelpa churinkunap tiyasqan, maypi Mitsrayimpi kawsarqanku, kimsa chunka tawa pachak wata karqanmi.",
+  "tokens": [
+    {
+      "surface": "ומושב",
+      "gloss": "chay tiyasqan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "kawsarqanku"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimpi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "hinaspa tawa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:47.691429433Z",
+  "model": "glm-5.3"
+}

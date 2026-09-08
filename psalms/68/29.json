@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 29,
+ "ref": "psalms 68:29",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 68,
+ "translation": "Elohimniyki**m** kamachirqan atiyta; Elohim, kay ñuqanchikpaq ruwasqaykita takyachiy.",
+ "tokens": [
+  {
+   "surface": "צוה",
+   "gloss": "kamachirqan"
+  },
+  {
+   "surface": "אלהיך",
+   "gloss": "Elohimniyki"
+  },
+  {
+   "surface": "עזך",
+   "gloss": "atiyta"
+  },
+  {
+   "surface": "עוזה",
+   "gloss": "takyachiy"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "זו",
+   "gloss": "kay"
+  },
+  {
+   "surface": "פעלת",
+   "gloss": "ruwasqayki"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "ñuqanchikpaq"
+  }
+ ],
+ "timestamp": "2026-09-08T09:59:32.157613804Z",
+ "model": "glm-5.3"
+}

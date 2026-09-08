@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Apupa wayna yanapaqninkunam nirqanku: «Apupaq maskachun sumaq rikurayuq pasña virgenkunata».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "wayna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "yanapaqninkuna"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "maskachun"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apupaq"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "pasñakuna"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "virgenkunata"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "rikurayuq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:40:00.604592532Z",
+  "model": "glm-5.3"
+}

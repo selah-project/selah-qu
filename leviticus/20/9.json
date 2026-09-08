@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Runalla taytan ⟨את⟩, mamantan ⟨את⟩wan q'onqoriptinmi, wañuymi wañuchikunqa; taytanmamantanmi q'onqorqan, paypa yawarninmi payllapi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ñarunaspa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runalla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "q'onqoriptin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "mamantan"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mamantan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuy"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañuchikunqa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "taytanmamantan"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "q'onqorqan"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "paypa yawarnin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payllapi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:46.733513972Z",
+  "model": "glm-5.3"
+}

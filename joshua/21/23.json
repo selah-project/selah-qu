@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Dan ayllumantataq ⟨את⟩ Elteqeh (Elteque) llaqtatawan ⟨את⟩ michina pachanta, ⟨את⟩ Gibbethon (Gabetón) llaqtatawan ⟨את⟩ michina pachanta qusqa.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ayllumantataq"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elteqeh llaqtatawan"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Elteqeh (Elteque)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michina pachanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michina pachanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibbethon llaqtatawan"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Gibbethon (Gabetón)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michina pachanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michina pachanta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:28:36.510543196Z",
+  "model": "glm-5.3"
+}

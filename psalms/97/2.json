@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 97,
+  "translation": "Phuyu hinaspa ch'uska tutayaqmi paypa muyuriqninpi; cheqan kay hinaspa taripakuymi paypa tiyananpa saywasqan.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Phuyu"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "hinaspa ch'uska tutayaq"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "paypa muyuriqninpi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cheqan kay"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "hinaspa taripakuy"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "saywasqan"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "paypa tiyanan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:49.189248828Z",
+  "model": "glm-5.3"
+}

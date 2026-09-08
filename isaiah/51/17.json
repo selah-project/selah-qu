@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 51:17",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Taripariy, taripariy, sayariy, Yerushalayim (Jerusalén): qam Yahwep makinmanta ⟨את⟩ ch'akiy nanachakuypa k'anchanta ukyarqanki; ⟨את⟩ t'uquyuq wayt'ana k'ancha... aska k'anchanta ukyarqanki, ch'akiykunarqanki.",
+  "tokens": [
+    {
+      "surface": "התעוררי",
+      "gloss": "taripariy"
+    },
+    {
+      "surface": "התעוררי",
+      "gloss": "taripariy"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "sayariy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qam... ukyarqanki"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "ukyarqanki"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ch'akiy nanachakuypa k'anchanta"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "k'ancha"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "nanachakuypa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "t'uquyuq wayt'ana k'anchanta"
+    },
+    {
+      "surface": "קבעת",
+      "gloss": "t'uquyuq k'ancha"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "k'ancha"
+    },
+    {
+      "surface": "התרעלה",
+      "gloss": "wayt'ana"
+    },
+    {
+      "surface": "שתית",
+      "gloss": "ukyarqanki"
+    },
+    {
+      "surface": "מצית",
+      "gloss": "ch'akiykunarqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T06:36:24.251640232Z",
+  "model": "glm-5.3"
+}

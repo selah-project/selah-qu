@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yaakovm hinataq Rajelman yaykurqan, hinataq ⟨את⟩ Rajelta Leata aswan munarqan; hinaspa Labanwanmi qanchis wata wakta raq llank'arqan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yaykurqan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinataq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajel"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "munarqan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rajelta"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rajelta"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "Leata aswan"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "llank'arqan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Labanwan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "wakta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:59:39.994578524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 9:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chaymanta llapa runam — Efrayim (Efraín), Shomronpi (Samaria) tiyaqpas — yachanku, aknanakuywan, hatun sonqowan nispa.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "chaymanta yachanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "llapa runa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "hinaspa tiyaq"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomronpi"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "aknanakuywan"
+    },
+    {
+      "surface": "ובגדל",
+      "gloss": "hinaspa hatun"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sonqowan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:00:12.423344895Z",
+  "model": "glm-5.3"
+}

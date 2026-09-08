@@ -1,0 +1,116 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "leviticus 9:7",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 9,
+ "translation": "Moshem Aharonta nirqan: Altarman qayllakuy; ⟨את⟩ huchakorbanaykita, ⟨את⟩ nanachiy korbanaykitawan ruway, hinaspa qampaq hinaspa runakunapaq pampachakuyta ruway; hinaspa ⟨את⟩ runakunap korbaninta ruway, paykunapaq pampachakuyta ruway, Yahwem kamachisqan hina.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Moshem"
+  },
+  {
+   "surface": "אל",
+   "gloss": "ta"
+  },
+  {
+   "surface": "אהרן",
+   "gloss": "Aharonta"
+  },
+  {
+   "surface": "קרב",
+   "gloss": "qayllakuy"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "המזבח",
+   "gloss": "altar"
+  },
+  {
+   "surface": "ועשה",
+   "gloss": "ruway"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "huchakorbanaykita"
+  },
+  {
+   "surface": "חטאתך",
+   "gloss": "huchakorbanaykita"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "nanachiy korbanaykita"
+  },
+  {
+   "surface": "עלתך",
+   "gloss": "nanachiy korbanaykita"
+  },
+  {
+   "surface": "וכפר",
+   "gloss": "pampachakuyta ruway"
+  },
+  {
+   "surface": "בעדך",
+   "gloss": "qampaq"
+  },
+  {
+   "surface": "ובעד",
+   "gloss": "hinaspa...paq"
+  },
+  {
+   "surface": "העם",
+   "gloss": "runakuna"
+  },
+  {
+   "surface": "ועשה",
+   "gloss": "ruway"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "korbaninta"
+  },
+  {
+   "surface": "קרבן",
+   "gloss": "korbaninta"
+  },
+  {
+   "surface": "העם",
+   "gloss": "runakunap"
+  },
+  {
+   "surface": "וכפר",
+   "gloss": "pampachakuyta ruway"
+  },
+  {
+   "surface": "בעדם",
+   "gloss": "paykunapaq"
+  },
+  {
+   "surface": "כאשר",
+   "gloss": "hina"
+  },
+  {
+   "surface": "צוה",
+   "gloss": "kamachisqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  }
+ ],
+ "timestamp": "2026-09-08T00:54:50.928815749Z",
+ "model": "glm-5.3"
+}

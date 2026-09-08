@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 3:23",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chiqtam llut'anam ⟨kan⟩ t'aqllakunamanta, urqukunap achkanmanta; chiqtam Yahwe Elohimninchikpi Israelpa qispichiyninmi ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "chiqtam"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "llut'anam"
+    },
+    {
+      "surface": "מגבעות",
+      "gloss": "t'aqllakunamanta"
+    },
+    {
+      "surface": "המון",
+      "gloss": "achkan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "urqukunap"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "chiqtam"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "qispichiynin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:50:11.124533422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Hinaspa weqeywan ⟨את⟩ kunkanta karqarirqan; Mitsrayim runakuna uyarirqanmanta, hinaspa Paropa wasinpas uyarirqanmanta.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "churarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "kunkanta"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "weqeywan"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "uyarirqanmanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim runakuna"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "uyarirqantaq"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:17:46.712058596Z",
+  "model": "glm-5.3"
+}

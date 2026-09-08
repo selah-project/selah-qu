@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Ch'akrapi q'umir chawpinpi wiñaykamunqaku, saucekuna hina unu mayukunap chapanpi.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "wiñaykamunqaku"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "q'umir"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "saucekuna hina"
+    },
+    {
+      "surface": "על",
+      "gloss": "chapanpi"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "unu mayukunap"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:30:32.525396798Z",
+  "model": "glm-5.3"
+}

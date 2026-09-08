@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chayrayku Yahwep ñanninkunata waqaycharkanimi, Elohimniymanta mana allin rurakurqanichu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "waqaycharkanimi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ñanninkunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana ...chu"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "allin rurakurqanichu"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohimniymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:47.243546155Z",
+  "model": "glm-5.3"
+}

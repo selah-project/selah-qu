@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "T'aqarichiqpaq. ⟨Yachachina salmo⟩. Korachpa wawankunap.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "t'aqarichiqpaq"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yachachina salmo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:09.950710863Z",
+  "model": "glm-5.3"
+}

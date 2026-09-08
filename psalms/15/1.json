@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "psalms 15:1",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 15,
+ "translation": "Davidpa mizmornin (salmo). Yahwe, pitaq wasillaykipi samakusa? Pitaq santosqa qollqeykiqpi wiñay tiyakusa?",
+ "tokens": [
+  {
+   "surface": "מזמור",
+   "gloss": "mizmornin"
+  },
+  {
+   "surface": "לדוד",
+   "gloss": "Davidpa"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "מי",
+   "gloss": "pitaq"
+  },
+  {
+   "surface": "יגור",
+   "gloss": "samakusa"
+  },
+  {
+   "surface": "באהלך",
+   "gloss": "wasillaykipi"
+  },
+  {
+   "surface": "מי",
+   "gloss": "pitaq"
+  },
+  {
+   "surface": "ישכן",
+   "gloss": "tiyakusa"
+  },
+  {
+   "surface": "בהר",
+   "gloss": "qollqeykiqpi"
+  },
+  {
+   "surface": "קדשך",
+   "gloss": "santosqa"
+  }
+ ],
+ "timestamp": "2026-09-08T09:33:53.501469674Z",
+ "model": "glm-5.3"
+}

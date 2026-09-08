@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hinaspa ⟨את⟩ p'achawan mayt'usqa lino suyrumanta — Aharonpa (Aarón) churananpaq, wawankunappas — ruwarqanku.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achakunata"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "p'achakunata"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lino suyrumanta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "mayt'usqa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonpa (Aarón)"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "wawankunappas"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:20.242178045Z",
+  "model": "glm-5.3"
+}

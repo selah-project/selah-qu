@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 100,
+  "translation": "Salm agradecimientopaq. Karqariy Yahweman, tukuy hallp'a.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Salm"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "agradecimientopaq"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Karqariy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:37.895939602Z",
+  "model": "glm-5.3"
+}

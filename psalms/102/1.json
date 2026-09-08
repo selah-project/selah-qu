@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "psalms 102:1",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 102,
+ "translation": "Llakikuqpa mañakuyninmi, chayqa yanapa(y)rqaptin, Yahwep ñawpaqintam yuyayninta t'ikraykun.",
+ "tokens": [
+  {
+   "surface": "תפלה",
+   "gloss": "Mañakuy"
+  },
+  {
+   "surface": "לעני",
+   "gloss": "llakikuqpaq"
+  },
+  {
+   "surface": "כי",
+   "gloss": "chayqa"
+  },
+  {
+   "surface": "יעטף",
+   "gloss": "yanapa(y)rqaptin"
+  },
+  {
+   "surface": "ולפני",
+   "gloss": "hinaspa ñawpaqin"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwep"
+  },
+  {
+   "surface": "ישפך",
+   "gloss": "t'ikraykun"
+  },
+  {
+   "surface": "שיחו",
+   "gloss": "yuyayninta"
+  }
+ ],
+ "timestamp": "2026-09-08T10:14:12.800434453Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Jiramm apaman qori t'alqa pachak iskay chunkata apachirqan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "apachirqan"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Jiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apaman"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "qori t'alqa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qori"
+    }
+  ],
+  "timestamp": "2026-09-08T05:06:56.091458543Z",
+  "model": "glm-5.3"
+}

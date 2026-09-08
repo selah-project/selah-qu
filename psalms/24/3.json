@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Pita Yahwepa orqonman sayarinqa? Pita santon tiyananpi sayarikunqa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "sayarinqa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqonman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sayarikunqa"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tiyananpi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santon"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:08.507652860Z",
+  "model": "glm-5.3"
+}

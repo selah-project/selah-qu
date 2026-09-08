@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Imaraykuchus sank'a-sank'ahina waturkusqa kaptinkum, hinaspa upyayninwan machasqa kaptinkum, ch'aki ichhuhina hunt'aspa mikhusqa kanqakum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kaptinkum"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "sank'a-sank'a"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "waturkusqa"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "upyayninwan"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "machasqa"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mikhusqa kanqakum"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "ch'aki ichhuhina"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ch'aki"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'aspa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:08:01.778167285Z",
+  "model": "glm-5.3"
+}

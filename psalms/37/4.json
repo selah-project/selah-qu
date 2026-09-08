@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Hinaspa Yahwepi kusikuy; chayqa sunquyki mañasqakunatam qusanqaki.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "hinaspa kusikuy"
+    },
+    {
+      "surface": "על",
+      "gloss": "Yahwepi (patapi)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qusanqam"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "mañasqakunata"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sunquyki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:43:23.931668224Z",
+  "model": "glm-5.3"
+}

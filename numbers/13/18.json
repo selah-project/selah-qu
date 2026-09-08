@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Qhawankichechik ⟨את⟩ hallp'ata, imataq ⟨kan⟩ chayqa; hinaspa ⟨את⟩ chaypi tiyaq runakunata: sinchichu kanku, icha mana sinchichu; pisichu kanku, icha askhachu.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "qhawankichechik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanku"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "mana sinchi"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kanku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "icha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "askha"
+    }
+  ],
+  "timestamp": "2026-09-08T02:12:04.671506546Z",
+  "model": "glm-5.3"
+}

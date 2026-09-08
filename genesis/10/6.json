@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Champa churinkunataq: Kush, Mitsrayim (Egipto), Put hinaspa Kanaan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "churinkunataq"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "Put"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:49.422990873Z",
+  "model": "glm-5.3"
+}

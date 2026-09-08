@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "psalms 132:9",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 132,
+ "translation": "Kohenniykika tsedeqta churankunam; hasidniykitaq kusilla takinqaku.",
+ "tokens": [
+  {
+   "surface": "כהניך",
+   "gloss": "kohenniyki"
+  },
+  {
+   "surface": "ילבשו",
+   "gloss": "churankuna"
+  },
+  {
+   "surface": "צדק",
+   "gloss": "tsedeqta"
+  },
+  {
+   "surface": "וחסידיך",
+   "gloss": "hasidniykitaq"
+  },
+  {
+   "surface": "ירננו",
+   "gloss": "kusilla takinqaku"
+  }
+ ],
+ "timestamp": "2026-09-08T10:26:40.751295809Z",
+ "model": "glm-5.3"
+}

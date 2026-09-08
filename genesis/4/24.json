@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Qanmantaq Kayinpaq qanchis kutim ichiq karqa; Lemekpaqtaq qanchis chunka qanchis kutim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "qanchis kutim"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "ichiq karqa"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayinpaq"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "Lemekpaqtaq"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "qanchis chunka"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "qanchis kutim"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:34.650529753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 6:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chayraykun ninki Israel wawakunaman: ñuqam Yahwe kanim; qamkunata ⟨את⟩ Mitsrayimpa ahatarasqankuna urayninmanta lluqsisichisaqkimanta, qamkunata ⟨את⟩ paykunap llank'achisqankumanta qispichisaqkimanta, qamkunata ⟨את⟩ mast'arisqa mak'iwan, hatun taripanakunawan kutichipusaqkimanta.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Chayraykun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ninki"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawakunaman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "lluqsisichisaqkimanta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "Mitsrayimpa ahatarasqankuna urayninmanta"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "urayninmanta"
+    },
+    {
+      "surface": "סבלת",
+      "gloss": "ahatarasqankuna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "והצלתי",
+      "gloss": "qispichisaqkimanta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "paykunap llank'achisqankumanta"
+    },
+    {
+      "surface": "מעבדתם",
+      "gloss": "llank'achisqankumanta"
+    },
+    {
+      "surface": "וגאלתי",
+      "gloss": "kutichipusaqkimanta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "mast'arisqa mak'iwan"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "mak'iwan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "mast'arisqa"
+    },
+    {
+      "surface": "ובשפטים",
+      "gloss": "taripanakunawan"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T00:24:10.061282861Z",
+  "model": "glm-5.3"
+}

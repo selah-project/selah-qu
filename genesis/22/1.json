@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Chay simikuna qhipamantam Elohim ⟨את⟩ Abrahamta (Abrahán) probarqan, hinaspa payman nirqan: Abraham. Paymi nirqan: kaymi kani.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qhipamanta"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "chay simikuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "hinaspa Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "probarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamta"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kaymi kani"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:35.832606464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Ñuqam Yahwe payta waqaychaniraq; sapa kutilla unawan upyachini; ama payman taripamuq kanqachá, tutapi p'unchawpipas waqaychaniraq.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "waqaychaniraq"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "sapa kutilla"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "unawan upyachini"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama ... kanqachá"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "taripamuq"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tutapi"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "p'unchawpipas"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "waqaychaniraq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:08:59.010811031Z",
+  "model": "glm-5.3"
+}

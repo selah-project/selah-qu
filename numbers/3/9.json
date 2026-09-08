@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymanta qam ⟨את⟩ Levitakunata Aharonman, paypa wawaninkunamanpas quanki; paykunaqa Israelpa wawankunamanta ⟨את⟩manta payman chaskisqa chaskisqam kanku.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "chaymanta qam quanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levitakunata"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levitakunata"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonman"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "paypa wawaninkunamanpas"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "chaskisqa"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "chaskisqa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykunaqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩manta",
+      "marks": "Israelpa wawankuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:15:52.326221960Z",
+  "model": "glm-5.3"
+}

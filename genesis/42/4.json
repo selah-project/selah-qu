@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Binyamintaq — Yosefpa wayqen — Yaakovpa manam ⟨את⟩ wayqenkunawan kacharqanchu, imarayku nirqan**m**: —Ama llaki taripunman**chá**.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Binyaminta"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "wayqen"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefpa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kacharqanchu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wayqenkunawan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wayqenkunawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama ... chá"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "taripunman"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "llaki"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:51.044938519Z",
+  "model": "glm-5.3"
+}

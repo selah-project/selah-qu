@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chaymanta Hizkiyahu (Ezequías) apupa yanapaqninkunam Yeshayahu (Isaías)man chayarqanku.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "chayarqankum"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapaqninkuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu (Ezequías)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu (Isaías)"
+    }
+  ],
+  "timestamp": "2026-09-08T06:19:51.584093882Z",
+  "model": "glm-5.3"
+}

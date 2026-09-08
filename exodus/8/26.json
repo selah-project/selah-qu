@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Moshe**m** Paropa ñawpaqenmanta llant'erqan, Yahweman mañakurqan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "llant'erqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "mañakurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:35.042026757Z",
+  "model": "glm-5.3"
+}

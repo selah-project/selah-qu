@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Wataqman, Davidpa (David) mizmor, takisqa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "wataqman"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa (David)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "takisqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:58.724771752Z",
+  "model": "glm-5.3"
+}

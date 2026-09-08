@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yahwem paypa runanman atiyta qunmi; Yahwem ⟨את⟩ paypa runanta shalom-wan (pitchalla kawsaywan) barakun (bendiykun).",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "atiyta"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "paypa runanman"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barakun (bendiykun)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa runanta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runanta"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "shalom-wan (pitchalla kawsaywan)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:37.528450851Z",
+  "model": "glm-5.3"
+}

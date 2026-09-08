@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Hinaspa millayta allinpa rantin qulkusqakuna ñuqata satinkum, allinta qatipusqayrayku.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "hinaspa qulkusqakuna"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "millayta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rantin"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "allinpa"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ñuqata satinkum"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "qatipusqay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:17.078917019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 141,
+  "translation": "Allin runam jesedwan ñuqata chaqnachun, hinaspa rimariwachun — aceite umapa; ñuqap umayqa ama chaskiquchu; imaraykuchus ñuqap mañakuyqa kunanraq paykunap nanachikuyninkupim kachkan.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "ñuqata chaqnachun"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "allin runa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesedwan"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "hinaspa rimariwachun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "aceite"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umapa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יני",
+      "gloss": "chaskiquchu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ñuqap umayqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kunanraq"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "ñuqap mañakuyqa"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "paykunap nanachikuyninkupi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:34.734390802Z",
+  "model": "glm-5.3"
+}

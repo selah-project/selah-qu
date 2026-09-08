@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 2:10",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Sayariy, puriy: kayqa manam samay wasiykichikchu; imillasqa rayku chinqachinqa, sinchi llasaq chinqaywan.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "sayariy"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "puriy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "samay wasi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "imillasqa"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "chinqachinqa"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "chinqaywan"
+    },
+    {
+      "surface": "נמרץ",
+      "gloss": "sinchi llasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:03:26.623622316Z",
+  "model": "glm-5.3"
+}

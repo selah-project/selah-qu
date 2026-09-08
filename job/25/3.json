@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "¿Awqankunapa yupaynin kanchu? ¿Pipipas paq llinph'inqa mana intichkanchu?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "¿kanchu?"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "yupaynin"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "awqankunapa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "pipipas"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "lluqsimunqa"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "llinph'in inti"
+    }
+  ],
+  "timestamp": "2026-09-08T11:11:42.489314388Z",
+  "model": "glm-5.3"
+}

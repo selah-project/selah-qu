@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Qam ñanta allichanki, ⟨את⟩ hallp'aykikpa saywanta kimsa t'aqaman t'aqaspa, mayqinta Yahwe Elohimniyki qamta tuntañichin, chayqa llapan wañuchiqpa chayman ayqenampaq kanqa.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "allichanki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Qam"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ñanta"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "kimsa t'aqaman t'aqaspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "saywanta"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "saywanta"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "hallp'aykikpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "qamta tuntañichin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "ayqenampaq"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chayman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "wañuchiq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:45:45.285131009Z",
+  "model": "glm-5.3"
+}

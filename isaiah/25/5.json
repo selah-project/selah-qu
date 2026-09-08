@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Ch'aki pachapim ruphay hina, wikna runakunap phawkachasqankuta p'itawaunki; nubya llanthupi ruphay hina, awqan runakunap takinqa p'itiakunqam.",
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "ruphay hina"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ch'aki pachapi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "phawkachasqa"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "wikna runakunap"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "p'itawaunki"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ruphay"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "llanthupi"
+    },
+    {
+      "surface": "עב",
+      "gloss": "nubyapi"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "takin"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "awqan runakunap"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "p'itiakunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:09:41.271466526Z",
+  "model": "glm-5.3"
+}

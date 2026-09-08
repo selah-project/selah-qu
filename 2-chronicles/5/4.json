@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaysi Israelpa llapa kuraq runakuna chayarqanku, Lewi runakunataq ⟨את⟩ sandulunta aparqanku.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "chayarqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kuraq runakuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "aparqanku"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Lewi runakunataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandulunta"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandulunta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:56:47.239112839Z",
+  "model": "glm-5.3"
+}

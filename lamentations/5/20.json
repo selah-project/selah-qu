@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "lamentations 5:20",
+ "book": "lamentations",
+ "lang": "qu",
+ "chapter": 5,
+ "translation": "Imaraykuq wiñayta ñuqanchikta qunqawankichu, suni p'unchawkunapaq saqiwankichu?",
+ "tokens": [
+  {
+   "surface": "למה",
+   "gloss": "Imaraykuq"
+  },
+  {
+   "surface": "לנצח",
+   "gloss": "wiñayta"
+  },
+  {
+   "surface": "תשכחנו",
+   "gloss": "qunqawankichu"
+  },
+  {
+   "surface": "תעזבנו",
+   "gloss": "saqiwankichu"
+  },
+  {
+   "surface": "לארך",
+   "gloss": "suni"
+  },
+  {
+   "surface": "ימים",
+   "gloss": "p'unchawkunapaq"
+  }
+ ],
+ "timestamp": "2026-09-08T11:37:00.320802590Z",
+ "model": "glm-5.3"
+}

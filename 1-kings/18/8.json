@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Paytaq nirqan: Ñuqami kani. Riy, apuykita willay: qhawariy, Eliyahu kachkanmi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paytaq"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "riy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "willay"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "apuykita"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu kachkanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:16:35.412048469Z",
+  "model": "glm-5.3"
+}

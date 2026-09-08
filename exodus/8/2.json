@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Aharonm t'ikrarqan ⟨את⟩ makinta Mitsrayimpa ununpati; hamp'atukunam witchurqan, hinaspa p'isturqan ⟨את⟩ Mitsrayimpa hallp'anta.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "t'ikrarqan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonm (Aarón)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makinta"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makinta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pati"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "unun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa (Egipto)"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "witchurqan"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "hamp'atukunam"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "hinaspa p'isturqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimpa hallp'anta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'anta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:09.502735309Z",
+  "model": "glm-5.3"
+}

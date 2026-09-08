@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa qullqiwan rantisqa runap llapan yanasanpaq: circuncidaspayki ⟨את⟩ payta, chaymanta chayta mikhuwanqa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanasan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runap"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "rantisqa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqiwan"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "circuncidaspayki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "אז",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhuwanqa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chayta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:45.467142509Z",
+  "model": "glm-5.3"
+}

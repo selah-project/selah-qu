@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 126,
+  "translation": "Yahwem ñuqaykuwanmi hatun ruwaykunata ruwarqan; chayraykumi kusikulla karqayku.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "hatun ruwayta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ñuqaykuwan"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "karqayku"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "kusikulla"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:22.032033885Z",
+  "model": "glm-5.3"
+}

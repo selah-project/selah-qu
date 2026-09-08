@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Llaqtakunam mancharinqanku ⟨את⟩ Yahwe sutinta, hallp'ap llapan apunkunataq ⟨את⟩ k'anchayniyki.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "mancharinqanku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "llaqtakuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe sutinta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "suti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'anchayniyki"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "k'anchayniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T14:39:14.938064076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Hinaspa ⟨את⟩ especiasta, ⟨את⟩ wirata k'anchaypaq, mishchay wirapaq, hinallataq q'uwa samikunapaq.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "especiasta"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "especias"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wirata"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "wira"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "k'anchaypaq"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "hinaspa wirapaq"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mishchay"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "hinallataq q'uwapaq"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "samikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:47.039776280Z",
+  "model": "glm-5.3"
+}

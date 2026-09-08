@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Yarpay ⟨את⟩ imata Amalek qamkunaman ruwasqanta, ñanpi, qamkuna Mitsrayim (Egipto)manta lluksirqaykichik chay p'unchaw.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Yarpay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata ... qamkunaman ruwasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqanta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "lluksirqaykichik chay p'unchaw"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayim (Egipto)manta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:50:24.160974007Z",
+  "model": "glm-5.3"
+}

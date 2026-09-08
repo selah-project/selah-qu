@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Manam tunawta, chinutawan prenda hina chunkunchu, imaraykuchus kawsaynintam chay hina prenda hina chunkun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "prenda hina chunkunchu"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "tunawta"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "chinutawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "kawsaynintam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "prenda hina chunkun"
+    }
+  ],
+  "timestamp": "2026-09-08T02:48:27.556092309Z",
+  "model": "glm-5.3"
+}

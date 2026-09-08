@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 24:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa Yahwem Mosheman nirqan: ñuqaman urquman wichay, chaypi kaway; qampaq qonqayki ⟨את⟩ rumi qillqasqakunata, Toratawan, kamachikuytawan, kaymi qillqarqani, paykunata yachachinaykipaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wichay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "urquman"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kaway"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "qonqayki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qillqasqakunata"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "qillqasqakunata"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "Toratawan"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "kamachikuytawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kay"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "qillqarqani"
+    },
+    {
+      "surface": "להורתם",
+      "gloss": "paykunata yachachinaykipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:33.715210675Z",
+  "model": "glm-5.3"
+}

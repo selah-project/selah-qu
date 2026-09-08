@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Chaysi Aharon nirqan: «Amañaw phiñakuychu, apuy; qammi ⟨את⟩ kay runakunata yachanki, paykunaqa mana allinmasi ⟨kanku⟩.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "phiñakuy"
+    },
+    {
+      "surface": "אף",
+      "gloss": "phiñan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apuy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yachanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-masi"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kanku⟩"
+    }
+  ],
+  "timestamp": "2026-09-08T00:42:49.514181350Z",
+  "model": "glm-5.3"
+}

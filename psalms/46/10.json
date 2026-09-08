@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Awqanakuykunata p'unchawta tukuchin hallp'ap tukuy chayananmanta; chukita p'akichin, sunquta hinaspa ch'utichin, karrukunatawan ninawan ruphachin.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "p'unchawta tukuchin"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "awqanakuykunata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "manta"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "tukuy chayanan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "chuki"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "p'akichin"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "hinaspa ch'utichin"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "karrukunatawan"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ruphachin"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:50.077430144Z",
+  "model": "glm-5.3"
+}

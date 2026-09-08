@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa sichus mizbeajta rumikunamanta ñuqapaq ruwanki, mana ⟨את⟩ wayt'asqa rumikunawan chaynata tariwankichu; imaraykuchus churik'asniykiwan chaypi waytarqanki, chaynata millachirqankim.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa sichus"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeajta"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "rumikunamanta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "tariwankichu"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "wayt'asqa rumikunawan"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "wayt'asqa rumikunawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "churik'asniykiwan"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "waytarqanki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "millachirqankim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:13.194293413Z",
+  "model": "glm-5.3"
+}

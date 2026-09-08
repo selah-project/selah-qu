@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa iskaynintin karqan ch'rañu hina, adamqa hinaspa warmiñan; manataq pawqarqankuchu.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "karqan hinaspa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iskaynintin"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "ch'rañu hina"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "hinaspa warmiñan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "pawqarqankuchu"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:04.208868160Z",
+  "model": "glm-5.3"
+}

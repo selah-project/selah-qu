@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 4:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "P'unchawmi mayqinpi qam Yahwe Elohimniyki ñawpaqen Chorebpi sayarqanki, Yahwem ñuqaman nispa: ñuqaman ⟨את⟩ runakunata huñiy, hinaspa ⟨את⟩ simiykunata uyarichini, mayqinkuna yachankuman ñuqata ⟨את⟩ manachinankupaq tukuy p'unchawkunapi mayqinkunapi paykuna hallp'api kawsanku, hinaspa ⟨את⟩ wawakunankuta yachachinqanku.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "P'unchawmi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinpi"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "sayarqanki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Chorebpi"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "huñiy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "ואשמעם",
+      "gloss": "hinaspa uyarichini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simiykunata"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "simiykunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "yachankuman"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ñuqata manachinankupaq"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunapi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawakunankuta"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "wawakunankuta"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "yachachinqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T02:30:19.386928512Z",
+  "model": "glm-5.3"
+}

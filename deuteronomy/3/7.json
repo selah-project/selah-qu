@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Uywakunallataqmi llaqtakunap awqanakunatawan ñuqaykupa apurqayku.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "uywakuna"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "hinaspa awqanakuna"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "llaqtakunap"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "ñuqaykupa apurqayku"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykupa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:27:52.824103486Z",
+  "model": "glm-5.3"
+}

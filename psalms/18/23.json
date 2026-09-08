@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chayrayku llapan mishpatninkuna ñawpaypi karqanmi, huq'ukunatawan ñuqamanta mana qichurqanichu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "mishpatninkuna"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ñawpaypi"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "huq'ukunatawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ...chu"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "qichurqanichu"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:47.243692211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Qamtataq kikin kanki, watakunaykiq mana tukukunqakuchu.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "qamtataq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kikin kanki"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "watakunaykiq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "tukukunqakuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:52.116755079Z",
+  "model": "glm-5.3"
+}

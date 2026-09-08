@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Tukuy p'unchawmi p'inqachirqawanku auqaykuna; ñuqap phiñakuqkunaqa ñuqawan jurarqanku.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "p'inqachirqawanku"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "auqaykuna"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "ñuqap phiñakuqkuna"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "jurarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:17.557510650Z",
+  "model": "glm-5.3"
+}

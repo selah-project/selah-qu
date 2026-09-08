@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaysi ñuqa kutirqani qhawanaypaq yachayta, hinaspa wakychayta, hinaspa sapsi yachayta; imarayku ima runachu apup qhipan hamunqa ⟨את⟩ imata ñawpañataq rurasqataña.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "kutirqani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qhawanaypaq"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "wakychayta"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "sapsi yachayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "hamunqa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ñawpañataq"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "rurasqataña"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:21.171763704Z",
+  "model": "glm-5.3"
+}

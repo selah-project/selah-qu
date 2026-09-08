@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Pim ñuqata sinchichasqa llaqtaman apawanwa? Pim ñuqata Edomkama pusawanwa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "pim"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ñuqata apawanwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqtaman"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "sinchichasqa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pim"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ñuqata pusawanwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:12.334428299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Esawmi paywan tinkunapaq p'itirqan, mart'akurqan, kunkanpaman chakirqan, makhurirqan; iskayninkum waqyarqanku.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "p'itirqan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "tinkunapaq"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "mart'akurqan"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "chakirqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "-paman"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "kunkanpaman"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "makhurirqan"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "waqyarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T00:07:43.635911118Z",
+  "model": "glm-5.3"
+}

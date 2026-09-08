@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "⟨את⟩ Shabatkunayta waqaychay, hinaspa ⟨את⟩ santo wasiyta ichariy; ñuqaqa Yahwemi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabatkuna"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabatkunayta"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "waqaychay"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "hinaspa santo wasiyta"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ichariy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:19.586697121Z",
+  "model": "glm-5.3"
+}

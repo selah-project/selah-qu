@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Allinmi Yahweta agradechiy hinaspa Elyon, Sutiyki takiy.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Allinmi"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "agradechiypaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "hinaspa takipa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Sutiyki"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:50.289282256Z",
+  "model": "glm-5.3"
+}

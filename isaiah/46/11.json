@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Inti lluqsiy manyamanta mantiq'ata qayarini, karu hallp'amanta yupayniyoq runata; arí, nirqanim, apamusaqmi; arí, kamayrqanim, rurasaqmi.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "qayarini"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "inti lluqsiy manyamanta"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "mantiq'ata"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "karu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runata"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "yupayniyoq"
+    },
+    {
+      "surface": "אף",
+      "gloss": "arí"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nirqanim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "arí"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "apamusaqmi"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "kamayrqanim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "arí"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "rurasaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:27:29.592279761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Chayrayku ñuqapmi llapan sach'a-sach'apa sallqakuna, wakakunapas waranqa orqokunapi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "sallqakuna"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sach'a-sach'a"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "wakakuna"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "orqokunapi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:35.742917505Z",
+  "model": "glm-5.3"
+}

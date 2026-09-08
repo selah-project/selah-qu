@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa Abrahamm suticharqan paypa wawqen — payman paqarisqa, Saram payman wachasqan — Itsjak nispa (Isaac).",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "suticharqan hinaspa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "paypa wawqen"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "payman paqarisqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wachasqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saram"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjak (Isaac)"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:31.214363886Z",
+  "model": "glm-5.3"
+}

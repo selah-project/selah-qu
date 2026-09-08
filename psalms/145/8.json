@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Khuyakuqmi hinaspa llakikunallapaqmi Yahwe; ch'iqirinampaq sunimi, hinaspa hatunmi jesednin.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "khuyakuq"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "hinaspa llakikunallapaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "suni"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ch'iqirinampaq"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "hinaspa hatun"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:37.235345450Z",
+  "model": "glm-5.3"
+}

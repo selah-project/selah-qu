@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Hinataq Elohimpi suyayninkuta churanankupaqmi, manataq Elpa rurasqankunata ontsinankuchu, hinaspa kamachiykunta waqaychanankupaq.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "churanankupaq"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimpi"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "suyayninkuta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ontsinankuchu"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "rurasqankunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elpa"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "hinaspa kamachiykunta"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "waqaychanankupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:29.461492542Z",
+  "model": "glm-5.3"
+}

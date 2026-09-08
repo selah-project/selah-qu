@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 142,
+  "translation": "Paña makiman qaway, hinaspa rikuy; mana kanchu ñuqata riqsiq, chinkarqanmi hayta ñuqamanta; mana pipas nefeshniyta maskhaqchu kachkan.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "qaway"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "paña maki"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "hinaspa rikuy"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "riqsiq"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "chinkarqan"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "hayta"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "maskhaq"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefeshniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:32.520889272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 54,
+  "translation": "Qamta ruraqmi qampa qharin, Yahwe Tsebaotpa suti; qamta qispichiqmi Israelpa Santo, tukuy hallp'apa Elohimnin sut'ichasqa kanqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "qampa qharin"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "qamta ruraq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "suti"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "qamta qispichiq"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Santo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'apa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sut'ichasqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:35:33.361730954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Davidpa salmon: Quchiy Yahweman, Elpa churinkuna, quchiy Yahweman kabodta (sumaq k'anchayta) hinaspa atiyninta.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "salmo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "quchiy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Elpa"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "quchiy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabodta"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "hinaspa atiyninta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:10.058461598Z",
+  "model": "glm-5.3"
+}

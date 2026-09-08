@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Kayraykumi ñuqaykunta t'anarqanki chinakuna tiyanapi, hinaspa wañuy llanthuwan ñuqaykunta qhatiykurqanki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kayraykumi"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "ñuqaykunta t'anarqanki"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "tiyanapi"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "chinakuna"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "hinaspa qhatiykurqanki"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqaykunta"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "wañuy llanthuwan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:35.792653223Z",
+  "model": "glm-5.3"
+}

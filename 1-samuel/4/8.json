@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "«Ay, ñuqanchikpaq! Pim ñuqanchikta qispichinman kay hatun atiyniyuq dioskunap makiqmanta? Kaykuna ⟨kan⟩ paykuna dioskuna, ⟨את⟩ Mitsrayimta llapa mak'akunawan wañuchisqakuna q'ara pampapi.»",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "ay"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikpaq"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pim"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "qispichinman ñuqanchikta"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makiqmanta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dioskunap"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "hatun atiyniyuq"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "wañuchisqakuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "mak'akunawan"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "q'ara pampapi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:04:33.431655248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Elohim paymanta hanaqman lluqsimurqan, chay kitillapi maypi ⟨את⟩wan rimarqan.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lluqsimurqan"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "chay kitipi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩wan",
+      "marks": "Elohim (paywan rimasqa)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:54.646222255Z",
+  "model": "glm-5.3"
+}

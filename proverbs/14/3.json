@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Wambla simipi k'irpam karqonmi: yachaqkunap wirpankunaqa paykunata waqaychankum.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "simipi"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "wambla"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "k'irpa"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "karqon ... "
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "wirpankuna"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "yachaqkunap"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "paykunata waqaychankum"
+    }
+  ],
+  "timestamp": "2026-09-08T10:42:22.030625490Z",
+  "model": "glm-5.3"
+}

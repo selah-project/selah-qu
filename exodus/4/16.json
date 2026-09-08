@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Paymi qampaq runakunaman rimanqa; payqa simi hina kanqa qampaq, qamtaq elohim hina kanqa paypaq.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "rimanqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "simi hina"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "elohim hina"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:32.203341294Z",
+  "model": "glm-5.3"
+}

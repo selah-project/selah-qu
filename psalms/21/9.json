@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Makiyki llapan awqaykikunata tarinqam; paña makiykiwan ⟨makiyki⟩ ikikuykita tarinqam.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "tarinqam"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaykikunata"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "paña makiykiwan"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tarinqam"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ikikuykita"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:17.178538798Z",
+  "model": "glm-5.3"
+}

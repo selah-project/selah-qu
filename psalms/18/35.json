@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Mak'iykunata awqananchikpaq yachachinwanmi, hinaspa anta wantanata mak'iykunawan urmachirqani.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "yachachinwanmi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "mak'iykuna"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "awqananchikpaq"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "hinaspa urmachirqani"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "wantana"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "anta"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "mak'iykunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:59.151957379Z",
+  "model": "glm-5.3"
+}

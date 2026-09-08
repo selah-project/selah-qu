@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Sichus wañuchiptin Payta mask'arqankum, kutimurqankum, Eltaqa paqarinlla mask'arqankum.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "wañuchiptin"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "Payta mask'arqankum",
+      "marks": "Payta"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "kutimurqankum"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "paqarinlla mask'arqankum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eltaqa"
+    }
+  ],
+  "timestamp": "2026-09-08T15:31:25.433395716Z",
+  "model": "glm-5.3"
+}

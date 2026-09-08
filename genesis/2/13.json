@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa iskay ñiqin mayup sutiqa Gichonmi; paymi tukuy Kush hallp'ata muyuriptin ⟨את⟩ muyurin.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "hinaspa…suti"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "mayup"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "muyurin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy Kush hallp'ata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:39.793084800Z",
+  "model": "glm-5.3"
+}

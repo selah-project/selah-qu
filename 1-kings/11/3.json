@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Paypaqmi qhapaq warmikuna pachak chunka suqtayuq karqan, hinaspa concubinakuna pachak kimsayuq; chaymi warmiinkuna ⟨את⟩ sonqonta t'ikrarqanku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "warmikuna"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "qhapaq"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "pachak chunka suqtayuq (qanchis chunka)"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "hinaspa concubinakuna"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "pachak kimsayuq (kimsa chunka)"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "t'ikrarqanku"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "warmiinkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonqonta"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sonqonta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:11:21.165174607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Rit'ita millma hina quanmi, chhullita q'oncha hina kachkanmi.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "quanmi"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "rit'ita"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "millma hina"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "chhullita"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "q'oncha hina"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "kachkanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:59.695400138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Ñawiwan muchurkani, qhallaspa, qampa qespichiyniykita, qampa cheqaq simiykita qhawaspa.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Ñawiwan"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "muchurkani"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "qhallaspa, qampa qespichiyniykita"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "qampa cheqaq simiykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:08.172528100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Yahwem, Israelpa Elohimnin, hark'arqan; paypa qhipanmantaqa manam karqanchu payhina, llapan Yehudapa apukunapampi, manataq pay ñawpaqpi karqankuchu.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "hark'arqan"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "paypa qhipanmanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "payhina"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "hinaspa kaykuna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pay ñawpaqpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:39:23.859155665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 10:1",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa plishtikunam Israelwan awqanakurqanku, hinaspa Israel runakunaqa plishtikunap ñawpaqenmanta ayqirqanku, hinaspas wañuchisqa auqasqakuna Gilboa urqupi urmarqankum.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "hinaspa plishtikunam"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "awqanakurqanku"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelwan"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "hinaspa ayqirqanku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runakunaqa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqenmanta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plishtikunap"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "hinaspas urmarqankum"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "wañuchisqa auqasqakuna"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqupi"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:39:42.484234Z",
+  "model": "glm-5.3"
+}

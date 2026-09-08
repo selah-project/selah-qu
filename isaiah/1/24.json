@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chayrayku Adonay Yahwe Tsebaotpa, Israelpa hatun atiyniyuqpa nisqanmi: ¡Ay! Sasachakuqmanta allichakusaqmi, awqakunaymantataq qatinaqasaqmi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Chayrayku"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nisqanmi"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "hatun atiyniyuq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "¡Ay!"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "allichakusaqmi"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "sasachakuqmanta"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "qatinaqasaqmi"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "awqakunaymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:49:21.734313819Z",
+  "model": "glm-5.3"
+}

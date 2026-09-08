@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa apuka Amasaman nirqan: «⟨את⟩ Yehudap runankunata kimsa p'unchawpi ñuqaman qayarqariy; qamtaj kaypi sayay.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "qayarqariy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudap runankunata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runankuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "qamtaj"
+    },
+    {
+      "surface": "פה",
+      "gloss": "kaypi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "sayay"
+    }
+  ],
+  "timestamp": "2026-09-08T04:51:59.356478374Z",
+  "model": "glm-5.3"
+}

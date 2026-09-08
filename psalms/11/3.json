@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Sichus teqsi urmachikunman chayqa, tsadiq imata ruwanman?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "teqsi"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "urmachikunman"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "tsadiq"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imata"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ruwanman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:04.693505084Z",
+  "model": "glm-5.3"
+}

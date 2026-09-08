@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Chayraykum paykunaq rikranta tikrasinki; warak'awwiykiwan paykunap ñawinkunallapi sayarichinki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chayraykum"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "rikranta tikrasinki"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "rikra"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "warak'awwiykiwan"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "sayarichinki"
+    },
+    {
+      "surface": "על",
+      "gloss": "…llapi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "paykunap ñawinkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:27.505841352Z",
+  "model": "glm-5.3"
+}

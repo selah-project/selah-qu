@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Much'asqa Yahwetaq, qaparini; chaymanta awqaykunamanta qispisqam kani.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Much'asqa"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qaparini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwetaq"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqaykunamanta"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "qispisqam kani"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:04.772459233Z",
+  "model": "glm-5.3"
+}

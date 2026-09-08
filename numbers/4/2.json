@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Yupay ⟨את⟩ Kehatpa churinkunap umanta, Leviypa churinkunap chawpinmanta, ayllunkunallawan, taytankunap wasinkunallawan.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Yupay (uman hunquy)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kehatpa churinkunap umanta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uman"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatpa"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "chawpinmanta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Leviypa"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayllunkunallawan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "…wasinkunallawan"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "taytankunap wasinkunallawan"
+    }
+  ],
+  "timestamp": "2026-09-08T01:16:44.799460821Z",
+  "model": "glm-5.3"
+}

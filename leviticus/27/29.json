@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Llapam herem, mayqin runamanta heremchasqa kachun, mana qispichikunchu; wañuchispañam wañunqami.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Llapam"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "herem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "heremchasqa kachun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "qispichikunchu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuchispaña"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañunqami"
+    }
+  ],
+  "timestamp": "2026-09-08T01:13:54.475058944Z",
+  "model": "glm-5.3"
+}

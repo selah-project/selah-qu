@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 137,
+  "translation": "Imaynan takiyman Yahwepa ⟨את⟩ takinta, wak llaqtap allpanpitaq?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "takiyman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "takinta"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "allpanpi"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wak llaqtap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:02.677672042Z",
+  "model": "glm-5.3"
+}

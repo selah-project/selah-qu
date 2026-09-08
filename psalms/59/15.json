@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Chaysi chisiyaqtinku kutinku, allqukuna hina wararqunku, llaqtata muyunkuchá muyurinku.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "kutinku"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "chisiyaqtinku"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "wararqunku"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "allqukuna hina"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "muyurinku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqtata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:35.697053444Z",
+  "model": "glm-5.3"
+}

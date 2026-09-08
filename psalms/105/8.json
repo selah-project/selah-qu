@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Wiñaypaqmi yuyarirqan paypa Beritninta (pactonta), rimayta kamachirqanta waranqa mitakunapaq.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yuyarirqan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaqmi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "paypa Beritninta (pactonta)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqanta"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mitakunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:41.702770732Z",
+  "model": "glm-5.3"
+}

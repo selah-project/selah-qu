@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 7:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa qam kayman ninkim: Waqaychakuy hinaspa thakillay; ama manchakuychu, ama sunquyki ch'ikyiychu kay iskay yumch'aykuq nina t'ikrachupa — Retstinpa, Arampa, Remalyahup churinpa sinchi phiñakuyninmanta.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "hinaspa ninki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kayman"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "waqaychakuy"
+    },
+    {
+      "surface": "והשקט",
+      "gloss": "thakillay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "manchakuychu"
+    },
+    {
+      "surface": "ולבבך",
+      "gloss": "ama sunquyki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ch'ikyiychu"
+    },
+    {
+      "surface": "משני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "זנבות",
+      "gloss": "chupa"
+    },
+    {
+      "surface": "האודים",
+      "gloss": "nina t'ikra"
+    },
+    {
+      "surface": "העשנים",
+      "gloss": "yumch'aykuq"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "sinchi phiñakuypa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "phiñakuynin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retstinpa"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "hinaspa Arampa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "hinaspa churinpa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remalyahu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:55:28.642896534Z",
+  "model": "glm-5.3"
+}

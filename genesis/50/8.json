@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "hinaspa llapa Yosefpa wasin, hinaspa wawqinkuna, hinaspa taytanpa wasin; wawankuna-llataq, hinaspa uywankunata, wakankunata Goshen hallp'api saqirqanku.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefpa"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "hinaspa wawqinkuna"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "hinaspa wasin"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanpa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "llataq"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "hinaspa uywankunata"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "wakankunata"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "saqirqanku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:00.044730905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "psalms 75:8",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 75,
+ "translation": "Elohimmi kamachinmi: kayta urayachin, chaytataq hanaqchan.",
+ "tokens": [
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus ⟨kan⟩"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "שפט",
+   "gloss": "kamachinmi"
+  },
+  {
+   "surface": "זה",
+   "gloss": "kayta"
+  },
+  {
+   "surface": "ישפיל",
+   "gloss": "urayachin"
+  },
+  {
+   "surface": "וזה",
+   "gloss": "chaytataq"
+  },
+  {
+   "surface": "ירים",
+   "gloss": "hanaqchan"
+  }
+ ],
+ "timestamp": "2026-09-08T10:02:27.588292691Z",
+ "model": "glm-5.3"
+}

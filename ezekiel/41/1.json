@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Paymi ñuqata heijalman apakurqan, hinaspa ⟨את⟩ sayacakunata tupurqan — suqta ama ch'utu kay ladopi, hinaspa suqta ama ch'utu chay ladopi — chaymi carpap ch'utun ⟨karqan⟩.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "paymi ñuqata apakurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "heijalman"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heijalman"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "hinaspa tupurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sayacakunata"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "sayacakunata"
+    },
+    {
+      "surface": "שש",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ch'utu"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "kay ladopi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "hinaspa suqta"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ch'utu"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "chay ladopi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ch'utu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "carpap"
+    }
+  ],
+  "timestamp": "2026-09-08T08:35:18.783907942Z",
+  "model": "glm-5.3"
+}

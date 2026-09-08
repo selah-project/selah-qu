@@ -1,0 +1,81 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "hosea 14:4",
+ "book": "hosea",
+ "lang": "qu",
+ "chapter": 14,
+ "translation": "Ashurqa ñanykuta amachawanchikchu; kawallupipis manam puriykuchu; manataqñataq makiyku rurasqanman 'diosniyku' ñanchikchu; qampim waqchapas khuyasqa kanqa.",
+ "tokens": [
+  {
+   "surface": "אשור",
+   "gloss": "Ashur"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana...chu"
+  },
+  {
+   "surface": "יושיענו",
+   "gloss": "ñanykuta amachawanchikchu"
+  },
+  {
+   "surface": "על",
+   "gloss": "...pi"
+  },
+  {
+   "surface": "סוס",
+   "gloss": "kawallu"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana...chu"
+  },
+  {
+   "surface": "נרכב",
+   "gloss": "puriykuchu"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "hinaspa mana...chu"
+  },
+  {
+   "surface": "נאמר",
+   "gloss": "ñanchikchu"
+  },
+  {
+   "surface": "עוד",
+   "gloss": "ñataq"
+  },
+  {
+   "surface": "אלהינו",
+   "gloss": "diosniyku"
+  },
+  {
+   "surface": "למעשה",
+   "gloss": "rurasqanman"
+  },
+  {
+   "surface": "ידינו",
+   "gloss": "makiyku"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "...q"
+  },
+  {
+   "surface": "בך",
+   "gloss": "qampi"
+  },
+  {
+   "surface": "ירחם",
+   "gloss": "khuyasqa kanqa"
+  },
+  {
+   "surface": "יתום",
+   "gloss": "waqcha"
+  }
+ ],
+ "timestamp": "2026-09-08T08:51:42.213844401Z",
+ "model": "glm-5.3"
+}

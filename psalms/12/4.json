@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yahwem llapa llamp'u wirpakunata kuchunchun, hatun rimaykunata rimaq qalluta.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "kuchunchun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wirpakunata"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "llamp'u"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "qalluta"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "rimaq"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "hatun rimaykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:41.696128408Z",
+  "model": "glm-5.3"
+}

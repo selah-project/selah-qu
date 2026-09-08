@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa Adam kimsa chunka hinaspa pachak wata kawsarqan, hinaspa kikin rikch'ayninpi, kikin siq'inman rikch'akuq churiyuq karqan; hinaspa ⟨את⟩ churinpa sutinta Shet (Set) nirqan.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "hinaspa pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "churiyuq karqan"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "kikin rikch'ayninpi"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "kikin siq'inman rikch'akuq"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sutinta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "churinpa sutinta"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:10.973062469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Elohim, qam yachankimi ñuqap upa kayta; ñuqap huchaykunaqa qamanta manam pakasqachu kanku.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yachankimi"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "ñuqap upa kayta"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "ñuqap huchaykunaqa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "qamanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "pakasqachu kanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:30.064896481Z",
+  "model": "glm-5.3"
+}

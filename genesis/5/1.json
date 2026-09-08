@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Kaymi qillqa Adampa (Adán) paqarimuyninmanta willakuy: p'unchawpi Elohim ⟨את⟩ Adamta kamarqan, Elohimpa rikch'ayninpi ⟨את⟩ payta ruwarqan.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "qillqa"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "paqarimuyninmanta willakuy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kamarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamta"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "rikch'ayninpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:10.972515847Z",
+  "model": "glm-5.3"
+}

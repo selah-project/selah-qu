@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Hinaspa payqa nirqan: Manachu; hallp'ap ch'uwananta qhawamunankupaq hamurqankichik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa payqa nirqan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ch'uwananta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "hamurqankichik"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qhawamunankupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:13:07.539810871Z",
+  "model": "glm-5.3"
+}

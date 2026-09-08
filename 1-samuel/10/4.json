@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa qanta allin kawsaymanta tapuspa, iskay t'antakunata qusqankim; chayta paykunap makinmanta chaskiwanki.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "hinaspa tapuspa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qanta"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "allin kawsaymanta"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "qusqankim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qanta"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'antakunata"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "hinaspa chaskiwanki"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "paykunap makinmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:11:26.669384831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 64,
+  "translation": "Uyariy, Elohim, ñuqap kunkata llakikuyypi; awqapa mancharikuyninmanta kawsayniyta waqaychaway.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Uyariy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ñuqap kunkata"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "llakikuyypi"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "mancharikuyninmanta"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqapa"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "waqaychaway"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kawsayniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:01.635222187Z",
+  "model": "glm-5.3"
+}

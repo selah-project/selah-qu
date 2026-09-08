@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaymanta ⟨את⟩ Yehudap ayllunta qayllachirqanm, hinaspa ⟨את⟩ Zeraj ayllunta pallarqanm; chaymanta ⟨את⟩ Zeraj ayllunta runa sapaman qayllachirqanm, hinaspa Zavdim pallasqa karqanm.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "qayllachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudap ayllunta"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllunta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "hinaspa pallarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zeraj ayllunta"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllunta"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zeraj"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "qayllachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zeraj ayllunta"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllunta"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "Zeraj"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "runa sapaman"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "hinaspa pallasqa karqan"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zavdim"
+    }
+  ],
+  "timestamp": "2026-09-08T13:29:36.769326640Z",
+  "model": "glm-5.3"
+}

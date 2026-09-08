@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Churarqan ⟨את⟩ kiyorta Ohel Moedwan mizbeajwan chawpinpi, hinaspa chaypi unuta churarqan arichakunapaq.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyorta"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "kiyorta"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moedwan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hinaspa mizbeajwan (chawpinpi)"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeajwan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unuta"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "arichakunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:07.804798588Z",
+  "model": "glm-5.3"
+}

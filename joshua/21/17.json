@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Binjaminpa ayllunmanta ⟨את⟩ Givon (Gabaón) llaqtatawan ⟨את⟩ migrashninta, ⟨את⟩ Geva (Geba) llaqtatawan ⟨את⟩ migrashnintam.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "ayllunmanta"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjaminpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon llaqtatawan"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon (Gabaón)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "migrashninta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migrashninta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geva llaqtatawan"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva (Geba)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "migrashninta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "migrashninta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:27:42.756097563Z",
+  "model": "glm-5.3"
+}

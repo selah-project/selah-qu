@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Munakuyniykiwan allinchay ⟨את⟩ Tsiyonta (Siónta); Yerushalayimpa (Jerusalénpa) pirqakunata wasichanki.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "allinchay"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "munakuyniykiwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyonta"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyonta"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "wasichanki"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "pirqakunata"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:11.552679218Z",
+  "model": "glm-5.3"
+}

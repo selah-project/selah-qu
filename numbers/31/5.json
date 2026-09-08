@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Israelpa waranqankunamanta sapa mat'aman huk waranqata chaskirqankum — iskay chunka huk waranqa awqaypaq hunt'asqa runakunam.",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "chaskirqankum"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "waranqankunamanta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "huk waranqa"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "sapa mat'aman"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "huk"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "awqaypaq hunt'asqa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "awqay"
+    }
+  ],
+  "timestamp": "2026-09-08T02:20:13.885002802Z",
+  "model": "glm-5.3"
+}

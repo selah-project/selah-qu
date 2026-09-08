@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 10:19",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yahwem hatun sinchi wayra mamakuchata ⟨inti kuti wayra⟩ tikrarqan, chaymi ⟨את⟩ ch'uspakunata huñuspa Suf mamakuchaman wikch'urqan; manam huk ch'uspapas Mitsrayimpa llapan saywanpi qhipakurqanchu.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "tikrarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mamakuchata"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "huñuspa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ch'uspakunata"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ch'uspakunata"
+    },
+    {
+      "surface": "ויתקעהו",
+      "gloss": "wikch'urqan"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "mamakuchaman"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "qhipakurqanchu"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ch'uspapas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "saywanpi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:37.575396593Z",
+  "model": "glm-5.3"
+}

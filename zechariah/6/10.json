@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 6:10",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaskiy ⟨את⟩ golamanta (cautivosmanta) Heldaimanta (Heledai), hinaspa ⟨את⟩ Toviyahmanta, hinaspa ⟨את⟩ Yedayahmanta; chay p'unchaw qam hamunki, hinaspa yaykunki Yehoshiyap wasinman, Tsefanyahpa churinpa, Babilonmanta hamusqakunata.",
+  "tokens": [
+    {
+      "surface": "לקוח",
+      "gloss": "chaskiy"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩manta",
+      "marks": "Heldai, Toviyah, Yedayah — golamanta"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "golata"
+    },
+    {
+      "surface": "מחלדי",
+      "gloss": "Heldaimanta"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "hinaspa ⟨את⟩manta",
+      "marks": "Toviyahmanta"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Toviyahmanta"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "hinaspa ⟨את⟩manta",
+      "marks": "Yedayahmanta"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Yedayahmanta"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "hinaspa hamunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "hinaspa yaykunki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "יאשיה",
+      "gloss": "Yehoshiyap"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyahpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunachu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hamusqaku"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Babilonmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:17:52.574064307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chaysi runakuna ⟨את⟩ t'antap rawkunta aysarqanku, manaraq phutuchkaptin; masht'inkunata p'achankunawan wataspa hombrosparkunapi apaykurqanku.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "aysarqanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "t'antap rawkunta"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "t'antap rawkunta"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "phutuchkaptin"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "masht'inkunata"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "wataspa"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "p'achankunawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "hombrosparkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:33.195630501Z",
+  "model": "glm-5.3"
+}

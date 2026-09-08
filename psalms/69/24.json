@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Ñawinkunata qhawaymanta ch'ust'ichun, chakillankunata wiñay thultuykachachun.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "ch'ust'ichun"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ñawinkunata"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "qhawaymanta"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "chakillankunata"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "thultuykachachun"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:55.718771742Z",
+  "model": "glm-5.3"
+}

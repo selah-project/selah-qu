@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Manachu llapan mana-allin ruwaqkuna yachankum — ñuqap runayta mikhujkuna t'antahina mikhurqanku — Yahwetaq mana qaywarqankuchu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "yachankum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ruwaqkuna"
+    },
+    {
+      "surface": "און",
+      "gloss": "mana-allin"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "mikhujkuna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqap runayta"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "mikhurqanku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'antahina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwetaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "qaywarqankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:55.476389551Z",
+  "model": "glm-5.3"
+}

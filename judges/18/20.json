@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chaysi kohenpa sunqun k'uyaqyarqan, chaysi ⟨את⟩ efodta, ⟨את⟩ terafimkunata, ⟨את⟩ rurasqa diosta hap'ispa runakunap chawpinman yaykurqan.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "k'uyaqyarqan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenpa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hap'ispa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "terafimkuna"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "rurasqa dios"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "rurasqa diosta"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yaykurqan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "chawpinman"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T03:56:09.854088736Z",
+  "model": "glm-5.3"
+}

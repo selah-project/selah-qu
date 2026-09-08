@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Ancha nanachiy hallp'a, kamachiyki maqt'alla kaptin, umalliqniykiyki tuta p'unchaw mikhunkup kaptinmi.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Ancha nanachiy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "kamachiyki"
+    },
+    {
+      "surface": "נער",
+      "gloss": "maqt'alla"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "umalliqniykiyki"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tuta p'unchaw"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhunkup"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:33.788055624Z",
+  "model": "glm-5.3"
+}

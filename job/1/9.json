@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa hasatan ⟨את⟩ Yahwem kutichirqan, nispam nirqan: ¿Q'ala chu Iyov Elohimta manchan?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Hinaspa kutichirqan"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "hasatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "q'ala"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "manchan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:56:59.435031215Z",
+  "model": "glm-5.3"
+}

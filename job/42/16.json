@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Kay qhipam Iyub pachak chunka tawayuq watakama kawsarqanmi, hinaspa rikurqan ⟨את⟩ churiykunatawan, hinaspa ⟨את⟩ churiykunap churiykunatawan, tawa mitakuna.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "kawsarqan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "chunka tawayuq"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "watakama"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churiykunata"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churiykunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "churiykunap churiykunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiykunap"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churiykunata"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "mitakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T11:24:18.740682634Z",
+  "model": "glm-5.3"
+}

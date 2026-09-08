@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "⟨את⟩ Paywanmi Yahwep wasinpi pakashasqa karqanm suqta wata; Atalyahm kay hallp'api apun karqanm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanm"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "paywan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "pakashasqa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalyahm"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "apun karqanm"
+    },
+    {
+      "surface": "על",
+      "gloss": "kay...pi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T05:38:18.869154971Z",
+  "model": "glm-5.3"
+}

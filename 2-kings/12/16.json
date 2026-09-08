@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspam ⟨את⟩ chay runakunata mana yupaykachinkuchu, mayqinkunap makinpi ⟨את⟩ qullqita qusqa llamk'ay llamk'aqkunaman qunankupaq; imaraykum cheqa sunquwanmi paykuna llamk'anku.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "hinaspam mana"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "yupaykachinkuchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chay runakunata"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "chay runakunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunap"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "qusqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullqita"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qullqita"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "ידם",
+      "gloss": "makinpi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "qunankupaq"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "llamk'aqkunaman"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "cheqa sunquwan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "llamk'anku"
+    }
+  ],
+  "timestamp": "2026-09-08T05:34:53.852185345Z",
+  "model": "glm-5.3"
+}

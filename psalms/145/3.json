@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Hatunmi Yahwe, achhami yupaychasqa; paypa hatun kaynintaqa mana pipas ch'anqay atinchu.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "hatunmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "achhami yupaychasqa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "achha"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "paypa hatun kaynintaqa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana pipas"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ch'anqay atinchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:30.709835980Z",
+  "model": "glm-5.3"
+}

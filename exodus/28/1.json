@@ -1,0 +1,99 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "exodus 28:1",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 28,
+ "translation": "Qantaq qamman chayachiy ⟨את⟩ Aharonta (Aarón), qampa wawkiyikita, ⟨את⟩ hinaspa ⟨את⟩ wawaninkunata paywan, Israel wawaninkuna chawpimanta, ñuqap kohenninanpaq: Aharon, Nadab, Abihu, Elazar hinaspa Itamar, Aharonpa wawankunam.",
+ "tokens": [
+  {
+   "surface": "ואתה",
+   "gloss": "Qantaq qam"
+  },
+  {
+   "surface": "הקרב",
+   "gloss": "qamman chayachiy"
+  },
+  {
+   "surface": "אליך",
+   "gloss": "qamman"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Aharonta"
+  },
+  {
+   "surface": "אהרן",
+   "gloss": "Aharonta (Aarón)"
+  },
+  {
+   "surface": "אחיך",
+   "gloss": "qampa wawkiyikita"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "wawaninkunata"
+  },
+  {
+   "surface": "בניו",
+   "gloss": "wawaninkunata"
+  },
+  {
+   "surface": "אתו",
+   "gloss": "paywan ⟨את⟩"
+  },
+  {
+   "surface": "מתוך",
+   "gloss": "chawpimanta"
+  },
+  {
+   "surface": "בני",
+   "gloss": "wawaninkuna"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "לכהנו",
+   "gloss": "kohenninanpaq"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqap"
+  },
+  {
+   "surface": "אהרן",
+   "gloss": "Aharon"
+  },
+  {
+   "surface": "נדב",
+   "gloss": "Nadab"
+  },
+  {
+   "surface": "ואביהוא",
+   "gloss": "Abihu"
+  },
+  {
+   "surface": "אלעזר",
+   "gloss": "Elazar"
+  },
+  {
+   "surface": "ואיתמר",
+   "gloss": "Itamar"
+  },
+  {
+   "surface": "בני",
+   "gloss": "wawankuna"
+  },
+  {
+   "surface": "אהרן",
+   "gloss": "Aharonpa"
+  }
+ ],
+ "timestamp": "2026-09-08T00:38:27.665974489Z",
+ "model": "glm-5.3"
+}

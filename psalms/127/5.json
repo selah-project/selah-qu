@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 127,
+  "translation": "Asherim chay qhari, mayqen ⟨את⟩ paypa flecha churananta paykunawan hunt'achirqan; mana ch'akikapunqakuchu, imaraykuchus punkupi ⟨את⟩ awqakunata rimankuku.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Asherim"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "chay qhari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'achirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa flecha churananta"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "paypa flecha churanan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "paykunawan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ch'akikapunqakuchu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "rimankuku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awqakunata"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "awqakunata"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "punkupi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:58.157694837Z",
+  "model": "glm-5.3"
+}

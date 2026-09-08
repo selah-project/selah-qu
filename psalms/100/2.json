@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 100,
+  "translation": "Serviy ⟨את⟩ Yahweta khushikuywan; paypa ñawpaqninman haykuy takirqaspa.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Serviy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "khushikuywan"
+    },
+    {
+      "surface": "באו",
+      "gloss": "haykuy"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "paypa ñawpaqninman"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "takirqaspa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:37.896157530Z",
+  "model": "glm-5.3"
+}

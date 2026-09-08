@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Yaakovmi alwa tutapi wararirqan, hinaspa ⟨את⟩ ruminta hurqurqan, chayta umanpi churarqan, hinaspa ⟨את⟩ chayta saywa hina saywachirqan, hinaspa aytawan wit'urqan umanpa patanpi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wararirqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovmi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "alwa tutapi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruminta"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ruminta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "umanpi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "saywachirqan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "saywata"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "saywa"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "wit'urqan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "aytawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "umanpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:04:32.765583787Z",
+  "model": "glm-5.3"
+}

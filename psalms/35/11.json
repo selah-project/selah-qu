@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Ch'ican willaqkunañam sayarqanku; mana yachasqayta ñuqatam tapurqanku.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "sayarqanku"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "willaqkuna"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ch'ican"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mana yachasqayta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yachasqay"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ñuqatam tapurqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:32.367798586Z",
+  "model": "glm-5.3"
+}

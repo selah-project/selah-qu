@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Laq'asqam kachun warmipa mamanwan puñuq runa; hinaspam llapa runakuna ninqaku: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "laq'asqam kachun"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "puñuq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "warmipa mamanwan"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "hinaspam ninqaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-08T02:53:06.120699142Z",
+  "model": "glm-5.3"
+}

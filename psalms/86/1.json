@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Mañasqa Davidpa. Yahwe, rinriykita ñawipay, ñuqata kutichiy; ñuqaqa wakcham, mana imayuq kasqayraykum.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Mañasqa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "ñawipay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "rinriykita"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ñuqata kutichiy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mana imayuq"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:34.696490927Z",
+  "model": "glm-5.3"
+}

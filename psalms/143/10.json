@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 143,
+  "translation": "Ruwayta munayniyki yachachiwaway, qanmi Elohimniy kanki; allin samaynikiqa chiqan hallp'api ñuqata pusawachun.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "yachachiwaway"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwayta"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "munayniyki"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qanmi"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "samayniki"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "allin"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "pusawachun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "chiqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:45.973161607Z",
+  "model": "glm-5.3"
+}

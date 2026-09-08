@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 150,
+  "translation": "Yahweta haylliy shema ⟨tsiltsilkunawan⟩, Yahweta haylliy terua tsiltsilkunawan.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Yahweta haylliy"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "tsiltsilkunawan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "shema"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Yahweta haylliy"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "tsiltsilkunawan"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "terua"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:54.495861670Z",
+  "model": "glm-5.3"
+}

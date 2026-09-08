@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Khuyakuqmi Yahwe, hinaspa cheqachuq; hinaspa Elohimninchikqa llaqta khuyaqmi.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "khuyakuq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "hinaspa cheqachuq"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "hinaspa Elohimninchik"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "llaqta khuyaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:22:15.573598389Z",
+  "model": "glm-5.3"
+}

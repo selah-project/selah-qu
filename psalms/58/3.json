@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 58,
+  "translation": "Aswanpas, sunqupi mana allinta rurankichikmi; hallp'apipas makiykichikpa nanachiyninta tupuchinkichik.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "aswanpas"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "sunqupi"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "rurankichik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'apipas"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "nanachiyninta"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "makiykichikpa"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "tupuchinkichik"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:55.960701948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Hinaspa ⟨את⟩ willkakuynin mishk'achaqta ruwarqan, Willka-m, hinaspa ⟨את⟩ q'urpa sumaq samikunap pure nisqatawan, ruraq-rokhehpa llamk'aynin hina.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "willkakuynin mishk'achaqta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "willka"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mishk'achaq"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Willka-m"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "q'urpa sumaq samikunap pure nisqatawan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "q'urpa"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "sumaq samikuna"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pure"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "llamk'aynin"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ruraq-rokhehpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:05.907878438Z",
+  "model": "glm-5.3"
+}

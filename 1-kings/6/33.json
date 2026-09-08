@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chayhinallataqmi heikalpa punkunpaq ruwarqan zativukunata zeytuna sach'akunamanta, ⟨את⟩ tawa patamanta.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "chayhinallataq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "punkunpaq"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heikalpa"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "zativukunata"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zeytuna"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ...manta",
+      "marks": "tawa patamanta"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "tawa pata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:01:27.461384083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Elihutaq Iyobta ⟨את⟩ rimasqanmanta rimayta suyarqanmi, imaraykuchus paykuna p'unchawkunapi paymanta kurakmi karqanku.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "Elihutaq"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "suyarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyobta"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobta"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "rimasqanmanta rimayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "kurak"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "p'unchawkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:16:31.269448847Z",
+  "model": "glm-5.3"
+}

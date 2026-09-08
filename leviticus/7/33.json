@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Aharonpa churinkunamanta shelamimpa ⟨את⟩ yawarta hinaspa ⟨את⟩ untuta qopaqman, paymanmi paña chankata chanapaq kanqa.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "qopaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yawarta"
+    },
+    {
+      "surface": "דם",
+      "gloss": "yawar"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamimpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "untu"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "churinkunamanta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "chanka"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "pañan"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "chanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:52:41.261007419Z",
+  "model": "glm-5.3"
+}

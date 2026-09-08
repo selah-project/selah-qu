@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Cheqniyoq runakunap allin kasqanwanmi llaqta kusikun, haqekunap chinkasqanwanmi qhapariy kusichay kanqa.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "allin kasqanwan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cheqniyoq runakunap"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "kusikun"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "chinkasqanwanmi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haqekunap"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "qhapariy kusichay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:40:15.521807849Z",
+  "model": "glm-5.3"
+}

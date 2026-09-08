@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yahwem chinchaypi hamunqa paypa runakunap kuraqkunawan, paypa umalliqninkunawan: qamkunam michata mikhurqankichik, wakcha chaskisqanta wasikunaykichikpim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "chinchaypi"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hamunqa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…wan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kuraqkuna"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runakunap"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "hinaspa paypa umalliqninkuna"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "qamkuna"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "mikhurqankichik"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "michata"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "chaskisqan"
+    },
+    {
+      "surface": "העני",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "wasikunaykichikpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:52:43.717503590Z",
+  "model": "glm-5.3"
+}

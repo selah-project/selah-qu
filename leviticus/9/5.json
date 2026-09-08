@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 9:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Moshepa kamachisqanta ⟨את⟩ aparqankum taripaypacha wasi ñawpaqman; chaymanta llapa ayllum Yahwep ñawpaqninman qayllakurqan hinaspa chaypi sayarqankum.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "aparqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamachisqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachisqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "taripaypacha"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "qayllakurqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ayllum"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "sayarqankum"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:50.927759174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "Imaraykuchus pay ñuqawanmi khuyakun, ñuqataq qispichisaq; hatunchachisaq, imaraykuchus pay Sutiyta riqsinmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "khuyakunmi"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "qispichisaq"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "hatunchachisaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "riqsinmi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Sutiyta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:01.589200067Z",
+  "model": "glm-5.3"
+}

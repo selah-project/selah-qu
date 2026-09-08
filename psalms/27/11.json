@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Yahwe, ñuqaman yachachiwaway ñanlwanhlta; pusariwaway chiqan ñanlpi, awqallanraykum.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "yachachiwaway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ñanlwanhlta"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "pusariwaway"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "chiqan ñanlpi"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "chiqan ñanl"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…raykum"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "awqallanrayku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:14.296718005Z",
+  "model": "glm-5.3"
+}

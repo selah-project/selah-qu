@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Kohenkunawan levitakunawan p'akichikurqankum; chaymanta ⟨את⟩ runakunata, ⟨את⟩ punkukunata, ⟨את⟩ pircatapas p'akichikurqankum.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "p'akichikurqankum"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "hinaspa levitakuna"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "p'akichikurqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "punkukunata"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "punkukuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "pircata"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "pirca"
+    }
+  ],
+  "timestamp": "2026-09-08T12:27:19.326928594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 28:30",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinaspa churankim ⟨את⟩ Urimta hinaspa ⟨את⟩ Tuminta taripay chusanman; kanqaku Aharonpa sonqonpa patanpi, Yahwep ñawpaqenpi yaykuspa; hinaspa Aharonqa ⟨את⟩ Israel churinkunap taripayninta apakunqam sonqonpa patanpi, Yahwep ñawpaqenpi, wiñayta.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "churankim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "chusanman"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "taripay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urimta"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urimta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tuminta"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tuminta"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sonqonpa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "yaykuspa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqenpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "apakunqam"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taripayninta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "taripayninta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sonqonpa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqenpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñayta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:58.732003095Z",
+  "model": "glm-5.3"
+}

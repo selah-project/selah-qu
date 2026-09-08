@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa ⟨את⟩ Yehudap (Judá) p'achanta paskarqanku; chay p'unchawtaq armasuntikunaman qhawarqanki Sach'a Wasiman (Beth Yaarman).",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "paskarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehudap p'achanta"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "p'achanta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap (Judá)"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "qhawarqanki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "armasuntikunaman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Sach'a (Yaar)"
+    }
+  ],
+  "timestamp": "2026-09-08T06:06:41.139800308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Wak runapaq jatarichiq runaqa millaywan nanachikunmi; hinaspa maki takachiyta chiqniq runataq wisch'usqam kachkan.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "millaywan"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "nanachikun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(jatarichiq kaptin)"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "jatarichiq"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wak runapaq"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "hinaspa chiqniq"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "maki takachiy"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "wisch'usqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:42:21.574684736Z",
+  "model": "glm-5.3"
+}

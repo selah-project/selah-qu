@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "2-chronicles 28:25",
+ "book": "2-chronicles",
+ "lang": "qu",
+ "chapter": 28,
+ "translation": "Chayllawan Yehudap sapa llaqtanpi hanaq wasichakunata ruwarqan wak dioskunaman q'urwachaypaq, hinaspa ⟨את⟩ Yahweta, awkinkunap Elohimta phinachirqan.",
+ "tokens": [
+  {
+   "surface": "ובכל",
+   "gloss": "chayllawan ... sapa ... -pi"
+  },
+  {
+   "surface": "עיר",
+   "gloss": "llaqtanpi"
+  },
+  {
+   "surface": "ועיר",
+   "gloss": "llaqtanpi llaqta"
+  },
+  {
+   "surface": "ליהודה",
+   "gloss": "Yehudap"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "ruwarqan"
+  },
+  {
+   "surface": "במות",
+   "gloss": "hanaq wasichakunata"
+  },
+  {
+   "surface": "לקטר",
+   "gloss": "q'urwachaypaq"
+  },
+  {
+   "surface": "לאלהים",
+   "gloss": "dioskunaman"
+  },
+  {
+   "surface": "אחרים",
+   "gloss": "wak"
+  },
+  {
+   "surface": "ויכעס",
+   "gloss": "phinachirqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahweta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweta"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "Elohimta"
+  },
+  {
+   "surface": "אבתיו",
+   "gloss": "awkinkunap"
+  }
+ ],
+ "timestamp": "2026-09-08T13:11:24.337759322Z",
+ "model": "glm-5.3"
+}

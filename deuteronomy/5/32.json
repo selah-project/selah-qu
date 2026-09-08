@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Waqaychaykichik ruwanaykichikpaq, imahina Yahwe Elohimniykichik kamachirqanmi ⟨את⟩ qamkunata: mana pañaman ichaq lluqiman t'ikrasqaykichikchu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Waqaychaykichik"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanaykichikpaq"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imahina"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata (kamachisqa)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "t'ikrasqaykichikchu"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "pañaman"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "ichaq lluqiman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:30:21.856570472Z",
+  "model": "glm-5.3"
+}

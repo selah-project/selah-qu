@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Hanaq pacha hallp'ata hanay kasqanhinam, paypa jesednin payta manachaqkunapi sinchim atipan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hinam"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "hanay kasqan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "על",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "sinchim atipan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "paypa jesednin"
+    },
+    {
+      "surface": "על",
+      "gloss": "...pi"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "payta manachaqkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:09.710827508Z",
+  "model": "glm-5.3"
+}

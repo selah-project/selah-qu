@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 118,
+  "translation": "Duchakuwanmi ñuqata urayachiyta ñawparqanki, icha Yahwem ñuqata yanaparqanmi.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "duchakuwanmi"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "ñuqata urayachiyta ñawparqanki"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "urayachiyta"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "icha Yahwem"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ñuqata yanaparqanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:44.818503376Z",
+  "model": "glm-5.3"
+}

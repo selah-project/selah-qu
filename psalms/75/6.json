@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 75,
+  "translation": "Ama hanaqman wiqraykichikta huqarichichu, ama kunkawan mana p'inqayniyuq rimayta rimarichichu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "huqarichichu"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "hanaqman"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "wiqraykichikta"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "rimarichichu"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "kunkawan"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "mana p'inqayniyuq rimayta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:27.588013044Z",
+  "model": "glm-5.3"
+}

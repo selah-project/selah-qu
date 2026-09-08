@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 34:20",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Chaysi apum kamachirqan ⟨את⟩ Chilquiyahuta, ⟨את⟩ Achikamta Shafanpa churinta, ⟨את⟩ Avdonta Mijahpa churinta, ⟨את⟩ Shafan qillqaqta, ⟨את⟩ Asayahta apupa yanapaqninta, nispa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilquiyahuta"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilquiyahuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Achikamta"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Achikamta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafanpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Avdonta"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdonta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mijahpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Shafan qillqaqta"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "qillqaqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Asayahta"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asayahta"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yanapaqninta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:21:13.132609363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Ch'inlla tukuchun llulla wirpakuna, cheqa runamanta rimaspa, mana p'inqayniyuq, ancha k'iku kaspa hinaspa q'uchuspa.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "ch'inlla tukuchun"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "wirpakuna"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "rimaspa"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cheqa runa"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "mana p'inqayniyuq"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "ancha k'iku kaspa"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "hinaspa q'uchuspa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:39.813961082Z",
+  "model": "glm-5.3"
+}

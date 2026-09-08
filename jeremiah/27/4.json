@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinallata kamachiy ⟨את⟩ paykunata apunkunaman nispa: kayta nirqanmi Yahwe Tsebaot, Israelpa Elohimnin: kayta ninkichik apunmankichik.",
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "kamachiy"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata (willaqkunata)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "apunkunaman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ninkichik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "apunmankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T07:15:57.599473201Z",
+  "model": "glm-5.3"
+}

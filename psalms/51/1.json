@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Kamachiqman mizmor (salmo), Davidpa (David).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kamachiqman"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (salmo)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa (David)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:13.066593456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 13:1",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Yahwem rimarqan Mosheman (Moisés), hinaspa Aharonman (Aarón) nispa:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa …man"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:59:53.309819732Z",
+  "model": "glm-5.3"
+}

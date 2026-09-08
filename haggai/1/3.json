@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymanta Yahwepa simin Chagi naviq makinpi karqan, nispa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Chaymanta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinpi"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Chagi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "naviq"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:15:41.998490739Z",
+  "model": "glm-5.3"
+}

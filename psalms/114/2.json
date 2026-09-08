@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 114,
+  "translation": "Yehudahqa paypa santu wasinman tukurqanmi, Israeltaq paypa kamachikuyninman",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "tukurqanmi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudahqa"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "paypa santu wasinman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeltaq"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "paypa kamachikuyninman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:03.935948199Z",
+  "model": "glm-5.3"
+}

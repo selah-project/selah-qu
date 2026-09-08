@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Sunquyki sayarimanaptinqa, qam ⟨את⟩ Yahweta Elohimniykita qunqanki — qamta lluqsichiqmi Mitsrayim (Egipto) hallp'amanta, yanakuna wasimanta.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "sayarimanaptinqa"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "sunquyki"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "qunqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta Elohimniykita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "qamta lluqsichiq"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasimanta"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yanakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T02:34:16.780655420Z",
+  "model": "glm-5.3"
+}

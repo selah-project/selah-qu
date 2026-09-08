@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Tutapas qamanta pakakunchu; hinallataq tutaqa p'unchaw hina k'anchanmi; laqhaqa k'anchay hinallam.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "tutapas"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "pakakunchu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "qamanta"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "hinallataq tutaqa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "p'unchaw hina"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "k'anchanmi"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "laqhaqa"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "k'anchay hinalla"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:53.111985790Z",
+  "model": "glm-5.3"
+}

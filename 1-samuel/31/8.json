@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Qhipaq p'unchawtam filistu runakuna wañusqakunata llanchaq shamurqanku, chaymanta Shaulta tarirqanku, kimsa churiyintintapas, Gilboa orqopi t'ikrasqata.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kaptin"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "qhipaq p'unchaw"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "shamurqanku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistu runakuna"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "llanchaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wañusqakunata"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "wañusqakunata"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "tarirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaulta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kimsa churiyintinta"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churiyintinta"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "t'ikrasqa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqopi"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:32:01.559087290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Mosheqa ⟨את⟩ Yahwepa tukuy siminkunata qillqarqan; paqarinllata sayarirqan, urap ukhunpi mizbeajta (altar) sayarichirqan, hinallataq Israelpa iskay chunka ayllukunanpaq iskay chunka sayaq rumita.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "qillqarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy siminkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "siminkunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "paqarinllata sayarirqan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "sayarichirqan"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeajta (altar)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ukhunpi"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "urap"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "hinaspa iskay"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "sayaq rumita"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ayllukunapa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T00:35:07.680545746Z",
+  "model": "glm-5.3"
+}

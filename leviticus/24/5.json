@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa ⟨את⟩ llimp'ita hurqunki, hinaspa payta wayk'unki chunka iskayniyuq t'antakunata: huk t'antapi iskay chunkak'ata ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "hurqunki"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "llimp'i"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "wayk'unki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "payta (chunka iskayniyuq t'antakunata)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "t'antakuna"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "chunkak'ata"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanmi"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-08T01:08:47.197464899Z",
+  "model": "glm-5.3"
+}

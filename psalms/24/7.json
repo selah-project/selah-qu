@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Umaykikita hanaq t'ikraychik, punkukuna; wiñay punkukuna, umaykikita hanaq t'ikraychik; chaysi gloriam apun yaykamunqam.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "hanaq t'ikraychik"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "punkukuna"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "umaykikita"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "hinaspa hanaq t'ikraychik"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "punkukuna"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "chaysi yaykamunqam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "gloriam"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:58.088671614Z",
+  "model": "glm-5.3"
+}

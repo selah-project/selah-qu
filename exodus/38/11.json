@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 38:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Hinaspam chinchay ladoman pachak amata; sayaqninku iskay chunkam, tiyanankunanku iskay chunka broncewan; sayaqkunap ganchonninku, watranninkupas qullqim.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "hinaspam ladoman"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "chinchay"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amata"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "sayaqninku"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "hinaspa tiyanankunanku"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "broncewan"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "gancho"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "sayaqkunap"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "hinaspa watranninku"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:02.650164307Z",
+  "model": "glm-5.3"
+}

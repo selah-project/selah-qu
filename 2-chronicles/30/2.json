@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 30:2",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Apun umalliqninkuwanwan, llapa aylluntinwan Yerushalayimpi masinakurqanku iskay kaq killapi Pesachta ruwanankupaq.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "masinakurqanku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "aylluntin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanankupaq"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesachta"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "killapi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay kaq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:17:47.240920135Z",
+  "model": "glm-5.3"
+}

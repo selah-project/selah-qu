@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Yahwem payman ruwarqan imayna ñuqap makiwan willasqan hina; Yahwem ⟨את⟩ mamallaktata qampak makiykimanta ch'usaqyarparirqan, hinaspa payta qampa masiykiman, Davidman, kurqan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imayna ... hina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "willasqan"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ñuqap makiwan"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ch'usaqyarparirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mamallaktata"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mamallaktata"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "qampak makiykimanta"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "kurqan"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "qampa masiykiman"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:29:58.563164992Z",
+  "model": "glm-5.3"
+}

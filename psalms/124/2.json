@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 124,
+  "translation": "Yahwe mana kaptin ñuqanchikpaq, runakuna ñuqanchikman sayarimuqtin:",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "mana kaptin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikpaq"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "sayarimuqtin"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:33.559786903Z",
+  "model": "glm-5.3"
+}

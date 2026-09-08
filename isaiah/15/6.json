@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 15:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Imaraykum Nimrimpa ununkuna ch'usaq kanqa; imaraykum q'omer ch'akirqam, chhulla yura tukurqam, q'omer yura mana karqanchum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ununkuna"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "Nimrimpa"
+    },
+    {
+      "surface": "משמות",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ch'akirqam"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "q'omer"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tukurqam"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "chhulla yura"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "q'omer yura"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:03:43.464987254Z",
+  "model": "glm-5.3"
+}

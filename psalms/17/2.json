@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Qam ñawpaqykim taripakuyta lluqsimun; ñawiykilla cheqta rikunkum.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Qam ñawpaqyki"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "taripakuyta"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsimun"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ñawiyki"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "rikunku"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "cheqta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:48.243093132Z",
+  "model": "glm-5.3"
+}

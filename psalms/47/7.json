@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Elohimta takichiy, takichiy; apunchikta takichiy, takichiy.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "takichiy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "takichiy"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "takichiy"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "apunchikta"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "takichiy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:28.699677585Z",
+  "model": "glm-5.3"
+}

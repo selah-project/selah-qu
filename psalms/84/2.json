@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 84,
+  "translation": "Ima k'uyaqmi Yahwe Tsebaot, qampa mishkunaykikuna!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "k'uyaq"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "mishkunaykikuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:35.512587972Z",
+  "model": "glm-5.3"
+}

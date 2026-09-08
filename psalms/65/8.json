@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Upallachinmi mamakuchap t'uqyayninta, chalankup t'uqyayninta, runa llaqtakunap huñunakuynintawan.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "upallachin"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "t'uqyayninta"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mamakuchap"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "t'uqyayninta"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "chalankup"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "hinaspa huñunakuyninta"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "runa llaqtakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:21.875440956Z",
+  "model": "glm-5.3"
+}

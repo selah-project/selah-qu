@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Olahkunawan wasiykiman hamusaqmi; qamman nadraniyta hunt'achisaq.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "hamusaqmi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wasiykiman"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "olahkunawan"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "hunt'achisaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "nadraniyta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:20.850523477Z",
+  "model": "glm-5.3"
+}

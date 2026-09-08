@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Askha kayninkuman hina ñuqaman jutiyarqankum; sumaq kayninkunta p'inqaymanmi tikrasaq.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "askha kayninkuman hina"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "jutiyarqankum"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "sumaq kayninkunta"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "p'inqayman"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "tikrasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T08:45:45.575158552Z",
+  "model": "glm-5.3"
+}

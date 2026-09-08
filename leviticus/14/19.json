@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa kohenqa ⟨את⟩ jatat'a ofrendata ruwanqam, hinaspa p'inqasqa runata iwraynimmanta pampachanqam; chaymantaq ⟨את⟩ olah ofrendata wañuchinqa.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "hinaspa ruwanqam"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jatat'a ofrendata"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "jatat'a ofrenda"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "hinaspa pampachanqam"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "p'inqasqa runata"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "iwraynimmanta"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "chaymantaq"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "wañuchinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah ofrendata"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah ofrenda"
+    }
+  ],
+  "timestamp": "2026-09-08T00:58:29.380818589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Israelm ⟨את⟩ llapan chay llaqtakunata hap'irqan; Israelm Ha'emori llaqtakunapi llapampi tiyakurqan, Heshbonpi hinaspa llapan waminkunapipin.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan chay llaqtakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "chay"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyakurqan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapampi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "llaqtankunapi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Ha'emoripa"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heshbonpi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "hinaspa llapampi"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "waminkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T01:35:39.043980937Z",
+  "model": "glm-5.3"
+}

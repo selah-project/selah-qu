@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Yahwem Satanta nirqan: Qhawariy, payqa makiykipim ⟨kan⟩; ⟨את⟩ kawsaynintalla waqaychay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Hinaspa nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satanta"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "makiykipim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "lla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kawsayninta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "kawsayninta"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "waqaychay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:57:12.552140610Z",
+  "model": "glm-5.3"
+}

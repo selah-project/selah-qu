@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "deuteronomy 27:5",
+ "book": "deuteronomy",
+ "lang": "qu",
+ "chapter": 27,
+ "translation": "Chaymanta chaypi mizbeajta (altar) ruwanki Yahwepaq, Elohimniykipaq: rumikunamanta mizbeajta; chay rumikunaman q'illayta (barzel, hierro) mana llampankichu.",
+ "tokens": [
+  {
+   "surface": "ובנית",
+   "gloss": "chaypi ruwanki"
+  },
+  {
+   "surface": "שם",
+   "gloss": "chaypi"
+  },
+  {
+   "surface": "מזבח",
+   "gloss": "mizbeajta"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahwepaq"
+  },
+  {
+   "surface": "אלהיך",
+   "gloss": "Elohimniykipaq"
+  },
+  {
+   "surface": "מזבח",
+   "gloss": "mizbeajta"
+  },
+  {
+   "surface": "אבנים",
+   "gloss": "rumikunamanta"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "תניף",
+   "gloss": "llampankichu"
+  },
+  {
+   "surface": "עליהם",
+   "gloss": "chay rumikunaman"
+  },
+  {
+   "surface": "ברזל",
+   "gloss": "q'illayta (barzel, hierro)"
+  }
+ ],
+ "timestamp": "2026-09-08T02:53:52.268392638Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Ñuqam yachay kani; amawta yuyaywan tiyanim, imarqakuna yachayta tarinim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachay"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "tiyanim"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "amawta yuyaywan"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "imarqakuna"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "tarinim"
+    }
+  ],
+  "timestamp": "2026-09-08T10:38:42.266815463Z",
+  "model": "glm-5.3"
+}

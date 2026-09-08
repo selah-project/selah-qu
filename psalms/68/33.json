@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Hallp'ap apukuna, Elohimman takichiy; Adonayta zamarilla takichiy — Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "takichiy"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zamarilla takichiy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:28.830677314Z",
+  "model": "glm-5.3"
+}

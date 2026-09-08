@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 30:20",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Adonaym qamkunaman nanatsiq t'anta, hinaspa llaqllachiq unatapis qusaq; chaymanta qamkunapak yachachiqniykichikqa ñañaña pakakunqachu; ñawiykichikmi ⟨את⟩ yachachiqniykichikta rikhuq kanqaku.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonaym"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nanatsiq"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "hinaspa unata"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "llaqllachiq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ñañaña …chu"
+    },
+    {
+      "surface": "יכנף",
+      "gloss": "pakakunqa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ña"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "yachachiqniykichik"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ñawiykichik"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "rikhuq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yachachiqniykichikta"
+    },
+    {
+      "surface": "מוריך",
+      "gloss": "yachachiqniykichikta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:15:53.762209599Z",
+  "model": "glm-5.3"
+}

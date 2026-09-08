@@ -1,0 +1,60 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "2-chronicles 11:10",
+ "book": "2-chronicles",
+ "lang": "qu",
+ "chapter": 11,
+ "translation": "Hinaspa ⟨את⟩ Tsorata (Zora), hinaspa ⟨את⟩ Ayalonta (Ajalón), hinaspa ⟨את⟩ Jevron (Hebrón) llaqtata, mayqinkunachus Yehuda ukhupi, Binyamin ukhupipas karqan — saywachisqa llaqtakuna mit'a amachanawan.",
+ "tokens": [
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Tsorata"
+  },
+  {
+   "surface": "צרעה",
+   "gloss": "Tsorata"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Ayalonta"
+  },
+  {
+   "surface": "אילון",
+   "gloss": "Ayalonta"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Jevronta"
+  },
+  {
+   "surface": "חברון",
+   "gloss": "Jevron llaqtata"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqinkunachus"
+  },
+  {
+   "surface": "ביהודה",
+   "gloss": "Yehuda ukhupi"
+  },
+  {
+   "surface": "ובבנימן",
+   "gloss": "Binyamin ukhupipas"
+  },
+  {
+   "surface": "ערי",
+   "gloss": "llaqtakuna"
+  },
+  {
+   "surface": "מצרות",
+   "gloss": "saywachisqa mit'a amachanawan"
+  }
+ ],
+ "timestamp": "2026-09-08T12:58:38.400780050Z",
+ "model": "glm-5.3"
+}

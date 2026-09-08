@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Siminpa rimaynkunaqa llaklla hinaspa llulla qatim; allin yachayta, allin ruraytawan saqir qarqan.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "rimaynkuna"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "siminpa"
+    },
+    {
+      "surface": "און",
+      "gloss": "llaklla"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "hinaspa llulla qati"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "saqir qarqan"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "allin yachayta"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "allin rurayta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:35.716235052Z",
+  "model": "glm-5.3"
+}

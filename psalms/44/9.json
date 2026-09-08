@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Elohimpi llamk'apaykurqanchik tukuy p'unchaw, hinaspa Sutiykiqa wiñaypaq yupaychasaqku. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimpi"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "llamk'apaykurqanchik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "hinaspa Sutiykiqa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "yupaychasaqku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:37.190719225Z",
+  "model": "glm-5.3"
+}

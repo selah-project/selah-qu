@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Hinaspa rurankim ⟨את⟩ efodpa mantunta, hunt'allam anqaswan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "rurankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantunta"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "mantunta"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodpa"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "hunt'alla"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "anqaswan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:58.732308815Z",
+  "model": "glm-5.3"
+}

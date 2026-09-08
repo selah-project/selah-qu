@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 22:10",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa Ajaziyahupa mamannsi Atalyahum wawqen wañusqanta rikurqan; sayarirqanmi, hinaspa ⟨את⟩ Judahpa (Judá) wasin mamallaktap tukuy musuyninta wañuchirqan.",
+  "tokens": [
+    {
+      "surface": "ועתליהו",
+      "gloss": "Atalyahum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mamannsi"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ajaziyahupa"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wañusqanta"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wawqen (churin)"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "sayarirqanmi"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy musuyninta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "musuyninta"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mamallaktap"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judahpa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:10:30.940148718Z",
+  "model": "glm-5.3"
+}

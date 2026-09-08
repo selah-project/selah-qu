@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ish-Boshet (Is-boset)m kacharqan, payta huk qharimanta hukarqan: Paltiel (Faltiel)manta, Lush (Lais)pa churinmanta.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqanm"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-Boshet"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "(Is-boset)"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "payta hukarqan"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "manta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk qhari"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "manta"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Paltiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Lush"
+    }
+  ],
+  "timestamp": "2026-09-08T13:35:37.477734556Z",
+  "model": "glm-5.3"
+}

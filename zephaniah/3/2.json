@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "zephaniah 3:2",
+ "book": "zephaniah",
+ "lang": "qu",
+ "chapter": 3,
+ "translation": "Mana siminta uyariqchu, mana yachachikuyta chaskirqanchu; Yahwepi mana suyakurqanchu, Elohimninman mana qayllakurqanchu.",
+ "tokens": [
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "שמעה",
+   "gloss": "uyariq"
+  },
+  {
+   "surface": "בקול",
+   "gloss": "siminta"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "לקחה",
+   "gloss": "chaskirqan"
+  },
+  {
+   "surface": "מוסר",
+   "gloss": "yachachikuyta"
+  },
+  {
+   "surface": "ביהוה",
+   "gloss": "Yahwepi"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "בטחה",
+   "gloss": "suyakurqan"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "אלהיה",
+   "gloss": "Elohimnin"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "קרבה",
+   "gloss": "qayllakurqan"
+  }
+ ],
+ "timestamp": "2026-09-08T09:14:54.525236378Z",
+ "model": "glm-5.3"
+}

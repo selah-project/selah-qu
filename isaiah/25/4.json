@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 25:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Imaraykuchus wakchapa sinthinmi karqanki, muchuyuqpa sinthin paypa muchayninpi; wayramanta hark'awan, hinomanta llanthun hina; imaraykuchus sinchi apukunap wayraqa pirwa wayra hina qirqapi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "היית",
+      "gloss": "karqanki"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "sinthin"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "wakchapa"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "sinthin"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "muchuyuqpa"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "muchayninpi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "hark'awan"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "wayramanta"
+    },
+    {
+      "surface": "צל",
+      "gloss": "llanthun"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "hinomanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "sinchi apukunap"
+    },
+    {
+      "surface": "כזרם",
+      "gloss": "pirwa wayra hina"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "qirqapi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:09:17.852795455Z",
+  "model": "glm-5.3"
+}

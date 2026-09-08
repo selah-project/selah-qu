@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "¿Pumataq sach'a-sach'api rawiykunqa, manaraq chaskisqan kachkaptin? ¿Puma wawataq wasinmanta kunkanta qichunqa, mana chaskisqata kachkaspachu?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "rawiykunqa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "puma"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "sach'a-sach'api"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "hinaspa chaskisqan"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "qichunqa"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "puma wawa"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "kunkanta"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "wasinmanta"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "chaskisqata"
+    }
+  ],
+  "timestamp": "2026-09-08T14:07:30.704381548Z",
+  "model": "glm-5.3"
+}

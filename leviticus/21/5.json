@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Umankupi q'arachayta mana ruwankuchu, sunk'ankupa laruntapas mana q'urunkuchu, hinallataq aychankupipas k'itita mana ruwankuchu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "q'arachayta ruwanku"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "q'arachay"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "umankupi"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "hinallataq larun"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "sunk'anku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "q'urunkuchu"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "hinallataq aychankupipas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "k'itita ruwankuchu"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "k'itina"
+    }
+  ],
+  "timestamp": "2026-09-08T01:06:31.194911196Z",
+  "model": "glm-5.3"
+}

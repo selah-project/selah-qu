@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Riqsichikunawanmaskuna, haykullapa qhawallapaya Elohimpa rurasqankunata; runakunap wawankunamanmanta llasaq mancharichiqmi.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "riqsichikunawanmaskuna, haykullapa"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "qhawallapaya"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "rurasqankunata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "mancharichiqmi"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "llasaq ruraynin"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunaman"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:54.769402451Z",
+  "model": "glm-5.3"
+}

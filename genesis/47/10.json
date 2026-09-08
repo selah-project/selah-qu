@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Hinaspa Yaakov ⟨את⟩ Parota bendijirqanm, Paropa ñawpaqninta lluqsiyarqan.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "bendijirqanm"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parota"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsiyarqan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqninta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:16:02.329253918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Qhaway, qamta q'olleykachirqanim, ichaqa mana qullqi hinachu; qamta akllarqanim llakikuy wasipi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "qamta q'olleykachirqanim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichaqa mana"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "qullqi hinachu"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "qamta akllarqanim"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "llakikuy"
+    }
+  ],
+  "timestamp": "2026-09-08T06:26:36.184548420Z",
+  "model": "glm-5.3"
+}

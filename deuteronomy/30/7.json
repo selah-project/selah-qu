@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Yahwe Elohimniyki ⟨את⟩ llapa kay laqhaykuna awqaykikunap patanman churanqam, qamta ch'ikiykukunapampas, mayqinkuna qamta qatirqanku chaykunapampas.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "churanqam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa kay laqhaykuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "laqhaykuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanman"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaykikunap"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "…pampas"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "ch'ikiykukunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "qamta qatirqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T03:02:06.177720104Z",
+  "model": "glm-5.3"
+}

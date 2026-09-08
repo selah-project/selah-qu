@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinantam yawmanta hurquspa iskay punku sayawkunapatan hinaspa punku patantan churanku, wasikunapi mayqinkunachus chaypi ⟨את⟩ payta mikhunku.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "hinantam hurqunqaku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "yaw"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "hinataq churanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "punku sayawkuna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinallataq patapi"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "punku patan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "wasikuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunapi"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhunku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta (chay seh)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:50.870907153Z",
+  "model": "glm-5.3"
+}

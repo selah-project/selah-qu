@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 59:20",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Hinaspa Tsiyonman qispichiqmi chayamunqa, hinaspa Yaakovpi p'iyanakuyta saqipaqkunamanpas, Yahwepa nisqanmi.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "chayamunqam"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "Tsiyonman"
+    },
+    {
+      "surface": "גואל",
+      "gloss": "qispichiq"
+    },
+    {
+      "surface": "ולשבי",
+      "gloss": "hinaspa saqipaqkunamanpas"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "p'iyanakuyta"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaakovpi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nisqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:39:44.717704248Z",
+  "model": "glm-5.3"
+}

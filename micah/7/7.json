@@ -1,0 +1,45 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "micah 7:7",
+ "book": "micah",
+ "lang": "qu",
+ "chapter": 7,
+ "translation": "Ñuqataq Yahwepi qhawasaq, qhaliyachikuymi llapan Elohimniyta suyasaq; Elohimniymi ñuqata uyarinqam.",
+ "tokens": [
+  {
+   "surface": "ואני",
+   "gloss": "ñuqataq"
+  },
+  {
+   "surface": "ביהוה",
+   "gloss": "Yahwepi"
+  },
+  {
+   "surface": "אצפה",
+   "gloss": "qhawasaq"
+  },
+  {
+   "surface": "אוחילה",
+   "gloss": "qhaliyachikuymi llapan suyasaq"
+  },
+  {
+   "surface": "לאלהי",
+   "gloss": "Elohimniyta"
+  },
+  {
+   "surface": "ישעי",
+   "gloss": "qhalichiymi"
+  },
+  {
+   "surface": "ישמעני",
+   "gloss": "uyarinqam"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "Elohimniymi"
+  }
+ ],
+ "timestamp": "2026-09-08T09:09:28.810670084Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "leviticus 4:6",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Ch'ustiyurqanmi kohen ⟨את⟩ ruph'anta yawarpi, hinaspa ch'utirqanmi yawarmanta qanchis kutita Yahwe ñawpaqenpi, ⟨את⟩ santo parokhetpa ñawpaqenpi.",
+ "tokens": [
+  {
+   "surface": "וטבל",
+   "gloss": "ch'ustiyurqan"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohen"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "ruph'anta"
+  },
+  {
+   "surface": "אצבעו",
+   "gloss": "ruph'anta"
+  },
+  {
+   "surface": "בדם",
+   "gloss": "yawarpi"
+  },
+  {
+   "surface": "והזה",
+   "gloss": "ch'utirqan"
+  },
+  {
+   "surface": "מן",
+   "gloss": "manta"
+  },
+  {
+   "surface": "הדם",
+   "gloss": "yawar"
+  },
+  {
+   "surface": "שבע",
+   "gloss": "qanchis"
+  },
+  {
+   "surface": "פעמים",
+   "gloss": "kuti"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "ñawpaqenpi"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "santo parokhetpa ñawpaqenpi"
+  },
+  {
+   "surface": "פני",
+   "gloss": "ñawpaqen"
+  },
+  {
+   "surface": "פרכת",
+   "gloss": "parokhet"
+  },
+  {
+   "surface": "הקדש",
+   "gloss": "santo"
+  }
+ ],
+ "timestamp": "2026-09-08T00:51:46.664816422Z",
+ "model": "glm-5.3"
+}

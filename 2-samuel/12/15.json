@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Natan wasinman rirqan. Hinaspa Yahweqa ⟨את⟩ Uriyap warmim Davidpaq wachasqan churiyta t'aqwarqan; churiqa mana hampiy atina onqowan karqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "t'aqwarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churiyta"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "churi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wachasqan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpaq"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "mana hampiy atina karqan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:41:56.329294740Z",
+  "model": "glm-5.3"
+}

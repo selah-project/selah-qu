@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 52,
+  "translation": "Kamachiqman. Yachachina qillqa, Davidpa (Davidpa).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kamachiqman"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Yachachina qillqa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa (Davidpa)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:58.901310513Z",
+  "model": "glm-5.3"
+}

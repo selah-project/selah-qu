@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "hinaspa ⟨את⟩ Ofirta, hinaspa ⟨את⟩ Chavilahpa, hinaspa ⟨את⟩ Yobavta; llapan kaykuna Yoktanpa churinkunami karqan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Ofirta"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Chavilahpa"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yobavta"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yobav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktanpa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:28:34.944645920Z",
+  "model": "glm-5.3"
+}

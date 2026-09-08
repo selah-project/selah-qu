@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "Yahwepaq tiyanatam tarillaykama, Abir (Llapa Atiyniyuq) Yaakovpaq mishkanlata kama.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "tarillay"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tiyanata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mishkanlata"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Abirpaq"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:58.200503576Z",
+  "model": "glm-5.3"
+}

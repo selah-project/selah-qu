@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 82,
+  "translation": "Sayariy, Elohim, hallp'ata taripay; imaraykuchus qammi llapan runa llaqtakunap mirasninta chaskinki.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "taripay"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "mirasninta chaskinki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "runa llaqtakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:16.017142406Z",
+  "model": "glm-5.3"
+}

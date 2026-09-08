@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaysi Israelpa churinkunaqa Yahwep ñawinkunapi ⟨את⟩ mana allinta rurarqankum, chaysataq ⟨את⟩ Baalkunata qatirqankum.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "rurarqankum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana allinta"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinkunapi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "qatirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalkunata"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T03:34:02.127981361Z",
+  "model": "glm-5.3"
+}

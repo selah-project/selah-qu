@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Herenciata Israelpaq, paypa kamachikuqninpaqmi, imaraykuchus wiñay kamanataqmi paypa jesednin.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "Herenciata"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelpaq"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "paypa kamachikuqninpaqmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kamanataqmi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "paypa jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:50.606894865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Runap rurasqankunamanta, wirpaykipa siminwanm ñuqa ch'eqta runap ñankunamanta waqaykurqanim.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "rurasqankunamanta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "siminwan"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "wirpaykipa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "waqaykurqani"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ñankunamanta"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "ch'eqta runap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:48.243337661Z",
+  "model": "glm-5.3"
+}

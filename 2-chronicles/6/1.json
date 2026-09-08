@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaym Shelomo (Salomón) nirqan: Yahwem nirqan añaq llaqllapi tiyananpaq.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "chaym"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "tiyananpaq"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "añaq llaqllapi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:55:17.851415914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Kunantaq paypa mana allin kayninta paskasaq munaraqninkunap ñawinpa ñawpanpi ⟨את⟩; manam pipas qispichinqachu payta ñuqap makimanta.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunantaq"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "paskasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mana allin kayninta"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "mana allin kayninta"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ñawinpa ñawpanpi"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "munaraqninkunap"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "pipas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "qispichinqachu"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ñuqap makimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:45:31.292316302Z",
+  "model": "glm-5.3"
+}

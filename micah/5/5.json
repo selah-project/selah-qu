@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Ashurpa hallp'antam ⟨את⟩ simanawan michunqaku, hinaspa ⟨את⟩ Nimrodpa hallp'antawan punkunkunapi; Ashurmanta qispichinqaku, ñuqanchikpa hallp'anchikman chayamunaptinmi, hinaspa ñuqanchikpa saywanchikman chakinwan chayamunaptinpas.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "michunqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "simanawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hallp'a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "punkunkunapi"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "qispichinqaku"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ashurmanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "icha"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "chayamunqa"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ñuqanchikpa hallp'anchikman"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "hinaspa icha"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "chakinwan purinqa"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "ñuqanchikpa saywanchikman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:10:32.267545001Z",
+  "model": "glm-5.3"
+}

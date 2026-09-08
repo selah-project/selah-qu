@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Llaqta kuraqkunata ⟨את⟩, ch'usaq pachap kichkakunatawan ⟨את⟩, tikanakunatawan ⟨את⟩ hap'irqanmi; chaywanmi Sukot runakunata ⟨את⟩ yachachirqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llaqta kuraqkunata"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kuraqkuna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kichkakunata"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "kichkakuna"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ch'usaq pacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tikanakunata"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "tikanakuna"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "yachachirqan"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaywan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukot runakunata"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukot"
+    }
+  ],
+  "timestamp": "2026-09-08T03:44:19.294211572Z",
+  "model": "glm-5.3"
+}

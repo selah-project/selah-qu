@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 2:6",
+  "book": "malachi",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Cheqa yachayniyuq Tora siminpi karqanmi, haqellakuytaq siminkunapipas mana tarikurqanchu; thakillawan, cheqallawan ⟨את⟩ ñuqawan purirqan, askhakunatataq haqellakuymanta kutichirqan.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqa yachayniyuq"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "siminpi"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "haqellakuytaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "tarikurqanchu"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "siminkunapipas"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "thakillawan"
+    },
+    {
+      "surface": "ובמישור",
+      "gloss": "cheqallawan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqawan",
+      "marks": "ñuqawan (Yahwewan)"
+    },
+    {
+      "surface": "ורבים",
+      "gloss": "askhakunatataq"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "kunichirqan"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "haqellakuymanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:56.001816293Z",
+  "model": "glm-5.3"
+}

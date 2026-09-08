@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "proverbs 16:18",
+ "book": "proverbs",
+ "lang": "qu",
+ "chapter": 16,
+ "translation": "T'ikrasqan ñawpaqninmi hach'a kay; sarunasqan ñawpaqnintaqmi hanaq samay.",
+ "tokens": [
+  {
+   "surface": "לפני",
+   "gloss": "ñawpaqnin"
+  },
+  {
+   "surface": "שבר",
+   "gloss": "t'ikrasqan"
+  },
+  {
+   "surface": "גאון",
+   "gloss": "hach'a kay"
+  },
+  {
+   "surface": "ולפני",
+   "gloss": "hinaspa ñawpaqnin"
+  },
+  {
+   "surface": "כשלון",
+   "gloss": "sarunasqan"
+  },
+  {
+   "surface": "גבה",
+   "gloss": "hanaq"
+  },
+  {
+   "surface": "רוח",
+   "gloss": "samay"
+  }
+ ],
+ "timestamp": "2026-09-08T10:45:02.488301524Z",
+ "model": "glm-5.3"
+}

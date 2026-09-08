@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Mayatawan ñak'isqata taripanapaq, manam kay pachamanta runa raq mancharichinqachu.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "taripanapaq"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "maya"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ñak'isqatawan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "raq …chu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "mancharichinapaq"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pachamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:01.124306941Z",
+  "model": "glm-5.3"
+}

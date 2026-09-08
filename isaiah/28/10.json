@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Kamachiy kamachiypi, kamachiy kamachiypi; siqwi siqwipi, siqwi siqwipi; pisi chaypi, pisi chaypi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "צו",
+      "gloss": "kamachiy"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "kamachiypi"
+    },
+    {
+      "surface": "צו",
+      "gloss": "kamachiy"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "kamachiypi"
+    },
+    {
+      "surface": "קו",
+      "gloss": "siqwi"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "siqwipi"
+    },
+    {
+      "surface": "קו",
+      "gloss": "siqwi"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "siqwipi"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "pisi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:10:36.131196729Z",
+  "model": "glm-5.3"
+}

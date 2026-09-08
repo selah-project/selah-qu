@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Chaymanta apum kachamurqan, hinaspa Yehudapa (Yehuda) hinaspa Yerushalayimpa (Jerusalén) llapan kurakunata ⟨את⟩ huñurqan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kachamurqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "huñurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan kurakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "kurakunata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa (Yehuda)"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "hinaspa Yerushalayimpa (Jerusalén)"
+    }
+  ],
+  "timestamp": "2026-09-08T13:22:34.640163987Z",
+  "model": "glm-5.3"
+}

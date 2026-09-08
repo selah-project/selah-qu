@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Waytakunata, pardeskunatapas ñuqapaqmi ruwarqani; chaykunapitaq mallkikunata tarpurqani, tukuy ruruyuqta.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ruwarqani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "waytakunata"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "pardeskunatapas"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "tarpurqani"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaykunapitaq"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mallkikunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ruruyuq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:30.982090763Z",
+  "model": "glm-5.3"
+}

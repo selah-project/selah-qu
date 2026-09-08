@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Ñuqaman qichariy, ñuqaqam kutichisaqmi qampata, hinaspa willasaqmi qampaman hatun, mana chakusqa imakunata — chaykunataqa mana yachankichu.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "qichariy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "kutichisaqmi qampata"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "willasaqmi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaman"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "mana chakusqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "yachankichu"
+    }
+  ],
+  "timestamp": "2026-09-08T07:26:13.392777836Z",
+  "model": "glm-5.3"
+}

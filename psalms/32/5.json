@@ -1,0 +1,73 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "psalms 32:5",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 32,
+ "translation": "Jananchayta qampa willirqanimi, hinaspa awqaninta manam pakirqanichu; nirqani: huch'akunaymanta Yahweman willasqaymi, hinaspa qampas awqaninta hananchaypa aparqanki ⟨kan⟩mi. Sela.",
+ "tokens": [
+  {
+   "surface": "חטאתי",
+   "gloss": "hananchayta"
+  },
+  {
+   "surface": "אודיעך",
+   "gloss": "qampa willirqani"
+  },
+  {
+   "surface": "ועוני",
+   "gloss": "hinaspa awqaninta"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "כסיתי",
+   "gloss": "pakirqanichu"
+  },
+  {
+   "surface": "אמרתי",
+   "gloss": "nirqani"
+  },
+  {
+   "surface": "אודה",
+   "gloss": "willasqay"
+  },
+  {
+   "surface": "עלי",
+   "gloss": "manta"
+  },
+  {
+   "surface": "פשעי",
+   "gloss": "huch'akunay"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahweman"
+  },
+  {
+   "surface": "ואתה",
+   "gloss": "hinaspa qampas"
+  },
+  {
+   "surface": "נשאת",
+   "gloss": "aparqanki"
+  },
+  {
+   "surface": "עון",
+   "gloss": "awqaninta"
+  },
+  {
+   "surface": "חטאתי",
+   "gloss": "hananchaypa"
+  },
+  {
+   "surface": "סלה",
+   "gloss": "Sela"
+  }
+ ],
+ "timestamp": "2026-09-08T09:43:32.898329212Z",
+ "model": "glm-5.3"
+}

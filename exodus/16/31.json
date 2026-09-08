@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Chaymantam Israel wasi ⟨את⟩ paypa sutinta Man nirqan; payqa koriandru muruhina, yuraq; paypa malliyninqa misk'iwan ruwasqa phatasqa t'anta hina.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "suticharqankum"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa sutinta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "paypa sutin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "muru hina"
+    },
+    {
+      "surface": "גד",
+      "gloss": "koriandru"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "yuraq"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "paypa malliyninqa"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "phatasqa t'anta hina"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "misk'iwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:32:01.417959901Z",
+  "model": "glm-5.3"
+}

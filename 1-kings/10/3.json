@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Shelomontan willarqan ⟨את⟩ paypa rimasqankunata llapanta; mana ima karqanchu pakasqa apumanta mana willasqan kayqanqa.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "hinaspa willarqan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "paytan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa rimasqankunata llapanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "paypa rimasqankuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqanchu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "pakasqa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apumanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kayqanqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "willasqan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:07:15.782520617Z",
+  "model": "glm-5.3"
+}

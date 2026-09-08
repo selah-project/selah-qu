@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chaymi llapan Israel runakuna PelishtimkunaMAN urmaykurqanku, sapa runa ⟨את⟩ t'akllanta, hinaspa ⟨את⟩ lamp'anta, hinaspa ⟨את⟩ siqinta, hinaspa ⟨את⟩ pit'ananta t'ikranankupaq.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "urmaykurqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel runakuna"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "PelishtimkunaMAN"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "t'ikranankupaq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "t'akllanta"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "t'akllanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "lamp'anta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "lamp'anta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "siqinta"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "siqinta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "pit'ananta"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "pit'ananta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:12:19.817089819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 112,
+  "translation": "Qullqi quriwan wasinpi kashanqa; paypa cheqan kayninqa wiñaypaq sayashanqa.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "quriwan"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "paypa cheqan kayninqa"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "sayashanqa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:04.362923587Z",
+  "model": "glm-5.3"
+}

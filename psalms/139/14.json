@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Yupaychasaq qamta, imaraykuchus mancharichikuq hinam ruwasqa kani; rurasqaykika ajllasqam; chayta ñuqap nefeshniy allinta yachanmi.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "yupaychasaq qamta"
+    },
+    {
+      "surface": "על",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chus"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "mancharichikuq"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "ajllasqa kani"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "ajllasqam"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "rurasqayki"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "ñuqap nefeshniy"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yachan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "allinta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:42.096317625Z",
+  "model": "glm-5.3"
+}

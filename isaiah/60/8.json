@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Pikunataq kaykuna, phuyu hina phawaykachankuchá, urpiykunahina t'uqyankumanman hina?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Pikunataq"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "phuyu hina"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "phawaykachankuchá"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "urpiykuna hina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "t'uqyankumanman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:41:07.038845232Z",
+  "model": "glm-5.3"
+}

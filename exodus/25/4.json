@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hilo anqastaq, muru hilotaq, k'uru puka hilotaq, anchhutaq, wakaraypa chukchantawan.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "Hilo anqastaq"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "muru hilotaq"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "k'uru"
+    },
+    {
+      "surface": "שני",
+      "gloss": "puka hilo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "anchhutaq"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "wakaraypa chukchantawan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:14.590010414Z",
+  "model": "glm-5.3"
+}

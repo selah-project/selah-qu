@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Qanchis ñiqin p'unchawpi kohen ⟨את⟩ nanayta qhawaspa, hinaspa rikurqanmi: neteqqa mana mamuwanchu, chaypipi q'illu chukcha mana karqanchu, neteqpa rikch'ayninqa q'arapi aswan ukhu mana kanchu.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nanayta"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nanayta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "qanchis ñiqin"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "hinaspa rikurqanmi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "mamuwanchu"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqanchu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypipi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "chukcha"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "q'illu"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "rikch'aynin"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "neteqpa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ukhu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "העור",
+      "gloss": "q'ara"
+    }
+  ],
+  "timestamp": "2026-09-08T00:58:58.508299051Z",
+  "model": "glm-5.3"
+}

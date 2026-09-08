@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Yachaqpa sunqun paña makinpi ⟨kan⟩mi, saqirypa sunqutaq lluqi makinpi ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yachaqpa"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "pañá makinpi"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "hinaspa sunqutaq"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "saqirypa"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "lluqi makinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:42:45.523913670Z",
+  "model": "glm-5.3"
+}

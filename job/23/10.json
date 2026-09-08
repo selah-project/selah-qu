@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Payqa ñuqap ñayta riqsinmi; ñuqata t'aqwaspa qori hina lluqsisaqmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "riqsinmi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñayta"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ñuqata t'aqwaspa"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "qori hina"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "lluqsisaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:11:23.924563741Z",
+  "model": "glm-5.3"
+}

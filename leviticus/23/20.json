@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspa kohen ⟨את⟩ chayta t'ikranqa ñawpa tarpuy t'antawan, t'ikrayta Yahwepa ñawpaqen, iskay borregokunawan; santo kanqaku Yahwepaq, kohenpaq.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "hinaspa t'ikranqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "chayta — iskay borregokunata, t'antawanpas"
+    },
+    {
+      "surface": "על",
+      "gloss": "t'antawan (junto a)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "ñawpa tarpuy"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "t'ikray"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "על",
+      "gloss": "yanapaq"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "borregokuna"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:37.260020220Z",
+  "model": "glm-5.3"
+}

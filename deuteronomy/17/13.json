@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chaymanta llapa runakunam uyariwanqaku, mancharqanqaku, hinaspa aswanpas mana amautakunqakuchu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "uyariwanqaku"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "mancharqanqaku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana ... -chu"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "amautakunqaku"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aswanpas"
+    }
+  ],
+  "timestamp": "2026-09-08T13:26:43.051861206Z",
+  "model": "glm-5.3"
+}

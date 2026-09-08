@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 8:22",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Yahwem ñuqta kamarkan, ñanninkunap qallariynin hinata, ñawpaq ruraynin ñawpa pachamantañas.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "קנני",
+      "gloss": "ñuqta kamarkan"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "qallariynin"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ñanninkunap"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ñawpa pacha"
+    },
+    {
+      "surface": "מפעליו",
+      "gloss": "ruraynin"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ñawpa pachamantañas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:37:16.051473189Z",
+  "model": "glm-5.3"
+}

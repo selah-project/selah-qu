@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Yahwem wakchachin, hinaspa qarachin; urayachin, hinallataq hatunchachin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "wakchachin"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "hinaspa qarachin"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "urayachin"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "hatunchachin"
+    }
+  ],
+  "timestamp": "2026-09-08T04:00:52.705226834Z",
+  "model": "glm-5.3"
+}

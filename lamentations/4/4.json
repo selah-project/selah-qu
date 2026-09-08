@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Ñuñuq wawapa qallun, ch'akiykuni, siminpa ukhunman ch'akipaykun; huch'uy wawakuna t'antata mañakurqankum, mana rakuq ⟨kan⟩ paykunapaq.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "ch'akipaykun"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "qallun"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ñuñuq wawapa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "siminpa ukhunman"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ch'akiykuni"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "huch'uy wawakuna"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "mañakurqankum"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'antata"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "rakuq"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:34:32.207723957Z",
+  "model": "glm-5.3"
+}

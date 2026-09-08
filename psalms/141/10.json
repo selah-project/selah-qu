@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 141,
+  "translation": "Mana allin runakunaqa kikin tullpasqankupi urmuchun, llapanku kuskallam; ñuqañataq chayta pasarikamanmi.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "urmuchun"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "kikin tullpasqankupi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakuna"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "llapanku kuskalla"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqañataq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "pasarikachwa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:07.944974385Z",
+  "model": "glm-5.3"
+}

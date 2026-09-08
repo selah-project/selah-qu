@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 9:11",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chaysi apuqa ⟨את⟩ algommi sach'akunamanta Yahwepa wasinmanpaq, apupa wasinmanpaq ñankunata ruwarqan; takiqkunapaq kinorwanta, nebelkunatawan ruwarqan; manam ñawpaqta rikurqankuchu chayhinaYehuda (Judá) hallp'api.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "algommi sach'akunamanta"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'akuna"
+    },
+    {
+      "surface": "האלגומים",
+      "gloss": "algommi"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ñankuna"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinmanpaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "hinallataq wasinmanpaq"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "hinallataq kinor"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "nebelkuna"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "takiqkunapaq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "rikurqankuchu"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-08T12:59:35.781961114Z",
+  "model": "glm-5.3"
+}

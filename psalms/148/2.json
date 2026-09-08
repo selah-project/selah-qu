@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 148,
+  "translation": "Yupaychaychikta payta llapan willka runankuna, yupaychaychikta payta llapan awqankuna.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "yupaychaychikta payta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "willka runankuna"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "yupaychaychikta payta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "awqankuna"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:20.462613065Z",
+  "model": "glm-5.3"
+}

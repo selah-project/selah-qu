@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 63:13",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Paykunata**m** ukhu unokunapi pusarqan, ch'usaq pampapi kawallu hina, mana sarparqankuchu.",
+  "tokens": [
+    {
+      "surface": "מוליכם",
+      "gloss": "paykunata pusarqan"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "ukhu unokunapi"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "kawallu hina"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pampapi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "sarparqankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T13:49:51.129701225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Elohimniy, qampi suyarqanim; ama p'inqakullawankichu; ama awqaykuna ñuqap ukhipi k'ajakunkankuchu.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "suyarqanim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "p'inqakullawankichu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "k'ajakunkankuchu"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqaykuna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:22.956363443Z",
+  "model": "glm-5.3"
+}

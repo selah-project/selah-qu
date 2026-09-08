@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "leviticus 22:14",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 22,
+ "translation": "Huk runam santuta yanga mikhuptinqa, pichqa t'aqan chayanaman yapanpuni kohenman ⟨את⟩ santuta qonqa.",
+ "tokens": [
+  {
+   "surface": "ואיש",
+   "gloss": "huk runa"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kaptinqa"
+  },
+  {
+   "surface": "יאכל",
+   "gloss": "mikhuptin"
+  },
+  {
+   "surface": "קדש",
+   "gloss": "santuta"
+  },
+  {
+   "surface": "בשגגה",
+   "gloss": "yanga"
+  },
+  {
+   "surface": "ויסף",
+   "gloss": "yapanpuni"
+  },
+  {
+   "surface": "חמשיתו",
+   "gloss": "pichqa t'aqan"
+  },
+  {
+   "surface": "עליו",
+   "gloss": "chayanaman"
+  },
+  {
+   "surface": "ונתן",
+   "gloss": "qonqa"
+  },
+  {
+   "surface": "לכהן",
+   "gloss": "kohenman"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "santuta"
+  },
+  {
+   "surface": "הקדש",
+   "gloss": "santuta"
+  }
+ ],
+ "timestamp": "2026-09-08T01:06:35.674561853Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Humilde runakunaqa hallp'ata charinqakum; achka shalomwanmi kusikunqaku.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "humilde runakunaqa"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "charinqakum"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "kusikunqaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "wan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "achka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:15.139366767Z",
+  "model": "glm-5.3"
+}

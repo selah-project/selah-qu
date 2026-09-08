@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Kay kutillam ñuqa ⟨את⟩ llapan llikaykunayta sunquykiman kachasaq, servikuqniykimantawan, runaykimantawan; imarayku yachinaykipaq: ñuqhina mana pipas kaptin, llapan hallp'api.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "kay kutilla"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kachasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan llikaykunayta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "llikaykunayta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sunquykiman"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "servikuqniykimantawan"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "runaykimantawan"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "yachinaykipaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ches"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "ñuqhina"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T00:25:48.635143104Z",
+  "model": "glm-5.3"
+}

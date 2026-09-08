@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Chaysi Yahwepa simin hamurqan Yehu (Jehú) Hanani churiyman, Baasha (Baasa) sawachakuqpaq, nispa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "chaysi karqan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churiyman"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Hanani"
+    },
+    {
+      "surface": "על",
+      "gloss": "sawachakuqpaq"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:15:14.921317831Z",
+  "model": "glm-5.3"
+}

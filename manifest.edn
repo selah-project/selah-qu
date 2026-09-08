@@ -1,0 +1,125 @@
+#:rendering{:label "Runasimi",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-07", :to "2026-09-08"},
+            :id "qu.v1",
+            :catalog {:ui "resources/i18n/ui/qu.edn"},
+            :license "CC BY-SA 4.0 (The Selah Quechua Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/qu.md",
+             :rails-commit "d13931ca",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonay",
+              "אל" "El",
+              "אלהים" "Elohim",
+              "אלוה" "Eloah",
+              "ג" "g",
+              "ד" "d",
+              "ה" "h",
+              "ו" "w",
+              "ז" "z",
+              "ח" "h",
+              "ט" "t",
+              "י" "y",
+              "יה" "Yah",
+              "יהוה" "Yahwe",
+              "ל" "l",
+              "מ" "m",
+              "נ" "n",
+              "ס" "s",
+              "פ" "ph",
+              "צ" "ts",
+              "צבאות" "Tsebaot",
+              "ק" "q",
+              "ר" "r",
+              "שדי" "Shadday",
+              "ת" "t"},
+             :open-questions
+             ["flag 1 — vowel inventory: trivocalic register ruled (a/i/u home; e/o lawful in D1 Spanish-era loans and the Name Yahwe); revisit if a pentavocalic-orthography edition is ever wanted"
+              "flag 2 — h vs j: Yajwe is the Bolivian-lens spelling only; the served register is Yahwe; a Bolivian-orthography overlay would flip h→j"
+              "flag 4 — blanket -mi: evidential enclitics (-mi/-si/-chá) were left as rendered (READ class, never gleaned); a systematic -mi-on-divine-speech audit is class-B"
+              "flag 6 — -yku/-nchik: inclusive vs exclusive first-plural choices READ as rendered; no chair-wide adjudication attempted"
+              "flag 9 — wak'a/Pachakamaq posture: Andean theonyms are READ class this pass; whether Pachakamaq may ever serve at a foreign-god seat is unruled"
+              "flag 17 — witness map empty: no human Quechua reader has reviewed the rendering"
+              "Tekoa class-B slate: see scratchpad/qu-tekoa-report.md and the manifest"
+              "Spanish deep-loan posture: espada/bronce/bendiciy-class loans certified READ (they are living Quechua); the boundary between deep loan and leak is token-guided, not lexical"]},
+            :status :live,
+            :adjudication
+            {:chair 66,
+             :first :quechuan-americas-indigenous,
+             :polarity :latin-home,
+             :seal
+             {:name "Yahwe",
+              :elohim
+              "Elohim (never Elohimu; -ninchik/-niyki with -ni- epenthesis lawful)",
+              :erasure
+              ["Señor"
+               "SEÑOR"
+               "Señorninchik"
+               "Dios"
+               "Diosninchik"
+               "Tayta Dios"
+               "Apu (at יהוה)"
+               "Apunchik (at יהוה)"
+               "Wiraqucha (at יהוה)"],
+              :banned-everywhere ["Taytacha (NT leak)" "Jehová"],
+              :lawful-lowercase
+              ["dios/dioskuna at foreign-god seats"
+               "apu at מלך/human-lord seats (Hosea 7:5 apunchikpa the certified specimen)"]},
+             :tekoa
+             {:report "scratchpad/qu-tekoa-report.md",
+              :apply-policy
+              "class-A only; class-B filed PENDING SCOTT"},
+             :cruxes
+             ["evidentiality: -mi direct-witness enclitic stands on divine speech — the rendering asserts what it reports"
+              "-ta accusative AND ⟨את⟩ both stand — the case suffix does not erase the marker"
+              "trivocalic Name register: Yahwe with e ruled lawful as a D1-register form"
+              "q uvular: ק↔q is native for the first time in the ladder — the uvular row is home ground"
+              "apostrophes are ejectives — letter-internal, never word boundaries; inverts the rw census rule"
+              "machine-crash weathered mid-burn: 20 truncated files gleaned, spine re-verified to 23,213/23,213"]},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-qu",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :qu}

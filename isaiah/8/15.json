@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaypi askha runakuna sirkanakunqaku, hinaspa urmakunqaku, hinaspa p'akikunqaku, hinaspa trampapi chakunqaku, hinaspa hap'ikunqaku.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "sirkanakunqaku"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha runakuna"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "urmakunqaku"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "p'akikunqaku"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "trampapi chakunqaku"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "hap'ikunqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T05:53:29.619591167Z",
+  "model": "glm-5.3"
+}

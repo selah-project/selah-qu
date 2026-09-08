@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Payqa makinmanta chakirqan, hinaspa llamk'ana yanapawan ⟨את⟩ churkurqan, hinaspa t'inkisqa waka wawantam ruwarqan. Chaysi nirqanku: Israel, kaykunataq qampa dioskuna, mayqinkunam qamta Mitsrayimpa (Egipto) hallp'amanta hatarichimurqanku.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "chakirqan"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "churkurqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "llamk'ana yanapawan churkusqa"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "llamk'ana yanapawan"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "waka wawan"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "t'inkisqa"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "qampa dioskuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "hatarichimurqanku"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:06.596012066Z",
+  "model": "glm-5.3"
+}

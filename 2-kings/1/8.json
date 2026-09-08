@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi paykuna nirqanku: «Ch'ikik sach'a-sach'ayuq runas karqa, chaqnan qarata watarqan». Chaysi payqa nirqan: «Eliyah, Tishbi-manta, chaymi».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqankus"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "yuq"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ch'ikik sach'a-sach'a"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "watarqan"
+    },
+    {
+      "surface": "עור",
+      "gloss": "qara"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "watana"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "chaqnanpi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Eliyah"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Tishbi-manta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chaymi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:24:10.300061573Z",
+  "model": "glm-5.3"
+}

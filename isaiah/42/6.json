@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Ñuqam Yahwe: cheqta kaywan qamta qayarqani, mak'iykipi hap'isaq, hinaspa waqaychasaq, qamta qusaq runakunap beritnin (pacto) hina, tukuy llaktakunap k'anchaynin hina.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "qayarqani"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "cheqta kaywan"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "hap'isaq"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "mak'iykipi"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "waqaychasaq"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "beritpaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "k'anchaypaq"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "llaktakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T06:22:27.722161480Z",
+  "model": "glm-5.3"
+}

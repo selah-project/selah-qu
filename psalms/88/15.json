@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Imarayku, Yahwe, Nefeshniyta saqiwanki? ¿Uyaykita ñuqamanta pakiwanki?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "saqiwanki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniyta"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "pakiwanki"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "uyaykita"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:03.544382438Z",
+  "model": "glm-5.3"
+}

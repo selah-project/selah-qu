@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Yahwepaq tasllachikuytachu: kasukunalla kaspa takiy t'aqwiy, hinaspa paqarichiy thankita; Yahwepa jesedniyta, Yahwepa santu willakuyta yuyaspa.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "takiy t'aqwiy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "kasukunalla kaspa"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "hinaspa thankita paqarichiy"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "yuyaspa"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Yahwepa santu willakuyta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:22.695036831Z",
+  "model": "glm-5.3"
+}

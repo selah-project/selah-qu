@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Warmiqa ⟨את⟩ Shemuelta qhawaspa hatun kunkawan waqayarqan; chaymanta warmiqa Shaulman nirqan nispa: Imaraykum ñuqata llullawanki — qamtak Shaul kanki.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "warmiqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuelta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuelta"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "waqayarqan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "kunkawan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "warmiqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Shaulman"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "llullawanki"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "qamtak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-08T04:27:33.194363320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+ "tier": "glm-5.2",
+ "verse": 24,
+ "ref": "exodus 2:24",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Elohimmi ⟨את⟩ paykunap llaqtaysqankuta uyarqan; Elohimpas ⟨את⟩ paypa Beritninta (pactonta) yuyarqan — ⟨את⟩ Abrahamwan, ⟨את⟩ Itsjakwan (Isaac), hinaspa ⟨את⟩ Yaakovwan (Jacob).",
+ "tokens": [
+  {
+   "surface": "וישמע",
+   "gloss": "uyarqan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "paykunap llaqtaysqankuta"
+  },
+  {
+   "surface": "נאקתם",
+   "gloss": "paykunap llaqtaysqankuta"
+  },
+  {
+   "surface": "ויזכר",
+   "gloss": "yuyarqan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "paypa Beritninta"
+  },
+  {
+   "surface": "בריתו",
+   "gloss": "paypa Beritninta"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Abrahamwan"
+  },
+  {
+   "surface": "אברהם",
+   "gloss": "Abrahamwan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Itsjakwan"
+  },
+  {
+   "surface": "יצחק",
+   "gloss": "Itsjakwan"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Yaakovwan"
+  },
+  {
+   "surface": "יעקב",
+   "gloss": "Yaakovwan"
+  }
+ ],
+ "timestamp": "2026-09-08T00:20:52.795784408Z",
+ "model": "glm-5.3"
+}

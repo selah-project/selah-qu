@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Hinaspa samay wasi allin kasqanta rikurqan, hinaspa ⟨את⟩ hallp'a k'askachakuq kasqantawan rikurqan; chaymanta rikranta warkunapaq takarqan, hinaspa mit'a kamayuq servanteman tukurqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hinaspa rikurqan"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "samay wasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hallp'a"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "k'askachakuq"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "chaymanta takarqan"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "rikranta"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "warkunapaq"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "hinaspa tukurqan"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mit'a kamayuq"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servanteman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:18:50.990757551Z",
+  "model": "glm-5.3"
+}

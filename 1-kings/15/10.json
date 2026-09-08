@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Pusi chunka huk watanmi Yerushalayimpi (Jerusalén) kamachirqan; paypa mamap sutinqa Maakha (Maacha), Avishalompa (Absalón) ususin karqan.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "pusi chunka"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "huk"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi (Jerusalén)"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "sutin"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "paypa maman"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha (Maacha)"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususin"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalompa (Absalón)"
+    }
+  ],
+  "timestamp": "2026-09-08T05:13:01.441700627Z",
+  "model": "glm-5.3"
+}

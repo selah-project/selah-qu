@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 149,
+  "translation": "Hasidkuna hatun sumaq kaypim kusikunanku, puñunankunapipas takinku.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "kusikunanku"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "Hasidkuna"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "hatun sumaq kaypi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "takinku"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "puñunankunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:48.262527857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 125,
+  "translation": "Hinaspa micha-micha ñanninkuman t'ikrakunata Yahwem ⟨את⟩ llapanlla ruraqkunawan pusanku; Shalommi Israelpatapi.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "hinaspa t'ikrakunata"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "micha-micha ñanninkuman"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "pusanku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapanlla ruraqkunata"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "llapanlla ruraqkuna"
+    },
+    {
+      "surface": "האון",
+      "gloss": "llapanlla"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalommi"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:06.023002998Z",
+  "model": "glm-5.3"
+}

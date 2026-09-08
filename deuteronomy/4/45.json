@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kaykunam ⟨kan⟩ edotkuna (testimonios), hinaspa juqimkuna (estatutos), hinaspa mishpatimkuna (juicios), mayqinkunata Moshe (Moisés) Israelpa wawanman willarqan, Mitsrayim (Egipto) munwan lluksispanku.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kaykuna"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "edotkuna"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "hinaspa juqimkuna"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "hinaspa mishpatimkuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "lluksispanku"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:29:53.474018610Z",
+  "model": "glm-5.3"
+}

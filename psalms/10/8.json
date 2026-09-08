@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Llaqtakunap qatipananpi tiyakunmi; pakay pachapi mana millayuqta wañuchin; ñawinkuna wakcha mayllapaq pakaylla qhawachkanku.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "tiyakun"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "qatipananpi"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "llaqtakunap"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "pakay pachapi"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "wañuchin"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "mana millayuqta"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ñawinkuna"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "wakcha mayllapaq"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "pakaylla qhawachkanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:40.312271754Z",
+  "model": "glm-5.3"
+}

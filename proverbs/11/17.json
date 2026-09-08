@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Jeqed ruwaq runaqa ⟨kan⟩ paypa nefeshninpi; icha paypa aylanata waqllichaqqa sinchi nanachiqmi.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "jeqed ruwaq"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "paypa nefeshninpi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jeqed"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "icha ... waqllichaq"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "paypa aylanata"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "sinchi nanachiq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:40:58.273225902Z",
+  "model": "glm-5.3"
+}

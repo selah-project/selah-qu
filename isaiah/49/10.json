@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Manam yarqasqakunqakuchu, manataq ch'akisqakunqakuchu; yaku-illawanpas, intiwanpas manam nanachikunqakuchu, imaraykuchus khuyakuqmi paykunata pusakunqa, unapa pukyukunamanpas chayanachinqa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "yarqasqakunqakuchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "ch'akisqakunqakuchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "nanachikunqakuchu"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "yaku-illawan"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "intiwanpas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "khuyakuqmi"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "paykunata pusakunqa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "…manpas"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "pukyukunaman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unapa"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "chayanachinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:30:30.691393423Z",
+  "model": "glm-5.3"
+}

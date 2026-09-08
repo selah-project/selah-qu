@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Sichus ninku: Hamuy ⟨את⟩ ñuqaykuwan, yawarta lluk'isunchik, mana huchayuqkunata mana imarayku watiyasunchik.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ninku"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hamuy"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñuqaykuwan",
+      "marks": "ñuqaykuwan"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "lluk'isunchik"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "yawarta"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "watiyasunchik"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "mana huchayuqkunata"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mana imarayku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:11.026634856Z",
+  "model": "glm-5.3"
+}

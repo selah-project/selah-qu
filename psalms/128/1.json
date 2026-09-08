@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 128,
+  "translation": "Hanaqman sayaqkunapa takinmi. Ima kusillaqmi Yahweta manchakuq runa, paypa ñanninkunapi puriq!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "takin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hanaqman sayaqkunapa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ima kusillaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapam"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "manchakuq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "paypa ñanninkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:23.974520566Z",
+  "model": "glm-5.3"
+}

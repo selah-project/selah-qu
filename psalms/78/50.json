@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Nananpaq ñanninta allinchirqan; nefeshninkuta wañuymanta mana hark'arqanchu, hinaspam kawsayninkuta unquyman qoykurqan.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "allinchirqan"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "ñanninta"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "nananpaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "hark'arqanchu"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "wañuymanta"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefeshninkuta"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "hinaspam kawsayninkuta"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "unquyman"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "qoykurqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:26.687484474Z",
+  "model": "glm-5.3"
+}

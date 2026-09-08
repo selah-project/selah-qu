@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Reubén (Rubén)pa churinkunam ⟨את⟩ Cheshbonta (Hesbón), hinaspa ⟨את⟩ Elaleata (Elalé), hinaspa ⟨את⟩ Qiryatayimta (Kiriataim) saywachirqanku.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubén (Rubén)pa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "saywachirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbonta"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbón (Hesbón)ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Elaleata"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale (Elalé)ta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Qiryatayimta"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Qiryatayim (Kiriataim)ta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:22:25.285546428Z",
+  "model": "glm-5.3"
+}

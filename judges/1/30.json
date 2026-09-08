@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Zevulunqa manam ⟨את⟩ Kitron tiyaqkunata, hinaspa ⟨את⟩ Nahalol tiyaqkunata qarqurqanchu; Kanaanitari paypa chawpinpi tiyarqan, mita llank'aq tukurqankum.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "qarqurqanchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kitron tiyaqkunata"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "tiyaqkunata"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Nahalol tiyaqkunata"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "tiyaqkunata"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanita"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "paypa chawpinpi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "tukurqanku"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mita llank'aq tukurqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T03:34:03.840447312Z",
+  "model": "glm-5.3"
+}

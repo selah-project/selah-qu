@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "isaiah 26:12",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 26,
+ "translation": "Yahwe, ñuqaykupaq shalom (tinakuy) churankim; imaraykuchus llapa llamk'ayniykutapas Qam ñuqaykupaq ruwarqankim.",
+ "tokens": [
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "תשפת",
+   "gloss": "churankim"
+  },
+  {
+   "surface": "שלום",
+   "gloss": "shalom (tinakuy)"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "ñuqaykupaq"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "גם",
+   "gloss": "llapa...tapas"
+  },
+  {
+   "surface": "כל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "מעשינו",
+   "gloss": "llamk'ayniyku"
+  },
+  {
+   "surface": "פעלת",
+   "gloss": "ruwarqankim"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "ñuqaykupaq"
+  }
+ ],
+ "timestamp": "2026-09-08T06:06:32.792737004Z",
+ "model": "glm-5.3"
+}

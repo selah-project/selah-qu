@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Arpakshad ⟨את⟩ Shelajta wacharqanmi; hinaspa Shelaj ⟨את⟩ Everta wacharqanmi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "hinaspa Arpakshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelajta"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelaj"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "hinaspa Shelaj"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Everta"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:40.718652940Z",
+  "model": "glm-5.3"
+}

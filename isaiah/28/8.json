@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Imaraykuchus llapa mesankunaqa ashmawan, q'urpawan hunt'asqam, mana ch'uya imalla tiyanchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "mesankuna"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "hunt'asqam"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "ashmawan"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "q'urpawan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ch'uya imalla"
+    }
+  ],
+  "timestamp": "2026-09-08T06:08:51.540454204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Elohimpa carrokunanmi waranqa waranqa, alukuna shinannaq; Adonaymi paykunapi kachkan, Sinaypi hina, santupi.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "carrokuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "waranqa waranqa"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "alukuna"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "shinannaq"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunapi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaypi"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "santupi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:22.398481287Z",
+  "model": "glm-5.3"
+}

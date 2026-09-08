@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Ama watukuychichu — ninku; kaykunamanqa manam watukunqachu, p'inqaykunaq manam qhipakunqachu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "watukuychichu"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "ninku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "watukunqachu"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "kaykunamanqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "qhipakunqa"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "p'inqaykunaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:04:57.198161941Z",
+  "model": "glm-5.3"
+}

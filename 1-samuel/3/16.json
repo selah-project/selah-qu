@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa Elin ⟨את⟩ Shemuelta qayakurqanmi, nispa: Shemuel, churiy. Chayqa ninmi: Kaymi ñuqa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "hinaspa qayakurqanmi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuelta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ninmi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kaymi ñuqa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:04:16.279187100Z",
+  "model": "glm-5.3"
+}

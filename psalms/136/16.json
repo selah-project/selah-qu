@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Runanta ch'in pachapi purichiqmi, imarayku wiñay kamanmi jesednin.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "purichiq"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "runanta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'in pachapi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kaman"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:41.206447399Z",
+  "model": "glm-5.3"
+}

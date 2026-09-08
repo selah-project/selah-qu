@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 31:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Ñuqataqmi, qhaway: ⟨את⟩ paywan qurqani ⟨את⟩ Oholiabta, Ahisamajpa churinta, Dan mamallaqtamanta; hinallataqmi llapa yachaq sunquyoqpa sunqunpin yachayta churqani — llapa imata kamachirqaykim ⟨את⟩ chayta rurankunam.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataqmi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qurqani"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "paywan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oholiabta"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "Oholiab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אחיסמך",
+      "gloss": "Ahisamajpa"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "mamallaqtanmanta"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "sunqunpin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunquyoq"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "churqani"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachayta"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "rurankunam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa imata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "kamachirqayki"
+    }
+  ],
+  "timestamp": "2026-09-08T00:41:41.269579336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Chiqaqmi kayhina Yahwem nirqan: llakikuywan rimayta uyarinchikmi, manchariytam, manataq paz kanchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chiqaqmi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "קול",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "llakikuywan"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "uyarinchikmi"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "manchariytam"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "paz kanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T07:19:26.504606753Z",
+  "model": "glm-5.3"
+}

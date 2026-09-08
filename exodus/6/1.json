@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Yahwem Mosheman (Moisés) nirqan: Kunanmi rikunki imata Paropaq ruwasaq; sinchi makiwanmi ⟨paykunata⟩ kachaqunqa, hinallataq sinchi makiwanmi ⟨payta⟩ hallp'anmanta qarqunqa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "rikunki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ruwasaq"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paropaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "; sinchi makiwanmi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makiwan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "kachaqunqa ⟨paykunata⟩"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "hinallataq makiwan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "qarqunqa ⟨payta⟩"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "hallp'anmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:23:20.619382256Z",
+  "model": "glm-5.3"
+}

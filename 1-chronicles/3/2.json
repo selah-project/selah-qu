@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Kimsa ñiqin Avshalom (Absalón), Maaka (Maaca) warmi-churi, Talmi (Talmai) Geshurpa apunpa ususin; tawa ñiqin Adoniyah (Adonías), Jaguit (Aguit) churi.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "kimsa ñiqin"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "Avshalom (Absalón)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka (Maaca)"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususin"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmi (Talmai)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geshurpa"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "tawa ñiqin"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyah (Adonías)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Jaguit (Aguit)"
+    }
+  ],
+  "timestamp": "2026-09-08T12:33:10.731474321Z",
+  "model": "glm-5.3"
+}

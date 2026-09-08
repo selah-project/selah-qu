@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 10:1",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chay qhipamanta karqanmi: Beni Ammonpa apun wañurqan, Hanuntaq, churin, paypa tiyananpi kamachirqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Beni"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonpa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanuntaq"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churin"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "paypa tiyananpi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:42:11.253675159Z",
+  "model": "glm-5.3"
+}

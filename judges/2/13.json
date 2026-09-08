@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa saqirqankum ⟨את⟩ Yahweta, hinaspa llamk'arqanku Baalman (Baal), Ashtarotmanpas (Astarte).",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "saqirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "llamk'arqanku"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalman"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "Ashtarotmanpas"
+    }
+  ],
+  "timestamp": "2026-09-08T03:32:46.849731001Z",
+  "model": "glm-5.3"
+}

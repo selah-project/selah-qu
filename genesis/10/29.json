@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "hinaspa ⟨את⟩ Ofirta (Ofir), hinaspa ⟨את⟩ Chavilata (Havila), hinaspa ⟨את⟩ Yovavta (Jobab); kaykunam llapan Yoktanpa (Joktan) churinkuna karqan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Ofirta"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "Ofirta (Ofir)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Chavilata"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilata (Havila)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yovavta"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovavta (Jobab)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktanpa (Joktan)"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:48.533351951Z",
+  "model": "glm-5.3"
+}

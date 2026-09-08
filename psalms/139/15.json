@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Ñuqap kurkuyqa manam qammanta pakasqa karqanchu; pakasqa pachapin ñuqata rurariwanki, hallp'ap aswan ukhu ynankunapipas awasqa karqani.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "pakasqa karqanchu"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "ñuqap kurkuy"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "qammanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypin"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "rurariwanki"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "pakasqa pachapi"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "awasqa karqani"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "aswan ukhu ynankunapi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:42.096535552Z",
+  "model": "glm-5.3"
+}

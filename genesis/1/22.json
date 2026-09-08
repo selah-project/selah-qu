@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Elohim ⟨את⟩ paykunata phanicharqan, nispa: Phalachiy, achkaykachiy, ⟨את⟩ unukunata yaku mamap ukhunpi hunt'achiy, kay pachapitaq phichiwkuna achkaykachun.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "phanicharqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "phalachiy"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "achkaykachiy"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "hunt'achiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unukunata"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unukunata"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "yaku mamap ukhunpi"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "phichiwkuna"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "achkaykachun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kay pachapi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:31.077282385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 12:23",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Imaraykuchus sapa p'unchawmi runakuna Davidman hamurqanku yanapananpaq, hatun campamentokama chayakuspa — Elohimpa campamentonahina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "p'unchawpa pachanpi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "sapa p'unchaw"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hamurqanku"
+    },
+    {
+      "surface": "על",
+      "gloss": "Davidman"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לעזרו",
+      "gloss": "yanapananpaq"
+    },
+    {
+      "surface": "עד",
+      "gloss": "chayakuspa ... kama"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "campamentokama"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "כמחנה",
+      "gloss": "campamentonahina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:40:58.109727730Z",
+  "model": "glm-5.3"
+}

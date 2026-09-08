@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 146,
+  "translation": "Yah, yupaychay; Nefeshniy, ⟨את⟩ Yahweta yupaychay.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yupaychay"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "yupaychay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:11.434461607Z",
+  "model": "glm-5.3"
+}

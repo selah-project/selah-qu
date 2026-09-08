@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Sunqunninpi nirqam: «Manam titiyasaqchu, wata watakama mana llakiypi kanqachu».",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nirqam"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sunqunninpi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana…chu"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "titiyasaqchu"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "wata (watakama)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana…chu"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "llakiypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:40.312009761Z",
+  "model": "glm-5.3"
+}

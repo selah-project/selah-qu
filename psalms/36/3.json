@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Chaymi pay ñawinpi llamp'u yarqun, jachasqanta tariynanpaq, chikniynanpaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "llamp'u yarqun"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "pay"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "tariynanpaq"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "jachasqanta"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "chikniynanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:35.716127332Z",
+  "model": "glm-5.3"
+}

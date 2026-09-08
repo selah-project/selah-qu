@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymi Iyub (Job) sayarirqan, ⟨את⟩ p'achanta ch'utirqan, ⟨את⟩ umantin akrurqan, hallp'aman urmarikuspa yupaycharqan.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyub (Job)"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "ch'utirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achanta"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "p'achanta"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "akrurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umantin"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umantin"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "urmarikuspa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "yupaycharqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:57:25.375989564Z",
+  "model": "glm-5.3"
+}

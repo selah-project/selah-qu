@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chay raykum Davidpa mitankunata muchuchinqa ⟨את⟩; ichataq manam tukuy p'unchawkunallachu.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "muchuchinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitankunata"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mitankunata"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "Chay rayku"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ichataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "p'unchawkunallachu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:09:45.201004352Z",
+  "model": "glm-5.3"
+}

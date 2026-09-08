@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "2-chronicles 4:1",
+ "book": "2-chronicles",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Chaymantam mikbeajta q'illaywan ruwarqan: sunin iskay chunka ama, haatan iskay chunka ama, sayaynintaq chunka ama.",
+ "tokens": [
+  {
+   "surface": "ויעש",
+   "gloss": "ruwarqan"
+  },
+  {
+   "surface": "מזבח",
+   "gloss": "mikbeaj"
+  },
+  {
+   "surface": "נחשת",
+   "gloss": "q'illaywan"
+  },
+  {
+   "surface": "עשרים",
+   "gloss": "iskay chunka"
+  },
+  {
+   "surface": "אמה",
+   "gloss": "ama"
+  },
+  {
+   "surface": "ארכו",
+   "gloss": "sunin"
+  },
+  {
+   "surface": "ועשרים",
+   "gloss": "hinaspa iskay chunka"
+  },
+  {
+   "surface": "אמה",
+   "gloss": "ama"
+  },
+  {
+   "surface": "רחבו",
+   "gloss": "haatan"
+  },
+  {
+   "surface": "ועשר",
+   "gloss": "hinaspa chunka"
+  },
+  {
+   "surface": "אמות",
+   "gloss": "ama"
+  },
+  {
+   "surface": "קומתו",
+   "gloss": "sayaynin"
+  }
+ ],
+ "timestamp": "2026-09-08T12:57:42.164763326Z",
+ "model": "glm-5.3"
+}

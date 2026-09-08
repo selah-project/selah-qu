@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwepa manchariyninqa yachaypa qallariyninmi; yachaqkayta hinaspa yachachiyta sarusqaku, yaynawannaqkuna.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "manchariynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "qallariynin"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "yachaypa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachaqkayta"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "hinaspa yachachiyta"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "yaynawannaqkuna"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "sarusqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:57.939548091Z",
+  "model": "glm-5.3"
+}

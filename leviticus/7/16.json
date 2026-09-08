@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Kaniqmi paypa korbanon zebajen ner utaq nedavah kanman, chay p'unchawmin pay ⟨את⟩ paypa zebajinta qayllachiyninpi mikhukunqam; qhipa p'unchawpintaqmi chay qhepayñatawan mikhukunqa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kaniq"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ner"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "nedavah"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zebaj"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "korbanonnin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpin"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "qayllachiyninpi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zebajinta (paypa zebajin)"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "zebajinta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhukunqa"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "qhipa p'unchawpin"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "qhepayña"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhukunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:53:25.244620275Z",
+  "model": "glm-5.3"
+}

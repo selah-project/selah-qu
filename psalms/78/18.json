@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Paykunaqa Elta sunqunkupi pruebarqanku — Nefeshninkupaq mikhunata mañakuspam.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "pruebarqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elta"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "sunqunkupi"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "mañakuspam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhunata"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "Nefeshninkupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:15:28.084972646Z",
+  "model": "glm-5.3"
+}

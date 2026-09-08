@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa ⟨את⟩ Yahudapa wasinta khuyasaqmi, Yahwe Elohimninkuwan qispichisaq, manataq warak'awan, tsuriwan, awqanakuypi, kavallukunapi, kavallu yallaqkunapipas qispichisaqchu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudapa"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "khuyasaq"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "qispichisaq"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwewan"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimninkuwan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "qispichisaqchu"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "warak'awan"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "tsuriwan"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "awqanakuypi"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "kavallukunapi"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "kavallu yallaqkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T08:46:25.178727238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Hinaspa kay simita ruwaysi: apukunata sapa maman tiyaymanta qichuy, chayninta ukkunata churay paykuna tiyananpi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kay simita"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "kay simita"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaysi"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "qichuy"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "apukunata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "maman tiyaymanta"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "churay"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "ukkunata"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "paykuna tiyananpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:17:16.889892935Z",
+  "model": "glm-5.3"
+}

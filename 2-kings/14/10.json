@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Ñawpaqta Edomta nanachirqankim ⟨את⟩, chayrayku sunquyki q'isirichisunkim; chaywan k'achatay, wasiykipi tiyay. Ima raykutaq mana allinwan minillanki, qamtawan Yehudatawan umakunkipaq?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "nanachirqankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomta"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomta"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "q'isirichisunki"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sunquyki"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "k'achatay"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "tiyay"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "wasiykipi"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ima raykutaq"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "minillanki"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "mana allinwan"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "umakunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "Yehudatawan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwan kuska"
+    }
+  ],
+  "timestamp": "2026-09-08T05:36:37.925730275Z",
+  "model": "glm-5.3"
+}

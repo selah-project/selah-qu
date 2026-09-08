@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinaspa ruranki altapaq saratakunata, shitamanta yuramanta saratakunata, hinaspa antawan t'inkiranki ⟨את⟩ paykunata.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspa ruranki"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "saratakunata"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "altapaq"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "saratakuna"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yuramanta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shita"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "hinaspa antawan t'inkiranki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "anta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:37.030468847Z",
+  "model": "glm-5.3"
+}

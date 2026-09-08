@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Orqokunapim, panpakunapipas, ch'usaq pampakunapipas, orqo urayk'ikunapipas, mana runayuq pampakunapipas, uralanpipas — Jiti runakuna, Emori runakuna, Kenaan runakuna, Perisi runakuna, Jiwi runakuna, Yewusi runakuna.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "Orqokunapim"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "panpakunapipas"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "ch'usaq pampakunapipas"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "orqo urayk'ikunapipas"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "mana runayuq pampakunapipas"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "uralanpipas"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Jiti runakuna"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori runakuna"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "Kenaan runakuna"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Perisi runakuna"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Jiwi runakuna"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yewusi runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T03:19:29.314683604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Watanchikpa p'unchayninkunaqa qanchis chunka watanmi; sinhakuq kaptinqa pusaq chunka watan; paykunap sinchikayninkuqa llank'aywan haqlliwanmi; utqaylla kuchisqa kaptinmi phawaykushanchik.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "p'unchayninkuna"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "watanchikpa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "paykunapi"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "qanchis chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "watan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa icha"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "sinhakuq kaptin"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "pusaq chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "watan"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "paykunap sinchikayninku"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "llank'ay"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "haqlli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "גז",
+      "gloss": "kuchisqa"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "utqaylla"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "phawaykushanchik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:30.777436638Z",
+  "model": "glm-5.3"
+}

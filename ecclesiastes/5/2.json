@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Muspaymi askha llamk'aymanta hamun; haq'uyuqpa rimaynintaq askha rimaykunamanta hamun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamun"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "muspaymi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "llamk'aymanta"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "rimaynintaq"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "haq'uyuqpa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "rimaykunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:42:57.811807987Z",
+  "model": "glm-5.3"
+}

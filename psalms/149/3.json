@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 149,
+  "translation": "Sinta yupaychachinku tusuypi, tinyawan hinaspa arpawan paypaq takinku.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "yupaychachinku"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Sinta"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "tusuypi"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "tinyawan"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "hinaspa arpawan"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "takinku"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:26.514942636Z",
+  "model": "glm-5.3"
+}

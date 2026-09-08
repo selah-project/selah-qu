@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Yahwe, munayniykimanta urquyman kallpawan sayarichirqankim; ñawiykita pakarqanki, ⟨chaymi⟩ karqani mancharirqani.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "munayniykimanta"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "sayarichirqankim"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "urquyman"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kallpawan"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "pakarqanki"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawiykita"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "karqani"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "mancharirqani"
+    }
+  ],
+  "timestamp": "2026-09-08T14:39:19.822072994Z",
+  "model": "glm-5.3"
+}

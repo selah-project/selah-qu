@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 146,
+  "translation": "Samayninqa lluqsinmi, allpanman kutin; chay p'unchawllapim yuyayninkuna chinkapun.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "lluqsin"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "samaynin"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "kutin"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "allpanman"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "chinkapun"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "yuyayninkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:11.435024830Z",
+  "model": "glm-5.3"
+}

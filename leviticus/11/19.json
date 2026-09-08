@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "hinaspa ⟨את⟩ hasida-ta, ⟨את⟩ anafa-ta sapa layninkama, hinaspa ⟨את⟩ dukifat-ta, hinaspa ⟨את⟩ atalef-ta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hasida-ta"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "hasida"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "anafa"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "sapa layninkama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "dukifat-ta"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "dukifat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "atalef-ta"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "atalef"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:00.920966568Z",
+  "model": "glm-5.3"
+}

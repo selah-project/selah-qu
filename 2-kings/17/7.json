@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Chaymi karqan, imarayku Israelpa wawankuna Yahwe Elohimninkupaq huchalikurqanku — paymi ⟨את⟩ paykunata Mitsrayim hallp'amanta, Paro Mitsrayimpa apupa makip urayninmanta hurqurqan — hinaspa wak dioskunata mancharirqanku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "huchalikurqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimninku"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "hurquq"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "urayninmanta"
+    },
+    {
+      "surface": "יד",
+      "gloss": "makip"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mancharirqanku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "dioskuna"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "wak"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:45.385553751Z",
+  "model": "glm-5.3"
+}

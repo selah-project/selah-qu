@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chanin warmiqa qusanpa pillunmi; p'inqachiq warmiqa tullunkunapi millphu hina.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "chanin atiyniyuq"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "pillu"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "qusanpa"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "hina millphu"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "tullunkunapi"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "p'inqachiq warmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:41:53.670398614Z",
+  "model": "glm-5.3"
+}

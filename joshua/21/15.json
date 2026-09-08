@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa ⟨את⟩ Kholonta, hinaspa ⟨את⟩ paypa michuna pampanninta; hinaspa ⟨את⟩ Devirta, hinaspa ⟨את⟩ paypa michuna pampanninta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kholonta"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa michuna pampanninta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "paypa michuna pampannin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Devirta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa michuna pampanninta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "paypa michuna pampannin"
+    }
+  ],
+  "timestamp": "2026-09-08T03:28:03.514317711Z",
+  "model": "glm-5.3"
+}

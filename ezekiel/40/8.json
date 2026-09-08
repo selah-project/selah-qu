@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Chaysi pay tupurqan ⟨את⟩ punkup portalta wasiman chayaqta: huk qhurpa.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "chaysi tupurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punkup portalta"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "portal"
+    },
+    {
+      "surface": "השער",
+      "gloss": "punkup"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "wasiman chayaqta"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "qhurpa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-08T08:35:49.057537128Z",
+  "model": "glm-5.3"
+}

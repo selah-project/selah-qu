@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Hinaspa ⟨את⟩ qharita mana puñunki warmi puñunapi hina — millaymi kay.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qharita"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "qhari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "puñunki"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "warmi puñunapi hina"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "millay"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:18.579262090Z",
+  "model": "glm-5.3"
+}

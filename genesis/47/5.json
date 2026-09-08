@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Parom Yosefman (José) nirqan: Taytayki hinaspa wayqeykikuna qamman hamurqankum.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "Taytayki"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "hinaspa wayqeykikuna"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hamurqankum"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:17:28.628715674Z",
+  "model": "glm-5.3"
+}

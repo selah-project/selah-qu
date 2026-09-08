@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspam kohen huchaq chaqanmanta raqranwan hurqun, olah altarkin waqrankunapi churanqan; hinaspa ⟨את⟩ chaqanta olah altarkinpa sayayninman t'inkinqan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "hinaspam hurqun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "chaqanmanta"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "huchaq"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "raqranwan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "churanqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "waqrankuna"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarkin"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chaqanta"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "chaqanta"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "t'inkinqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "sayay"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altarkinpa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    }
+  ],
+  "timestamp": "2026-09-08T00:52:54.686763217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Israelpa apunm Eliseaman (Eliseo) nirqan, ⟨את⟩ paykunata rikurptin: Tayta, ¿ñuqachu paykunata wañuchinqa, wañuchinqachu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Eliseaman"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "rikurptin"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata rikurptin — paykuna (Arampa awqakuna)"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "¿ñuqachu wañuchinqa?"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "wañuchinqachu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Tayta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:27:06.662396054Z",
+  "model": "glm-5.3"
+}

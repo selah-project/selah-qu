@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Simiyta maskaywan kichasqaymi; ñawpaqmanta pakasqa amawtakunata parlk'achiniwillaymi.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "kichasqaymi"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "maskaywan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simiyta"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "parlk'achiniwillaymi"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "amawtakunata"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manta"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ñawpaqmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:52.210991442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Ch'uqchuwanki, wayra apawankim, wayra pirwayaq t'aqawankim; qamtaq Yahwepi kusichakunki, Israelpa Santonpi haywarikunki.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "ch'uqchuwanki"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "wayra"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "apawankim"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "wayra pirwayaq"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "t'aqawankim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "kusichakunki"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "Santonpi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "haywarikunki"
+    }
+  ],
+  "timestamp": "2026-09-08T06:24:02.241654393Z",
+  "model": "glm-5.3"
+}

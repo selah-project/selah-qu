@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 98,
+  "translation": "Yahwep ñawpaqenmi, Yahwem hamunmi hallp'ata taripanaypaq; tevelta tsedeqwan taripanqa, hinaspa runakunata llapan hunt'a chaninchaywan.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamun"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "taripanaypaq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "taripanqa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevelta"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "tsedeqwan"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "hinaspa runakunata"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "llapan hunt'a chaninchaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:15.455984781Z",
+  "model": "glm-5.3"
+}

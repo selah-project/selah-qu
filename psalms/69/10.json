@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Raykuchus wasikunaykip k'ajayninm ñuqata mikhurqan, hinaspa Qamta q'amiqkunap q'aminkuna ñuqapata urmarqanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "raykuchus"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "k'ajaynin"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wasikunaykip"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "ñuqata mikhurqan"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "hinaspa q'aminkuna"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "Qamta q'amiqkunap"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "urmarqanku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqapata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:01.596559419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Qarayku tanur hina q'uñirqanmi, yarqaypa yawriyninwan rayku.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "qarayku"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "tanur hina"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "q'uñirqan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "yawriyninwan"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "yarqaypa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:37:19.777376141Z",
+  "model": "glm-5.3"
+}

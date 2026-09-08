@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Kay pachapi llapan kawsaysunkuta tiyarqankum; allin kayniykiwan, wakcha runapaq, qam Elohim, kamuwarqankim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "llapan kawsaysunkuta"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tiyarqankum"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kay pachapi"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "kamuwarqankim"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "allin kayniykiwan"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "wakcha runapaq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:00.657922975Z",
+  "model": "glm-5.3"
+}

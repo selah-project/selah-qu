@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Imaraykuchus Yahwepa jesednin ñawipaypi kachkan, chaymi chiqan kaynikipi purini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Imaraykuchus"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Yahwepa jesednin"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "paypipuni"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawipaypi"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "purini"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "chiqan kaynikipi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:56.273447498Z",
+  "model": "glm-5.3"
+}

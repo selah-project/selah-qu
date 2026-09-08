@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Llusichirqanmi purimuq unakunata rumimanta, mayukuna hina unakunata uraykachirqan.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "llusichirqanmi"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "purimuq unakunata"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "rumimanta"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "uraykachirqan"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "mayukuna hina"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:55.307057478Z",
+  "model": "glm-5.3"
+}

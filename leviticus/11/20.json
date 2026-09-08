@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Llapan llawaq pachakunam, tawa chakipi puriq — sheqetsmi ⟨kay⟩ qamkunapaq.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "llawaq"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "pachakuna"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tawa chakipi"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "sheqets"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kay⟩mi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:00.921860051Z",
+  "model": "glm-5.3"
+}

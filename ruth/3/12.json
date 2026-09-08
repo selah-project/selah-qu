@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "«Kunanqa cheqnumi: ñuqam goel kani, ichataq huk goelmi ñuqamanta aswan qaylla kachkan.»",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "cheqalla"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "cheqnumi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ichataq"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kachkan"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "qaylla"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:29:29.113694402Z",
+  "model": "glm-5.3"
+}

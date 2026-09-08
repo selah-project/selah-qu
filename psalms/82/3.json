@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 82,
+  "translation": "Taripaychik wakchata, wajtaratawan; llakikusqata, mana imayuqta chiqanchaychik.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "Taripaychik"
+    },
+    {
+      "surface": "דל",
+      "gloss": "wakchata"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "wajtaratawan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "llakikusqata"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "mana imayuqta"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "chiqanchaychik"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:00.084962539Z",
+  "model": "glm-5.3"
+}

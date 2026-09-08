@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Simiykiqa mana allinman kachakunki, hinaspa qallunkiyniykiqa llullata churanmi.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "simiykiqa"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "kachakunki"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "mana allinman"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "hinaspa qallunkiyniykiqa"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "churanmi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "llullata"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:55.117035723Z",
+  "model": "glm-5.3"
+}

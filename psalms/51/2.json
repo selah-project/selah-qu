@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Natan (Natán) navi payman paqsimuqtinmi, Bat Shevaman (Betsabé) yaykuqtiy.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "paqsimuqtin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan (Natán)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kikillan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaykuq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva (Betsabé)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:13.066800711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 19:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Llapa runakunam hukllawalla kutichirqanku, nirqanku: 'Yahwem rimasqan llapatam ruwasqayku.' Chaysi Moshe runakunap ⟨את⟩ siminkunata Yahweman kutichirqan.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "kutichirqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hukllawalla"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimasqanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ruwasqayku"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunap siminkunata"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "siminkunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:52.400585050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ñuqap kunkayta uyarqankim; ama uyanaykita pakawaychu ñuqap samayniy rayku, qapariy rayku.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ñuqap kunkayta"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "uyarqankim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "pakawaychu"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "uyanaykita"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "ñuqap samayniy rayku"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "qapariy rayku"
+    }
+  ],
+  "timestamp": "2026-09-08T11:32:59.285909054Z",
+  "model": "glm-5.3"
+}

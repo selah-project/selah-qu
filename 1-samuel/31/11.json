@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Uyarirqankum chayta Yavesh Giladpi tiyaqkuna, imata Plishtimkunap Shaulta ruwasqantam ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "uyarirqankum"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata ruwasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ruwasqanta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtimkunap"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:32:15.579827342Z",
+  "model": "glm-5.3"
+}

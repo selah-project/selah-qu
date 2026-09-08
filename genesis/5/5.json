@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Llapa p'unchawkunam Adampa, mayqinkuna kawsarqan, isqon pachak wata chunka kimsa wata karqan; hinaspa wañurqan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsarqan"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "isqon"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "chunka kimsa wata"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:04.113816720Z",
+  "model": "glm-5.3"
+}

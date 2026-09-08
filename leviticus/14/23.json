@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 23,
+ "ref": "leviticus 14:23",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 14,
+ "translation": "Hinaspa pusaq ñiqin p'unchawpi pichakusqanmanta chaykunata ⟨את⟩ kohenta apamunqam, T'inakuy carpa punkuman, Yahwep ñawpaqen.",
+ "tokens": [
+  {
+   "surface": "והביא",
+   "gloss": "apamunqa"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩",
+   "marks": "chaykunata (llapa ofrendakunata)"
+  },
+  {
+   "surface": "ביום",
+   "gloss": "p'unchawpi"
+  },
+  {
+   "surface": "השמיני",
+   "gloss": "pusaq ñiqin"
+  },
+  {
+   "surface": "לטהרתו",
+   "gloss": "pichakusqanmanta"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohenta"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "פתח",
+   "gloss": "punku"
+  },
+  {
+   "surface": "אהל",
+   "gloss": "carpa"
+  },
+  {
+   "surface": "מועד",
+   "gloss": "t'inakuypa"
+  },
+  {
+   "surface": "לפני",
+   "gloss": "ñawpaqen"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwep"
+  }
+ ],
+ "timestamp": "2026-09-08T00:59:07.891011975Z",
+ "model": "glm-5.3"
+}

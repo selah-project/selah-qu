@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 24:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chayrayqum k'anchaylawpi Yahweta yupaychaychik; hatun mamapampa wat'akunapim Israelpa Elohimnin Yahwepa Sinta yupaychaychik.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chayrayqum"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chay"
+    },
+    {
+      "surface": "בארים",
+      "gloss": "k'anchaylawpi"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "באיי",
+      "gloss": "wat'akunapim"
+    },
+    {
+      "surface": "הים",
+      "gloss": "hatun mamapampa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:08:45.531099170Z",
+  "model": "glm-5.3"
+}

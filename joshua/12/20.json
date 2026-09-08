@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Shimron-Meronpa apun, hukmi; Akshafpa apun, hukmi.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shimron"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meronpa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akshafpa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:17:10.260151775Z",
+  "model": "glm-5.3"
+}

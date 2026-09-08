@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 18:9",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chay pachapitaqmi rimasaq huk goymanta (llaqta), huk mamallaqtamantawan (apaykachasqa suyu), sayariykuraypaq, hinaspa churaykuraypaqpas.",
+  "tokens": [
+    {
+      "surface": "ורגע",
+      "gloss": "chay pachapitaq"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "rimasaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "goy (llaqta)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa manta"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "mamallaqta (apaykachasqa suyu)"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "sayariykuraypaq"
+    },
+    {
+      "surface": "ולנטע",
+      "gloss": "hinaspa churaykuraypaqpas"
+    }
+  ],
+  "timestamp": "2026-09-08T07:05:56.133318844Z",
+  "model": "glm-5.3"
+}

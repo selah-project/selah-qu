@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 19:36",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Sanjeribmi, Ashurpa apun, purirqan, rirqan, kutirqan, hinaspa Ninewepi tiyarqan.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kutirqan"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sanjeribmi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashurpa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "Ninewepi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:43:00.884094459Z",
+  "model": "glm-5.3"
+}

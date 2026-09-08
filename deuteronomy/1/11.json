@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwe, qamkunap taytaykikunap Elohimnin qamkunaman kikinchik hina waranqa kutita yapachun, hinaspa ⟨את⟩ qamkunata bendicionwan chunqa, imaynachus qamkunaman nirqan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "taytaykikunap"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "yapachun"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "kikinchik hina"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "hinaspa bendicionwan chunqa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imaynachus"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:25:22.139632958Z",
+  "model": "glm-5.3"
+}

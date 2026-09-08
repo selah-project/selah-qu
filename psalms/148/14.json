@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "psalms 148:14",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 148,
+ "translation": "Hinaspa payqa pay runakunap kerenta hananchayarqan, yupaychayta tukuy pay jesed-yuq runakunanpaq, Israelpa wawankunapaq, paypa qayllapi kaq runakunapaq. Yupaychaychik Yahta.",
+ "tokens": [
+  {
+   "surface": "וירם",
+   "gloss": "hinaspa payqa hananchayarqan"
+  },
+  {
+   "surface": "קרן",
+   "gloss": "kerenta"
+  },
+  {
+   "surface": "לעמו",
+   "gloss": "pay runakunap"
+  },
+  {
+   "surface": "תהלה",
+   "gloss": "yupaychayta"
+  },
+  {
+   "surface": "לכל",
+   "gloss": "tukuy ...paq"
+  },
+  {
+   "surface": "חסידיו",
+   "gloss": "pay jesed-yuq runakunanpaq"
+  },
+  {
+   "surface": "לבני",
+   "gloss": "wawankunapaq"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "עם",
+   "gloss": "runakunapaq"
+  },
+  {
+   "surface": "קרבו",
+   "gloss": "paypa qayllapi kaq"
+  },
+  {
+   "surface": "הללו",
+   "gloss": "Yupaychaychik"
+  },
+  {
+   "surface": "יה",
+   "gloss": "Yahta"
+  }
+ ],
+ "timestamp": "2026-09-08T10:32:08.473109689Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa ⟨את⟩ ashanta Yahweman apamunqam, citqacarpap punkunman, karnero ashamta.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "hinaspa apamunqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashanta"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ashanta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkun"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "carpa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "citqa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "karnero"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham"
+    }
+  ],
+  "timestamp": "2026-09-08T01:06:40.683439257Z",
+  "model": "glm-5.3"
+}

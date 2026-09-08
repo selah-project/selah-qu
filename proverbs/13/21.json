@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Huchalipakunataqa millaym qatikunmi; ichataq ⟨את⟩ cheqaqkunata allinman churakunqam.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "huchalipakunata"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "qatikunmi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "millaym"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "cheqaqkunata"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cheqaqkunata"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "churakunqam"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:40:16.935665906Z",
+  "model": "glm-5.3"
+}

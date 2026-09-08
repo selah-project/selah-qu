@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 24:17",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaymanta sirwiqmi paywan tupanapaq kallpanawan pawaykurqan, nispa: \"Upyachihuway ñawpaqta, uchuy unuta kadillaykimanta.\"",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "kallpanawan pawaykurqan"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "sirwiq"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "paywan tupanapaq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "הגמיאיני",
+      "gloss": "upyachihuway"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "uchuy"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "מכדך",
+      "gloss": "kadillaykimanta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:34.487252184Z",
+  "model": "glm-5.3"
+}

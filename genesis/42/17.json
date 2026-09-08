@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Chaysim hark'arqan ⟨את⟩ paykunata hark'a wasiman, kimsa p'unchaw.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "hark'arqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wasiman"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "hark'a wasi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T00:13:32.383874093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Betsalelm ⟨את⟩ aronta (arca) shitta sach'akunamanta rurarqan: suni kaynin iskay ama hinaspa ch'usaq, hatun kaynin huk ama hinaspa ch'usaq, sayayninpas huk ama hinaspa ch'usaq.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "rurarqan"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aronta"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aronta"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'akunamanta"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitta"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "iskay ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "hinaspa ch'usaq"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "suni kaynin"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "hinaspa huk ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "hinaspa ch'usaq"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "hatun kaynin"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "hinaspa huk ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "hinaspa ch'usaq"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sayaynin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:19.595461807Z",
+  "model": "glm-5.3"
+}

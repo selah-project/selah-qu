@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 19,
+ "ref": "proverbs 3:19",
+ "book": "proverbs",
+ "lang": "qu",
+ "chapter": 3,
+ "translation": "Yahwem yachaywan hallp'ata sayarichirqan; yuyaywan hanaq pachata churarqan.",
+ "tokens": [
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "בחכמה",
+   "gloss": "yachaywan"
+  },
+  {
+   "surface": "יסד",
+   "gloss": "sayarichirqan"
+  },
+  {
+   "surface": "ארץ",
+   "gloss": "hallp'a"
+  },
+  {
+   "surface": "כונן",
+   "gloss": "churarqan"
+  },
+  {
+   "surface": "שמים",
+   "gloss": "hanaq pacha"
+  },
+  {
+   "surface": "בתבונה",
+   "gloss": "yuyaywan"
+  }
+ ],
+ "timestamp": "2026-09-08T10:36:40.603589055Z",
+ "model": "glm-5.3"
+}

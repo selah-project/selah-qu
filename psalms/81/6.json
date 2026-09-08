@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "Willakuytam Yosefpi churarqan, Mitsrayim hallp'ap pataman lluqsisqanpi; mana riqsisqay simitam uyarinim.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "willakuy"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Yosefpi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "lluqsisqanpi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pataman"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "simi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "riqsisqay"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "uyarinim"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:52.714693976Z",
+  "model": "glm-5.3"
+}

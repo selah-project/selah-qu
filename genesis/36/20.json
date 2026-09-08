@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Kaykunaqa Seirp churinkunam, jorikuna, hallp'ap kawsaqkuna: Lotan, Shobal, Tsibon, Anah.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kaykunaqa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seirpa"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "jorikuna"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kawsaqkuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "Shobal"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "Tsibon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "Anah"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:07.539561554Z",
+  "model": "glm-5.3"
+}

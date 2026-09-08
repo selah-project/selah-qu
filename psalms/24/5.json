@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Yahwemanta ⟨את⟩ bendiciónta chaskinqam, hinaspa paypa salvaciónninpa Elohimmanta tsedeqta chaskinqa.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "chaskinqam"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bendiciónta"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "Yahwemanta ⟨את⟩",
+      "marks": "bendiciónta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwemanta"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "hinaspa tsedeqta"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "salvaciónninpa Elohimmanta"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "salvaciónnin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:58.088344844Z",
+  "model": "glm-5.3"
+}

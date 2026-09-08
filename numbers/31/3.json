@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Hinaspa Moshem runakunaman rimarqan ninanpaq: Qamkunamanta warachichiy runakunata awqanakuyman; Midianwan awqanakunku, Yahwepa makanakuyninta Midianpi churanankupaq.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ninanpaq"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "warachichiy"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "qamkunamanta ⟨את⟩",
+      "marks": "runakuna (אנשים)"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "awqanakuyman"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "awqanakunku"
+    },
+    {
+      "surface": "על",
+      "gloss": "wan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "churanankupaq"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "makanakuyninta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "Midianpi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:18:48.802360225Z",
+  "model": "glm-5.3"
+}

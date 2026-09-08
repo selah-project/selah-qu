@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Ñuqam ñuqap sunquypi nirqani: Hamuy, ñuqata kusiychawtarqusqaykichá, allinta qhawariy; chaytaqri qhawarqani, chaypas hevelmi (ch'usaqllam).",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sunquypi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hamuy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "kusiychawtarqusqaykichá"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kusikuywan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "qhawarqani"
+    },
+    {
+      "surface": "גם",
+      "gloss": "chaypas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel (ch'usaq)"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:23.030524138Z",
+  "model": "glm-5.3"
+}

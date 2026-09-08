@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hunt'aspa ñawinta churarinmi ⟨את⟩ uyanpi, pay map'akunankama; chaymi Elohimpa runan waqyarqan.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "churarin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyanpi (פניו)"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uyanpi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "hunt'aspa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...kama"
+    },
+    {
+      "surface": "בש",
+      "gloss": "map'akunankama"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "waqyarqan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:31:22.084304617Z",
+  "model": "glm-5.3"
+}

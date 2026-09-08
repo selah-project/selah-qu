@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Hamawiykimanta tiyaq rimankimi, mamayki wawanta ñak'arita qunki.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "hamawiykimanta"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "rimankimi"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "wawanta"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mamayki"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qunki"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "ñak'arita"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:55.117283859Z",
+  "model": "glm-5.3"
+}

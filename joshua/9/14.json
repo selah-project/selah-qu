@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chaysi runakunam paykunap mikhunankunamanta hap'irqanku, hinaspa ⟨את⟩ Yahwepa siminta mana tapurqankuchu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "hap'irqanku"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "paykunap mikhunankunamanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yahwepa siminta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "tapurqankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T03:16:41.162384947Z",
+  "model": "glm-5.3"
+}

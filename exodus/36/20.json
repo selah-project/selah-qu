@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Chaymantam ⟨את⟩ Mishkanpaq qirakunata ruwarqan, shita sach'akunamanta, sayaqkuna ⟨hina⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qirakunata"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "qirakunata"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkanpaq"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shita"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "sayaqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:34.342210719Z",
+  "model": "glm-5.3"
+}

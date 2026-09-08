@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ninewa (Nínive) runakuna Elohimta iñirqankum, hinaspa hayunta willarqanku, hinaspa saqqukunata ch'itarqanku, hatun runankunamanta huch'uykama.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "iñirqankum"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewa (Nínive)"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "willarqanku"
+    },
+    {
+      "surface": "צום",
+      "gloss": "hayunta"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "ch'itarqanku"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "saqqukunata"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "hatun runankunamanta"
+    },
+    {
+      "surface": "ו עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "huch'uykama"
+    }
+  ],
+  "timestamp": "2026-09-08T09:05:59.297281570Z",
+  "model": "glm-5.3"
+}

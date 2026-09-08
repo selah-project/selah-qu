@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 4:2",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaysim llapanmi hukllapi huñunakuspa hamunapaq, Yerushalayimpi awqanankupaq, hinaspa chaypi ch'aqwayta ruwanankupaq munarqanku.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "huñunakuspa munarqanku"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hukllapi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "hamunapaq"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "awqanankupaq"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "hinaspa ruwanankupaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "ch'aqway"
+    }
+  ],
+  "timestamp": "2026-09-08T12:18:50.142232714Z",
+  "model": "glm-5.3"
+}

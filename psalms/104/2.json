@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "K'anchayta p'acha hina p'achakunmi; hanaq pachata q'ata hina mast'arqan.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "p'achakun"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchayta"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "p'acha hina"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "mast'arqan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "q'ata hina"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:57.313105751Z",
+  "model": "glm-5.3"
+}

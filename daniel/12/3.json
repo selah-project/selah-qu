@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yachaqkunataq pachap patan k'anchaynin hina k'anchankupakun; askhakunata allinman churaqkunataq quyllurkuna hina, wiñay wiñay kama.",
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "yachaqkunataq"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "k'anchankupakun"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "k'anchaynin hina"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "pachap patan"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "allinman churaqkunataq"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "askhakunata"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "quyllurkuna hina"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñay kama"
+    }
+  ],
+  "timestamp": "2026-09-08T12:07:07.635652772Z",
+  "model": "glm-5.3"
+}

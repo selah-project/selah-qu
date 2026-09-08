@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Chaysi paykunata apuspa ⟨את⟩ mayuta pasarqan, chantaq ⟨את⟩ paypa kaq llapan imatapas pasarachirqan.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "paykunata apuspa"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "pasarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayuta"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "pasarachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa kaq llapan imatapas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:05:59.049566279Z",
+  "model": "glm-5.3"
+}

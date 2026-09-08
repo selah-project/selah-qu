@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Chaymanta apamurqanki ⟨את⟩ wawaykikunata, hinaspa ⟨את⟩ ususykikunata, mayqenkuna ñuqaman wacharqanki, paykunaman aychaman karqanki mikhunapaq. ¿Pisi-tachu chay paya-munakuykika?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "apamurqanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawaykikunata"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "wawaykikuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ususykikunata"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "ususykikuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenkuna"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "wacharqanki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "aychaman karqanki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "mikhunapaq"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "pisi-tachu"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "paya-munakuykika"
+    }
+  ],
+  "timestamp": "2026-09-08T14:01:26.485490115Z",
+  "model": "glm-5.3"
+}

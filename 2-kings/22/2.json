@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Yahwep ñawinpan allin kaqta ruwarqanmi; David (David) taytanpa hunt'a ñanninpi purirqan, ñawpaqman paña icha lluq'iman manam t'ikrarqanchu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqanmi"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "allin kaqta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanninpi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David (David)"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanpa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "סר",
+      "gloss": "t'ikrarqanchu"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "paña"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "lluq'i"
+    }
+  ],
+  "timestamp": "2026-09-08T05:45:40.585385678Z",
+  "model": "glm-5.3"
+}

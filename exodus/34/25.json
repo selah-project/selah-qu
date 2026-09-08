@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Ama chamets (llullu t'anta) wanqhuwaankichu ñuqapmi zevach-yawinta; hinaspa Pesach fiesta zevachnintaqa paqariykama saqiwankichu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "wanqhuwaanki"
+    },
+    {
+      "surface": "על",
+      "gloss": "wan (chamets-wan)"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "chamets (llullu t'anta)"
+    },
+    {
+      "surface": "דם",
+      "gloss": "yawin"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ñuqap zevach"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa ama ...chu"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "sakiwaanki"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "paqariykama"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zevach"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fiesta (raymi)"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesach"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:41.306440101Z",
+  "model": "glm-5.3"
+}

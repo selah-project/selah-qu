@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 52,
+  "translation": "Qallunkiwan millay ruwaykunata yuyanki, llust'asqa saqrata hina, llullata ruraq.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "millay ruwaykunata"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "yuyanki"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "Qallunkiwan"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "saqrata hina"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "llust'asqa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "llullata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:58.901895547Z",
+  "model": "glm-5.3"
+}

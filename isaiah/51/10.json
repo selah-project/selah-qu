@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Manachu qam, paymi quchata ch'akichikuq, hatun ukhu unuta, quchap ukhukunata ñan ruwaqmi qispichisqakuna chayanankupaq?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "את",
+      "gloss": "qam",
+      "marks": "paymi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "ch'akichikuq"
+    },
+    {
+      "surface": "ים",
+      "gloss": "quchata"
+    },
+    {
+      "surface": "מי",
+      "gloss": "unu"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "ukhu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "ukhukuna"
+    },
+    {
+      "surface": "ים",
+      "gloss": "quchap"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "chayanankupaq"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "qispichisqakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T06:34:36.104595346Z",
+  "model": "glm-5.3"
+}

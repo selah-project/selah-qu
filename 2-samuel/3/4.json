@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 3:4",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Tawa ñiqinqa Adoniyahmi karqan Hagitpa churin; pichqa ñiqinqa Shefatyahmi karqan Avitalpa churin.",
+  "tokens": [
+    {
+      "surface": "והרביעי",
+      "gloss": "tawa ñiqinqa"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Hagitpa"
+    },
+    {
+      "surface": "והחמישי",
+      "gloss": "pichqa ñiqinqa"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Shefatyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אביטל",
+      "gloss": "Avitalpa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:32:42.375824287Z",
+  "model": "glm-5.3"
+}

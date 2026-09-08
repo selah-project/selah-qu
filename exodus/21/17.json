@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Taytanta utaq mamanta qhichuqqa wañuchisqam wañuchisqa kanqa.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "qhichuqqa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanta"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "utaq mamanta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuchisqam"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañuchisqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:35.744352667Z",
+  "model": "glm-5.3"
+}

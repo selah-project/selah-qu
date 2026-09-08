@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "¡Llaki! Niq taytaman: «Imata wachakunki?» hinaspa warmiman: «Imata nanakuspa wachanki?»",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "¡Llaki!"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "niq"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "taytaman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imata"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "wachakunki"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "hinaspa warmiman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imata"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "nanakuspa wachanki"
+    }
+  ],
+  "timestamp": "2026-09-08T06:28:08.048204167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 58,
+  "translation": "Manaraq aawsikunaykichik kiska sach'ata riqsichkankichi, kawsaq hina, phichqusqa hina, wayram apasunkami.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "riqsichkankichi"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "aawsikunaykichik"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "kiska sach'a"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "phichqusqa"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "wayram apasunki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:25.307856981Z",
+  "model": "glm-5.3"
+}

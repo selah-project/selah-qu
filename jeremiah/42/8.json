@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Hinaspa Yojanan (Johanán) Kareajpa churinta, ⟨את⟩ paywan kashaq awqakunap umalliqninkunata llapantam waqyarqan, hinaspa llapan runakunata, uch'u runamantam hatun runakama.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "waqyarqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yojananta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareajpa"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "hinaspa ... man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "awqakunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "paywan kashaq awqakunap umalliqninkuna"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "hinaspa llapanman"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "uch'u runamanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun runakama"
+    }
+  ],
+  "timestamp": "2026-09-08T07:35:30.765589271Z",
+  "model": "glm-5.3"
+}

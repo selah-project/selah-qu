@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Qhapaq p'achakunatam ruwanki Aharonpaq (Aarón), qampa wawkiyikipaq, qhapaq kayninpaq, sumaq kayninpaqwan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "p'achakunata"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qhapaq"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonpaq (Aarón)"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "qampa wawkiyikipaq"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "qhapaq kayninpaq"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "sumaq kayninpaqwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:27.666673868Z",
+  "model": "glm-5.3"
+}

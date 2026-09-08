@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 112,
+  "translation": "Wiñaypaq mana sarunchakunqachu; wiñay yuyasqamanmi chiqap runa tukunqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chiqaptaqmi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sarunchakunqachu"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "yuyasqaman"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "tukunqa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "chiqap runa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:25.328636492Z",
+  "model": "glm-5.3"
+}

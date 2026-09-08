@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Huk makipi hunt'alla thakllam aswan allinmi, iskay makipi hunt'alla llank'aymanta, wayra nanachiymantawan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "aswan allinmi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hunt'alla"
+    },
+    {
+      "surface": "כף",
+      "gloss": "maki"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "thaklla"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "hunt'alla"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "iskay maki"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "llank'ay"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "nanachiymantawan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:52.712533937Z",
+  "model": "glm-5.3"
+}

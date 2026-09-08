@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hanaq pachapi tiyaqm asirqan; Adonaym paykunamanta phakhirirqan.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "asirqan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "phakhirirqan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:00.517766676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Yahwe, ñuqata chiqan kayniykiwan pusaway, awqaniykunapa raykun; ñawpaypi ñanta chiqanchaway.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ñuqata pusaway"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "chiqan kayniykiwan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "raykun"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "awqaniykunapa"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "chiqanchaway"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaypi"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ñanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:40.865126499Z",
+  "model": "glm-5.3"
+}

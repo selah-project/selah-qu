@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Pelishtu runaqa tutamanta ch'isiwan qayllakurqanmi, chunka tawa p'unchawta sayarqan.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "qayllakurqan"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Pelishtu runa"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "ch'isiwan"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "sayarqan"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "chunka tawa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:17:07.766410869Z",
+  "model": "glm-5.3"
+}

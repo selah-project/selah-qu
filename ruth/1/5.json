@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Wañurqankum iskayninkupas, Mahlon (Mahlón) hinallataq Kilion (Kilyón); chay warmiqa iskay wawanmanta, qusanmantawan qhipallan karqan.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "wañurqanku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iskayninku"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "hinallataq Kilion"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "qhipallan karqan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "chay warmi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "iskay ... -manta"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "wawanmanta"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "qusanmantawan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:30:16.404858659Z",
+  "model": "glm-5.3"
+}

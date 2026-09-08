@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa sichus hallp'api llasa mast'arikuptinqa, kohenda ⟨את⟩ negayuq runata millay nispa willanqami, millaymi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa sichus"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "mast'ariy"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "mast'arikuptin"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "millay nispa willanqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "negayuq runata"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨millaymi⟩"
+    }
+  ],
+  "timestamp": "2026-09-08T00:58:46.550110704Z",
+  "model": "glm-5.3"
+}

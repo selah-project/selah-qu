@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "T'aqanapaq mana imamanta hinata, imamanta hinamanta, michhu atikuq mikhunata mana atikuqmanta.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "t'aqanapaq"
+    },
+    {
+      "surface": "בין",
+      "gloss": "mana imamanta hina"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "imamanta"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "imamanta hinamanta"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "imamanta hina"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "michhu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "mikhunata"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "atikuq"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "michhu"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "mana atikuqmanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mikhunchu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:11.559215757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 6:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa qamkunata ⟨את⟩ ñuqaman llaqta hina chakirusaqkimanta, hinaspa qamkunapaq Elohim kanim; chayta riqsisaqkimankichis ñuqa Yahwe, Elohimniykichis, kasqayta, qamkunata ⟨את⟩ Mitsrayimpa ahatarasqankuna urayninmanta lluqsisichiq kasqayta.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "chakirusaqkimanta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "ñuqaman llaqta hina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "llaqta hina"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "kanim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "riqsisaqkimankichis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqayta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichis"
+    },
+    {
+      "surface": "המוציא",
+      "gloss": "lluqsisichiq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "Mitsrayimpa ahatarasqankuna urayninmanta"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "urayninmanta"
+    },
+    {
+      "surface": "סבלות",
+      "gloss": "ahatarasqankuna"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:24:10.061477107Z",
+  "model": "glm-5.3"
+}

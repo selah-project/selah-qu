@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaym nirqan: Sasata mañarqanki mañakunaypaq. Sichus qamta apakusqayta qawanki, chayhina qamman kanqam; icha mana kaptinqa, mana kanqachu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "sasata mañarqanki"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "mañakunaypaq"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "qawanki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata apakusqayta"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "apakusqayta"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "qamanta ⟨את⟩wan"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "icha sichus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:23:35.705170768Z",
+  "model": "glm-5.3"
+}

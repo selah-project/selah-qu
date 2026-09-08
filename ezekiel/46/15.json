@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Chaysi ⟨את⟩ karnerota, hinaspa ⟨את⟩ minjatawan, hinaspa ⟨את⟩ wiratawan paqariypi, paqariypi rurankum, mana hark'aylla nanacha hina.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "rurankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karnerota"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "karnerota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "minjata"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minjatawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wirata"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "wiratawan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "paqariypi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "paqariypi"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "nanacha hina"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mana hark'aylla"
+    }
+  ],
+  "timestamp": "2026-09-08T08:40:10.160522060Z",
+  "model": "glm-5.3"
+}

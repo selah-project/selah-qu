@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Qamkunapas yachankichikmi, tukuy atiyniywanmi taytaykichiktata ⟨את⟩ sirviyta rurqani.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "qamkunapas"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "yachankichik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "atiyniywan"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "sirviyta rurqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytaykichikta"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "taytaykichikta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:05:32.178686083Z",
+  "model": "glm-5.3"
+}

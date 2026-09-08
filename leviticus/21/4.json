@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Qhariyuq kaptinpas manam millayachikunmanchu paypa runakunanpi, paylla millaychanapaqmi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "millayachikunmanchu"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "qhariyuq kaptin"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "paypa runakunanpi"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "paylla millaychanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:27.731899409Z",
+  "model": "glm-5.3"
+}

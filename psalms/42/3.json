@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Ch'akirqanmi nefeshniy Elohimpaq, El Chay (kawsaq El) paq. Imawrata chayamusaq, hinaspa Elohimpa uyanta qhawasaq?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "ch'akirqan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimpaq"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elpaq"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Chay"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "imawrata"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "chayamusaq"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "hinaspa qhawasaq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "uyanta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:09.951087589Z",
+  "model": "glm-5.3"
+}

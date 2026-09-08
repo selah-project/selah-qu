@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa David Giv'onitakunaman nirqan: Imataq qamkunapaq ruwasaq? Hinaspa imawantaq pampachakusaq, qamkunataq Yahwep herenciata ⟨את⟩ bendecispaq?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "Giv'onitakunaman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ruwasaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "hinaspa imawantaq"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "pampachakusaq"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "bendecispaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwep herencianta"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "herencianta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T04:52:54.735868719Z",
+  "model": "glm-5.3"
+}

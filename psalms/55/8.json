@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Qhawariy: karuman ayqekusaqmi, sallqa pachapi tuta kawsakusaq. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "qhawariy"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "karuman"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ayqekusaqmi"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "tuta kawsakusaq"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "sallqa pachapi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:01.816237424Z",
+  "model": "glm-5.3"
+}

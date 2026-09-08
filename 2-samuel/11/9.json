@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Uriyahmi apupa wasin punkunpi puñurqan, ⟨את⟩ llapa apuninpa servukunninwan; wasinmanqa mana urmaykacharqanchu.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "puñurqanmi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyah"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkunpi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "servukun"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "apunin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "urmaykacharqanchu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasinman"
+    }
+  ],
+  "timestamp": "2026-09-08T13:38:40.251737450Z",
+  "model": "glm-5.3"
+}

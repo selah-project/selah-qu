@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Elohim Tsebaot, kutiy mañakuspa; hanaq pachamanta qhaway, hinaspa rikuy, hinaspa qhawariy kay wiñaputa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mañakuspa"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "hanaq pachamanta"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "hinaspa rikuy"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "hinaspa qhawariy"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "wiñaputa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:05.388657058Z",
+  "model": "glm-5.3"
+}

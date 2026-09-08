@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 75,
+  "translation": "Kamachiqman: Ama-chinkachiychu. Asafpa mizmor, taki.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kamachiqman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "chinkachiychu"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafpa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:47.374601889Z",
+  "model": "glm-5.3"
+}

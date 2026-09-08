@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Runakunap umalliqninkuna huñusqaptinmi, Israelpa ayllukunapas llapan kuska, Yeshurunpi apum karqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "Yeshurunpi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "huñusqaptin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "llapan kuska"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "ayllukunapas"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:02:41.919197167Z",
+  "model": "glm-5.3"
+}

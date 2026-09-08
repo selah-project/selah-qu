@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 32:21",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Hinaspa ⟨את⟩ runaykita — ⟨את⟩ Israelta — Mitsrayim (Egipto) hallp'amanta lluqsiyachirqankim unanchakunawan, milagrokunawan, sinchi makiwan, mast'arisqa makhiwan, hatun mancharikuywan.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "lluqsiyachirqankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runaykita"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runayki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "באתות",
+      "gloss": "unanchakunawan"
+    },
+    {
+      "surface": "ובמופתים",
+      "gloss": "milagrokunawan"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "makiwan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "ובאזרוע",
+      "gloss": "makhiwan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "mast'arisqa"
+    },
+    {
+      "surface": "ובמורא",
+      "gloss": "mancharikuywan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T07:27:37.371425222Z",
+  "model": "glm-5.3"
+}

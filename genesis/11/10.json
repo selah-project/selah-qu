@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Kaykunam Shem (Sem)pa t'ikrariynin: Shemqa pachak watayuq churi karqan, hinaspa mabbul (hatun yaku) qhipa iskay watapi ⟨את⟩ Arpakshad (Arfaxad)ta pañarqan.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Kaykuna"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "t'ikrariynin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shempa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "watayuq"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "pañarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshadta"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshadta"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "iskay watapi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "qhipa"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "mabbul"
+    }
+  ],
+  "timestamp": "2026-09-08T02:01:30.839386360Z",
+  "model": "glm-5.3"
+}

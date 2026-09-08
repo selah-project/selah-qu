@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Yahwepa ñawinkuna chaqna runakunallapim kachkan, hinaspa paypa rinrinkunan paykunap qapariyninkunallapim kachkan.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ñawinkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "chaqna runakuna"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "rinrinkuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "qapariyninku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:11.874528768Z",
+  "model": "glm-5.3"
+}

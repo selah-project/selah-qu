@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Yahwepa jesedninkunata wiñaypaqtak takisa; dor dorman simiwan willasaq iñiyniykita.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "jesedninkunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaqtak"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "takisa"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "dor"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "dorman"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "willasaq"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "iñiyniykita"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "simiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:38.054017854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Mayqen musuq runapas qodesh mikhunchu; kohenpa wasinpi tiyaqmi, llamk'apuq runapas, qodesh mikhunchu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mayqen ... pas"
+    },
+    {
+      "surface": "זר",
+      "gloss": "musuq runapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhunchu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "kohenpa wasinpi tiyaq"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenpa"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "llamk'apuq runapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhunchu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:44.323423388Z",
+  "model": "glm-5.3"
+}

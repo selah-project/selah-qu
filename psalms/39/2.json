@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 39:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Ñuqam niyta yuyarqani: ñuqap ñanniytata waqaychasaq, ama simiypi huchalichus; simiyta hark'awanqam, mana hayk'aqcha, ichaqa hark'awanqam, rusaq runa ñawpaypi kachkaptin.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "niyta yuyarqani"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "waqaychasaq"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ñanniytata"
+    },
+    {
+      "surface": "מחטוא",
+      "gloss": "ama huchalichus"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "simiypi"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "hark'awanqam"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "simiyta"
+    },
+    {
+      "surface": "מחסום",
+      "gloss": "hark'a"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "mana hayk'aqcha, ichaqa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rusaq runa"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ñawpaypi kachkaptin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:06.729538066Z",
+  "model": "glm-5.3"
+}

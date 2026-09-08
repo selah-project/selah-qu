@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Yahwe, kunkayta uyariy jesedniykiwan ⟨hina⟩, mishpatniykiwan kawsachimuway.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "kunkay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "jesedniykiwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "mishpatniykiwan"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "kawsachimuway"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:25.450796957Z",
+  "model": "glm-5.3"
+}

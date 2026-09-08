@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Hinaspa ⟨את⟩ ñuqaykuwan tiyaychik, chaysi hallp'aqa ñawpaqeykichikman kanqa: chaypi tiyaychik, qatuychik chayta, hinaspa chayta hap'iykachiy.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "hinaspa ⟨את⟩ ñuqaykuwan"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "tiyaychik"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "chaysi hallp'a"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ñawpaqeykichikman"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "tiyaychik"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "qatuychik chayta"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "hinaspa chayta hap'iykachiy"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:32.196932649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Sutiyki hina, Elohim, takiy sumaqniykiqa hallp'a ch'inakunakamam; paña makinqa cheqan kaywan hunt'asqam ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Sutiyki hina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "hina"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "takiy sumaqniyki"
+    },
+    {
+      "surface": "על",
+      "gloss": "...kama"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "ch'inakunakama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cheqan kaywan"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "hunt'asqam"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "paña makin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:37.348845463Z",
+  "model": "glm-5.3"
+}

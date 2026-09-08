@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 20:20",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Lluqsirqanku Israelpa runakuna Binyaminwan awqanakuypaq, hinaspa Israelpa runakuna ⟨את⟩ paykunawan awqanakunata Gib'ahpa ñawpaqman wakichirqanku.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsirqanku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "awqanakuypaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaminwan"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "wakichirqanku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunawan (Binyaminpa runakunawan)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "awqanakunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ñawpaqman"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gib'ahpa"
+    }
+  ],
+  "timestamp": "2026-09-08T04:00:40.850348039Z",
+  "model": "glm-5.3"
+}

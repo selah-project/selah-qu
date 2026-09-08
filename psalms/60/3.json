@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 60,
+  "translation": "Elohim, ñuqaykuta saqirpusqankim, p'akirusqankim, phinakusqankim; ñuqaykuman kutimuy.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ñuqaykuta saqirpusqanki"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "p'akirusqanki"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "phinakusqanki"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "kutimuy"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykuman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:51.659811976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Chaymanta suqta p'unchawpi chayamuptinqa haywasqankuta allinchasqankum; chayqa iskaychaymi kanqa p'unchaw p'unchaw huñisqankumanta aswan.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "chaymanta kanqa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "suqta ñiqin"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "allinchasqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "haywasqanku"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "iskaychay"
+    },
+    {
+      "surface": "על",
+      "gloss": "-manta aswan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "huñisqanku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T00:32:26.378654870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa qillqasaq lluch'akunap patapi ⟨את⟩ rimaykunata — ñawpaq lluch'akunapim karqan, qam t'ikrasqayki — hinaspa arkopi churanki.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "hinaspa qillqasaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lluch'akuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rimaykunata"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "rimaykunata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imakuna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lluch'akuna"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ñawpaqkuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imakunata"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "t'ikrasqayki"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "hinaspa churanki"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "arkopi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:32:38.945722622Z",
+  "model": "glm-5.3"
+}

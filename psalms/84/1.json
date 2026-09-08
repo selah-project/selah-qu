@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 84,
+  "translation": "Ataqkunap umalliqninman, gittita waqachispa; Korachpa wawankunap mizmorin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ataqkunap umalliqninman"
+    },
+    {
+      "surface": "על",
+      "gloss": "gittita waqachispa"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gittita waqachispa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachpa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmorin"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:35.512387298Z",
+  "model": "glm-5.3"
+}

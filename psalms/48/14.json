@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Sunquykita churaychik ⟨chay⟩ p'antanta, apachikunata qhawaychik hatun wasinkunanta, chaymi qipaq watakunaman willankichik.",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "churaychik"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "sunquykita"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "chay p'antanta"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "apachikunata qhawaychik"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "hatun wasinkunanta"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "willankichik"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "watakunaman"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "qipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:58.809812660Z",
+  "model": "glm-5.3"
+}

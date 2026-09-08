@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 93,
+  "translation": "Mayukuna huqarirqanmi, Yahwe; mayukuna kunkankunata huqarirqanmi; mayukunapas hat'un t'ikranankuta huqaringanku.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "huqarirqanmi"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mayukuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "huqarirqanmi"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mayukuna"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "kunkankunata"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "huqaringanku"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "mayukunapas"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "hat'un t'ikranankuta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:00.367049949Z",
+  "model": "glm-5.3"
+}

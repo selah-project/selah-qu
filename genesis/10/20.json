@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Kaymi Cham (Cam)pa churiyinkuna, mishpajankunaman, siminkunaman, hallp'ankunapi, llatakankunapin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiyinkuna"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham (Cam)pa"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "mishpajankunaman"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "siminkunaman"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "hallp'ankunapi"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "llatakankunapin"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:40.855516119Z",
+  "model": "glm-5.3"
+}

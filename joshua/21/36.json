@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa Reuben mastamanta: ⟨את⟩ Betserta michi pampanwan, ⟨את⟩ Yahtsata michi pampanwan.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "hinaspa mastamanta"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuben"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Betserta"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Betser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michi pampanwan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michi pampa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yahtsata"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahtsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michi pampanwan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michi pampa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:27:35.452991829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Esavmi nirqan: Munaspa, runakunamanta huk taytankunata qampawan saqiykussaq. Paytaq nirqan: Imarayku kay? Apuypi ñawikunapi chaniyta tariktinmi, chayllam.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "saqiykussaq"
+    },
+    {
+      "surface": "נא",
+      "gloss": "munaspa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qampawan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqawan",
+      "marks": "runakuna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "tariktin"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chaniy"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawikunapi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apuypi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:06:58.181972548Z",
+  "model": "glm-5.3"
+}

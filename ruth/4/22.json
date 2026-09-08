@@ -1,0 +1,47 @@
+{
+ "tier": "glm-5.2",
+ "verse": 22,
+ "ref": "ruth 4:22",
+ "book": "ruth",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Hinaspa Oved ⟨את⟩ Yishayta paqarichirqan, Yishaytaq ⟨את⟩ Davidta paqarichirqan.",
+ "tokens": [
+  {
+   "surface": "ועבד",
+   "gloss": "Hinaspa Oved"
+  },
+  {
+   "surface": "הוליד",
+   "gloss": "paqarichirqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yishayta"
+  },
+  {
+   "surface": "ישי",
+   "gloss": "Yishay"
+  },
+  {
+   "surface": "וישי",
+   "gloss": "Yishaytaq"
+  },
+  {
+   "surface": "הוליד",
+   "gloss": "paqarichirqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Davidta"
+  },
+  {
+   "surface": "דוד",
+   "gloss": "David"
+  }
+ ],
+ "timestamp": "2026-09-08T11:30:57.495343268Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Kohenpa tukuy minchanqa llapanllataq uchusqa kanqa ⟨kan⟩mi; mana mikhunchu kanqa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenpa"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "llapanllataq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mikhunchu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:52:39.961967920Z",
+  "model": "glm-5.3"
+}

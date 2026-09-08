@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hallp'aykichikqa ch'usaqmi; llaqtaykichikqa ninawan rawachisqam; allpaykichikta ñawipaykichik ñawpi ajqinakunam mikhunku ⟨את⟩ chayta; hinaspa ch'usaq, ajqinakunpa tikrasqan hina.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "hallp'aykichikqa"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "llaqtaykichikqa"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "rawachisqa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ninawan"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "allpaykichikta"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "ñawipaykichik ñawpi"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ajqinakuna"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "mikhunku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "chayta (allpaykichikta)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "hinaspa ch'usaq"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "tikrasqan hina"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ajqinakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T05:49:09.868525134Z",
+  "model": "glm-5.3"
+}

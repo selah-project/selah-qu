@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Atoqsi qarwawan kawsanqa, uti kawra wawanwan puñunqa; waka wawan, puma wawan, wisq'u waka hukllapi kasanqaku, hinaspa huk huch'uy wawa paykunata pusanqa.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "kawsanqa"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "atoq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "qarwa"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "uti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "kawra wawanwan"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "puñunqa"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "waka wawan"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "puma wawan"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "wisq'u waka"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hukllapi"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "huk huch'uy wawa"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "huch'uy"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "pusanqa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:58:44.319096703Z",
+  "model": "glm-5.3"
+}

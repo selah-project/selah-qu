@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Mamallaktata Shaulpa wasinmanta pasachinampaq, Davidpa tiyananta ⟨את⟩ sayarichinampaqmi, Israelpa patapi, Yehudapapipas, Danmanta Beer Shevakama.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "pasachinampaq"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "mamallaktata"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasinmanta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul (Saúl)"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "sayarichinampaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tiyananta"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "tiyanan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "patapipas"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda (Judá)"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Danmanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva (Berseba)"
+    }
+  ],
+  "timestamp": "2026-09-08T04:33:40.218432543Z",
+  "model": "glm-5.3"
+}

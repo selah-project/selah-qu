@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Kaykunamanta hawakuna, runa llaqtakuna, t'aqasqa karqanku hallp'inkupi, sapa runa paypa siminman hina, ayllunkuman hina, runa llaqtankupi.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "kaykunamanta"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "t'aqasqa karqanku"
+    },
+    {
+      "surface": "איי",
+      "gloss": "hawakuna"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "runa llaqtakuna"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "hallp'inkupi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "paypa siminman hina"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayllunkuman hina"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "runa llaqtankupi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:49.422435171Z",
+  "model": "glm-5.3"
+}

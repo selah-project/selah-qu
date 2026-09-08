@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chay pacham llapa ⟨את⟩ llaqtankunata hap'irqayku; llaqta mana karqanchu ñuqanchik paykunamanta ⟨את⟩ mana hap'asqanchu; suqta chunka llaqta, llapa Argob (Argob) t'aqa, Ogpa mamallqtan Bashanpi.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "hap'irqayku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa llaqtankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "llaqtankunata"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "chay pacha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "hap'asqanchu"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "paykunamanta ⟨את⟩"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "suqta chunka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "t'aqa"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "Argob (Argob)"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "mamallqtan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogpa"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Bashanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:28:38.035207649Z",
+  "model": "glm-5.3"
+}

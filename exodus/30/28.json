@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "hinaspa ⟨את⟩ nina muchhana altarta, ⟨את⟩ llapa imankunantawan, hinaspa ⟨את⟩ tinajatawan, ⟨את⟩ sayananwan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "nina muchhana altar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "nina muchhana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa imankuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tinaja"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "tinaja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sayana"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sayana"
+    }
+  ],
+  "timestamp": "2026-09-08T00:41:03.842739644Z",
+  "model": "glm-5.3"
+}

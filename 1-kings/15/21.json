@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Chaym Basha uyariptin, ⟨את⟩ Ramata wasichaymanta saqirqan, Tirtsapi tiyarqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "uyariptin"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basham"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "saqirqan"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "wasichaymanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramata"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramata"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqanm"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirtsapi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:14:30.422241211Z",
+  "model": "glm-5.3"
+}

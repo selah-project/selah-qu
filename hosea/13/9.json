@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Israel, qam kikillayki ch'usaqchasqayki kanmi; icha yanapayniyki ñuqapillapim ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "ch'usaqchasqayki kanmi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "icha"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqapillapi"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "yanapayniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T08:49:16.517749199Z",
+  "model": "glm-5.3"
+}

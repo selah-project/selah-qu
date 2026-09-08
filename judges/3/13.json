@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Eglon (Eglón)mi payman huñurqan ⟨את⟩ Ammon (Amón)pa churinkunata, Amalek (Amalec)tawan; purirqanmi, mak'arqan ⟨את⟩ Israelta; hinaspa kamachakuspa hap'irqankum ⟨את⟩ temor llaqtata.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "huñurqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ammonpa churinkunata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "Amalektawan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mak'arqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "kamachakuspa hap'irqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temor llaqtata"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "temor"
+    }
+  ],
+  "timestamp": "2026-09-08T03:41:10.256600730Z",
+  "model": "glm-5.3"
+}

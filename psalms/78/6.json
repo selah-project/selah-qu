@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "psalms 78:6",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 78,
+ "translation": "Chayrayku qhipa mirachin yachanankupaqmi — paqana wawakuna — sayarispam wawankunaman willananku.",
+ "tokens": [
+  {
+   "surface": "למען",
+   "gloss": "Chayrayku"
+  },
+  {
+   "surface": "ידעו",
+   "gloss": "yachanankupaq"
+  },
+  {
+   "surface": "דור",
+   "gloss": "mirachin"
+  },
+  {
+   "surface": "אחרון",
+   "gloss": "qhipa"
+  },
+  {
+   "surface": "בנים",
+   "gloss": "wawakuna"
+  },
+  {
+   "surface": "יולדו",
+   "gloss": "paqana"
+  },
+  {
+   "surface": "יקמו",
+   "gloss": "sayarispam"
+  },
+  {
+   "surface": "ויספרו",
+   "gloss": "willananku"
+  },
+  {
+   "surface": "לבניהם",
+   "gloss": "wawankunaman"
+  }
+ ],
+ "timestamp": "2026-09-08T10:03:29.461339372Z",
+ "model": "glm-5.3"
+}

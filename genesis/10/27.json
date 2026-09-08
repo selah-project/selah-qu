@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa ⟨את⟩ Hadoramta, ⟨את⟩ Uzalwan, ⟨את⟩ Diklawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Hinaspa ⟨את⟩",
+      "marks": "Hadoramta"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Uzalwan"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Diklawan"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Dikla"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:52.749850724Z",
+  "model": "glm-5.3"
+}

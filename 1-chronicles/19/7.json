@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 19:7",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspam paykunapaq iskay chunka iskayniyuq waranqa rurqakunata akllarqaku hark'anapaq, hinaspa ⟨את⟩ Maakhapa apunta, ⟨את⟩ paypa runakunatawan; chaymi hamurqaku hinaspa Medeba ñawpaqpi kamparqaku; Ammonpa wawankunañataq llaqtankumanta huñurqaku, maqanakuyman hamunankupaq.",
+  "tokens": [
+    {
+      "surface": "וישכרו",
+      "gloss": "akllarqaku hark'anapaq"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "chunka iskayniyuq"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "rurqakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Maakhapa apunta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhapa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "paypa runakunatawan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runakunatawan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hamurqaku"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "kamparqaku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Medeba"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonpa"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "huñurqaku"
+    },
+    {
+      "surface": "מעריהם",
+      "gloss": "llaqtankumanta"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hamurqaku"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "maqanakuyman"
+    }
+  ],
+  "timestamp": "2026-09-08T14:37:59.885042708Z",
+  "model": "glm-5.3"
+}

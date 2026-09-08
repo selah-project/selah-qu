@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Paykunata ayparqanmi, paykunawan kay ⟨את⟩ simikunata rimarqan.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "paykunata ayparqanmi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay simikunata"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "simikunata"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T00:14:07.104708369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa plishtikunaqa Shaulta, churinkunatapas qatirqanku; hinaspa plishtikunam ⟨את⟩ Yonatanta, ⟨את⟩ Avinadavtawan, ⟨את⟩ Malki Shuatawan wañuchirqanku, Shaulpa churinkunata.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "qatirqanku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plishtikunaqa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": ""
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulta"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "wan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkunatapas"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "wañuchirqanku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "plishtikunam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatanta"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Avinadavta"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadavta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Malki Shuata"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shuata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulpa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:39:42.484550379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Kanmi huk mana allin kay, icha ñuqawan rikusqa inti ukhupi, hinaspa paymi runakunapi llasam.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kanmi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "huk mana allin kay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "icha"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ñuqawan rikusqa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ukhupi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "hinaspa llasaq"
+    },
+    {
+      "surface": "היא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "על",
+      "gloss": "runakunapi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T11:43:19.342844543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Qhawaymi, siminkumanta qarqanku, wirqankunapiqtaq sayrit'akuna; imaraykuchus ¿pitaq uyarinqa?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "qarqanku"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "siminkumanta"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "sayrit'akuna"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "wirqankunapiqtaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pitaq"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyarinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:52.200815158Z",
+  "model": "glm-5.3"
+}

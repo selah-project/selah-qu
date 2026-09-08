@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Paypaq musuq takita takinchik; allinta tintiykachiychik qhapariywan.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "takinchik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "tintiykachiy"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "qhapariywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:59.080145514Z",
+  "model": "glm-5.3"
+}

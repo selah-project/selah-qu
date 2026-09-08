@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Paroshpa churinkuna: iskay waranqa, pachak chunka qanchis iskayniyuqmi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Paroshpa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "iskay waranqa"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "pachak chunka"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "qanchis chunka"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "iskayniyuqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:07:08.640376120Z",
+  "model": "glm-5.3"
+}

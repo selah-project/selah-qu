@@ -1,0 +1,84 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "genesis 15:10",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 15,
+ "translation": "Payqa llapantam ⟨את⟩ chaykunata hap'irqan, ⟨את⟩ paykunata chawpimanta iskayman t'akarqan, sapa t'aqata masinnin qayllaman churarqan; icha hinaspa ⟨את⟩ phiskakunata manam t'akarqanchu.",
+ "tokens": [
+  {
+   "surface": "ויקח",
+   "gloss": "hap'irqan"
+  },
+  {
+   "surface": "לו",
+   "gloss": "paypaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "llapan chaykunata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "אלה",
+   "gloss": "chaykuna"
+  },
+  {
+   "surface": "ויבתר",
+   "gloss": "t'akarqan"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ paykunata",
+   "marks": "chawpimanta iskayman"
+  },
+  {
+   "surface": "בתוך",
+   "gloss": "chawpimanta"
+  },
+  {
+   "surface": "ויתן",
+   "gloss": "churarqan"
+  },
+  {
+   "surface": "איש",
+   "gloss": "sapa"
+  },
+  {
+   "surface": "בתרו",
+   "gloss": "t'aqanta"
+  },
+  {
+   "surface": "לקראת",
+   "gloss": "qayllaman"
+  },
+  {
+   "surface": "רעהו",
+   "gloss": "masinnin"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "phiskakunata"
+  },
+  {
+   "surface": "הצפר",
+   "gloss": "phiskakuna"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "בתר",
+   "gloss": "t'akarqanchu"
+  }
+ ],
+ "timestamp": "2026-09-07T23:56:24.967150384Z",
+ "model": "glm-5.3"
+}

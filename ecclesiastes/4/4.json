@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Qawarqanimi ⟨את⟩ llapa llakilla llamk'ayta, ⟨את⟩ llapa ruraypa allin ruwasqantawan — runa masinpa qatiquyninmi kanqahca. Kaypas ch'usaqllam, wayra mask'asqallam.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Qawarqani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa llakilla llamk'ayta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "llakilla llamk'ayta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "allin ruwasqanta"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ruraypa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kanqahca"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "qatiquynin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "masinpa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "Kaypas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ch'usaqllam"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "mask'asqallam"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:17.569373763Z",
+  "model": "glm-5.3"
+}

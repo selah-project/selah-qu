@@ -1,0 +1,77 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "1-chronicles 14:14",
+ "book": "1-chronicles",
+ "lang": "qu",
+ "chapter": 14,
+ "translation": "Chaymanta Davidmi aswanraq Elohimman tapurqan; hinaspa Elohim payman nirqanmi: «Mana paykunap qatinpi siq'arinkichu; paykunamanta t'ikrakamay, hinaspa baka sach'akuna ñawpaqenmanta paykunaman chayamunki.»",
+ "tokens": [
+  {
+   "surface": "וישאל",
+   "gloss": "chaymanta tapurqan"
+  },
+  {
+   "surface": "עוד",
+   "gloss": "aswanraq"
+  },
+  {
+   "surface": "דויד",
+   "gloss": "David"
+  },
+  {
+   "surface": "באלהים",
+   "gloss": "Elohimman"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "לו",
+   "gloss": "payman"
+  },
+  {
+   "surface": "האלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana…chu"
+  },
+  {
+   "surface": "תעלה",
+   "gloss": "siq'arinki"
+  },
+  {
+   "surface": "אחריהם",
+   "gloss": "paykunap qatinpi"
+  },
+  {
+   "surface": "הסב",
+   "gloss": "t'ikrakamay"
+  },
+  {
+   "surface": "מעליהם",
+   "gloss": "paykunamanta"
+  },
+  {
+   "surface": "ובאת",
+   "gloss": "chayamunki"
+  },
+  {
+   "surface": "להם",
+   "gloss": "paykunaman"
+  },
+  {
+   "surface": "ממול",
+   "gloss": "ñawpaqenmanta"
+  },
+  {
+   "surface": "הבכאים",
+   "gloss": "baka sach'akuna"
+  }
+ ],
+ "timestamp": "2026-09-08T12:41:33.626437412Z",
+ "model": "glm-5.3"
+}

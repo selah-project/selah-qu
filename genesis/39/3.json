@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hinaspa paypa apun rikurqan Yahwem paywan ⟨את⟩ kasqanta; hinaspa tukuy imata pay ruraqta, Yahwem paypa makinpi chaniyachirqanmi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "hinaspa ... rikurqan"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "paypa apun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "paywan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraqta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "chaniyachirqanmi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "paypa makinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:11:55.150229964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa Yahwep ñawinpi mana allinta ruram, ñawpaqmanchu taytan hinaspa maman hinachu; hinaspa taytan rurasqa Baalpa saywachasqa ruminta ⟨את⟩ huratam surqarqan.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "ruram"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ñawpaqmanchu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "hinaspa maman hinachu"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "surqarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalpa saywachasqa ruminta"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "saywachasqa ruminta"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rurasqa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraq"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:24:13.048287740Z",
+  "model": "glm-5.3"
+}

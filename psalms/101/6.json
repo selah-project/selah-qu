@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 101,
+  "translation": "Ñawiy hallp'ap cheqan runankunapim kanqa, ñuqawan tiyanankupaq; chiqan ñanpi purij runam ñuqata yanapanqa.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ñawiy"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "cheqan runankunapim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "tiyanankupaq"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ñuqawan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "purij"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "chiqan ñanpi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "chiqan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "runam"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "ñuqata yanapanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:51.318626633Z",
+  "model": "glm-5.3"
+}

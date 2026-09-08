@@ -1,0 +1,42 @@
+{
+ "tier": "glm-5.2",
+ "verse": 40,
+ "ref": "psalms 106:40",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 106,
+ "translation": "Chayrayku Yahwepa phiñaninqa pueblo-ninpi rawrarqanm; hinaspa ⟨את⟩ churakusqantakunatapas huchalichirqan.",
+ "tokens": [
+  {
+   "surface": "ויחר",
+   "gloss": "rawrarqanm"
+  },
+  {
+   "surface": "אף",
+   "gloss": "phiñanin"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "בעמו",
+   "gloss": "pueblo-ninpi"
+  },
+  {
+   "surface": "ויתעב",
+   "gloss": "huchalichirqan"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "churakusqantakunatapas"
+  },
+  {
+   "surface": "נחלתו",
+   "gloss": "churakusqantakunatap"
+  }
+ ],
+ "timestamp": "2026-09-08T10:16:15.882737057Z",
+ "model": "glm-5.3"
+}

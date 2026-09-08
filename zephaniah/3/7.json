@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Nirqanimi: chiqaqta ⟨את⟩ manawanki, yachachikuyta chaskiwanki; hinaspa wasinman llapan imata paypaq tariparqanimi chayqa, mana kuchusqa kanqachu; icha paqarinqakum, llapan rurayninkunata last'achirqanku.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "nirqanimi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "chiqaqta"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "manawanki"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "manawanki"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "chaskiwanki"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "yachachikuyta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa mana"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "kuchusqa kanqachu"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "tariparqanimi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "icha"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "paqarinqakum"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "last'achirqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "rurayninkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:16:57.266550929Z",
+  "model": "glm-5.3"
+}

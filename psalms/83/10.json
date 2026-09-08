@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Ruray paykunamanawan Midyan (Madián)wan ruwasqayki hina, Sisra hina, Yabin (Jabín) hina, Kishon (Cisón) mayupi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Ruray"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunamanawan"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "Midyan (Madián) hina"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "Sisra hina"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "Yabin (Jabín) hina"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "mayupi"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon (Cisón)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:17.572905841Z",
+  "model": "glm-5.3"
+}

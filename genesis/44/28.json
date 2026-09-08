@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Hukmi ⟨את⟩ ñuqap kashqanmanta lluqsiyarqan, chaysi ñuqa nirqani: aqllam michisqam michisqa; chaykunankama mana payta rikurqanichu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsiyarqan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ñuqap kashqanmanta",
+      "marks": "huk (wawqey)"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "chaysi nirqani"
+    },
+    {
+      "surface": "אך",
+      "gloss": "aqllam"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "michisqam"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "michisqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "payta rikurqanichu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:16:33.631497426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Davidpa mizmor. Yahwepa ⟨kan⟩mi hallp'a, hunt'a kaynintawan; pachapas, chaypi kawsaqkunapas.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "hunt'a kaynintawan"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "pachapas"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "kawsaqkunapas"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:08.507265462Z",
+  "model": "glm-5.3"
+}

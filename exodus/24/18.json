@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa Moshe (Moisés) phuyu chawpiman yaykurqan, orqotaman saqirkurqan; hinaspa Moshe orqopi karqan tawa chunka p'unchaw, tawa chunka tuta.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hinaspa ... yaykurqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpiman"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "phuyu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "saqirkurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "orqotaman"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "hinaspa ... karqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqopi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "tawa chunka"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "hinaspa tawa chunka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tuta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:35:51.651172385Z",
+  "model": "glm-5.3"
+}

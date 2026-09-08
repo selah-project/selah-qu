@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Paymi phuyukunata hallp'ap chakakunamanta wicharichin, parapaq chinaniyakunata ruwan, waynata qullqikunanmanta hawarichin.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "wicharichin"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "phuyukunata"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "chakakunamanta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "chinaniyakunata"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "parapaq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "hawarichin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "waynata"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "qullqikunanmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:13.264483253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Qanchis p'unchawkuna hunt'arqanmi, Yahwep ⟨את⟩ mayuta mak'iptin qhipan.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "hunt'arqan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipan"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "mak'iptin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayuta"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mayu"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:01.649105414Z",
+  "model": "glm-5.3"
+}

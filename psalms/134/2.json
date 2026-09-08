@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 134,
+  "translation": "Hawaman hichariy makikunaykichikta santarioman, hinaspa bendichiychik ⟨את⟩ Yahweta.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "hawaman hichariy"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "makikunaykichikta"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santarioman"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "hinaspa bendichiychik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:32.855098784Z",
+  "model": "glm-5.3"
+}

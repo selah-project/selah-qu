@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa qam kayta willawanki paykunaman: kayta ninmi Yahwe: wisch'uspa manachu sayarikun, kutispa manachu kutimun?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "willawanki"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ninmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "wisch'uspa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "sayarikun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "icha"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kutispa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kutimun"
+    }
+  ],
+  "timestamp": "2026-09-08T06:58:26.156601401Z",
+  "model": "glm-5.3"
+}

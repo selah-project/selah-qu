@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Abishaymi, Tseruyahpa churin, ⟨את⟩ Edomta mak'arqan Kachi Q'etipi: pusaq chunka waranqa.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "Abishaymi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruyahpa"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "mak'arqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomta"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomta"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "Q'etipi"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Kachi"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "pusaq"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:45:39.310630169Z",
+  "model": "glm-5.3"
+}

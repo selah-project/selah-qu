@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 129,
+  "translation": "Wasallaypatan chakchakuna chakcharqanku, chakchasqankutam hatunyachirqanku.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "patan"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "wasallay"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "chakcharqanku"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "chakchakuna"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "hatunyachirqanku"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "chakchasqankuta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:27.482375566Z",
+  "model": "glm-5.3"
+}

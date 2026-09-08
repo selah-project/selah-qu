@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chaymanta Rejavam Shekemma rirqanm, imaraykuchus Shekemma tukuy Israel ⟨את⟩ payta apu hina churamunqankupaq hamurqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemma"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "apu hina churamunqankupaq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:10:36.091082217Z",
+  "model": "glm-5.3"
+}

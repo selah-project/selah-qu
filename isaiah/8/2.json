@@ -1,0 +1,59 @@
+{
+ "tier": "glm-5.2",
+ "verse": 2,
+ "ref": "isaiah 8:2",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 8,
+ "translation": "Hinaspa ñuqap willaqkunata willachisaq chiqap sunquyuqkunata: ⟨את⟩ Uriyata, kohenninata, hinaspa ⟨את⟩ Zekaryahuta, Yevarekyahup churinta.",
+ "tokens": [
+  {
+   "surface": "ואעידה",
+   "gloss": "hinaspa willachisaq"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqap"
+  },
+  {
+   "surface": "עדים",
+   "gloss": "willaqkuna"
+  },
+  {
+   "surface": "נאמנים",
+   "gloss": "chiqap sunquyuq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Uriyata"
+  },
+  {
+   "surface": "אוריה",
+   "gloss": "Uriya"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohen"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Zekaryahuta"
+  },
+  {
+   "surface": "זכריהו",
+   "gloss": "Zekaryahu"
+  },
+  {
+   "surface": "בן",
+   "gloss": "churi"
+  },
+  {
+   "surface": "יברכיהו",
+   "gloss": "Yevarekyahu"
+  }
+ ],
+ "timestamp": "2026-09-08T05:54:42.728014634Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Israelpa Elohimninmi ñuqaman nirqan, Israelpa Ruminmi rimarqan: runakunata kamachiqqa chiqanmi kanqa, Elohimta manachispawan kamachinqa.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqanmi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Rumin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "kamachiq"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "chiqanmi"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "kamachiq"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "manachispawan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:55:03.689713281Z",
+  "model": "glm-5.3"
+}

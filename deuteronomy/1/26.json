@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaypas manam munawqankichikchu hanan riyta, hinaspa Yahwe Elohimniykichikpa ⟨את⟩ siminta thyarirqankichik.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "munawqankichikchu"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "hanan riyta"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "thyarirqankichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siminta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T02:26:48.536877934Z",
+  "model": "glm-5.3"
+}

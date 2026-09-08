@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Runakunaqa Mosheta (Moisés) qaparkanku; Moshem Yahweman mañakurqan, chaysi ninam chinkarqan.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "qaparkanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta (Moisés)"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "mañakurqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "chinkarqan"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ninam"
+    }
+  ],
+  "timestamp": "2026-09-08T01:25:46.648755231Z",
+  "model": "glm-5.3"
+}

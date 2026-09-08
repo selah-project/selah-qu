@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Chaynina wiraswan, t'aqllawan Nefeshniy hunt'akunmi; hinaspa hayllikuy kunkawan simiy qamta Yupaychawan.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "chaynina"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "wira"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "hinaspa t'aqlla"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "hunt'akun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniy"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "hinaspa kunkay"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "hayllikuy"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "Yupaychawan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simiy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:28.975187585Z",
+  "model": "glm-5.3"
+}

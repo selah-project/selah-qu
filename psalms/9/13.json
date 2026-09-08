@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Imaraykum yawarta maskaq ⟨את⟩ paykunata yuyarqan; mana qonqarqanchu wakichkasqakunap qaparisqanta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "maskaq"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "yawar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yuyarqan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "qonqarqan"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "qaparisqa"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "wakichkasqakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:17.512821100Z",
+  "model": "glm-5.3"
+}

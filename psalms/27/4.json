@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hukllatam Yahwemanta ⟨את⟩ mañakurqani, chayta ⟨את⟩ maskhanim: Yahwepa wasinpi tiyayta tukuy kawsayniy p'unchaykuna, Yahwepa sumak kayninta qhawayta, hay huhipitaq tapukuyta.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "hukllata"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "mañakurqani"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwemanta — huk mañasqata qunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "chayta — hukllata maskhasqata (אבקש chayaqniyuq)"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "maskhanim"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "tiyayta"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchaykuna"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kawsayniy"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "qhawayta"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "sumak kaynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "hinaspa tapukuyta"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "hay wasinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:04.783970399Z",
+  "model": "glm-5.3"
+}

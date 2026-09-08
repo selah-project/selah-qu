@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Urqukunaqa shalomta runakunaman apamunqaku, hillakunatawan chiqan kaywan.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "apamunqaku"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "urqukunaqa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalomta"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "hillakunatawan"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "chiqan kaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:33.206437440Z",
+  "model": "glm-5.3"
+}

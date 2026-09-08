@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Wak rumikunatam hap'inku, chaykunata rumikunap tiyananman churankum; hinaspa wak qhelqata hap'ispa ⟨את⟩ wasita llut'ancham.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "hinaspa hap'inku"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "rumikunata"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "wak"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "hinaspa churanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tiyananman"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "rumikunap"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "hinaspa qhelqata"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wak"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "hap'inqa"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "hinaspa llut'ancha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasita"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasita"
+    }
+  ],
+  "timestamp": "2026-09-08T00:59:37.224547914Z",
+  "model": "glm-5.3"
+}

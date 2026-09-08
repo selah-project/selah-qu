@@ -1,0 +1,46 @@
+{
+ "tier": "glm-5.2",
+ "verse": 21,
+ "ref": "ezekiel 22:21",
+ "book": "ezekiel",
+ "lang": "qu",
+ "chapter": 22,
+ "translation": "Hinaspa ⟨את⟩ qamkunata huñusqaykim, hinaspa phukusqayki qamkunap patanpi phiñakuy ninaywan, hinaspa qamkuna mathiykachankichik chaypa ukhunpi.",
+ "tokens": [
+  {
+   "surface": "וכנסתי",
+   "gloss": "hinaspa huñusqaykim"
+  },
+  {
+   "surface": "אתכם",
+   "gloss": "⟨את⟩ qamkunata",
+   "marks": "qamkunata"
+  },
+  {
+   "surface": "ונפחתי",
+   "gloss": "hinaspa phukusqayki"
+  },
+  {
+   "surface": "עליכם",
+   "gloss": "qamkunap patanpi"
+  },
+  {
+   "surface": "באש",
+   "gloss": "nina ukhupi"
+  },
+  {
+   "surface": "עברתי",
+   "gloss": "phiñakuy ninaywan"
+  },
+  {
+   "surface": "ונתכתם",
+   "gloss": "hinaspa mathiykachankichik"
+  },
+  {
+   "surface": "בתוכה",
+   "gloss": "chaypa ukhunpi"
+  }
+ ],
+ "timestamp": "2026-09-08T08:13:43.102236620Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 37:4",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chaymanta ñuqaman nirqanmi: Kay tullukunamanta navi hina willay, hinaspa paykunaman ninki: Ch'akisqa tullukuna, Yahwepa siminta uyariychik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ñuqaman nirqanmi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "navi hina willay"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "tullukunamanta"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "paykunaman ninki"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "tullukuna"
+    },
+    {
+      "surface": "היבשות",
+      "gloss": "ch'akisqa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uyariychik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:30:05.259515132Z",
+  "model": "glm-5.3"
+}

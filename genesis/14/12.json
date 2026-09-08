@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa ⟨את⟩ Lota (Lot) — Abrampa wawqip churinta — hinaspa ⟨את⟩ rikuynintapas chaskispa rirqankum; paytaqmi Sodompi tiyasqa karqan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "chaskispa rirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lota (Lot)"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lota (Lot)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "rikuyninta"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "rikuyninta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "wawqip"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Abrampa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "rirqankum"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "paytaqmi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "tiyasqa"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "Sodompi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:24.747673678Z",
+  "model": "glm-5.3"
+}

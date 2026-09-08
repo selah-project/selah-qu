@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Ñuqamanta qhawariyta much'uy, chaymi phanqasaq, ñawpaq lluqsinaypaq, hinaspa manaña kasaqchu.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "qhawariyta much'uy"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "chaymi phanqasaq"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ñawpaq…-paq"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "lluqsinaypaq"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "hinaspa manaña kasaqchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:15.901164717Z",
+  "model": "glm-5.3"
+}

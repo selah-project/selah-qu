@@ -1,0 +1,73 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "genesis 1:20",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Elohimmi nirqan: Unukuna Nefesh kawsaq kushkachaqkunata askhata wachuchunku; phiskakunataq hallp'ap patanpi, hanaq pachap rakhap awayninpim phawaykachakunku.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "ישרצו",
+   "gloss": "wachuchunku askhata"
+  },
+  {
+   "surface": "המים",
+   "gloss": "unukuna"
+  },
+  {
+   "surface": "שרץ",
+   "gloss": "kushkachaqkuna"
+  },
+  {
+   "surface": "נפש",
+   "gloss": "Nefesh"
+  },
+  {
+   "surface": "חיה",
+   "gloss": "kawsaq"
+  },
+  {
+   "surface": "ועוף",
+   "gloss": "phiskakunataq"
+  },
+  {
+   "surface": "יעופף",
+   "gloss": "phawaykachakunku"
+  },
+  {
+   "surface": "על",
+   "gloss": "patanpi"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "hallp'ap"
+  },
+  {
+   "surface": "על",
+   "gloss": "patanpi"
+  },
+  {
+   "surface": "פני",
+   "gloss": "awayninpim"
+  },
+  {
+   "surface": "רקיע",
+   "gloss": "rakha"
+  },
+  {
+   "surface": "השמים",
+   "gloss": "hanaq pachap"
+  }
+ ],
+ "timestamp": "2026-09-08T02:01:23.594578344Z",
+ "model": "glm-5.3"
+}

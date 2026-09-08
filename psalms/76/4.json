@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 76,
+  "translation": "Chaymi p'akirqan warkhap rawi saetankunata, chillqata, espadatawan, awqanakuywan. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "p'akirqan"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "rawi saetankunata"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "warkhap"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "chillqata"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "espadatawan"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "awqanakuywan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:12.593193981Z",
+  "model": "glm-5.3"
+}

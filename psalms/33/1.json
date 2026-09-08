@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Ranranaychik, cheqnikuna, Yahwepi; chiqan runakunapaqmi t'ikrayqa allin ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "ranranaychik"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cheqnikuna"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "chiqan runakunapaq"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "allin ⟨kan⟩mi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "t'ikray"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:59.079749199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwepa siminmi Yoelman (Joel) hamurqan, Petuel (Pethuel)pa churinman.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoelman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churinman"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petuelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:54:42.237867041Z",
+  "model": "glm-5.3"
+}

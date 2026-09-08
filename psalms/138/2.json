@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 138,
+  "translation": "Qampa santa wasiykimanta ñawpaqenpan panpakuni, hinaspa ⟨את⟩ qanpa Sutiykita yupaychani, qanpa jesedniyki rayku, qanpa cheqniykiypas rayku; qanpa Simiykita qanpa llapa Sutiykimanta hatunyachirqankim.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "panpakuni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ñawpaqenpan"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "wasiykimanta"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "santa"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "hinaspa yupaychani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanpa Sutiykita"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiyki"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa rayku"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "cheqniykiypas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raykum"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "hatunyachirqanki"
+    },
+    {
+      "surface": "על",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiykimanta"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Simiykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:20.846290520Z",
+  "model": "glm-5.3"
+}

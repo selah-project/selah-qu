@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Moshe (Moisés)qa pusaq chunka watayuq runam karqan, Aharon (Aarón)taq pusaq chunka kimsayuq watayuq runam karqan, Paro (Faraón)man rimasqankupi.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Mosheqa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "runam"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "pusaq chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "watayuq"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharontaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "runam"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kimsayuq"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "pusaq chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "watayuq"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "rimasqankupi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:50.668208118Z",
+  "model": "glm-5.3"
+}

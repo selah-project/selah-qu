@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "Chayrayku paypa angelkunan qamta kamachinqa, qamta waqaychanankupaq llapan ñanniykipi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "paypa angelkuna"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "kamachinqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "qamta waqaychanankupaq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ñanniykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:54.879435848Z",
+  "model": "glm-5.3"
+}

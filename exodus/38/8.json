@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Hinaspa lavamanota ruwarqan ⟨את⟩ broncewan, hinaspa ⟨את⟩ paypa tiyananta broncewan, siq'asqa rirpukunamanta warmikunapa, mayqinkunachay Owasyon Pacha Wasin punkunpi llamk'arqanku.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavamanota"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "lavamano"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "broncewan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa tiyananta"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "paypa tiyanan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "broncewan"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "rirpukunamanta"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "warmikunapa llamk'aq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunachay"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "llamk'arqanku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkunpi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Owasyon Pacha"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:57.534443753Z",
+  "model": "glm-5.3"
+}

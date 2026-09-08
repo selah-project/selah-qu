@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Hinaspa Abrahammi yapaspa huk warminta hap'irqan, paypa sutinmi Keturah (Cetura) karqan.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yapaspa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "huk warminta"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "paypa sutin"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    }
+  ],
+  "timestamp": "2026-09-08T00:01:50.903527662Z",
+  "model": "glm-5.3"
+}

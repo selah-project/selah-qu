@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Simiyta wañuchirqanim, manam kichanichu; qamtam chayta ruranki.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "simiyta wañuchirqanim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "kichanichu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "simiyta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ruranki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:35.745529291Z",
+  "model": "glm-5.3"
+}

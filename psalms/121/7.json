@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 121,
+  "translation": "Yahwem qamta llapan mana allinmanta waqaychanmi; ⟨את⟩ Nefeshniykita waqaychanmi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "qamta waqaychan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapan … manta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "waqaychan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshniykita"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "Nefeshniyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:13.863131211Z",
+  "model": "glm-5.3"
+}

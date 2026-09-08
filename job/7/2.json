@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 7:2",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Sicha yanapakuq hina sayallata samian, hinataq sicha llamk'aq paypa llamk'ayninta suyan.",
+  "tokens": [
+    {
+      "surface": "כעבד",
+      "gloss": "sicha yanapakuq hina"
+    },
+    {
+      "surface": "ישאף",
+      "gloss": "samian"
+    },
+    {
+      "surface": "צל",
+      "gloss": "sayalla"
+    },
+    {
+      "surface": "וכשכיר",
+      "gloss": "hinataq sicha llamk'aq"
+    },
+    {
+      "surface": "יקוה",
+      "gloss": "suyan"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "paypa llamk'aynin"
+    }
+  ],
+  "timestamp": "2026-09-08T14:20:12.055279173Z",
+  "model": "glm-5.3"
+}

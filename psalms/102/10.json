@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Chayraykum cenizata t'anta hina mikhurqani, upyayta waqaywan chaqrusqani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ceniza"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "t'anta hina"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "mikhurqani"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "upyayta"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "waqaywan"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "chaqrusqani"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:17.557704069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Saraykipa, muru aqaykipa, killpaykipa ñawpaq qatarinta, uwyaykipa rutuchisqanpa ñawpaqnintawan payman qunki.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ñawpaq qatari"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "saraykipa"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "muru aqaykipa"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "killpaykipa"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "ñawpaqnintawan"
+    },
+    {
+      "surface": "גז",
+      "gloss": "rutuchisqan"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "uwyaykipa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qunki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T02:47:06.010021999Z",
+  "model": "glm-5.3"
+}

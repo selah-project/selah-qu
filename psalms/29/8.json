@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Yahwepa kunkanmi ch'usaq pachata thalt'ichin; Yahwem Qadesh ch'usaq pachatam thalt'ichin.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "kunka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "thalt'ichin"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ch'usaq pachata"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "thalt'ichin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ch'usaq pachata"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadesh"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:35.037736956Z",
+  "model": "glm-5.3"
+}

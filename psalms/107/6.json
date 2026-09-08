@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Chaymanta Yahweman q'ayarqankum, sasa kasqankupi; sasa pachankunamanta qispichirqankum.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "q'ayarqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "sasa kasqankupi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunap"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "sasa pachankunamanta"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "qispichirqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:38.387593680Z",
+  "model": "glm-5.3"
+}

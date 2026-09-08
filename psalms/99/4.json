@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 99,
+  "translation": "Hinaspa apuqp atiynin mishpata munanmi; qam chiqan kayta sayarichirqanki; mishpata, chiqan kaytawantaq Yaakovpi ruwarqanki.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "Hinaspa apuqp atiynin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apuqp"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishpata"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "munanmi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "sayarichirqanki"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "chiqan kayta"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishpata"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "chiqan kaytawantaq"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaakovpi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ruwarqanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:29.614731545Z",
+  "model": "glm-5.3"
+}

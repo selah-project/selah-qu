@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Yehoshua hinaspa llapa Israel maqasqa hina tukurqankum paykunap ñawpaqninpi, hinaspa sach'a-sach'a ñanman ayqirirqanku.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "maqasqa hina tukurqanku"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "paykunap ñawpaqninpi"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ayqirirqanku"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanman"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sach'a-sach'a"
+    }
+  ],
+  "timestamp": "2026-09-08T03:14:47.221608723Z",
+  "model": "glm-5.3"
+}

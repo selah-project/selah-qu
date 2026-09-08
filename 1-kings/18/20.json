@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Chaymanta Ajabmi llapan Israel churinkunaman kacharqan, huñarqanmi ⟨את⟩ navinkunata Karmel orqoman.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "huñarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navinkunata"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "navinkunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—man"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-09-08T05:19:02.548135345Z",
+  "model": "glm-5.3"
+}

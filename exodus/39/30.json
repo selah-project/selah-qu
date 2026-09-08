@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Chaysi paykuna ruraranqaku ⟨את⟩ tsitsita — santa suyaypa unanchanta, quri ch'uyapi — hinaspa qillqaranqaku chaypatapi qillqata, sella sanampayuq hina: «Santo Yahwepaq».",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ruraranqaku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsitsita"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "tsitsita"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "suyaypa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "santa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ch'uyap"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "qillqaranqaku"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chaypatapi"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "qillqata"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "sanampayuq hina"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "sella"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Santo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:49.752110887Z",
+  "model": "glm-5.3"
+}

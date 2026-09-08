@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "P'unchawmi shofar hinaspa teru'ah hayñakuy, wasichasqa llaqtakunapatapi, hanan kukupakunapatatapiwan.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "teru'ah hayñakuy"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "wasichasqa llaqtakuna"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "fortalezakuna"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa patapi"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "hanan kukupakuna"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "hanan sayayuq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:10:45.156706271Z",
+  "model": "glm-5.3"
+}

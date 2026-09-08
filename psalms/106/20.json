@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Chaymanta ⟨את⟩ k'anchayninkuta tikrarqanku, qora mikhuq wakap rikch'ayninmanmi.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "tikrarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'anchayninku"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "k'anchayninkuta"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "rikch'ayninman"
+    },
+    {
+      "surface": "שור",
+      "gloss": "waka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhuq"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "qora"
+    }
+  ],
+  "timestamp": "2026-09-08T14:38:10.662546438Z",
+  "model": "glm-5.3"
+}

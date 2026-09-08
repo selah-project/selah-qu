@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Rumikunawan ⟨את⟩ Davidta rumirqan, hinaspa ⟨את⟩ apu Davidpa llapan yanapaqninkunatapas; llapa runakuna, llapa sinchikunaq pañanpi, lluq'anpipas ⟨karqanku⟩.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "rumirqan"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "rumikunawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan yanapaqninkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapaqninkunata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "sinchikuna"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "pañanpi"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "lluq'anpipas"
+    }
+  ],
+  "timestamp": "2026-09-08T04:45:27.701302047Z",
+  "model": "glm-5.3"
+}

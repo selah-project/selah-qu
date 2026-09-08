@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa hallp'apa yapayninqa llapapaq ⟨kan⟩mi; apukaqpaqtaq chakrallam llamk'akun.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Hinaspa yapaynin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'apa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapapaq"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kan⟩mi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apukaq"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "chakrallam"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "llamk'akun"
+    }
+  ],
+  "timestamp": "2026-09-08T11:42:24.331198959Z",
+  "model": "glm-5.3"
+}

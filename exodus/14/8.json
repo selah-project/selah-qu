@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa Yahwem sinchicharqanmi ⟨את⟩ Parohpa, Mitsrayimpa apun, sonqonta; chaymi Israelpa churinkunata qatirqan; hinaspa Israelpa churinkuna hanan makiwan lluqsirqaku.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "sinchicharqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonqonta"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sonqonta"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohpa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "qatirqan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qatiq"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "hinaspa churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "lluqsiq"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makiwan"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "hanan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:07.991875113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Haq'a runaman graciawan churakunman chayqa, mana cheqaq kayta yachanchu; cheqalla kay hallp'api haq'akun, Yahwepa hatun atiynintaq mana qhawanchu.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "graciawan churakunman"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haq'a runa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "למד",
+      "gloss": "yachanchu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cheqaq kayta"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "cheqalla kay"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "haq'akun"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qhawanchu"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "hatun atiynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:06:32.792409062Z",
+  "model": "glm-5.3"
+}

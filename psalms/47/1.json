@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 47,
+  "translation": "Kamachiqman, Korajpa (Coré) wawankunapaq, mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kamachiqman"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunapaq"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korajpa (Coré)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:00.958608274Z",
+  "model": "glm-5.3"
+}

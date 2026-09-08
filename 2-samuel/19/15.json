@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaym David ⟨את⟩ llapa Yehuda runakunap sunqunta huk runap sunqun hina t'ikturqan; hinaspa apuman kacharqanku: Qam kutiy, yanapaqniykiwan llapawan.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "t'ikturqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sunqunta"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sunqunta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "huk runap"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "kacharqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apuman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apuman"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapawan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "yanapaqniykiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:50:14.444707958Z",
+  "model": "glm-5.3"
+}

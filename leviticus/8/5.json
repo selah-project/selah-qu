@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Moshe**m** aylluman nirqan: kayqa Yahwem kamachisqa rimaymi, ruwanapaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aylluman"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ayllu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kayqa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rimay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruwanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:56:59.007926228Z",
+  "model": "glm-5.3"
+}

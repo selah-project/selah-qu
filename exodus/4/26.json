@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 26,
+ "ref": "exodus 4:26",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Chaymanta payta saqirpuchirqan. Chayarqanmi, warmi nirqam: \"Yawar qusa\" — orqon kuchuymanta.",
+ "tokens": [
+  {
+   "surface": "וירף",
+   "gloss": "saqirpuchirqan"
+  },
+  {
+   "surface": "ממנו",
+   "gloss": "payta"
+  },
+  {
+   "surface": "אז",
+   "gloss": "chayarqan"
+  },
+  {
+   "surface": "אמרה",
+   "gloss": "nirqam"
+  },
+  {
+   "surface": "חתן",
+   "gloss": "qusa"
+  },
+  {
+   "surface": "דמים",
+   "gloss": "yawar"
+  },
+  {
+   "surface": "למולת",
+   "gloss": "orqon kuchuymanta"
+  }
+ ],
+ "timestamp": "2026-09-08T00:22:43.811012423Z",
+ "model": "glm-5.3"
+}

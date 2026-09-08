@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Llakiy p'unchawpi Yahwem qamta kutichichun; Yaakovpa Elohimninpa sutinqa qamta hanaq churachun.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "qamta kutichichun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "llakiypi"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "qamta hanaq churachun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinqa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimninpa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:16.010755266Z",
+  "model": "glm-5.3"
+}

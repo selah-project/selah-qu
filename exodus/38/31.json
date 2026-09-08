@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Hinaspa ⟨את⟩ muyuriq kanchap tiyanakunata, hinaspa ⟨את⟩ kanchap punkup tiyanakunanta, hinaspa ⟨את⟩ Mishkanpa llapa takrakunata, hinaspa ⟨את⟩ muyuriq kanchap llapa takrakunata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tiyanakunata"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tiyanakunata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kanchap"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tiyanakunanta"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "tiyanakunanta"
+    },
+    {
+      "surface": "שער",
+      "gloss": "punku"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kanchap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa takrakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "takrakunata"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa takrakunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "takrakunata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kanchap"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:04:12.406817855Z",
+  "model": "glm-5.3"
+}

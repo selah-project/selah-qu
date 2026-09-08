@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Arichakurqanku chaymanta Moshe (Moisés), Aharonpas (Aarón) wawankunapas: ⟨את⟩ makinkunata, hinaspa ⟨את⟩ chakinkunata.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "arichakurqanku"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta (Moisés)"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Aharonpas (Aarón)"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "wawankunapas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makinkunata"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "makinkunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chakinkunata"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "chakinkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:07.806801382Z",
+  "model": "glm-5.3"
+}

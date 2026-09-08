@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinaspa ⟨את⟩ kawrakunap wawankunap qaranta makinpipas, kunkap llusp'iyninpipas churarqan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qaranta"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "qaranta"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "kawrakunap"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "makinpipas"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "makinpi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kunkap ...pipas"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "llusp'iynin"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "kunkap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:27.880583708Z",
+  "model": "glm-5.3"
+}

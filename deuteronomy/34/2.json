@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Hinaspa ⟨את⟩ llapan Naftalita, ⟨את⟩ Efrayim hallp'atawan Menashewan, hinaspa ⟨את⟩ llapan Yehudap hallp'anta, qhipa maman quchakama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan Naftalita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim hallp'ata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "Menashewan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan Yehudap hallp'anta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudap"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "הים",
+      "gloss": "qucha"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "qhipa maman"
+    }
+  ],
+  "timestamp": "2026-09-08T03:05:49.875781158Z",
+  "model": "glm-5.3"
+}

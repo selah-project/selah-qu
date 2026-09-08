@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaymanta Elohim nirqanmi: «Unukunap chawpinpi raqia (wit'ana) kanraq, hinaspa unukunata unukunamanta t'aqanmanraq».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kanraq"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "raqia"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unukunap"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "t'aqanmanraq"
+    },
+    {
+      "surface": "בין",
+      "gloss": "t'aqanman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unukunata"
+    },
+    {
+      "surface": "למים",
+      "gloss": "unukunamanta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:22.683804988Z",
+  "model": "glm-5.3"
+}

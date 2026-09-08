@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Qammi qallayap atiyninta kamachinki; chay qallaykunap huqarisqankuwan, Qammi thalnichinki chaykunata.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "kamachinki"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "qallayap atiynin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mana sut'ichisqa (qallaywan huñusqa)"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "huqarisqankuwan"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "qallaykunap"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Qammi"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "thalnichinki chaykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:31.338455225Z",
+  "model": "glm-5.3"
+}

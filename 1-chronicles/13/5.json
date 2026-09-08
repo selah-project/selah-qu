@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 13:5",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Davidm ⟨את⟩ llapan Israelta huñurqan, Shihor Mitsrayimmanta (Egipto) Hamathman chayamunakama, Elohimpa ⟨את⟩ aronta Qiryath Yearimmanta (Quiriat-jearim) apamunankupaq.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "huñurqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan Israelta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "שיחור",
+      "gloss": "Shihor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "chayamunakama"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "chayamuna"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamathman"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "apamunankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aronta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aronta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "מקרית",
+      "gloss": "Qiryath"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearimmanta (Quiriat-jearim)"
+    }
+  ],
+  "timestamp": "2026-09-08T12:42:58.801639700Z",
+  "model": "glm-5.3"
+}

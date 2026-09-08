@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Muhum payta sirbinqa; Adonaymanta willakunqa hamut'a wata aylluman.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "muhu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "payta sirbinqa"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "willakunqa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonaymanta"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "wata aylluman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:32.017742086Z",
+  "model": "glm-5.3"
+}

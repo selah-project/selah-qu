@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Paykunata michhuspa apurqankim, puñuy ⟨hina⟩ kanm; paqariyllapi qora hina phasarinqa.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "michhuspa apurqanki"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "puñuy"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanm"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "paqariyllapi"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "qora hina"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "phasarinqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:54.749677933Z",
+  "model": "glm-5.3"
+}

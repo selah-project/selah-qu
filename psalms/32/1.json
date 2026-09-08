@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Davidpata. Yachachiq qillqam. Ima kusillam p'eqen pichasqa runa, huchan pakasqa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpata"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yachachiq qillqa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ima kusilla"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "pichasqa"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "p'eqe"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "pakasqa"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "hucha"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:58.078424712Z",
+  "model": "glm-5.3"
+}

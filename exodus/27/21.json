@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 27:21",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Tinkunap wasinpi, edut hawapi kaq llawt'ip hawanpi, Aharonpa wawankunawan ⟨את⟩ payta churankam ch'isimanta tuta k'anchaykama Yahwep ñawpaqpi; kayqa wiñaypaq kamachikuymi paykunpa wawakunapaq, Israelpa wawankunamanta ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "באהל",
+      "gloss": "tinkunap wasinpi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tinkunap"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "llawt'ip"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawapi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "edut"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "churankam"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta (ch'isi k'anchay — Aharonpa churasqan)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "wawankunawan"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "ch'isimanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tuta k'anchay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "kamachikuy"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "paykunpa wawakunapaq"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "manta ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:36:00.450563910Z",
+  "model": "glm-5.3"
+}

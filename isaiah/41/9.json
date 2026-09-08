@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 41:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Mayta hallp'ap ch'ikanmanta chaskirqani qanta, hawanmanta qayarqani qanta; qanman nirqani: qanmi ñuqap yanayki, akllarqani qanta, manataq qichurqanichu qanta.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "החזקתיך",
+      "gloss": "chaskirqani qanta"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "ch'ikanmanta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "ומאציליה",
+      "gloss": "hawanmanta"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "qayarqani qanta"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qanman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ñuqap yanayki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qan"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "akllarqani qanta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "מאסתיך",
+      "gloss": "qichurqanichu qanta"
+    }
+  ],
+  "timestamp": "2026-09-08T06:23:01.900186089Z",
+  "model": "glm-5.3"
+}

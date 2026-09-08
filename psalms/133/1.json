@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 133,
+  "translation": "Wichaqkunapa takin, Davidpa. Qhaway: imayna allinmi, imayna k'uyaqmi wawqekuna hukllapi tiyakuspa, hinallataq hukllallapi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "takin"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "wichaqkunapa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "hinallataq imayna"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "k'uyaq"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "tiyakuspa"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "wawqekuna"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hukllapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:31.135933716Z",
+  "model": "glm-5.3"
+}

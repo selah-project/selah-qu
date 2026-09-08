@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Manam ruwankichu qampaq tallsasqa wankata, mana ima rikch'atapas — mayqin hanaq pachapi kaq, hananpi; mayqin kay pachapi kaq, uranpi; mayqin unupi kaq, kay pachap uranpipas.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwankichu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "tallsasqa wanka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mana ima ... pas"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "rikch'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "hanaq pachapi"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "hananpi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kay pachapi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "uranpi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "unupi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "uranpi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kay pachap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:58.793961907Z",
+  "model": "glm-5.3"
+}

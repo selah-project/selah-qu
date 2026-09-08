@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Chaymi kanqa: mana qaraqtinkuchu, ñuqam kutini; paykuna ñaqaraqta rimaraqtinkupas, ñuqam uyarini.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "mana qaraqta"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "qaraqtinkuchu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "kutini"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ñaqaraqta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "rimaraqtinkupas"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "uyarini"
+    }
+  ],
+  "timestamp": "2026-09-08T06:44:11.495430752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 52:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 52,
+  "translation": "Ch'akiq'illumanta ch'ikukuy, sayariy, tiyakuy, Yerushalayim (Jerusalén); kunkaykip watasqankunata kichakuy, hap'isqa warmi, Tsiyon wawan.",
+  "tokens": [
+    {
+      "surface": "התנערי",
+      "gloss": "ch'ikukuy"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "ch'akiq'illumanta"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "sayariy"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "tiyakuy"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "התפתחו",
+      "gloss": "kichakuy"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "watasqankunata"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "kunkaykip"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "hap'isqa warmi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-09-08T06:35:06.873424884Z",
+  "model": "glm-5.3"
+}

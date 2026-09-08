@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Ñanmi churanki hayk'unanpaq: ⟨את⟩ Rabbata, Bene-Ammonpa (Ammonpa llapanpa), hinaspa ⟨את⟩ Yehudata, Yerushalayimpi (Jerusalénpi), pirqasqa llaqtata.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "hayk'unanpaq"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "chiqaqchiq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbata"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bene-"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yehudata"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudata"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "pirqasqa llaqtata"
+    }
+  ],
+  "timestamp": "2026-09-08T08:09:09.016817571Z",
+  "model": "glm-5.3"
+}

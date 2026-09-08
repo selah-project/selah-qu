@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Chaymanta Shaulpa kilinta apaq runam rikurqa Shaul wañusqata; paypas chaskiyninpi t'ikrakurqa, paypa chunkawan wañurqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurqa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kilinta apaq"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "kilinta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ta"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wañusqa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "t'ikrakurqa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "על",
+      "gloss": "chaskiyninpi"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "chunkawan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan kuska"
+    }
+  ],
+  "timestamp": "2026-09-08T04:32:01.551149791Z",
+  "model": "glm-5.3"
+}

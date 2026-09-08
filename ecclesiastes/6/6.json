@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Sichus waranqa watakuna iskay kutita kawsanman, icha allinta mana rikurqanchu — manachu llapanku huk tiyanaman purinku?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kawsanman"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "watakuna"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "iskay kutita"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "ichallataq allinta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "rikurqanchu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "manachu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "tiyanaman"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "llapanku"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "purinku"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:40.865461836Z",
+  "model": "glm-5.3"
+}

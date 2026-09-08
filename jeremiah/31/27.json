@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Qhawariy, p'unchawkuna hamushanmi, Yahwepa nisqan; ⟨את⟩ Israel wasita, ⟨את⟩ Yahuda wasitawan runa muruwan, uywa muruwanmi t'akamusaq.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "באים",
+      "gloss": "hamushanmi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nisqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "t'akamusaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel wasita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yahuda wasita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "muru"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "muruwan"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "uywa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:17:28.163332823Z",
+  "model": "glm-5.3"
+}

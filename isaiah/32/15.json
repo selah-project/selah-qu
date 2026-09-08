@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Samayqa hanaq pachamanta ñuqanchikpata ichasqa kanqakama; chayqa sallqa pampa allin chakrallam tukunqam, allin chakrataq sach'a sach'a hina chiqaqchasqa kanqam.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kanqakama"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "ichasqa kanqa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqanchikpata"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "samay"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "hanaq pachamanta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chayqa kanqa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "sallqa pampa"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "allin chakrallam"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "allin chakrataq"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "sach'a sach'a"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "chiqaqchasqa kanqam"
+    }
+  ],
+  "timestamp": "2026-09-08T06:11:07.337101753Z",
+  "model": "glm-5.3"
+}

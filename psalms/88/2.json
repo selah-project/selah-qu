@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Yahwe, Elohimniy, ñuqap qespichiyñiy, p'unchaw waqaykuni, tuta ñawpaykiypi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ñuqap qespichiyñiy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "waqaykuni"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ñawpaykiypi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:40.091691127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "David willawaq waynata nirqan: imaynata yachanki Shaulmi wañusqanta, hinaspa paypa wawan Yehonatanpa wañusqanta?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "waynata"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "willawaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "איך",
+      "gloss": "imaynata"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yachanki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wañun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "hinaspa Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wawan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:31:14.925426896Z",
+  "model": "glm-5.3"
+}

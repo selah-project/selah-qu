@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Paypaqmi tawa quri anillokunata uwicharqan, hinaspa ⟨את⟩ anillokunata tawa waskachay k'uchukunapi churarqan, mayqinkunam tawa chakninpi kachkan.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "uwicharqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "anillokuna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anillokunata"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "anillokunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "waskachay k'uchukunapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "chakninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:04.210581191Z",
+  "model": "glm-5.3"
+}

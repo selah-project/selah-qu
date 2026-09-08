@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Mana sonqoyku qhepaman kutirqanchu, mana purisqayku ñankimanta sich'akurqanchu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "kutirqanchu"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "qhepaman"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "sonqoyku"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "hinaspa sich'akurqanchu"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "purisqayku"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manta"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "ñanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:35.792515093Z",
+  "model": "glm-5.3"
+}

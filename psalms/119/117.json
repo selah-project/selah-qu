@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Sayachillawaymi, chaymi hinaspa qispisqa kasaq; kamachiykuniyki llapanpuni yachasaq.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "sayachillawaymi"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "chaymi hinaspa qispisqa kasaq"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "yachasaq"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "kamachiykuniyki"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "llapanpuni"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:46.376178248Z",
+  "model": "glm-5.3"
+}

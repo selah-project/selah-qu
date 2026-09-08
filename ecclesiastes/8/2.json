@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Ñuqam niyki: apup siminta waqaychuy, Elohimpa juramentonrayku.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "פי",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apup"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "waqaychuy"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinataq"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "juramenton"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:57.518145927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "jeremiah 25:4",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 25,
+ "translation": "Hinaspa Yahweqam qamkunaman ⟨את⟩ llapa yanapaqninkunata — navikunata — kacharqanmi, chaqllakuspa kachaspa; ichataq mana uyawankichikchu karqankichik, mana ⟨את⟩ rinraykichikta uyaypaq t'ikrarqankichikchu.",
+ "tokens": [
+  {
+   "surface": "ושלח",
+   "gloss": "hinaspa kacharqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אליכם",
+   "gloss": "qamkunaman"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "llapa yanapaqninkunata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "עבדיו",
+   "gloss": "yanapaqninkunata"
+  },
+  {
+   "surface": "הנבאים",
+   "gloss": "navikunata"
+  },
+  {
+   "surface": "השכם",
+   "gloss": "chaqllakuspa"
+  },
+  {
+   "surface": "ושלח",
+   "gloss": "kachaspa"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "שמעתם",
+   "gloss": "uyawankichikchu"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "manataq"
+  },
+  {
+   "surface": "הטיתם",
+   "gloss": "t'ikrarqankichikchu"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "rinraykichikta"
+  },
+  {
+   "surface": "אזנכם",
+   "gloss": "rinraykichikta"
+  },
+  {
+   "surface": "לשמע",
+   "gloss": "uyaypaq"
+  }
+ ],
+ "timestamp": "2026-09-08T07:15:16.657521912Z",
+ "model": "glm-5.3"
+}

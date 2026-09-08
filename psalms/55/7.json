@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Hinaspa ninim: «Pitaq ñuqaman quwman urpihina phawayta? Phawaykusaqmi, hinaspa samikusaq».",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "hinaspa ninim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pitaq"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "quwman"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "phawayta"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "urpihina"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "phawaykusaqmi"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "hinaspa samikusaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:01.816096950Z",
+  "model": "glm-5.3"
+}

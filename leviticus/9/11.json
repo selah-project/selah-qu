@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa ⟨את⟩ aychatawan ⟨את⟩ qaratawan ninawan rawichirqan, ayllu hawanpi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "aychatawan"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "aychatawan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qaratawan"
+    },
+    {
+      "surface": "העור",
+      "gloss": "qaratawan"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "rawichirqan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninawan"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ayllu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:31.983173088Z",
+  "model": "glm-5.3"
+}

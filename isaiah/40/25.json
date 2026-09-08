@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "¿Pipamanmi ñuqata rikch'achinkichik, pipa kanallayta? ninqa Qadoshm.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "pipaman"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pi"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "ñuqata rikch'achinkichik"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "pipa kanallayta"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ninqa"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Qadosh"
+    }
+  ],
+  "timestamp": "2026-09-08T06:22:42.288572529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Kaymi Ishmaelpa, Abrahampa churinpa, paqariyninkuna: mayta Hagar, Mitsrayim warmi, Sarap yanasi, Abrahamman wachakurqa.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "paqariyninkuna"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ishmaelpa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahampa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wachakurqa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Mitsrayim warmi"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "yanasi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarap"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:01:13.364987536Z",
+  "model": "glm-5.3"
+}

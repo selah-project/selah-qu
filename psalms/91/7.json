@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 91,
+  "translation": "Kinraykipi waranqa urmunqa, paña makiykiwan chunka waranqapas; qamman chayamunqachu.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "urmunqa"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "kinraykipi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "hinaspa chunka waranqa"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "paña makiykiwan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "chayamunqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:28.698649323Z",
+  "model": "glm-5.3"
+}

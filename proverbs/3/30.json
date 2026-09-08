@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ama runawan mana imarayku maqanakuychu, sichus payqa mana qampaq mana allinta ruwasqachu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama …chu"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "maqanakuychu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mana imarayku"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "qampaq ruwasqa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mana allinta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:50.417969545Z",
+  "model": "glm-5.3"
+}

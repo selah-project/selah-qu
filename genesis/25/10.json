@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Chay chakra, mayta Abraham rantirqan ⟨את⟩ Jit churiyku(manta); chaypim Abraham p'anqasqa karqa, hinaspa Sara, warmin.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "chay chakra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "rantirqan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jit churiyku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiyku"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Jit"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "p'anqasqa karqa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "hinaspa Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "warmin"
+    }
+  ],
+  "timestamp": "2026-09-08T00:01:13.364580677Z",
+  "model": "glm-5.3"
+}

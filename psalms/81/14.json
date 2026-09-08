@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "¡Ichapas ñuqap runaychu ñuqata uyariyman, Israel ñuqap ñanniykipi puriyman!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "ichapas"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqap runaychu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyariyman"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ñuqap ñanniykipi"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "puriyman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:59.460721539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Israelpa wawanpa chawpinpim tiyasq, manataq ⟨את⟩ Israel runayta saqisaqchu.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "hinaspa tiyasq"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawanpa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "saqisaqchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runayta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runayta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T05:02:13.477706301Z",
+  "model": "glm-5.3"
+}

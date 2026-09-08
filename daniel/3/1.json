@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 3:1",
+  "book": "daniel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Nevukadnetsarm apu quri tsalemta rurarqan — sayaynin suqta chunka ⟨codom⟩, hawchan suqta codo — Durap pampampi, Babilon suyupi sayarichirqan.",
+  "tokens": [
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "apu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "rurarqan"
+    },
+    {
+      "surface": "צלם",
+      "gloss": "tsalem"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨ya⟩"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "רומה",
+      "gloss": "sayaynin"
+    },
+    {
+      "surface": "אמין",
+      "gloss": "codo"
+    },
+    {
+      "surface": "שתין",
+      "gloss": "suqta chunka"
+    },
+    {
+      "surface": "פתיה",
+      "gloss": "hawchan"
+    },
+    {
+      "surface": "אמין",
+      "gloss": "codo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "אקימה",
+      "gloss": "sayarichirqan"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "pampampi"
+    },
+    {
+      "surface": "דורא",
+      "gloss": "Dura"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "suyupi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilon"
+    }
+  ],
+  "timestamp": "2026-09-08T11:55:56.142922779Z",
+  "model": "glm-5.3"
+}

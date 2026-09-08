@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 38:13",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Waskakunawanmi ⟨את⟩ Yirmeyahuta awayarqanku, ⟨את⟩ payta ukuramanta hawaman saqirqanku; chaymi Yirmeyahuqa wich'aq wasip kanchanpi tiyarqan.",
+  "tokens": [
+    {
+      "surface": "וימשכו",
+      "gloss": "awayarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahuta"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahuta"
+    },
+    {
+      "surface": "בחבלים",
+      "gloss": "waskakunawan"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "hawaman saqirqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta (Yirmeyahu)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ukuramanta"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "ukura"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahuqa"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "kanchanpi"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "wich'aq wasip"
+    }
+  ],
+  "timestamp": "2026-09-08T07:32:56.721849367Z",
+  "model": "glm-5.3"
+}

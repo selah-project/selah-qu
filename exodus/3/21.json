@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Quymanmi ⟨את⟩ chaninta kay runakunap, Mitsrayim runakunap ñawinkunapim; kanqa chaymi: riyspa mana ch'usaqtachu riwankichik.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "quymanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chaninta"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chaninta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinkunapim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim runakunap"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "riyspa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "riwankichik"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ch'usaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:21:15.971075527Z",
+  "model": "glm-5.3"
+}

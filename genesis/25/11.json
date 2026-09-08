@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Chaymanta Abraham wañusqan qhipanmanta, Elohim bendicionta karqan ⟨את⟩ Itsjakta, churinta; hinaspa Itsjak tiyarqam Ber-Lajai-Roi phuqu ñawpiqninpi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipanmanta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañusqan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "bendicionta karqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Itsjakta"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjakta"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqam"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ñawpiqnin"
+    },
+    {
+      "surface": "באר",
+      "gloss": "phuqu"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lajai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:01:13.364796155Z",
+  "model": "glm-5.3"
+}

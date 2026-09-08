@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Qam, runap churiy, Israel wasiman ⟨את⟩ wasita willay; chaymi huchankunamanta p'inqaykachanku, chaymi ⟨את⟩ tupusqanta tupunku.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Qam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churiy"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "willay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasita"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel wasiman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasita"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "chaymi p'inqaykachanku"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "huchankunamanta"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "chaymi tupunku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tupusqanta"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "tupusqanta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:38:43.001928288Z",
+  "model": "glm-5.3"
+}

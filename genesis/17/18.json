@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 17:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Abraham Elohimta nirqanmi: ¡Ishmael (Ismael) qampa ñawpaqyki kawsun!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "¡...kawsun!"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ishmael (Ismael)"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "kawsun"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "qampa ñawpaqyki"
+    }
+  ],
+  "timestamp": "2026-09-07T23:57:23.271915273Z",
+  "model": "glm-5.3"
+}

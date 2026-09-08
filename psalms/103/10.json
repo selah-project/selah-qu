@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Manam huchanchikkunahina ñuqanchikman ruwarqanchu, manataq millay rurayninchikkunahina ñuqanchikpi kutichirqanchu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Manam"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "huchanchikkunahina"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqanchu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "millay rurayninchikkunahina"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "kutichirqanchu"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqanchikpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:09.710670591Z",
+  "model": "glm-5.3"
+}

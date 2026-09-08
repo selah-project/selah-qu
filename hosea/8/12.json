@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Paypaq waranqa waranqa Toray kamachiykunata qillqirqani; ichaqa wak, mana riqsisqa imahina yupasqa karqanku.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "qillqirqani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "waranqa waranqa"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Toray kamachiykunata"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wak, mana riqsisqa"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "yupasqa karqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T08:48:18.934576843Z",
+  "model": "glm-5.3"
+}

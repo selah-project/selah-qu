@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "YerushalayimMAN (Jerusalén) chayamuni, hinaspa chaypi kimsa p'unchaw kani.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "chayamuni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "kani"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "kimsa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:17:56.374636492Z",
+  "model": "glm-5.3"
+}

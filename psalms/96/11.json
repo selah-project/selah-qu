@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 96,
+  "translation": "K'achakusun hanaq pacha, hinaspa phawakusun kay pacha; rawrqachun mama qucha, hunt'asqanwan kuska.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "k'achakusun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "hinaspa phawakusun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacha"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "rawrqachun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama qucha"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "hunt'asqanwan kuska"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:51.160157637Z",
+  "model": "glm-5.3"
+}

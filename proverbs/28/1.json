@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Haq'iykachanmi haq'i runa, mana qatiq kaptinpas; allin runakunaqataq hatun k'ita hina ch'ikyashanmi.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "haq'iykachanmi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana kaptinpas"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "qatiq"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haq'i runa"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "allin runakunaqataq"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "hatun k'ita hina"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "ch'ikyashanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:53:51.961636190Z",
+  "model": "glm-5.3"
+}

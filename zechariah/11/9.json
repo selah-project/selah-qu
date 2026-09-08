@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Nirqanim: manam michasaqchu ⟨את⟩ qamkunata; wañuqqa wañunman, chinkachisqaqa chinkachinman; hinaspa qhipakunaka sapa warmi ⟨את⟩ masinpakunap aychanta mikhusqakuman.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nirqanim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "michasaqchu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "wañuqqa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "wañunman"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "hinaspa chinkachisqaqa"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "chinkachinman"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "hinaspa qhipakunaka"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "mikhusqakuman"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sapa warmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aychanta"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "aychanta"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "masinpakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:22:46.381128139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Sayariy, Elohim, rimanakuy rimanakuykita; yuyariy millay p'istuykita nabal runamanta, tukuy p'unchaw.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "rimanakuy"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "rimanakuykita"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yuyariy"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "millay p'istuykita"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manta"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabal runa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:07.491861403Z",
+  "model": "glm-5.3"
+}

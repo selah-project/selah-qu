@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Mana allin runakunap ñawpaqmanta, kaykuna ñuqata llakichirqanku; ñuqap awqayniykuna nefeshwan ñuqap hawanpi muyupayankum.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqmanta"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakuna"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "ñuqata llakichirqanku"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqayniykuna"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nefeshwan"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "muyupayanku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap hawanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:33.912692240Z",
+  "model": "glm-5.3"
+}

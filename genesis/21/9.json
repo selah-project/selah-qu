@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Sarahm (Sara) rikurqan ⟨את⟩ Hagarpa (Hagar) Mitsrayim warmipa Abrahamman wachasqan churinta asichaspa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "rikurqan"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarahm (Sara)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagarpa churinta"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar (Hagar)"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Mitsrayim warmi (Egipto)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wachasqan"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamman (Abrahán)"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "asichaspa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:34.343320672Z",
+  "model": "glm-5.3"
+}

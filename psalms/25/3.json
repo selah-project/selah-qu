@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Sichi llapan qamta suyaykuqkuna mana p'inqakunkankuchum; p'inqakunkankum mana imarayku lluqsiykachaqkuna.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sichi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "qamta suyaykuqkuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "p'inqakunkankuchum"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "p'inqakunkankum"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "lluqsiykachaqkuna"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "mana imarayku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:22.956529708Z",
+  "model": "glm-5.3"
+}

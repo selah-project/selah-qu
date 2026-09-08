@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Umalliqman, waqaychina tinkunakunawan: mizmor Davidpa (David).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Umalliqman"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "waqaychina tinkunakunawan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa (David)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:29.453930720Z",
+  "model": "glm-5.3"
+}

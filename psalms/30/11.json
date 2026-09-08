@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Yahwe, uyariy, khuyawaytaq; Yahwe, kay yanapaq ñuqapaq.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "khuyawaytaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yanapaq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:33.842260195Z",
+  "model": "glm-5.3"
+}

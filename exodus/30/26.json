@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Hinaspam chaywan unkhachinki ⟨את⟩ tupanakuy qarpanwan, hinaspa ⟨את⟩ willakuq aronwan.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "hinaspam unkhachinki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaywan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tupanakuy qarpa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "qarpa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tupanakuy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "willakuq aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "willakuq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:41:03.839506982Z",
+  "model": "glm-5.3"
+}

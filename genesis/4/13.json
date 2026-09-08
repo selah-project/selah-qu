@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kayinm Yahweman nirqan: Hatunmi ñuqap huchay, chaskiyta atinamanta aswan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatunmi"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "ñuqap huchay"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "chaskiyta atinamanta aswan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:37.741418119Z",
+  "model": "glm-5.3"
+}

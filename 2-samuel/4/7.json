@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 4:7",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Wasinman haykamurqankum; payqa puñuy wasinpi, puñuy kanpanpi patapi puñuchka karqan; maqaspa wañuchirqankum, ⟨את⟩ umanta utruchirqankum, ⟨את⟩ umanta apuspa Araba (llanura) ñanpi tukuy tutam purirqanku.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "haykamurqanku"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "puñuchka"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "puñuy kanpanpi"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "puñuy wasinpi"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "puñuy wasinpa"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "maqaspa"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "wañuchirqankum"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "utruchirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umanta"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umanta"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "apurqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umanta"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umanta"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "purirqankum"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tutam"
+    }
+  ],
+  "timestamp": "2026-09-08T13:37:21.045088307Z",
+  "model": "glm-5.3"
+}

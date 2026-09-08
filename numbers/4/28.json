@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 4:28",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kaymi Gershon churinkunap ayllukunap llamk'anayninmi tinkunakuy wasipi; hinaspa waqaychayninkuqa Itamarpa — Aharonpa churin, kohen — makinpipim kanqa.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "llamk'anaynin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllukunap"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tinkunakuy"
+    },
+    {
+      "surface": "ומשמרתם",
+      "gloss": "hinaspa waqaychayninku"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinpipi"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamarpa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-09-08T01:17:46.894856067Z",
+  "model": "glm-5.3"
+}

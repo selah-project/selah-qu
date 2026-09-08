@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Manam turukata wasiykimanta apasaqchu, sankakunatapas q'awaykikunamanta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "apasaq"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "wasiykimanta"
+    },
+    {
+      "surface": "פר",
+      "gloss": "turuka"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "q'awaykikunamanta"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "sankakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:35.742629030Z",
+  "model": "glm-5.3"
+}

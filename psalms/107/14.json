@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Paykunata tuta ukhumanta, wañuy llanthumantawan hurqurqan; paykunap watarinkunatawan p'itirqan.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "tuta ukhu"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "wañuy llanthumanta"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "paykunap watarinkunata"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "p'itirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:21.092922796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "⟨את⟩ runaykita amachay, hinaspa ⟨את⟩ churasqaykita bendiciy; hinaspa paykunata michiy, hinaspa paykunata wiñay kama aparayuy.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "amachay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runaykita"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runaykita"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "hinaspa bendiciy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churasqaykita"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "churasqaykita"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "hinaspa paykunata michiy"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "hinaspa paykunata aparayuy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wiñay kama"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "wiñay kama"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:10.304653964Z",
+  "model": "glm-5.3"
+}

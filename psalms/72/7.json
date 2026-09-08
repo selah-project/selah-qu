@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Paypa p'unchawkunapi cheqa runam phanchallinqa, askha shalompas ⟨kanqa⟩, killa mana kanankamapas.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "phanchallinqa"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "paypa p'unchawkunapi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cheqa runa"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "mana kanan"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "killa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:43.941890809Z",
+  "model": "glm-5.3"
+}

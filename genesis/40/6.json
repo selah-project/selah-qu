@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Hinaspa Yosef (José) tutamanta paykunaman chayarqan, ⟨את⟩ paykunata qhawarqanmi, hinaspa chaypi ⟨kan⟩ phutikuskanku.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef (José)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqanmi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "hinaspa chaypi"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "phutikuskanku"
+    }
+  ],
+  "timestamp": "2026-09-08T00:10:15.469269581Z",
+  "model": "glm-5.3"
+}

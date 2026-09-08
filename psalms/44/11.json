@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Awqamanta qhipaman kutichimuwanki; ch'ikikuqkunapas paykunaqam q'intimurqanku.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "kutichimuwanki"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "qhipaman"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manta"
+    },
+    {
+      "surface": "צר",
+      "gloss": "awqamanta"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "ch'ikikuqkunapas"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "q'intimurqanku"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunaqam"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:37.191165097Z",
+  "model": "glm-5.3"
+}

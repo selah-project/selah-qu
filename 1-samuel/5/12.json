@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa mana wañusqa runakunam unqhuq urahuntin phutukuwan llakichisqa karqanku; llaqtap waqyynin hanaq pachamanmi sayarirqan.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "runakunam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-sqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "wañusqa"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "llakichisqa karqanku"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "unqhuq urahuntin phutukuwan"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "waqyynin"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtap"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachamanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:06:21.777475998Z",
+  "model": "glm-5.3"
+}

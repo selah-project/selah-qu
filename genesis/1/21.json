@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Elohim⟨m⟩ ⟨את⟩ hatun yaku-wiwanakunata kamari, hinaspa ⟨את⟩ llapan kawsaq nefeshta wayt'aqta — mayqinkunata unukuna llipin aylluntin achka-wach'urqan — hinaspa ⟨את⟩ llapan phawayraqra phichiwkunata aylluntin; hinaspa Elohim qhawarqan, chasqa allinmi karqan.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "kamari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hatun yaku-wiwanakunata"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "hatun yaku-wiwanakuna"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "hatunkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan kawsaq nefeshta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "kawsaq"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "wayt'aq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "achka-wach'urqan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unukuna"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "llipin aylluntin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan phichiwkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "phichiwkuna"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "phawayraqra"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "aylluntin"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chasqa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:31.076581471Z",
+  "model": "glm-5.3"
+}

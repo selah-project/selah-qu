@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Hinaspa Elisha payta nirqan: Arkuta flechakunawanwan hap'iy. Hinaspa payman arkuta hinaspa flechakunata chayarqan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "hap'iy"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arkuta"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "hinaspa flechakuna"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hinaspa chayarqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "arkuta"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "hinaspa flechakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:08.092875930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Phatichiy ⟨את⟩ phatikunaman, hinaspa paypatapi wirata sawinki; minchahmi pay.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "phatichiy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "phatikunata"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "phatikunaman"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "hinaspa wirata sawinki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "paypatapi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wira"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minchah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:53.116871506Z",
+  "model": "glm-5.3"
+}

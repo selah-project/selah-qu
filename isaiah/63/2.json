@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Imaraykutam puka pachayki, pachaykikunataq winurana wasipi sarunakunawan hina?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "imaraykutam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "puka"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "pachayki"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "pachaykikunataq"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "sarunakunawan hina"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "winurana wasipi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:42:19.348092970Z",
+  "model": "glm-5.3"
+}

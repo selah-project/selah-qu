@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Ama servinta apunman llullachichu, ichapas qamta huchachasunchá, huchayuqtaq kanki.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama...chu"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "llullachichu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "apunman"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ichapas...chá"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "qamta huchachasunchá"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "huchayuqtaq kanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:52:57.846760137Z",
+  "model": "glm-5.3"
+}

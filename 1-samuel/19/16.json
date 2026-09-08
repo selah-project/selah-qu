@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Willaqkunam chayamurqanku, chaym rikurqanku: terafimmi churanapi, cabra willma llaqllapas umanpa ñawpaqninpi.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "chayamurqanku"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "Willaqkunam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "chaym rikurqanku"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "pi"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "churanapi"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "llaqllapas"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "cabra willma"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "umanpa ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:18:54.101749156Z",
+  "model": "glm-5.3"
+}

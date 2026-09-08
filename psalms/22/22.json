@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Pumap siminmanta qispichiy ñuqata; reemkunap (waqrayuq tarukakuna) waqranninkunamanta ñuqata kutichirqawankim.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "qispichiy ñuqata"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "siminmanta"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "pumap"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "waqranninkunamanta"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "reemkunap (waqrayuq tarukakuna)"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "ñuqata kutichirqawankim"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:55.164366091Z",
+  "model": "glm-5.3"
+}

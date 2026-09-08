@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Uyarirqanmi Atalya (Atalía) ⟨את⟩ ch'ajaykuqkunap, runakunap kunkanta; chaymanta Yahwep wasinpi runakunaman chayarqan.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "uyarirqanmi"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunkanta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kunkan"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "ch'ajaykuqkunap"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T13:44:22.995843911Z",
+  "model": "glm-5.3"
+}

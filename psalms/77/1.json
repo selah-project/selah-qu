@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Wasichaqman, Yedutunpa patapi, Asafpaq, mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Wasichaqman"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafpaq"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:36.323039485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Nefeshniyta waqaycharpuway, hinaspa qispichiway; ama p'inqachawawanchu, qampi amparaykipi haykurqanimrayku.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "waqaycharpuway"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniyta"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "hinaspa qispichiway"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "p'inqachawawanchu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "amparaykipi haykurqanim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:13.322572606Z",
+  "model": "glm-5.3"
+}

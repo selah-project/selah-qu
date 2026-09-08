@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yerushalayimpipasmi tiyarqanku Yehudap churinkunamanta, Binyaminpa churinkunamanta, hinaspa Efrayimpa churinkunamanta, Menashepa churinkunamantawan.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Yerushalayimpipas"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tiyarqanku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hinaspa ... manta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaminpa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hinaspa ... manta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimpa"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "Menashepa ... wan"
+    }
+  ],
+  "timestamp": "2026-09-08T12:39:12.069387906Z",
+  "model": "glm-5.3"
+}

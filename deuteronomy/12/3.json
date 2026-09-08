@@ -1,0 +1,88 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "deuteronomy 12:3",
+ "book": "deuteronomy",
+ "lang": "qu",
+ "chapter": 12,
+ "translation": "Hinaspa ⟨את⟩ altarninkunata pachaman tikrankichik, hinaspa ⟨את⟩ piedras sayasqankunata p'akinkichik, hinaspa paykunap Ashera-ninkunata ninawan ruphachinkichik, hinaspa paykunap diosninkunap rurasqa siletakunata t'iktakunkichik, hinaspa ⟨את⟩ paykunap sutinkunta chay tiyanamanta chinqachinkichik.",
+ "tokens": [
+  {
+   "surface": "ונתצתם",
+   "gloss": "pachaman tikrankichik"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "altarninkunata"
+  },
+  {
+   "surface": "מזבחתם",
+   "gloss": "altarninkunata"
+  },
+  {
+   "surface": "ושברתם",
+   "gloss": "p'akinkichik"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "piedras sayasqankunata"
+  },
+  {
+   "surface": "מצבתם",
+   "gloss": "piedras sayasqankunata"
+  },
+  {
+   "surface": "ואשריהם",
+   "gloss": "Ashera-ninkunata"
+  },
+  {
+   "surface": "תשרפון",
+   "gloss": "ninawan ruphachinkichik"
+  },
+  {
+   "surface": "באש",
+   "gloss": "ninawan"
+  },
+  {
+   "surface": "ופסילי",
+   "gloss": "rurasqa siletakunata"
+  },
+  {
+   "surface": "אלהיהם",
+   "gloss": "paykunap diosninkunap"
+  },
+  {
+   "surface": "תגדעון",
+   "gloss": "t'iktakunkichik"
+  },
+  {
+   "surface": "ואבדתם",
+   "gloss": "chinqachinkichik"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "sutinkunta"
+  },
+  {
+   "surface": "שמם",
+   "gloss": "sutinkunta"
+  },
+  {
+   "surface": "מן",
+   "gloss": "manta"
+  },
+  {
+   "surface": "המקום",
+   "gloss": "tiyana"
+  },
+  {
+   "surface": "ההוא",
+   "gloss": "chay"
+  }
+ ],
+ "timestamp": "2026-09-08T02:41:23.990478531Z",
+ "model": "glm-5.3"
+}

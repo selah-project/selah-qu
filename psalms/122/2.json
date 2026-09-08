@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 122,
+  "translation": "Yerushalayim (Jerusalén), haykupunkiykiman chayanakuqtinchik, chakinkunam sayachkan.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "sayachkan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "chayanakuqtinchik"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "chakinkunam"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "haykupunkiykiman"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalén)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:42.517991598Z",
+  "model": "glm-5.3"
+}

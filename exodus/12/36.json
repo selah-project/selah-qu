@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yahwem ⟨את⟩ runakunap chaniyninta Mitsrayimpa ñawinkunapi churarqan; chaymi mañasqankunata qoykurqanku. Hinaspa ⟨את⟩ Mitsrayimta lluwirqanku.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunap chaniyninta"
+    },
+    {
+      "surface": "חן",
+      "gloss": "chaniyninta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinkunapi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "mañasqankunata qoykurqanku"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "lluwirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayimta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:28:33.196048047Z",
+  "model": "glm-5.3"
+}

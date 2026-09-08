@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "jeremiah 19:1",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 19,
+ "translation": "Kay hinam Yahwe riman: Riypy, hinaspa rantipay bakbukta — barro kamayuqpa rurasqan (jarrón) —, hinaspa apay kurakakunata runakunamanta, kurakakunatawan kohenkunamanta.",
+ "tokens": [
+  {
+   "surface": "כה",
+   "gloss": "Kay hinam"
+  },
+  {
+   "surface": "אמר",
+   "gloss": "riman"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "הלוך",
+   "gloss": "Riypy"
+  },
+  {
+   "surface": "וקנית",
+   "gloss": "hinaspa rantipay"
+  },
+  {
+   "surface": "בקבק",
+   "gloss": "bakbukta (jarrón)"
+  },
+  {
+   "surface": "יוצר",
+   "gloss": "barro kamayuqpa (alfarero)"
+  },
+  {
+   "surface": "חרש",
+   "gloss": "barro rurasqan (cerámica)"
+  },
+  {
+   "surface": "ומזקני",
+   "gloss": "hinaspa kurakakunata"
+  },
+  {
+   "surface": "העם",
+   "gloss": "runakunamanta"
+  },
+  {
+   "surface": "ומזקני",
+   "gloss": "kurakakunatawan"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "kohenkunamanta"
+  }
+ ],
+ "timestamp": "2026-09-08T07:10:14.191919298Z",
+ "model": "glm-5.3"
+}

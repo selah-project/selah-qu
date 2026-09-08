@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 5:1",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Qayllaykuy kunan: ¿kanchu qamta kutichiq? ¿imataq willka runakuna, mayqinmanmi t'ikrakunki?",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "qayllaykuy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "היש",
+      "gloss": "¿kanchu?"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "qamta kutichiq"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מי",
+      "gloss": "¿imataq mayqin?"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "willka runakuna"
+    },
+    {
+      "surface": "תפנה",
+      "gloss": "t'ikrakunki"
+    }
+  ],
+  "timestamp": "2026-09-08T11:00:39.807968491Z",
+  "model": "glm-5.3"
+}

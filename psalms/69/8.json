@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Imaraykuchus qamrayku q'awata apakurqani; p'inqaqa ñuqap ñawita p'istirqanmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qamrayku"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "apakurqani"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "q'awata"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "p'istirqanmi"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "p'inqaqa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñuqap ñawita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:30.065216577Z",
+  "model": "glm-5.3"
+}

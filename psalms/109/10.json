@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 109,
+  "translation": "Vayuyta vayuykachunku churinkuna, mañankutapis, hinaspa mask'anku ch'usaq wasinkumanta.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "vayuyta"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "vayuykachunku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "mañankutapis"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "hinaspa mask'anku"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "ch'usaq wasinkumanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:14.599522226Z",
+  "model": "glm-5.3"
+}

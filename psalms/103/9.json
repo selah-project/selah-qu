@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Manam lanetsahpi ch'iqirirqanchu, hinallataq manam wiñaypaq phinanta waqaychasqachu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Manam"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "lanetsahpi"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ch'iqirirqanchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinallataq manam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "phinanta waqaychasqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:09.710439869Z",
+  "model": "glm-5.3"
+}

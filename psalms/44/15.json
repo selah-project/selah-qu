@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Qamña ñuqanchikta willakuypa ñawpa rimananman tukuchinkiri gentilkunapi, umata ch'iqichiywan umantinninchikpi.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "tukuchinkiri"
+    },
+    {
+      "surface": "משל",
+      "gloss": "willakuypa ñawpa rimanannya"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gentilkunapi"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "umata ch'iqichiywan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umantinninchikpi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "runakunapi"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "runakunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:16.806019924Z",
+  "model": "glm-5.3"
+}

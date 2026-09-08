@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Apum yachaqkunaman, pachakunata yachaqkunaman nirqan; imaraykuchus apup simin llapan kamachikuy, chiqay chiqay yachaqkunap ñawpaqpin ⟨chaynillam⟩ tiyan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "yachaqkunaman"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "pachakunata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynillam"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apup"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "yachaqkunapa"
+    },
+    {
+      "surface": "דת",
+      "gloss": "kamachikuypa"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "chiqay chiqaypa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:46:24.543092985Z",
+  "model": "glm-5.3"
+}

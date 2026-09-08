@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Yehudawan Israelmi askha karqanku, mama quchapa chalanpi kaq qoncha hina; mikhunku, upyanku, kusikunkupas.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "hinaspa Israel"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "qoncha hina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "chalanpi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama qucha"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "askha kasqanman"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "mikhunku"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "hinaspa upyanku"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "hinaspa kusikunku"
+    }
+  ],
+  "timestamp": "2026-09-08T05:00:41.421255549Z",
+  "model": "glm-5.3"
+}

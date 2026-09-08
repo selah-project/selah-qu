@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaykunta ruk'anaykikama watay, sunquykip qillqananpi qillqay.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Chaykunta ... watay"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ruk'anaykikama"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "qillqay"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "qillqananpi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sunquykip"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:11.936061508Z",
+  "model": "glm-5.3"
+}

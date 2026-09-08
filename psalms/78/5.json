@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Yaakovpi huk testimonio sayachirqanmi, hinallataq Israelpi Torata churarqan, mayqintaq ⟨את⟩ taytakunanchikta kamachirqan, chaynata wawankunaman willanankupaq.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayachirqan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "testimonio"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Yaakovpi"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "hinallataq Torata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqintaq"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytakunanchikta"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "taytakunanchikta"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "willanankupaq"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "wawankunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:29.461104963Z",
+  "model": "glm-5.3"
+}

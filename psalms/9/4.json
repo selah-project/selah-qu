@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Awqaykuna qhipaman kutiptinmi, thultuyanku, ñawipaykimanta chinkapunku.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "kutiptin"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "awqaykuna"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "qhipaman"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "thultuyanku"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "chinkapunku"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ñawipaykimanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:14.110575263Z",
+  "model": "glm-5.3"
+}

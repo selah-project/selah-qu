@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwem nirqan: Yehuda (Judá) sayarinqu; qhaway, ⟨את⟩ hallp'ata qoyñani paypa makinpi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "sayarinqu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qoyñani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hallp'ata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ata"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "paypa makinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:35:27.433193166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaysi llank'arqanku ⟨את⟩ paninkuna Rajelta (Rebeca)ta, hinaspa ⟨את⟩ ñawpa chichu warminta, hinaspa ⟨את⟩ Abrahampa (Abrahán) servinta, hinaspa ⟨את⟩ runanta.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "llank'arqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rajeltata"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rajelta"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "paninkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ñawpa chichu warminta"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "ñawpa chichu warmin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "servinta"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "servin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahampa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "runanta"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "runan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:00:23.515706569Z",
+  "model": "glm-5.3"
+}

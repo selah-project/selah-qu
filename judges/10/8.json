@@ -1,0 +1,99 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "judges 10:8",
+ "book": "judges",
+ "lang": "qu",
+ "chapter": 10,
+ "translation": "Chaymi chay watapi Israelpa ⟨את⟩ churinkunata wtipayarqanku, siq'icharqanku: pusaq chunka isqon wata llapan Israelpa ⟨את⟩ churinkunata siq'icharqanku, mayqinkunachus Yardenpatapi kanku, Emorepa hallp'anpi, mayqinpi Giladpi.",
+ "tokens": [
+  {
+   "surface": "וירעצו",
+   "gloss": "wtipayarqanku"
+  },
+  {
+   "surface": "וירצצו",
+   "gloss": "siq'icharqanku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Israelpa churinkunata"
+  },
+  {
+   "surface": "בני",
+   "gloss": "churinkunata"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "בשנה",
+   "gloss": "chay watapi"
+  },
+  {
+   "surface": "ההיא",
+   "gloss": "chay"
+  },
+  {
+   "surface": "שמנה",
+   "gloss": "pusaq"
+  },
+  {
+   "surface": "עשרה",
+   "gloss": "chunka isqon"
+  },
+  {
+   "surface": "שנה",
+   "gloss": "wata"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "llapan Israelpa churinkunata"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "בני",
+   "gloss": "churinkunata"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israel"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqinkunachus"
+  },
+  {
+   "surface": "בעבר",
+   "gloss": "patapi"
+  },
+  {
+   "surface": "הירדן",
+   "gloss": "Yarden"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "hallp'anpi"
+  },
+  {
+   "surface": "האמרי",
+   "gloss": "Emore"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqinpi"
+  },
+  {
+   "surface": "בגלעד",
+   "gloss": "Giladpi"
+  }
+ ],
+ "timestamp": "2026-09-08T03:49:49.194214997Z",
+ "model": "glm-5.3"
+}

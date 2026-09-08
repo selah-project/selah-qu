@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 141,
+  "translation": "Paykunap juezninkuqa rumi manyaman itaqapurqankum, chaysi paykunaqa ñuqap rimayniykunata uyarinqaku, imaraykuchus sumaqmi kanku.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "itaqapurqanku"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "manyaman"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "paykunap juezninkuqa"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "chaysi paykunaqa uyarinqaku"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ñuqap rimayniykunata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "sumaqmi kanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:34.734649078Z",
+  "model": "glm-5.3"
+}

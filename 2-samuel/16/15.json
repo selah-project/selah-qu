@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Avshalommi llapan runakunawan — Israel runakunalla — Yerushalayimman chayanku; Ajitofelpas ⟨את⟩ paywan karqan.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "באו",
+      "gloss": "chayanku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimman"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Ajitofelpas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "paywan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:45:05.079334389Z",
+  "model": "glm-5.3"
+}

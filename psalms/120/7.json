@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 120,
+  "translation": "Ñuqaqa shalom ⟨kan⟩mi; icha ñuqa rimarqaniqtacha, paykunaqa awqanakuymanmi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ñuqaqa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "shalom ⟨kan⟩mi"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "icha"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "rimarqaniqtacha"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykunaqa"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "awqanakuymanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:47.937469960Z",
+  "model": "glm-5.3"
+}

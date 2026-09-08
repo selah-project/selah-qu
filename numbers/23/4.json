@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Elohim Bilamwan tuparqanmi; payqa nirqan: ⟨את⟩ qanchis mizbeajkunata allichirqanimi, sapa mizbeajpi torowan, carnerowan ichurarqanimi.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "tuparqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...wan"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "paytaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanchis mizbeajkuna"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "mizbeajkuna"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "allichirqani"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ichurarqani"
+    },
+    {
+      "surface": "פר",
+      "gloss": "torowan"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "carnerowan"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "sapa mizbeajpi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:09:51.476602681Z",
+  "model": "glm-5.3"
+}

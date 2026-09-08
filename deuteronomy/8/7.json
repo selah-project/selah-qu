@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 8:7",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chiqanmanta Yahwe Elohimniyki qanta allin hallp'aman apamun: mayu sik'akunayuq hallp'a, pukyukunawan, ukhu unakunawan, panpapi hinaspa orqopipas lluqsikuq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chiqanmanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "מביאך",
+      "gloss": "qanta apamun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "allin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "mayu sik'akunayuq"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unayuq"
+    },
+    {
+      "surface": "עינת",
+      "gloss": "pukyukunawan"
+    },
+    {
+      "surface": "ותהמת",
+      "gloss": "hinaspa ukhu unakunawan"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "lluqsikuq"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "panpapi"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "hinaspa orqopipas"
+    }
+  ],
+  "timestamp": "2026-09-08T02:35:53.241825935Z",
+  "model": "glm-5.3"
+}

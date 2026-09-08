@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Qhapaqkuna hamunqaku**m** Mitsrayim (Egipto)manta; Kush (Etiopía) makinanta Elohimman utqaylla churanqam.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "hamunqaku"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "qhapaqkuna"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush (Etiopía)"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "utqaylla"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "makinanta"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:32.158261442Z",
+  "model": "glm-5.3"
+}

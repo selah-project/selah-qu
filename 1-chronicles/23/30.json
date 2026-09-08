@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinaspam tutamanta tutamanta sayananpaq Yahweman añaychanapaq, hatunyachinapaqpas, hinallataq chisiman.",
+  "tokens": [
+    {
+      "surface": "ולעמד",
+      "gloss": "sayananpaq"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "añaychanapaq"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "hatunyachinapaqpas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "chisiman"
+    }
+  ],
+  "timestamp": "2026-09-08T12:50:26.785116674Z",
+  "model": "glm-5.3"
+}

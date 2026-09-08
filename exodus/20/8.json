@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Yuyariy ⟨את⟩ Shabat p'unchawta, willkaychanaykipaq.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Yuyariy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat p'unchawta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabatpa"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "willkaychanaykipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:30:21.808036518Z",
+  "model": "glm-5.3"
+}

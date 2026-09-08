@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "«Yahwe Elohimniyki willachun ñuqanchikman ⟨את⟩ ñanta maypin purinchik, hinaspa ⟨את⟩ ima rimayta ruwachunchikta».",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "willachun"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñanta"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ñanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypin"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "purinchik"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ima rimayta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ima rimayta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ruwachunchik"
+    }
+  ],
+  "timestamp": "2026-09-08T07:39:02.074141145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Llullta chiqniy, llullmanta ikakunitaqmi; Toraykim munani.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "llull"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "chiqniy"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "llullmanta ikakunitaqmi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Toraykim"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "munani"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:25.436642279Z",
+  "model": "glm-5.3"
+}

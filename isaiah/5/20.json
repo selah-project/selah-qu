@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Llaki! Mana allinta allin nisqakunaman, allintataq mana allin nisqakunaman; lant'inta k'anchayman churasqakunam, k'anchayta lant'inman, ananta misk'iman, misk'ita ananman churasqakunam.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Llaki!"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "nisqakunaman"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "allintataq"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "churasqakunam"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lant'in"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "k'anchayman"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "k'anchayta"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "lant'inman"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "churasqakunam"
+    },
+    {
+      "surface": "מר",
+      "gloss": "anan"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "misk'iman"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "misk'ita"
+    },
+    {
+      "surface": "למר",
+      "gloss": "ananman"
+    }
+  ],
+  "timestamp": "2026-09-08T05:54:25.871619253Z",
+  "model": "glm-5.3"
+}

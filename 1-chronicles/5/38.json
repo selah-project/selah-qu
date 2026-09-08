@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa Ajiubm ⟨את⟩ Tsadokta wawacharqan, hinaspa Tsadokm ⟨את⟩ Shalumta wawacharqan.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "hinaspa Ajiubm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadokta"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadokta"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "hinaspa Tsadokm"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalumta"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalumta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:32:33.000773561Z",
+  "model": "glm-5.3"
+}

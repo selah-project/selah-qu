@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Manam chinkachisqaykuchu wawankunamanta; qhipa ñawpaq ñiqin kuti: qhipa wawakunamanpas willasqaykum Yahwepa yupaychayninta, atiynintawan, llamk'asqan achkha t'ikrasqankunatawan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "chinkachisqaykuchu"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "wawankunamanta"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "wawakunamanpas"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "qhipa"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "willasqaykum"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "yupaychayninta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "atiynintawan"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "llamk'asqan achkha t'ikrasqankunatawan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "llamk'asqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:52.211288183Z",
+  "model": "glm-5.3"
+}

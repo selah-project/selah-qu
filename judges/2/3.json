@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chayrayku ñuqapas nirqani: manam ⟨את⟩ paykunata qamkunap ñawpaqmanta qarqusaqchu; paykunaqa qamkunap kinrayninpi kanqaku, hinaspa paykunap diosninkuqa qamkunamanpaq t'ipqahina kanqa.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Chayrayku ñuqapas"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nirqani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana...-chu"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "qarqusaq"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykunata (qarqusqa)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "qamkunap ñawpaqmanta"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunap"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "kinrayninpi"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "hinaspa paykunap diosninkuqa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunamanpaq"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "t'ipqahina"
+    }
+  ],
+  "timestamp": "2026-09-08T03:36:09.676348671Z",
+  "model": "glm-5.3"
+}

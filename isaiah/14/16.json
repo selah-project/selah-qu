@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Qamta qhawaqkuna qamman sinchi qhawanku, qamta yuyayspa ninku: «Kay runachu hallp'ata thalarichiq, mamallaktakunata ch'uqcharichiq?»",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "qamta qhawaqkuna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "sinchi qhawanku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "yuyayspa ninku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay…chu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "thalarichiq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ch'uqcharichiq"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mamallaktakunata"
+    }
+  ],
+  "timestamp": "2026-09-08T06:00:34.814230789Z",
+  "model": "glm-5.3"
+}

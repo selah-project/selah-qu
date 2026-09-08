@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Chiqaqmi allin runakuna Sutiykipaq yupaychanku; chiqta runakunataq ⟨את⟩ ñawpaqenpi tiyasqanku ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "chiqaqmi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "allin runakuna"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "yupaychanku"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Sutiykipaq"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "tiyasqanku"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "chiqta runakuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawpaqenpi (paniyki)"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawpaqenpi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:55.610304152Z",
+  "model": "glm-5.3"
+}

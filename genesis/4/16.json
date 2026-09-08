@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Kayinm Yahwep ñawinmanta lluqsiykurqan, Edénpa antinpi Nod sutiyuq hallp'apitaq tiyarqan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsiykurqan"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayinm"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawinmanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqantaq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'apipi"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod sutiyuq"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "antinpi"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edénpa"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:37.742311182Z",
+  "model": "glm-5.3"
+}

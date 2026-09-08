@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Naarahmi payman wawakunata karqan: ⟨את⟩ Ajuzzamta, ⟨את⟩ Hefer, ⟨את⟩ Temenita, ⟨את⟩ Haajashtarita; kaykuna Naarahpa churinkunam.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "wawakunata karqanmi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajuzzamta"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Ajuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Heferta"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hefer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Temenita"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Haajashtarita"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haajashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarahpa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:32:44.030162933Z",
+  "model": "glm-5.3"
+}

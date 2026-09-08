@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Sunquymi ratu-ratu p'inqan, atiyniytaq ñuqata saqirqan; ñawiypan k'anchayninpas paykuna ⟨את⟩ ñuqawan mana kankuchu.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "sunquy"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "ratu-ratu p'inqan"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "ñuqata saqirqan"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "atiyniy"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "hinaspa k'anchay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawiy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "pas"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kankuchu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqawan",
+      "marks": "ñuqawan — 'with me', preposition את (H854), not the DOM marker"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:16.297028992Z",
+  "model": "glm-5.3"
+}

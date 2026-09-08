@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "deuteronomy 30:12",
+ "book": "deuteronomy",
+ "lang": "qu",
+ "chapter": 30,
+ "translation": "Mana hanaq pachapichu ⟨kan⟩, nispa: pitaq ñuqanchikpaq hanaq pachaman siqarinqa, hinaspa ⟨את⟩ chayta chaskimunqa ñuqanchikpaq, hinaspa uyachimunqa, ñuqanchik ruranqaku hina?",
+ "tokens": [
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "בשמים",
+   "gloss": "hanaq pachapichu"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "⟨kan⟩"
+  },
+  {
+   "surface": "לאמר",
+   "gloss": "nispa"
+  },
+  {
+   "surface": "מי",
+   "gloss": "pitaq"
+  },
+  {
+   "surface": "יעלה",
+   "gloss": "siqarinqa"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "ñuqanchikpaq"
+  },
+  {
+   "surface": "השמימה",
+   "gloss": "hanaq pachaman"
+  },
+  {
+   "surface": "ויקחה",
+   "gloss": "hinaspa chaskimunqa"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "ñuqanchikpaq"
+  },
+  {
+   "surface": "וישמענו",
+   "gloss": "hinaspa uyachimunqa"
+  },
+  {
+   "surface": "אתה",
+   "gloss": "⟨את⟩",
+   "marks": "chayta"
+  },
+  {
+   "surface": "ונעשנה",
+   "gloss": "hinaspa ñuqanchik ruranqaku"
+  }
+ ],
+ "timestamp": "2026-09-08T03:00:51.243362048Z",
+ "model": "glm-5.3"
+}

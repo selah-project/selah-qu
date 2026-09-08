@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Belmi ñawpaman k'unkun, Nebosi q'ala kakun; paykunap rurasqa diosninkuna ch'aska uywaman, llamamanpas tukurqan; qampakuna apachisqa q'ipiykikuna llasaqllata apachisqa, ch'akiyusqaman q'ipim.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "ñawpaman k'unkun"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Bel"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "q'ala kakun"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nevo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "paykunap rurasqa diosninkuna"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "ch'aska uywaman"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "llamamanpas"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "qampakuna apachisqa q'ipiykikuna"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "llasaqllata apachisqa"
+    },
+    {
+      "surface": "משא",
+      "gloss": "q'ipi"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "ch'akiyusqaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:28:36.741920246Z",
+  "model": "glm-5.3"
+}

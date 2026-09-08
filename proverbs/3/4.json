@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymanta Elohim hinaspa runakunap ñawinpi Gracia-ta, allin yachaytawan tarinkimanmi.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "tarinkimanmi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "Gracia"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "yachaytawan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:18.055067457Z",
+  "model": "glm-5.3"
+}

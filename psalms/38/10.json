@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Adonay, tukuy munasqayki ñawpaqyki ⟨kan⟩mi; ahaykuymi qamanta manam pakasqa karqanchu.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "ñawpaqyki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "munasqayki"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "ahaykuymi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "qamanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "pakasqa karqanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:16.296855593Z",
+  "model": "glm-5.3"
+}

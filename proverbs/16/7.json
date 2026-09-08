@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Runap ñankuna Yahwepa sunqunta alliychaptinmi, hinataq paypa awkinkunata ⟨את⟩ paywan ch'anqanakuchin.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "sunqunta alliychaptin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ñankuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runap"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hinataq"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "paypa awkinkunata"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ch'anqanakuchin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "paywan"
+    }
+  ],
+  "timestamp": "2026-09-08T14:19:02.528228585Z",
+  "model": "glm-5.3"
+}

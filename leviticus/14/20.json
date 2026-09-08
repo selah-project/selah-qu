@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa kohenqa ⟨את⟩ olah ofrendatawan, ⟨את⟩ minja ofrendatawan dyuspa altarninman qawachinqam; hinaspa kohenqa payta pampachanqam, hinaspa p'inqasqa runam ch'uya kanqa.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "hinaspa qawachinqam"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah ofrendatawan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah ofrenda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "minja ofrendatawan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minja ofrenda"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "altarninman"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "hinaspa pampachanqam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenqa"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "hinaspa ch'uya kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:58:29.381253875Z",
+  "model": "glm-5.3"
+}

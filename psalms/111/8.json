@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 111,
+  "translation": "Wiñay wiñaykama sayasqa⟨kanku⟩mi, cheqapwan hinaspa chiqapwan ruwasqa.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "sayasqa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "ruwasqa"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "cheqapwan"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "hinaspa chiqapwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:36.196962321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 143,
+  "translation": "Hinaspa yanapaqniykita ⟨את⟩ kamachikusqaman ama yaykuychu, imaraykuchus ñawpayki-kinpipas manam mayqan kawsaqpas chanin kanqachu.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ama ... chu"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "yaykuy"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "kamachikusqaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yanapaqniykita"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanapaqniyki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ... -chu"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "chanin kanqa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ñawpayki-kinpipas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mayqan ... pas"
+    },
+    {
+      "surface": "חי",
+      "gloss": "kawsaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:43.089868902Z",
+  "model": "glm-5.3"
+}

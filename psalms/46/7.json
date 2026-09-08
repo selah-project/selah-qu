@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Hunukunku llaqtakuna, chikichanku mamallaktakuna; payqa kunkanta qichurqanmi, hallp'aqa wiykuspa chinkarqan.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "hunukunku"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "llaqtakuna"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "chikichanku"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "mamallaktakuna"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qichurqan"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "kunkanta"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "wiykuspa chinkarqan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:43.892467713Z",
+  "model": "glm-5.3"
+}

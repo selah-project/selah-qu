@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Kohen ⟨את⟩ omerta Yahwep ñawpaqen wayllachinqa, qamkunap allin chaskisqanpaq; Shabatpa qhipan p'unchawm kohenm wayllachinqa.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "wayllachinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omerta"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omerta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "qamkunap chaskisqanpaq"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "qhipan p'unchaw"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabatpa"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "wayllachinqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-09-08T01:06:27.396097434Z",
+  "model": "glm-5.3"
+}

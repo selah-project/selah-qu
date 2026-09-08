@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaykunataqmi Yerushalayimpi (Jerusalén) paqarichikurqan: Shima, hinaspa Shovav, hinaspa Natan, hinaspa Shelomo — tawa, Bat-Shua (Betsabé) warminta, Amielpa ususinpa.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "chaykuna"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "paqarichikurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "Yerushalayimpi"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shima"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "hinaspa Shovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "hinaspa Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "hinaspa Shelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "tawa"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "Bat-Shuaman"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bat-Shua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususin"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amielpa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:32:12.234052929Z",
+  "model": "glm-5.3"
+}

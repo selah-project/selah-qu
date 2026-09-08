@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Chaymi: ch'aqnay p'unchawmi sonqoypi kachkan, qispichisqaypa watanmi chayamun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ch'aqnay"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sonqoypi"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "wata"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "qispichisqaypa"
+    },
+    {
+      "surface": "באה",
+      "gloss": "chayamun"
+    }
+  ],
+  "timestamp": "2026-09-08T06:42:19.348463205Z",
+  "model": "glm-5.3"
+}

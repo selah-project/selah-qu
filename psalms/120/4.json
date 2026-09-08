@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 120,
+  "translation": "Sinchi awqap ch'uspisqa chukikuna, retama q'unchakunawan.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "chukikuna"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sinchi awqap"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ch'uspisqa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "q'unchakuna"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "retama"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:01.066826927Z",
+  "model": "glm-5.3"
+}

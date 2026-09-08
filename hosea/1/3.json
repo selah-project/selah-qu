@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa rirqanmi, ⟨את⟩ Gomerta (Gómer), Diblayimpa ususinta hap'irqan; chayqa wiksayuq tukurqan, hinaspa paypaq huk churi wacharqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "hinaspa rirqan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomerta (Gómer)"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer (Gómer)"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususinta"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayimpa"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wiksayuq tukurqan"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    }
+  ],
+  "timestamp": "2026-09-08T08:47:14.142887065Z",
+  "model": "glm-5.3"
+}

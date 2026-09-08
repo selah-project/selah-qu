@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspam kohenqa rit'inta yawarmanta ch'utirqan, hinaspa qanchis kutita Yahwep ñawpaqpi, ⟨את⟩ parda ñawpaqta ch'iqirqan.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "ch'utirqan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenqa"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "rit'inta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "yawar"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "hinaspa ch'iqirqan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kutita"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parda ñawpaq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "parda"
+    }
+  ],
+  "timestamp": "2026-09-08T00:51:18.919229543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Huk kikarta ⟨talento⟩ quri thañumanta ⟨את⟩ chayta ruwarqan, hinaspa ⟨את⟩ llapan paypa llamk'anankunata.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "huk kikarta ⟨talento⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "thañu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ chayta",
+      "marks": "chayta (kikar \/ lampara)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapan paypa llamk'anankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "paypa llamk'anankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:37.082500572Z",
+  "model": "glm-5.3"
+}

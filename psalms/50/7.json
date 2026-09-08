@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Uyariy, ñuqap runakuna, ñuqam rimasaq; Israel, ñuqam qamta chiqanchasaq: Elohim, qampa Elohimniyki, ñuqam ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Uyariy"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ñuqap runakuna"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ñuqam rimasaq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ñuqam chiqanchasaq"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:53.862438445Z",
+  "model": "glm-5.3"
+}

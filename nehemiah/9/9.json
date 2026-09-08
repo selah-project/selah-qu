@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Ñawiywan rikurqankim ⟨את⟩ taytakunanchikpa llakikuyta Mitsrayimpi, hinaspa ⟨את⟩ llaqllinta Yam Sufup patanpi uyarqankim.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "rikurqankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llakikuyta"
+    },
+    {
+      "surface": "עני",
+      "gloss": "llakikuy"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "taytakunanchikpa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayimpi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llaqllinta"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "llaqllin"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "uyarqankim"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-09-08T12:23:09.037143752Z",
+  "model": "glm-5.3"
+}

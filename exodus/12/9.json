@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chaymantam ama nanatachu mihunchischu, mana yakupi wayk'usqata wayk'usqachu kanchu; icha ninawan awanasqam: umannin, chakinkunampiwan, ukhunninpiwan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mihunchischu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nanata"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "hinaspa wayk'usqata"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "wayk'usqa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "yakupi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "icha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "icha"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "awanasqa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ninawan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umannin"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "chakinkunampi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa ...piwan"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ukhunninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:57.510339619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Qhaway, ⟨את⟩ qampa uyarikunkita sinchitachmi churarqani paykunaqa uyarikunanku ñawpaqpi; hinaspa ⟨את⟩ qampa mat'iykiqa sinchitam paykuna mat'inku ñawpaqpi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "sinchitachmi churarqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qampa uyarikunkita"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "qampa uyarikunki"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "paykunaqa uyarikunanku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "qampa mat'iyki"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "qampa mat'iyki"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sinchitam"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ñawpaqpi"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "paykuna mat'inku"
+    }
+  ],
+  "timestamp": "2026-09-08T07:54:11.743506321Z",
+  "model": "glm-5.3"
+}

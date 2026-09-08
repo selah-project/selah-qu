@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Elohim ch'aki hallp'ata hallp'a nispa sutiyarqan, unukunap huñusqantaq qochakuna nispa sutiyarqan; hinaspa Elohim rikurqan allin kasqantam.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "hinaspa sutiyarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ch'aki hallp'ata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "hinaspa unukunap huñusqanta"
+    },
+    {
+      "surface": "המים",
+      "gloss": "unukuna"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "sutiyarqan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "qochakuna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "hinaspa rikurqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:33.458485954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+ "tier": "glm-5.2",
+ "verse": 17,
+ "ref": "esther 2:17",
+ "book": "esther",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Apum ⟨את⟩ Esterta tukuy warmikunamanta aswan munarqan; payqa tukuy pasñakunamanta aswan ñawpaqninpi henwan jesedwan chaskirqanmi. Apum paypa uman kamachiypa quri chukunta churarqan, hinaspa Washti paqtan warmi kamachirqan.",
+ "tokens": [
+  {
+   "surface": "ויאהב",
+   "gloss": "munarqan"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "apum"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Esterta"
+  },
+  {
+   "surface": "אסתר",
+   "gloss": "Ester"
+  },
+  {
+   "surface": "מכל",
+   "gloss": "tukuy ...manta aswan"
+  },
+  {
+   "surface": "הנשים",
+   "gloss": "warmikuna"
+  },
+  {
+   "surface": "ותשא",
+   "gloss": "chaskirqan"
+  },
+  {
+   "surface": "חן",
+   "gloss": "hen"
+  },
+  {
+   "surface": "וחסד",
+   "gloss": "hinaspa jesed"
+  },
+  {
+   "surface": "לפניו",
+   "gloss": "ñawpaqninpi"
+  },
+  {
+   "surface": "מכל",
+   "gloss": "tukuy ...manta aswan"
+  },
+  {
+   "surface": "הבתולת",
+   "gloss": "pasñakuna"
+  },
+  {
+   "surface": "וישם",
+   "gloss": "churarqan"
+  },
+  {
+   "surface": "כתר",
+   "gloss": "quri chuku"
+  },
+  {
+   "surface": "מלכות",
+   "gloss": "kamachiy"
+  },
+  {
+   "surface": "בראשה",
+   "gloss": "paypa uman"
+  },
+  {
+   "surface": "וימליכה",
+   "gloss": "hinaspa kamachirqan"
+  },
+  {
+   "surface": "תחת",
+   "gloss": "paqtan"
+  },
+  {
+   "surface": "ושתי",
+   "gloss": "Washti"
+  }
+ ],
+ "timestamp": "2026-09-08T11:46:22.184691645Z",
+ "model": "glm-5.3"
+}

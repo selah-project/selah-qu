@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Sayariy, Yahwe; paypa ñawpanpa ñawpaqta riy; hunk'unachiy payta; qispichiy nefeshniyta millay runamanta, champeqtawan.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ñawpaqta riy"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "paypa ñawpanpa"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "hunk'unachiy payta"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "millay runamanta"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "champeqtawan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:53.669763569Z",
+  "model": "glm-5.3"
+}

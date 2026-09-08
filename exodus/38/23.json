@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 38:23",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Paywanmi ⟨את⟩ Oholiab, Ahisamaqpa churin, Dan ayllumanta — tallaqmi, yachaysapa llamk'aq, hinaspa awaq tekheletwan (anqhas), argamanwan (tiya), tolaat-shaniwan (puka q'aytu), hinaspa sheshwan (llamp'u q'aytu).",
+  "tokens": [
+    {
+      "surface": "ואתו",
+      "gloss": "paywan ⟨את⟩"
+    },
+    {
+      "surface": "אהליאב",
+      "gloss": "Oholiab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אחיסמך",
+      "gloss": "Ahisamaqpa"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ayllumanta"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "tallaq"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "hinaspa yachaysapa llamk'aq"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "hinaspa awaq"
+    },
+    {
+      "surface": "בתכלת",
+      "gloss": "tekheletwan (anqhas)"
+    },
+    {
+      "surface": "ובארגמן",
+      "gloss": "hinaspa argamanwan (tiya)"
+    },
+    {
+      "surface": "ובתולעת",
+      "gloss": "hinaspa tolaatwan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "puka q'aytu"
+    },
+    {
+      "surface": "ובשש",
+      "gloss": "hinaspa sheshwan (llamp'u q'aytu)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:06.825750542Z",
+  "model": "glm-5.3"
+}

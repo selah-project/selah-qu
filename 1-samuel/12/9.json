@@ -1,0 +1,86 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "1-samuel 12:9",
+ "book": "1-samuel",
+ "lang": "qu",
+ "chapter": 12,
+ "translation": "⟨את⟩ Yahwe Elohimninkutam qunqarqanku; chaymi Yahwe ⟨את⟩ paykunata Sisera — Hatsorpa awqakunap umalliqnin — pa makiman, Plishti runakunap makimanwan, Moabpa apunpa makimanwan rantirqan; chaykunaqa paykunawan awqanakurqanku.",
+ "tokens": [
+  {
+   "surface": "וישכחו",
+   "gloss": "qunqarqanku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahweta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיהם",
+   "gloss": "Elohimninkuta"
+  },
+  {
+   "surface": "וימכר",
+   "gloss": "rantirqan"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩ paykunata"
+  },
+  {
+   "surface": "ביד",
+   "gloss": "makiman"
+  },
+  {
+   "surface": "סיסרא",
+   "gloss": "Sisera"
+  },
+  {
+   "surface": "שר",
+   "gloss": "umalliqnin"
+  },
+  {
+   "surface": "צבא",
+   "gloss": "awqakunap"
+  },
+  {
+   "surface": "חצור",
+   "gloss": "Hatsorpa"
+  },
+  {
+   "surface": "וביד",
+   "gloss": "makimanwan"
+  },
+  {
+   "surface": "פלשתים",
+   "gloss": "Plishti runakunap"
+  },
+  {
+   "surface": "וביד",
+   "gloss": "makimanwan"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "apunpa"
+  },
+  {
+   "surface": "מואב",
+   "gloss": "Moabpa"
+  },
+  {
+   "surface": "וילחמו",
+   "gloss": "awqanakurqanku"
+  },
+  {
+   "surface": "בם",
+   "gloss": "paykunawan"
+  }
+ ],
+ "timestamp": "2026-09-08T04:11:42.207975554Z",
+ "model": "glm-5.3"
+}

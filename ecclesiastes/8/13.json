@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Manam allin kanqa mana-allin runapaq; manataqmi p'unchawkunata sunichinqa lantuhina, paymi manam Elohimpa ñawpaqenpi manchakunchu.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "manam allin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "mana-allin runapaq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "sunichinqa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkunata"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "lantuhina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "pay"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "mana kachkan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "manchakuq"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "Elohimpa ñawpaqenpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-08T11:44:00.595189248Z",
+  "model": "glm-5.3"
+}

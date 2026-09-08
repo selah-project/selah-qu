@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Añayta zorbeq runam ñuqata hat'unchanmi; ñan allinchatsiyaq runamanqa Elohimpa qespinta rikuchisaqmi.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "zorbeq"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "añayta"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "ñuqata hat'unchanmi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "allinchatsiyaq"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "rikuchisaqmi"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "qespinta"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:09.445821639Z",
+  "model": "glm-5.3"
+}

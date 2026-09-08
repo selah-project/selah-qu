@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Pita yachanchu? Ichapas Elohim tikrakapunwachá, wiyakunwanchá, phiñakuyninmanta tikrakapunwanchá, chaymi manaraq chinkasunchikchu.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Pita"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yachanchu"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "tikrakapunwachá"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "wiyakunwanchá"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "tikrakapunwanchá"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "phiñakuy"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "paypa (phiñakuy)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "chinkasunchikchu"
+    }
+  ],
+  "timestamp": "2026-09-08T14:09:21.772015519Z",
+  "model": "glm-5.3"
+}

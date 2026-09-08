@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 3:2",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa llapan apupa llamk'aqninkuna, apupa punkunpi kaqkuna, k'ikmurqanku hinaspa Hamanman ñawpa manchariykacharqanku, imaraykuchus apum payman chayninta kamachirqan. Icha Mordekayqa manam k'ikmurqanchu, manataq ñawpa mancharikurqanchu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "llamk'aqninkuna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "punkunpi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "k'ikmurqanku"
+    },
+    {
+      "surface": "ומשתחוים",
+      "gloss": "hinaspa ñawpa manchariykacharqanku"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Hamanman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayninta"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "ומרדכי",
+      "gloss": "icha Mordekayqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יכרע",
+      "gloss": "k'ikmurqanchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "ישתחוה",
+      "gloss": "ñawpa mancharikurqanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:46:49.895043472Z",
+  "model": "glm-5.3"
+}

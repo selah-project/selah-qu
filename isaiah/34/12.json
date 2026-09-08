@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Paypa qhapaq runankunaqa apu kayta waqyanqaku, ichapas manam pipas chaypi kanqachu; paypa umalliqninkunapas llapanmi ch'usaq kanqaku.",
+  "tokens": [
+    {
+      "surface": "חריה",
+      "gloss": "paypa qhapaq runankuna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "hinaspa manam pipas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "מלוכה",
+      "gloss": "apu kayta"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "waqyanqaku"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "paypa llapan"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kanqaku"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ch'usaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:17:21.919543723Z",
+  "model": "glm-5.3"
+}

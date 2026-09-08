@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kutichirqanmi Yahwe ⟨את⟩ angeluta ñuqapi rimaykachaqta, allin rimaykunatawan, takyachiq rimaykunatawan.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "angeluta"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "angeluta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "rimaykachaqta"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqapi"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "rimaykuna"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "allin"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "rimaykuna"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "takyachiq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:18:38.231975186Z",
+  "model": "glm-5.3"
+}

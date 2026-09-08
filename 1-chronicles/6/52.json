@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 6:52",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa payman quykurqanku ⟨את⟩ ayqeq llaqtakunata: ⟨את⟩ Shekhem (Siquem) llaqtata hinaspa ⟨את⟩ chakranta Efrayim urqupi, hinaspa ⟨את⟩ Gezer (Gézer) llaqtata hinaspa ⟨את⟩ chakranta.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "quykurqanku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayqeq llaqtakunata"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "ayqeq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem llaqtata"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem (Siquem) llaqtata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chakranta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "chakranta"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqupi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Gezer llaqtata"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer (Gézer) llaqtata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chakranta"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "chakranta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:20.312375632Z",
+  "model": "glm-5.3"
+}

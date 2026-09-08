@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Unuta yarqasqamanmi paskasaq, mayu-k'ikurakunatapas ch'akipiman; ñuqap samayta musuqkununman paskasaq, ñuqap bendisiyta wawankunamanpas.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אצק",
+      "gloss": "paskasaq"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "yarqasqaman"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "mayu-k'ikurakunatapas"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ch'akipiman"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "paskasaq"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ñuqap samayta"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "musuqkununman"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "ñuqap bendisiyta"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "wawankunamanpas"
+    }
+  ],
+  "timestamp": "2026-09-08T06:30:32.525261653Z",
+  "model": "glm-5.3"
+}

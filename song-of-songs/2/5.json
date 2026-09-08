@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Uva misk'i t'antakunaawan yanapariwayku, mansanakunaawan samarichiywayku, imaraykuchus munakuypi onqoymi kani.",
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "yanapariwayku"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "uva misk'i t'antakunaawan"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "samarichiywayku"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "mansanakunaawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "onqoy"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "munakuypa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "kani"
+    }
+  ],
+  "timestamp": "2026-09-08T11:25:34.426020747Z",
+  "model": "glm-5.3"
+}

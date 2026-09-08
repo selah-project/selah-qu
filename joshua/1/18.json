@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Mayqen runapas ⟨את⟩ qampa simiykita ankallispa manas ⟨את⟩ qampa rimaykikunata uyanchu, qam kamachiptiyki tukuyman, chay runam wañuchisqa kanqa; sapaqmanta sinchi kay, hinaspa kallpayuq kay.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mayqen ...pas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "ankallispa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qampa simiykita"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "qampa simiyki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manas"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uyanchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qampa rimaykikunata"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "qampa rimaykikuna"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tukuyman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "kamachiptiyki"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañuchisqa kanqa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sapaqmanta"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sinchi kay"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "hinaspa kallpayuq kay"
+    }
+  ],
+  "timestamp": "2026-09-08T03:05:25.136323621Z",
+  "model": "glm-5.3"
+}

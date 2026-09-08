@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 50:16",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Bavelmanta t'alan chakrukuqta, q'inti pachapi ichillata hap'iqta; ch'eqaq t'ikrarayku sapa runa aylluñinman kutinqañami, sapa runapas hallp'añinman miqunqa.",
+  "tokens": [
+    {
+      "surface": "כרתו",
+      "gloss": "t'alan"
+    },
+    {
+      "surface": "זורע",
+      "gloss": "chakrukuqta"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Bavelmanta"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "hap'iqta"
+    },
+    {
+      "surface": "מגל",
+      "gloss": "ichillata"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "q'inti"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "t'ikra"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ch'eqaq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "aylluñin"
+    },
+    {
+      "surface": "יפנו",
+      "gloss": "kutinqañami"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "sapa runapas"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "hallp'añinman"
+    },
+    {
+      "surface": "ינסו",
+      "gloss": "miqunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:43:28.570604817Z",
+  "model": "glm-5.3"
+}

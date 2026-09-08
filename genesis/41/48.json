@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 41:48",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Hinaspa payqa Mitsrayim hallp'api kasqan qanchis watakunap ⟨את⟩ llapan mikhuyta huñurqan; llaqtakunapi mikhuyta churarqan — sapa llaqtap muyuriqnin chaninpa mikhuyta chay llaqtap ukhunpi churarqan.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "huñurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan mikhuyta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhuy"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "watakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kasqan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhuyta"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "llaqtakunapi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhuyta"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "chakir"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "muyuriqnin"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "chaninpi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ukhunpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:15:30.193070887Z",
+  "model": "glm-5.3"
+}

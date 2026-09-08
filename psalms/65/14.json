@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Uwyakunam purichina pampakunata churachkan, hinaspa qhochakunaqa tara muruwan p'istukun; qaparinkumillataq takinku.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "churachkan"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "purichina pampakunata"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "uwyakuna"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "qhochakuna"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "p'istukun"
+    },
+    {
+      "surface": "בר",
+      "gloss": "tara muruwan"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "qaparinku"
+    },
+    {
+      "surface": "אף",
+      "gloss": "millataq"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "takinku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:53:58.698334510Z",
+  "model": "glm-5.3"
+}

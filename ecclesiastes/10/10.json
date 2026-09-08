@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Q'illay ch'usa kaptinqa hinaspa paypa ñawpaq rantin mana allinchasqa kaptinqa, kallpakunata yallincharinqam; hinaspa yachaypa atipayninmi allinchan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "kaptinqa"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "ch'usa"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "q'illay"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawpaq rantin"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "allinchasqa"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "hinaspa kallpakunata"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "yallincharinqa"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "hinaspa atipaynin"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "allinchan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachay"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:46.896706144Z",
+  "model": "glm-5.3"
+}

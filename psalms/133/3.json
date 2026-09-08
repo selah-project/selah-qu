@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 133,
+  "translation": "Chermonpa ch'uspiyan hina, Tsiyon (Sión) orqokunanpi uraykuq hina; chaypim Yahwem kamachirqan ⟨את⟩ bendiciónta — kawsayta, wiñay kama.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "ch'uspiyan hina"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermonpa"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "uraykuq"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "orqokunan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon (Sión)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bendiciónta"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bendiciónta"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsayta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:31.136371624Z",
+  "model": "glm-5.3"
+}

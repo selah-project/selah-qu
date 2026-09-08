@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Kusichiyku, llaqichiptiyki p'unchawkunahina, mana allin qhawasqayku añakunahina.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "kusichiyku"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "p'unchawkunahina"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "llaqichiptiyki"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "añakuna"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "qhawasqayku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mana allin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:10:51.710948771Z",
+  "model": "glm-5.3"
+}

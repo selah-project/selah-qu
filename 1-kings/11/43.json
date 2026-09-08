@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 11:43",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Shelomo (Salomón) taytakunawan puñurqan, Davidpa llaqtanpi, paq taytanpa, aypasqakurqan; chaysi paq churi Rejavam (Roboam) paq rantipi apukurqan.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "puñurqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "taytakunawan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "aypasqakurqan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtanpi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "paq taytanpa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "apukurqan"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rejavam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "paq churi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "paq rantipi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:08:40.492518850Z",
+  "model": "glm-5.3"
+}

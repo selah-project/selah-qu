@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Sayachisqa sunqu-yuyayniyoqtaqa thakilla, thakilla waqaychanqami, qampi rayku arraykuspa.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "sunqu-yuyayniyoqta"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "sayachisqa"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "waqaychanqa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thakilla"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "thakilla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "arraykuspa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:07:35.608863191Z",
+  "model": "glm-5.3"
+}

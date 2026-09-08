@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chayhinam rikurqani mana allin runakuna apanakusqa kasqankuta; hayk'urqanku hinaspa willka tiyanamanta purirqanku, hinaspa llaqtapi qonqakurqanku, maypi chaynata ruwasqanku; kaypas hebel ⟨kan⟩mi.",
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqanimi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakuna"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "apanakusqa"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "hayk'urqanku"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "willka tiyanamanta"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "willka"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "qonqakurqanku"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ruwasqanku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kaypas"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-08T11:43:06.904383008Z",
+  "model": "glm-5.3"
+}

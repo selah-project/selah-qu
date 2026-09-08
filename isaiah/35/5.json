@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Chay pacham ñawsakunap ñawinkuna kichakunqa, hinaspa karakunap rinrinkuna phaskakunqa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Chay pacha"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "kichakunqa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawinkuna"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ñawsakunap"
+    },
+    {
+      "surface": "ו אזני",
+      "gloss": "hinaspa rinrinkuna"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "karakunap"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "phaskakunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:18:50.728410584Z",
+  "model": "glm-5.3"
+}

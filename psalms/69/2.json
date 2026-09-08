@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Qispichiwaway, Elohim, ñuqap Nefesh ⟨kawsay⟩man unukuna chayamunqam kaptinmi.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "qispichiwaway"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kaptinmi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "chayamurqanku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unukuna"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesh"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:12.965652132Z",
+  "model": "glm-5.3"
+}

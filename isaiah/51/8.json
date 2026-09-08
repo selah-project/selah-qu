@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Imaraykuchus t'urpu p'achahina chayta mikhunqaku, hinaspataq qaracha millma hina chayta mikhunqaku; ichataq allin kayniy wiñaypaq kanqami, qespichiyniytaq generacionpaq generacionkunapaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "p'achahina"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "chayta mikhunqaku"
+    },
+    {
+      "surface": "עש",
+      "gloss": "t'urpu"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "hinaspataq millma hina"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "chayta mikhunqaku"
+    },
+    {
+      "surface": "סס",
+      "gloss": "qaracha"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ichataq allin kayniy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqami"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "qespichiyniytaq"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "generacionpaq"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "generacionkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:35:32.167486088Z",
+  "model": "glm-5.3"
+}

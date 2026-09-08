@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Sunquhina k'ara chayamuptin, p'inqaymi chayamun; hinaspa humildekunaq ⟨את⟩ yachaymi kachkan.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "chayamun"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "sunquhina k'ara"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "hinaspa chayamun"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "p'inqay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "humildekuna"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "humildekuna"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:42:10.455209588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 29:27",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Chiqtap runakunap ñak'ariy siminmi llulla runata; llulla runaptaq ñak'ariy simin chiqap ñanpi puriqta.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ñak'ariy simin"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "chiqtap runakunap"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "עול",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "hinallataq ñak'ariy simin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "llulla runap"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "chiqap"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñanpi puriq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:52:13.447702721Z",
+  "model": "glm-5.3"
+}

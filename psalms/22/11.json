@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Qampim wikch'urqani q'otoymanta; mamaniy wakraymantam; qammi Elniy kanki.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Qampi"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "wikch'urqani"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "q'otoymanta"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "wakraymanta"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamaniy"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elniy"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam kanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:35.471619722Z",
+  "model": "glm-5.3"
+}

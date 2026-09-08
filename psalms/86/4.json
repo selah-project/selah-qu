@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Kamayniykipa nefesninta kusiychiy; Adonay, qammanmi nefeshniyta hawarichini.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "kusiychiy"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesninta"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kamayniykipa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "hawarichini"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:34.697024811Z",
+  "model": "glm-5.3"
+}

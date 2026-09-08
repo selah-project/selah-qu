@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chay qhipam Iyob (Job) ⟨את⟩ siminta kicharqan, hinaspa ⟨את⟩ p'unchawninta q'onqarqan.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "chay qhipa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kicharqan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "siminta"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "q'onqarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'unchawninta"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "p'unchawninta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:56:14.664649984Z",
+  "model": "glm-5.3"
+}

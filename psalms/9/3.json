@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Kusikuni, qampi kusillakachani; Sutikita Elyon, takinim.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Kusikuni"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "kusillakachani"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "takinim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutikita"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:14.110451421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 52,
+  "translation": "Ichataq ñuqa kani verdis olivu sach'ahina Elohimpa wasinpi; wyani Elohimpa jesedninpi (khuyakuy) wiñay wiñaykama.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ichataq ñuqa"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "olivu sach'ahina"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "verdis"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "wyani"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "jesedninpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñaykama"
+    }
+  ],
+  "timestamp": "2026-09-08T09:50:57.320803241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Hallp'a kicharikurqanmi Datanta millp'uspa, Aviramp huñuntaspa hinarqan.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "kicharikurqanmi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "millp'uspa"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datanta"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "hinarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "hukllawan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "huñuntaspa"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Aviramp"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:01.278924008Z",
+  "model": "glm-5.3"
+}

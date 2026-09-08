@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Adonay Yahwem k'idadanpi jurawarqan: Qhaway, p'unchawkuna qamkunapatan hamujmi; hinaspa ⟨את⟩ qamkunata tsinakunawan apasqa kaqki, hinaspa qipninkicheqta challwa-tsinakunapi.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "jurawarqan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "k'idadanpi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqaqcha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "באים",
+      "gloss": "hamuj"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "qamkunapatan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "hinaspa apasqa kaqki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "tsinakunawan"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "hinaspa qipninkicheqta"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "challwa-tsinakunapi"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "challwa-tsina"
+    }
+  ],
+  "timestamp": "2026-09-08T08:59:39.115623782Z",
+  "model": "glm-5.3"
+}

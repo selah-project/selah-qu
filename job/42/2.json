@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Yachanimi chiqaq tukuy imata atinkimi, manam mayqen yuyaypas qampamanta hark'akunchu.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "yachanimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy imata"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "atinki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "hark'akunchu"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "qampamanta"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "yuyay"
+    }
+  ],
+  "timestamp": "2026-09-08T11:23:36.526645035Z",
+  "model": "glm-5.3"
+}

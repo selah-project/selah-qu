@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Siminm willasqami ichuriy kasqataqta, hinaq p'unchawtawan qispichiykasqaykita; ñuqam manam yachanichu yupayninta.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Siminm"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "willasqami"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ichuriy kasqataqta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hinaq"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "qispichiykasqaykita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yachanichu"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "yupayninta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:37.699335417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chaymanta Aharon altarman qayllakurqan, hinaspa ⟨את⟩ paypa hucha korbanin wakachata warechirqan.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "qayllakurqan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "warechirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakachata"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "wakachata"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "hucha korbanin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:50.929207870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 11:4",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Davidwan llapan Israelmi Yerushalayimman (Jerusalén) purirqanku — chayqa Yevus (Jebús) —; chaypiqa Yevusikuna, hallp'ap kawsaqninkuna, kachkarqankum.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "hinaspa purirqanku"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidwan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimman"
+    },
+    {
+      "surface": "היא",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "Yevus"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yevusikuna"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kawsaqninkuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T12:39:47.187632442Z",
+  "model": "glm-5.3"
+}

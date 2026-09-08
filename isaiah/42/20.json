@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 42,
+  "translation": "Askha imakunata rikunki, icha mana waqaychankichu; rinri kichasqa kaspa, icha mana uyanchu.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "rikunki"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "askha imakunata"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha mana"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "waqaychankichu"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "kichasqa"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "rinri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha mana"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uyanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:24:25.916248163Z",
+  "model": "glm-5.3"
+}

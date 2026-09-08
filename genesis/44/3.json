@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Tutamantam k'anchayarqan, chaypi runakunam kachakapurarqanku, paykuna hinaspa burrinninkuwan.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchayarqan"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "chaypi runakuna"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "kachakapurarqanku"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "burrinninkuwan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:15:26.916127250Z",
+  "model": "glm-5.3"
+}

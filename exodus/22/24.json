@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Sichus qullqita musuptiyki ⟨את⟩ runayta, ⟨את⟩ wakcha qamwan kawsaqta, mana qam ⟨kan⟩qachu paypa manu mañaq hina; mana churaykichikchu paypatan ribinta.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "musuptiyki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runayta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wakchata"
+    },
+    {
+      "surface": "העני",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqachu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "manu mañaq hina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "churaykichikchu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypatan"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ribinta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:57.528245667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Yahwem Mosheman (Moisésman), hinaspa Aharonman (Aarónman) rimarqan, nispata paykunaman:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa Aharonman"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispata"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:17.266308593Z",
+  "model": "glm-5.3"
+}

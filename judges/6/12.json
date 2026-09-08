@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Yahwepa willaqnin rikurirqanmi payman hinaspa nirqanmi: Yahwe qamwanmi ⟨kan⟩, sinchi atuchqa runa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurirqanmi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "willaqnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwanmi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "atuchqa runa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:38:44.713543698Z",
+  "model": "glm-5.3"
+}

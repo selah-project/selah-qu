@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Mayqan kamanmi yuyaykunata nefeshniypi churasa, llakikuyta sonqoypi p'unchaw p'unchaw? Mayqan kamanmi awqay ñuqap hawan sayakun?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "mayqan kaman"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨mayqan kama⟩"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "churasa"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "yuyaykunata"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "nefeshniypi"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "llakikuyta"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "sonqoypi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "p'unchaw p'unchaw"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mayqan kaman"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "⟨mayqan kama⟩"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "hawan sayakun"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:36.552357250Z",
+  "model": "glm-5.3"
+}

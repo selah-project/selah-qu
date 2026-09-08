@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaysi runakuna lluqsirqankum, ⟨את⟩ Arampi awqan wasinta suwapas qatirqanku. Chaysi karqan huk seah sayaq llankh'i huk sheqelpi, iskay seah siwarapas huk sheqelpi, Yahwepa siminman hina.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsirqankum"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "suwapas qatirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arami awqan wasinta"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "awqan wasinta"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arami"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "huk seah"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sayaq llankh'i"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "huk sheqelpi"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "iskay seah"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "siwara"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "huk sheqelpi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "siminman hina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T05:31:23.116913665Z",
+  "model": "glm-5.3"
+}

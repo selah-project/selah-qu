@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "hosea 6:1",
+ "book": "hosea",
+ "lang": "qu",
+ "chapter": 6,
+ "translation": "Hamuy, kutisunchik Yahweman: paymi t'irawanchikmi, hampiwanqaku; maqawanchikmi, p'ist'uwanqaku.",
+ "tokens": [
+  {
+   "surface": "לכו",
+   "gloss": "Hamuy"
+  },
+  {
+   "surface": "ונשובה",
+   "gloss": "kutisunchik"
+  },
+  {
+   "surface": "אל",
+   "gloss": "man"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweman"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imaraykuchus"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "paymi"
+  },
+  {
+   "surface": "טרף",
+   "gloss": "t'irawanchik"
+  },
+  {
+   "surface": "וירפאנו",
+   "gloss": "hampiwanqaku"
+  },
+  {
+   "surface": "יך",
+   "gloss": "maqawanchik"
+  },
+  {
+   "surface": "ויחבשנו",
+   "gloss": "p'ist'uwanqaku"
+  }
+ ],
+ "timestamp": "2026-09-08T08:47:02.115826191Z",
+ "model": "glm-5.3"
+}

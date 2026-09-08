@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Phuyukunata hanakmanta kamachirqan, hanaq pachap punkukunatapas kicharqan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "phuyukunata"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "hanakmanta"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "punkukunatapas"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kicharqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:45.898798994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "hosea 12:6",
+ "book": "hosea",
+ "lang": "qu",
+ "chapter": 12,
+ "translation": "Yahwe, Tsebaotpa Elohimnin; Yahweqa paypa memorialninmi.",
+ "tokens": [
+  {
+   "surface": "ויהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "Elohimnin"
+  },
+  {
+   "surface": "הצבאות",
+   "gloss": "Tsebaotpa"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "זכרו",
+   "gloss": "paypa memorialnin"
+  }
+ ],
+ "timestamp": "2026-09-08T08:49:27.475444619Z",
+ "model": "glm-5.3"
+}

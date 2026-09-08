@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "psalms 18:16",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 18,
+ "translation": "Chaysim unu k'itikuna rikurirqaku, pachapa tiyachisqankuna qawachikurqaku — qampa sillarqaykiwan, Yahwe, qampa senqayniki samaynin puhuwan.",
+ "tokens": [
+  {
+   "surface": "ויראו",
+   "gloss": "rikurirqaku"
+  },
+  {
+   "surface": "אפיקי",
+   "gloss": "k'itikuna"
+  },
+  {
+   "surface": "מים",
+   "gloss": "unu"
+  },
+  {
+   "surface": "ויגלו",
+   "gloss": "qawachikurqaku"
+  },
+  {
+   "surface": "מוסדות",
+   "gloss": "tiyachisqankuna"
+  },
+  {
+   "surface": "תבל",
+   "gloss": "pachapa"
+  },
+  {
+   "surface": "מגערתך",
+   "gloss": "qampa sillarqaykiwan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "מנשמת",
+   "gloss": "puhuwan"
+  },
+  {
+   "surface": "רוח",
+   "gloss": "samaynin"
+  },
+  {
+   "surface": "אפך",
+   "gloss": "qampa senqayniki"
+  }
+ ],
+ "timestamp": "2026-09-08T09:36:04.581144113Z",
+ "model": "glm-5.3"
+}

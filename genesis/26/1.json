@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 26:1",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Chaym hallp'api yarq'am karqan, Abraham (Abrahán) p'unchawkunapi karqan ñawpaq yarq'amanta qhipa; chaym Itsjak (Isaac) Avimelekiman rirqan, Pelishtikunap apun, Gerar llaqtaman.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "yarq'a"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "qhipa"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "yarq'amanta"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekiman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtikunap"
+    },
+    {
+      "surface": "גררה",
+      "gloss": "Gerar llaqtaman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:58:59.752403517Z",
+  "model": "glm-5.3"
+}

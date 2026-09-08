@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Rinrichik ñuqaman, runay, hinallataq llaqtay, ñuqaman uyariychik: imaraykuchus Toram ⟨את⟩ ñuqamanta lluqsinqa, hinallataq kamachikuyniyta runakunap k'anchaynanpaq ñuqam utqaylla churasaq.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Rinrichik"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runay"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "hinallataq llaqtay"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "uyariychik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ñuqamanta",
+      "marks": "Tora (lluqsiq)"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lluqsinqa"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "hinallataq kamachikuyniyta"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "k'anchaynanpaq"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "utqaylla churasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:37:37.588192892Z",
+  "model": "glm-5.3"
+}

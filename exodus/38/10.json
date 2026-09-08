@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 38:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Sayaqninku iskay chunkam, tiyanankunanku iskay chunka broncewan; sayaqkunap ganchonninku, watranninkupas qullqim.",
+  "tokens": [
+    {
+      "surface": "עמודיהם",
+      "gloss": "sayaqninku"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "hinaspa tiyanankunanku"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "broncewan"
+    },
+    {
+      "surface": "ווי",
+      "gloss": "gancho"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "sayaqkunap"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "hinaspa watranninku"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:02.645142444Z",
+  "model": "glm-5.3"
+}

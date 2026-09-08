@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 19:7",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Waqchap llapan panqankuna ñak'arinkum; aswanraq paypa masinkuna paymanta karu karqonkum. Rimaykunata qatipakuq — manam chaykuna kankuchu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "panqankuna"
+    },
+    {
+      "surface": "רש",
+      "gloss": "waqchap"
+    },
+    {
+      "surface": "שנאהו",
+      "gloss": "ñak'arinkum"
+    },
+    {
+      "surface": "אף",
+      "gloss": "aswanraq"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "paypa masinkuna"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "karu karqonkum"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "qatipakuq"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "rimaykunata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chaykuna kankuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:46:13.557615970Z",
+  "model": "glm-5.3"
+}

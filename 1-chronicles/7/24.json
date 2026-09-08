@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Paninmi Sheera (Sera) sutiyuq karqan; paymi kamayarqan ⟨את⟩ Beyt Joron uray kaqta, hanaq kaqtawan, ⟨את⟩ Usen-Sheeratawan.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "panin"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera (Sera)"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "kamayarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt Joron uray kaqta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Joron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "uray kaqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hanaq kaqta"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "hanaq kaqta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Usen-Sheeratawan"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Usen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheeratawan"
+    }
+  ],
+  "timestamp": "2026-09-08T12:36:36.755188555Z",
+  "model": "glm-5.3"
+}

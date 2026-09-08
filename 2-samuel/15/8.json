@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "«Qampaq yanapaqniyki Geshurpi, Arampi tiyaspa nirqo hina nirqarqani: Sichus Yahwem cheqta ñuqata Yerushalayman kutichiywanqa chayqa, ⟨את⟩ Yahweta yanapasaq».",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nirqo"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nirqarqani"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qampaq yanapaqniyki"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "tiyaspa"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "Geshurpi"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Arampi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "cheqta"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "kutichiywanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayman"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "yanapasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:44:16.161857661Z",
+  "model": "glm-5.3"
+}

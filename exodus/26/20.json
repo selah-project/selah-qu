@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa Mishkanpa iskay ñiqin saywanpaq, chinchay saywaman, iskay chunka tablam.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "hinaspa saywanpaq"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanpa"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "saywaman"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "chinchay"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "iskay chunka"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "tabla"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:44.707327522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Yuyay pisi runakuna ataripayninku ñanmanta, huchankunamanta ñak'arirqankum.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "yuyay pisi runakuna"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ñanmanta"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ataripayninku"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "huchankunamantataq"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "ñak'arirqankum"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:41.484178750Z",
+  "model": "glm-5.3"
+}

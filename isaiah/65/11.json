@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Qamkunaqataqmi Yahweta saqisqankichek, ⟨את⟩ santu orqoyta qunqasqankichek, Gadpaq (Fortuna) mesata allichasqankichek, Menipaq (Destino) chaqrusqa aqotataq hunt'ichisqankichek.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "qamkunaqataq"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "saqisqankichek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "qunqasqankichek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "santu orqoyta"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "santu... orqoyta"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "allichasqankichek"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "Gadpaq"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesata"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "hunt'ichisqankichektaq"
+    },
+    {
+      "surface": "למני",
+      "gloss": "Menipaq"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "chaqrusqa aqota"
+    }
+  ],
+  "timestamp": "2026-09-08T06:45:12.582568460Z",
+  "model": "glm-5.3"
+}

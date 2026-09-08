@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hamunqakum, willanqakum paypa chaninchayninta paqarisqa runakunaman, imaraykuchus ruwasqam.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "hamunqaku"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "willanqaku"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "chaninchayninta"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "paqarisqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:32.017875177Z",
+  "model": "glm-5.3"
+}

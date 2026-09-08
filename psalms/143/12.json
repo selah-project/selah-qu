@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 143,
+  "translation": "Hinaspa jesedniykiwan awqakunayta tukuchiy, hinaspa nefeshta nanachiqkuna llapanta chinkachiy; ñuqam qaskiyki kanimi.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "hinaspa jesedniykiwan"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "tukuchiy"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqakunayta"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "hinaspa chinkachiy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "nanachiqkuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaqmi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qaskiyki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:45.973466624Z",
+  "model": "glm-5.3"
+}

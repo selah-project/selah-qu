@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa kohen, mayqen runap ⟨את⟩ olanta qampaq, chay olap qaranta chay kohenpaqmi kanqa.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "hinaspa kohen"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olanta"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olanta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runap"
+    },
+    {
+      "surface": "עור",
+      "gloss": "qaranta"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "qampusqa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenpaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:51:47.592707383Z",
+  "model": "glm-5.3"
+}

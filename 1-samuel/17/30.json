@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 17:30",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Hinaspa paymanta huk wakinman t'ikrarqan, kay hina rimaspa; runakunapas kay hinallata kutichirqankum, ñawpaq rimasqan hinaman.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "hinaspa t'ikrarqan"
+    },
+    {
+      "surface": "מאצלו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "מול",
+      "gloss": "huk wakinman"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "wakin"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "rimaspa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "kay hina"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "וישבהו",
+      "gloss": "kutichirqankum"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunapas"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimasqan hinaman"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "hinallata"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ñawpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T04:17:50.464119671Z",
+  "model": "glm-5.3"
+}

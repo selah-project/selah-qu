@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Manataqmi sabiduriata yachakurqanichu, santokunap yachaynintapas manam yachanichu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "yachakurqani"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "sabiduria"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "yachaynintapas"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "santokunap"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "yachani"
+    }
+  ],
+  "timestamp": "2026-09-08T10:54:39.247709041Z",
+  "model": "glm-5.3"
+}

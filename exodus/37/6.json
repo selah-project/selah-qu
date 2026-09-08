@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Chaymantam kaporetata ruwarqan qurimanta, llimp'iq quri: iskay codowan huk yarita suni, huk codowan huk yarita hatun.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporeta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "qurimanta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "llimp'iq"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "iskay codo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "huk yari"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "suni"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "huk codo"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "huk yari"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "hatun"
+    }
+  ],
+  "timestamp": "2026-09-08T00:45:34.907425209Z",
+  "model": "glm-5.3"
+}

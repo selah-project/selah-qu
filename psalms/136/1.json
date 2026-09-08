@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Yahweman muchaychik payta yupaychaychik, imaraykuchus allinmi; imaraykuchus wiñay kama jesednin.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "muchaychik yupaychaychik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kama"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:33.293111540Z",
+  "model": "glm-5.3"
+}

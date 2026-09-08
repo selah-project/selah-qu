@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Willakuyniykiqa pal'achakunam; chayrayku nefeshniy chaykunata waqaychanmi.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "pal'achakuna"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "willakuyniyki"
+    },
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "waqaychanmi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:11.932902383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "2-kings 8:15",
+ "book": "2-kings",
+ "lang": "qu",
+ "chapter": 8,
+ "translation": "Paqarinmantaq Chazaelm mak'birata hap'irqan, unowan ch'utkurqan, apay ñawpanpi mast'arqan, hinaspa paym wañurqan; hinaspa Chazaelm paypa tiyananpi apu karqan.",
+ "tokens": [
+  {
+   "surface": "ויהי",
+   "gloss": "karqan"
+  },
+  {
+   "surface": "ממחרת",
+   "gloss": "paqarinmantaq"
+  },
+  {
+   "surface": "ויקח",
+   "gloss": "hinaspa hap'irqan"
+  },
+  {
+   "surface": "המכבר",
+   "gloss": "mak'birata"
+  },
+  {
+   "surface": "ויטבל",
+   "gloss": "hinaspa ch'utkurqan"
+  },
+  {
+   "surface": "במים",
+   "gloss": "unowan"
+  },
+  {
+   "surface": "ויפרש",
+   "gloss": "hinaspa mast'arqan"
+  },
+  {
+   "surface": "על",
+   "gloss": "pi"
+  },
+  {
+   "surface": "פניו",
+   "gloss": "apay ñawpanpi"
+  },
+  {
+   "surface": "וימת",
+   "gloss": "hinaspa wañurqan"
+  },
+  {
+   "surface": "וימלך",
+   "gloss": "hinaspa apu karqan"
+  },
+  {
+   "surface": "חזהאל",
+   "gloss": "Chazaelm"
+  },
+  {
+   "surface": "תחתיו",
+   "gloss": "paypa tiyananpi"
+  }
+ ],
+ "timestamp": "2026-09-08T05:30:26.080299638Z",
+ "model": "glm-5.3"
+}

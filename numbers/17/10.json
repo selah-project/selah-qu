@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Sayaykuy kay ayllumanta, chaymi unaylla ⟨את⟩ paykunata mikhusaqykim. Chaysi Moshe hinaspa Aharon ñawinkurayku tikrakurqaku.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "sayaykuy"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "manta"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ayllu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mikhusaqykim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "unaylla"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "tikrakurqaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ñawinku"
+    }
+  ],
+  "timestamp": "2026-09-08T01:33:35.785185853Z",
+  "model": "glm-5.3"
+}

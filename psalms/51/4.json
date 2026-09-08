@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Anchata maywaway millayniymanta, juchallikusqaymantawan ch'uyanchaw ay.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Anchata"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "maywaway"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "millayniymanta"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "juchallikusqaymantawan"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "ch'uyanchaway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:13.067052043Z",
+  "model": "glm-5.3"
+}

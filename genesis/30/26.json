@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "«Qawapurway ⟨את⟩ warmiykunata hinaspa ⟨את⟩ wawakunayta, mayqenkunapaqmi ⟨את⟩ qampawan llamk'arqani, chaymanta ripusaq; qammi yachanki ⟨את⟩ llamk'ayta, mayqentinta qanpaq llamk'arqani».",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "qawapurway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "warmiykunata"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "warmiykuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawakunayta"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "wawakunay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqenkunapaq"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "llamk'arqani"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qampawan"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "chaykunamanta"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ripusaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yachanki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llamk'ayta"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "llamk'ay"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqentinta"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "qanpaq llamk'arqani"
+    }
+  ],
+  "timestamp": "2026-09-08T00:04:47.123454237Z",
+  "model": "glm-5.3"
+}

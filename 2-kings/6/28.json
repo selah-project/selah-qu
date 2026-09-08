@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Apuqaq payta tapurqan: Imataq qampas? Warmiqaq kutirirqan: Kay warmim ñuqaman nirqan: Qori ⟨את⟩ wawaykita, kunan p'unchaw mikhusunchik chayta; paqarinataq ⟨את⟩ wawayta mikhusaq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tapurqan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "payta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Apu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Imataq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampas"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "kutirirqan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Warmi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "Kay"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Qori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawaykita"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wawayki"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "mikhusunchik"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawayta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "waway"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "mikhusaq"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "paqarinataq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:28:55.933716658Z",
+  "model": "glm-5.3"
+}

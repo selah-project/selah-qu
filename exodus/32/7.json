@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Yahwem Moshewan rimarqan: «Riy, uraykuy; qampa runayki — mayqinta Mitsrayim hallp'amanta hunt'irqayki — nanachikurqanmi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Riy"
+    },
+    {
+      "surface": "רד",
+      "gloss": "uraykuy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "nanachikurqanmi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qampa runayki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "hunt'irqayki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "hallp'amanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-09-08T00:44:54.558602661Z",
+  "model": "glm-5.3"
+}

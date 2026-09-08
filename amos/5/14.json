@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 5:14",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Allinta maskhaychik, ama millayta maskhaychikchu, kawsanaykichikpaq; chaynatami Yahwe Elohim Tsebaot ⟨את⟩ qamkunawan kanqa, qamkuna nirqaykichik hina.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "maskhaychik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Allinta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "millayta maskhaychik"
+    },
+    {
+      "surface": "למען",
+      "gloss": "kawsanaykichikpaq"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "kawsanaykichik"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunawan",
+      "marks": "qamkunawan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "nirqaykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T14:07:50.612355496Z",
+  "model": "glm-5.3"
+}

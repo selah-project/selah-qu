@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Hanaq pachaman hawamanta qayllinqa, hallp'atawanpas, pay runantinpa kamachinanpaq.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "qayllinqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man (hanaq pachaman)"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "hawamanta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ... -man"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "kamachinanpaq"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "pay runantin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:37.312236763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Ukhu unowan p'achahina qatirqankim; orqokunap hawanpi unokuna sayarqankum.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ukhu uno"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "p'achahina"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "qatirqanki"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "orqokunap"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "sayarqanku"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unokuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:27.984921194Z",
+  "model": "glm-5.3"
+}

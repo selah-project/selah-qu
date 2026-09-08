@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Amasqakuychik amasqata, hinaspa p'akisqa kanqa; rimarichik rimayta, chayqa manam sayachuwanqa; imaraykuchus Elmi ñuqanchikwan kachkan.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "amasqakuychik"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "amasqata"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "hinaspa p'akisqa kanqa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "rimarichik"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sayachuwanqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ñuqanchikwan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-08T05:52:44.786809444Z",
+  "model": "glm-5.3"
+}

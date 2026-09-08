@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yachaqpa p'inqachakuyninta uyariyqa allinmi, huk runam mana yachaqkunapa takinta uyariqmantawan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "allinmi"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "uyariy"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "p'inqachakuy"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "huk runamanta"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyariq"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "taki"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "mana yachaqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:52.704820040Z",
+  "model": "glm-5.3"
+}

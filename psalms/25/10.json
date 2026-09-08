@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Llapa Yahwep ñanninkunaqa jesedwan (khuyakuywan) cheqan kaymi, beritninta waqaychaqkunapaq, hinaspa edotninkunapaqwan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ñanninkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "hinaspa cheqan kay"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "waqaychaqkunapaq"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "beritninta"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "hinaspa edotninkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:48.037242076Z",
+  "model": "glm-5.3"
+}

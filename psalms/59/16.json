@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Kaykunaq kikinm paykuna puriykachanku mikhunata maskaspa; sichus mana t'inkisqachu kanku, chayqa tuta hunt'anku t'inkinakuspa.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "paykuna kikin"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "puriykachanku"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "mikhunata maskaspa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "t'inkisqachu kanku"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "tuta hunt'anku t'inkinakuspa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:35.697165984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Hinallataq gentekunapi murunkunata urmachinankupaq, hallp'akunapiwan t'aqanankupaq.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "Hinallataq ... urmachinankupaq"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "murunkunata"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gentekunapi"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "t'aqanankupaq"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "hallp'akunapiwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:34.109675464Z",
+  "model": "glm-5.3"
+}

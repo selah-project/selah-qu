@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "psalms 29:10",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 29,
+ "translation": "Yahwem mabbul (yaku hawariy) patapi tiyarqanmi; hinaspa Yahwe apu wiñay wiñaypaqmi tiyan.",
+ "tokens": [
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "למבול",
+   "gloss": "mabbul patapi (yaku hawariypi)"
+  },
+  {
+   "surface": "ישב",
+   "gloss": "tiyarqan"
+  },
+  {
+   "surface": "וישב",
+   "gloss": "hinaspa tiyan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "מלך",
+   "gloss": "apu"
+  },
+  {
+   "surface": "לעולם",
+   "gloss": "wiñay wiñaypaq"
+  }
+ ],
+ "timestamp": "2026-09-08T09:37:37.528275337Z",
+ "model": "glm-5.3"
+}

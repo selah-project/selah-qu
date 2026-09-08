@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 138,
+  "translation": "Qayakuq p'unchawpim qam kutichiwanki, sinchi atiywanmi sonqoyta sinchichawanki.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "qayakuq"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "kutichiwanki"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "sinchichawanki"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "sonqoyta"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sinchi atiywan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:20.846449422Z",
+  "model": "glm-5.3"
+}

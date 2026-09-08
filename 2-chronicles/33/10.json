@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Chaysi Yahwem Menashhemanwan, paypa runankunamanwan rimarqan; chaymi paykuna mana uyawasqaku.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhemanwan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "-wan (man)"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runankunamanwan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "uyawasqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T13:15:55.199763869Z",
+  "model": "glm-5.3"
+}

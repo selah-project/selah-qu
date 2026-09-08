@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 16:9",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Paypa yanapaqnin Zimrimi — karrukunap kusan apun — payta awqanakurqan; paytaq Tirtsapi karqan, machasqa ukuchkaptin Artsa wasipi, payqa Tirtsapi wasip kamachiqnin kaspa.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "awqanakurqan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "paypa yanapaqnin"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "apun"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "kusan"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "karrukunap"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "paytaq"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirtsapi"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ukuchkaptin"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "machasqa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "ארצא",
+      "gloss": "Artsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "על",
+      "gloss": "kamachiqnin"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasip"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Tirtsapi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:13:18.619155529Z",
+  "model": "glm-5.3"
+}

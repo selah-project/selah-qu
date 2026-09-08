@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Arampa apunmi Israelwan awqanakurqan; chaysi sirvinkunawan masintakurqan, nispa: Kay hinapi, chay hinapi kitipi awqay wasiyta churasaq.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arampa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "awqanakurqan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelwan"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "masintakurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sirvinkunawan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kitipi"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "kay hinapi"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "chay hinapi"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "awqay wasiyta churasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:26:29.364265408Z",
+  "model": "glm-5.3"
+}

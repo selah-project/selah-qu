@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Mikalm ⟨את⟩ Davidta qhawanamanta uraychirqan; payqa purirqan, ayqerqan, q'ispisqam karqan.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "uraychirqan"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikalm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidta"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "qhawanamanta"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "qhawana"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "ayqerqan"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "q'ispisqam karqan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:20:37.213153473Z",
+  "model": "glm-5.3"
+}

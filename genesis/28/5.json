@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 28:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Itsjaqm ⟨את⟩ Yaakovta kacharqan; chaymi Padan Aramman rirqan, Lavanman — Betuel aramiap churin, Ribkap ñañan, Yaakovpa Esawpa maman.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjaqm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuelpa"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "aramia"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ñañan"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribkap"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maman"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "Esawpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:01.834053667Z",
+  "model": "glm-5.3"
+}

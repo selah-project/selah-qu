@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Huk watam taytanta huchachan, hinaspa ⟨את⟩ mamanmantaq barkenchu.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "huk wata"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanta"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "huchachan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "maman"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "maman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barken"
+    }
+  ],
+  "timestamp": "2026-09-08T10:52:57.846890362Z",
+  "model": "glm-5.3"
+}

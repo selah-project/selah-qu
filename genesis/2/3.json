@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspam Elohim bendecirqan ⟨את⟩ qanchis ñiqin p'unchawta, haywarqantawan ⟨את⟩ payta, imarayku chaypim samarqan llapa llamk'ayninmanta mayqinta kamarqan Elohim rurananpaq.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "bendecirqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qanchis ñiqin p'unchawta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "qanchis ñiqin"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "haywarqantawan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "samarqan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapamanta"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "llamk'aynin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kamarqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "rurananpaq"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:06.867828656Z",
+  "model": "glm-5.3"
+}

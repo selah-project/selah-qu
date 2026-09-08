@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Maypichus apup simin sayan, chaypim ⟨kan⟩ kamachikuynin; pitataq ninman payman: imatatam ruwanki?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "maypichus"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apup"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "kamachikuynin"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "pitataq"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ninman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imatatam"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:57.518396528Z",
+  "model": "glm-5.3"
+}

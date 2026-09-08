@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Yahwem llamk'ayniykiwan kusiychikun, mañasqayki rimanata hunt'aspam; makiyki rurasqankunamanta takirqachani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "kusiychikunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "llamk'ayniykiwan"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "rurasqaykimanta"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "makillayki"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "takirqachani"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:33.052455861Z",
+  "model": "glm-5.3"
+}

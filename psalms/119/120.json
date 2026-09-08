@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Aychay manchariywan takyariwanmi; mancharini rimaykuna (mishpatakuna)niykimanta.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "takyariwanmi"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "manchariywan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "aychay"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "(mishpatakuna)niykimanta"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "mancharini"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:46.376639933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 37:31",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Hap'irqankum ⟨את⟩ Yosefpa p'achanta, kuchurqankum huk cabra wawata, ch'ultirqankum ⟨את⟩ chay p'achata yawarpi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "hap'irqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefpa p'achanta"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "p'achanta"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefpa"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "kuchurqankum"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "wawata"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "cabra"
+    },
+    {
+      "surface": "ויטבלו",
+      "gloss": "ch'ultirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chay p'achata"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "chay p'achata"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "yawarpi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:11:31.391721402Z",
+  "model": "glm-5.3"
+}

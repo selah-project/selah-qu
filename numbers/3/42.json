@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymi Moshe Yahwep kamachikusqanman hina ⟨את⟩ payta Yuparqan ⟨את⟩ llapa ñawpaq wawa Israelpa wawankunapi.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Yuparqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imayna"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachikusqanman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa ñawpaq wawa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "ñawpaq wawa"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wawankunapi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:16:07.657610612Z",
+  "model": "glm-5.3"
+}

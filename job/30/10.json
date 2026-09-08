@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Ñuqata iñiqayarqankum, ñuqamanta karum karqanku, ñuqap ñawpaypi thupanta mana hark'arqankuchu.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "iñiqayarqanku"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "karum"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "ñuqap ñawpaypi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "hark'arqanku"
+    },
+    {
+      "surface": "רק",
+      "gloss": "thupan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:14:47.403606980Z",
+  "model": "glm-5.3"
+}

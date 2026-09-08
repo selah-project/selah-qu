@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Riqsisqaykunata ñuqamanta karuchirqankimi, ñuqata paykunapa millay kasqanman churarqankimi; wichq'asqa kani, mana lluqsiyta atinichu.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "karuchirqanki"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "riqsisqaykuna"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "churarqanki"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "millay kasqanman"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunapa"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "wichq'asqa kani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "lluqsiy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:42.459544541Z",
+  "model": "glm-5.3"
+}

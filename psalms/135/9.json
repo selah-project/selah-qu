@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Kachamuranmi unanchakunata, hinaspa atiy rikhurinakunata Mitsrayim, chawpipyki, Paropi, llapanta yanapaqninkunampipas.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "kachamuranmi"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "unanchakunata"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "hinaspa atiy rikhurinakunata"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "chawpipyki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Paropi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yanapaqninkunampipas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:17.290428977Z",
+  "model": "glm-5.3"
+}

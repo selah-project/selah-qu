@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 3,
+ "ref": "psalms 53:3",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 53,
+ "translation": "Elohim hanaq pachamanta runa wawakunaman qhawarqanmi, yachaq, ⟨את⟩ Elohimta maskhaq kanchu ichapas qhawanampaq.",
+ "tokens": [
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "משמים",
+   "gloss": "hanaq pachamanta"
+  },
+  {
+   "surface": "השקיף",
+   "gloss": "qhawarqan"
+  },
+  {
+   "surface": "על",
+   "gloss": "man"
+  },
+  {
+   "surface": "בני",
+   "gloss": "wawakunaman"
+  },
+  {
+   "surface": "אדם",
+   "gloss": "runa"
+  },
+  {
+   "surface": "לראות",
+   "gloss": "qhawanampaq"
+  },
+  {
+   "surface": "היש",
+   "gloss": "kanchu ichapas"
+  },
+  {
+   "surface": "משכיל",
+   "gloss": "yachaq"
+  },
+  {
+   "surface": "דרש",
+   "gloss": "maskhaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Elohimta"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohimta"
+  }
+ ],
+ "timestamp": "2026-09-08T09:52:06.857946330Z",
+ "model": "glm-5.3"
+}

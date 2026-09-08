@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Qamta manwan ch'usaq pachapi mikhuchiqmi — qampaq ñawpa taytaykikuna mana riqsirqankuchu — qamta pisiyachinaykipaq, hinaspa cheqchanaykipaq, qampaq qhipaq p'unchawkunapi allinta ruranaykipaq.",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "qamta mikhuchiq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pachapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "taq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "riqsirqankuchu"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ñawpa taytaykikuna"
+    },
+    {
+      "surface": "למען",
+      "gloss": "paq"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "qamta pisiyachinayki"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "hinaspa paq"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "qamta cheqchanayki"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "qampaq allinta ruranayki"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "qampaq qhipaq p'unchawkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:34:16.781041702Z",
+  "model": "glm-5.3"
+}

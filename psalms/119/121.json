@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Chanin taripayta chaymanta cheqaqllata rurani; mana hayk'appas saqillawankichu ñuqata ñaqllachikuqniykunaman.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "rurani"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "chanin taripayta"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "chaymanta cheqaqllata"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana hayk'appas"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "saqillawankichu ñuqata"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "ñaqllachikuqniykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:25:08.172136092Z",
+  "model": "glm-5.3"
+}

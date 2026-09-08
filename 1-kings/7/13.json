@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Hinaspa Shelomo apum (Salomón) kacharqanmi, hinaspa ⟨את⟩ Hiramtam (Hiram) Tsormanta (Tiro) aparqan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqanmi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hinaspa aparqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiramtam"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "Tsormanta"
+    }
+  ],
+  "timestamp": "2026-09-08T05:03:03.325999058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Hinaspa Menashe (Manasés) saywampatam, antimanta inti chinkay ladokama, Efrayim huk ⟨t'aqa⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa … patapi"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "saywa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ladomanta"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "anti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "inti chinkay ladon"
+    },
+    {
+      "surface": "ימה",
+      "gloss": ""
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-08T08:44:41.391934216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chaymi apu chayhina ruwayta kamachirqan; Shushan (Susa) llaqtapi kamachikuy churasqa karqan, hinaspa ⟨את⟩ Hamanpa chunka churiykunata sach'api wararqanku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nispam kamachirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "ruwayta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "churasqa karqan"
+    },
+    {
+      "surface": "דת",
+      "gloss": "kamachikuy"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Shushan llaqtapi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hamanpa chunka churiykunata"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiykuna"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamanpa"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "wararqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T14:24:50.923179348Z",
+  "model": "glm-5.3"
+}

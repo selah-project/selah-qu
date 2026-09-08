@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Kurakakunamanta aswan yuyayniyuqmi kani, imaraykuchus kamachikuyniykiyki waqaychakurqani.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "kurakakunamanta"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "aswan yuyayniyuq kani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "kamachikuyniykiyki"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "waqaychakurqani"
+    }
+  ],
+  "timestamp": "2026-09-08T10:23:52.127594266Z",
+  "model": "glm-5.3"
+}

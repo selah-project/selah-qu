@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Bendicionyuqmi wiksaykipa rurun, hallp'aykipa rurun, uywaykikunapa rurun, wakaykikunap wawankuna, hinaspa uwihaykikunap wawankunapas.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "bendicionyuqmi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "rurun"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "wiksaykipa"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "hinaspa rurun"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "hallp'aykipa"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "hinaspa rurun"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "uywaykikunapa"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "wakaykikunap"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "hinaspa wawankuna"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "uwihaykikunap"
+    }
+  ],
+  "timestamp": "2026-09-08T02:56:17.814128116Z",
+  "model": "glm-5.3"
+}

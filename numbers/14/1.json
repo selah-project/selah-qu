@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Hinaspa llapa ayllum ⟨את⟩ kunkanta wichachirqanm, hinaspa runakunaqa chay tutam waqyarqanku.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "hinaspa llapa ayllum wichachirqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ayllum"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "hinaspa ... qarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunkanta"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "kunkanta"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "waqyarqanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaqa"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "chay tutam"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    }
+  ],
+  "timestamp": "2026-09-08T01:28:39.651775854Z",
+  "model": "glm-5.3"
+}

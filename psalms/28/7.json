@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Yahweqa ñuqap kallpanmi, ñuqap rawk'anmi; paypi sonqoy taytaykurqan, yanapasqam karqani; chayrayku sonqoy k'ojallakun, takiniwanpas payta yupaychani.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ñuqap kallpanmi"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "ñuqap rawk'anmi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "taytaykurqan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqoy"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "yanapasqa karqani"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "k'ojallakun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqoy"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "takiniwanpas"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "payta yupaychani"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:21.856814355Z",
+  "model": "glm-5.3"
+}

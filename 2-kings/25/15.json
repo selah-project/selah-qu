@@ -1,0 +1,67 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "2-kings 25:15",
+ "book": "2-kings",
+ "lang": "qu",
+ "chapter": 25,
+ "translation": "Hinaspa ⟨את⟩ nina hap'iqkunata, hinaspa ⟨את⟩ t'inakunata — quri kaqtinqa quri, qullqi kaqtinqa qullqi — Rab Tabajim (wañuchiqkunap apun) apakurqan.",
+ "tokens": [
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "nina jap'iqkunata"
+  },
+  {
+   "surface": "המחתות",
+   "gloss": "nina hap'iqkunata"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "t'inakunata"
+  },
+  {
+   "surface": "המזרקות",
+   "gloss": "t'inakunata"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kaqtinqa"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "quri"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "quri"
+  },
+  {
+   "surface": "ואשר",
+   "gloss": "hinas kaqtinqa"
+  },
+  {
+   "surface": "כסף",
+   "gloss": "qullqi"
+  },
+  {
+   "surface": "כסף",
+   "gloss": "qullqi"
+  },
+  {
+   "surface": "לקח",
+   "gloss": "apakurqan"
+  },
+  {
+   "surface": "רב",
+   "gloss": "Rab"
+  },
+  {
+   "surface": "טבחים",
+   "gloss": "Tabajim (wañuchiqkunap apun)"
+  }
+ ],
+ "timestamp": "2026-09-08T05:50:12.974025125Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Sijónman mana iñirqachu ⟨את⟩ Israelta paypa saywinta ñawpaqta chayanampaq; Sijónmi ⟨את⟩ llapanta runantinta huñurqan, hinaspa Yahatsapi rawk'arakurqanku, Israelwan maqanakurqankupas.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "iñirqachu"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sijón"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ñawpaqta chayanampaq"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "paypa saywinta"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "huñurqan"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sijónmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapanta runantinta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "runantinta"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "rawk'arakurqanku"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "Yahatsapi"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "maqanakurqanku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelwan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:51:34.408925390Z",
+  "model": "glm-5.3"
+}

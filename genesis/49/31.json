@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Chaypi p'anqawarqanku ⟨את⟩ Abrahamta, hinaspa ⟨את⟩ Sarata (Sara) warminta; chaypi p'anqawarqanku ⟨את⟩ Itsjakta (Isaac), hinaspa ⟨את⟩ Ribkata (Rebeca) warminta; chaypipuni ñuqa p'anqawarqani ⟨את⟩ Leahta (Lea).",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "p'anqawarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamta"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Sarata"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarata (Sara)"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "p'anqawarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Itsjakta"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjakta (Isaac)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Ribkata"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribkata (Rebeca)"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "chaypipuni"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "ñuqa p'anqawarqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leahta"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leahta (Lea)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:19:56.720773784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 142,
+  "translation": "Sonqoy llakikaptinmi, qamri ñanniyta yachawanki. Mayqan ñanpi purirqanim chaypi, thaytakunata pakarqanku ñuqapaq.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "llakikaptin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "sonqoy"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "sonqoy"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "qamri"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "yachawanki"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "ñanniyta"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "mayqan"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "purirqanim"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "pakarqanku"
+    },
+    {
+      "surface": "פח",
+      "gloss": "thaytakunata"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:44.360251436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Waqaychakuy qam, ama ⟨את⟩ Lewita saqiychu, llapan p'unchawkunaykipi hallp'aykipi.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "waqaychakuy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qam"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "saqiychu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lewita"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Lewita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "p'unchawkunayki"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "hallp'aykipi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:40:56.468190128Z",
+  "model": "glm-5.3"
+}

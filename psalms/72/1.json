@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 72,
+  "translation": "Shelomopa (Salomón). Elohim, taripanakuykikunata apuman qoy, chiqan kayniykitawan apu churiyman.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomopa (Salomón)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "taripanakuykikunata"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apuman"
+    },
+    {
+      "surface": "תן",
+      "gloss": "qoy"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "chiqan kayniykitawan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "churiyman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:33.206049390Z",
+  "model": "glm-5.3"
+}

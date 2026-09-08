@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Qhawaymi, tsedeq-rayku apu kakanqa, sarikunataq chaninchaywan kamachinqaku.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Qhawaymi"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "tsedeq-rayku"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "kakanqa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "sarikunataq"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "chaninchaywan"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "kamachinqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:10:17.637815132Z",
+  "model": "glm-5.3"
+}

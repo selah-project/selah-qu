@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Ancha sasa phutikuykunata rikuchimuwankim, achha nanachikuykunatawan; kutimunki kawsachimuwakutaq, hallp'ap hatun ukhunmanta kutimunki hanaqman aparuwakutaq.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "chi"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "rikuchimuwankim"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "sasa phutikuykunata"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ancha achha"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "nanachikuykunatawan"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "kutimunki"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "kawsachimuwaku"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "hatun ukhunmanta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "kutimunki"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "hanaqman aparuwaku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:19.033391556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Chaymanta paykuna ⟨את⟩ qurita, ⟨את⟩ tejeletta, ⟨את⟩ argamanta, ⟨את⟩ tulaat shanita, ⟨את⟩ sheshta hurqhungam.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Chaymanta paykuna"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "hurqhungam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurita"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "qurita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tejeletta"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tejeletta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "argamanta"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argamanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tulaat shanita"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tulaat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "shanita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "sheshta"
+    },
+    {
+      "surface": "השש",
+      "gloss": "sheshta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:38:36.034129617Z",
+  "model": "glm-5.3"
+}

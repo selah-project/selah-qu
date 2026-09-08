@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 57,
+  "translation": "Ñanniykipi askha puriypi sayq'arqankim, ichataq 'amañachu' nirqankichu; makiykip kawsayninta tarirqankim, chayrayku manam onqochkarqankichu.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ñanniykipi"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "puriypi sayq'arqankim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "nirqankichu"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "amañachu"
+    },
+    {
+      "surface": "חית",
+      "gloss": "kawsaynin"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiykip"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "tarirqankim"
+    },
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "onqochkarqankichu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:41:05.146040930Z",
+  "model": "glm-5.3"
+}

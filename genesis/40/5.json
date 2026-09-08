@@ -1,0 +1,89 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "genesis 40:5",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 40,
+ "translation": "Iskayninmi musphayta muspharqanku, sapa runa kikin musphayninta huk tutus, sapa runa musphayninpa sut'ichayninhina — upyachiqnin, t'antachaqninpas, Paropa (Faraón), Mitsrayimpa (Egipto) apunpa, mayqenkuna wit'iykasqa kasqanku waqaychay wasipi.",
+ "tokens": [
+  {
+   "surface": "ויחלמו",
+   "gloss": "muspharqanku"
+  },
+  {
+   "surface": "חלום",
+   "gloss": "musphayta"
+  },
+  {
+   "surface": "שניהם",
+   "gloss": "iskaynin"
+  },
+  {
+   "surface": "איש",
+   "gloss": "sapa runa"
+  },
+  {
+   "surface": "חלמו",
+   "gloss": "kikin musphayninta"
+  },
+  {
+   "surface": "בלילה",
+   "gloss": "huk tutus"
+  },
+  {
+   "surface": "אחד",
+   "gloss": "huk"
+  },
+  {
+   "surface": "איש",
+   "gloss": "sapa runa"
+  },
+  {
+   "surface": "כפתרון",
+   "gloss": "sut'ichayninhina"
+  },
+  {
+   "surface": "חלמו",
+   "gloss": "musphayninta"
+  },
+  {
+   "surface": "המשקה",
+   "gloss": "upyachiqnin"
+  },
+  {
+   "surface": "והאפה",
+   "gloss": "t'antachaqninpas"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqenkuna"
+  },
+  {
+   "surface": "למלך",
+   "gloss": "apunpa"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "Mitsrayimpa (Egipto)"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqenkuna"
+  },
+  {
+   "surface": "אסורים",
+   "gloss": "wit'iykasqa kasqanku"
+  },
+  {
+   "surface": "בבית",
+   "gloss": "wasipi"
+  },
+  {
+   "surface": "הסהר",
+   "gloss": "waqaychay wasi"
+  }
+ ],
+ "timestamp": "2026-09-08T00:10:15.468703891Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa wasipaq ruwarqan t'uqukunata — seq'asqa hark'ayniyuq, ch'ikitasqa-t'aqasqakunata.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasipaq"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "t'uqukunata"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "seq'asqa hark'ayniyuq"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "ch'ikitasqa-t'aqasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:00:56.520988238Z",
+  "model": "glm-5.3"
+}

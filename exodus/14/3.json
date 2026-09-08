@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Parosim Israelpa wawankunamanta ninqa: chinkasqa purichkanku kay hallp'api, ch'in pachas paykunata wichq'arqan.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ninqa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parosim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunamanta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "chinkasqa purichkanku"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykuna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "kay hallp'api"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wichq'arqan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunata"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ch'in pachas"
+    }
+  ],
+  "timestamp": "2026-09-08T00:29:32.036343885Z",
+  "model": "glm-5.3"
+}

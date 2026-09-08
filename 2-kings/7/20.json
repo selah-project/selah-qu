@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chay hinataq paypas karqanmi: runakuna ⟨את⟩ payta punkupi sararqanku, hinaspa wañurqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chay hina"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "sararqanku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "punkupi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañurqan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:32:25.601268694Z",
+  "model": "glm-5.3"
+}

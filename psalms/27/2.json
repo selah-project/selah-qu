@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Millay ruwaqkuna ñuqap ñawpa yaykamurqanku ⟨את⟩ nuqap aychayta mikunankupaq, ñuqap awqaykuna, ñuqap ikiqniykokuna; paykunaqa sarunkurqanku hinaspa urmarqanku.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "ñawpa yaykamurqanku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "millay ruwaqkuna"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "mikunankupaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuqap aychayta"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nuqap aychayta"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ñuqap awqaykuna"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "ñuqap ikiqniykokuna"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "המה",
+      "gloss": "paykunaqa"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "sarunkurqanku"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "hinaspa urmarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:16.172178114Z",
+  "model": "glm-5.3"
+}

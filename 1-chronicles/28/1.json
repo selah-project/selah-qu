@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 28:1",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Davidmi huñurqan ⟨את⟩ llapa Israelpa umalliqninkunata — panakakunap umalliqninkunata, hinaspa llamk'aq t'aqakunap umalliqninkunata ⟨את⟩ apuman llamk'aqta — hinaspa waranqakunap umalliqninkunatawan, pachakkunap umalliqninkunatawan, hinaspa apup churinkunap llapa qullqi-uywakunap umalliqninkunatawan, apu wasip yanapaqkunawan, sinchikunawan, llapa sinchi atiyniyuqwan, Yerushalayinman.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "huñurqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa Israelpa umalliqninkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "panakakuna"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "hinaspa umalliqninkuna"
+    },
+    {
+      "surface": "המחלקות",
+      "gloss": "llamk'aq t'aqakuna"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "llamk'aq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apuman llamk'aqta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apuman llamk'aq"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "waranqakuna"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "pachakkuna"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "hinaspa umalliqninkuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "רכוש",
+      "gloss": "qullqikuna"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "hinaspa uywakuna"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apupaq"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "hinaspa churinkunapaq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "apu wasip yanapaqkuna"
+    },
+    {
+      "surface": "והגבורים",
+      "gloss": "hinaspa sinchikuna"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "hinaspa llapan"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "atiyniyuq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayinman"
+    }
+  ],
+  "timestamp": "2026-09-08T12:54:04.109504277Z",
+  "model": "glm-5.3"
+}

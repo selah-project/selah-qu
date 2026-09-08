@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 90,
+  "translation": "Paqariyllapi phanchakunmi hinaspa phasan; chisiyaqpi kuchusqa kanmi, hinaspa ch'akikun.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "paqariyllapi"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "phanchakun"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "hinaspa phasan"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "chisiyaqpi"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "kuchusqa kan"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "hinaspa ch'akikun"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:54.749895198Z",
+  "model": "glm-5.3"
+}

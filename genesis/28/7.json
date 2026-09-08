@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "hinaspa Yaakov taytanmanta, mamanmanta uyarikusqanta, Padan Aramman rirusqanta.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "uyarikusqanta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ... manta"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "maman"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "rirusqanta"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:03:01.834479314Z",
+  "model": "glm-5.3"
+}

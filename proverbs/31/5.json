@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Ama upyachunchá: kamachikuq kamachikuyninta qunqachun, llapan nanasqa wawakunap chiqan rimayninta tikranqachá.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ama ... chá"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "upyachun"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "qunqachun"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "kamachikuq kamachikuyninta"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "tikranqachá"
+    },
+    {
+      "surface": "דין",
+      "gloss": "chiqan rimayninta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawakunap"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nanasqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:54:51.112753876Z",
+  "model": "glm-5.3"
+}

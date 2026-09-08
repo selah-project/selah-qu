@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Hayk'akamataq huk runata llapanchik hawan sarunchankichik, wañuchinaykichikpaq? Siqi llawiykachaq hina, urmaykachaq pirqahina.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hayk'akama"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "taq"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "sarunchankichik"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runata"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "wañuchinaykichikpaq"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "llapanchik"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "siqi hina"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "llawiykachaq"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "pirqa"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "urmaykachaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:56.137945467Z",
+  "model": "glm-5.3"
+}

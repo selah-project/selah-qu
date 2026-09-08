@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Paykunap rawk'ankuqa paykunap sunqunkullapi yaykunmi, warak'ankunataq p'akisqa kanqaku.",
+  "tokens": [
+    {
+      "surface": "חַרְבָּם",
+      "gloss": "paykunap rawk'ankuqa"
+    },
+    {
+      "surface": "תָּבוֹא",
+      "gloss": "yaykunmi"
+    },
+    {
+      "surface": "בְלִבָּם",
+      "gloss": "paykunap sunqunkullapi"
+    },
+    {
+      "surface": "וְקַשְּׁתוֹתָם",
+      "gloss": "warak'ankunataq"
+    },
+    {
+      "surface": "תִּשָּׁבַרְנָה",
+      "gloss": "p'akisqa kanqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:44.790200005Z",
+  "model": "glm-5.3"
+}

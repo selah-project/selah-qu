@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Haq'iyta apupa ñawpaqninmanta apay; chaymi apupa tiyanan chiqap kaywan sayachikunqam.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "apay"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "haq'iyta"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqninmanta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "sayachikunqam"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "chiqap kaywan"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tiyanan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:51:12.785735226Z",
+  "model": "glm-5.3"
+}

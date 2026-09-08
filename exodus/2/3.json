@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Mana ñañam pakayta atirqanchu, chayrayku paypaq totora q'epita hurqurqan, llipthiwan asfaltowan llut'arqan; chaypi ⟨את⟩ wawata churarqan, hinaspa qachu qatakunapi mayu patapi churarqan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "atirqanchu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ña"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "pakayta"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "q'epita"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "totoramanta"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "llut'arqan"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "llipthiwan"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "asfaltowan"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wawata"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "qachu qatakunapi"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "pata"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "mayu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:56.431143396Z",
+  "model": "glm-5.3"
+}

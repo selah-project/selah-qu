@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "Yahwem Davidman cheqtata mamawchikurqan, chaymantataq mana kutinqachu: wiksaykipa rurunmanta qampaq tiyanapi tiyachisaq.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "mamawchikurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidman"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "cheqtata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kutinqa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "chaymantataq"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "rurunmanta"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "wiksayki"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "tiyachisaq"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "tiyanapi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:40.751654882Z",
+  "model": "glm-5.3"
+}

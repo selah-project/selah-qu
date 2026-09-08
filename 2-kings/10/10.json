@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 10:10",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Kunantaq yachaychik: Yahwepa rimaynmanta mana imapas hallp'aman urmunqachu, chayta Yahwem Achabpa wasin contrapi rimarqan; hinaspa Yahwem ⟨את⟩ chayta ruwarqan, chayta paypa yanapakuqnin Eliyahu makiwan rimasqan hina.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "yachaychik"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "kunantaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqaqchu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "urmunqa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "rimaynmanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "על",
+      "gloss": "contrapi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achabpa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "hinaspa Yahwem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chayta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimasqanta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makiwan"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "yanapakuqnin"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-08T05:30:54.683747183Z",
+  "model": "glm-5.3"
+}

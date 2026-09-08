@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Wisch'urqanmi mishchana unt'umanta Aharonpa uman, hinaspa unt'urqan ⟨את⟩ payta willkachananpaq.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "wisch'urqan"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "mishchana unt'umanta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mishchana"
+    },
+    {
+      "surface": "על",
+      "gloss": "uman"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uman"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "unt'urqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "willkachananpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:40.124313335Z",
+  "model": "glm-5.3"
+}

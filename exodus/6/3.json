@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Ñuqa Abrahamman (Abrahán), Itsjakman (Isaac), Yaakovman (Jacob) rikhurqani El Shadday (Shadday Dios) hina; Sutiymi Yahwe, icha chay Sutim manam paykunaman riqsisqa karqachu.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "rikhurqani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjakman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinallataq man"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovman"
+    },
+    {
+      "surface": "באל",
+      "gloss": "El hina"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "Sutiymi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "riqsisqa karqachu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:23:20.619877404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Willakuq wasichaqman. Mizmor, Davidpa (Salmo, Davidpa).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "willakuq wasichaqman"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa (Davidpa)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:39.477181223Z",
+  "model": "glm-5.3"
+}

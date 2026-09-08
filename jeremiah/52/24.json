@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 52,
+  "translation": "Hinaspa wach'aqkunap apun ⟨את⟩ Serayah (Seraías)ta, hatun kohenta, hinaspa ⟨את⟩ Tsefanyah (Sofonías)ta, iskay ñiqin kohenta, hinaspa ⟨את⟩ kimsanta punku waqaychaqta hurqurqanmi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hinaspa hurqurqanmi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "apun"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wach'aqkunap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayahta"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Tsefanyah"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kimsanta punku waqaychaqta"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsanta"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "waqaychaq"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "punku"
+    }
+  ],
+  "timestamp": "2026-09-08T07:48:59.871946574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ninata Kazaelpa (Hazael) wasiman kachasaq; chayqa Ben-Hadadpa hatun wasinkunata mikhusaqku.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "kachasaq"
+    },
+    {
+      "surface": "אש",
+      "gloss": "Ninata"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "wasiman"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Kazael"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mikhusaqku"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "hatun wasinkunata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadpa"
+    }
+  ],
+  "timestamp": "2026-09-08T08:56:35.948054464Z",
+  "model": "glm-5.3"
+}

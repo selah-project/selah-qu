@@ -1,0 +1,70 @@
+{
+ "tier": "glm-5.2",
+ "verse": 32,
+ "ref": "genesis 42:32",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 42,
+ "translation": "Chunka iskay wayqeyku ñuqaykum kayku, ñuqaykup taytanchikpa churinkuna; hukninqa manañam kanchu; aswan sullk'aqa kunan p'unchawmi ⟨את⟩ taytanchikwan kachkan, Kenaan hallp'api.",
+ "tokens": [
+  {
+   "surface": "שנים",
+   "gloss": "iskay"
+  },
+  {
+   "surface": "עשר",
+   "gloss": "chunka"
+  },
+  {
+   "surface": "אנחנו",
+   "gloss": "ñuqayku"
+  },
+  {
+   "surface": "אחים",
+   "gloss": "wayqeyku"
+  },
+  {
+   "surface": "בני",
+   "gloss": "churinkuna"
+  },
+  {
+   "surface": "אבינו",
+   "gloss": "taytanchikpa"
+  },
+  {
+   "surface": "האחד",
+   "gloss": "huknin"
+  },
+  {
+   "surface": "איננו",
+   "gloss": "mañam kanchu"
+  },
+  {
+   "surface": "והקטן",
+   "gloss": "aswan sullk'aqa"
+  },
+  {
+   "surface": "היום",
+   "gloss": "kunan p'unchaw"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "taytanchikwan"
+  },
+  {
+   "surface": "אבינו",
+   "gloss": "taytanchikwan"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "hallp'api"
+  },
+  {
+   "surface": "כנען",
+   "gloss": "Kenaan"
+  }
+ ],
+ "timestamp": "2026-09-08T00:14:46.148994888Z",
+ "model": "glm-5.3"
+}

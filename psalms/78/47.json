@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Chhikhiwanmi paykunap viñankunata wañuchirqan, paykunap sikomorontawan qasawan.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "wañuchirqan"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "chhikhiwan"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "paykunap viñankunata"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "paykunap sikomoronta"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "qasawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:39.974616446Z",
+  "model": "glm-5.3"
+}

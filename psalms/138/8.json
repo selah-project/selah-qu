@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 138,
+  "translation": "Yahwem ñuqapaq hunt'achinqam. Yahwe, jesedniykiqa wiñaymi kanqa; makiykip rurasqankunata ama saqerpuwaychu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "hunt'achinqam"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaymi"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "rurasqankuna"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "makiykip"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "saqerpuwaychu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:47.982081131Z",
+  "model": "glm-5.3"
+}

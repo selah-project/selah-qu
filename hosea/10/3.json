@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Imaraykuchus kunan ninqakum: «Manam apuyuqchu kanchik ñuqanchikpaq, imaraykuchus ⟨את⟩ Yahweta manam manchakunchikchu; apuqa imatataq ñuqanchikman ruwasha?»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ninqakum"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam ... -chu kanchik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apuyuq"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikpaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam ... -chu"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "manchakunchik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "aputaq"
+    },
+    {
+      "surface": "מה",
+      "gloss": "imatataq"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwasha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    }
+  ],
+  "timestamp": "2026-09-08T08:51:54.852189623Z",
+  "model": "glm-5.3"
+}

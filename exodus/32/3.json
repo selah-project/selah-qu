@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Chaysi llapan runakunaqa rinrinkunapi kaq quri sinkhukunatawan ⟨את⟩ q'orchakurqanku, hinaspa Aharonman (Aarón) apamurqanku.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "q'orchakurqanku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quri sinkhukunata"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "sinkhukunata"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "rinrinkunapi kaq"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "apamurqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:06.593386027Z",
+  "model": "glm-5.3"
+}

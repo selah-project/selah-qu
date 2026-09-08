@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Llakikuymi aswan allin asichaymanta; imaraykuchus ñawpa ukhupi llaki kaptin, sunqu allinyachikunmi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "aswan allin"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "llakikuy"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "asichaymanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "llaki"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawpa ukhupi"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "allinyachikun"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:35.021565167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Sipaskunantam kacharqan, llaqtap aswan hanan patankunamantan qaparikun.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "sipaskunanta"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "qaparikun"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanmanta"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "patankuna"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "aswan hanan"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "llaqta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:33.838112274Z",
+  "model": "glm-5.3"
+}

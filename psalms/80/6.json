@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Llakiyaq ununta t'antahina mikhuchiwanki, llakiyaq ununkunawan hunt'a tupulla upyachiwanki.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "mikhuchiwanki"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "t'anta"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "llakiyaq ununta"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "upyachiwanki"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "llakiyaq ununkunawan"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "hunt'a tupulla"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:30.211505644Z",
+  "model": "glm-5.3"
+}

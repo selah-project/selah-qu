@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "Kamachiqman, karu k'itikunapi kaq ch'inlla urpimanta, Davidpaq, mijtam ⟨poema⟩: Pelishtimkuna (Filisteos) ⟨את⟩ payta Gatpi chapuspañam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kamachiqman"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "ch'inlla urpi"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ch'inlla"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "karu k'itikunapi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpaq"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mijtam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "chapuspaña"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta (Pelishtimkuna)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtimkuna"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gatpi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:58.711453189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "hinaspa ⟨את⟩ nanachina altarta (olojta nanachinata), hinaspa ⟨את⟩ llapa llamk'anankunata, hinaspa ⟨את⟩ armakuna tiyanata, hinaspa ⟨את⟩ tiyananpa sayananwan,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "nanachina altarta"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "nanachina altar (olojta nanachinata)"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olojnanachina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa llamk'anankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "llamk'anankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "armakuna tiyanata"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "armakuna tiyana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tiyananpa sayananwan"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tiyananpa sayanan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:40.078675737Z",
+  "model": "glm-5.3"
+}

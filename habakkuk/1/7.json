@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Payqa ⟨kan⟩mi manchachiymi, achka manchakuqpas; paymantalla kamachikuynin, hatun kayninpas lluqsimun.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "manchachiymi"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "achka manchakuqpas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay ⟨kan⟩mi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "paymantalla"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "kamachikuynin"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "hatun kayninpas"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsimun"
+    }
+  ],
+  "timestamp": "2026-09-08T09:11:30.335805141Z",
+  "model": "glm-5.3"
+}

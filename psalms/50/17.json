@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Qamtaq musuqyachiyta ch'ikiykuwankim, ñuqap simiykita qhipaykiman wikch'urqankim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Qamtaq"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "ch'ikiykuwanki"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "musuqyachiyta"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "wikch'urqanki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "simiykita"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "qhipaykiman"
+    }
+  ],
+  "timestamp": "2026-09-08T14:13:51.874546752Z",
+  "model": "glm-5.3"
+}

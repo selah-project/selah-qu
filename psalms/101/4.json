@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 101,
+  "translation": "Q'iswa sunqu ñuqamanta karakunqa; mana allintaqa mana riqsisaqchu.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "q'iswa"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "karakunqa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ...chu"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "riqsisaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:36.251318118Z",
+  "model": "glm-5.3"
+}

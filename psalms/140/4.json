@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Ch'uqichirqankumi siminkuta mach'aqway hina; taksha mach'aqwaypa miyunmi wirpankup ukhanpin. Sela.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "ch'uqichirqanku"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "siminkuta"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "mach'aqway"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "miyun"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "taksha mach'aqwaypa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ukhanpin"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "wirpanku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:41.191148432Z",
+  "model": "glm-5.3"
+}

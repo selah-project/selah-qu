@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Askalla runa, Yah, mayqentam qam p'inqachiwanki, Toraykiwan yachachiwanki.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Askalla"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "runa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqentam"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "p'inqachiwanki"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "Toraykiwan"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "yachachiwanki"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:57.407241011Z",
+  "model": "glm-5.3"
+}

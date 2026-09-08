@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa ⟨את⟩ torata Yahwep ñawpaqen wañuchinki, tupana carpap punkunpi.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "wañuchinki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "torata"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "torata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "punkunpi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "carpap"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tupana"
+    }
+  ],
+  "timestamp": "2026-09-08T00:39:23.462843995Z",
+  "model": "glm-5.3"
+}

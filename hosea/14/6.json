@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Israelman ch'usaq hina kanqa; lirio hina phanchallaqanqa, hinaspa saphinkunata Libanon hina illarichinqa.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "ch'usaq hina"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelman"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "panchallaqanqa"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "lirio hina"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "hinaspa ... illarichinqa"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "saphinkunata"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "Libanon hina"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:31.428528674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 29:9",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa Mitsrayimpa hallp'anqa ch'usaqchasqa, mana kasqallayuq t'ikanaman tukunqam; hinaspa yachanku ñuqa Yahwe kasqayta, imaraykuchus nirqan: «Ye'or (mayu)qa ñuqapmi, ñuqataq ñuqam rurarrani».",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "hinaspa tukunqa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'an"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "ch'usaqchasqa t'ikanaman"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "mana kasqallayuqwan"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "hinaspa yachanku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chay kasqanta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "Ye'or (mayu)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapmi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ñuqam rurarrani"
+    }
+  ],
+  "timestamp": "2026-09-08T14:02:59.674163818Z",
+  "model": "glm-5.3"
+}

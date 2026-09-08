@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yahwem hamurqanmi, sayarirqanmi, kuti-kuti hina qayarqan: Shemuel, Shemuel. Shemuela nirqan: Rimay, chayrayku yanqaqyki uyarishanmi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "qayarqan"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "kuti"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "kutipi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Rimay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyarishan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanqaqyki"
+    }
+  ],
+  "timestamp": "2026-09-08T04:03:55.526023143Z",
+  "model": "glm-5.3"
+}

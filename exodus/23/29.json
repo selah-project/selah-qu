@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 23:29",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Manam paykunata qam ñawpaqmanta huk wata qarqusaqchu, ama hallp'a ch'usaq tukunqachu chayta, hinaspa chakrapi uywakuna qam contrariyupi achkayakunqanku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "qarqusaq"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "qam ñawpaqmanta"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "watapi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "huklla"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ama … -chu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "tukunqa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "hinaspa achkayakunqa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qam contrariyupi"
+    },
+    {
+      "surface": "חית",
+      "gloss": "uywakuna"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "chakrapi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:35:30.950602129Z",
+  "model": "glm-5.3"
+}

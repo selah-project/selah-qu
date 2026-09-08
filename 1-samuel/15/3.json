@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Kunam ri, ⟨את⟩ Amalekta hayuway, ⟨את⟩ llapan paypa kaqta chiqay qulluy, ama payta llakikuychu; wañuchiy qharimanta warmikama, muchu wawamanta ñuñuqkama, wakamanta ovejakama, llamamanta asnokama.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ri"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "hayuway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekta"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "chiqay qulluy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan paypa kaqta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaqta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "llakikuy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "wañuchiy"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "qharimanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "muchu wawa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wankama"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "ñuñuq"
+    },
+    {
+      "surface": "משור",
+      "gloss": "wakamanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wankama"
+    },
+    {
+      "surface": "שה",
+      "gloss": "oveja"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "llamamanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wankama"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "asno"
+    }
+  ],
+  "timestamp": "2026-09-08T04:16:44.348581368Z",
+  "model": "glm-5.3"
+}

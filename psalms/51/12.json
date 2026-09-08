@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Ch'uya sunqota ñuqap ukhoyman kamariy, Elohim; chiqaq samayta ukhoypi musuqchay.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ch'uya"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "kamariy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap ukhoyman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "hinaspa samay"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "chiqaq"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "musuqchay"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ukhoypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:26.486224923Z",
+  "model": "glm-5.3"
+}

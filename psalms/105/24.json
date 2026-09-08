@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Payqa ⟨את⟩ runantinta askham mirachirqanm, awqaqninkunamanta aswan sinchi rurirqanm.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "mirachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runantinta"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "runantinta"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "askham"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "aswan sinchi rurirqan"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "awqaqninkunamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:47.448824941Z",
+  "model": "glm-5.3"
+}

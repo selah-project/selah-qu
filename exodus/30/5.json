@@ -1,0 +1,47 @@
+{
+ "tier": "glm-5.2",
+ "verse": 5,
+ "ref": "exodus 30:5",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 30,
+ "translation": "Hinaspa ⟨את⟩ siq'ekunata ruwanki shitim sach'a kaymanta, hinaspa ⟨את⟩ qurita churanki paykunapim.",
+ "tokens": [
+  {
+   "surface": "ועשית",
+   "gloss": "hinaspa ruwanki"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "siq'ekunata"
+  },
+  {
+   "surface": "הבדים",
+   "gloss": "siq'ekunata"
+  },
+  {
+   "surface": "עצי",
+   "gloss": "sach'a kaymanta"
+  },
+  {
+   "surface": "שטים",
+   "gloss": "shitim"
+  },
+  {
+   "surface": "וצפית",
+   "gloss": "hinaspa qurita churanki"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩",
+   "marks": "paykunapim"
+  },
+  {
+   "surface": "זהב",
+   "gloss": "quri"
+  }
+ ],
+ "timestamp": "2026-09-08T00:39:18.083752576Z",
+ "model": "glm-5.3"
+}

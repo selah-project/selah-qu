@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa qhanqata mana-qhanqamantawan, ahichata ahichamantawan t'aqanankupaqmi.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "hinaspa t'aqanankupaq"
+    },
+    {
+      "surface": "בין",
+      "gloss": "taqasqa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "qhanqata"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mana-qhanqamanta"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ahichata"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "ahichamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:21.280413155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Ñuqam, ñuqallam Yahwe; ñuqap hawapi mana qispichiyta atiq kanchu.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqallam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ñuqap hawapi"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "qispichiyta atiq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:23:12.084553326Z",
+  "model": "glm-5.3"
+}

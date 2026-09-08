@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 139,
+  "translation": "Qhipamanta, ñawpaqmanta wisq'arqawankim, makillaykita ñuqap patapi churarqawankim.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "qhipamanta"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "ñawpaqmanta"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "wisq'arqawanki"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "churarqawanki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap patapi"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "makillaykita"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:20.360613441Z",
+  "model": "glm-5.3"
+}

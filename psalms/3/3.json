@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Askhakunami ñuqap nefeshyman ninku: «Mana qispichiy kanchu paypaq Elohimpipas». Sela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Askhakunami"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ninku"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ñuqap nefeshyman"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimpipas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:41.258906786Z",
+  "model": "glm-5.3"
+}

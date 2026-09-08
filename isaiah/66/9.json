@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 66:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "«Manachu nuqa wachayman churasaq, manaña wachachisaqchu?» — Yahwem ninmi. «Nuqataq wachachiq kaptiy, ¿hark'isaqchu?» — Elohimniykiqam nirqa.",
+  "tokens": [
+    {
+      "surface": "האני",
+      "gloss": "manachu nuqa"
+    },
+    {
+      "surface": "אשביר",
+      "gloss": "wachayman churasaq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manaña"
+    },
+    {
+      "surface": "אוליד",
+      "gloss": "wachachisaqchu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ninmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nuqataq... kaptiy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nuqa"
+    },
+    {
+      "surface": "המוליד",
+      "gloss": "wachachiq"
+    },
+    {
+      "surface": "ועצרתי",
+      "gloss": "hark'isaqchu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqa"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniykiqam"
+    }
+  ],
+  "timestamp": "2026-09-08T06:45:07.656475305Z",
+  "model": "glm-5.3"
+}

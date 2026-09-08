@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Chaymi Yahweman q'ayarqankum llakipi kasqankupi; paykunata llakikunamantanm hurqurqan.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "q'ayarqankum"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "llakipi kasqankupi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunap"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "llakikunamantan"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "hurqurqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:50.109994571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 143,
+  "translation": "Yahwe, ñuqap awqakunamanta qispichiwaway; qammanmi pakakuni.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "qispichiwaway"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ñuqap awqakunamanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "pakakuni"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:45.972779508Z",
+  "model": "glm-5.3"
+}

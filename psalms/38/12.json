@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Munakuqkuna, masniykunapas nanay ñawpaqniy sayankuman; aylluniykunataq karumanta sayarqanku.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "munakuqkuna"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "masniykunapas"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "karu sayaspa"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "nanay"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "sayankuman"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "aylluniykunataq"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "karumanta"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "sayarqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:16.297184957Z",
+  "model": "glm-5.3"
+}

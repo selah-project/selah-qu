@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joel 2:12",
+  "book": "joel",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspullataq kunan, Yahwem nispa willan: Ñuqapman kutiy tukuy sunquykichikwan, hinaspa wakichiypi, waqaypi, lutoypi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "hinaspullataq"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "kunan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nispa willan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "Ñuqapman"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "sunquykichikwan"
+    },
+    {
+      "surface": "ובצום",
+      "gloss": "hinaspa wakichiypi"
+    },
+    {
+      "surface": "ובבכי",
+      "gloss": "hinaspa waqaypi"
+    },
+    {
+      "surface": "ובמספד",
+      "gloss": "hinaspa lutoypi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:08:03.182749568Z",
+  "model": "glm-5.3"
+}

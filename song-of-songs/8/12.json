@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Ñuqap wiñay wasiy, ñuqapmi, ñuqap ñawpaypi ⟨kan⟩; waranqaqa qampaqmi, Shelomo, iskay pachaktaq waqaychaqkunapaq, ⟨את⟩ paypa rurunta ñak'ariykur.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "Ñuqap wiñay wasiy"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "ñuqapmi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñuqap ñawpaypi"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "iskay pachaktaq"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "waqaychaqkunapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa rurunta"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "paypa rurun"
+    }
+  ],
+  "timestamp": "2026-09-08T11:28:29.312321947Z",
+  "model": "glm-5.3"
+}

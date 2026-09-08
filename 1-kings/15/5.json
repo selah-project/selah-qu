@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Chaymi David ⟨את⟩ chiqasta Yahwep ñawinkunapi ruwarqan, manataq tukuy kamachisqanmanta t'iqarqanchu, tukuy kawsaynin p'unchawkunapi, sole Uriya (Urías) hitita rimayninllapi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chiqasta"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "chiqasta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinkunapi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "סר",
+      "gloss": "t'iqarqanchu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "manta tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamachisqanta"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "kamachirqanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "kawsaynin"
+    },
+    {
+      "surface": "רק",
+      "gloss": "sole"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "rimayninpi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "hitita"
+    }
+  ],
+  "timestamp": "2026-09-08T05:13:44.157786705Z",
+  "model": "glm-5.3"
+}

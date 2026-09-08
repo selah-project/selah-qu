@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 36:15",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Yahwem, paykunap tayta-kurakunap Elohimnin, paykunaman willaqninkuna makinwan ñawpaqpa ñawpaqmanta kacharqan, imaraykuchus paypa runanpi khuyakurqan, wasinpipas.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "tayta-kurakunap"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinwan"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "willaqninkuna"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ñawpaqpa"
+    },
+    {
+      "surface": "ושלוח",
+      "gloss": "ñawpaqmanta kachaspa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "khuyakurqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runanpi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa -pi"
+    },
+    {
+      "surface": "מעונו",
+      "gloss": "wasinpi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:21:45.489390798Z",
+  "model": "glm-5.3"
+}

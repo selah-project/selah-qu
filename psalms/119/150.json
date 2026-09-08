@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Qayllaman hamunkum llama-munanakuy qatisqakunam, Toraykimantam karunku.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "qayllaman hamunku"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "qatisqakuna"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "llama-munanakuy"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Toraykimanta"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "karunku"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:25.451039423Z",
+  "model": "glm-5.3"
+}

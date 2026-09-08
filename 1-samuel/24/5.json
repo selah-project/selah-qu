@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 24:5",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaysi Davidpa runankuna payman nirqanku: Qhaway, kaymi p'unchaw, mayqinta Yahwe qamman nirqan: Qhaway, ñuqa qusaq ⟨את⟩ awqaqta qampa makiykipi, chaysi qam payman ruwanki imata allin qampa ñawiykipi rikurqan. Chaysi David sayarirqan, hinaspa Shaulpa chusanpa larphunta pakispapi ullqurqan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "nirqanku"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "runankuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Qhaway"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qusaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awqaqta"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaqta"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "makiykipi"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "יטב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ñawiykipi"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "ullqurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "larphunta"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "larphunta"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "chusanpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulpa"
+    },
+    {
+      "surface": "בלט",
+      "gloss": "pakispapi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:23:42.905900982Z",
+  "model": "glm-5.3"
+}

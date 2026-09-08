@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Yehudam Onanman nirqan: Ñaykipa warmiman yaykuy, waynakuway ⟨את⟩ payta, hinaspa mirninta ñaykipaq causaykachay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudam"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "Onanman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaykuy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "warminta"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ñaykipa"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "waynakuway (ñanpa warminta chaskiy)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "causaykachay"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mirninta"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ñaykipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:10:12.358110726Z",
+  "model": "glm-5.3"
+}

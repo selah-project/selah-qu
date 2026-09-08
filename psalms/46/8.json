@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Yahwe Tsebaotmi ñuqanchikwanmi kachkan; Yaakovpa Elohimninmi ñuqanchikpa hatun hark'ananmi. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ñuqanchikwan"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "hatun hark'anan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikpa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:43.892586987Z",
+  "model": "glm-5.3"
+}

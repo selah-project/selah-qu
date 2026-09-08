@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Huñanam Moshe (Moisés) ⟨את⟩ tukuy Israelpa churinkunap ayllunta, hinaspa paymanataq nirqan: kay simikunam Yahwe kamachirqan ⟨את⟩ chaykuna rurayta.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "huñanam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy Israelpa churinkunap ayllunta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ayllunta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "payman"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "simikuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imas"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "rurayta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ chaykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:55.087188940Z",
+  "model": "glm-5.3"
+}

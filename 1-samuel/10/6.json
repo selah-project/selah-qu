@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Yahwepa nunan qamman atiyniyoctam yayamunqam, paykunawan kuska navillankim, huk wak runamanmi tikrakapuwanki.",
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "hinaspa atiyniyuqta yayamunqam"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nunan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "hinaspa navillankim"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "paykunawan kuska"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "hinaspa tikrakapuwanki"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "runaman"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "huk wak"
+    }
+  ],
+  "timestamp": "2026-09-08T04:09:06.072415713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Minchap qhipaqninmi Aharonpa, hinaspa wawankunapawan: qodesh, qodoshimanta — Yahwepa ninaman ofrendankunamanta.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "qhipaqnin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonpa (Aharonman)"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "hinaspa wawankunapawan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "qodesh"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "qodoshim (llapan qodesh)"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ninaman ofrendankunamanta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:28.018990569Z",
+  "model": "glm-5.3"
+}

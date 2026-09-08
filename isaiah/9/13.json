@@ -1,0 +1,49 @@
+{
+ "tier": "glm-5.2",
+ "verse": 13,
+ "ref": "isaiah 9:13",
+ "book": "isaiah",
+ "lang": "qu",
+ "chapter": 9,
+ "translation": "Yahwem Israelmanta umata, chupatapas, palma raminata, totoratapas huk p'unchawpi kuchurqan.",
+ "tokens": [
+  {
+   "surface": "ויכרת",
+   "gloss": "kuchurqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "מישראל",
+   "gloss": "Israelmanta"
+  },
+  {
+   "surface": "ראש",
+   "gloss": "umata"
+  },
+  {
+   "surface": "וזנב",
+   "gloss": "chupatapas"
+  },
+  {
+   "surface": "כפה",
+   "gloss": "palma raminata"
+  },
+  {
+   "surface": "ואגמון",
+   "gloss": "totoratapas"
+  },
+  {
+   "surface": "יום",
+   "gloss": "p'unchawpi"
+  },
+  {
+   "surface": "אחד",
+   "gloss": "huk"
+  }
+ ],
+ "timestamp": "2026-09-08T05:59:19.701684745Z",
+ "model": "glm-5.3"
+}

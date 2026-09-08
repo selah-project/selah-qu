@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Ñawi nanakuna hina pirqata sik'iykachanchik, mana ñawiyuq hina sik'iykachanchik; chisi p'unchawpi tutallapi hina t'ikrakurkunchik, ch'usaqkuna ukhupi wañusqakuna hina.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "sik'iykachanchik"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "ñawi nanakuna hina"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "pirqata"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "mana ñawiyuq hina"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ñawikuna"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "sik'iykachanchik"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "t'ikrakurkunchik"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "chisi p'unchawpi"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "tutallapi hina"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "ch'usaqkuna ukhupi"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "wañusqakuna hina"
+    }
+  ],
+  "timestamp": "2026-09-08T06:40:09.976998863Z",
+  "model": "glm-5.3"
+}

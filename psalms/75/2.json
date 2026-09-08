@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 75,
+  "translation": "Qammanmi yupaychayku, Elohim, qamman yupaychayku; Sutiykiqa qayllam, milagroykikunata willanku.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "yupaychayku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "yupaychayku"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "qaylla"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiyki"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "willanku"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "milagroykikunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:47.374884703Z",
+  "model": "glm-5.3"
+}

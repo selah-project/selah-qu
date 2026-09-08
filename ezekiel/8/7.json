@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Chaymanta ⟨את⟩ ñuqata patio punkunman pusarqanmi; qhawarqanimi, hinaspa wallipi huk uqllu karqanmi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "pusarqanmi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "punkunman"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "patio punkun"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "patiom"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "qhawarqanimi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "חר",
+      "gloss": "uqllu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "wallipi"
+    }
+  ],
+  "timestamp": "2026-09-08T07:58:06.251794854Z",
+  "model": "glm-5.3"
+}

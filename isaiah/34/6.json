@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 34:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Yahwepa chiqtunan yawarwanmi hunt'asqa, wira hinaspa yawarmanta karikuna (carneros) kawrakunawan, ayil riñunkunap wiranwanmi ch'akusqa; chiqaqmi sacrificio Yahwepaq Botsra (Bozra) llaqtapi, hatun wañuchiy Edompa hallp'anpi.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "chiqtuna"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "hunt'asqa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "yawarwan"
+    },
+    {
+      "surface": "הדשנה",
+      "gloss": "ch'akusqa"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "wira"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "yawarmanta"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "karikuna"
+    },
+    {
+      "surface": "ועתודים",
+      "gloss": "hinaspa kawrakuna"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "wiramanta"
+    },
+    {
+      "surface": "כליות",
+      "gloss": "riñunkuna"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ayil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chiqaqm"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrificio"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "בבצרה",
+      "gloss": "Botsrapi"
+    },
+    {
+      "surface": "וטבח",
+      "gloss": "hinaspa wañuchiy"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-08T06:20:05.371241992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Chaqranta anta punkukunata t'inkirqan, qillay t'ikrakunatataq kuchurqan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaqrayku"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "t'inkirqan"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "punkukuna"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "anta"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "t'ikrakunata"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "qillay"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "kuchurqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:21.093136264Z",
+  "model": "glm-5.3"
+}

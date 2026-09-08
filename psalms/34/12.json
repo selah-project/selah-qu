@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Hamuy, wawakuna, ñuqap simiyta uyariychik: Yahwepa willka manchayninchikmi qamkunaman yachachisqayki.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Hamuy"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "wawakuna"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uyariychik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap simiyta"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "willka manchayninchikmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "qamkunaman yachachisqayki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:53.991389255Z",
+  "model": "glm-5.3"
+}

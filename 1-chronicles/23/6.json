@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 23:6",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Davidpam chayninta t'aqarqan Levipa churinkunata t'aqakunaman: Gershonpa, Kehatpa, Meraripaq.",
+  "tokens": [
+    {
+      "surface": "ויחלקם",
+      "gloss": "t'aqarqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "t'aqakunaman"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לגרשון",
+      "gloss": "Gershonpa"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatpa"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "Meraripaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:47:47.549502380Z",
+  "model": "glm-5.3"
+}

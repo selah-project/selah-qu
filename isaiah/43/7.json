@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Llapam Sutiypi sutichasqa, qhapaq kayniypaqtaq kamarqani, pañarqani, chaymanta ruwarqanimi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "sutichasqa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Sutiypi"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "qhapaq kayniypaqtaq"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "kamarqani"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "pañarqani"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "ruwarqanimi"
+    }
+  ],
+  "timestamp": "2026-09-08T06:22:43.038328594Z",
+  "model": "glm-5.3"
+}

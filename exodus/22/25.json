@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Sichus masiykipa p'achanta garantía hina hap'unki-m, inti chinkakusqanmanmi kutichiwanki payman.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "garantía hina"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "hap'unki"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "p'achanta"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "masiykipa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chinkakusqanman"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "kutichiwanki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:36.248341746Z",
+  "model": "glm-5.3"
+}

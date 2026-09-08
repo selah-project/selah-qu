@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Yahpa ruraysinkunata yuyachisaqmi; ichataqmi ñawpa pachamanta sapra rurasqaykikunata yuyasaq.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "yuyachisaqmi"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "ruraysinkunata"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahpa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ichataqmi"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "yuyasaq"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ñawpa pachamanta"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "sapra rurasqaykikunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:00:54.769464665Z",
+  "model": "glm-5.3"
+}

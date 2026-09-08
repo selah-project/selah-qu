@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Kachun Yahwepa jesednin (khuyakuynin) ñuqayku ukhupi, imaynachus qampa suyayku.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "kachun"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesednin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ñuqayku ukhupi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imaynachus"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "suyayku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:02.640379461Z",
+  "model": "glm-5.3"
+}

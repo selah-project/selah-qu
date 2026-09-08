@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Runam llamk'ananman lluqsin, yanapananmantawan, tutayayni kama.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "lluqsin"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "llamk'ananman"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "yanapananmantawan"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kama"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tutayayni"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:51.887194822Z",
+  "model": "glm-5.3"
+}

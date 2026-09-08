@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 12:8",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Yaakov (Jacob) Mitsrayimman (Egipto) chayasqanpi, taytaykichik Yahweman qaparkunku; chaysi Yahwem ⟨את⟩ Moshe (Moisés)ta hinaspa ⟨את⟩ Aharon (Aarón)ta kachamurqan, chaysi paykuna ⟨את⟩ taytaykichikta Mitsrayimmanta hawam urquspa kay kitipi tiyachirqanku.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "chayasqanpi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "chayan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov (Jacob)"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim (Egipto)man"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "qaparkunku"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "taytaykichik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "kachamurqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe (Moisés)ta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Aharon (Aarón)ta"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon (Aarón)"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "hawam urqunku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytaykichikta"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "taytaykichik"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "tiyachirqanku"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kitipi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T04:12:00.187010191Z",
+  "model": "glm-5.3"
+}

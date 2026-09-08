@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chay p'unchawmi Eliman ⟨את⟩ tukuy niwasqayta wasinpaq qatarqasaq — qallariymanta tukuchiykama.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "qatarqasaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tukuy niwasqayta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "niwasqay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "paq"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "החל",
+      "gloss": "qallariy"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "tukuchiy"
+    }
+  ],
+  "timestamp": "2026-09-08T04:03:55.530440986Z",
+  "model": "glm-5.3"
+}

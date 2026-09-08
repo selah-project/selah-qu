@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "psalms 7:6",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 7,
+ "translation": "Awqanmi nefeshniyta qaqpanchun, hinaspa chaskachun, hinallataq hallp'aman kawsayniyta llusk'achun, chaninniytaq aqota ukhupi tiyachun. Selah.",
+ "tokens": [
+  {
+   "surface": "ירדף",
+   "gloss": "qaqpanchun"
+  },
+  {
+   "surface": "אויב",
+   "gloss": "awqan"
+  },
+  {
+   "surface": "נפשי",
+   "gloss": "nefeshniyta"
+  },
+  {
+   "surface": "וישג",
+   "gloss": "hinaspa chaskachun"
+  },
+  {
+   "surface": "וירמס",
+   "gloss": "hinallataq llusk'achun"
+  },
+  {
+   "surface": "לארץ",
+   "gloss": "hallp'aman"
+  },
+  {
+   "surface": "חיי",
+   "gloss": "kawsayniyta"
+  },
+  {
+   "surface": "וכבודי",
+   "gloss": "chaninniytaq"
+  },
+  {
+   "surface": "לעפר",
+   "gloss": "aqota ukhupi"
+  },
+  {
+   "surface": "ישכן",
+   "gloss": "tiyachun"
+  },
+  {
+   "surface": "סלה",
+   "gloss": "Selah"
+  }
+ ],
+ "timestamp": "2026-09-08T09:28:01.008471335Z",
+ "model": "glm-5.3"
+}

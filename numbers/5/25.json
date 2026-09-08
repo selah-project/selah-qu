@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa kohenmi warmip makimanta ⟨את⟩ k'anchariypa minchata hap'irqan, hinaspa ⟨את⟩ minchata Yahwep ñawpaqen wayllurirqan, hinaspa ⟨את⟩ minchata altarman chayarqan.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenmi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makimanta"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "warmip"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "k'anchariypa minchata"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchata"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "k'anchariypa"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "wayllurirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchata"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchata"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "minchata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    }
+  ],
+  "timestamp": "2026-09-08T01:21:22.796424474Z",
+  "model": "glm-5.3"
+}

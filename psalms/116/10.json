@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Iñirqanim, chayrayku rimarqani: ñuqaqa askha nanachikurqanimi.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "iñirqanim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "rimarqani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "nanachikurqani"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "askha"
+    }
+  ],
+  "timestamp": "2026-09-08T10:20:58.969868320Z",
+  "model": "glm-5.3"
+}

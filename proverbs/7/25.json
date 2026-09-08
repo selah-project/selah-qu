@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Ama sonqoyki paypa ñanninman tikrakuchunchu, ama paypa ñanninkunapi purichu thaktaykachay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "tikrakuchunchu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "paypa ñanninman"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sonqoyki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "thaktaykachay"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "paypa ñanninkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:37:16.289273267Z",
+  "model": "glm-5.3"
+}

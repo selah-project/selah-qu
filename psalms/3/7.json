@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Manam mancharikunichu waranqa waranqa runakunamanta, mayqinkunachus ñuqap muyuriyniypi ñuqap contraypi churakusqa karqanku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "mancharikuni"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "waranqa waranqa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunachus"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriyniypi"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "churakusqa karqanku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap contraypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:28:28.062040084Z",
+  "model": "glm-5.3"
+}

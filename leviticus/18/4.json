@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "⟨את⟩ mishpatniyta ruwaychik, hinaspa ⟨את⟩ huqatayta waqaychaychik, chaykunapi purinapaq; ñuqam Yahwe, qamkunap Elohimniykichik.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishpatniyta"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mishpatniy"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ruwaychik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "huqatayta"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "huqatay"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "waqaychaychik"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "purinapaq"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "chaykunapi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:49.627437551Z",
+  "model": "glm-5.3"
+}

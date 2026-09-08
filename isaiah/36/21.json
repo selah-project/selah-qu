@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 36:21",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Ch'inllallawku, mana payman ⟨את⟩ rimayta kutirirqankuchu: apupa kamachikuyninmi ⟨kan⟩, nin: ama payman kutiriychu.",
+  "tokens": [
+    {
+      "surface": "ויחרישו",
+      "gloss": "ch'inllallawku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "kutirirqankuchu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "rimayta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kamachikuynin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "payman kutiriychu"
+    }
+  ],
+  "timestamp": "2026-09-08T06:16:39.882378302Z",
+  "model": "glm-5.3"
+}

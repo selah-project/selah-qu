@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 113,
+  "translation": "Paymi dalta tuqurumanta hatarichin, abiyonta q'urpa wasimanta huñarichin.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "hatarichin"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "tuqurumanta"
+    },
+    {
+      "surface": "דל",
+      "gloss": "dalta"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "q'urpa wasimanta"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "huñarichin"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "abiyonta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:03.506341133Z",
+  "model": "glm-5.3"
+}

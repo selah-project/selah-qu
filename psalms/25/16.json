@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Ñuqaman ñawiykita t'ikray, ñuqata khuyapuiway; imaraykuchus ñuqaqa ch'ulla wakcha kanim.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "t'ikray"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ñuqaman"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ñuqata khuyapuiway"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ch'ulla"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:27.914791069Z",
+  "model": "glm-5.3"
+}

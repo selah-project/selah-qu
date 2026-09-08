@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Manam tikranchu, mana huk kaqta tikranchu ⟨את⟩ allinta mana allinwan, mana allinta allinwan utaq; hinaspa sichus uywata uywanawan tikran, chay uywawan chay tikrasqanpas willkam kanqa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "tikranchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana huk kaqta"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "tikranchu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "allinta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "mana allinwan"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "allinwan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa sichus"
+    },
+    {
+      "surface": "המר",
+      "gloss": "tikran"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "tikran"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "uywata"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "uywanawan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chay uywawan"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "chay tikrasqanpas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "willka"
+    }
+  ],
+  "timestamp": "2026-09-08T01:14:23.376195722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+ "tier": "glm-5.2",
+ "verse": 6,
+ "ref": "psalms 53:6",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 53,
+ "translation": "Chaypim mancharikurqanku, maypipas mancharikuy mana ⟨karqan⟩chu; imarayku Elohim tullukunata ch'iqirirqan qamta muyuriptinkuna. P'inqachirqanki, imarayku Elohim ch'usaqcharqankuta.",
+ "tokens": [
+  {
+   "surface": "שם",
+   "gloss": "chaypi"
+  },
+  {
+   "surface": "פחדו",
+   "gloss": "mancharikurqanku"
+  },
+  {
+   "surface": "פחד",
+   "gloss": "mancharikuyta"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "היה",
+   "gloss": "karqan"
+  },
+  {
+   "surface": "פחד",
+   "gloss": "mancharikuy"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imarayku"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "פזר",
+   "gloss": "ch'iqirirqan"
+  },
+  {
+   "surface": "עצמות",
+   "gloss": "tullukunata"
+  },
+  {
+   "surface": "חנך",
+   "gloss": "qamta muyuriptinkuna"
+  },
+  {
+   "surface": "הבשתה",
+   "gloss": "p'inqachirqanki"
+  },
+  {
+   "surface": "כי",
+   "gloss": "imarayku"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "מאסם",
+   "gloss": "ch'usaqcharqankuta"
+  }
+ ],
+ "timestamp": "2026-09-08T14:14:39.231763949Z",
+ "model": "glm-5.3"
+}

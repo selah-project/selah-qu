@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Yahwepa wasin patiochakunapi, Qam chawpinpi, Yerushalayim (Jerusalén): Yahta yupaychay, iñaqkuna.",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "patiochakunapi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "Qam chawpinpi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim (Jerusalén)"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yupaychay"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:10.821368710Z",
+  "model": "glm-5.3"
+}

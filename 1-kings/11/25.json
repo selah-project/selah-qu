@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chaysi ⟨⟨pay⟩⟩ Israelpa amachaqninqa karqan Shelomopa sapa p'unchawinkunapi; hinaspa ⟨את⟩ llakilla rurasqantam Hadadpa, Israelwan sinchita q'aminakurqan, hinaspa Arampi apu karqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "amachaqninqa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawinkunapi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomopa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llakilla rurasqanta Hadadpa"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "llakilla rurasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadpa"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "sinchita q'aminakurqan"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelwan"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "apu karqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arampi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:08:51.670060108Z",
+  "model": "glm-5.3"
+}

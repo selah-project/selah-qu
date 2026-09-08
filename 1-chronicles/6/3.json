@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa Kehatpa churinkuna: Amram, Itsar, Hevron hinaspa Uzziel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Hinaspa ... churinkuna"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatpa"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "Itsar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "hinaspa Uzziel"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:50.769282445Z",
+  "model": "glm-5.3"
+}

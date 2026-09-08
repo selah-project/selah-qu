@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Imaraykum wañuypa unu mast'akunan ñuqata muyurqanku; Beliyalpa (mana chaninniyuq) q'ata mayunkuna ñuqata mancharichirqanku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "ñuqata muyurqanku"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "unu mast'akuna"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuypa"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "q'ata mayunkuna"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyalpa (mana chaninniyuq)"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "ñuqata mancharichirqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T04:54:06.535987074Z",
+  "model": "glm-5.3"
+}

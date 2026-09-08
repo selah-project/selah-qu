@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Chaymanta paypaq wañuy yanapaysikunata willarusqanmi; paypa flechankunata ruphaq chasqonakunapaqmi allichan.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "chaymanta paypaq"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "willarusqan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "yanapaysikunata"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuy"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "paypa flechankunata"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "ruphaq chasqonakunapaq"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "allichanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:40.062648778Z",
+  "model": "glm-5.3"
+}

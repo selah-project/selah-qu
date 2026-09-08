@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 144,
+  "translation": "Illawan ch'askachiy, chaykunata t'aqarpariy; wach'iykikunata kachamuy, chaykunata thakichiy.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Illawan ch'askachiy"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "illa"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "chaykunata t'aqarpariy"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kachamuy"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "wach'iykikunata"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "chaykunata thakichiy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:57.280676722Z",
+  "model": "glm-5.3"
+}

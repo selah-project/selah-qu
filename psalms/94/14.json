@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Yahwem manam paypa runantinta saqinqanchu, paypa herenciantatapas manam saqinqanchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "saqinqanchu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paypa runantinta"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "paypa herenciantatapas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "saqinqanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:12.762372826Z",
+  "model": "glm-5.3"
+}

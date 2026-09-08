@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "hinaspa ⟨את⟩ saywachakunata ruwarqanmi, hinaspa ⟨את⟩ tiyanakunata ruwarqanmi saywachakunap patanpi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "saywachakuna"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "saywachakuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqanmi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tiyanakuna"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "tiyanakuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqanmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "saywachakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T12:55:42.043792220Z",
+  "model": "glm-5.3"
+}

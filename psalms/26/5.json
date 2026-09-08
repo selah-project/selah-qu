@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Mana allin ruraqkuna huñunakuyninta ikhuni, mana miyu runakunawan tiyakunichu.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ikhuni"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "huñunakuy"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "mana allin ruraqkuna"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "miyu runakuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "tiyakuni"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:42.700861483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Gibon (Gabaón)pi tiyaqkunam uyarqanku ⟨את⟩ imata Yehoshua ruwasqanta Yerijoman (Jericó), hinaspa Ayman (Hai)man.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uyarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata Yehoshua ruwasqanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwasqanta"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Yerijoman"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "hinaspa Ayman"
+    }
+  ],
+  "timestamp": "2026-09-08T03:12:57.472523463Z",
+  "model": "glm-5.3"
+}

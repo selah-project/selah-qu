@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 75,
+  "translation": "Churasqa pachata ñuqa chaskijtiy, ñuqam chiqapta taripakuni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaskijtiy"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "chaskini"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "churasqa pacha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "chiqapta"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "taripakuni"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:47.375028364Z",
+  "model": "glm-5.3"
+}

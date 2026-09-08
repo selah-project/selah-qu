@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 82,
+  "translation": "Manam yachankuchu, manataq hunt'anchankuchu; ch'antasqa amsapipunim purinku; hallp'ap llapan tiyan sayayninkunam thakikunqa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam...chu"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "yachanku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq...chu"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "hunt'anku"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "ch'antasqa amsapipun"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "purinku"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "thakikunqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "tiyan sayayninkuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:05:16.016709539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 64,
+  "translation": "Pakallawawaymi llutaqkunap pakasqa huñunakuyninmanta, mana allin llamk'aqkunap ch'aqwanmanta.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Pakallawawaymi"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "pakasqa huñunakuyninmanta"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "llutaqkunap"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "ch'aqwanmanta"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "llamk'aqkunap"
+    },
+    {
+      "surface": "און",
+      "gloss": "mana allin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:01.635361790Z",
+  "model": "glm-5.3"
+}

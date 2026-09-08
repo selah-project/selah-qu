@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa Kenaan (Canaán)mi ⟨את⟩ Tsidonta (Sidón), paypa ñawpaq paqariqninta, hinaspa ⟨את⟩ Hetta (Hete) paqarirqan.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "hinaspa Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidonta"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidonta"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "paypa ñawpaq paqariqnin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hetta"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:28:52.173730335Z",
+  "model": "glm-5.3"
+}

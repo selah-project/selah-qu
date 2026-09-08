@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Muchuchiptinku ⟨את⟩ payta, chayhinam askha mirarqanku, chayhinam paskarqanku; chaysi Israelpa churinkunap ñawpaqen mancharikurqanku.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "muchuchiptinku"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "muchuchinku"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "mirarqanku"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "chayhina"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "paskarqanku"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "mancharikurqanku"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:17.770829140Z",
+  "model": "glm-5.3"
+}

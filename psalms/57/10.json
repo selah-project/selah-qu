@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 57,
+  "translation": "Adonay, runakunapi qamta sumiykusa, llaqtakunapipas qamta takikusa.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "qamta sumiykusa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "runakunapi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "qamta takikusa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "llaqtakunapi"
+    },
+    {
+      "surface": "אמים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:57.734979541Z",
+  "model": "glm-5.3"
+}

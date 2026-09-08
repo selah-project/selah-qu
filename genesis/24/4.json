@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Aswanpas ñuqap hallp'ayman, ñuqap paqarisqayman rinayki; hinaspa warmita ñuqap churiykimanta, Itsjakpaq (Isaac) chaskinkichik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "aswanpas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ñuqap hallp'ayman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ñuqap paqarisqayman"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "rinayki"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "chaskinkichik"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "warmita"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ñuqap churiykimanta"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Itsjakpaq (Isaac)"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:19.980701826Z",
+  "model": "glm-5.3"
+}

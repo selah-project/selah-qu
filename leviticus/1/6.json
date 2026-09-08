@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa ⟨את⟩ olata qaranta hurqunqa, hinaspa ⟨את⟩ payta kikin t'aqakunaman kuchunqa.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "qaranta hurqunqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olata"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ola"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "kuchunqa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "kikin t'aqakunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:49:09.044629894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Hinaspa Itsjakpa (Isaac) p'unchawkunaqa pachak wata hinaspa pusaq chunka watam karqan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjakpa (Isaac)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "hinaspa pusaq chunka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:50.849846180Z",
+  "model": "glm-5.3"
+}

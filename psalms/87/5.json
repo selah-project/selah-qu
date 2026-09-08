@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 87,
+  "translation": "Hinaspa Tsiyonmanta nisqa kanqa: kay runapas, chay runapas paypi paqarirqanmi; hinaspa Elyonmi payta sayarichinqa.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "hinaspa Tsiyonmanta"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "nisqa kanqa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kay runapas"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "hinaspa chay runapas"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "paqarirqan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "paypi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "hinaspa paytaq"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "sayarichinqa"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:20.791047781Z",
+  "model": "glm-5.3"
+}

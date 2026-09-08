@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 63,
+  "translation": "Paykunataq ñit'ikurqanku, hinaspa ⟨את⟩ pay santun Espiritunta llakichirqanku; chayrayku paymi awqan hina paykunaman tukurqan, paymi paykunawan awqanakurqan.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "paykunataq"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ñit'ikurqanku"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "hinaspa llakichirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pay santun Espiritunta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Espiritun"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santun"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "awqan hina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "awqanakurqan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunawan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:43:34.424894045Z",
+  "model": "glm-5.3"
+}

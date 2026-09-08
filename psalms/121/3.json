@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 121,
+  "translation": "Ama saqinchu qampa chakita sarunchananpaq; qamta waqaychaq ama puñunmanchu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "saqinchu"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "sarunchananpaq"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "qampa chakita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "puñunmanchu"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "qamta waqaychaq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:31.330560824Z",
+  "model": "glm-5.3"
+}

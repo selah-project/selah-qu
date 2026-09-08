@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chaynillatajm ⟨את⟩ chayta mihunkichik: sinkunkichik ch'itisqa, usutakunachik chakinkichikpi, t'astakunachik makiykichikpi; hinaspa ⟨את⟩ chayta utqaylla mihunkichik; Pesajmi, Yahwepaq.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "chaynillataj"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mihunkichik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chayta"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "sinkunkichik"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "ch'itisqa"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "usutakunachik"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "chakinkichikpi"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "hinaspa t'astakunachik"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "makiykichikpi"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "hinaspa mihunkichik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chayta"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "utqaylla"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaj"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨kan⟩mi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:57.510771135Z",
+  "model": "glm-5.3"
+}

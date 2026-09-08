@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Wiñaypaq kamachiqman, k'anchay waqachinawan, yachachiq qillqa, Davidpa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Wiñaypaq kamachiqman"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "k'anchay waqachinawan"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "yachachiq qillqa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:43.891005159Z",
+  "model": "glm-5.3"
+}

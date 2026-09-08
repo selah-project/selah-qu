@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hinaspa Jetsronmi ⟨את⟩ Ramta wachachirqan, hinaspa Rammi ⟨את⟩ Aminadavta wachachirqan.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "hinaspa Jetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wachachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramta"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "hinaspa Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wachachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadavta"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    }
+  ],
+  "timestamp": "2026-09-08T11:31:31.740868305Z",
+  "model": "glm-5.3"
+}

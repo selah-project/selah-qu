@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa David apu machurqanmi, p'unchawkunapi yaykurqan; p'achakunawan qhatiykurqanku, ichaqa manam q'uñi chayaqchu karqan payman.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "hinaspa apu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "machurqan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaykurqan"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "qhatiykurqanku"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "p'achakunawan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichaqa mana"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "q'uñi chayaq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:56:28.871638831Z",
+  "model": "glm-5.3"
+}

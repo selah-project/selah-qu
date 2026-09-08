@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Elohim saqesqan nispa: qatipuy, hap'iychik, amataq amachaq kachkanchusí nispa.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "saqesqan"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "qatipuy"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "hap'iychik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "amachaq kachkanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:34.639428089Z",
+  "model": "glm-5.3"
+}

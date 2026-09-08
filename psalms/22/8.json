@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Ñawiywan qhawaqkuna llapam ñuqata asipawanku; wirp'ankunata kichaspa asin, umantawan kuyuchispa nispa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ñawiywan qhawaqkuna"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "asipawanku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqata"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "wirp'ankunata kichaspa"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "wirp'an (simiwan)"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "umantawan kuyuchispa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "uman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:35.590366668Z",
+  "model": "glm-5.3"
+}

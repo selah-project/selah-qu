@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Hinaspa aqham runap sonqunta kusichin, llik'awanmi sonqonta ñawinchaypaq, hinallataq t'antam runap sonqunta chayanchin.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "hinaspa aqha"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "kusichin"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sonqu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "runap"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "llik'ichiy"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawikuna"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "llik'inamanta"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "hinaspa t'anta"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sonqu"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "runap"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "chayanchin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:56.138121013Z",
+  "model": "glm-5.3"
+}

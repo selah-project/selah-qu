@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hinaspa ⟨את⟩ wirata wakamanta, karnirumantawan: ch'uspa wira, ukhunta p'istuykuq, insalakuna, hinaspa hígadopa llusk'anintawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wirata"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "wira"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "השור",
+      "gloss": "waka"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hinaspa ... manta",
+      "gloss_note": null
+    },
+    {
+      "surface": "האיל",
+      "gloss": "karniru"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "ch'uspa wira"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "ukhunta p'istuykuq"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "insalakuna"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "llusk'anin"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "hígado"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:25.565831778Z",
+  "model": "glm-5.3"
+}

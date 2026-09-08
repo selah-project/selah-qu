@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Ichikusqam chay llaqta, mayqinpa Yahwe Elohimnin kaptin; chay runakunataqmi paypaq herenciatahina akllasqa.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ichikusqa"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "chay llaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinpa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "chay runakuna"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "akllasqa"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "herenciatahina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:09.608408488Z",
+  "model": "glm-5.3"
+}

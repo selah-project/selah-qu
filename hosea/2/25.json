@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa payta ñuqapaq hallp'ipi tarpuwanim; hinaspa ⟨את⟩ Mana Khuyasqata khuyawanim; hinaspa Mana Runaykunaman niwanim: «Qam runaymi kanki»; hinaspa pay ninqam: «Elohimniymi kanki».",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "hinaspa payta tarpuwanim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'ipi"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "hinaspa khuyawanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mana Khuyasqata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Khuyasqa"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "hinaspa niwanim"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Runaykunaman"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "hinaspa pay"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ninqam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    }
+  ],
+  "timestamp": "2026-09-08T08:43:34.875470538Z",
+  "model": "glm-5.3"
+}

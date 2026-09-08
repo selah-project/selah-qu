@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Cheqniqkunap munasqanqa allinllam; millaykunap suyaytaq phiñarikuyllam.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "munasqan"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "cheqniqkunap"
+    },
+    {
+      "surface": "אך",
+      "gloss": "llata"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "suyay"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "millaykunap"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "phiñarikuy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:40:43.258221322Z",
+  "model": "glm-5.3"
+}

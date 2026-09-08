@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Churirqankumm ⟨את⟩ p'achankunanta Ashtarotpa wasinpi, hinaspa ⟨את⟩ kurkunta Beth Shanpa perqapi tak'arqankumm.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "churirqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'achankunanta"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "p'achankunanta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarotpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kurkunta"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "kurkunta"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "tak'arqankum"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "perqapi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beth"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:32:15.576158200Z",
+  "model": "glm-5.3"
+}

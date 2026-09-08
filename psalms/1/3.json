@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chay runaqa unu phawaqkunap chaynanpi plantasqa sach'ahina ⟨kan⟩mi, chaypay rurun paypa pachanpa quin, paypa raphinmanam chinkanchu, llapan rurasqanqa allinta lluqsinmi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "⟨kan⟩mi"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "sach'ahina"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "plantasqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "chaynanpi"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "phawaqkunap"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chaypay"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "rurun"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "quin"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "paypa pachanpa"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "paypa raphin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "chinkanchu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "rurasqan"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "rurasqanqa"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "allinta lluqsinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:41.186626747Z",
+  "model": "glm-5.3"
+}

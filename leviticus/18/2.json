@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Rimay Israelpa churinkunaman, hinaspa qamkunaman ninki: ñuqam Yahwe, qamkunap Elohimniykichik.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Rimay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "hinaspa ninki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T01:01:49.626551332Z",
+  "model": "glm-5.3"
+}

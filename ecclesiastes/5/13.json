@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chay qollqitaqa mana allin ruraywanmi chinkachin, chaywantaq churiyta paqarichin, makinpiqataq mana imapas kanchu.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "chinkachin"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "chay qollqita"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "ruraywan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "churiyta paqarichin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana imapas kanchu"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "makinpi"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "imapas"
+    }
+  ],
+  "timestamp": "2026-09-08T11:40:54.171824036Z",
+  "model": "glm-5.3"
+}

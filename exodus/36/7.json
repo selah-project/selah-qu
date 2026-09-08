@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Hinaspa llamk'anamaterialqa llapa llamk'anata ⟨את⟩ chayta ruranapaq hayllam karqan, hinaspa qarqaraqmi.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "hinaspa llamk'anamaterialqa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "karqanm"
+    },
+    {
+      "surface": "דים",
+      "gloss": "haylla"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "llamk'anata"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruranapaq"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "llapa llamk'anata chayta"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "hinaspa qarqaraqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:46:51.699054449Z",
+  "model": "glm-5.3"
+}

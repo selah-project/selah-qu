@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Eli payman nirqan: Hayk'akama machanki? ⟨את⟩ apanaykita qespichi, ñuqamanta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "payman"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hayk'a-"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hayk'akama"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "machanki"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "qespichi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apanaykita"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "apanayki"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ñuqamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T04:02:19.235456047Z",
+  "model": "glm-5.3"
+}

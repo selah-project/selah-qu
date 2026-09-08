@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Mikhunkum, p'incachinku hallp'apa llapa qhallikuna ñawpaqen; k'umunku llapa q'illaysiyaman uraqkuna; kawsaynintaq manam kikin kawsachinqachu.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "mikhunku"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "p'incachinku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "qhallikuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'apa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "k'umunku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "uraqkuna"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "q'illaysiyaman"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "kawsayninta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kawsachinqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:32.017588876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Chaym Yehoshuam (Josué) ⟨את⟩ kohenkunata (sacerdote) kamachirqan, nispa: Yardenmantam (Jordán) wichayku.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "kamachirqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohenkunata"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkunata"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "wichayku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenmantam"
+    }
+  ],
+  "timestamp": "2026-09-08T03:06:03.123997604Z",
+  "model": "glm-5.3"
+}

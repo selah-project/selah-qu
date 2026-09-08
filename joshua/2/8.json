@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Paykunaqa manaraq puñunakusqanku, paytaq wasip hawaninman ñawpaqta sayarirqaku hawanaman ñawpaqta payman chayamurqan.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "paykunaqa"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "manaraq"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "puñunakusqanku"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "paytaq"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "sayarirqaku ... chayamurqan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "payman"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanaman"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "wasip hawaninman"
+    }
+  ],
+  "timestamp": "2026-09-08T03:05:32.875498598Z",
+  "model": "glm-5.3"
+}

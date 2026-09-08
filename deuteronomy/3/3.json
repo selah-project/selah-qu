@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yahwe Elohimninchikmi paytawan — Og, Bashan apu — llapa runanwan makiyanchikman churarqan; ñuqanchikmi paykunata nanachirqayku, payman huk qispichikuq saqisqapas mana kachkaptin.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchik"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "makiyanchikman"
+    },
+    {
+      "surface": "גם",
+      "gloss": "paytawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ogta"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Ogta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa runanta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "runanta"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "nanachirqayku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mana kachkaptin"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "mana"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "saqisqapas"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "qispichikuq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:28:38.035035984Z",
+  "model": "glm-5.3"
+}

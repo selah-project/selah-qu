@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Wataqpa ñak'ariyninta uyarinanpaqmi, wañunapaq churinkunata paskananpaq.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "uyarinanpaqmi"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "ñak'ariyninta"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "wataqpa"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "paskananpaq"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunata"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "wañunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:43.948597001Z",
+  "model": "glm-5.3"
+}

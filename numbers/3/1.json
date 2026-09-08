@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Kaykunam Aharonpa (Aarón) Moshepa (Moisés) paqarimuyninku, p'unchawmi Yahwem ⟨את⟩ Moshewan rimarqan Sinay (Sinaí) urqupi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kaykunam"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "paqarimuyninku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonpa (Aarón)"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "Moshepa (Moisés)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawmi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe (Moisés)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshewan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqupi"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay (Sinaí)"
+    }
+  ],
+  "timestamp": "2026-09-08T01:17:38.118683052Z",
+  "model": "glm-5.3"
+}

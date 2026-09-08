@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Paym runankunaman nirqanm: Qhawariy, Israelpa churinkunap runan askham, ñuqanchikmantam aswan sinchim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "runankunaman"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "רב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ñuqanchikmanta aswan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:17.770097489Z",
+  "model": "glm-5.3"
+}

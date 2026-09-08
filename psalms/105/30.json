@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Wacharqanmi hallp'anku hamp'atukunata, apunkuna ukhukunapipas.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "wacharqan (achkayachispa)"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hallp'anku"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "hamp'atukuna"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "ukhukunapi"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "apunkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:13.136343975Z",
+  "model": "glm-5.3"
+}

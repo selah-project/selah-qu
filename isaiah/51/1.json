@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Uyariychik ñuqaman, tsedeqta qatichkuqkuna, Yahweta maskakuqkuna: qhawaychik rumiman, maymanta kuchisqa kankichik, hinallataq chuqullpa ukhunman, maypi qhorisqa kankichik.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Uyariychik"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "qatichkuqkuna"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "maskakuqkuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "qhawaychik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "rumiman (man)"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "kuchisqa kankichik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinallataq man"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "ukhu"
+    },
+    {
+      "surface": "בור",
+      "gloss": "chuqull"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "qhorisqa kankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T06:37:37.577798879Z",
+  "model": "glm-5.3"
+}

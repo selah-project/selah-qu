@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 112,
+  "translation": "Mana allin runa qhawaspa phinakunqami, kirunkunata kirukachispa chinkapunqa; mana allin runakunap munasqankuna chinkanqami.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "mana allin runa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "phinakunqami"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "kirunkunata"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "kirukachispa"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "chinkapunqa"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "munasqankuna"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mana allin runakunap"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "chinkanqami"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:30.182639830Z",
+  "model": "glm-5.3"
+}

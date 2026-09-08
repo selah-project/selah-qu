@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 118,
+  "translation": "Muyuwanku ch'uspikuna hina; nina k'itukuna hina wisq'akurqankum; ichataqmi Yahwep Sutinwan chinkachinkimanmi.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Muyuwanku"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "ch'uspikuna hina"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "wisq'akurqankum"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "nina hina"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "k'itukuna"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Sutinwan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ichataqmi"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "chinkachinkimanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:07.259255159Z",
+  "model": "glm-5.3"
+}

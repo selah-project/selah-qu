@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Kachariwaway k'anchayniykita, cheqayniykitawan; chaykuna ñuqata pusanku, ñuqata apamunkisqanku santo orqoykiman, wasiykikunamanpas.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "kachariwaway"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "k'anchayniykita"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "cheqayniykitawan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "chaykuna"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "ñuqata pusanku"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "ñuqata apamunkisqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "santo orqoykiman"
+    },
+    {
+      "surface": "הר",
+      "gloss": "orqo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "santoyki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "wasiykikunamanpas"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "wasiykikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:04.168531796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Kay pachap apukuna sayarqankum, hinaspa kuraqkunapas huñunallapi huñunakurqan, Yahwepa hayñinpi, Mashiajinta hayñinpipas.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "sayarqanku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "kay pachap"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "hinaspa kuraqkunapas"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "huñunakurqan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "huñunallapi"
+    },
+    {
+      "surface": "על",
+      "gloss": "hayñinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hayñinpipas"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiajinta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:00.517515996Z",
+  "model": "glm-5.3"
+}

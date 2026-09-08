@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Chaymanta ⟨את⟩ uyanta qiriman tikrarqan, hinaspa Yahweman mañakurqan, nimanpaq:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "tikrarqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyanta"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uyan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qiriman"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "qiri"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "mañakurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nimanpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:45:32.469251610Z",
+  "model": "glm-5.3"
+}

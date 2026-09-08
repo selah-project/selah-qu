@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 1:4",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa mast'asaqmi ñuqap makita Yehudahpi hinaspa Yerushalayimpa (Jerusalén) llapan kawsaqninkunapi; hinaspa kay lagamanta kuchusaqmi ⟨את⟩ Baalpa (Baal) chaskikunata, ⟨את⟩ kemarikunap sutinta, kohenkunawan.",
+  "tokens": [
+    {
+      "surface": "ונטיתי",
+      "gloss": "mast'asaqmi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ñuqap makita"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudahpi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa...pi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "kawsaqninkunapi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimpa"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "kuchusaqmi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "laga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalpa chaskikunata"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "chaskikunata"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baalpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemarikunap sutinta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "kemarikunap"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:14:44.314959906Z",
+  "model": "glm-5.3"
+}

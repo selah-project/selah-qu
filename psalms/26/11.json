@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Ñuqaqtaq t'uqlla kayniywan purisaqmi; qispichiykuway, hinaspa khuyapakuway.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ñuqaqtaq"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "t'uqlla kayniywan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "purisaqmi"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "qispichiykuway"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "hinaspa khuyapakuway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:15.349617554Z",
+  "model": "glm-5.3"
+}

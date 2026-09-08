@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Chayraykumi sunquy kusikun, hatun kayniy phawakuspa kusikunmi, aychallaypas hinirallapi tiyakunmi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "chayraykumi"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "kusikun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquy"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "phawakuspa kusikunmi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "hatun kayniy"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "aychallaypas"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "tiyakunmi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "hinirallapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:22.105011195Z",
+  "model": "glm-5.3"
+}

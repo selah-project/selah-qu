@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa kutichispa ninkum: Makiyku mana cuchurqaykuchu ⟨את⟩ kay yawarta, hinaspa ñawiyku mana qhawarqaykuchu.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "kutichispa"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ninku"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Makiyku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "cuchurqaykuchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay yawarta"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "kay yawarta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ñawiyku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "qhawarqaykuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T02:45:53.455615125Z",
+  "model": "glm-5.3"
+}

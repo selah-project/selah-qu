@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 6:3",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Kohengaq badamanta churan churarqan, badamanta churakunatataq aychaninpi churarqan; hinaspa altarpata yanawanpi olahta mikhuq ninan ⟨את⟩ ashenta hurqurqan, hinaspa ⟨את⟩ ashenta altarpa ch'epan churarqan.",
+  "tokens": [
+    {
+      "surface": "ולבש",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohengaq"
+    },
+    {
+      "surface": "מדו",
+      "gloss": "churan"
+    },
+    {
+      "surface": "בד",
+      "gloss": "badamanta"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "churakunatawan"
+    },
+    {
+      "surface": "בד",
+      "gloss": "badamanta"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "aychanin"
+    },
+    {
+      "surface": "והרים",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashenta"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ashenta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mikhuq"
+    },
+    {
+      "surface": "האש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olahta"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarpata"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ch'epan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altarpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:53:45.299188710Z",
+  "model": "glm-5.3"
+}

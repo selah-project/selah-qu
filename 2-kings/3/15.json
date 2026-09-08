@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "«Kunantaq ñuqaman huk takiqta apayichiy». Chayqa takiq takiqtin Yahwepa makin paypa chayamurqanmi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunantaq"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "apayichiy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "takiqta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "takiqtin"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "takiq"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "chayamurqanmi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "makin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:25:30.047352230Z",
+  "model": "glm-5.3"
+}

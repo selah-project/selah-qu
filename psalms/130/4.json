@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 130,
+  "translation": "Qampawanmi ⟨kan⟩ pampachay, chayrayku Qamta manchakunqaku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Qampawan"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "pampachay"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "manchakunqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T14:17:08.328473522Z",
+  "model": "glm-5.3"
+}

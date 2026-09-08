@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Kutimurqanmi wawqenkunaman, nirqanmi: Wawachaqa mana kanchu; ñuqataq maymanmi ñuqa risaq?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutimurqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…man"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqenkunaman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wawacha"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ñuqataq"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "mayman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "risaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:11:31.391518218Z",
+  "model": "glm-5.3"
+}

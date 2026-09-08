@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 4:46",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Yardenpa chaynan ladopi, wayqopi, Bet Peorpa qayllapi, Sihonpa hallp'inpi, Emorikunap apunpa, Heshbonpi tiyaq, mayqinta Moshe hinaspa Israelpa wawankunawan maqarqanku, Mitsrayimmanta lluqsispaku.",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "chaynan ladopi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yardenpa"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "wayqopi"
+    },
+    {
+      "surface": "מול",
+      "gloss": "qayllapi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'inpi"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihonpa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apunpa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorikunap"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Heshbonpi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "maqarqanku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "hinaspa wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "lluqsispaku"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:29:53.476602989Z",
+  "model": "glm-5.3"
+}

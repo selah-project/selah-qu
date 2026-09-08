@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Kerub patapi purirqan hinaspa phawayarqan; wayra phawanpim phawasayarqan.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "Kerub"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "phawayarqan"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "phawasayarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "phawanpi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:10.015594669Z",
+  "model": "glm-5.3"
+}

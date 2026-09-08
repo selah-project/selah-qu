@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Kurakaykikunam, hinaspa taripakuqykikunam lluqsinku, wañusqap muyuriqninpi kaq llaqtakunaman tupunku.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "lluqsinku"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "kurakaykikuna"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "hinaspa taripakuqykikuna"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "tupunku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "llaqtakunaman"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "muyuriqninpi kaq"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "wañusqap"
+    }
+  ],
+  "timestamp": "2026-09-08T02:48:20.861266694Z",
+  "model": "glm-5.3"
+}

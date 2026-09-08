@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Hinaspa ⟨את⟩ k'anchaypa k'anchanata, hinaspa ⟨את⟩ llamk'anankunanta, hinaspa ⟨את⟩ lamparankunata, hinaspa ⟨את⟩ k'anchaypaq wiratawan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "k'anchaypa k'anchanata"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "k'anchana"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "k'anchaypa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llamk'anankunanta"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "llamk'anankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "lamparankunata"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "lamparankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "k'anchaypaq wiratawan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wira"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "k'anchaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:22.725533390Z",
+  "model": "glm-5.3"
+}

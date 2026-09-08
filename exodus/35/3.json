@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Ama ninta waqaykachichunkichu qankunap tukuy kawsay wasikunapi Shabat p'unchawpi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama ... -chu"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "waqaykachichunkichu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ninta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "kawsay wasikunapi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:55.091163726Z",
+  "model": "glm-5.3"
+}

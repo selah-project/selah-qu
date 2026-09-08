@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 130,
+  "translation": "Shir hama'alot (hunt'asqa pachakunapa takin). Ukhukunamanta qayarqani qamta, Yahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Shir"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "hama'alot (hunt'asqa pachakunapa)"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "ukhukunamanta"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "qayarqani qamta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:21.812459811Z",
+  "model": "glm-5.3"
+}

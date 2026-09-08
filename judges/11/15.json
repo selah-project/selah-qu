@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Payman nirqan: kay hinam Yiftakh nin: Israelqa mana chaskirqanchu ⟨את⟩ Moabpa hallp'anta, hinaspa ⟨את⟩ Amonpa wawankunap hallp'anta.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kay hina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nin"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftakh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "chaskirqanchu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabpa hallp'anta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Amonpa wawankunap hallp'anta"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amonpa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:33:17.177882728Z",
+  "model": "glm-5.3"
+}

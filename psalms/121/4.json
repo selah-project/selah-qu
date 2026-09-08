@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 121,
+  "translation": "Qhawariy: Israelta waqaychaq mana puñunmanchu, manataq saminchawanchu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhawariy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "puñunmanchu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "saminchawanchu"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "waqaychaq"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:31.330809031Z",
+  "model": "glm-5.3"
+}

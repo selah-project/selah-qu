@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 92,
+  "translation": "Yahwe, ¡ima hatunmi rurasqaykikuna! ¡ima ukhumi yuyaykikuna!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "hatunmi kanku"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "rurasqaykikuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "ukhumi kanku"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "yuyaykikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:33.052692975Z",
+  "model": "glm-5.3"
+}

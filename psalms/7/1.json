@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Shigayon Davidpa (David), mayqentak Yahweman takirqanmi Kushpa (Cush) rimanankunamanta, Benyaminpa (Benjamín) churinmanta.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigayon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa (David)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqentak"
+    },
+    {
+      "surface": "שר",
+      "gloss": "takirqanmi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "rimanankuna"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushpa (Cush)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Benyaminpa (Benjamín)"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:49.317149544Z",
+  "model": "glm-5.3"
+}

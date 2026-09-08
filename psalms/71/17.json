@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Elohim, ñawpa wawalla kaptiywan yachachimuwanki, kaykamawan; kunanraq willaqmi kani: llipiyaq rurasqaykikunata willasaqmi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "yachachimuwanki"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ñawpa wawalla kaptiywan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kaykamawan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kunanraq"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "willaqmi kani"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "llipiyaq rurasqaykikunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:59:19.032810108Z",
+  "model": "glm-5.3"
+}

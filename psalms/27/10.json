@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Taytay hinaspa mamay saqerpariwaspaqa, Yahwem qawasqa p'unchawmi ñuqata huñunqakuwawqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…qa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Taytay"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "hinaspa mamay"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "saqerpariwaspa"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "huñunqakuwawqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:14.296603641Z",
+  "model": "glm-5.3"
+}

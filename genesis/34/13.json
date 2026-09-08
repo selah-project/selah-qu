@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Yaakovpa churinkuna llullawan kutirirqankum ⟨את⟩ Shekemta hinaspa ⟨את⟩ Chamor taytaninta, rimarqanku imaraykuchus pay ⟨את⟩ Dinata, pananta, millayachirqan.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "kutirirqankum"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekemta"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Chamor taytaninta"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Chamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytaninta"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "llullawan"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "rimarqanku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "millayachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dinata"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dinata"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "pananta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:09:30.278792939Z",
+  "model": "glm-5.3"
+}

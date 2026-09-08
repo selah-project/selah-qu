@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Yahwepa juramento iskayninpa chawpinpi kanqa, masinpa rurasqanman mana makin churaspachu kaptinpa qawarinanpaq; kamachikuqnin chaskinqa, chiqanchaqtaqa pagankachunñachu.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "juramento"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iskayninpa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kaptinpa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "churaspachu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makin"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "rurasqanman"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "masinpa"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "chaskinqa"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "kamachikuqnin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ñachu"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "pagankachun"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:29.814644986Z",
+  "model": "glm-5.3"
+}

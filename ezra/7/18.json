@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 7:18",
+  "book": "ezra",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Imataq qampas wawqiykikunawanpas allin rikurinqa chay qullqi qori puchakunawan ruwanapaq, chayta Elahanikichikpa munasqankamam ruwankichik.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qampas"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "wanpas"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wawqiykikunawan"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "allin rikurinqa"
+    },
+    {
+      "surface": "בשאר",
+      "gloss": "puchanpi"
+    },
+    {
+      "surface": "כספא",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "ודהבה",
+      "gloss": "qoriwan"
+    },
+    {
+      "surface": "למעבד",
+      "gloss": "ruwanapaq"
+    },
+    {
+      "surface": "כרעות",
+      "gloss": "munasqankama"
+    },
+    {
+      "surface": "אלהכם",
+      "gloss": "Elahanikichik"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "ruwankichik"
+    }
+  ],
+  "timestamp": "2026-09-08T12:16:03.502703553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Payqa nirqan: Imata ruranki? Wawqiykip yawarninpa qapariynin ñuqaman hallp'amanta qaparinmi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ruranki"
+    },
+    {
+      "surface": "קול",
+      "gloss": "qapariynin"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "yawarnin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "wawqiykip"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "qaparinmi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:09.668761713Z",
+  "model": "glm-5.3"
+}

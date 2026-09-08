@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Huk espíritusmi ñuqap ñawiq ñawpaqninpan karqan; ñuqap aychaypa chukchan sayarirqanmi.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "huk espíritusmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawapi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñuqap ñawiq ñawpaqninpan"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "sayarirqanmi"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "chukchan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ñuqap aychaypa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:58:29.890025846Z",
+  "model": "glm-5.3"
+}

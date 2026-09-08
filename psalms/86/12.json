@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 86,
+  "translation": "Adonay, Elohimniyta llapan sunquywan yupaychasaqmi, hinaspa Sutiykita wiñaypaq hatunchasaqmi.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "yupaychasaqmi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniyta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "sunquywan"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "hinaspa hatunchasaqmi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sutiykita"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:11.146095460Z",
+  "model": "glm-5.3"
+}

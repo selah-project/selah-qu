@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Makiyki rurasqankunapi kamachiyta qunki; llapanta chakinnin hichanpi churankim.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "kamachiyta qunki"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "rurasqankunapi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapanta"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "hichanpi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "chakinnin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:36.804701784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 127,
+  "translation": "Ch'itikuna sinchi awqaqp makipi kachkan hina, chaynahinam wayna pachapa churiykunalla.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "ch'itikuna"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makipi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "sinchi awqaqp"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynahinam"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiykuna"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "wayna pachapa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:36.815971686Z",
+  "model": "glm-5.3"
+}

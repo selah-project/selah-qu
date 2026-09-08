@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 112,
+  "translation": "Ch'iraw ukhupim k'anchay chaqra runakunaman llinphiyachkan: khuyakuqmi, llinphayuqmi, cheqanmi.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "llinphiyachkan"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ch'iraw ukhupi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "k'anchay"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "chaqra runakunaman"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "khuyakuq"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "llinphayuq"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "cheqan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:19:04.363073100Z",
+  "model": "glm-5.3"
+}

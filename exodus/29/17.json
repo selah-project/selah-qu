@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa ⟨את⟩ karnerota t'aqakunaman kuchunki, chaypa ukhuntawan chakanpakunawanwan maqch'ayunki, chaykunata chay t'aqakunapampapi, umanpipas churanki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "karnerota"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "karnerota"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "t'aqakunaman kuchunki"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "t'aqakunaman"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "hinaspa maqch'ayunki"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "chaypa ukhun"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "chakanpakunawanwan"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "churanki"
+    },
+    {
+      "surface": "על",
+      "gloss": "pampapi"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "t'aqakunap"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa pampapi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umanpipas"
+    }
+  ],
+  "timestamp": "2026-09-08T00:41:32.925253028Z",
+  "model": "glm-5.3"
+}

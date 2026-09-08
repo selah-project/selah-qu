@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Chayrayku hananpi tiyaqkunata urayachirqanmi, hanan llaqtata; payta urayachirqan hallp'akama, payta aquman chayarqanmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "השח",
+      "gloss": "urayachirqan"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "tiyaqkuna"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hananpi"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "hanan"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "payta urayachirqan"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "urayachirqan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "payta chayarqan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "aquman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:06:58.169281078Z",
+  "model": "glm-5.3"
+}

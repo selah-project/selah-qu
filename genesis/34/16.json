@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Chayqa qamkunaman qonqayku ⟨את⟩ ususiykuta, hinaspa ⟨את⟩ qamkunap ususiykichikta ñuqaykuman chaskisqayku, ⟨את⟩ qamkunawan kawsasqayku, huk runalla tukusqaykumi.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "qonqayku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ususiykuta"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ususiykuta"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "ususiykichikta"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ususiykichikta"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "chaskisqayku"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqaykuman"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "kawsasqayku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunawan"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "tukusqaykumi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "huk runalla"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-08T00:09:30.279435182Z",
+  "model": "glm-5.3"
+}

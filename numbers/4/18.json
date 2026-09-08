@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 4:18",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Ama ⟨את⟩ Kehatpa ayllunkunata Levikunap chawpinmanta kuchunkichikchu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תכריתו",
+      "gloss": "kuchunkichikchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kehatpa ayllunkunata"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "mit'a"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ayllunkuna"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Kehatpa"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "chawpinmanta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T01:17:05.450310725Z",
+  "model": "glm-5.3"
+}

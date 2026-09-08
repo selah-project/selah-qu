@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 125,
+  "translation": "Imaraykuchus mana allin runakunap varanqa manam saminqachu chaninchasqa runakunap suyunpatapi, mana chaninchasqakunaqa makiykunata mana allinman churankuchu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "saminqachu"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "varan"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mana allin runakunap"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "suyninpi"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "chaninchasqa runakunap"
+    },
+    {
+      "surface": "למען",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "makiykunata churanku"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "chaninchasqakunaqa"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "mana allinman"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "makiykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:28.466846047Z",
+  "model": "glm-5.3"
+}

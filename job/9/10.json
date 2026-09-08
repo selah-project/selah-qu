@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Hatun ruranakunata ruranmi, maskhakuy mana atipasqankama; thaucharichikunatawan, yupayna mana kaptinkama.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ruranmi"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "hatun ruranakunata"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "maskhakuy mana atipasqan"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "thaucharichikunatawan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-kama"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "yupayna mana kaptin"
+    }
+  ],
+  "timestamp": "2026-09-08T11:01:26.870974089Z",
+  "model": "glm-5.3"
+}

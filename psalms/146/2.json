@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 146,
+  "translation": "Kawsayniypi Yahweta yupaychasaqmi; kawsayniy kachkaptinqa Elohimniyman takisaq.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "yupaychasaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "kawsayniypi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "takisaq"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimniyman"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "kawsayniy kachkaptin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:11.434722919Z",
+  "model": "glm-5.3"
+}

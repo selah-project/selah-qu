@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Chayqa Yahwepaq sumaqmi willkurumanta aswan — pura ranrayuq, ch'aqa chakayuq.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "sumaqmi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "משור",
+      "gloss": "willkurumanta"
+    },
+    {
+      "surface": "פר",
+      "gloss": "pura"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "ranrayuq"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ch'aqa chakayuq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:44.566122035Z",
+  "model": "glm-5.3"
+}

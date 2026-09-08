@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Yahwepa sach'ankunaqa hunt'asaqiyankumi, Lubnanpa sederkuna, mayqinkunata paym churamusqa.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "hunt'asaqiyanku"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "sach'akuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sederkuna"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lubnanpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkunata"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "churamusqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:56.138236499Z",
+  "model": "glm-5.3"
+}

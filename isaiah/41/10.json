@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Ama mankachuychu, qamwanmi ñuqam kani; ama llakikuychu, ñuqam ñuqap Elohimniyki kani; sinchichirqanim qanta, hinataq yanaparqanim qanta, hinataq cheqan paña makiywan saywachirqanim qanta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "mankachuychu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "llakikuychu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqam"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ñuqap Elohimniyki"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "sinchichirqanim qanta"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hinataq"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "yanaparqanim qanta"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hinataq"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "saywachirqanim qanta"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "paña makiywan"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "cheqan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:23:01.900435417Z",
+  "model": "glm-5.3"
+}

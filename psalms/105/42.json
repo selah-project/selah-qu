@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Imaraykuchus payqa munayninta yuyarqanmi: ⟨את⟩ willasqanta q'apaq kayninta, ⟨את⟩ Abrahamta (Abrahán), payta yanapaqninta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yuyarqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "willasqanta q'apaq kayninta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "willasqanta"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "q'apaq kayninta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahamta"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahamta (Abrahán)"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "payta yanapaqninta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:40.958436360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Ozniy, qamta suyani, imaraykuchus Elohimqa ñuqap hark'anmi.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Ozniy"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamta"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "suyani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ñuqap hark'anmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:18.102647042Z",
+  "model": "glm-5.3"
+}

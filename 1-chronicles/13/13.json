@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chayrayku Davidmi mana ⟨את⟩ Elohimpa arcata apaqchu karqan paypa llaqtanman, Davidpa llaqtanman, ichataq Oved Edom Getopa (el gitita) wasinman kuntirqan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "chayrayku mana … chu"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "apaqchu karqan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimpa arcata"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "Elohimpa arcata"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "paypa llaqtanman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqtanman"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "kuntirqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Getopa (el gitita)"
+    }
+  ],
+  "timestamp": "2026-09-08T12:40:06.309144868Z",
+  "model": "glm-5.3"
+}

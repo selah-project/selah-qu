@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 36:16",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Ama Chizkiyahuta uyariychikchu, imaraykuchus chaynam Ashur apum nirqan: Ñuqawan ⟨את⟩ amistadta ruwaychik, ñuqaman lluqsiychik; chaymanta mikhuychik sapa runa waynunta, sapa runa waytanunta, hinaspa upuychik sapa runa p'uyunpa ununta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "uyariychik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Chizkiyahuta"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chizkiyahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "כה",
+      "gloss": "chayna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apum"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ruwaychik"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ñuqawan"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "amistadta"
+    },
+    {
+      "surface": "וצאו",
+      "gloss": "hinaspa lluqsiychik"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mikhuychik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "waynunta"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "waytanunta"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "hinaspa upuychik"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ununta"
+    },
+    {
+      "surface": "בורו",
+      "gloss": "p'uyunpa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:20:31.645613181Z",
+  "model": "glm-5.3"
+}

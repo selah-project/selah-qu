@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaymi kohenqa Yahwep ñawpaqen q'imachinqa, rurqanmi ⟨את⟩ jatanta, hinaspa ⟨את⟩ olanta.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "q'imachinqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenqa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "rurqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jatanta"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "jatanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "olanta"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "olanta"
+    }
+  ],
+  "timestamp": "2026-09-08T01:19:29.796958236Z",
+  "model": "glm-5.3"
+}

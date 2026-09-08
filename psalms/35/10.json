@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Ñuqap llapa tulluykuna ninqaku: Yahwe, mayqenmi qamhina kanqa? Qataysapamanta wakchata qispichinki, wakchatawan wak wakllatawan pay q'awayuqmanta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ñuqap tulluykuna"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ninqaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "qamhina"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "qispichinki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wakcha"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "qataysapa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "manta"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "wakchatawan"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "wak wakllatawan"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "pay q'awayuqmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:32.367663782Z",
+  "model": "glm-5.3"
+}

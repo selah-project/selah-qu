@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Yerijoqa wichqasqa karqanmi, Israelpa wawankunap ñawpaqninta llapan ichikisqa wichqasqa karqanmi; mana pipas lluqsiq karqan, mana pipas yaykuq karqan.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Yerijoqa"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "wichqasqa karqanmi"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "llapan ichikisqa wichqasqa karqanmi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqninta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana pipas"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "lluqsiq karqan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana pipas"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yaykuq karqan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:09:17.554101327Z",
+  "model": "glm-5.3"
+}

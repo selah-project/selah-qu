@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "psalms 18:15",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 18,
+ "translation": "Chaysim pay paypa warak'akunata kachaspa chaykunata t'aqarqan, rayukunata achkachispa chaykunata paniqachirqan.",
+ "tokens": [
+  {
+   "surface": "וישלח",
+   "gloss": "kacharqan"
+  },
+  {
+   "surface": "חציו",
+   "gloss": "paypa warak'akunata"
+  },
+  {
+   "surface": "ויפיצם",
+   "gloss": "t'aqarqan"
+  },
+  {
+   "surface": "וברקים",
+   "gloss": "rayukunata"
+  },
+  {
+   "surface": "רב",
+   "gloss": "achkachispa"
+  },
+  {
+   "surface": "ויהמם",
+   "gloss": "paniqachirqan"
+  }
+ ],
+ "timestamp": "2026-09-08T09:36:04.580980272Z",
+ "model": "glm-5.3"
+}

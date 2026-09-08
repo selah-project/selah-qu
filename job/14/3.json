@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chaynapas kay runamanta ñawiykita kichankim, hinaspam ⟨את⟩ ñuqata qamwan taripanakuypim apuranki.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "chaynapas"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kay runa"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "kichanki"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ñawiykita"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqata"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "apuranki"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "taripanakuypim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qamwan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:07:02.917755209Z",
+  "model": "glm-5.3"
+}

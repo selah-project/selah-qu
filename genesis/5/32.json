@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Noachm pichqa pachak watayuq churi karqanm; Noachm ⟨את⟩ Shemta (Sem), ⟨את⟩ Jamta (Cam), hinaspa ⟨את⟩ Yefetta (Jafet) paqarichirqanm.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanm"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "paqarichirqanm"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noachm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shemta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jamta"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Jamta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yefetta"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yefetta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:35.105725248Z",
+  "model": "glm-5.3"
+}

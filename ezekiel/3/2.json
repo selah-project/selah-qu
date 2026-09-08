@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa ⟨את⟩ ñuqap siminta kicharqani, hinaspa paymi kay ⟨את⟩ qillqa t'ikraqta ñuqaman mikhuchirqan.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "hinaspa kicharqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap siminta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ñuqap siminta"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "hinaspa ñuqaman mikhuchirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qillqa t'ikraqta"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "qillqa t'ikraqta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "kayta"
+    }
+  ],
+  "timestamp": "2026-09-08T07:54:37.481497551Z",
+  "model": "glm-5.3"
+}

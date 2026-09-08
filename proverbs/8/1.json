@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Manachu yachay qayanmi, yuyaytaq kunkanta qunmi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "yachay"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "qayanmi"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "yuyaytaq"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qunmi"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "kunkanta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:09.447969125Z",
+  "model": "glm-5.3"
+}

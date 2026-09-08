@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Yupaychay ⟨את⟩ taytaykita hinaspa ⟨את⟩ mamaykita, chayrayku p'unchawkunaniki sunimanqaku hallp'api, mayqinpi Yahwe Elohimniyki qamta qusan.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Yupaychay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytaykita"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytayki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "mamaykita"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mamayki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "sunimanqaku"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "p'unchawkunaniki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ukhupi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qusan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:31:33.364352927Z",
+  "model": "glm-5.3"
+}

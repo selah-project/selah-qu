@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa waka utaq michi, wiñarqusqa utaq pisillayasqa — munay q'urpanahina ⟨את⟩ chayta ruwankimi; icha nederpaqqa mana chaskisqachu kanqa.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "hinaspa waka"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "utaq michi"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "wiñarqusqa"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "pisillayasqa"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "munay q'urpana"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwanki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "chayta (waka utaq michita)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "hinaspa nederpaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "chaskisqa kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:19.210410489Z",
+  "model": "glm-5.3"
+}

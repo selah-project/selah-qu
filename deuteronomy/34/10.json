@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Chaysi Israelpi manam Moshehina navi paqarirqanchu, payta Yahwem ñawpaqta-ñawpaqwan riqsirqan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "קם",
+      "gloss": "paqarirqanchu"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raq"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpi"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "Moshehina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "payta"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "riqsirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawpaqwan"
+    }
+  ],
+  "timestamp": "2026-09-08T03:05:24.078411163Z",
+  "model": "glm-5.3"
+}

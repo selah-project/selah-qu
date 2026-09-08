@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 30:7",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Hayay! Chiqaqmi chay p'unchaw hatunmi, mana chayhina kaq kaqchu; hinaspa Yaakovpa sasachay pachanmi ⟨kan⟩, ichataq chaymantam qespichikunqa.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hayay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Chiqaqmi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatunmi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "chay p'unchaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "chayhina kaq kaqchu"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "hinaspa pacha"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sasachay"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kan⟩mi"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakovpa"
+    },
+    {
+      "surface": "וממנה",
+      "gloss": "chaymantam"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "qespichikunqa"
+    }
+  ],
+  "timestamp": "2026-09-08T07:19:26.505210623Z",
+  "model": "glm-5.3"
+}

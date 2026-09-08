@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinaspa ⟨את⟩ wasi yapakuyta wasicharqanm, wasin hunt'an hawan, pichqa ⟨codo⟩ sayayniyuq; hinaspa cedar sach'a-k'aspikunawan ⟨את⟩ wasita ch'iktaykacharqan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wasicharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasi yapakuyta"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "wasi yapakuy"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hunt'an"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "⟨codo⟩ (tupu)"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "sayayniyuq"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "ch'iktaykacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasita"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "sach'a-k'aspikunawan"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "cedra"
+    }
+  ],
+  "timestamp": "2026-09-08T05:01:03.082158379Z",
+  "model": "glm-5.3"
+}

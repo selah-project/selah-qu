@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Karqansi iskay kaq p'unchawpi ⟨את⟩ Gedalyahuta wañuchisqanmanta; mana pipas yacharqanchu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay kaq"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "wañuchisqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahuta"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahuta"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "pipas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yacharqanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T07:33:51.130225891Z",
+  "model": "glm-5.3"
+}

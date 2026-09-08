@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Qasillapi hukllata puñunaw, hinaspa puñusaq; imaraykuchus qam, Yahwe, sapallayki, hunt'a iñiywan puñuchiwankim.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "Qasillapi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hukllata"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "puñunaw"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "hinaspa puñusaq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "sapallayki"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "hunt'a iñiywan"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "puñuchiwankim"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:12.265326484Z",
+  "model": "glm-5.3"
+}

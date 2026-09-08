@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Haq'iyuqqa llulla llamk'ayta ruram; icha cheqan kayta tarpuqqa chiqaq pagota chaskinmi ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "haq'iyuq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruram"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "llamk'ayta"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "icha ... tarpuq"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "cheqan kayta"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "pagota"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "chiqaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:40:58.273475641Z",
+  "model": "glm-5.3"
+}

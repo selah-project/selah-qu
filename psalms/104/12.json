@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Chaypi hanaq pachap pisqokunam tiyanku; sach'ap kurqunkap chawpinmanta takinta qunku.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "pisqokuna"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "tiyanku"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "chawpinmanta"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "kurqunka"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "qunku"
+    },
+    {
+      "surface": "קול",
+      "gloss": "takin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:29.066170114Z",
+  "model": "glm-5.3"
+}

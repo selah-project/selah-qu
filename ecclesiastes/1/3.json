@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Ima puchuchu runaman tukuy llank'ayninmanta, inti ukhupi llank'asqanmanta?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "puchu"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "runaman"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "llank'ayninmanta"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "llank'asqanmanta"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ukhupi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inti"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:31.216168990Z",
+  "model": "glm-5.3"
+}

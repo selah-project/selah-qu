@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinaspam sichus paypa wawqenkuna mana kankuchu, chayqa ⟨את⟩ paypa herencianta paypa tatanpa wawqenkunaman qunkichikmi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Hinaspam sichus"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kankuchu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "wawqenkuna"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "qunkichikmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa herencianta"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "paypa herencianta"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "wawqenkunaman"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "paypa tatanpa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:14:33.955705207Z",
+  "model": "glm-5.3"
+}

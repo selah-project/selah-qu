@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chay p'unchawmi sayachisaq ⟨את⟩ Davidpa sukanta urmasqata, hark'asaq ⟨את⟩ p'akiykunanta, urmasqankunataq sayachisaq, hinaspa wasichasaq, wiñay ñawpaq p'unchawkunaman hina.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Chay p'unchaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "sayachisaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidpa sukanta"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "sukanta"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "urmasqata"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "hark'asaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "p'akiykunanta"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "p'akiykunanta"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "urmasqankunataq"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "sayachisaq"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "wasichasaq"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "p'unchawkunaman hina"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay ñawpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T14:11:11.370683239Z",
+  "model": "glm-5.3"
+}

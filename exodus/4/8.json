@@ -1,0 +1,69 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "exodus 4:8",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 4,
+ "translation": "Kanqami: sichus mana qamta chaskinqankuchu, manataq ñawpaq unanchap siminta uyarqankuchu, chaskinqankum qhipaq unanchap siminta.",
+ "tokens": [
+  {
+   "surface": "והיה",
+   "gloss": "kanqa"
+  },
+  {
+   "surface": "אם",
+   "gloss": "sichus"
+  },
+  {
+   "surface": "לא",
+   "gloss": "mana"
+  },
+  {
+   "surface": "יאמינו",
+   "gloss": "chaskinqankuchu"
+  },
+  {
+   "surface": "לך",
+   "gloss": "qamta"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "manataq"
+  },
+  {
+   "surface": "ישמעו",
+   "gloss": "uyarqankuchu"
+  },
+  {
+   "surface": "לקל",
+   "gloss": "siminta"
+  },
+  {
+   "surface": "האת",
+   "gloss": "unanchap"
+  },
+  {
+   "surface": "הראשון",
+   "gloss": "ñawpaq"
+  },
+  {
+   "surface": "והאמינו",
+   "gloss": "chaskinqankum"
+  },
+  {
+   "surface": "לקל",
+   "gloss": "siminta"
+  },
+  {
+   "surface": "האת",
+   "gloss": "unanchap"
+  },
+  {
+   "surface": "האחרון",
+   "gloss": "qhipaq"
+  }
+ ],
+ "timestamp": "2026-09-08T00:22:51.155001279Z",
+ "model": "glm-5.3"
+}

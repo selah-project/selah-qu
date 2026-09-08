@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Kaymi teruma, mayqen ⟨את⟩ paykunmanta hap'inkichik: quri, qullqitaq, anticchaytaq.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Kaymi"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "hap'inkichik"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunmanta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "qullqitaq"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "anticchaytaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:37:14.589820011Z",
+  "model": "glm-5.3"
+}

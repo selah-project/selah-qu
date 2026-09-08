@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspa Yawanpa churinkunam: Elishah, Tarshish, Kitim, Dodanim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "hinaspa churinkuna"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Yawanpa"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Elishah"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "hinaspa Tarshish"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "hinaspa Dodanim"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:03.290939856Z",
+  "model": "glm-5.3"
+}

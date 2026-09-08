@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Kaykunamanta ⟨את⟩ kaykunatam mikhunkichik: ⟨את⟩ arbehta (langosta) sapa rikch'ayninmanta, hinaspa ⟨את⟩ salaamta sapa rikch'ayninmanta, hinaspa ⟨את⟩ jargolta sapa rikch'ayninmanta, hinaspa ⟨את⟩ jagavta sapa rikch'ayninmanta.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaykunata"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mikhunkichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbehta"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "sapa rikch'ayninmanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "salaamta"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "salaam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sapa rikch'ayninmanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "jargolta"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "jargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sapa rikch'ayninmanta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "jagavta"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "jagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "sapa rikch'ayninmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:44.541970399Z",
+  "model": "glm-5.3"
+}

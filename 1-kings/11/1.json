@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa apum Shelomo (Salomón)mi achka wak llaqtamanta warmikunata munarqan, hinaspa ⟨את⟩ Paro (Faraón)pa wawantawan, Moav (Moab) warmikunatawan, Amon (Amón) warmikunatawan, Edom (Edom) warmikunatawan, Tsidon (Sidón) warmikunatawan, Het (Heteo) warmikunatawan.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Hinaspa apum"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "munarqan"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "warmikunata"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "wak llaqtamanta"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "achka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Paro (Faraón)pa wawanta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paropa"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moav warmikuna"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Amon warmikuna"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edom warmikuna"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Tsidon warmikuna"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Het warmikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T05:11:21.158980101Z",
+  "model": "glm-5.3"
+}

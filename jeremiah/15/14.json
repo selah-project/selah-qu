@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 15:14",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Chaymi ⟨את⟩ awqaykikunata huk mana riqsisqayki hallp'aman pusasaq; imaraykuchus Yahwepa sin'hipi ninam lloqsirqan, qamkunapam k'ancharqanqa.",
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "pusasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "awqaykikunata"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaykikunata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "riqsisqayki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "קדחה",
+      "gloss": "lloqsirqan"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "Yahwepa sin'hipi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "qamkunapam"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "k'ancharqanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:52:20.561701533Z",
+  "model": "glm-5.3"
+}

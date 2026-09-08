@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Chaymanta ⟨את⟩ tullunkunata hap'irqankum, hinaspa Yabeshpi (Jabés de Gilead) tamarisku sach'ap uranpi p'ancharqankum, hinaspa qanchis p'unchaw unanaykurqankum.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Chaymanta hap'irqankum"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tullunkunata"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "tullunkunata"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "hinaspa p'ancharqankum"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uranpi"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "tamarisku sach'ap"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Yabeshpi (Jabés de Gilead)"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "hinaspa unanaykurqankum"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T04:30:11.554346079Z",
+  "model": "glm-5.3"
+}

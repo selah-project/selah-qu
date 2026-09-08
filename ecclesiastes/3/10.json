@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Rikurqanimi ⟨את⟩ llank'ay sasata, mayta Elohim runap churinkuta, adampap wawankunaman, chaywan llank'anankupaq.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqanimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llank'ay sasata"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "llank'ay sasa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayta"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "churqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunaman"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adampap"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "llank'anankupaq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chaywan"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:05.159650740Z",
+  "model": "glm-5.3"
+}

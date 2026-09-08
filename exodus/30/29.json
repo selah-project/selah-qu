@@ -1,0 +1,50 @@
+{
+ "tier": "glm-5.2",
+ "verse": 29,
+ "ref": "exodus 30:29",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 30,
+ "translation": "Chaykunata santochankim ⟨את⟩, hinaspa santokunapa santon kanqaku ⟨kan⟩; llapan chaykunata llawaq santo kanqam.",
+ "tokens": [
+  {
+   "surface": "וקדשת",
+   "gloss": "santochankim"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩",
+   "marks": "chaykunata"
+  },
+  {
+   "surface": "והיו",
+   "gloss": "kanqaku"
+  },
+  {
+   "surface": "קדש",
+   "gloss": "santokunapa"
+  },
+  {
+   "surface": "קדשים",
+   "gloss": "santon"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "הנגע",
+   "gloss": "llawaq"
+  },
+  {
+   "surface": "בהם",
+   "gloss": "chaykunata"
+  },
+  {
+   "surface": "יקדש",
+   "gloss": "santo kanqam"
+  }
+ ],
+ "timestamp": "2026-09-08T00:41:20.409084333Z",
+ "model": "glm-5.3"
+}

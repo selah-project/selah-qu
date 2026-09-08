@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Kunantaq kutiy, hinaspa thakillawan puriy; hinaspa ama sarnekunap Pelishtikuna (filisteokuna) ñawinkunapi mana allinta ruwankichu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunantaq"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "hinaspa puriy"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "thakillawan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hinaspa ama"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ruwankichu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinkunapi"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sarnekunap"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T04:31:19.509989089Z",
+  "model": "glm-5.3"
+}

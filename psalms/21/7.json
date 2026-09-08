@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Imaraykuchus bendicionkunata churanki payta wiñaypaq; kusichinki payta kusillawan, ⟨את⟩ ñawikipaywan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "churanki payta"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "bendicionkunata"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "wiñaypa"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "kusichinki payta"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "kusillawan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñawikipay"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawikipay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:41.654794830Z",
+  "model": "glm-5.3"
+}

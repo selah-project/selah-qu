@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 128,
+  "translation": "Qhawaymi: chaynahinam Yahweta manchakuq runa barakusqa kanqa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "qhawaymi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chaynahinam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynahinam"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barakusqa kanqa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "runa"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "manchakuq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:26:23.975004835Z",
+  "model": "glm-5.3"
+}

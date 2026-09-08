@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Willaqkunanta wayrakunaman ruwanmi; yanapaqkunanta llanllaq ninaman.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "ruwan"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "willaqkunanta"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "wayrakunaman"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "yanapaqkunanta"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ninaman"
+    },
+    {
+      "surface": "להט",
+      "gloss": "llanllaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:14:57.313348989Z",
+  "model": "glm-5.3"
+}

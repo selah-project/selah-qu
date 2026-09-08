@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Chay runam runakunata ⟨את⟩ Yosefpa (José) wasinman apurqan; unuta qurqanmi, chakinkunata mayllarqanku; hinaspa borriyunkunaman mikhuchiyta qurqan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "apurqan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "chay runam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefpa (José)"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qurqanmi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unuta"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "mayllarqanku"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "chakinkunata"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qurqan"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "mikhuchiyta"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "borriyunkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:15:05.532181795Z",
+  "model": "glm-5.3"
+}

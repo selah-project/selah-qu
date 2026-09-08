@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 61:4",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 61,
+  "translation": "Hinaspa wiñay ñawpaq ch'usaq ruwasqakunata wasichasqakum, ñawpaq ch'usaqchasqakunata sayarichisqakum; wata-mita wata-mitap ch'usaq llaqtakunata musuqcharisqakum.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "hinaspa wasichasqakum"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ch'usaq ruwasqakunata"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay ñawpaq"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "ch'usaqchasqakunata"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ñawpaq"
+    },
+    {
+      "surface": "יקוממו",
+      "gloss": "sayarichisqakum"
+    },
+    {
+      "surface": "וחדשו",
+      "gloss": "hinaspa musuqcharisqakum"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "ch'usaqchasqa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "wata-mita"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "wata-mitap"
+    }
+  ],
+  "timestamp": "2026-09-08T06:43:55.178322205Z",
+  "model": "glm-5.3"
+}

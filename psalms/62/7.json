@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Sapa paymi rumiy, qispichikuyniy; hark'ayniypas; manañam t'ikrasqachu kanqa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Sapa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "rumiy"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "qispichikuyniy"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "hark'ayniypas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "t'ikrasqachu kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:22.403026528Z",
+  "model": "glm-5.3"
+}

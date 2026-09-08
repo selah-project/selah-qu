@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Paymi sunqunkunata llapanta kuskalla p'aqarichin, llapan llank'ayninkunkunata inteligin.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "p'aqarichiqmi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "llapanta kuskalla"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "sunqunkunata"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "inteligiqmi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "llank'ayninkunkunata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:20.165271737Z",
+  "model": "glm-5.3"
+}

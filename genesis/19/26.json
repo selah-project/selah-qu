@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Warmiqa qhipanmanta qawarqan, hinaspa sayasqa kacham tukurqan.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "qawarqan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "warmiqa (paypa warmi)"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "qhipanmanta"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "hinaspa tukurqan"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "sayasqa (sayasqa rumi hina)"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "kacham"
+    }
+  ],
+  "timestamp": "2026-09-07T23:57:44.827379516Z",
+  "model": "glm-5.3"
+}

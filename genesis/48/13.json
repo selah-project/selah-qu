@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Yosefm (José) ⟨את⟩ iskaynintam hap'irqan: ⟨את⟩ Efrayinta paña makinpi, Israelpa lluq'inman; hinaspa ⟨את⟩ Menashehta lluq'i makinpi, Israelpa pañanman; chaytam payman qayllachirqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iskayninta"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iskaynintam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayinta"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayinta"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "paña makinpi"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "lluq'inman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Menashehta"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashehta"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "lluq'i makinpi"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "pañanman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "qayllachirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    }
+  ],
+  "timestamp": "2026-09-08T00:18:25.166721847Z",
+  "model": "glm-5.3"
+}

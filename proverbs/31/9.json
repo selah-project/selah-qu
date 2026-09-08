@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Simiykita kichay, chaninta juzgay, hinaspa wakchata, wakcha kawsaqtawan amachay.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "kichay"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "simiykita"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "juzgay"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chaninta"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "hinaspa amachay"
+    },
+    {
+      "surface": "עני",
+      "gloss": "wakchata"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "wakcha kawsaqtawan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:55:20.040818350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Chaymanta Yoabm Ammonpa wawankunap Rabbah llaqtanapi awqanakurqan, hinaspa ⟨את⟩ apu llaqtata hap'irqan.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "awqanakurqan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "Rabbah llaqtanapi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonpa"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "apu llaqtata"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "apu (apu llaqta)"
+    }
+  ],
+  "timestamp": "2026-09-08T04:40:37.206979323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Hina toromanta zebaj shelamimpaq hurqusqa hina; kohenm chaykunata olahpa altarninpi wirachanqa.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "hurqusqa"
+    },
+    {
+      "surface": "משור",
+      "gloss": "toro"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zebaj"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "chaykunata wirachanqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    }
+  ],
+  "timestamp": "2026-09-08T00:50:51.590994109Z",
+  "model": "glm-5.3"
+}

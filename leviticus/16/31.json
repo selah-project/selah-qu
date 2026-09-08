@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Shabatmi, Shabatpa hunt'a samayninmi qampaqkuna; sinqakachiy ⟨את⟩ paya-chusaq kasqaykikikunata — wiñaypaq kamachikuymi.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabatmi"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabatpa hunt'a samaynin"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kan⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qampaqkuna"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "sinqakachiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paya-chusaq kasqaykikikunata"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "paya-chusaq kasqaykikikunata"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "kamachikuymi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:53.779372526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Kanqam hatun qapariy llapan Mitsrayimpa hallp'api — hinallataq mana karqanchu, hinaspa hinallataq manaña yapakunqachu.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "kanqam"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "qapariy"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayna"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "karqanchu"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "hinaspa hinallataq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "yapakunqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:06.709529820Z",
+  "model": "glm-5.3"
+}

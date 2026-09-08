@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Nefeshniyta kutichiwánmi, tsedeq (justicia) ñanninkunapim ñuqata pusawan, Sutinpaqmi.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniyta"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "kutichiwánmi"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "ñuqata pusawan"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "ñanninkunapi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeq (justicia)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "Sutinpaqmi-rayku"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Sutinpaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:36.014266978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Moshepa qillqasqan ⟨את⟩ lluqsiyninkunata puriyninkunaman hina, Yahwepa siminman hina; kaykunataqmi puriyninkuna lluqsiyninkunaman hina.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "qillqarqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lluqsiyninkunata"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "lluqsiyninkunata"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "puriyninkunaman hina"
+    },
+    {
+      "surface": "על",
+      "gloss": "man hina"
+    },
+    {
+      "surface": "פי",
+      "gloss": "siminman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "kaykunataq"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "puriyninkuna"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "lluqsiyninkunaman hina"
+    }
+  ],
+  "timestamp": "2026-09-08T02:22:01.504613246Z",
+  "model": "glm-5.3"
+}

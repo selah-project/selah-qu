@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Chaynam Yahwem nirqan: mama quchapi ñanta quqmi, sinchi yakukunapipas ñan ruraqmi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "chayna"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "quq"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mama quchapi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "yakukunapipas"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ñan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:25:26.225867869Z",
+  "model": "glm-5.3"
+}

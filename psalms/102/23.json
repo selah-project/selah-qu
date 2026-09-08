@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 102,
+  "translation": "Runakunakuna llapan huñunakuspa, mamallaqtakunawanpas, Yahweta ⟨את⟩ much'ananpaqmi.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "huñunakuspa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "runakunakuna llapan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "llapan kuskalla"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "mamallaqtakunawanpas"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "much'ananpaqmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:43.948972556Z",
+  "model": "glm-5.3"
+}

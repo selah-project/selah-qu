@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Paykunata ⟨את⟩ kohenman apamunqa; kohenm ñawpaqta qayllachinqa ⟨את⟩ imata jatatpaq kaqta, hinaspata umanta ⟨את⟩ t'ipin murq'un ñawpaqninpi, manataq t'aqasqaytaqa.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "apamunqa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "qayllachinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imata jatatpaq kaqta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "jatatpaq"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "hinaspata t'ipin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umanta"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "umanta"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "murq'un"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "t'aqasqaytaqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:53:43.263917983Z",
+  "model": "glm-5.3"
+}

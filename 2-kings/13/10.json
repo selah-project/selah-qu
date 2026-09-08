@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 13:10",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Yoash, Yehudapa apunpa, kimsa chunka qanchis kaq watanpi, Yehoachazpa churin Yehoashmi Shomronpi Israelpa apun karqan, suqta chunka suqta wata.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "watanpi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "kimsa chunka"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "hinaspa qanchis"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "Yoashpa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu karqan"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachazpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sayan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomronpi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "suqta"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka (yapana)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:36:21.594580489Z",
+  "model": "glm-5.3"
+}

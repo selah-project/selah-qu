@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 66,
+  "translation": "Llaqtamanta rawraypa qapariynin, hekalmanta qapariy: Yahwepa qapariyninmi, paypa awqaqninkunaman ch'eqnata kutichin.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "qapariy"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "rawray"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "llaqtamanta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "qapariy"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "hekalmanta"
+    },
+    {
+      "surface": "קול",
+      "gloss": "qapariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "kutichin"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ch'eqnata"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "awqaqninkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:44:53.773502697Z",
+  "model": "glm-5.3"
+}

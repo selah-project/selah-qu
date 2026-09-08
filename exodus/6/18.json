@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 6:18",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Hinallataq Kehatpa churinkunaqa Amram, Itsjar, Chebron, Uzziel karqanmi; Kehatpa kawsayninpa watakunaqa kinsa chunka kimsa, pachak watawanmi karqan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatpa"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "Itsjar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "Uzziel"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "watakunaqa"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "kawsayninpa"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "kinsa"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "chunka kimsa"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:08.631204389Z",
+  "model": "glm-5.3"
+}

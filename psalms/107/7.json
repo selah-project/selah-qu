@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Chaqrun ñanpi purichirqankum, tiyanan llaqtaman chayanankupaq.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "purichirqanku"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "chaqrun"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "chayanankupaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "tiyanan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:38.387707964Z",
+  "model": "glm-5.3"
+}

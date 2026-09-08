@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Apunchikpa p'unchawninpi umalliqkunam wina q'uñiwan onqorchurqanku; makinwan ⟨את⟩ q'atiqkunaman k'askachikurqan.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "apunchikpa"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "onqorchurqanku"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "umalliqkuna"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "q'uñiwan"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "wina"
+    },
+    {
+      "surface": "משך",
+      "gloss": "k'askachikurqan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makinwan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "q'atiqkunata"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "q'atiqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:53.240694956Z",
+  "model": "glm-5.3"
+}

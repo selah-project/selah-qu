@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 103,
+  "translation": "Bark'uway Yahweta, llapan rurasqankuna, llapan tiyanankunapi kamachisqanpi. Bark'uway, nefeshniy, ⟨את⟩ Yahweta.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bark'uway"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "rurasqankuna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapanpi"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "tiyanankunapi"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "kamachisqanpi"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Bark'uway"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:12:26.827223984Z",
+  "model": "glm-5.3"
+}

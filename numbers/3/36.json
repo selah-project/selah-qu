@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 3:36",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa Merari churinkunap waqaychay llamk'ayninmi: Mishkanpa tablankuna, barraskuna, columnaskuna, basenkuna, llapan imankuna, llapan llamk'ayninpas.",
+  "tokens": [
+    {
+      "surface": "ופקדת",
+      "gloss": "waqaychay llamk'aynin"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "waqaychay"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "tablankuna"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkanpa"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "barraskuna"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "columnaskuna"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "basenkuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imankuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "llamk'ayninpas"
+    }
+  ],
+  "timestamp": "2026-09-08T01:16:10.268880822Z",
+  "model": "glm-5.3"
+}

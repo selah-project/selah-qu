@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Imaraykuchus nirqankichiksis: Yahwem Babilonpi ñuqanchikman navikunata sayarichirqanmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "nirqankichiksis"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "sayarichirqanmi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ñuqanchikman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "navikunata"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Babilonpi"
+    }
+  ],
+  "timestamp": "2026-09-08T07:21:50.019024656Z",
+  "model": "glm-5.3"
+}

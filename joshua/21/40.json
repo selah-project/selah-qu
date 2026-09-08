@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "joshua 21:40",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Llapan kay llaqtakunaqa Merari wawankunapmi, ayllunkunallapa, Levikuna ayllukunamanta qhepaqkunapa; suertenkarqanmi chunka iskay llaqta.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "kay llaqtakuna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "wawankunap"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ayllunkunap"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "qhepaqkuna"
+    },
+    {
+      "surface": "ממשפחות",
+      "gloss": "ayllukunamanta"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levikuna"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "גורלם",
+      "gloss": "suertenkum"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "chunka iskay (iskay)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "chunka (chunka)"
+    }
+  ],
+  "timestamp": "2026-09-08T03:28:55.671976598Z",
+  "model": "glm-5.3"
+}

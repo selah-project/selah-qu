@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Hinaspa ⟨את⟩ taytanpa much'asqa rurasqankunata hinallataq kikinpa much'asqa rurasqankunatawan Elohimpa wasinman apamurqanmi — qullqi, quri, llamk'anakunapas.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "apamurqanmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytanpa much'asqa rurasqankunata"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "much'asqa rurasqankunata"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanpa"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "kikinpa much'asqa rurasqankunatawan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "llamk'anakunapas"
+    }
+  ],
+  "timestamp": "2026-09-08T13:03:07.842025873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa mach'aqwayqa warmiman nirqan: Mana wañuspacha wañunkichikchu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Hinaspa nirqan"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "mach'aqway"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "warmi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuspa"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "wañunkichikchu"
+    }
+  ],
+  "timestamp": "2026-09-07T23:50:40.820850332Z",
+  "model": "glm-5.3"
+}

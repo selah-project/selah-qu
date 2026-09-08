@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Yahwe, munanim wasiykip tiyañanmanta, Mishkan (moriy) k'anchariykip tiyañanmantawan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "munani"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "tiyaña"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wasiykip"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "tiyañanmanta hina"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "k'anchariykip"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:42.701411108Z",
+  "model": "glm-5.3"
+}

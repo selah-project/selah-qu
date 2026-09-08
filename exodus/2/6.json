@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaysi kicharqan, chaysi ⟨את⟩ wawata qhawarirqan — kayqa waqachkaq wawam karqan. Chaysi payman llakikurqan, chaysi nirqan: kayqa ibriyumanta wawam karqan.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "kicharqan"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "qhawarirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawata"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "wawata"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "kayqa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "wawam"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "waqachkaq"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "llakikurqan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "wawamanta"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ibriyumanta"
+    },
+    {
+      "surface": "זה",
+      "gloss": "kayqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:04.264533823Z",
+  "model": "glm-5.3"
+}

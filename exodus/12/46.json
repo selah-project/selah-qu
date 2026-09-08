@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Wasipi hukllapim mikhunam; wasimanta aychamanta ama hawaman lluqsichischaychu; hinaspa ama chaypa tulluntawan p'akichischaychu.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "wasipi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhunan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "lluqsichiy"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "aycha"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "hawaman"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "hinaspa tullu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "p'akichiy"
+    },
+    {
+      "surface": "בו",
+      "gloss": "chayta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:27:45.163294565Z",
+  "model": "glm-5.3"
+}

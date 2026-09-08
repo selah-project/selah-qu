@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 20,
+ "ref": "ezekiel 20:20",
+ "book": "ezekiel",
+ "lang": "qu",
+ "chapter": 20,
+ "translation": "Hinaspa ⟨את⟩ Shabatniykita willkachiy; paykunaqa ñuqapawan qamkunapawan unancha hina kanqakum, ñuqa Yahwe, Elohimniykichik kasqayta yachanaykichikpaq.",
+ "tokens": [
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Shabatniykita"
+  },
+  {
+   "surface": "שבתותי",
+   "gloss": "Shabatniykita"
+  },
+  {
+   "surface": "קדשו",
+   "gloss": "willkachiy"
+  },
+  {
+   "surface": "והיו",
+   "gloss": "kanqakum"
+  },
+  {
+   "surface": "לאות",
+   "gloss": "unancha hina"
+  },
+  {
+   "surface": "ביני",
+   "gloss": "ñuqapawan"
+  },
+  {
+   "surface": "וביניכם",
+   "gloss": "qamkunapawan"
+  },
+  {
+   "surface": "לדעת",
+   "gloss": "yachanaykichikpaq"
+  },
+  {
+   "surface": "כי",
+   "gloss": "kasqayta"
+  },
+  {
+   "surface": "אני",
+   "gloss": "ñuqa"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיכם",
+   "gloss": "Elohimniykichik"
+  }
+ ],
+ "timestamp": "2026-09-08T08:11:06.460491827Z",
+ "model": "glm-5.3"
+}

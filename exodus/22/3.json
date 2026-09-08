@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Sichus suwasqanqa cheqata paypa makinpi tarikun, kawsaqta — toromanta, burrokaman, oveja kaman — iskay kutita altinqam.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Sichus"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "cheqata"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tarikun"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "paypa makinpi"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "suwasqan"
+    },
+    {
+      "surface": "משור",
+      "gloss": "toromanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kaman"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "burro"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kaman"
+    },
+    {
+      "surface": "שה",
+      "gloss": "oveja"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsaqta"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iskay kutita"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "altinqam"
+    }
+  ],
+  "timestamp": "2026-09-08T02:05:32.531975543Z",
+  "model": "glm-5.3"
+}

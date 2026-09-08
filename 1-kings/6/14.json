@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Chaymanta Sheloma (Salomón) ⟨את⟩ wasita ruwarqan, chaytataq hunt'achirqan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sheloma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasita"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasita"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "chayta hunt'achirqan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:02:13.479522757Z",
+  "model": "glm-5.3"
+}

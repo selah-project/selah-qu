@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 40:22",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Paymi tiyakun hallp'ap muyunpatan, paypa tiyaqninkunataq ch'uspa hina; paymi hanaq pachata llusp'iy hina mast'arqan, wasichanapaq tolda hina mast'arqanmi.",
+  "tokens": [
+    {
+      "surface": "הישב",
+      "gloss": "tiyakun"
+    },
+    {
+      "surface": "על",
+      "gloss": "patan"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "muyun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "paypa tiyaqninkunataq"
+    },
+    {
+      "surface": "כחגבים",
+      "gloss": "ch'uspa hina"
+    },
+    {
+      "surface": "הנוטה",
+      "gloss": "paymi ... mast'arqan"
+    },
+    {
+      "surface": "כדק",
+      "gloss": "llusp'iy hina"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachata"
+    },
+    {
+      "surface": "וימתחם",
+      "gloss": "mast'arqanmi"
+    },
+    {
+      "surface": "כאהל",
+      "gloss": "tolda hina"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "wasichanapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:23:15.069496963Z",
+  "model": "glm-5.3"
+}

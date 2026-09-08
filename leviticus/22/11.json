@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Kohenm runata rantiptin, qollqinwan rantispa, paym qodesh mikhun; wasinpi paqarisqanmi paypa t'antan mikhunku.",
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "Kohenm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "raniptin"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "rantiptin"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "runata"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "rantispa"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "qollqinwan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paym"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mikhun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "paym"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "wasinpi paqarisqanmi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "paykunam"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhunku"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "paypa t'antan"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:44.323611835Z",
+  "model": "glm-5.3"
+}

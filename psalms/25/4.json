@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Ñanniykita, Yahwe, rikuchiwanki; ñanakunaykiwan yachachiwanki.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "ñanniykita"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "rikuchiwanki"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "ñanakunaykiwan"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "yachachiwanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:22.956642209Z",
+  "model": "glm-5.3"
+}

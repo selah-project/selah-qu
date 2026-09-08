@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 85,
+  "translation": "Manachu qam kutimunki, kawsachiwanki, chaymi runaykiyki qampi kusikunqaku?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "kutimunki"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "kawsachiwanki"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "runaykiyki"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kusikunqaku"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:58.567839851Z",
+  "model": "glm-5.3"
+}

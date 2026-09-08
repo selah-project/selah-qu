@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Mast'arillay riqsiqkunanpaq jesedniyki (khuyakuy), hinaspa chiqan sonqoyuqkunanpaq allin kayniyki.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "mast'arillay"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jesedniyki"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "riqsiqkunanpaq"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "hinaspa allin kayniyki"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "chiqan sonqoyuqkunanpaq"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sonqo"
+    }
+  ],
+  "timestamp": "2026-09-08T09:40:57.804171716Z",
+  "model": "glm-5.3"
+}

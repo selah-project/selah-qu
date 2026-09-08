@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 46,
+  "translation": "Lluqsiy, qhaway Yahwepa ruwasqankunata, mayqin wakchachasqakunata hallp'api churasqanta.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Lluqsiy"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "qhaway"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ruwasqankunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "churasqanta"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "wakchachasqakunata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:50.077121931Z",
+  "model": "glm-5.3"
+}

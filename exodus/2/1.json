@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Huk runam Levipa wasimanta llawsirqan, hinaspa ⟨את⟩ huk Levipa ususinta ⟨warmi hina⟩ aparqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "llawsirqan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasimanta"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "aparqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ususinta"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ususinta"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:56.430553814Z",
+  "model": "glm-5.3"
+}

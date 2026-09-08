@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 23:24",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Hinallataq ⟨את⟩ obkuna (wañusqakunawan rimaqkuna), hinaspa ⟨את⟩ yachaqkunata, hinaspa ⟨את⟩ terafimkunata, hinaspa ⟨את⟩ gilulimkunata, hinaspa ⟨את⟩ llapa millaykunata — maykuna Yehuda hallp'api, Yerushalayimpipas rikurirqanku — Yehoshiyahu muchurparqan, Torap qillqasqa simikunata ⟨את⟩ sayachiynanpaq, chay qillqapi, mayqinta Jilkiyahu kohen Yahwep wasinpi tariyarqan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Hinallataq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obkunata"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "obkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "yachaqkunata"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "yachaqkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "terafimkunata"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "gilulimkunata"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "gilulimkuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa millaykunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "השקצים",
+      "gloss": "millaykuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maykuna"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "rikurirqanku"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "hinaspa Yerushalayimpi"
+    },
+    {
+      "surface": "בער",
+      "gloss": "muchurparqan"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yehoshiyahu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "sayachiynanpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "simikunata"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "simikuna"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torap"
+    },
+    {
+      "surface": "הכתבים",
+      "gloss": "qillqasqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "qillqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinta"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "tariyarqan"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Jilkiyahu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    }
+  ],
+  "timestamp": "2026-09-08T05:48:19.554145785Z",
+  "model": "glm-5.3"
+}

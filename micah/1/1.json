@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 1:1",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yahwepa siminmi Mika (Miqueas) Morashtiman karqan, Yotam (Jotam), Ahaz (Acaz), Yehizkiya (Ezequías), Yehudapa (Judá) apukunap p'unchawkunapipi; chaymi Shomron (Samaria) hinaspa Yerushalayim (Jerusalén) patapi qawarqan.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "simin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Mikaman"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "המרשתי",
+      "gloss": "Morashti"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "p'unchawkunapipi"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "יחזקיה",
+      "gloss": "Yehizkiya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apukunap"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "qawarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "hinaspa Yerushalayimta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:06:00.971285813Z",
+  "model": "glm-5.3"
+}

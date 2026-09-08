@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Paytaq chayamurqan willakuspa Elohimpa runanman. Paym nirqan: «Riy, ⟨את⟩ achita satuway, ⟨את⟩ manakuykita hunt'achiy; qantaq churikunaykiwan chay qitarapi kawsankichik».",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "chayamurqan"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "willakuspa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "runanman"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "riy"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "satuway"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "achita"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "achita"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "hunt'achiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manakuykita"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "manakuykita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "qantaq"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "churikunaykiwan"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "kawsankichik"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "chay qitarapi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:26:36.576041290Z",
+  "model": "glm-5.3"
+}

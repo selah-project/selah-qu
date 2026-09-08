@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Yahwem llakilla runakunata sayarichinmi, haqlli runakunata hallp'akama urayachinmi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "sayarichin"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "llakilla runakunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "urayachin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "haqlli runakunata"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "hallp'akama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:35.497865336Z",
+  "model": "glm-5.3"
+}

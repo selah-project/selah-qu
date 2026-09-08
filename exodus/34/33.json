@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 34,
+  "translation": "Moshe paywan ⟨את⟩ rimayta tukarirqanmi, hinaspa ñawpanpa patan velonta churarqan.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "tukarirqan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paywan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ñawpanpa"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "velonta"
+    }
+  ],
+  "timestamp": "2026-09-08T00:43:28.223243606Z",
+  "model": "glm-5.3"
+}

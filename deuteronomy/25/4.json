@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Ama torikita siminta wichq'ankichu t'ustunapin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "siminta wichq'ankichu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "tori"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "t'ustunapin"
+    }
+  ],
+  "timestamp": "2026-09-08T02:49:23.533288353Z",
+  "model": "glm-5.3"
+}

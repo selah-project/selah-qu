@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 25:5",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Ñispam: Kutiy ña, sapa runa mana allin ñanninmanta, mana allin ruraykunninkunamantawan, hinaspa tiyaychik hallp'api, chay Yahwe qowasqaykichikpi, taytakunaykichikmanpas, wiñaymanta wiñaykama.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ñispam"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "kutiy"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ña"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "ñanninmanta"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "mana allinmantawan"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "ruraykunninkuna"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "hinaspa tiyaychik"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qowasqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "hinaspa taytakunaykichikman"
+    },
+    {
+      "surface": "למן",
+      "gloss": "wiñaymanta"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "wiñaykama"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T07:11:29.514211815Z",
+  "model": "glm-5.3"
+}

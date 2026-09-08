@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Phiyniywan qamman apu qusqaykim, ch'iqniywan ñuqam horqusaq.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "qusqayki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "phiyniywan"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "horqusaq"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "ch'iqniywan"
+    }
+  ],
+  "timestamp": "2026-09-08T08:49:16.518129033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 79,
+  "translation": "Wasimasiykupaq ch'iqi tukurqaykum, muyuriqniykupaq asiywan mofapaq.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "tukurqaykum"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ch'iqi"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "wasimasiykupaq"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "asiywan"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "mofapaq"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "muyuriqniykupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:45.066866834Z",
+  "model": "glm-5.3"
+}

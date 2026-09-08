@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Sichus yarqasaq, manam qanman nisaqchu; chayrayku ñuqapmi hallp'a, hunt'ananwan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "yarqasaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nisaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qanman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqap"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "hunt'ananwan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:35.743158727Z",
+  "model": "glm-5.3"
+}

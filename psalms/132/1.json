@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 132,
+  "translation": "Elechiykuna qillqam. Yahwe, Davidpaq ⟨את⟩ llapan ñak'arikusqankunata yuyariy.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qillqa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "elechiykuna"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "yuyariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapan ñak'arikusqankunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "ñak'arikusqankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:27:26.550994988Z",
+  "model": "glm-5.3"
+}

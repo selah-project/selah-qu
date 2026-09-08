@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 1:1",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Yesha'yahum (Isaías) Amots churiyq qhawasqan visionmi, Yehudahmanta, Yerushalayimwan (Jerusalén) munasqanmanta; Uziyahu, Yotam, Ajaz, Jizkiyahu — Yehudah apukunan p'unchawkunapi.",
+  "tokens": [
+    {
+      "surface": "חזון",
+      "gloss": "vision"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yesha'yahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churiy"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qhawasqan"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "qhawarqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "Yerushalayimwan"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ajaz"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jizkiyahu"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apukuna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-08T05:50:19.316546254Z",
+  "model": "glm-5.3"
+}

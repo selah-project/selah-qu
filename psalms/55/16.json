@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 55,
+  "translation": "Ch'usaqyachiy michun paykunapatanpi; kawsaspa Sheolman uraykuchunku; imaraykum wasinkupi, chawpinnakuypipas, mana allinmi kachkan.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "ch'usaqyachiy"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "paykunapatanpi"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "uraykuchunku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolman"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kawsaspa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "wasinkupi"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "chawpinnakuypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:20.336528908Z",
+  "model": "glm-5.3"
+}

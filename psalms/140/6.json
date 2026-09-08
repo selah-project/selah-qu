@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 140,
+  "translation": "Ph'uqha runakunam ñuqapaq lachhu ukhullapi churarqanku; hinaspa watrakunawan ñanpa ladunpi wantu mast'arqanku, q'inqakunatawan ñuqapaq churarqanku. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "ukhullapi churarqanku"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ph'uqha runakuna"
+    },
+    {
+      "surface": "פח",
+      "gloss": "lachhu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "hinaspa watrakunawan"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "mast'arqanku"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "wantu"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ñanpa ladunpi"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "q'inqakunatawan"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "churarqanku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:57.071464172Z",
+  "model": "glm-5.3"
+}

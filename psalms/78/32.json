@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Kay llapanwanpas aña pantarqanku; rikhurina llank'ayninkunapipas mana iñirqankuchu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "llapanwanpas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "pantarqanku"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "aña"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "iñirqankuchu"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "rikhurina llank'ayninkunapipas"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:49.694161922Z",
+  "model": "glm-5.3"
+}

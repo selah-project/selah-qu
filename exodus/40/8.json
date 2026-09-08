@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 40,
+  "translation": "Hinaspa churankim ⟨את⟩ kanchata muyuriqninpi, hinaspa churankim ⟨את⟩ kanchap punkup q'imirinta.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "churankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanchata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kancha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "muyuriqninpi"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "churankim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "punkup q'imirinta"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "q'imirin"
+    },
+    {
+      "surface": "שער",
+      "gloss": "punku"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kanchap"
+    }
+  ],
+  "timestamp": "2026-09-08T00:48:41.761166905Z",
+  "model": "glm-5.3"
+}

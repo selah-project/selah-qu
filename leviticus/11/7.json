@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa ⟨את⟩ hazirta (khuchi): paymi parsata ufarin, shesa shesa parsayuq, icha gerata manam apamunchu; paymi mana ch'uyachu qamkunapaq.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "hazirta"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "hazir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ufarin"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "parsata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "shesa shesa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "parsayuq"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "icha paytaq"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gerata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "apamunchu"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mana ch'uya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T00:55:10.291332514Z",
+  "model": "glm-5.3"
+}

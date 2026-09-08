@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Taripakuyqa cheqamanmi kutimunqa, chay qhipanpi llapan sunqu chiqtayuq runakuna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "cheqaman"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kutimunqa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "taripakuyqa"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "chay qhipanpi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "chiqtayuq"
+    },
+    {
+      "surface": "לב",
+      "gloss": "sunqu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:11:12.762532278Z",
+  "model": "glm-5.3"
+}

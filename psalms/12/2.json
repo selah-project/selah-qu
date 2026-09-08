@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Amachawaymi, Yahwe, imaraykum jesed-yuq runa tukurqan, imaraykum iñiq runakuna runap churiyninkunamanta chinkarqankum.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Amachawaymi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "tukurqan"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "jesed-yuq runa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "chinkarqankum"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "iñiq runakuna"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "churiyninkunamanta"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:41.695773203Z",
+  "model": "glm-5.3"
+}

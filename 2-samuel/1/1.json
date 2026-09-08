@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Karqanmi: Shaul wañuynin qhipanmanta, David ⟨את⟩ Amaleqkunata ankurichisqanmanta kutimuqtin, Davidmi Tsiqlaqpi iskay p'unchaw tiyarqan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "qhipanmanta"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuynin"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "hinaspa David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kutimuqtin"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ankurichisqanmanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleqkunata"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amaleqkuna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "tiyarqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Tsiqlaqpi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iskay"
+    }
+  ],
+  "timestamp": "2026-09-08T04:34:41.842797917Z",
+  "model": "glm-5.3"
+}

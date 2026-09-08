@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Hinaspa ama masiykimanta llulla chiqtachaqta kutichinchu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Hinaspa ama"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "kutichinchu"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "masiykimanta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "chiqtachaqta"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "llulla"
+    }
+  ],
+  "timestamp": "2026-09-08T02:28:21.557710915Z",
+  "model": "glm-5.3"
+}

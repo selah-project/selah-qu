@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 21:6",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa ninpi purichirqanmi ⟨את⟩ churiyanta, pacha-qawita ruwarqan, unanchay-willaytawan, aya-rimariqta hinaspa aya-yachaqkunatawan ruwarqan; askhata ruyarqan mana allinta Yahwepa ñawinpi, phiñachinankupaqmi.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "purichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "churiyanta"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churiyanta"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ninpi"
+    },
+    {
+      "surface": "ועונן",
+      "gloss": "pacha-qawita"
+    },
+    {
+      "surface": "ונחש",
+      "gloss": "unanchay-willaytawan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "aya-rimariqta"
+    },
+    {
+      "surface": "וידענים",
+      "gloss": "aya-yachaqkunatawan"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "askhata"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ruyanankupaq"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "phiñachinankupaq"
+    }
+  ],
+  "timestamp": "2026-09-08T05:46:23.568122493Z",
+  "model": "glm-5.3"
+}

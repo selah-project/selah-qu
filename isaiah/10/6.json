@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Ch'usaq runakunap llaqtanmanmi payta kachini, hinaspa ñuqap phiñuyniyuq runakunaman kamachini payta: qhatata qarqunapaq, wak imakunata suwanapaq, hinaspa payta sarunasqa kananpaq churanapaq, k'ikllukunapi llamph'ahina.",
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "llaqtanman"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "ch'usaq runakunap"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "payta kachini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ñuqap phiñuyniyuq"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "kamachini payta"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "qarqunapaq"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "qhatata"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "hinaspa suwanapaq"
+    },
+    {
+      "surface": "בז",
+      "gloss": "wak imakunata"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "hinaspa payta churanapaq"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "sarunasqa kananpaq"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "llamph'ahina"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "k'ikllukunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:57:30.094321227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Adonaym nirqan: Bashanmanta kutichini, kutichini hatun quchap ukhunmanta.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Bashanmanta"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "kutichini"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "kutichini"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "ukhunmanta"
+    },
+    {
+      "surface": "ים",
+      "gloss": "qucha"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:56.207648464Z",
+  "model": "glm-5.3"
+}

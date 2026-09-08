@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 4:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Imarayku chaskinqankum ⟨chay kasqata⟩ Yahwe qamman rikhurqasqanta — paymi taytankunap Elohimnin, Abrahampa (Abrahán) Elohimnin, Itsjakpa (Isaac) Elohimnin, Yaakovpa (Jacob) Elohimninpas.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "chaskinqankum"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chay kasqanta"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "rikhurqasqanta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "taytankunap"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahampa (Abrahán)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjakpa (Isaac)"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "Elohimninpas"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovpa (Jacob)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:22:51.153981928Z",
+  "model": "glm-5.3"
+}

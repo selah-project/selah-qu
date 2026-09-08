@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa wakata utaq uwijata, ⟨את⟩ payta hinaspa ⟨את⟩ wawanta, manam huk p'unchawpi wañuchinkichikchu.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "hinaspa wakata"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "שה",
+      "gloss": "uwijata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ payta",
+      "marks": "payta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "wawanta"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "wawanta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "wañuchinkichik"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    }
+  ],
+  "timestamp": "2026-09-08T01:05:15.662237352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Runam sinkhurirqan, qharipas urayachikurqan; chayrayku ama paykunata perdonaychu.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "sinkhurirqan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runam"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "urayachikurqan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "qharipas"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "perdonaychu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunata"
+    }
+  ],
+  "timestamp": "2026-09-08T05:47:26.927320732Z",
+  "model": "glm-5.3"
+}

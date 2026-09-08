@@ -1,0 +1,66 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "numbers 33:4",
+ "book": "numbers",
+ "lang": "qu",
+ "chapter": 33,
+ "translation": "Mitsrayim runakunaqtaq p'anqachkanku ⟨את⟩ Yahwem wañuchisqankunata, tukuy primominkunata; Yahwetaqmi paykupa diosninkunapipas chiqan chaninchaykunata ruwarqan.",
+ "tokens": [
+  {
+   "surface": "ומצרים",
+   "gloss": "Mitsrayim runakunaqtaq"
+  },
+  {
+   "surface": "מקברים",
+   "gloss": "p'anqachkanku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahwem wañuchisqankunata"
+  },
+  {
+   "surface": "אשר",
+   "gloss": ""
+  },
+  {
+   "surface": "הכה",
+   "gloss": "wañuchisqankunata"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "בהם",
+   "gloss": "paykuna"
+  },
+  {
+   "surface": "כל",
+   "gloss": "tukuy"
+  },
+  {
+   "surface": "בכור",
+   "gloss": "primominkunata"
+  },
+  {
+   "surface": "ובאלהיהם",
+   "gloss": "paykupa diosninkunapipas"
+  },
+  {
+   "surface": "עשה",
+   "gloss": "ruwarqan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwetaqmi"
+  },
+  {
+   "surface": "שפטים",
+   "gloss": "chiqan chaninchaykunata"
+  }
+ ],
+ "timestamp": "2026-09-08T02:22:01.505016819Z",
+ "model": "glm-5.3"
+}

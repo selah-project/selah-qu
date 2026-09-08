@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 94,
+  "translation": "Yahweta, ⟨qam⟩ runakunayki ñak'arichinku, hinaspa churakusqaykita llakichinku.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "runakunayki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "ñak'arichinku"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "hinaspa churakusqaykita"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "llakichinku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:43.582795646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Ñuqap t'akiysqay, hinaspa ñuqap irapaypa waway: imataq Yahwe Tsebaotmanta, Israelpa Elohimninmanta ⟨את⟩ uyarirqanimi, chaytam qamkunaman willirqanimi.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "ñuqap t'akiysqay"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "hinaspa ... waway"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "ñuqap irapaypa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "uyarirqanimi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ manta",
+      "marks": "Yahwe Tsebaot, Israelpa Elohimnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "willirqanimi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    }
+  ],
+  "timestamp": "2026-09-08T06:02:55.849301592Z",
+  "model": "glm-5.3"
+}

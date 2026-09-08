@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "jeremiah 22:9",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 22,
+ "translation": "Hinaspa nirqakum: mayqen Yahwe Elohimninkupa beritninta ⟨את⟩ saqisqankurayku, wak dioskunaman inakurqanku, chaykunatawan sirvirqanku.",
+ "tokens": [
+  {
+   "surface": "ואמרו",
+   "gloss": "Hinaspa nirqaku"
+  },
+  {
+   "surface": "על",
+   "gloss": "rayku"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqen"
+  },
+  {
+   "surface": "עזבו",
+   "gloss": "saqisqanku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "beritninta"
+  },
+  {
+   "surface": "ברית",
+   "gloss": "beritninta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "אלהיהם",
+   "gloss": "Elohimninkupa"
+  },
+  {
+   "surface": "וישתחוו",
+   "gloss": "hinaspa inakurqanku"
+  },
+  {
+   "surface": "לאלהים",
+   "gloss": "dioskunaman"
+  },
+  {
+   "surface": "אחרים",
+   "gloss": "wak"
+  },
+  {
+   "surface": "ויעבדום",
+   "gloss": "hinaspa chaykunata sirvirqanku"
+  }
+ ],
+ "timestamp": "2026-09-08T07:08:40.250028996Z",
+ "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 75,
+  "translation": "Hallp'a t'ikrakun, llapan kawsaqninkunawan; ñuqam columnasninta sayaychirqani. Selah.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "t'ikrakun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "kawsaqninkuna"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "sayaychirqani"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "columnasninta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:47.375138389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa Yehoshua kohenkunaman nirqan: ⟨את⟩ Beritpa sandulunta huqariychik, runakunap ñawpañinta chayaykuychik. Chaysi kohenkuna ⟨את⟩ Beritpa sandulunta huqarirqanku, runakunap ñawpañinman purirqanku.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkunaman"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "huqariychik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritpa sandulunta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandulun"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "Beritpa"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "chayaykuychik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpañinta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "huqarirqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritpa sandulunta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandulun"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "Beritpa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpañinman"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T03:07:31.684164973Z",
+  "model": "glm-5.3"
+}

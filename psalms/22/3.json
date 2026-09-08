@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Elohimniy, p'unchawpi qayllakuni, icha manam kutichinkichu; tutapipas, manam upallay ñuqapaq kanchu.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qayllakuni"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "icha manam"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "kutichinkichu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "tutapipas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "upallay"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:20.793261418Z",
+  "model": "glm-5.3"
+}

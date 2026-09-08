@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 106,
+  "translation": "Kusikuylla kayku mishpata waqaychaqkuna, llapa pachapi chiqan kayta ruraqkuna.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Kusikuylla kayku"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "waqaychaqkuna"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishpata"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruraqkuna"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "chiqan kayta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "pachapi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:17:21.661172963Z",
+  "model": "glm-5.3"
+}

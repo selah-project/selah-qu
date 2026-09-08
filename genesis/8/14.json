@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinallataq iskay ñiqin killapi, killap chunka suqniyoq chunka iskayniyoq p'unchawninpi, hallp'a ch'akirusqam karqan.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "killapiman hinallataq"
+    },
+    {
+      "surface": "השני",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "suqwan"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "chunka iskayniyoqwan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "killap"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ch'akirusqa karqan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:23.586629737Z",
+  "model": "glm-5.3"
+}

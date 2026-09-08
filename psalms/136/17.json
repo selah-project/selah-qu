@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Hatun apukunata maqanamanta, imataq wiñay kachkan ⟨kan⟩mi jesednin.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "maqanamanta"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukunata"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kachkan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:28.828679105Z",
+  "model": "glm-5.3"
+}

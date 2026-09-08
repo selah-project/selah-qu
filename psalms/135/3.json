@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 135,
+  "translation": "Yahata yupaychay, Yahweqa allinmi kasqanrayku; Sutinta takichiy, sumaq kasqanraykum.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "yupaychay"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanrayku"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "takichiy"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "Sutinta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasqanrayku"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "sumaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:12.209236201Z",
+  "model": "glm-5.3"
+}

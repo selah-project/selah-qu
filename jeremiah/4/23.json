@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Rirqanim ⟨את⟩ kay pachata, chayqa tohu vavohu ⟨kan⟩mi; hanaq pachamanwan, chaypi k'anchayninku mana ⟨kan⟩chu.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "rirqanim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kay pachata"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "vavohu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "man"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "k'anchayninku"
+    }
+  ],
+  "timestamp": "2026-09-08T06:49:08.810354542Z",
+  "model": "glm-5.3"
+}

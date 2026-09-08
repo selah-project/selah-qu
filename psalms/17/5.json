@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Ñanniykipi saymi sayarqan ñawpaq ñanray, chakiyman ch'aqaykuchu lliphipirqanchu.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "saymi sayarqan"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ñawpaq ñanray"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "ñanniykipi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana ... -chu"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "lliphipirqanchu"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "chakiyman"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:37.194345538Z",
+  "model": "glm-5.3"
+}

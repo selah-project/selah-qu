@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 12:12",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa Yoyaqimpa p'unchawkunapim kay kohenkuna, tayta ayllukunap umalliqninkuna, karqanku: Serayahpaq Merayah, Yirmeyahpaq Jananyah.",
+  "tokens": [
+    {
+      "surface": "ובימי",
+      "gloss": "hinaspa ... p'unchawkunapi"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyaqimpa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umalliqninkuna"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "tayta ayllukunap"
+    },
+    {
+      "surface": "לשריה",
+      "gloss": "Serayahpaq"
+    },
+    {
+      "surface": "מריה",
+      "gloss": "Merayah"
+    },
+    {
+      "surface": "לירמיה",
+      "gloss": "Yirmeyahpaq"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Jananyah"
+    }
+  ],
+  "timestamp": "2026-09-08T12:25:56.494460911Z",
+  "model": "glm-5.3"
+}

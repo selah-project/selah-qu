@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Uyariychik kayta, llapa runakunalla; karqhariychik llapa kay pachapi kawsaqkuna.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Uyariychik"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kayta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "runakunalla"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "karqhariychik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kawsaqkuna"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "kay pachapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:10.386116446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Hinaspa q'ipi runam ⟨את⟩ makin Abrahampa — apunpa — yarkan urayninman churarqan, hinaspa payman chay rimaymantam turparqan.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "q'ipi runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makin"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "makin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "urayninman"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yarkan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahampa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "apunpa"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "turparqan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "על",
+      "gloss": "mantam"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "chay rimay"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "chay"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:14.983345621Z",
+  "model": "glm-5.3"
+}

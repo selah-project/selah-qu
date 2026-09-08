@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Hinaspa Oholibamahm ⟨את⟩ Yeishpa, ⟨את⟩ Yealampa, ⟨את⟩ Qorahpa wawakunata wacharqanm. Kaykunam Esavpa churiyunku, Kenaan hallp'api payman paqarikunam.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "Hinaspa Oholibamahm"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wacharqanm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeishpa"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yealampa"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yealam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Qorahpa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Qorah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churiyunku"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "paqarikunam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:08:33.686970610Z",
+  "model": "glm-5.3"
+}

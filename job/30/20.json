@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Qamman qaparinim, ichataq manam kutichiwankichu; sayarqanimi, qamtaqmi ñawinchanki ñuqata.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "qaparinim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichataq manam"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "kutichiwankichu"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "sayarqanimi"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "qamtaqmi ñawinchanki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ñuqata"
+    }
+  ],
+  "timestamp": "2026-09-08T11:15:41.961200496Z",
+  "model": "glm-5.3"
+}

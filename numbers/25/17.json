@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Midyanikunata llakichiy ⟨את⟩, hinaspa ⟨את⟩ paykunata wañuchiy.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "llakichiy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midyanikunata"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midyanikunata"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "hinaspa wañuchiy"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ paykunata",
+      "marks": "paykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T01:39:17.751794788Z",
+  "model": "glm-5.3"
+}

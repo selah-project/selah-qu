@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hanaq pacham Elpa hatun sumaq kayninta willakun; paypa makinpa rurasqantawan rakiaq rikuchin.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "willakun"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "hatun sumaq kay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "hinaspa rurasqa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "paypa makin"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "rikuchin"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakia"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:22.038522297Z",
+  "model": "glm-5.3"
+}

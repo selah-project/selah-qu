@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Ovedm ⟨את⟩ Yehuta wawacharqan, hinaspa Yehum ⟨את⟩ Azaryahta wawacharqan.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "hinaspa Oved"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuta"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "hinaspa Yehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaryahta"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaryah"
+    }
+  ],
+  "timestamp": "2026-09-08T12:30:21.501582469Z",
+  "model": "glm-5.3"
+}

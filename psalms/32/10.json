@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Askha nanaykuna mana allin runapaqmi; icha Yahwepi suyakuqtaqa jesed (khuyakuy) muyurichinmi.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "nanaykuna"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "mana allin runapaq"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "icha suyakuq"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "jesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "muyurichinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:41:00.152787621Z",
+  "model": "glm-5.3"
+}

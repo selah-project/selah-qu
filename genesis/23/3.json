@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Chaysi Abraham sayarirqan paypa wañusqanmanta ñawpaqninmanta, Hetpa churinkunawan rimarqanm, nispam:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqninmanta"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "paypa wañusqan"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "rimarqanm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Hetpa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispam"
+    }
+  ],
+  "timestamp": "2026-09-07T23:59:26.397386711Z",
+  "model": "glm-5.3"
+}

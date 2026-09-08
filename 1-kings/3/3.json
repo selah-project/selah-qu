@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa Shelomom ⟨את⟩ Yahweta kuyarqanmi, David taytanpa kamachikuyninkunapi purinampaq; rakinlla bamokunapillam pay carwan, incensowan muchawan.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "kuyarqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "purinampaq"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "kamachikuyninkunapi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanpa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "rakinlla"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bamokunapi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "carwan"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "incensowan muchawan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:00:02.321463111Z",
+  "model": "glm-5.3"
+}

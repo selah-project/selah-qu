@@ -1,0 +1,41 @@
+{
+ "tier": "glm-5.2",
+ "verse": 4,
+ "ref": "psalms 74:4",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 74,
+ "translation": "Chajankum awqaykikuna huñunakuypa chawpinpi; unanchankunatam churanku unancha hina.",
+ "tokens": [
+  {
+   "surface": "שאגו",
+   "gloss": "chajankum"
+  },
+  {
+   "surface": "צרריך",
+   "gloss": "awqaykikuna"
+  },
+  {
+   "surface": "בקרב",
+   "gloss": "chawpinpi"
+  },
+  {
+   "surface": "מועדך",
+   "gloss": "huñunakuypa"
+  },
+  {
+   "surface": "שמו",
+   "gloss": "churanku"
+  },
+  {
+   "surface": "אותתם",
+   "gloss": "unanchankunatam"
+  },
+  {
+   "surface": "אתות",
+   "gloss": "unancha hina"
+  }
+ ],
+ "timestamp": "2026-09-08T10:02:57.499902078Z",
+ "model": "glm-5.3"
+}

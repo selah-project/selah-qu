@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa Yoyada ⟨את⟩ Yonatanta paqarichirqanmi; hinaspa Yonatan ⟨את⟩ Yaduata paqarichirqan.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Hinaspa Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatanta"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "hinaspa Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "paqarichirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaduata"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yadua"
+    }
+  ],
+  "timestamp": "2026-09-08T12:25:56.494299816Z",
+  "model": "glm-5.3"
+}

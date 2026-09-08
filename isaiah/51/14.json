@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Usqhayllam puriq kacharichikunqa; mana wañunqachu phujuman, mana chusaqkanqachu mikhunan.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "usqhaylla"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "kacharichikunqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wañunqa"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "phujuman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "chusaqkanqa"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "mikhunan"
+    }
+  ],
+  "timestamp": "2026-09-08T06:37:50.841486964Z",
+  "model": "glm-5.3"
+}

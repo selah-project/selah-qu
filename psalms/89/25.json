@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Ñuqap cheqaq kayniy hinaspa ñuqap jesedniy paywanmi kachkanqa, hinaspa ñuqap Sutillapi paypa sunkaqa hanaqman t'ikrakunqa.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "ñuqap cheqaq kayniy"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "hinaspa ñuqap jesedniy"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywanmi"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "hinaspa ñuqap Sutillapi"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "hanaqman t'ikrakunqa"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "paypa sunkaqa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:47.393550136Z",
+  "model": "glm-5.3"
+}

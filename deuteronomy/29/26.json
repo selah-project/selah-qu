@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Chayrayku Yahwep phiñakuynin sinchinmi chay hallp'api, llapa ⟨את⟩ maleinata — kay qelqapi qillqasqa — chay pataman apamunanpaq thatanchakurqan.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "thatanchakurqan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "phiñakuynin sinchin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwep"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "chay hallp'api"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "apamunanpaq"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chay pataman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapa maleinata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "maleinata"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "qillqasqa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kay qelqapi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T02:57:19.212434852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa Asher (Aser) ayllumanta ⟨את⟩ Mishalta michina pampanwan, ⟨את⟩ Avdonta michina pampanwan.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "hinaspa ... ayllumanta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher (Aser)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishalta"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michina pampanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michina pampanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdonta"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michina pampanta"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michina pampanta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:28:41.834775900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Sunqu yachayniyuqmi, kallpawanpas sinchim; ¿pipas payman sinchikurqan, allin tukurqanchu?",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "yachayniyuq"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "sunqu"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "sinchim"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kallpawanpas"
+    },
+    {
+      "surface": "מי",
+      "gloss": "pipas"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "sinchikurqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "allin tukurqanchu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:00:56.444378842Z",
+  "model": "glm-5.3"
+}

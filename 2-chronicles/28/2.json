@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 28,
+  "translation": "Israel apukunap ñanpi purirqanmi, hinallataq t'inkisqa dioskunata Baalimpaq (Balespaq) ruwarqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "purirqanmi"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "apukunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hinallataq"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "t'inkisqa dioskuna"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baalimpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T13:13:01.583685Z",
+  "model": "glm-5.3"
+}

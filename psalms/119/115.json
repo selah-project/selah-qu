@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 119,
+  "translation": "Sayawaway millay ruwaqkuna ñuqamanta; ñuqaqmi Elohimniypa kamachikuyninta waqaychasaq.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "sayawaway"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "millay ruwaqkuna"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "waqaychasaq"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "kamachikuyninta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    }
+  ],
+  "timestamp": "2026-09-08T14:16:35.733958831Z",
+  "model": "glm-5.3"
+}

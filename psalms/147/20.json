@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 147,
+  "translation": "Mana hayk'appas chayninta llapa runa llaqtakunawan ruwarqanchu; kamachikuyninkunataq mana riqsirqankuchu. Yah-ta yupaychaychik!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqanchu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayninta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "runa llaqtakunawan"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "kamachikuyninkunta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "riqsirqankuchu"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "yupaychaychik"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah-ta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:58.025663399Z",
+  "model": "glm-5.3"
+}

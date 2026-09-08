@@ -1,0 +1,60 @@
+{
+ "tier": "glm-5.2",
+ "verse": 37,
+ "ref": "leviticus 19:37",
+ "book": "leviticus",
+ "lang": "qu",
+ "chapter": 19,
+ "translation": "Hinaspa llapa ⟨את⟩ chuqakunayta hinaspa ⟨את⟩ llapa taripakuyniyta waqaychankichik, ⟨את⟩ paykunata ruwankichik: ñuqam Yahwe ⟨kan⟩mi.",
+ "tokens": [
+  {
+   "surface": "ושמרתם",
+   "gloss": "hinaspa waqaychankichik"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "llapa chuqakunayta"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "חקתי",
+   "gloss": "chuqakunay"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "llapa taripakuyniyta"
+  },
+  {
+   "surface": "כל",
+   "gloss": "llapa"
+  },
+  {
+   "surface": "משפטי",
+   "gloss": "taripakuyniy"
+  },
+  {
+   "surface": "ועשיתם",
+   "gloss": "ruwankichik"
+  },
+  {
+   "surface": "אתם",
+   "gloss": "⟨את⟩",
+   "marks": "paykunata"
+  },
+  {
+   "surface": "אני",
+   "gloss": "ñuqa"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  }
+ ],
+ "timestamp": "2026-09-08T14:58:10.118935960Z",
+ "model": "glm-5.3"
+}

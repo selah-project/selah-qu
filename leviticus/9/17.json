@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Chaymanta ⟨את⟩ minchata qayllachirqan, makinpa k'apanta chaymantam hunt'arqan, hinaspa altarpa hawanpi q'apachirqan, paqarinpa olata (ofrenda ruphachisqa) qespillamanta.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "qayllachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchata"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "hunt'arqan"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "makinpa k'apan"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "q'apachirqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "qespillamanta"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "ola"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "paqarinpa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:54:25.561513697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Ichapas jesedniy (khuyakuy) manam paymanta p'akiqasaqchu, hunt'asqayniywanpas manam llullakusaqchu.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "ichapas jesedniy (khuyakuy)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "p'akiqasaq"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "paymanta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manapas"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "llullakusaq"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "hunt'asqayniywan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:24.540988138Z",
+  "model": "glm-5.3"
+}

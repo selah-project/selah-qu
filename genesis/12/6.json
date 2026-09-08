@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspa Avram hallp'anta karurqan Shekem kitiman, Moreh karpayman kama; hinaspa Kanaan runam chay pachapi chayarqan hallp'api.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "karurqan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'anta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "kitiman"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "karpay"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "Moreh"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "hinaspa Kanaan runam"
+    },
+    {
+      "surface": "אז",
+      "gloss": "chay pachapi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:49.831330952Z",
+  "model": "glm-5.3"
+}

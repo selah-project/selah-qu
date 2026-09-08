@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Ch'isi tuta chawpinpi sayarirqan, ñuqa puñusqa kaptiy, ⟨את⟩ ñuqap wawayta qhospa hawamanta aparqan, paypa wikch'inta churarqan, hinaspa ⟨את⟩ paypa wañusqa wawanta ñuqap wikch'inman churarqan.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ch'isi tuta"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "aparqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap wawayta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ñuqap wawayta"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "qhospa hawamanta"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "ñuqa puñusqa kaptiy"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "puñusqa"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "paypa wikch'in"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paypa wañusqa wawanta"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "paypa wawanta"
+    },
+    {
+      "surface": "המת",
+      "gloss": "wañusqa"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "ñuqap wikch'inman"
+    }
+  ],
+  "timestamp": "2026-09-08T04:58:47.780976914Z",
+  "model": "glm-5.3"
+}

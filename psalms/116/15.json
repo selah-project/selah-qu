@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 116,
+  "translation": "Yahwepa ñawinpi chaninniyuqmi wañuy, paypa khuyasqankunapaq.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "chaninniyuq"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ñawinpi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "wañuy"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "paypa khuyasqankunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:54.891060294Z",
+  "model": "glm-5.3"
+}

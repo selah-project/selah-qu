@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 77,
+  "translation": "Ñañay p'unchawpi Adonayta maskharqanim; tutamanta makiy thisqarqan, manam samirqachu; nefeshniy ñañakuyta mana munarqanchu.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ñañay"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayta"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "maskharqanim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makiy"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "thisqarqan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "samirqachu"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "mana munarqan"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "ñañakuyta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:02:36.323461611Z",
+  "model": "glm-5.3"
+}

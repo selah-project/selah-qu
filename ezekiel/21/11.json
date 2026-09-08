@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 21:11",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Qamtaq, runap wawan, anqaymi; kintinkunap p'akiyninwan, khakariywanmi ñawinkunap ñawpaqninpi anqanki.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Qamtaq"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    },
+    {
+      "surface": "האנח",
+      "gloss": "anqaymi"
+    },
+    {
+      "surface": "בשברון",
+      "gloss": "p'akiyninwan"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "kintinkunap"
+    },
+    {
+      "surface": "ובמרירות",
+      "gloss": "khakariywanmi"
+    },
+    {
+      "surface": "תאנח",
+      "gloss": "anqanki"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ñawinkunap ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:01:20.741864214Z",
+  "model": "glm-5.3"
+}

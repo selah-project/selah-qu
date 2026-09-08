@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 74,
+  "translation": "Ama qunqaychu awqaykikunap sininta; sayariykunap punkichayninmi sayaqlla sayawanmi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ama"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "qunqaychu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "sinin"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "awqaykikunap"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "punkichaynin"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "sayariykunap"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sayawan"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sayaqlla"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:07.492002790Z",
+  "model": "glm-5.3"
+}

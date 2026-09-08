@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Yahwepa angelmi iskay kuti kutimurqan, payta llamiypan willarqan: Sayariy, mikhuy; ñanqa qamta aswan hatunmi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "kutimurqan"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "angel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "iskay kuti"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "llamiypan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Sayariy"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhuy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "רב",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "qamta aswan"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ñan"
+    }
+  ],
+  "timestamp": "2026-09-08T05:18:11.928661156Z",
+  "model": "glm-5.3"
+}

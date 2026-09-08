@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 15,
+ "ref": "psalms 19:15",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 19,
+ "translation": "Simiy rimayninkuna, sunquy yuyayninpas ñawpaqykiwan allin chaskikunampaq kachun, Yahwe, ratkay, qispichiqniywan.",
+ "tokens": [
+  {
+   "surface": "יהיו",
+   "gloss": "kachun"
+  },
+  {
+   "surface": "לרצון",
+   "gloss": "allin chaskikunampaq"
+  },
+  {
+   "surface": "אמרי",
+   "gloss": "rimayninkuna"
+  },
+  {
+   "surface": "פי",
+   "gloss": "simiy"
+  },
+  {
+   "surface": "והגיון",
+   "gloss": "yuyayninpas"
+  },
+  {
+   "surface": "לבי",
+   "gloss": "sunquy"
+  },
+  {
+   "surface": "לפניך",
+   "gloss": "ñawpaqykiwan"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "צורי",
+   "gloss": "ratkay"
+  },
+  {
+   "surface": "וגאלי",
+   "gloss": "qispichiqniywan"
+  }
+ ],
+ "timestamp": "2026-09-08T09:34:43.255659037Z",
+ "model": "glm-5.3"
+}

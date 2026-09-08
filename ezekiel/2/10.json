@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chayta ⟨את⟩ ñuqap ñawpaqninpi mast'arqan; chayqa ñawpaqninpi qhipanpipas qillqasqa ⟨karqan⟩, chaypi llaki takikuna, ñararikuy, llakikuypas qillqasqa karqan.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "mast'arqan"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "chayta (winta)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñuqap ñawpaqninpi"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "chayqa"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "qillqasqa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawpaqninpi"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "qhipanpipas"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "qillqasqa karqan"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "llaki takikuna"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "ñararikuy"
+    },
+    {
+      "surface": "והי",
+      "gloss": "llakikuypas"
+    }
+  ],
+  "timestamp": "2026-09-08T07:51:29.829712481Z",
+  "model": "glm-5.3"
+}

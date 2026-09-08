@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 11:29",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Chay pachapim karqan: Yaravam (Jeroboam) Yerushalayimmanta lluqsirqan, hinaspa Ahiya (Ahías), Shilonpa navi, ⟨את⟩ payta ñanpi tarirqan; payqa musuq salmawan p'achallikurqan, hinaspa iskayninku chakrapi sapallallam karqanku.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "pachapi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "וירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsirqan"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalayimmanta"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "tarirqan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Ahiyata"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "Shilonpa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "מתכסה",
+      "gloss": "p'achallikurqan"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "salmawan"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "ושניהם",
+      "gloss": "iskayninku"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "sapallalla"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chakrapi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:11:05.940797783Z",
+  "model": "glm-5.3"
+}

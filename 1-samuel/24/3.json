@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Shaulmi Israelpa llapanmanta kimsa waranqa akllasqa runata hap'irqan, hinaspa sallqa kawrakunap ruminkunap ñawpanpi ⟨את⟩ Davidta, paypa runankunatawan maskaq riparqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "kimsa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "akllasqa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapanmanta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "riparqan"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "masqaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "paypa runankunatawan"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpan"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ruminkunap"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "sallqa kawrakunap"
+    }
+  ],
+  "timestamp": "2026-09-08T04:24:43.169565496Z",
+  "model": "glm-5.3"
+}

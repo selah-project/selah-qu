@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 61,
+  "translation": "Apup p'unchawninkunaman p'unchawkunatam yapanki, wataninkunaqa miramanta mirakama hina kanqa.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkunata"
+    },
+    {
+      "surface": "על",
+      "gloss": "…man (pataman)"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "p'unchawninkuna"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "yapanki"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "wataninkuna"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "דר",
+      "gloss": "mira"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mira…wan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:55.288293235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 107,
+  "translation": "Hinallataq toda korban nisqakunata koranchikta churachun, takiruspataq paypa rurasqankunanta willachun.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "hinallataq koranchikta churachun"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "korban nisqakunata"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "toda"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "takiruspataq willachun"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "paypa rurasqankunanta"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "takiruspa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:18:04.693660672Z",
+  "model": "glm-5.3"
+}

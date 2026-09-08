@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 1:15",
+  "book": "zephaniah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "P'unchaw ch'akiymi chay p'unchaw: p'unchaw llaki, p'unchaw chaqlliy, p'unchaw ch'usaqchay, p'unchaw waqlliychay, p'unchaw tuta, p'unchaw llinphi tuta, p'unchaw phuyu, p'unchaw q'ultu phuyu.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ch'akiy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "chay p'unchaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "llaki"
+    },
+    {
+      "surface": "ומצוקה",
+      "gloss": "chaqlliy"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "שאה",
+      "gloss": "ch'usaqchay"
+    },
+    {
+      "surface": "ומשואה",
+      "gloss": "waqlliychay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "llinphi tuta"
+    },
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "phuyu"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "q'ultu phuyu"
+    }
+  ],
+  "timestamp": "2026-09-08T14:10:45.156435851Z",
+  "model": "glm-5.3"
+}

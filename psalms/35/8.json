@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Chusaq chinkay payman chayamunqamanmi, mana yachaspa; hinaspa pakasqa warminninqa paytata hark'anqami; chusaq chinkaypi urmunqaman.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "payman chayamunqamanmi"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "chusaq chinkay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yachaspa"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "hinaspa warminnin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "pakasqa"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "paytata hark'anqami"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "chusaq chinkaypi"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "urmunqaman"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:42:08.160017647Z",
+  "model": "glm-5.3"
+}

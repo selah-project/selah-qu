@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Q'illwa siq'ikunaqa sumaq tiyanakunapi ñuqaman urmarqankumi; chaynapuni sumaq rantiy ñuqap kachkan.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "q'illwa siq'ikunaqa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "urmarqanku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "sumaq tiyanakunapi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "chaynapuni"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "rantiy"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ñuqap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:13.739154067Z",
+  "model": "glm-5.3"
+}

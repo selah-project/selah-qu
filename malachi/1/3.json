@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa ⟨את⟩ Esavta ch'ikiykurqanim; hinaspa ⟨את⟩ orqunkunata ch'usaqchaykurqani, hinaspa ⟨את⟩ churinta ch'usaq pachapi atuqkunapaq.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Esavta"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavta"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ch'ikiykurqanim"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "ch'usaqchaykurqani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "orqunkunata"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "orqunkunata"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ch'usaqchay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "churinta"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "churinta"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "atuqkunapaq"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ch'usaq pachapi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:25:54.476058869Z",
+  "model": "glm-5.3"
+}

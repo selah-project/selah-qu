@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 65,
+  "translation": "Qamman much'ayqa ch'inmi ⟨kan⟩, Elohim, Tsiyonpi; hinaspa qammanmi nederta hunt'akunqa.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "ch'in"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "much'ay"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyonpi"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "hinaspa qamman"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "hunt'akunqa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "neder"
+    }
+  ],
+  "timestamp": "2026-09-08T09:56:46.895239826Z",
+  "model": "glm-5.3"
+}

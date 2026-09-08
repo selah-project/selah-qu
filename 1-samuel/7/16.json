@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Sapa watapi purirqanmi, Bet-El (Betel) hinaspa Gilgal hinaspa Mitzpata muyurqan, hinaspa kay kitikuna llapapi ⟨את⟩ Israelta ⟨את⟩ llapata tariparqan.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "purirqanmi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "sapa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "watapi"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "muyurqan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El (Betel)"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "hinaspa Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "hinaspa Mitzpata"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "tariparqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llapata (kay kitikunata)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapata"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "kitikuna"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "kay"
+    }
+  ],
+  "timestamp": "2026-09-08T04:06:10.324567527Z",
+  "model": "glm-5.3"
+}

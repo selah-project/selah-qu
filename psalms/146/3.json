@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 146,
+  "translation": "Ama apukunapi iñiychikichikchu, manataq runap wawanpi; paypaqqa mana qespichiy ⟨kan⟩chu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "iñiychikichik"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "apukunapi"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "runap wawanpi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runa"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "mana ⟨kan⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypaq"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "qespichiy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:11.434886189Z",
+  "model": "glm-5.3"
+}

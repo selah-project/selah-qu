@@ -1,0 +1,87 @@
+{
+ "tier": "glm-5.2",
+ "verse": 16,
+ "ref": "2-chronicles 11:16",
+ "book": "2-chronicles",
+ "lang": "qu",
+ "chapter": 11,
+ "translation": "Hinaspa paykuna qhipanta, Israelpa llapan ayllunmanta, mayqenkuna ⟨את⟩ sunqunkunata ⟨את⟩ Yahweta, Israelpa Elohimninta maskhakunanpaq churakurqan, chinkurqankum Yerushalayimman, Yahweman, yayakunaapakunap Elohimninman haywarinankupaq.",
+ "tokens": [
+  {
+   "surface": "ואחריהם",
+   "gloss": "paykuna qhipanta"
+  },
+  {
+   "surface": "מכל",
+   "gloss": "llapan"
+  },
+  {
+   "surface": "שבטי",
+   "gloss": "ayllunmanta"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israelpa"
+  },
+  {
+   "surface": "הנתנים",
+   "gloss": "mayqenkuna"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "sunqunkunata"
+  },
+  {
+   "surface": "לבבם",
+   "gloss": "sunqunkunata"
+  },
+  {
+   "surface": "לבקש",
+   "gloss": "maskhakunanpaq"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahweta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweta"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "Elohimnin"
+  },
+  {
+   "surface": "ישראל",
+   "gloss": "Israelpa"
+  },
+  {
+   "surface": "באו",
+   "gloss": "chinkurqanku"
+  },
+  {
+   "surface": "ירושלם",
+   "gloss": "Yerushalayimman"
+  },
+  {
+   "surface": "לזבוח",
+   "gloss": "haywarinankupaq"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahweman"
+  },
+  {
+   "surface": "אלהי",
+   "gloss": "Elohimninman"
+  },
+  {
+   "surface": "אבותיהם",
+   "gloss": "yayakunaapakunap"
+  }
+ ],
+ "timestamp": "2026-09-08T12:59:28.337254728Z",
+ "model": "glm-5.3"
+}

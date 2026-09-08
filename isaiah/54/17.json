@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 54:17",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 54,
+  "translation": "Qam contrata ruwasqa mayqin llamk'anapas manam atipanqachu; qamwan ⟨את⟩ sayarimuq llapa simita taripaypi qam llankichinki. Kaymi Yahwepa yanapaqninkunap qarasqan (herencia), hinallataq chanin kayninku ⟨את⟩ ñuqamanta hamun, Yahwepa willakuyninmi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mayqin ... pas"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "llamk'ana"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "ruwasqa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qam contrata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "atipanchu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinallataq llapa"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "simi"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sayarimuq"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan",
+      "marks": "qamwan (llapa simi, qamwan sayarimuq)"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "taripaypi"
+    },
+    {
+      "surface": "תרשיעי",
+      "gloss": "qam llankichinki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "qarasqan (herencia)"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yanapaqninkunap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "וצדקתם",
+      "gloss": "hinallataq chanin kayninku"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ñuqamanta",
+      "marks": "ñuqamanta (chanin kayninku, ñuqamanta hamun)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "willakuynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:33:09.948387189Z",
+  "model": "glm-5.3"
+}

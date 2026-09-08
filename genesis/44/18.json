@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 44:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Chaysi Yehudam payman qayllakurqan, nispataq nirqan: Apuniy, ama ch'eqiychu — yanapanayki rimayta munan apuniyki rinrinkunapi; ama phiñakuychu yanapanaykiwan, imaraykuchus qammi Paroh hina kanki.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "qayllakurqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nispataq nirqan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Apuniy, ama ch'eqiychu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apuniyki"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "rimayta munan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ama ch'eqiychu ⟨munawan⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanapanayki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "rinrinkunapi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "apuniyki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama ⟨phiñakuychu⟩"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "phiñakuy"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "⟨phiñayki⟩"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "yanapanaykiwan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "qam hina"
+    },
+    {
+      "surface": "כפרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-09-08T00:15:35.804137966Z",
+  "model": "glm-5.3"
+}

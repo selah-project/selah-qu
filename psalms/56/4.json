@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 56,
+  "translation": "P'unchaw manchariptiy, ñuqa qampi itiytasaqmi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "manchariptiy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "itiytasaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:58.712129683Z",
+  "model": "glm-5.3"
+}

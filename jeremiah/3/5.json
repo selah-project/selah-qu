@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "¿Wiñaypaqchu p'iqta waqaychanqa, puchukaykama⟨chu⟩ waqaychanqa? Qaway, rimarqanki, hinaspa mana allin ruranakunata rurqanki, atirqtayki hina.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "p'iqta waqaychanqachu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨chu⟩"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "waqaychanqa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "puchukaykama"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qaway"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "rimarqanki"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "hinaspa rurqanki"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "mana allin ruranakunata"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "atirqtayki hina"
+    }
+  ],
+  "timestamp": "2026-09-08T06:53:51.045823870Z",
+  "model": "glm-5.3"
+}

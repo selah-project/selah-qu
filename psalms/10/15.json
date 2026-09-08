@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "T'uqyachiy raqra millay runap makinta; maskay riqsillayninta — mana imapas tarikunqachu.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "t'uqyachiy"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "makinta"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "raqra"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "millay runap"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "maskay"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "riqsillayninta"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana imapas"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "tarikunqachu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:36.647773972Z",
+  "model": "glm-5.3"
+}

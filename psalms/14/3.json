@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Llapankum akancharqanku, llapanllawan llat'anarqankum; allin ruwaq manam kanchu, ni hukllapas manam kanchu.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "llapankum"
+    },
+    {
+      "surface": "סר",
+      "gloss": "akancharqanku"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "llapanllawan"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "llat'anarqankum"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allin"
+    },
+    {
+      "surface": "אין",
+      "gloss": "manam kanchu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukllapas"
+    }
+  ],
+  "timestamp": "2026-09-08T09:32:55.476253014Z",
+  "model": "glm-5.3"
+}

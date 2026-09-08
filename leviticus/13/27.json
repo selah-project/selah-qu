@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 13:27",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Qanchis ñiqin p'unchawpi kohen ⟨את⟩ payta qhawanqa; qarapi ancha phanqaptinqa, kohen ⟨את⟩ payta millay willanqa: tsaraat ñak'ariymi.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "qhawanqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "p'unchawpi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "qanchis ñiqin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kaptinqa"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "phanqaptin"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "ancha phanqaptin"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "qarapi"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "millay willanqa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "payta"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ñak'ariy"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:59:17.084226637Z",
+  "model": "glm-5.3"
+}

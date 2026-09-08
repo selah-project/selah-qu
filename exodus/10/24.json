@@ -1,0 +1,82 @@
+{
+ "tier": "glm-5.2",
+ "verse": 24,
+ "ref": "exodus 10:24",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 10,
+ "translation": "Parom Mosheman qayarqanmi, nispa: Lluqsiy, ⟨את⟩ Yahweta yanapakuy; ichaqa michiykichikwan wakaykichikllam chaypi waqaychasqa kanqaku; wawachakunaykichiktawan kikinchikkunan rinkichik.",
+ "tokens": [
+  {
+   "surface": "ויקרא",
+   "gloss": "qayarqanmi"
+  },
+  {
+   "surface": "פרעה",
+   "gloss": "Parom"
+  },
+  {
+   "surface": "אל",
+   "gloss": "Moshe ñawpaqman"
+  },
+  {
+   "surface": "משה",
+   "gloss": "Mosheta"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "nispa"
+  },
+  {
+   "surface": "לכו",
+   "gloss": "lluqsiy"
+  },
+  {
+   "surface": "עבדו",
+   "gloss": "yanapakuy"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahwehta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahweta"
+  },
+  {
+   "surface": "רק",
+   "gloss": "ichaqa"
+  },
+  {
+   "surface": "צאנכם",
+   "gloss": "michiykichik"
+  },
+  {
+   "surface": "ובקרכם",
+   "gloss": "wakaykichikwan"
+  },
+  {
+   "surface": "יצג",
+   "gloss": "chaypi waqaychasqa kanqaku"
+  },
+  {
+   "surface": "גם",
+   "gloss": "-tawan"
+  },
+  {
+   "surface": "טפכם",
+   "gloss": "wawachakunaykichik"
+  },
+  {
+   "surface": "ילך",
+   "gloss": "rinkichik"
+  },
+  {
+   "surface": "עמכם",
+   "gloss": "kikinchikkunan"
+  }
+ ],
+ "timestamp": "2026-09-08T14:52:45.834030091Z",
+ "model": "glm-5.3"
+}

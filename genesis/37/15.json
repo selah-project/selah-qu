@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Huk runa payta tarirqanmi — payqa chakrapi chakiykachasqa karqan — chaysi chay runa tapurqan: «Imata maskashanki?»",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "tarirqan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "huk runa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "—"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "chakiykachasqa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "chakrapi"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "tapurqan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "chay runa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "—"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Imata"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "maskashanki"
+    }
+  ],
+  "timestamp": "2026-09-08T00:09:22.160517755Z",
+  "model": "glm-5.3"
+}

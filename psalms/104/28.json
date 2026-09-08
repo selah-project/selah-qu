@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Quptiykiqa huñinkum; makiyikita kichaptiykiqa allinwan hunt'akapunkum.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "quptiyki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "huñinkum"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "kichaptiyki"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyikita"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "hunt'akapunkum"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinwan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:39.120842408Z",
+  "model": "glm-5.3"
+}

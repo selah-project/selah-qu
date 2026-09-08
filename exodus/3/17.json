@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaymi nirqani: ⟨את⟩ qamkunata Mitsrayimpa nanasqanmanta hawanman apasaq, Kanaanipa hallp'ankama, Hetipawan, Emoripawan, Perizipawan, Hiwipawan, Yebusitipawan, hallp'amanman — ñawinakunatawan llamphuta purichiq hallp'amanman.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Chaymi nirqani"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "hawanman apasaq"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "nanasqanmanta"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'ankama"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaanipa"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Hetipawan"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Emoripawan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Perizipawan"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Hiwipawan"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Yebusitipawan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "hallp'amanman"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "purichiq"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ñawinakunatawan"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "llamphutawan"
+    }
+  ],
+  "timestamp": "2026-09-08T00:23:08.326018642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 33,
+  "translation": "Israelpa wawankuna Rameses (Ramsés) llaqtamanta purirqankum, hinaspa Sukot (Succot)pi tiyanakurqanku.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "purirqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wawankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "Rameses llaqtamanta"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "tiyanakurqanku"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "Sukotpi"
+    }
+  ],
+  "timestamp": "2026-09-08T02:22:24.226670067Z",
+  "model": "glm-5.3"
+}

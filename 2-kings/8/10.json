@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Elishea (Eliseo) payta nirqanmi: «Riy, niy: kawsanki» nispa. Icha Yahwem ñuqaman rikuchiwarmi: wañunmi wañuq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payta"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishea"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Riy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "niy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "(manam)"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kawsa-"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "kawsanki"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "rikuchiwarmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "icha"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañu-"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wañunmi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:31:22.084004149Z",
+  "model": "glm-5.3"
+}

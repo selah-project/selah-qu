@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Libnah (Libna) apun, hukmi; Adulam (Adulam) apun, hukmi.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libnah (Libna)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adulam (Adulam)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukmi"
+    }
+  ],
+  "timestamp": "2026-09-08T03:16:15.255285554Z",
+  "model": "glm-5.3"
+}

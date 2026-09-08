@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 1:44",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Chaysi chay urqupi tiyaq Emori qamkunap qayllanman lluqsimurqa, achikuykuna ruqyan hina qamkunata ⟨את⟩ qatirqaku, Seirpipas mak'arqaku qamkunata ⟨את⟩, Hormahkama.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsimurqa"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "tiyaq"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "urqupi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "qamkunap qayllanman"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "qatirqaku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "ruqyan"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "achikuykuna"
+    },
+    {
+      "surface": "ויכתו",
+      "gloss": "mak'arqaku"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "Seirpi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Hormah"
+    }
+  ],
+  "timestamp": "2026-09-08T02:25:52.903484731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "Hinaspam ruwanki ⟨את⟩ chayta: q'apachisqa wira, santu unkhachiy, q'apasqa t'inkisqa, q'apaq runap ruwasqan hina; santu unkhachiy wira kanqa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "hinaspam ruwanki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ chayta",
+      "marks": "wira"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wira"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "unkhachiy"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santu"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "q'apachiy"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "q'apasqa t'inkisqa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ruwasqa"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "q'apaq"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wira"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "unkhachiy"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    }
+  ],
+  "timestamp": "2026-09-08T00:41:03.836311549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Babel (Babilonia) runakunam ⟨את⟩ Sukkot Benot diosta rurarqanku; Kut runakunaq ⟨את⟩ Nergalta rurarqanku; Jamat runakunaq ⟨את⟩ Ashimata rurarqanku.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "runakunam"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "rurarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot Benot diosta"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "runakunaq"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "rurarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergalta"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "runakunaq"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Jamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "rurarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashimata"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-09-08T05:40:26.552699628Z",
+  "model": "glm-5.3"
+}

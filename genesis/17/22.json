@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 17,
+  "translation": "Paywan rimayta tukuchirqanmanta, hinaspa Elohim Abrahammanta hananman sant'arqan.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "tukuchirqan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "rimayta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "paywan ⟨את⟩"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "sant'arqan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "Abrahammanta"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    }
+  ],
+  "timestamp": "2026-09-07T23:56:21.158900265Z",
+  "model": "glm-5.3"
+}

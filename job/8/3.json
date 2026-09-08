@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Elqa kamachikuyta wanch'uchunchu? Shaddayqa chiqan kayta wanch'uchunchu?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "wanch'uchunchu"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kamachikuyta"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Shaddayqa...-chu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "wanch'uchunchu"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "chiqan kayta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:00:03.545968259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Mitsrayimta (Egipto) maqaq, paykunap ñawpaq paqarisqankunawan; imaraykuchus paypa jesednin wiñaypaqmi.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "maqaq"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimta"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "paykunap ñawpaq paqarisqankunawan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:29:24.473668164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Payqa mama quchata upyarqanmi, chaymi ch'akirirqan; mayu tukuykuntawan ch'akichirqanmi. Bashanwan, Karmelwan llakikurqankum, Lebanonpa t'ikankuna llakikurqanmi.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "upyarqan"
+    },
+    {
+      "surface": "בים",
+      "gloss": "mama quchata"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "chaymi ch'akirirqan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tukuykuntawan"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "mayu"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "ch'akichirqanmi"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "llakikurqankum"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashanwan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "Karmelwan"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "t'ikankuna"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanonpa"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "llakikurqanmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:11:16.293331923Z",
+  "model": "glm-5.3"
+}

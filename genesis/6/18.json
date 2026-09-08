@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 6:18",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Sayarichishani ⟨את⟩ Beritniyta ⟨את⟩ qamwan; arqaman yaykunki qam, churiykimwan, warmiykimwan, churiykip warminkunawan ⟨את⟩ qamwan.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Sayarichishani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beritniyta"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritniyta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "yaykunki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "arqa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "churiykimwan"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "warmiykimwan"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "warmikuna"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "churiykip"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:11.500168828Z",
+  "model": "glm-5.3"
+}

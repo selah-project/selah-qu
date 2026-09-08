@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 89:43",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Paña makinta wichq'achirqankim awqankunap; kusichirqankim llapan awqankunata.",
+  "tokens": [
+    {
+      "surface": "הרימות",
+      "gloss": "wichq'achirqankim"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "paña maki"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "awqankunap"
+    },
+    {
+      "surface": "השמחת",
+      "gloss": "kusichirqankim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "awqankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:09:26.758006242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 76,
+  "translation": "Rikhurichikunmi Elohim Yahudapi, Israelpitaq Sutin hatunmi.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "rikhurichikunmi"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahudapi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Israelpi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Sutin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:12.592912620Z",
+  "model": "glm-5.3"
+}

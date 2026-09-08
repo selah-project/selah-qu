@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Karqanmi Achashveroshpa p'unchawkunapi — paymi Achashverosh, apu kaq, Hodumanta Kushkama, qanchis chunka iskay pachak mamallaqtakamata kamachiq (Asuero).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "p'unchawkunapi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashveroshpa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "Hodumanta"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "Kushkama… kama"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "qanchis"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "chunka iskay"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "mamallaqtakamata"
+    }
+  ],
+  "timestamp": "2026-09-08T14:24:29.378129253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 115,
+  "translation": "Paykunap rurasqa diosninkuqa qullqim, quriwanmi; runap makinkunap rurasqanmi.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "rurasqa diosninku"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qullqi"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "quriwan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "rurasqa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makinkuna"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "runap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:21:52.802401446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspam ⟨את⟩ wawqeyninkunata huñurqanku, ñawpaqta ch'iqllikurqanku, apupa kamachikuyninman hina, Yahwepa siminkunaman hina, Yahwepa wasinta ch'iqllinankupaq yaykurqanku.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "huñurqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawqeyninkunata"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "wawqeyninkunata"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "ch'iqllikurqanku"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "yaykurqanku"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "kamachikuyninman hina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apupa"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "siminkunaman hina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ch'iqllinankupaq"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:17:33.139062442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chiqaqmi Elohim yachanmi: chay p'unchawpi chaymanta mikhuptiykichik, ñawiykichi kicharikunqami, hinaspa Elohim hina tukunkichik, allinta millaytawan yachaq kaspa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chiqaqmi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yachanmi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "mikhuptiykichik"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "kicharikunqami"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ñawiykichi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "tukunkichik"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "Elohim hina"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "yachaq"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "millaytawan"
+    }
+  ],
+  "timestamp": "2026-09-07T23:51:25.095530208Z",
+  "model": "glm-5.3"
+}

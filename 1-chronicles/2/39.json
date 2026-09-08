@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Hinaspa Azaryahm ⟨את⟩ Jeletsta wawacharqan, hinaspa Jeletsm ⟨את⟩ Elasahta wawacharqan.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "hinaspa Azaryah"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeletsta"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Jelets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "hinaspa Jelets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wawacharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasahta"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasah"
+    }
+  ],
+  "timestamp": "2026-09-08T12:30:21.501734066Z",
+  "model": "glm-5.3"
+}

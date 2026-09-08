@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 43,
+  "translation": "Sichus munanki ⟨את⟩ wawqeyta kachay qam ⟨את⟩ ñuqanchikwan, uraykusaqku hinaspa qampaq mikhunata rantisaqku.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "munanki"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "kachay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wawqeyta"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "wawqeyta"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ñuqanchikwan"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "uraykusaqku"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "hinaspa rantisaqku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mikhunata"
+    }
+  ],
+  "timestamp": "2026-09-08T00:13:56.489523620Z",
+  "model": "glm-5.3"
+}

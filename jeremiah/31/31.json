@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Qhawaymi, p'unchawkuna hamushan — Yahwepa willakuynin —: ñuqam ⟨את⟩ Israelpa wasinta, hinaspa ⟨את⟩ Yehudapa wasinta musuq Beritwan ruwasaq.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qhawaymi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "p'unchawkuna"
+    },
+    {
+      "surface": "באים",
+      "gloss": "hamushan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "willakuynin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "ñuqam ruwasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yehudapa wasinta"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wasinta"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Beritwan"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "musuq"
+    }
+  ],
+  "timestamp": "2026-09-08T07:21:08.229117866Z",
+  "model": "glm-5.3"
+}

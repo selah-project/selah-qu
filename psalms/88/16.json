@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Wakcha kanimi, ñuqa wañunayawanimi, maqtanayaymanta; mancharichiykita apirqanimi, sasachakusqam kanimi.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "wakcha kanimi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "wañunayawanimi"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "maqtanayaymanta"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "apirqanimi"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "mancharichiykita"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "sasachakusqam kanimi"
+    }
+  ],
+  "timestamp": "2026-09-08T10:08:03.544548553Z",
+  "model": "glm-5.3"
+}

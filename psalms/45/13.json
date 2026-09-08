@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 45,
+  "translation": "Hinaspam Tsorpa ususin (Tiro) qurisqa minchahwanmi; runakunapa qapaqninkuna ñawpaqiykita mañanqaku.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "hinaspam ... ususin"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsorpa (Tiro)"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "qurisqa minchahwan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ñawpaqiykita"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "mañanqaku"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "qapaqninkuna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "runakunapa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:05.432020014Z",
+  "model": "glm-5.3"
+}

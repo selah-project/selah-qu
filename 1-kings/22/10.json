@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 22:10",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa Israelpa apun, Yehoshafatpas (Josafat), Yehudap apun, sapaq tiyananpi tiyarqanku, apu p'achakunawan p'achakusqa, Shomronpunkup (Samaria) ñawpaqnin qhurpi; chaypi llapan navikunam paykunap ñawpaqninpi navi rimaspa karqanku.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "tiyarqanku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "tiyananpi"
+    },
+    {
+      "surface": "מלבשים",
+      "gloss": "p'achakusqa"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "p'achakunawan"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "qhurpi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "שער",
+      "gloss": "punku"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "navikuna"
+    },
+    {
+      "surface": "מתנבאים",
+      "gloss": "navi rimaspa"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ñawpaqninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:22:02.827483472Z",
+  "model": "glm-5.3"
+}

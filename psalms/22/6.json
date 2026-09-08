@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Qamman qaparirqanku, hinaspa qispisqa karqankum; qampanpi amparasqa karqanku, mana p'inqakusqachu karqankuchus.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Qamman"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "qaparirqanku"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "hinaspa qispisqa karqankum"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampanpi"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "amparasqa karqanku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana ... chu"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "p'inqakusqa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:36:35.590078644Z",
+  "model": "glm-5.3"
+}

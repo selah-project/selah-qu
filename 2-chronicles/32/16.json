@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 32:16",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Hinallataq aswan paypa yanapaqninkuna Yahwe Elohimpa hayñin rimarqanku, hinallataq paypa yanapaqnin Jizkiyahupaq hayñin.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "hinallataq aswan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "rimarqanku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "paypa yanapaqninkuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "hayñin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "hinallataq hayñin"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Jizkiyahu"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "paypa yanapaqnin"
+    }
+  ],
+  "timestamp": "2026-09-08T13:17:41.164051683Z",
+  "model": "glm-5.3"
+}

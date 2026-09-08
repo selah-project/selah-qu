@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 104,
+  "translation": "Kaymi mama qucha, hatun hinaspa makikunawan mast'asqa; chaypi suchuqkunam kachkan, yupaymana achka; kawsaqkuna huch'uylla kawsaqkunam hatun kawsaqkunawan.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kaymi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mama qucha"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "hinaspa mast'asqa"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "makikunawan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "suchuqkuna"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "yupay"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "kawsaqkuna"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "huch'uylla kawsaqkuna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "hatun kawsaqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:39.120357706Z",
+  "model": "glm-5.3"
+}

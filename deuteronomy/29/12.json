@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Imaraykum kunan p'unchaw ⟨את⟩ qamta paypa runan hina sayachinqa, hinaspa paymi qampaq Elohim kanqa, imaynataq qamman rimarqan, hinaspa imaynataq taytaykikunaman jurarqan: Abrahamman (Abrahán), Itsjakman (Isaac), Yaakovman (Jacob).",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "sayachinqa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "qamta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "לו",
+      "gloss": "paypa"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "runan hina"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "hinaspa pay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imaynataq"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimarqan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "hinaspa imaynataq"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "jurarqan"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "taytaykikunaman"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Abrahamman (Abrahán)"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Itsjakman (Isaac)"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "Yaakovman (Jacob)"
+    }
+  ],
+  "timestamp": "2026-09-08T02:54:34.537037949Z",
+  "model": "glm-5.3"
+}

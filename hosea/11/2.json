@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Paykunata qaywarqanku, chaymantam paykuna paykunamanta istrinchakurqanku; Baalkunamanmi ofrendarqanku, hinaspa rurasqa dioskunamanmi q'apacharqanku.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "qaywarqanku"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunata"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaymantam"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "istrinchakurqanku"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baalkunaman"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "ofrendarqanku"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "hinaspa rurasqa dioskunaman"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "q'apacharqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T08:50:20.567490018Z",
+  "model": "glm-5.3"
+}

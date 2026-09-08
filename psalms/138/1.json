@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 138,
+  "translation": "Davidpa. Hunt'a sonqoywanllami qamta yupaychasaq, wak dioskunap ñawpaqenpi qamta takisaq.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "qamta yupaychasaq"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hunt'a"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqoywanlla"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ñawpaqenpi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wak dioskuna"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "qamta takisaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:20.845897921Z",
+  "model": "glm-5.3"
+}

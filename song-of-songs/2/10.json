@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Khuyaqniyqa kutichirqanmi, hinaspa ñuqaman nirqan: Sayariy qam, khuyasqay, sumaq warmi, hinaspa qam puriy.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "kutichirqan"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "khuyaqniy"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "sayariy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qam"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "khuyasqay"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "sumaq warmi"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "hinaspa puriy"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qam"
+    }
+  ],
+  "timestamp": "2026-09-08T11:24:46.295455897Z",
+  "model": "glm-5.3"
+}

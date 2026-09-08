@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Chaysi David runankunata ⟨את⟩ rimaykunawan hark'arqan, Shaulman sayarinankupaqta manam saqirqanchu; chaysi Shaul waqamanta sayarirqan, hinaspa ñanpi purirqan.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "hark'arqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runankunata"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "runankunata"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "rimaykunawan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "saqirqanchu"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "sayarinankupaqta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "chaysi Shaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "waqamanta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "purirqan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ñanpi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:23:42.913548752Z",
+  "model": "glm-5.3"
+}

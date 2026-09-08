@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 80,
+  "translation": "Imarayku paypa saywankunanta p'akiranki, chaymi llapa ñan puriqkuna payta pallunku?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Imarayku"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "p'akiranki"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "paypa saywankunanta"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "chaymi pallunku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ñan puriqkuna"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:05.388319869Z",
+  "model": "glm-5.3"
+}

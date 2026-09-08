@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 88,
+  "translation": "Churawankim ñuqata aswan ukhu wirquypi, lantukunapi, ukhu ch'usaqkunapi.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "churawanki"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "wirquypi"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "aswan ukhu"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "lantukunapi"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "ukhu ch'usaqkunapi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:14:53.519918033Z",
+  "model": "glm-5.3"
+}

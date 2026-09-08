@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Sabiyuq runaqa sinchim ⟨kan⟩, hinaspa yachayniyuq runa atiyninta sinchichin.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "runa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "sabiyuq"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "hinaspa runa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "yachayniyuq"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "sinchichin"
+    },
+    {
+      "surface": "כח",
+      "gloss": "atiyninta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:48:59.630035030Z",
+  "model": "glm-5.3"
+}

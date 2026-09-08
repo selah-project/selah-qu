@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Beliyalpa mana allin rimayninsi payman waytachkansi; chaysi puñuqqa manaña sayarinqachu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "mana allin rimay"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyal"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "waytachkan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "chaysi"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "puñuqqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mañana"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "sayarinqa"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "sayariy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:41.855000953Z",
+  "model": "glm-5.3"
+}

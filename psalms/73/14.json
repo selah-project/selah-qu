@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 73,
+  "translation": "Hinaspam tukuy p'unchawta nanachisqa karqanim, yupayachiyniypas sapa paqarintam hamqan karqan.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "karqanim"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "nanachisqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchawta"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "yupayachiyniypas"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "sapa paqarintam"
+    }
+  ],
+  "timestamp": "2026-09-08T10:01:00.408632067Z",
+  "model": "glm-5.3"
+}

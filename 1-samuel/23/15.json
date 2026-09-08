@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "David rikurqanmi Shaul paypa ⟨את⟩ Nefeshninta maskayta lluqsimusqanta; Davidtaq Zif ch'alanapi sach'a-sach'api karqan.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "rikurqanmi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-sqa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "lluqsimusqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "maskayta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nefeshninta"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Nefeshninta"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Davidtaq"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'alanapi"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "sach'a-sach'api"
+    }
+  ],
+  "timestamp": "2026-09-08T04:22:59.917281482Z",
+  "model": "glm-5.3"
+}

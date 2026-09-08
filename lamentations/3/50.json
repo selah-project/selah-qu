@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yahwem hanaq pachamanta qhawaspa rikunqankama.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "qhawaspa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "rikunqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "hanaq pachamanta"
+    }
+  ],
+  "timestamp": "2026-09-08T11:32:07.512480398Z",
+  "model": "glm-5.3"
+}

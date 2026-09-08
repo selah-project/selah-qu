@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Qanchis ñiqin watataq hallp'aqa Shabat, hunt'a samichiy ⟨kan⟩mi Yahwepaq: chakrakiykit ama tarpushpa, wiñankiykitaq ama murupuspa chu.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "ñiqin watataq"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "Qanchis"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "hunt'a samichiy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨kan⟩mi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'aqa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "chakrakiykit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "tarpuspa"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "wiñankiykitaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "murupuspa"
+    }
+  ],
+  "timestamp": "2026-09-08T01:09:14.792860971Z",
+  "model": "glm-5.3"
+}

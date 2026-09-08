@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 19:4",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Hinaspa runakunaqa chay p'unchawmi llaqtaman yaykunapaq llanthukuspalla rirqanku, hina runakuna ayqispa p'inqakusqa awqanachipi llanthukun hina.",
+  "tokens": [
+    {
+      "surface": "ויתגנב",
+      "gloss": "llanthukuspalla rirqanku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunaqa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchaw"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yaykunapaq"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "llaqtaman"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "hina"
+    },
+    {
+      "surface": "יתגנב",
+      "gloss": "llanthukun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "הנכלמים",
+      "gloss": "p'inqakusqa"
+    },
+    {
+      "surface": "בנוסם",
+      "gloss": "ayqispa"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "awqanachipi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:37:54.934585098Z",
+  "model": "glm-5.3"
+}

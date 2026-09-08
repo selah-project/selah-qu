@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Wiraykipa q'apayninrayku sumaqmi; sutiykiqa wira hina t'iqasqa; chayrayku impakuna khuyawankim.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "q'apayninrayku"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "wirayki"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "sumaq"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wira"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "t'iqasqa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sutiyki"
+    },
+    {
+      "surface": "על",
+      "gloss": "chay"
+    },
+    {
+      "surface": "כן",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "impakuna"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "khuyawanki"
+    }
+  ],
+  "timestamp": "2026-09-08T11:24:38.255943946Z",
+  "model": "glm-5.3"
+}

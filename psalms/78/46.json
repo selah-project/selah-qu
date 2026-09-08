@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 78:46",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 78,
+  "translation": "Paykunap yebulinta lasaqman qararqan, paykunap yanq'an llamk'aynintawan langostaman.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "qararqan"
+    },
+    {
+      "surface": "לחסיל",
+      "gloss": "lasaqman"
+    },
+    {
+      "surface": "יבולם",
+      "gloss": "paykunap yebulinta"
+    },
+    {
+      "surface": "ויגיעם",
+      "gloss": "paykunap yanq'an llamk'ayninta"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "langostaman"
+    }
+  ],
+  "timestamp": "2026-09-08T10:03:39.974460771Z",
+  "model": "glm-5.3"
+}

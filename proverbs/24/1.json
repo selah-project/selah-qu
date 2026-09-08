@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 24,
+  "translation": "Ama mana allin runakunaman k'iriychu, hinaspa ama munaychu ⟨את⟩ paykunawan kachkayta.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ama ...chu"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "k'iriy"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "runakunaman"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mana allin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hinaspa ama ...chu"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "munay"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kachkayta"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ paykunawan",
+      "marks": "paykunawan (k'irisqa mana allin runakuna)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:49:41.681121359Z",
+  "model": "glm-5.3"
+}

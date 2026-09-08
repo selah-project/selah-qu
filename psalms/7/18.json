@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Yahweta yupaychasaq paqta kayninta rayku, hinaspa takisaq Yahwe Elyonpa Sutinta.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "yupaychasaq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "paqta kayninta rayku"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "hinaspa takisaq"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sutinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-08T09:30:55.304162494Z",
+  "model": "glm-5.3"
+}

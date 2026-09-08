@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "psalms 6:10",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 6,
+ "translation": "Yahwem uyaran mañakuyta; Yahwe oraciónta chaskinqa.",
+ "tokens": [
+  {
+   "surface": "שמע",
+   "gloss": "uyaran"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "תחנתי",
+   "gloss": "mañakuyta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "תפלתי",
+   "gloss": "oraciónta"
+  },
+  {
+   "surface": "יקח",
+   "gloss": "chaskinqa"
+  }
+ ],
+ "timestamp": "2026-09-08T09:26:34.022484122Z",
+ "model": "glm-5.3"
+}

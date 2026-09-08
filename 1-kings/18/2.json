@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Eliyahum Achabman rikurinampaq rirqanmi; Shinari (Samaria)piqa yarqachaqa sinchim karqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahum"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "rikurinampaq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Achab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "hinaspa yarqacha"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shinari (Samaria)pi"
+    }
+  ],
+  "timestamp": "2026-09-08T05:19:18.251245646Z",
+  "model": "glm-5.3"
+}

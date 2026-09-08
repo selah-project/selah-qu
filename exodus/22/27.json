@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Elohimta ama qhawarpariychu, hinallataq runakunaykipi apunta ama lup'iychu.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "qhawarpariychu"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "hinallataq apunta"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "runakunaykipi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "lup'iychu"
+    }
+  ],
+  "timestamp": "2026-09-08T00:33:36.248845343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 38,
+  "translation": "Imarayku ñuqaqa limpunallam kani, hinaspa nanayqa ñuqap ñawpaypi wiñaymi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "limpunaman"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "allinlla kani"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "hinaspa nanay"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ñawpaypi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T09:45:34.075657363Z",
+  "model": "glm-5.3"
+}

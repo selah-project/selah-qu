@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 31:17",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Hinaspam ⟨את⟩ kohenkunap ayllu-qillqakusqankunta qillqarqanku, ayllunkunap taytankunamanta, hinallataq Leviyatakuna chunka iskay watayuqmanta hananman, ñawpa rimayninkupi, t'aqasqaninkupi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ayllu-qillqakusqankunta"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "ayllu-qillqakuy"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ayllunman"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "taytankunap"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "hinallataq Leviyatakuna"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "watayuqmanta"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "chunka iskay"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "hananman"
+    },
+    {
+      "surface": "במשמרותיהם",
+      "gloss": "ñawpa rimayninkupi"
+    },
+    {
+      "surface": "במחלקותיהם",
+      "gloss": "t'aqasqaninkupi"
+    }
+  ],
+  "timestamp": "2026-09-08T13:18:47.171308658Z",
+  "model": "glm-5.3"
+}

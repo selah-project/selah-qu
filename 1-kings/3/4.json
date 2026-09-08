@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Hinaspa apum Givonman rirqanmi chaypi carwanampaq, chaymi karqan hatun bamo; waranqa holocaustokunatam Shelomom chay altarpatapi hawaman kacharqan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "rirqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "Givonman"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "carwanampaq"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayrayku"
+    },
+    {
+      "surface": "היא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "bamo"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "hatun"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "holocaustokunata"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "hawaman kacharqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    }
+  ],
+  "timestamp": "2026-09-08T05:00:02.323039026Z",
+  "model": "glm-5.3"
+}

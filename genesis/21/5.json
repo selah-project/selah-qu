@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Hinaspa Abrahamqa pachak watayuqmi karqan, payman ⟨את⟩ Itsjak (Isaac) churin paqariptin.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Hinaspa Abraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "watayuq"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "pachak"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "paqariptin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Itsjakta churinta"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Itsjak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "churin"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:06.310871193Z",
+  "model": "glm-5.3"
+}

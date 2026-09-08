@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 14,
+  "translation": "Chiqa ñanninta puriqqa Yahweta mancharinmi, icha ñanninkunapi wakqhachakuqqa Payta q'uchuchin.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "puriq"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "chiqa ñanninta"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mancharin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "icha ... wakqhachakuq"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ñanninkunapi"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "Payta q'uchuchin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:42:22.030496206Z",
+  "model": "glm-5.3"
+}

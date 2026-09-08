@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 8:16",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa pichqa watapi — Yehoram, Ajavpa churin, Israelpa apun kamachisqanpti, hinaspa Yehoshafat Yehudapa apun kasqanpti — Yehoram, Yehoshafatpa churin, Yehudapa apun, apu kaspa qallarirqanm.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "hinaspa watapi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "pichqa"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ajavpa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "hinaspa Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu kaspa qallarirqanm"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafatpa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:30:26.082536044Z",
+  "model": "glm-5.3"
+}

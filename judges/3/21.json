@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Chaysim Ehud ⟨את⟩ lluq'i makinta kacharqan, hinaspa ⟨את⟩ khillayta paña muruq'anmanta hurqurqan, hinaspa paypa wiksanman chhurarqan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lluq'i makinta"
+    },
+    {
+      "surface": "יד",
+      "gloss": "maki"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "lluq'i"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khillayta"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "khillay"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "manta"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "muruq'a"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "paña"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "chhurarqan"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "wiksanman"
+    }
+  ],
+  "timestamp": "2026-09-08T03:36:50.027885963Z",
+  "model": "glm-5.3"
+}

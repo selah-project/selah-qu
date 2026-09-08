@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 27:3",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Tsorman ninkim: mama quchap hayñinanpi tiyaqmi, runakunap qhatuqmi askha chalakunaman. Kayta ninmi Adonay Yahwe: Tsor, qam niyarqanki: Ñuqami sumaq hunt'asqa kani.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ninkim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "Tsorman"
+    },
+    {
+      "surface": "הישבתי",
+      "gloss": "tiyaqmi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "מבואת",
+      "gloss": "hayñinanpi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mama quchap"
+    },
+    {
+      "surface": "רכלת",
+      "gloss": "qhatuqmi"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "איים",
+      "gloss": "chalakuna"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "askha"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kayta"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ninmi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "את",
+      "gloss": "qam",
+      "marks": "niyarqanki"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "niyarqanki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ñuqa"
+    },
+    {
+      "surface": "כלילת",
+      "gloss": "hunt'asqa"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "sumaq"
+    }
+  ],
+  "timestamp": "2026-09-08T08:18:57.964622369Z",
+  "model": "glm-5.3"
+}

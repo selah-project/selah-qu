@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Ñawinpiqa ch'usqa runaqa p'inqachasqam; icha ⟨את⟩ Yahwepa manachikuqkunataqa yupaychanmi. Llakikunanpaq larq'aspapas mana tikranmuchu.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "p'inqachasqa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ñawinpiqa"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "ch'usqa runa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yahwepa manachikuqkunata"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "manachikuqkunata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "yupaychanmi"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "larq'aspapas"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "llakikunanpaq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "tikranmuchu"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:53.502023107Z",
+  "model": "glm-5.3"
+}

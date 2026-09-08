@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Sinchi millayta ruwasqayku qampam; manam waqaychanchikchu ⟨את⟩ kamachikuyniykikunata, ⟨את⟩ kamachiy sinkhuchakunata, ⟨את⟩ taripanakunatapas qam Moshe (Moisés) yanaykiman kamachimusqayki.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "sinchi millayta"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "ruwasqayku"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qampam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "waqaychanchikchu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamachikuyniykikunata"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "kamachikuyniykikunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "kamachiy sinkhuchakunata"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "kamachiy sinkhuchakunata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "taripanakunatapas"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "taripanakunatapas"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "kamachimusqayki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosheta"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yanaykiman"
+    }
+  ],
+  "timestamp": "2026-09-08T12:19:30.153148262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 19:24",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chay p'unchawpipas Israelmi kanqa Mitsrayimwan, Ashurwan kimsa ñiqin hina, bendisqa kay pachap chawpinpi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "chay p'unchawpi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שלישיה",
+      "gloss": "kimsa ñiqin hina"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Mitsrayimwan"
+    },
+    {
+      "surface": "ולאשור",
+      "gloss": "Ashurwan"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bendisqa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "kay pacha"
+    }
+  ],
+  "timestamp": "2026-09-08T06:03:02.378851766Z",
+  "model": "glm-5.3"
+}

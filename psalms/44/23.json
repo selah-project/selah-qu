@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Qampaqmi tukuy p'unchaw wañuchikunku ñuqaykuta; ñuqaykutaqa ichhu t'ikrasqa hina michita yupankum.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "qampaqmi imaraykuchus"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "qampaq"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "wañuchikunku ñuqaykuta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "yupanku ñuqaykuta"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "michi hina"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "ichhu t'ikrasqapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:47:40.458311247Z",
+  "model": "glm-5.3"
+}

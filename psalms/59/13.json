@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Siminkunap juchanm, wirp'ankunap rimayninmi; hayca kayninpi hap'ichikunqaku, hinaspa lutjanataq llullakunatam willakunku.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "juchan"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "siminkunap"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "rimaynin"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "wirp'ankunap"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "hap'ichikunqaku"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "hayca kayninpi"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "hinaspa lutjanataq"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "llullakunataq"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "willakunku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:35.696704261Z",
+  "model": "glm-5.3"
+}

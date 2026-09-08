@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 2:1",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Yahwepa willakuqninmi Gilgalmanta lluqsimurqan Bochimman, hinaspa nirqan: «Ñuqam ⟨את⟩ qamkunata Mitsrayimmanta lluqsisqani, hinaspa ⟨את⟩ qamkunata hallp'aman chayachirqani, maypi taytaykikunaman suyarqani, hinaspa nirqani: manam Beritniyta ⟨את⟩ qamkunawan p'akiysaqchu, wiñaypaq».",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "lluqsimurqan"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "willakuqnin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "הבכים",
+      "gloss": "Bochim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa nirqan"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "lluqsisqani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata (Mitsrayimmanta lluqsisqa)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "hinaspa chayachirqani"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "qamkunata (hallp'aman chayachisqa)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-man"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypi"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "suyarqani"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "taytaykikunaman"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "hinaspa nirqani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana...-chu"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "p'akiysaq"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Beritniyta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunawan",
+      "marks": "qamkunawan (Berit tiyaq)"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T03:36:09.675525688Z",
+  "model": "glm-5.3"
+}

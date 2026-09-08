@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa ñuqam nina apachisaq Tzorpa hayk'unman, chaymi mikhunqan paypa fortalezankunata.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "hinaspa apachisaq"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "hayk'unman"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tzorpa"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "chaymi mikhunqan"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "paypa fortalezankunata"
+    }
+  ],
+  "timestamp": "2026-09-08T08:52:58.076042446Z",
+  "model": "glm-5.3"
+}

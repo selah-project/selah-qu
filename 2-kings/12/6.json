@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Qhochun kikinpaku kohenkuna, sapa runa ⟨את⟩ riqsisqanmanta; chaykunaqa allinchanku ⟨את⟩ wasip p'akisqanta, tukuy maypipas chaypi p'akisqa tarikunanta.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "qhochun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kikinpaku"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenkuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "riqsisqanmanta (from his acquaintance)"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "riqsisqanmanta"
+    },
+    {
+      "surface": "והם",
+      "gloss": "chaykunaqa"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "allinchanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wasip p'akisqanta (the breach of the house)"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "p'akisqanta"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "wasip"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maypipas…chus"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "tarikunanta"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "p'akisqa"
+    }
+  ],
+  "timestamp": "2026-09-08T05:35:27.294084516Z",
+  "model": "glm-5.3"
+}

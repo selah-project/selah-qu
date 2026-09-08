@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 1,
+ "ref": "jeremiah 1:1",
+ "book": "jeremiah",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "Kaykunam Yirmeyahu (Jeremías)pa rimayninkuna, Jilqiyahu (Hilquías)pa churin, kohenkunamanta, mayqinkuna Anatotpi karqan, Binyaminpa hallp'anpi.",
+ "tokens": [
+  {
+   "surface": "דברי",
+   "gloss": "rimayninkuna"
+  },
+  {
+   "surface": "ירמיהו",
+   "gloss": "Yirmeyahu"
+  },
+  {
+   "surface": "בן",
+   "gloss": "churin"
+  },
+  {
+   "surface": "חלקיהו",
+   "gloss": "Jilqiyahu"
+  },
+  {
+   "surface": "מן",
+   "gloss": "manta"
+  },
+  {
+   "surface": "הכהנים",
+   "gloss": "kohenkuna"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "mayqinkuna"
+  },
+  {
+   "surface": "בענתות",
+   "gloss": "Anatotpi"
+  },
+  {
+   "surface": "בארץ",
+   "gloss": "hallp'anpi"
+  },
+  {
+   "surface": "בנימן",
+   "gloss": "Binyaminpa"
+  }
+ ],
+ "timestamp": "2026-09-08T06:47:58.511492816Z",
+ "model": "glm-5.3"
+}

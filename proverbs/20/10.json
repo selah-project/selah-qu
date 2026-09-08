@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Rumi hinaspa rumi, efa hinaspa efa — iskayninpas Yahwepaq millaymi.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "rumi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "hinaspa rumi"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa (ch'usaq tupuy)"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "hinaspa efa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "millay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kinllataq"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "iskaynin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:46:26.420378575Z",
+  "model": "glm-5.3"
+}

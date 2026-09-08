@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Qispichiy Nefeshniyta (kawsayniyta) chiqtamanta; alqum makimmanta sapallayta.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "chiqtamanta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniyta (kawsayniyta)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "makimmanta"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "alqum"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "sapallayta"
+    }
+  ],
+  "timestamp": "2026-09-08T09:35:55.164131863Z",
+  "model": "glm-5.3"
+}

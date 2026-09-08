@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Manam huk runatapas paykunata ñak'arichiyta saqirqachu; apukunata paykunap rayku ñak'arirqan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "saqirqachu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "huk runatapas"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "paykunata ñak'arichiyta"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "ñak'arirqan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "paykunap rayku"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "apukunata"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:35.830451225Z",
+  "model": "glm-5.3"
+}

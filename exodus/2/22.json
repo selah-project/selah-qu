@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Paym huk churiyta wacharqan; Moshem ⟨את⟩ paypa sutitam Gershom (Gersón) nirqan, imaraykuchus nirqan: «Wak hallp'api wak runa hinam kani».",
+  "tokens": [
+    {
+      "surface": "ו תלד",
+      "gloss": "wacharqan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churiyta"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "suticharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa sutinta"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "paypa sutinta"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "גר",
+      "gloss": "wak runa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "karqanimi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "wak"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:52.795394450Z",
+  "model": "glm-5.3"
+}

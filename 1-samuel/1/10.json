@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Payqa nefeshnin amaru karqan, Yahweman mañakurqan, waqaymanta waqarqan.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "amaru"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshnin"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "mañakurqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "man"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "waqaymanta"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "waqarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:00:47.093110879Z",
+  "model": "glm-5.3"
+}

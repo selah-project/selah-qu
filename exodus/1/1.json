@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kaykunam Israelpa churinkunap sutinkuna, Mitsrayiman (Egipto) hamuq: ⟨את⟩ Yaakovwan (Jacob), sapa runa wasinwan hamurqanku.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Kaykuna"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "sutinkuna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "hamuq"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayiman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovwan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sapa runa"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "wasinwan"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hamurqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:29.430950175Z",
+  "model": "glm-5.3"
+}

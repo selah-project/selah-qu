@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 10:36",
+  "book": "nehemiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "hinaspa ⟨את⟩ allpanchikpa ñawpaq tarpuykunata apamunapaq, hinaspa llapan sach'akunap rurunkunap ñawpaqninta wata wata, Yahwepa wasinman.",
+  "tokens": [
+    {
+      "surface": "ולהביא",
+      "gloss": "hinaspa apamunapaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "allpanchikpa ñawpaq tarpuykunata"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ñawpaq tarpuykuna"
+    },
+    {
+      "surface": "אדמתנו",
+      "gloss": "allpanchikpa"
+    },
+    {
+      "surface": "ובכורי",
+      "gloss": "hinaspa ñawpaq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ruru"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sach'a"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wata"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "wata wata"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T12:26:46.202825672Z",
+  "model": "glm-5.3"
+}

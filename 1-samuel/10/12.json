@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "1-samuel 10:12",
+ "book": "1-samuel",
+ "lang": "qu",
+ "chapter": 10,
+ "translation": "Chaymantam huk runa kutichirqan: «Pipitaq paykunap taytan?» Chayrayku huk ñawpa rimari hina tukurqanm: «Shaultaq hinallataq naviykunap chawpinpi?»",
+ "tokens": [
+  {
+   "surface": "ויען",
+   "gloss": "kutichirqan"
+  },
+  {
+   "surface": "איש",
+   "gloss": "huk runa"
+  },
+  {
+   "surface": "משם",
+   "gloss": "chaymanta"
+  },
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "ומי",
+   "gloss": "Pipitaq"
+  },
+  {
+   "surface": "אביהם",
+   "gloss": "paykunap taytan"
+  },
+  {
+   "surface": "על",
+   "gloss": "Chay"
+  },
+  {
+   "surface": "כן",
+   "gloss": "rayku"
+  },
+  {
+   "surface": "היתה",
+   "gloss": "tukurqan"
+  },
+  {
+   "surface": "למשל",
+   "gloss": "huk ñawpa rimari hina"
+  },
+  {
+   "surface": "הגם",
+   "gloss": "hinallataq"
+  },
+  {
+   "surface": "שאול",
+   "gloss": "Shaultaq"
+  },
+  {
+   "surface": "בנבאים",
+   "gloss": "naviykunap chawpinpi"
+  }
+ ],
+ "timestamp": "2026-09-08T04:09:31.327453890Z",
+ "model": "glm-5.3"
+}

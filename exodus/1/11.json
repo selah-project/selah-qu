@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Paypa patanm mita llank'ay umalliqkunata churarqanku, llank'ay llawan muchuchinankupaq; chaysi Paropaq qullqi-wasi llaqtakunata ruwarqanku: ⟨את⟩ Pitomta, hinaspa ⟨את⟩ Raamsesta.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "churarqanku"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "paypa patapi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "umalliqkunata"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "mita llank'ay"
+    },
+    {
+      "surface": "למען",
+      "gloss": "muchuchinankupaq"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "payta muchuchinankupaq"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "llank'ay llawan"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ruwarqanku"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "llaqtakunata"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "qullqi-wasi"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paropaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitomta"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Raamsesta"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:17.770657525Z",
+  "model": "glm-5.3"
+}

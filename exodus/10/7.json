@@ -1,0 +1,103 @@
+{
+ "tier": "glm-5.2",
+ "verse": 7,
+ "ref": "exodus 10:7",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 10,
+ "translation": "Hinaspa Paropa yanapaqninkunam payman nirqanku: 'Hayk'atakama kay runa qanchikpaq t'aqlla kanqa? Runakunata kachariy, Yahweta Elohimninkuta yanapanankupaq. ¿Ñaqraq manachu yachanki Mitsrayim chinkapusqanmanta?'",
+ "tokens": [
+  {
+   "surface": "ויאמרו",
+   "gloss": "nirqanku"
+  },
+  {
+   "surface": "עבדי",
+   "gloss": "yanapaqnin"
+  },
+  {
+   "surface": "פרעה",
+   "gloss": "Paropa"
+  },
+  {
+   "surface": "אליו",
+   "gloss": "payman"
+  },
+  {
+   "surface": "עד",
+   "gloss": "hayk'ata"
+  },
+  {
+   "surface": "מתי",
+   "gloss": "kama"
+  },
+  {
+   "surface": "יהיה",
+   "gloss": "kanqa"
+  },
+  {
+   "surface": "זה",
+   "gloss": "kay runa"
+  },
+  {
+   "surface": "לנו",
+   "gloss": "qanchikpaq"
+  },
+  {
+   "surface": "למוקש",
+   "gloss": "t'aqlla"
+  },
+  {
+   "surface": "שלח",
+   "gloss": "kachariy"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "runakunata"
+  },
+  {
+   "surface": "האנשים",
+   "gloss": "runakuna"
+  },
+  {
+   "surface": "ויעבדו",
+   "gloss": "yanapananku"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Yahweta Elohimninkunkuta"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwe"
+  },
+  {
+   "surface": "אלהיהם",
+   "gloss": "Elohimnin"
+  },
+  {
+   "surface": "הטרם",
+   "gloss": "ñaqraq"
+  },
+  {
+   "surface": "תדע",
+   "gloss": "yachankichu"
+  },
+  {
+   "surface": "כי",
+   "gloss": "...manta"
+  },
+  {
+   "surface": "אבדה",
+   "gloss": "chinkapusqaña"
+  },
+  {
+   "surface": "מצרים",
+   "gloss": "Mitsrayim"
+  }
+ ],
+ "timestamp": "2026-09-08T00:26:47.206341816Z",
+ "model": "glm-5.3"
+}

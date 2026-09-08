@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Imaraykum sichus huk urmakun, paypa masinmi ⟨את⟩ masinta paqarichinqa; ichataq huk urmunapaqqa manataq kanchu iskay ñiqin paqarichinaq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykum"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "urmakun"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "paqarichinqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masinta"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "masinta"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ichataq"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "urmunapaqqa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "manataq kanchu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iskay ñiqin"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "paqarichinaq"
+    }
+  ],
+  "timestamp": "2026-09-08T11:38:42.560399812Z",
+  "model": "glm-5.3"
+}

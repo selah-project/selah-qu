@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yahwem huk p'unchawta churarqan, nispa: paqarinmi Yahwe kay simita hallp'api ruwanqa.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "huk p'unchawta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "nispa"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "paqarin"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ruwanqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "simi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T00:26:01.674180929Z",
+  "model": "glm-5.3"
+}

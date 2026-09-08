@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Sayariy, Yahwe; El, makiykihta hich'ariy; ama qunqaychu wakcha masikunata.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "sayariy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hich'ariy"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "makiyki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "qunqaychu"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "wakcha masikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T14:12:17.128392700Z",
+  "model": "glm-5.3"
+}

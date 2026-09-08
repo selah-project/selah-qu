@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Sabiduríaman niy: ñañay kanki; hinaspa entendimientota qhari masiy hina sutichay.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "niy"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "Sabiduríaman"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ñañay"
+    },
+    {
+      "surface": "את",
+      "gloss": "qam"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "entendimientotaq"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "rikuy yachayta"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "sutichay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:39:11.936175151Z",
+  "model": "glm-5.3"
+}

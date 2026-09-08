@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 37,
+  "translation": "Mana allin runam mañakun, ichaqa mana kutichinchu; allin runataq khuyakuspa qunmi.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "mañakun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mana allin runam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichaqa mana"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kutichinchu"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "allin runataq"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "khuyakuspa"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "qunmi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:44:29.421635243Z",
+  "model": "glm-5.3"
+}

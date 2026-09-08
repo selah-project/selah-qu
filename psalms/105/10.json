@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Chayta Yaakovman (Jacob) kamachiynin hina, Israelman wiñaypaq berit hina sayarichirqanmi.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "sayarichirqanmi"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakovman"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "kamachiynin hina"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israelman"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "berit"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñaypaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:15:13.254854690Z",
+  "model": "glm-5.3"
+}

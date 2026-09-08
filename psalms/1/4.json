@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Manam chayhinachu reshaqkuna; ichaqa wayra qarpawan q'urutahina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chayhinachu"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "reshaqkuna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ichaqa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "q'urutahina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "qarpawan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wayra"
+    }
+  ],
+  "timestamp": "2026-09-08T09:29:41.186743416Z",
+  "model": "glm-5.3"
+}

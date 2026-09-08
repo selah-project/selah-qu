@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Chaysi Yahwem Israelpa churinkunaman nirqanmi: Manachu Mitsrayimmanta, hinaspa Emorimanta, hinaspa Ammonpa churinkunamanta, hinaspa Plishtimmanta —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunaman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Manachu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayimmanta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hinaspa manta"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorimanta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hinaspa manta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkuna"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammonpa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hinaspa manta"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtimmanta"
+    }
+  ],
+  "timestamp": "2026-09-08T03:49:41.811070756Z",
+  "model": "glm-5.3"
+}

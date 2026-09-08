@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Taki, mizmor (salmo) Asafpaq.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Taki"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor (salmo)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafpaq"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:05.584167399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Sarayqa mana-wawa karqanmi: payqa mana wawayuq karqanchu.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "karqanmi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarayqa"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "mana-wawa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לה",
+      "gloss": "payqa"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "wawayuq karqanchu"
+    }
+  ],
+  "timestamp": "2026-09-07T23:54:59.712631727Z",
+  "model": "glm-5.3"
+}

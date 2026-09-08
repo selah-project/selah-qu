@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Kamachiqman, Davidpam. Yahwepim arkakuni; imataq ninkichik nefeshniyman: wakinku, urquykichikman, chiriuwa hina.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kamachiqman"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpam"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwepim"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "arkakuni"
+    },
+    {
+      "surface": "איך",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ninkichik"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefeshniyman"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "wakinku"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "urquykichikman"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "chiriuwa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:34:04.692900160Z",
+  "model": "glm-5.3"
+}

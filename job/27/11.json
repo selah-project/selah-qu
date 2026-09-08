@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Qamkunata Elpa makinmanta yachachinim, Shadday (Tukuy Atiyniyuq)wan kachkanta manañam pakanichu.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "yachachinim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamkunata",
+      "marks": "Elpa makinta"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makinmanta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "imata"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-wan"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday (Tukuy Atiyniyuq)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "pakanichu"
+    }
+  ],
+  "timestamp": "2026-09-08T11:12:04.323729379Z",
+  "model": "glm-5.3"
+}

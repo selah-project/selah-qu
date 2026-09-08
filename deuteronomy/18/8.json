@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "T'aqata t'aqa hina mikhungankumi, wakinmanta rantinkunamanta, tayta ayllukunap patanpi.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "t'aqa"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "t'aqa hina"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mikhunganku"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "wakinmanta"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "rantinkunamanta"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "tayta ayllukunap"
+    }
+  ],
+  "timestamp": "2026-09-08T02:44:13.074367662Z",
+  "model": "glm-5.3"
+}

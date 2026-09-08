@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Yahwepa sutinta siq'arqanim, urin juq'amanta.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "siq'arqanim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sutinta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "juq'amanta"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "urin"
+    }
+  ],
+  "timestamp": "2026-09-08T11:32:59.285780994Z",
+  "model": "glm-5.3"
+}

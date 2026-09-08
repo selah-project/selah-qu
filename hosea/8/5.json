@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Ichusqañam Shomronpa waka chuwillan; ñawipaykunmi ñuqap ch'iqniykuna paykunawan. ¿Ima kamanataq mana atinkuchu ch'uya kayta?",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "ichusqañam"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "waka chuwillan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomronpa"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ñawipaykun"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ñuqap ch'iqniykuna"
+    },
+    {
+      "surface": "בם",
+      "gloss": "paykunawan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ima p'unchawtaq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "atinkuchu"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "ch'uya kayta"
+    }
+  ],
+  "timestamp": "2026-09-08T08:51:02.769535349Z",
+  "model": "glm-5.3"
+}

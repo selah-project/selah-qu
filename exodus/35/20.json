@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Hinaspa llapan Israelpa churinkunap huñunakuynin Moshe (Moisés)pa ñawpaqninmanta lluqsirqankum.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "lluqsirqankum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "huñunakuynin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "churinkunap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ñawpaqninmanta"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe (Moisés)"
+    }
+  ],
+  "timestamp": "2026-09-08T00:42:15.212136546Z",
+  "model": "glm-5.3"
+}

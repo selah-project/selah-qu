@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Ñuqap awqayniy mana allinta ninkus ñuqamanta: «Ima p'unchawtaq wañunqa, sutinpas chinkanqa?»",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "ñuqap awqayniy"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ninkus"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allinta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ima p'unchawtaq"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wañunqa"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "sutinpas chinkanqa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sutin"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:31.523017639Z",
+  "model": "glm-5.3"
+}

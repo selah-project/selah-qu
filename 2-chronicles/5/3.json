@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaysi Israelpa llapa runankuna apu sapa inintinku raymipi — chikaq killapi — huñakurqanku.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "huñakurqanku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "apu sapa ininman"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu sapa inin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runankuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "raymipi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "chikaq"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "killapi"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "chikaq"
+    }
+  ],
+  "timestamp": "2026-09-08T12:56:47.238991331Z",
+  "model": "glm-5.3"
+}

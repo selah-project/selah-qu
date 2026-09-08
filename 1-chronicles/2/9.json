@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chetsronpa (Hezrón) wawankunami, payman paqarisqakuna: ⟨את⟩ Yerajmeelta, hinaspa ⟨את⟩ Ramta, hinaspa ⟨את⟩ Kelubayta.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "wawankunami"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsronpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mayqinkuna"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "paqarisqakuna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerajmeelta"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Yerajmeelta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Ramta"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ramta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kelubayta"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Kelubayta"
+    }
+  ],
+  "timestamp": "2026-09-08T12:29:51.482943048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "Sichus runa ⟨את⟩ ususinta sirwiq warmiman raqan, manam sirwiqkuna lluqiy hina lluq'inqachu.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "raqan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ususinta"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ususin"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "sirwiq warmiman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lluq'inqa"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "lluqiy hina"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "sirwiqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:34:23.415222186Z",
+  "model": "glm-5.3"
+}

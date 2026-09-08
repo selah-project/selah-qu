@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 7:9",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "Riqsinki chayta: Yahwe, Elohimniyki, paymi ⟨kan⟩ El — iñiq Elmi, beritita waqaychaqmi, jesedtawan, munaqninkunapaq hinaspa kamachikuyninkunata waqaychaqkunapaq, waranqa generationkama.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "riqsinki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chayta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimniyki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "El ⟨kan⟩mi"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הנאמן",
+      "gloss": "iñiq"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "waqaychaq"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "beritita"
+    },
+    {
+      "surface": "והחסד",
+      "gloss": "jesedtawan"
+    },
+    {
+      "surface": "לאהביו",
+      "gloss": "munaqninkunapaq"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "waqaychaqkunapaq"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "kamachikuyninkunata"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generationkama"
+    }
+  ],
+  "timestamp": "2026-09-08T02:33:52.055746582Z",
+  "model": "glm-5.3"
+}

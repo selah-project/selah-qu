@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Yahwem Moshepa siminman hina ruwarqan; hinaspa hamp'atukunam wasikunamanta, patyakunamanta, chakrakunamantan wañurqanku.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ruwarqan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "siminman hina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshepa"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "wañurqanku"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "hamp'atukunam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "wasikuna"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "patyakuna"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "hinaspamanta"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "chakrakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T00:24:55.474592793Z",
+  "model": "glm-5.3"
+}

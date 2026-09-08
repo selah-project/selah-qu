@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 48,
+  "translation": "Hatunmi Yahwe, askhata yupaychasqa ⟨kan⟩, Elohimninchikpa llaqtanpi, paypa willka urqunpi.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Hatun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "hinaspa askhata yupaychasqa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "askhata"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "llaqtanpi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimninchikpa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "urqu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "willkan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:17.981036914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 4:11",
+  "book": "amos",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Elohimpa ⟨את⟩ Sedomta, hinaspa ⟨את⟩ Amorata t'ikasqanman hina qamkunapi t'ikarqanimi; hinaspa nina puriymanta thultasqa nina illa hina karqankichik; ichataq manam ñuqaman kutiykurqankichikchu, Yahwepa nisqanmi.",
+  "tokens": [
+    {
+      "surface": "הפכתי",
+      "gloss": "t'ikarqanimi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "qamkunapi"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "t'ikasqanman hina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sedomta"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedomta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Amorata"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorata"
+    },
+    {
+      "surface": "ותהיו",
+      "gloss": "hinaspa karqankichik"
+    },
+    {
+      "surface": "כאוד",
+      "gloss": "nina illa hina"
+    },
+    {
+      "surface": "מצל",
+      "gloss": "thultasqa"
+    },
+    {
+      "surface": "משרפה",
+      "gloss": "nina puriymanta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ichataq mana"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "kutiykurqankichik"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ñuqaman"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nisqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:00:36.414824494Z",
+  "model": "glm-5.3"
+}

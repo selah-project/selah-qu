@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Hinaspa huk isaron sapa huk uwijaman, chunka chusku uwijakunapaq.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "hinaspa isaron"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "isaron sapa"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "uwijaman"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "chuskumanpaq"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "chunka"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "uwijakunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:16:29.663200898Z",
+  "model": "glm-5.3"
+}

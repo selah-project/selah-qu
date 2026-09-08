@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 7,
+  "translation": "⟨את⟩ Tukuyta rikurqani hebeley p'unchawkunaypi: kanmi cheqalla runa cheqallayninpi wañuq, hinallataq kanmi millay runa millayninpi unay kawsaq.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tukuyta"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Tukuyta"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "rikurqani"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "p'unchawkunaypi"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "hebeley"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kanmi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "cheqalla runa"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "wañuq"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "cheqallayninpi"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "hinallataq kanmi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "millay runa"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "unay kawsaq"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "millayninpi"
+    }
+  ],
+  "timestamp": "2026-09-08T11:41:06.014755868Z",
+  "model": "glm-5.3"
+}

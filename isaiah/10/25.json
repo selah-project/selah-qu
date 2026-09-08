@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Asllallaraqmi, phiñakuyqa tukukunqa, ñuqap sinq'iytaq paykunpa chinkachikuyninmanmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chaymi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "raqta"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "aslla"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "asllalla"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "tukukunqa"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "phiñakuy"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "ñuqap sinq'iy"
+    },
+    {
+      "surface": "על",
+      "gloss": "manmi"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "paykunpa chinkachikuynin"
+    }
+  ],
+  "timestamp": "2026-09-08T05:57:01.289843969Z",
+  "model": "glm-5.3"
+}

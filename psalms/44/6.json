@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 44,
+  "translation": "Qanwanmi awqaykunata llallinchik; Sutiykiwan contra sayarikuqkunata sarunchik.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Qanwan"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "awqaykuna"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "llallinchik"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Sutiykiwan"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "sarunchik"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "sayarikuqkuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:48:43.778073232Z",
+  "model": "glm-5.3"
+}

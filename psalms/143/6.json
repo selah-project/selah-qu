@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 143,
+  "translation": "Makiyta phaskachirqanimi qamman; nefeshniy qamrayku ch'aki hallp'a hina samiyan. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "phaskachirqanimi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "makiyta"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshniy"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "hallp'a hina"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ch'aki samiyaq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "qamrayku"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T10:34:03.053566036Z",
+  "model": "glm-5.3"
+}

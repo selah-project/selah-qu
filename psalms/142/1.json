@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 142,
+  "translation": "Davidpa Maskil (yachachiq qillqa), mach'aypi kasqanpacha, mañakuy.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil (yachachiq qillqa)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidpa"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "kasqanpacha"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mach'aypi"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "mañakuy"
+    }
+  ],
+  "timestamp": "2026-09-08T10:30:44.359728342Z",
+  "model": "glm-5.3"
+}

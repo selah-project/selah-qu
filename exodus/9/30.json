@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Qamtaq, yanapanaykikunataq — yachanimi manaqraq Yahwe Elohimpa ñawpaqen manchakunkichikchu karqaykichikta.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "qamtaq"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "yanapanaykikunataq"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "yachanimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sas"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "manaqraq"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "manchakunkichik"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ñawpaqen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-08T13:24:34.274281186Z",
+  "model": "glm-5.3"
+}

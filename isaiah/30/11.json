@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 30:11",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 30,
+  "translation": "«Ñanmanta karuykuychik, ñanmanta rikch'akuychik, ⟨את⟩ Israelpa Santonta ñawpaqmanta amaykuwaychik» nispa.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "karuykuychik"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manta"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "rikch'akuychik"
+    },
+    {
+      "surface": "מני",
+      "gloss": "manta"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ñan"
+    },
+    {
+      "surface": "השביתו",
+      "gloss": "amaykuwaychik"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "ñawpaqmanta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israelpa Santonta"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Santon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israelpa"
+    }
+  ],
+  "timestamp": "2026-09-08T06:11:33.831509107Z",
+  "model": "glm-5.3"
+}

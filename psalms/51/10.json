@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 51,
+  "translation": "Ñuqaman uyarichimuway kusikuyta hinaspa phanchikuyta; t'uqrasqayki tullukuna kusichikunqaku.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "uyarichimuway"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kusikuy"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "hinaspa phanchikuy"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "kusichikunqaku"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "tullukuna"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "t'uqrasqayki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:51:26.485952380Z",
+  "model": "glm-5.3"
+}

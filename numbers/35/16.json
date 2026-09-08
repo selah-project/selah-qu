@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 35,
+  "translation": "Sichus q'illay llamk'anawan t'upaspa wañun, runa wañuchiqmi pay; chay runa wañuchiq wañuchisqam kanqa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "llamk'anawan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "q'illay"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "t'upan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wañuptin"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "runa wañuchiq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "pay"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wañuy"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañuchisqa kanqa"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "chay runa wañuchiq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:23:55.828450570Z",
+  "model": "glm-5.3"
+}

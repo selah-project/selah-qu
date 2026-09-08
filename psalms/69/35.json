@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Payta yupaychachun hanaq pachapas, kay pachapas; mamakuchakunapas, chaypi puriq tukuy kawaykunapas.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "Payta yupaychachun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pacha"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "hinaspa kay pacha"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mamakuchakuna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "hinaspa tukuy"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "puriq kawaykuna"
+    },
+    {
+      "surface": "בם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:14.458851709Z",
+  "model": "glm-5.3"
+}

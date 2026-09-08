@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Hinaspa qam, Yahwe, paykunamanta asinmi, llapa go'yu runakunamanta phuyakunki.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "hinaspa qam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "asinmi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunamanta"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "phuyakunki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "go'yu runakuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:54:18.102448774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Hinaspam Yaravam (Jeroboam) ⟨את⟩ Shkemta (Siquem) Efrayim orqopi wasicharqan, chaypi tiyarqan; chaymanta lluqsispa ⟨את⟩ Penuelta (Fanuel) wasicharqan.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "hinaspam wasicharqan"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam (Jeroboam)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shkemta"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkemta (Siquem)"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "orqopi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "chaypi tiyarqan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "lluqsispa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wasicharqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuelta"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuelta (Fanuel)"
+    }
+  ],
+  "timestamp": "2026-09-08T05:12:01.397689760Z",
+  "model": "glm-5.3"
+}

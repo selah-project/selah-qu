@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 12,
+  "translation": "Icha sichus mana Yahwepa siminta uyarinkichik, hinaspa ⟨את⟩ Yahwepa siminta sarunkichik chayqa, Yahwepa makinmi qamkunapipas, taytaykichikpipas kanqa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Icha sichus mana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "uyarinkichik"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "hinaspa sarunkichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwepa siminta"
+    },
+    {
+      "surface": "פי",
+      "gloss": "siminta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "makin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwepa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "qamkunapipas"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "taytaykichikpipas"
+    }
+  ],
+  "timestamp": "2026-09-08T04:12:50.471243250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "hinaspa ⟨את⟩ Parmashtata (Parmashta), hinaspa ⟨את⟩ Arisaita, hinaspa ⟨את⟩ Aridaita, hinaspa ⟨את⟩ Vayzetata (Vajezatha).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Parmashtata"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Parmashtata (Parmashta)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Arisaita"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Arisaita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Aridaita"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Aridaita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Vayzetata"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Vayzetata (Vajezatha)"
+    }
+  ],
+  "timestamp": "2026-09-08T11:48:50.024929073Z",
+  "model": "glm-5.3"
+}

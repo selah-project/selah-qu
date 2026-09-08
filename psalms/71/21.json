@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 71,
+  "translation": "Ñuqap hatun kayniytam mirachinqanki, kutispataq ñuqata takyachiwankim.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "mirachinqanki"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "hatun kayniyta"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "kutispataq"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "ñuqata takyachiwanki"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:45.685224875Z",
+  "model": "glm-5.3"
+}

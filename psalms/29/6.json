@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Chaymi Libanontawan Siriontawan tokor waka hina, sallqa turupa wawan hina phinkiykachichin.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "phinkiykachichin"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "tokor waka"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "hinaspa Sirion"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "hina"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wawan"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "sallqa turupa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:38:35.037449744Z",
+  "model": "glm-5.3"
+}

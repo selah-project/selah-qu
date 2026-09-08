@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 5:8",
+  "book": "micah",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Mak'iyki awqaykikunap patanman sayarichikunqami, llapan awqaykikunataq kuchusqa kanqaku.",
+  "tokens": [
+    {
+      "surface": "תרם",
+      "gloss": "sayarichikunqami"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "mak'iyki"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanman"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "awqaykikunap"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaykikunataq"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "kuchusqa kanqaku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:10:32.268167800Z",
+  "model": "glm-5.3"
+}

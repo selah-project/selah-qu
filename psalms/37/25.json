@@ -1,0 +1,57 @@
+{
+ "tier": "glm-5.2",
+ "verse": 25,
+ "ref": "psalms 37:25",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 37,
+ "translation": "Ñaqlla karqanimi, machu kayman chayarqanitawan; manam rikurqanichu cheqasqata saqisqa kasqanta, paypa muxsan t'anta maskasqantawan.",
+ "tokens": [
+  {
+   "surface": "נער",
+   "gloss": "ñaqlla"
+  },
+  {
+   "surface": "הייתי",
+   "gloss": "karqanimi"
+  },
+  {
+   "surface": "גם",
+   "gloss": "tawan"
+  },
+  {
+   "surface": "זקנתי",
+   "gloss": "machu kayman chayarqani"
+  },
+  {
+   "surface": "ולא",
+   "gloss": "manam"
+  },
+  {
+   "surface": "ראיתי",
+   "gloss": "rikurqanichu"
+  },
+  {
+   "surface": "צדיק",
+   "gloss": "cheqasqata"
+  },
+  {
+   "surface": "נעזב",
+   "gloss": "saqisqa kasqanta"
+  },
+  {
+   "surface": "וזרעו",
+   "gloss": "paypa muxsan"
+  },
+  {
+   "surface": "מבקש",
+   "gloss": "maskasqanta"
+  },
+  {
+   "surface": "לחם",
+   "gloss": "t'anta"
+  }
+ ],
+ "timestamp": "2026-09-08T14:13:20.150209287Z",
+ "model": "glm-5.3"
+}

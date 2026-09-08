@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hap'irqanmi pichqa waranqa runata ⟨khuskan⟩, hinaspa ⟨את⟩ paykunata qhipa suyapa churarqan Bet-El hinaspa HaAypa chawpinpi, llaqtaman intichinkayman.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hap'irqan"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "pichqa waranqa ⟨khuskan⟩"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "waranqa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "runa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "churarqan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "paykunata qhipa suyapa"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "qhipa suya"
+    },
+    {
+      "surface": "בין",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "העי",
+      "gloss": "HaAypa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "intichinkayman"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "llaqtaman"
+    }
+  ],
+  "timestamp": "2026-09-08T03:13:57.351650134Z",
+  "model": "glm-5.3"
+}

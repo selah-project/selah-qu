@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 61,
+  "translation": "Hallp'ap tukuy nanmanta qamman qayasa, sunquy llakikuptiy; ñuqamanta aswan hanan hatun rumiman pusaway.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "tukuy nanmanta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'ap"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "qamman"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "qayasa"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "llakikuptiy"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sunquy"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "hatun rumiman"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "aswan hanan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "pusaway"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:31.263980069Z",
+  "model": "glm-5.3"
+}

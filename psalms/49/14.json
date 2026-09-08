@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Kaymi paykunap ñannin, upayaymi paykunapaq; qhipantinkunapas siminkunawan kusikunkum. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "paykunap ñannin"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "upayay"
+    },
+    {
+      "surface": "למו",
+      "gloss": "paykunapaq"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "qhipantinkunapas"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "siminkunawan"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "kusikunkum"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-08T09:49:16.681130964Z",
+  "model": "glm-5.3"
+}

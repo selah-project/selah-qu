@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 69,
+  "translation": "Askha karqankumi ñuqap umay chukchakunamanta ñuqata ch'iqiqkuna, chinallata; sinchikapuwankumi ñuqata wañuchiqkuna, ñuqap llulla awqaykuna; chasqata mana suwarqani, chaymanta kutichini.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "askha karqankumi"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "chukchakunamanta"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ñuqap umay"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ñuqata ch'iqiqkuna"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "chinallata"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "sinchikapuwankumi"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "ñuqata wañuchiqkuna"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqaykuna"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "llulla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chasqata"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "suwarqani"
+    },
+    {
+      "surface": "אז",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "kutichini"
+    }
+  ],
+  "timestamp": "2026-09-08T09:57:30.064651752Z",
+  "model": "glm-5.3"
+}

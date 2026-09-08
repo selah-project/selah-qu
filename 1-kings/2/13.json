@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 2:13",
+  "book": "1-kings",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Adoniyahu, Chagitpa churin, Bat Sheba, Shelomo (Salomón)pa mamanman hamurqan. Payqa nirqan: ¿Allinchu hamusqayki? Payqa nirqan: Allinmi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "hamurqan"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "Adoniyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Chagit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maman"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "¿allinchu?"
+    },
+    {
+      "surface": "באך",
+      "gloss": "hamusqayki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Allinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:56:35.949416999Z",
+  "model": "glm-5.3"
+}

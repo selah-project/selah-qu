@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 1:16",
+  "book": "lamentations",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Kaykunata rayku ñuqa waqachkanim; ñuqap ñawi, ñawi, unata waytachkan; ñuqamanta karqanmi kunanakuq, ñuqap nefeshniyta kutichiq; ñuqap wawakunam ch'usaqchayasqa karqanku, awqam sinchikurqan.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "kaykunata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "בוכיה",
+      "gloss": "waqachkanim"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñuqap ñawi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ñawi"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "waytachkan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ñuqamanta"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "kunanakuq"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "kutichiq"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ñuqap nefeshniyta"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqanku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ñuqap wawakuna"
+    },
+    {
+      "surface": "שוממים",
+      "gloss": "ch'usaqchayasqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imataq"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "sinchikurqan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqa"
+    }
+  ],
+  "timestamp": "2026-09-08T11:34:37.398884904Z",
+  "model": "glm-5.3"
+}

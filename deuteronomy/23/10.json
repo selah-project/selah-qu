@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Awqaykiykunaman qatiquq maqanakuywan lluqsirqoptiyki, llapa mana allin imamanta hark'akuy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "llluqsirqoptiyki-rayku"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lluqsirqoptiyki"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "maqanakuywan"
+    },
+    {
+      "surface": "על",
+      "gloss": "qatiquq"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "awqaykiykunaman"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "hark'akuy"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ima"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mana allin"
+    }
+  ],
+  "timestamp": "2026-09-08T02:50:22.854842260Z",
+  "model": "glm-5.3"
+}

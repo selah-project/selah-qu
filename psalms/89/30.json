@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 89,
+  "translation": "Chaynasataqmi paypa misk'inta wiñaypaq churarqasaq, hinaspa paypa tiyananta hanaq pachap p'unchawmankama hina.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "churarqasaq"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "wiñaypaq"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "paypa misk'inta"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "hinaspa paypa tiyananta"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "p'unchawmankama hina"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hanaq pachap"
+    }
+  ],
+  "timestamp": "2026-09-08T10:07:39.765001144Z",
+  "model": "glm-5.3"
+}

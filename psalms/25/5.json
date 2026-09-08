@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 25,
+  "translation": "Paykachariway cheqan kayniykipi, hinaspa yachachiway ñata; qammi kanki qispichiy Elohimniy; ⟨את⟩ qamta suyani tukuy p'unchaw.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "paykachariway"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "cheqan kayniykipi"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "hinaspa yachachiway ñata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imataqmi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qammi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimniy"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ qamta"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "suyani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    }
+  ],
+  "timestamp": "2026-09-08T09:37:55.440111058Z",
+  "model": "glm-5.3"
+}

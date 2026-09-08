@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Haq runa, ñawpanpa hatun kayninrayku, manam Yahweta maskanachu; 'Elohim mana kanchu' — llapan yuyayninkunam chaynam.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "haq runa"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "hatun kayninrayku"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ñawpanpa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "maskanachu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana kanchu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "yuyayninkunam"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:26.633880718Z",
+  "model": "glm-5.3"
+}

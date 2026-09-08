@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 9,
+  "translation": "Yahweta llapa sonqoywan yupaychani; llapa rikhurichisqaykita willakunim.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "yupaychani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "sonqoywan"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "willakunim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "rikhurichisqaykita"
+    }
+  ],
+  "timestamp": "2026-09-08T09:33:14.110322097Z",
+  "model": "glm-5.3"
+}

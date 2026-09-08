@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 68:34",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 68,
+  "translation": "Hanaq pachap hanaq pachanpi — qhipu pachamanta purichiqman — qhawa: paymi kunkanwan atiy kunkatam qun.",
+  "tokens": [
+    {
+      "surface": "לרכב",
+      "gloss": "purichiqman"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "hanaq pachanpi"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "qhipu pachamanta"
+    },
+    {
+      "surface": "הן",
+      "gloss": "qhawa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qun"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "kunkanwan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kunkata"
+    },
+    {
+      "surface": "עז",
+      "gloss": "atiy"
+    }
+  ],
+  "timestamp": "2026-09-08T09:58:28.830920751Z",
+  "model": "glm-5.3"
+}

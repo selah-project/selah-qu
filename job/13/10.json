@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Paymi sinchi willakapunqa ⟨את⟩ qamtakunata, sichus pakalla runakunapaj ñawinpi ñawiykichikta hunt'ankichischu.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "Paymi"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "sinchi willakapunqa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ qamtakunata",
+      "marks": "qamtakuna (qamkunap)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "pakalla"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ñawiykichik"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "hunt'ankichis"
+    }
+  ],
+  "timestamp": "2026-09-08T11:03:14.169136917Z",
+  "model": "glm-5.3"
+}

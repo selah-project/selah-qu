@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 18,
+  "translation": "Shaul ⟨את⟩ chuktata warachirqan; nirqan: Davidta t'aqasaq qaqamanpacha; Davidtaq pay ñawpaqmanta iskay kuti qesarqan.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "warachirqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chuktata"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "chukta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "t'aqasaq"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Davidta"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "qaqamanpacha"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "qesarqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pay ñawpaqmanta"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "iskay kuti"
+    }
+  ],
+  "timestamp": "2026-09-08T04:17:59.266843985Z",
+  "model": "glm-5.3"
+}

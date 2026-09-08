@@ -1,0 +1,65 @@
+{
+ "tier": "glm-5.2",
+ "verse": 10,
+ "ref": "exodus 25:10",
+ "book": "exodus",
+ "lang": "qu",
+ "chapter": 25,
+ "translation": "Hinaspa ruwankichik sandulata shitim sach'amantam: suniyninqa iskay ama (codo) hinaspa ch'iqa, ch'usanniyninqa huk ama hinaspa ch'iqa, sayayninqa huk ama hinaspa ch'iqa.",
+ "tokens": [
+  {
+   "surface": "ועשו",
+   "gloss": "hinaspa ruwankichik"
+  },
+  {
+   "surface": "ארון",
+   "gloss": "sandulata"
+  },
+  {
+   "surface": "עצי",
+   "gloss": "sach'amanta"
+  },
+  {
+   "surface": "שטים",
+   "gloss": "shitim"
+  },
+  {
+   "surface": "אמתים",
+   "gloss": "iskay ama"
+  },
+  {
+   "surface": "וחצי",
+   "gloss": "hinaspa ch'iqa"
+  },
+  {
+   "surface": "ארכו",
+   "gloss": "suniynin"
+  },
+  {
+   "surface": "ואמה",
+   "gloss": "hinaspa huk ama"
+  },
+  {
+   "surface": "וחצי",
+   "gloss": "hinaspa ch'iqa"
+  },
+  {
+   "surface": "רחבו",
+   "gloss": "ch'usanniynin"
+  },
+  {
+   "surface": "ואמה",
+   "gloss": "hinaspa huk ama"
+  },
+  {
+   "surface": "וחצי",
+   "gloss": "hinaspa ch'iqa"
+  },
+  {
+   "surface": "קמתו",
+   "gloss": "sayaynin"
+  }
+ ],
+ "timestamp": "2026-09-08T00:36:36.260933017Z",
+ "model": "glm-5.3"
+}

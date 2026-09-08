@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Elkanam: paypa churin Elkana, Tsupay paypa churin, hinaspa Najat paypa churinmi.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "paypa churin"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "Tsupay"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "paypa churin"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "hinaspa Najat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "paypa churinmi"
+    }
+  ],
+  "timestamp": "2026-09-08T12:35:02.814469750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 32,
+  "translation": "Hinaspa Yaakovm willkaqkunata ñawpaqnin kacharqan, wawqeynin Esawman (Esaú), Seir hallp'aman, Edom pampaman.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "kacharqan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "willkaqkuna"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawman"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "wawqeynin"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "pampa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-08T00:06:50.226143120Z",
+  "model": "glm-5.3"
+}

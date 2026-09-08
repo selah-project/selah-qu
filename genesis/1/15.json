@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Hinaspa hanaq pachap wasichaqninpi k'anchaykunata kanankupaq, hallp'ata k'anchichinankupaq; chaynintam karqan.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "Hinaspa kanankupaq"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "k'anchaykunata"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "wasichaqninpi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pachap"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "k'anchichinankupaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "…pi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "chaynintam"
+    }
+  ],
+  "timestamp": "2026-09-07T23:49:29.306178563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 10:13",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 10,
+  "translation": "Hinaspam Mitsrayim (Egipto) ⟨את⟩ Ludimta, ⟨את⟩ Anamimta, ⟨את⟩ Lehabimta, ⟨את⟩ Naptukimta wachakurqan.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "hinaspam Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wachakurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludimta"
+    },
+    {
+      "surface": "לודים",
+      "gloss": "Ludimta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anamimta"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamimta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lehabimta"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Lehabimta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naptukimta"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naptukimta"
+    }
+  ],
+  "timestamp": "2026-09-07T23:53:36.923850488Z",
+  "model": "glm-5.3"
+}

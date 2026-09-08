@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 50,
+  "translation": "Hinaspa Paro (Faraón) nirqanmi: Hanakuy, hinaspa ⟨את⟩ taytaykita pampay, imahinata jurachisqayki hina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Hinaspa nirqan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro (Faraón)"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Hanakuy"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "hinaspa pampay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taytaykita"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytaykita"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "imahinata"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "jurachisqayki"
+    }
+  ],
+  "timestamp": "2026-09-08T00:20:00.044357291Z",
+  "model": "glm-5.3"
+}

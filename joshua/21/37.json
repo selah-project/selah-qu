@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 21,
+  "translation": "⟨את⟩ Qedemotta hinaspa ⟨את⟩ michina pampankunawan, ⟨את⟩ Meypatata hinaspa ⟨את⟩ michina pampankunawan — tawa llaqtam.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedemotta"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michina pampankunawan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michina pampankuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Meypatata"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Meypat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "michina pampankunawan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "michina pampankuna"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "llaqta"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tawa"
+    }
+  ],
+  "timestamp": "2026-09-08T03:28:55.666638298Z",
+  "model": "glm-5.3"
+}

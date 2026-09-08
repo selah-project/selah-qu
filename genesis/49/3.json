@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 49,
+  "translation": "Reuven, qam ñawpaq wawanay kanki, ñuqap kallpan, atiypa qallariynin; aswan hatun kayniyuq, aswan sinchi atiyniyuq ⟨kan⟩.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "ñawpaq wawanay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "qam"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kallpan"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "hinaspa qallariynin"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "atiypa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "aswan"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "hatun kay"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "hinaspa aswan"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sinchi atiy"
+    }
+  ],
+  "timestamp": "2026-09-08T00:19:40.804753355Z",
+  "model": "glm-5.3"
+}

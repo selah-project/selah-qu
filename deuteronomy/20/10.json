@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Mayqen p'unchawpipas huk llaqtaman awqanakunapaq qayllakuspa, chay llaqtaman thakikawsayta willawanki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mayqen p'unchawpipas"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "qayllakuspa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "huk llaqta"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "awqanakunapaq"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "chay llaqtata"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "willawanki"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "chay llaqtaman"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "thakikawsayta"
+    }
+  ],
+  "timestamp": "2026-09-08T02:44:09.015686895Z",
+  "model": "glm-5.3"
+}

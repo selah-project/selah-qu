@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 31,
+  "translation": "Kunantaq riqsisqata lluqsirqayki, sinchita munaspa taytaykipa wasinta; imaraykutaq ⟨את⟩ ñuqap dioskunayta suwawaykunki?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Kunantaq"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "riqsisqata"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "lluqsirqayki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "rayku"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "sinchita"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "munaspa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wasinman"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "taytaykipa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imaraykutaq"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "suwawaykunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ñuqap dioskunayta"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "dioskunay"
+    }
+  ],
+  "timestamp": "2026-09-08T00:06:37.522685652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Sichus ninam lluqsiptin k'itakunata tarispa, mazora utaq sayaq kinwa utaq hallp'a mikhukapun chayqa, nina paqarichiq runaqa ⟨את⟩ muchuyta hunt'asqata wallpan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "lluqsiptin"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "tarispa"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "k'itakunata"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "mikhukapun"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "mazora"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "sayaq kinwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "utaq"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "hallp'a"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "hunt'asqata"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "wallpan"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "nina paqarichiq runa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muchuyta"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "muchuy"
+    }
+  ],
+  "timestamp": "2026-09-08T00:35:34.562684601Z",
+  "model": "glm-5.3"
+}

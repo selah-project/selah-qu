@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Akish tapurqan: «Manachu kunan p'unchaw saqtarqankichik?» Davidtaq nirqan: Yehudapa uralanninpi, Yerajmeelikunappa uralanninpi, Kenikunappa uralanninpipas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "tapurqan"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mana … -chu"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "saqtarqankichik"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunan p'unchaw"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi (contra)"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "uralannin"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudapa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "uralannin"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Yerajmeelikunappa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "-pipas"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "uralannin"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Kenikunappa"
+    }
+  ],
+  "timestamp": "2026-09-08T13:35:44.643332591Z",
+  "model": "glm-5.3"
+}

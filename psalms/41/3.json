@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 41,
+  "translation": "Yahwem payta waqaychinqa, kawsachinqataq; hallp'api allin kawsaq kanqa; ama payta awqaqkunap sonqonman churaychu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwem"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "payta waqaychinqa"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "kawsachinqataq"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "allin kawsaq kanqa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ama ... chu"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "payta churay"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "sonqonman"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "awqaqkunap"
+    }
+  ],
+  "timestamp": "2026-09-08T09:46:06.579488330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 12,
+ "ref": "genesis 3:12",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 3,
+ "translation": "Runam nirqan: Qampam ñuqawan kachiykuq warmi — paym sach'amanta qwarqan ñuqaman, chaymantañam mikhurqani.",
+ "tokens": [
+  {
+   "surface": "ויאמר",
+   "gloss": "nirqan"
+  },
+  {
+   "surface": "האדם",
+   "gloss": "runam"
+  },
+  {
+   "surface": "האשה",
+   "gloss": "warmi"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "(kachiykuq)"
+  },
+  {
+   "surface": "נתתה",
+   "gloss": "qachurqanki"
+  },
+  {
+   "surface": "עמדי",
+   "gloss": "ñuqawan"
+  },
+  {
+   "surface": "הוא",
+   "gloss": "paym"
+  },
+  {
+   "surface": "נתנה",
+   "gloss": "qwarqan"
+  },
+  {
+   "surface": "לי",
+   "gloss": "ñuqaman"
+  },
+  {
+   "surface": "מן",
+   "gloss": "manta"
+  },
+  {
+   "surface": "העץ",
+   "gloss": "sach'a"
+  },
+  {
+   "surface": "ואכל",
+   "gloss": "mikhurqani"
+  }
+ ],
+ "timestamp": "2026-09-07T23:49:33.467581491Z",
+ "model": "glm-5.3"
+}

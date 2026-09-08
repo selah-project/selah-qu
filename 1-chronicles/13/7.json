@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "qu",
+  "chapter": 13,
+  "translation": "Chaysi Elohimpa ⟨את⟩ aronta Avinadavpa wasinmanta musuq carretapi churarqankum; Uzza (Oza) hinaspa wawqin Awchiyu (Ahío) carretata pusasharqanku.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "churarqanku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aronta"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aronta"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "carreta"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "musuq"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wasinmanta"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadavpa"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "Uzza (Oza)"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "hinaspa wawqin"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "pusasharqanku"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "carretata"
+    }
+  ],
+  "timestamp": "2026-09-08T12:42:58.802203444Z",
+  "model": "glm-5.3"
+}

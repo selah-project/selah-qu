@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 14,
+ "ref": "deuteronomy 10:14",
+ "book": "deuteronomy",
+ "lang": "qu",
+ "chapter": 10,
+ "translation": "Qawaymi: Yahwe Elohimniykipa — hanaq pacha, hanaq pachap hanaq pachanpas, kay pacha, chaypi kaq llapanmi ⟨kan⟩.",
+ "tokens": [
+  {
+   "surface": "הן",
+   "gloss": "qaway"
+  },
+  {
+   "surface": "ליהוה",
+   "gloss": "Yahwepa"
+  },
+  {
+   "surface": "אלהיך",
+   "gloss": "Elohimniyki"
+  },
+  {
+   "surface": "השמים",
+   "gloss": "hanaq pacha"
+  },
+  {
+   "surface": "ושמי",
+   "gloss": "hanaq pachap"
+  },
+  {
+   "surface": "השמים",
+   "gloss": "hanaq pachan"
+  },
+  {
+   "surface": "הארץ",
+   "gloss": "kay pacha"
+  },
+  {
+   "surface": "וכל",
+   "gloss": "hinaspa llapan"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "kaq"
+  },
+  {
+   "surface": "בה",
+   "gloss": "chaypi"
+  }
+ ],
+ "timestamp": "2026-09-08T13:26:36.101091542Z",
+ "model": "glm-5.3"
+}

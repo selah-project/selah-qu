@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 23,
+  "translation": "Llapan muchuy llamk'ayta mana ruwankichikchu; hinaspa Yahweman nina ofrendata q'oparankichik ⟨kanmi⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "llamk'ayta"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "muchuy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana...chu"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ruwankichik"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "hinaspa q'oparankichik"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nina ofrendata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    }
+  ],
+  "timestamp": "2026-09-08T01:10:59.080365840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "psalms 42:9",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 42,
+ "translation": "P'unchaw p'unchaw Yahwem jesedninta kamachinqa, hinaspa tutapi taki kanqami ñuqawan, mañakuy kawsayniy Elman.",
+ "tokens": [
+  {
+   "surface": "יומם",
+   "gloss": "p'unchaw p'unchaw"
+  },
+  {
+   "surface": "יצוה",
+   "gloss": "kamachinqa"
+  },
+  {
+   "surface": "יהוה",
+   "gloss": "Yahwem"
+  },
+  {
+   "surface": "חסדו",
+   "gloss": "jesedninta"
+  },
+  {
+   "surface": "ובלילה",
+   "gloss": "hinaspa tutapi"
+  },
+  {
+   "surface": "שירה",
+   "gloss": "taki"
+  },
+  {
+   "surface": "עמי",
+   "gloss": "ñuqawan"
+  },
+  {
+   "surface": "תפלה",
+   "gloss": "mañakuy"
+  },
+  {
+   "surface": "לאל",
+   "gloss": "Elman"
+  },
+  {
+   "surface": "חיי",
+   "gloss": "kawsayniy"
+  }
+ ],
+ "timestamp": "2026-09-08T09:46:33.098844850Z",
+ "model": "glm-5.3"
+}

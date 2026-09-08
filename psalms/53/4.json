@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 53,
+  "translation": "Llapanku kutirparqankumi, llimpan kuspa waqlliyarqankumi; allinta ruwaq mana kan, mana hukllapas.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "llapanku"
+    },
+    {
+      "surface": "סג",
+      "gloss": "kutirparqanku"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "llimpan kuspa"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "waqlliyarqanku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwaq"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "allinta"
+    },
+    {
+      "surface": "אין",
+      "gloss": "mana"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mana ... pas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "hukllapas"
+    }
+  ],
+  "timestamp": "2026-09-08T09:52:06.858098257Z",
+  "model": "glm-5.3"
+}

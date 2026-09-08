@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 59,
+  "translation": "Ch'isiyapaymi kutinku, allqu hina waqaykachanku, hinaspa llaqtata muyurinku.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "kutinku"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ch'isiyapay"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "waqaykachanku"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "allqu hina"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "hinaspa muyurinku"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "llaqtata"
+    }
+  ],
+  "timestamp": "2026-09-08T09:55:52.200680385Z",
+  "model": "glm-5.3"
+}

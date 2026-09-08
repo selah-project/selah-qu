@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 1:1",
+  "book": "2-chronicles",
+  "lang": "qu",
+  "chapter": 1,
+  "translation": "Shelomo (Salomón) Dawidpa churin mlekunapim sayarirqan, hinaspa Yahwe Elohimnin paywan karqan, hinaspa payta hananman hat'alarqan.",
+  "tokens": [
+    {
+      "surface": "ויתחזק",
+      "gloss": "sayarirqan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "churin"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawidpa"
+    },
+    {
+      "surface": "על",
+      "gloss": "-pi"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "mlekunanpin"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "hinaspa Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimnin"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "paywan"
+    },
+    {
+      "surface": "ויגדלהו",
+      "gloss": "hat'alarqan"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "hananman"
+    }
+  ],
+  "timestamp": "2026-09-08T12:53:18.163587790Z",
+  "model": "glm-5.3"
+}

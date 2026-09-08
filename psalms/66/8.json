@@ -1,0 +1,37 @@
+{
+ "tier": "glm-5.2",
+ "verse": 8,
+ "ref": "psalms 66:8",
+ "book": "psalms",
+ "lang": "qu",
+ "chapter": 66,
+ "translation": "Llaqtakuna, Elohimninchikta yupaychaychikllapa; hayk'ata willakushun willakuy siminta qhichwallapi.",
+ "tokens": [
+  {
+   "surface": "ברכו",
+   "gloss": "yupaychaychikllapa"
+  },
+  {
+   "surface": "עמים",
+   "gloss": "llaqtakuna"
+  },
+  {
+   "surface": "אלהינו",
+   "gloss": "Elohimninchikta"
+  },
+  {
+   "surface": "והשמיעו",
+   "gloss": "hayk'ata willakushun"
+  },
+  {
+   "surface": "קול",
+   "gloss": "willakuy siminta"
+  },
+  {
+   "surface": "תהלתו",
+   "gloss": "qhichwallapi"
+  }
+ ],
+ "timestamp": "2026-09-08T09:55:54.770012645Z",
+ "model": "glm-5.3"
+}

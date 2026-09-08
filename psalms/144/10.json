@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 144,
+  "translation": "Paymi apukunman qispichiyta quq, paymi ⟨את⟩ Davidta, kambirninpa awqanta, millay saqramanta qispichiq.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "qiq"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "qispichiy"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "apukunman"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "qispichiq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Davidta"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davidta"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "kambirninpa"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "saqramanta"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "millay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:33:10.776298924Z",
+  "model": "glm-5.3"
+}

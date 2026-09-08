@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 36:9",
+  "book": "ezekiel",
+  "lang": "qu",
+  "chapter": 36,
+  "translation": "Imaraykum qaway: ñuqa qamkunamanmi hamuni, hinaspa qamkunaman kutirqani; chaymi qamkuna llank'achisqa, tarpusqa kanqakichik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "qaway, ñuqa hamuni"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "ופניתי",
+      "gloss": "hinaspa kutirqani"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "ונעבדתם",
+      "gloss": "hinaspa qamkuna llank'achisqa kanqakichik"
+    },
+    {
+      "surface": "ונזרעתם",
+      "gloss": "hinaspa tarpusqa kanqakichik"
+    }
+  ],
+  "timestamp": "2026-09-08T08:28:41.374819967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 5:1",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Chaymantaqmi Moshe (Moisés) hinaspa Aharon (Aarón) chayamurqanku, Paroman (Faraón) ninku: kayhinata Yahwe, Israelpa Elohimnin, nirqanmi: ⟨את⟩ runayta kachariy, ñuqapaqmi ch'usaq pachapi raymita ruwanqaku.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "chaymantaq"
+    },
+    {
+      "surface": "באו",
+      "gloss": "chayamurqanku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "hinaspa Aharon"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ninku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayhinata"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqanmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimpa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kachariy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runayta"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "runayta"
+    },
+    {
+      "surface": "ויחגו",
+      "gloss": "raymita ruwanqaku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ñuqapaq"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ch'usaq pachapi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:24:10.592590349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Chaymi ñuqa rikurqani: yachaypaq atuymi ⟨kan⟩ mana yachaymanta, imalla k'anchaypaq atuymi ch'ikimanta.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "chaymi rikurqani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "kan"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "atuymi"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "yachaypaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "mana yachay"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "imalla atuymi"
+    },
+    {
+      "surface": "האור",
+      "gloss": "k'anchaypaq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manta"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ch'iki"
+    }
+  ],
+  "timestamp": "2026-09-08T11:39:49.013571139Z",
+  "model": "glm-5.3"
+}

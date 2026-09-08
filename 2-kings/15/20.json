@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 15:20",
+  "book": "2-kings",
+  "lang": "qu",
+  "chapter": 15,
+  "translation": "Menajemm ⟨את⟩ qollqeta Israelmanta hurqurqan, llapa sinchi atiyniyuq runakunamanta, sapa huk runaman chunka pichaq sheqel qollqeta Ashur apunman qarpananpaq; Ashur apunmi kutirqan, chaypi hallp'api mana sayarqanchu.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "מנחם",
+      "gloss": "Menajem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qollqeta"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "qollqe"
+    },
+    {
+      "surface": "על",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "על",
+      "gloss": "-manta"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "sinchi atiyniyuq runakuna"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "hatun atiy"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "qarpananpaq"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "apunman"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "chunka pichaq"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "sheqel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "qollqe"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sapa runaman"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "huk"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kutirqan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "sayarqanchu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "hallp'api"
+    }
+  ],
+  "timestamp": "2026-09-08T05:38:33.815800362Z",
+  "model": "glm-5.3"
+}

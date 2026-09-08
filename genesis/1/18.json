@@ -1,0 +1,61 @@
+{
+ "tier": "glm-5.2",
+ "verse": 18,
+ "ref": "genesis 1:18",
+ "book": "genesis",
+ "lang": "qu",
+ "chapter": 1,
+ "translation": "P'unchawpipas tutapipas kamachinanpaq, k'anchaytataq lut'anata t'aqananpaq; Elohimmi allin kasqanta rikurqan.",
+ "tokens": [
+  {
+   "surface": "ולמשל",
+   "gloss": "kamachinanpaq"
+  },
+  {
+   "surface": "ביום",
+   "gloss": "p'unchawpi"
+  },
+  {
+   "surface": "ובלילה",
+   "gloss": "tutapipas"
+  },
+  {
+   "surface": "ולהבדיל",
+   "gloss": "t'aqananpaq"
+  },
+  {
+   "surface": "בין",
+   "gloss": "t'aqakuypi"
+  },
+  {
+   "surface": "האור",
+   "gloss": "k'anchayta"
+  },
+  {
+   "surface": "ובין",
+   "gloss": "t'aqakuypitawan"
+  },
+  {
+   "surface": "החשך",
+   "gloss": "lut'anata"
+  },
+  {
+   "surface": "וירא",
+   "gloss": "rikurqan"
+  },
+  {
+   "surface": "אלהים",
+   "gloss": "Elohim"
+  },
+  {
+   "surface": "כי",
+   "gloss": "chay"
+  },
+  {
+   "surface": "טוב",
+   "gloss": "allin"
+  }
+ ],
+ "timestamp": "2026-09-08T02:01:23.594143664Z",
+ "model": "glm-5.3"
+}

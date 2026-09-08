@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 62:6",
+  "book": "isaiah",
+  "lang": "qu",
+  "chapter": 62,
+  "translation": "Yerushalayim (Jerusalén) wasikunaykipi waqaychaqkunata churaykurqanim: tukuy p'unchawmi, tukuy tutapas, wiñaypa mana ch'inllasaqakunchu. ⟨את⟩ Yahweta yuyachiqkuna, ama qamkunapaq ch'inlla kayankichikchu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "pi"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "wasikunaykipi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "הפקדתי",
+      "gloss": "churaykurqanim"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "waqaychaqkunata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "p'unchaw"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tutapas"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "wiñaypa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחשו",
+      "gloss": "ch'inllasaqakunchu"
+    },
+    {
+      "surface": "המזכרים",
+      "gloss": "yuyachiqkuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahweta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ch'inlla"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    }
+  ],
+  "timestamp": "2026-09-08T06:42:41.084297646Z",
+  "model": "glm-5.3"
+}

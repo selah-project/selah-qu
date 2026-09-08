@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 20:10",
+  "book": "numbers",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Chaysi Moshe hinaspa Aharon (Aarón) ⟨את⟩ lluqtakunata qaqap ñawpaqninman huyurqanku; chaysi paykunaman nirqansi: Uyariychis, sasa t'ukuykuna: ¿manaraq kay qaqamanta ñuqanchikmi qamkunaman unuta hurqusaqku?",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "huyurqanku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "hinaspa Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lluqtakunata"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "lluqtakunata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "man"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "qaqap"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "paykunaman"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "uyariychis"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ñawpaqta"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "sasa t'ukuykuna"
+    },
+    {
+      "surface": "המן",
+      "gloss": "¿manaraqchu"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "qaqamanta"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kay"
+    },
+    {
+      "surface": "נוציא",
+      "gloss": "hurqusaqku"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunaman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "unu"
+    }
+  ],
+  "timestamp": "2026-09-08T02:12:09.054769284Z",
+  "model": "glm-5.3"
+}

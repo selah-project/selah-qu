@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 2,
+  "translation": "Waway, sichus rimayniykita chaskinki, kamachikuyniykunatawan ⟨את⟩ qampi pakanki.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Waway"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sichus"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "chaskinki"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "rimayniykita"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "kamachikuyniykunatawan"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "pakanki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qampi",
+      "marks": "qampi (kamachikuyniykunatawan)"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:23.842526629Z",
+  "model": "glm-5.3"
+}

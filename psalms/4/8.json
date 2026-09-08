@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 4,
+  "translation": "Sunquypi k'uyakuyta churarqankim, paykunap sara, winuntawan askhachkasqanku pachamanta.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "churarqankim"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "k'uyakuyta"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "sunquypi"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "pachamanta"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "paykunap sara"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "winuntawan"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "askhachkasqanku"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:54.835046755Z",
+  "model": "glm-5.3"
+}

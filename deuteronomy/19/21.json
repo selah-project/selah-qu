@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Ñawiykitaq manam khuyaynillawan kanmanchu: Nefesh Nefeshpaq, ñawi ñawipaq, kiru kirupaq, maki makipaq, chaki chakipaq.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "khuyaynillawan kanmanchu"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ñawiyki"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "Nefesh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "Nefeshpaq"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ñawi"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ñawipaq"
+    },
+    {
+      "surface": "שן",
+      "gloss": "kiru"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "kirupaq"
+    },
+    {
+      "surface": "יד",
+      "gloss": "maki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "makipaq"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "chaki"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "chakipaq"
+    }
+  ],
+  "timestamp": "2026-09-08T02:43:19.747718868Z",
+  "model": "glm-5.3"
+}

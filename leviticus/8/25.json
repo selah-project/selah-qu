@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa**m** ⟨את⟩ q'apita, ⟨את⟩ chupatawan, hinaspa ⟨את⟩ llapa ukhupi kaq ⟨את⟩ q'apita, hinaspa ⟨את⟩ tikrunap lluskhuntawan, hinaspa ⟨את⟩ iskay kurukunata (riñones) ⟨את⟩ q'apinnintawan, hinaspa ⟨את⟩ paña chankitawan hurqurqan.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "hurqurqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "q'apita"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "q'api"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "chupatawan"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "chupa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "llapa ukhupi kaq q'apita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "q'api"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kaq"
+    },
+    {
+      "surface": "על",
+      "gloss": "ukhupi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ukhukuna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "tikrunap lluskhuntawan"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "lluskhun"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "tikrunap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "iskay kurukunata"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "iskay"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kurukuna (riñones)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ q'apinnintawan"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "hinaspa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "paña chankitawan"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "chanki"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "paña"
+    }
+  ],
+  "timestamp": "2026-09-08T15:31:25.438488777Z",
+  "model": "glm-5.3"
+}

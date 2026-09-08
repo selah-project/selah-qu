@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 22:4",
+  "book": "job",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "¿Qanpa manchariykiwanmi qanwan amachakuspa rimanqa, qanwan misk'asqa taripakuyman hamunqa?",
+  "tokens": [
+    {
+      "surface": "המיראתך",
+      "gloss": "qanpa manchariykiwanmi"
+    },
+    {
+      "surface": "יכיחך",
+      "gloss": "qanwan amachakuspa rimanqa"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hamunqa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "qanwan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "misk'asqa taripakuyman"
+    }
+  ],
+  "timestamp": "2026-09-08T11:10:34.281658741Z",
+  "model": "glm-5.3"
+}

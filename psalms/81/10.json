@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 81,
+  "translation": "Qampi wak dios mana kanqachu, manataq qam wak diosman pagakunkichu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qampi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "dios"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "pagakunki"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "diosman"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wak"
+    }
+  ],
+  "timestamp": "2026-09-08T10:04:49.596364120Z",
+  "model": "glm-5.3"
+}

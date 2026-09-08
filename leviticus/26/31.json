@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 26,
+  "translation": "Hinaspa ⟨את⟩ llaqtaykichikta ch'usaq churasaq, hinaspa ⟨את⟩ muchana wasiykichikta ch'usaqchasaq, manam sumaq asiyta saqraykisaqchu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "churasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "llaqtaykichikta"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "llaqtaykichikta"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ch'usaq"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "ch'usaqchasaq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muchana wasiykichikta"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "muchana wasiykichikta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "manam"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "saqraykisaqchu"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "asiyta"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "sumaq"
+    }
+  ],
+  "timestamp": "2026-09-08T01:12:53.753877597Z",
+  "model": "glm-5.3"
+}

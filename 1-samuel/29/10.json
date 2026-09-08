@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 29,
+  "translation": "Kunanqa tutamanta sayariy, qam apunpa q'atipaqninkunawan, ⟨את⟩ qamwan hamuqkunawan; tutamanta sayariptiykichik, achikyasqataq, ripuychik.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kunanqa"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "tutamanta sayariy"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "q'atipaqninkuna"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "qam apunpa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hamuqkuna"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hamurqanku"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ qamwan",
+      "marks": "qamwan hamuqkuna"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "sayariptiykichik"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "achikyasqataq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "qamkunapaq"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ripuychik"
+    }
+  ],
+  "timestamp": "2026-09-08T04:27:01.558592620Z",
+  "model": "glm-5.3"
+}

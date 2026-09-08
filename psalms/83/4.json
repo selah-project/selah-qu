@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 83,
+  "translation": "Runaykikunamanta llawq'a wasichakuyta ruwanku, hinallataq pakasqa atiykikunamanta yuyaykunakunku.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "runaykikuna"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "llawq'a wasichakuyta ruwanku"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "wasichakuy"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "hinallataq yuyaykunakunku"
+    },
+    {
+      "surface": "על",
+      "gloss": "manta"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "pakasqa atiykikuna"
+    }
+  ],
+  "timestamp": "2026-09-08T10:06:05.584749207Z",
+  "model": "glm-5.3"
+}

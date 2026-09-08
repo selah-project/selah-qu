@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "qu",
+  "chapter": 20,
+  "translation": "Chaysi Yehonatanmi ⟨את⟩ Shaulta taytanta kutirirqan, payman nirqan: Imarayku wañuchikunqa? Ima ruwarqan?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "kutirirqan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaulta taytanta"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulta"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "taytanta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "nirqan"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "payman"
+    },
+    {
+      "surface": "למה",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "wañuchikunqa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ima"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ruwarqan"
+    }
+  ],
+  "timestamp": "2026-09-08T04:23:43.304031707Z",
+  "model": "glm-5.3"
+}

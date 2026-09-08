@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Hinaspa Moshem nirqan: «Kayhinam Yahwem nirqan: Tuta chawpinpim ñuqa Mitsrayimpa chawpinpin lluqsini».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "hinaspa … nirqanm"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kayhina"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nirqanm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "chawpinpi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tuta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "lluqsini"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "chawpinpin"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimpa"
+    }
+  ],
+  "timestamp": "2026-09-08T02:07:19.713704177Z",
+  "model": "glm-5.3"
+}

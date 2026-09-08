@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 22,
+  "translation": "Hinaspa ⟨את⟩ Kesedta (Kesed), hinaspa ⟨את⟩ Hazota (Hazo), hinaspa ⟨את⟩ Pildashta (Pildash), hinaspa ⟨את⟩ Yidlata (Yidlaf), hinaspa ⟨את⟩ Betuelta (Betuel).",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Kesedta"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Kesed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Hazota"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Hazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Pildashta"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Pildash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Yidlata"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Yidlaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hinaspa ⟨את⟩",
+      "marks": "Betuelta"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuel"
+    }
+  ],
+  "timestamp": "2026-09-07T23:58:13.906830880Z",
+  "model": "glm-5.3"
+}

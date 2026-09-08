@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 145,
+  "translation": "Yahwepa kamachikuyninpa k'anchayninta willanku, atiynintawan rimanku.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "k'anchayninta"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "kamachikuyniyki"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "willanku"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "atiyniykiwan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "rimanku"
+    }
+  ],
+  "timestamp": "2026-09-08T10:32:30.968754430Z",
+  "model": "glm-5.3"
+}

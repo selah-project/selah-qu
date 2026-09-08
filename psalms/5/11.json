@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 5,
+  "translation": "Elohim, paykunata hatun huchayuq rikurichiy; yuyayninkunamanta urmakunchiku; askha thakikayninkuwan qarqokunaku, imaraykuchus qamwan thakyarqankum.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "paykunata hatun huchayuq rikurichiy"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "urmakunchiku"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "yuyayninkunamanta"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "askha"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "thakikayninkuwan"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "qarqokunaku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "thakyarqankum"
+    },
+    {
+      "surface": "בך",
+      "gloss": "qamwan"
+    }
+  ],
+  "timestamp": "2026-09-08T09:26:40.865616208Z",
+  "model": "glm-5.3"
+}

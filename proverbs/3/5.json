@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "qu",
+  "chapter": 3,
+  "translation": "Llapa sunquykiwan Yahweman iñiy; ñawpaq yachayniykiwan manataq apoykachaychu.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "iñiy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "sunquykiwan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "manataq"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "ñawpaq yachayniykiwan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ama"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "apoykachaychu"
+    }
+  ],
+  "timestamp": "2026-09-08T10:36:00.353255276Z",
+  "model": "glm-5.3"
+}

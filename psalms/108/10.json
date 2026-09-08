@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 108,
+  "translation": "Moabqa mayllana mankaymi ⟨kan⟩; Edompa patanpi ushutayta wisch'usaqmi; Pelesetpa patanpi qaparisaqmi atinispa.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab (Moab)"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "manka"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "mayllanay"
+    },
+    {
+      "surface": "על",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom (Edom)"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "wisch'usaqmi"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "ushutay"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "patanpi"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleset (Filistea)"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "qaparisaqmi"
+    }
+  ],
+  "timestamp": "2026-09-08T14:37:14.750760251Z",
+  "model": "glm-5.3"
+}

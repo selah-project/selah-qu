@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Hinaspa sichus uywam Yahweman korban hina haywarikun, chaymanta paqarin Yahweman qusqan tukuy imapas willka kanqam.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "hinaspa sichus"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "uywa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "haywarikun"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tukuy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chay"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "qusqan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "chaymanta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahweman"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kanqa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "willka"
+    }
+  ],
+  "timestamp": "2026-09-08T01:14:23.375701973Z",
+  "model": "glm-5.3"
+}

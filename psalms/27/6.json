@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 27,
+  "translation": "Chaymi kunan ñuqap umay awqaynikunap hawanpi hanaq kanqa; wasinpi q'uchu ofrendakunata churasaq; takisaq, Yahwepaq takirqasaq.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Chaymi kunan"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "hanaq kanqa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ñuqap umay"
+    },
+    {
+      "surface": "על",
+      "gloss": "hawanpi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "awqaynikunap"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "ñuqap muyuriqninpi"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "churasaq"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "wasinpi"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ofrendakunata"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "q'uchu"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "takisaq"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "takirqasaq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwepaq"
+    }
+  ],
+  "timestamp": "2026-09-08T09:39:34.650201798Z",
+  "model": "glm-5.3"
+}

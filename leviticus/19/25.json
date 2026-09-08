@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "qu",
+  "chapter": 19,
+  "translation": "Chaysi pichqa ñiqin watapi mik'unkichik ⟨את⟩ paypa rurunta, paypa t'ikraysqan ñawpaqninchikman yapananpaq; ñuqam Yahwe, Elohimniykichikmi.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "chay watapi"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "pichqa ñiqin"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mik'unkichik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paypa rurunta"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "paypa rurunta"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "yapananpaq"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ñawpaqninchikman"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "paypa t'ikraysqan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimniykichik"
+    }
+  ],
+  "timestamp": "2026-09-08T01:04:26.107588884Z",
+  "model": "glm-5.3"
+}

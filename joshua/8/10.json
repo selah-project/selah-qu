@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Yehoshuam araw tutamanta saykurqan, ⟨את⟩ runakunata yupaykachirqan; paymi hinaspa Israel kurakakunawan runakunap ñawpaqnin HaAyman wicharqanku.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "araw saykurqan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tutamanta"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "yupaykachirqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "runakunata"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunata"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wicharqanku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "paymi"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "hinaspa kurakakuna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ñawpaqnin"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakunap"
+    },
+    {
+      "surface": "העי",
+      "gloss": "HaAyman"
+    }
+  ],
+  "timestamp": "2026-09-08T03:13:57.350439301Z",
+  "model": "glm-5.3"
+}

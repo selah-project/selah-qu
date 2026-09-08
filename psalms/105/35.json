@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 105,
+  "translation": "Hinaspa mikhurqan llapa q'omer hallp'inkupi; hinaspa mikhurqan phalinchanpa aynuqanpa misk'inchatapas.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "hinaspa mikhurqan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "q'omer"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "hallp'inkupi"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "hinaspa mikhurqan"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "misk'inqan"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "aynuqanpa"
+    }
+  ],
+  "timestamp": "2026-09-08T10:16:11.260790617Z",
+  "model": "glm-5.3"
+}

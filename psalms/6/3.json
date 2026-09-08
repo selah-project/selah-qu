@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 6,
+  "translation": "Ñuqata khuyaway, Yahwe, unquymi kani; ñuqata hampiway, Yahwe, tulluykunam manchakurqanku.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "khuyaway ñuqata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "unquymi kani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ñuqa"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "hampiway ñuqata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imarayku"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "manchakurqanku"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "tulluykuna"
+    }
+  ],
+  "timestamp": "2026-09-08T09:27:08.425753554Z",
+  "model": "glm-5.3"
+}

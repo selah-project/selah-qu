@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "qu",
+  "chapter": 16,
+  "translation": "Chayarqanmi apu, llapan runakuna ⟨את⟩ paywan kachkasqa, sayk'usqalla; chaypimi samarqanku.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "chayarqan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "apu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "llapan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "runakuna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ima⟩"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ paywan",
+      "marks": "paywan"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "sayk'usqalla"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "samarqanku"
+    },
+    {
+      "surface": "שם",
+      "gloss": "chaypi"
+    }
+  ],
+  "timestamp": "2026-09-08T04:45:05.077826118Z",
+  "model": "glm-5.3"
+}

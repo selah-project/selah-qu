@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 39:13",
+  "book": "exodus",
+  "lang": "qu",
+  "chapter": 39,
+  "translation": "Hinaspa tawa ñiqin t'uripi Tarshish, shoham, hinaspa yashepe karqanmi; quri wasichaykunapi ch'ikusqa, hunt'achisqankupi.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "hinaspa tawa ñiqin t'uri"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "tawa ñiqin"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "hinaspa yashepe"
+    },
+    {
+      "surface": "מוסבת",
+      "gloss": "ch'ikusqa"
+    },
+    {
+      "surface": "משבצות",
+      "gloss": "wasichaykuna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "quri"
+    },
+    {
+      "surface": "במלאתם",
+      "gloss": "hunt'achisqankupi"
+    }
+  ],
+  "timestamp": "2026-09-08T00:47:32.410323535Z",
+  "model": "glm-5.3"
+}

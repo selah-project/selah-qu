@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 97,
+  "translation": "Hanaq pacham paypa chaninchayninta willarqan, llapa runakunap ayllukunanpas paypa sumaq k'anchayninta rikurqankum.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "willarqan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "hanaq pacham"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "paypa chaninchayninta"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "rikurqankum"
+    },
+    {
+      "surface": "כל",
+      "gloss": "llapa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "runakunap ayllukunanpas"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "paypa sumaq k'anchayninta"
+    }
+  ],
+  "timestamp": "2026-09-08T10:13:07.988235388Z",
+  "model": "glm-5.3"
+}

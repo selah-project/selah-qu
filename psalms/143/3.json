@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 143,
+  "translation": "Imaraykuchus awqaymi Nefeshniyta qatikachan, kawsaynita hallp'aman thaqaykun, ñuqata q'arakunapi tiyachin wiñay wañusqakuna hina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "qatikachan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "awqay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Nefeshniyta"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "thaqaykun"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "hallp'aman"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "kawsaynita"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ñuqata tiyachin"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "q'arakunapi"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "wañusqakuna hina"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wiñay"
+    }
+  ],
+  "timestamp": "2026-09-08T10:31:43.090003997Z",
+  "model": "glm-5.3"
+}

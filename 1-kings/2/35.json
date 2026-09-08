@@ -1,0 +1,79 @@
+{
+ "tier": "glm-5.2",
+ "verse": 35,
+ "ref": "1-kings 2:35",
+ "book": "1-kings",
+ "lang": "qu",
+ "chapter": 2,
+ "translation": "Chaysi apum Benayahuta, Yehoyada churita, paypa tiyananpi awqakunap kamachikuyninman churarqan; Tsadok (Sadoc) kohentaq apum Avyatar (Abiatar)pa tiyananman churarqan.",
+ "tokens": [
+  {
+   "surface": "ויתן",
+   "gloss": "churarqan"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "apum"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "Benayahuta"
+  },
+  {
+   "surface": "בניהו",
+   "gloss": "Benayahuta"
+  },
+  {
+   "surface": "בן",
+   "gloss": "churita"
+  },
+  {
+   "surface": "יהוידע",
+   "gloss": "Yehoyada"
+  },
+  {
+   "surface": "תחתיו",
+   "gloss": "paypa tiyananpi"
+  },
+  {
+   "surface": "על",
+   "gloss": "kamachikuyninman"
+  },
+  {
+   "surface": "הצבא",
+   "gloss": "awqakunap"
+  },
+  {
+   "surface": "ואת",
+   "gloss": "hinaspa ⟨את⟩",
+   "marks": "Tsadokta"
+  },
+  {
+   "surface": "צדוק",
+   "gloss": "Tsadok"
+  },
+  {
+   "surface": "הכהן",
+   "gloss": "kohen"
+  },
+  {
+   "surface": "נתן",
+   "gloss": "churarqantaq"
+  },
+  {
+   "surface": "המלך",
+   "gloss": "apum"
+  },
+  {
+   "surface": "תחת",
+   "gloss": "tiyananman"
+  },
+  {
+   "surface": "אביתר",
+   "gloss": "Avyatarpa"
+  }
+ ],
+ "timestamp": "2026-09-08T04:57:17.612345716Z",
+ "model": "glm-5.3"
+}

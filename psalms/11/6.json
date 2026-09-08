@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 11,
+  "translation": "Resha'kuna patapi paramunqaku: p'akiyaq narita, nina hinaspa azufreta, hinallataq sinchi wayracha — kaymi paykunap k'anchanpa churan, paykunap qiruankanpa chiknin.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "paramunqaku"
+    },
+    {
+      "surface": "על",
+      "gloss": "patapi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "resha'kuna"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "p'akiyaq narita"
+    },
+    {
+      "surface": "אש",
+      "gloss": "nina"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "hinaspa azufreta"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "hinallataq wayracha"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "sinchi"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "chiknin"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "paykunap qiruankanpa"
+    }
+  ],
+  "timestamp": "2026-09-08T09:31:45.936778326Z",
+  "model": "glm-5.3"
+}

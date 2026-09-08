@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "qu",
+  "chapter": 136,
+  "translation": "Hinaspa awqanchikkunamanta liberarqanmi ñuqanchikta, imaraykuchus wiñay kamanataqmi paypa jesednin.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "hinaspa liberarqanmi ñuqanchikta"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "awqanchikkunamanta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "imaraykuchus"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "wiñay kamanataqmi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "paypa jesednin"
+    }
+  ],
+  "timestamp": "2026-09-08T10:28:50.607110908Z",
+  "model": "glm-5.3"
+}

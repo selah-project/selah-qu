@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 8:5",
+  "book": "genesis",
+  "lang": "qu",
+  "chapter": 8,
+  "translation": "Hinaspa unukuna purispa purispa pisikuspa karqanmi, chunka kaq killakama; chunka kaq killapin, killap huk ñiqin p'unchawpin, orqokunap umakuna rikhurirqaku.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "hinaspa unukuna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "karqan"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "purispa"
+    },
+    {
+      "surface": "וחסור",
+      "gloss": "purispa pisikuspa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kama"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "killa"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "chunka kaq"
+    },
+    {
+      "surface": "בעשירי",
+      "gloss": "chunka kaq killapi"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "huk ñiqin p'unchawpi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "killap"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "rikhurirqaku"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umakuna"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "orqokunap"
+    }
+  ],
+  "timestamp": "2026-09-07T23:52:34.307585116Z",
+  "model": "glm-5.3"
+}

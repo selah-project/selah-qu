@@ -71,3 +71,8 @@ grammar, not erasure — *Yahwepa*, *Yahweman*, *Yahwewan*,
 Yahwe's own speaking. Supplied words only in ⟨⟩; no English or Spanish
 words survive in the line, brackets included. Letter-faithfulness
 outranks readability.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.

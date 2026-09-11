@@ -164,7 +164,7 @@ willakuyninpas Selah llamk'aypa kikin llamk'ayninmi.
 
 ## Selahta yanapay
 
-<https://selahproject.org>
+<https://selahproject.com>
 
 ---
 
